@@ -1,4 +1,4 @@
-# Kategoriträd för svenska lokalnyheter
+# Category tree for Swedish local news
 
 This tree is mainly developed for local newsrooms in Sweden. It's inspired by the [IPTC standard for news](http://show.newscodes.org/index.html?newscodes=medtop&lang=en-GB&startTo=Show) but a lot has been added, removed and changed to better suite Swedish institutions and interests. The supported formats are Yaml and JSON. The Yaml-file `categories-coded.yml` is the master file, any suggested changes or pull requests should reference this file.
 
@@ -22,4 +22,22 @@ If two trees differ by the second most significant number this means that in add
 
 #### Differing versions of tree: x.x.x vs. y.y.y
 
-In addition to changes described in the least significant and second most significant number, if the trees differ in the most significant number categories have been moved which results in structure differences between two trees. A code from one tree might map to a completely different category in another tree. You should consult the change log to figure out how to best migrate content with categories from the two different trees.
+In addition to changes described in the least significant and second most significant number, if the trees differ in the most significant number categories have been moved which results in structural differences between two trees. A code from one tree might map to a completely different category in another tree. You should consult the change log to figure out how to best migrate content with categories from the two different trees.
+
+## Contributing to the repository
+
+The guidelines for contributing to the repository is laid out in [CONTRIBUTING.md](https://github.com/mittmedia/swedish-local-news-categories/blob/master/CONTRIBUTING.md)
+
+## Running the generate script
+
+The script has been tested with Python 3.6. You run it with this command.
+
+```
+python generate_from_yml.py
+```
+
+It should overwrite the files in the directory `dist`.
+
+## License
+
+The Category tree for Swedish local news uses the MIT License.
