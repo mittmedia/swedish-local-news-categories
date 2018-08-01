@@ -12,6 +12,11 @@ category_codes = set([c['code'] for c in categories_dict['categories']])
 if len(categories_dict['categories']) != len(category_codes):
 	sys.exit("Error! Category codes need to be unique!")
 
+for category in categories_dict['categories']:
+	tokenized_code = category['code'].split('-')
+	if (category['level'] + 1) != len(tokenized_code):
+		sys.exit("Level for category " + category['code'] + " is incorrect!")
+
 for category_code in category_codes:
 	last_hyphen_position = category_code.rfind("-")
 

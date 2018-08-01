@@ -4083,7 +4083,7 @@
         {
             "code": "RYF-QPR-HGB-YTM-NIM",
             "description": "",
-            "level": 5,
+            "level": 4,
             "name": "Division 1"
         },
         {
@@ -4101,7 +4101,7 @@
         {
             "code": "RYF-QPR-HGB-YTM-NIM-EBD",
             "description": "",
-            "level": 4,
+            "level": 5,
             "name": "Syd"
         },
         {
@@ -4113,7 +4113,7 @@
         {
             "code": "RYF-QPR-HGB-OQU-KCB",
             "description": "",
-            "level": 3,
+            "level": 4,
             "name": "Elitserien"
         },
         {
@@ -4131,25 +4131,25 @@
         {
             "code": "RYF-QPR-HGB-OQU-BQZ-EKM",
             "description": "",
-            "level": 4,
+            "level": 5,
             "name": "Nedre Norrland"
         },
         {
             "code": "RYF-QPR-HGB-OQU-BQZ-EBZ",
             "description": "",
-            "level": 4,
+            "level": 5,
             "name": "Övre Norrland"
         },
         {
             "code": "RYF-QPR-HGB-OQU-BQZ-BQZ",
             "description": "",
-            "level": 4,
+            "level": 5,
             "name": "Södra"
         },
         {
             "code": "RYF-QPR-HGB-OQU-BQZ-COW",
             "description": "",
-            "level": 4,
+            "level": 5,
             "name": "Västra"
         },
         {
@@ -5217,7 +5217,7 @@
         {
             "code": "RYF-QPR-HGB-BQN-KNN-SYG",
             "description": "",
-            "level": 4,
+            "level": 5,
             "name": "norra CD"
         },
         {

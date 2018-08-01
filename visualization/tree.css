@@ -1,0 +1,47 @@
+body, html {
+	padding: 0;
+	margin: 0;
+	overflow: hidden;
+  font-family: sans-serif;
+}
+.node {
+	cursor: pointer;
+}
+
+.node circle {
+  fill: #fff;
+  stroke: #3f98c4;
+  stroke-width: 3px;
+}
+
+.node text {
+  font: 12px sans-serif;
+}
+
+.link {
+  fill: none;
+  stroke: #ccc;
+  stroke-width: 2px;
+}
+
+.info-box {
+  width: 440px;
+  position: absolute;
+  right: 0;
+  padding: 10px;
+}
+
+.tag {
+  padding: 5px;
+  width: 120px;
+  text-align: right;
+  display: inline-block;
+  vertical-align: top;
+  font-weight: bold;
+}
+
+.tag-value {
+  padding: 5px;
+  display: inline-block;
+  width: 220px;
+}
