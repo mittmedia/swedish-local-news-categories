@@ -4645,7 +4645,7 @@
             "name": "GUD"
         },
         {
-            "code": "RYF-QPR-HGB-QHJ-RXO-ZDX",
+            "code": "RYF-QPR-HGB-QHJ-OTJ-ZDX",
             "description": "",
             "level": 5,
             "name": "Göteborg"
@@ -5149,7 +5149,7 @@
             "name": "Västsvenska västra"
         },
         {
-            "code": "RYF-QPR-HGB-BQN-XFL",
+            "code": "RYF-QPR-HGB-BQN",
             "description": "",
             "level": 3,
             "name": "Ishockey"
@@ -8515,5 +8515,5 @@
             "name": "Vädervarning"
         }
     ],
-    "version": "0.9.0"
+    "version": "1.0.0"
 }

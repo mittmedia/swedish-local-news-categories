@@ -3201,7 +3201,7 @@ categories:
   description: ''
   level: 5
   name: GUD
-- code: RYF-QPR-HGB-QHJ-RXO-ZDX
+- code: RYF-QPR-HGB-QHJ-OTJ-ZDX
   description: ''
   level: 5
   name: Göteborg
@@ -3537,7 +3537,7 @@ categories:
   description: ''
   level: 5
   name: Västsvenska västra
-- code: RYF-QPR-HGB-BQN-XFL
+- code: RYF-QPR-HGB-BQN
   description: ''
   level: 3
   name: Ishockey
@@ -5797,4 +5797,4 @@ categories:
   description: Varningar till den allmänna befolkningen om kraftigt väder
   level: 2
   name: Vädervarning
-version: 0.10.0
+version: 1.0.0
