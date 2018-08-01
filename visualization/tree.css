@@ -14,6 +14,13 @@ body, html {
   stroke-width: 3px;
 }
 
+.node .node-box {
+  stroke-width: 1px;
+  stroke: rgba(100,100,100,0.4);
+  rx: 10px;
+  ry: 10px;
+}
+
 .node text {
   font: 12px sans-serif;
 }

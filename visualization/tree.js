@@ -76,33 +76,76 @@ fetch("/dist/categories-coded.json")
     infoBox.querySelector("#description").innerHTML = source.description;
     infoBox.querySelector("#code").innerHTML = source.code;
 
+    var circleRadius = 10;
+    var paddingLeftRight = 18; // adjust the padding values depending on font and font size
+    var paddingTopBottom = 5;
+
     // Compute the new tree layout.
     var nodes = tree.nodes(root).reverse(),
-  	  links = tree.links(nodes);
+      links = tree.links(nodes);
 
     // Normalize for fixed-depth.
     nodes.forEach(function(d) { d.y = d.depth * 180; });
 
     // Update the nodes…
     var node = svg.selectAll("g.node")
-  	  .data(nodes, function(d) { return d.id || (d.id = ++i); });
+      .data(nodes, function(d) { return d.id || (d.id = ++i); });
 
     // Enter any new nodes at the parent's previous position.
     var nodeEnter = node.enter().append("g")
-  	  .attr("class", "node")
-  	  .attr("transform", function(d) { return "translate(" + source.y0 + "," + source.x0 + ")"; })
-  	  .on("click", click);
+      .attr("class", "node")
+      .attr("transform", function(d) { return "translate(" + source.y0 + "," + source.x0 + ")"; })
+      .on("click", click);
 
     nodeEnter.append("circle")
-  	  .attr("r", 1e-6)
-  	  .style("fill", function(d) { return d._children ? "lightsteelblue" : "#fff"; });
+      .attr("r", 1e-6)
+      .style("fill", function(d) { return d._children ? "lightsteelblue" : "#fff"; });
+
+    let nodeGradient = nodeEnter.append("linearGradient")
+      .attr("id", "boxGradient")
+      .attr("x1", "0%")
+      .attr("x2", "0%")
+      .attr("y1", "0%")
+      .attr("y2", "100%");
+
+    nodeGradient.append("stop")
+      .attr("offset", "0%")
+      .attr("stop-color", "white")
+      .attr("stop-opacity", 0.4);
+
+    nodeGradient.append("stop")
+      .attr("offset", "50%")
+      .attr("stop-color", "white")
+      .attr("stop-opacity", 1);
+
+    nodeGradient.append("stop")
+      .attr("offset", "100%")
+      .attr("stop-color", "white")
+      .attr("stop-opacity", 0.4);
+
+      nodeEnter.append("rect")
+      .style("opacity", 1e-6)
+      .attr("fill", "url(#boxGradient)");
 
     nodeEnter.append("text")
-  	  .attr("x", function(d) { return d.children || d._children ? -13 : 13; })
-  	  .attr("dy", ".35em")
-  	  .attr("text-anchor", function(d) { return d.children || d._children ? "end" : "start"; })
-  	  .text(function(d) { return d.name; })
-  	  .style("fill-opacity", 1e-6);
+      .attr("x", function(d) { return d.children || d._children ? -circleRadius*2 : circleRadius*2; })
+      .attr("dy", "5.6px")
+      .attr("text-anchor", function(d) { return d.children || d._children ? "end" : "start"; })
+      .text(function(d) { return d.name; })
+      .style("fill-opacity", 1e-6);
+
+    nodeEnter.selectAll("text").each(function(d) {
+        d.bb = this.getBBox(); // get bounding box of text field and store it in texts array
+    });
+    nodeEnter.selectAll("rect")
+      .attr('class', 'node-box')
+      .attr("x", function (d) {
+        const F = (d.children || d._children ? -1 : 0);
+        return F * d.bb.width + F * paddingLeftRight + (2*F+1) * (circleRadius + 3);
+      })
+      .attr("y", function(d) { return -d.bb.height + paddingTopBottom; })
+      .attr("width", function(d) { return d.bb.width + paddingLeftRight; })
+      .attr("height", function(d) { return d.bb.height + paddingTopBottom; });
 
     // Transition nodes to their new position.
     var nodeUpdate = node.transition()
@@ -110,7 +153,7 @@ fetch("/dist/categories-coded.json")
   	  .attr("transform", function(d) { return "translate(" + d.y + "," + d.x + ")"; });
 
     nodeUpdate.select("circle")
-  	  .attr("r", 10)
+  	  .attr("r", circleRadius)
   	  .style("fill", function(d) {
         if (d._children) return "lightsteelblue";
         if (d.code === source.code) return "#9ACD32";
@@ -118,7 +161,9 @@ fetch("/dist/categories-coded.json")
       });
 
     nodeUpdate.select("text")
-  	  .style("fill-opacity", 1);
+      .style("fill-opacity", 1);
+    nodeUpdate.select("rect")
+  	  .style("opacity", 1); //function (d) { return d.children || d._children ? 1 : 1e-6 });
 
     // Transition exiting nodes to the parent's new position.
     var nodeExit = node.exit().transition()
@@ -130,7 +175,9 @@ fetch("/dist/categories-coded.json")
   	  .attr("r", 1e-6);
 
     nodeExit.select("text")
-  	  .style("fill-opacity", 1e-6);
+      .style("fill-opacity", 1e-6);
+    nodeExit.select("rect")
+  	  .style("opacity", 1e-6);
 
     // Update the links…
     var link = svg.selectAll("path.link")
