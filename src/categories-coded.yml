@@ -5717,7 +5717,7 @@ categories:
   description: En demonstration är en folkmassa som samlats för att offentligt uttrycka
     en opinion i en politisk eller annan fråga
   level: 3
-  name: Demostration
+  name: Demonstration
 - code: RYF-WXT-BND-JKN
   description: Olydnad av medborgare med avsikt att störta regeringen
   level: 3
@@ -5797,4 +5797,4 @@ categories:
   description: Varningar till den allmänna befolkningen om kraftigt väder
   level: 2
   name: Vädervarning
-version: 1.0.0
+version: 1.0.1

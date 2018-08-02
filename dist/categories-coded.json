@@ -8404,7 +8404,7 @@
             "code": "RYF-WXT-BND-ATO",
             "description": "En demonstration är en folkmassa som samlats för att offentligt uttrycka en opinion i en politisk eller annan fråga",
             "level": 3,
-            "name": "Demostration"
+            "name": "Demonstration"
         },
         {
             "code": "RYF-WXT-BND-JKN",
@@ -8515,5 +8515,5 @@
             "name": "Vädervarning"
         }
     ],
-    "version": "1.0.0"
+    "version": "1.0.1"
 }
