@@ -24,7 +24,7 @@ If two trees differ by the second most significant number this means that in add
 
 #### Differing versions of tree: x.x.x vs. y.y.y
 
-In addition to changes described in the least significant and second most significant number, if the trees differ in the most significant number categories have been moved which results in structural differences between two trees. A code from one tree might map to a completely different category in another tree. You should consult the change log to figure out how to best migrate content with categories from the two different trees.
+In addition to changes described in the least significant and second most significant number, if the trees differ in the most significant number categories have been moved which results in structural differences between two trees. A code from one tree might map to a completely different category in another tree. You should consult the [change log](https://github.com/mittmedia/swedish-local-news-categories/blob/master/CHANGELOG.md) to figure out how to best migrate content with categories from the two different trees.
 
 ## Contributing to the repository
 
