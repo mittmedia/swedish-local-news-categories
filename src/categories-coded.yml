@@ -1198,7 +1198,7 @@ categories:
 - code: RYF-YDR
   description: ''
   level: 1
-  name: Skola och utbildning
+  name: Skola & utbildning
 - code: RYF-YDR-YJA
   description: Driftsform mellan privat och offentligt för skolor, fritidshem och
     förskolor
@@ -1365,7 +1365,7 @@ categories:
 - code: RYF-WUU
   description: ''
   level: 1
-  name: Hälsa och sjukvård
+  name: Hälsa & sjukvård
 - code: RYF-WUU-JZK
   description: ''
   level: 2
@@ -2236,7 +2236,7 @@ categories:
 - code: RYF-ITV
   description: ''
   level: 1
-  name: Religion och tro
+  name: Religion & tro
 - code: RYF-ITV-LPR
   description: ''
   level: 2
@@ -2505,7 +2505,7 @@ categories:
   description: Artiklar som rör samhällsfrågor som till exempel välfärden, olika människogrupper
     och sociala problem
   level: 1
-  name: Samhälle och välfärd
+  name: Samhälle & välfärd
 - code: RYF-HPT-ZSS
   description: Grupp av människor som hålls samman av geografiska, administrativa
     eller sociala relationer.

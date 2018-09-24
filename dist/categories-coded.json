@@ -1738,7 +1738,7 @@
             "code": "RYF-YDR",
             "description": "",
             "level": 1,
-            "name": "Skola och utbildning"
+            "name": "Skola & utbildning"
         },
         {
             "code": "RYF-YDR-YJA",
@@ -1966,7 +1966,7 @@
             "code": "RYF-WUU",
             "description": "",
             "level": 1,
-            "name": "Hälsa och sjukvård"
+            "name": "Hälsa & sjukvård"
         },
         {
             "code": "RYF-WUU-JZK",
@@ -3220,7 +3220,7 @@
             "code": "RYF-ITV",
             "description": "",
             "level": 1,
-            "name": "Religion och tro"
+            "name": "Religion & tro"
         },
         {
             "code": "RYF-ITV-LPR",
@@ -3616,7 +3616,7 @@
             "code": "RYF-HPT",
             "description": "Artiklar som rör samhällsfrågor som till exempel välfärden, olika människogrupper och sociala problem",
             "level": 1,
-            "name": "Samhälle och välfärd"
+            "name": "Samhälle & välfärd"
         },
         {
             "code": "RYF-HPT-ZSS",
@@ -8515,5 +8515,5 @@
             "name": "Vädervarning"
         }
     ],
-    "version": "1.0.1"
+    "version": "1.0.2"
 }
