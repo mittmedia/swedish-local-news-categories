@@ -1,6 +1,10 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [1.1.0] - 2018-11-15
+### Changes
+- Added categories `RYF-TKT-MRA-CMW` "Snöskoter", `RYF-QPR-HGB-VXP` "Skotercross" and `RYF-QPR-HGB-DEN-BBS` "Svenska cupen dam"
+
 ## [1.0.2] - 2018-08-02
 ### Changes
 - Replaced "och" with "&" for categories `RYF-YDR`, `RYF-WUU`, `RYF-ITV` and `RYF-HPT`

@@ -2653,6 +2653,12 @@
             "name": "MC-entusiasm"
         },
         {
+            "code": "RYF-TKT-MRA-CMW",
+            "description": "",
+            "level": 3,
+            "name": "Snöskoter"
+        },
+        {
             "code": "RYF-TKT-MRA-KWO",
             "description": "",
             "level": 3,
@@ -5521,6 +5527,12 @@
             "name": "Folkrace"
         },
         {
+            "code": "RYF-QPR-HGB-VXP",
+            "description": "",
+            "level": 3,
+            "name": "Skotercross"
+        },
+        {
             "code": "RYF-QPR-HGB-EOW",
             "description": "",
             "level": 3,
@@ -7207,6 +7219,12 @@
             "name": "Svenska cupen herr"
         },
         {
+            "code": "RYF-QPR-HGB-DEN-BBS",
+            "description": "",
+            "level": 4,
+            "name": "Svenska cupen dam"
+        },
+        {
             "code": "RYF-QPR-HGB-DEN-HSA",
             "description": "",
             "level": 4,
@@ -8515,5 +8533,5 @@
             "name": "Vädervarning"
         }
     ],
-    "version": "1.0.2"
+    "version": "1.1.0"
 }
