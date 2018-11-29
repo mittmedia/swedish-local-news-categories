@@ -6,14 +6,13 @@ categories:
 - code: RYF-XKI
   description: ''
   level: 1
-  name: Kultur & Nöje
+  name: Kultur & nöje
 - code: RYF-XKI-CDA
-  description: Om artikeln handlar om animerad konst. T.ex tecknad eller dataanimerad
-    film
+  description: Om artikeln handlar om animerad konst. Till exempel tecknad eller dataanimerad film
   level: 2
   name: Animation
 - code: RYF-XKI-TMS
-  description: T.ex "Bamse", "Fantomen" och "Nemi"
+  description: Till exempel "Bamse", "Fantomen" och "Nemi"
   level: 2
   name: Tecknad serie
 - code: RYF-XKI-JIJ
@@ -33,8 +32,7 @@ categories:
   level: 3
   name: Modern dans
 - code: RYF-XKI-WEG-ZEZ
-  description: En typ av dans vanligtvis som en social aktivitet. Omfattar ceremoniell
-    och folkdans
+  description: En typ av dans vanligtvis som en social aktivitet. Omfattar ceremoniell och folkdans
   level: 3
   name: Traditionell dans
 - code: RYF-XKI-YFJ
@@ -42,12 +40,11 @@ categories:
   level: 2
   name: Litteratur
 - code: RYF-XKI-YFJ-XZQ
-  description: Litteratur som inte nödvändigtvis behöver baseras på fakta. T.ex "Harry
-    Potter" och "Arn"
+  description: Litteratur som inte nödvändigtvis behöver baseras på fakta. Till exempel "Harry Potter" och "Arn"
   level: 3
   name: Skönlitteratur
 - code: RYF-XKI-YFJ-ZBW
-  description: Litteratur med fakta för att lära sig mer om ett ämne. T.ex matematikböcker
+  description: Litteratur med fakta för att lära sig mer om ett ämne. Till exempel matematikböcker
   level: 3
   name: Facklitteratur
 - code: RYF-XKI-YFJ-HKG
@@ -93,7 +90,7 @@ categories:
 - code: RYF-XKI-FEY-VVW-XGJ
   description: ''
   level: 4
-  name: Hip hop & RNB
+  name: Hiphop & RNB
 - code: RYF-XKI-FEY-VVW-BJY
   description: ''
   level: 4
@@ -119,8 +116,7 @@ categories:
   level: 2
   name: Teater & musikal
 - code: RYF-XKI-GJH-DLL
-  description: Dramaföreställningar som är en satir över något som hänt under det
-    gångna året
+  description: Dramaföreställningar som är en satir över något som hänt under det gångna året
   level: 3
   name: Revy
 - code: RYF-XKI-GJH-LNA
@@ -176,41 +172,35 @@ categories:
   level: 3
   name: Fotografi
 - code: RYF-XKI-LNE-SNR
-  description: Konstruktioner i keramik, sten, trä, metall eller andra fasta material
-    i konstsyfte
+  description: Konstruktioner i keramik, sten, trä, metall eller andra fasta material i konstsyfte
   level: 3
   name: Skulptur
 - code: RYF-XKI-IUV
-  description: Används till arkitektur. T.ex arkitekturtävlingar, åsikter om byggnaders
-    utseende
+  description: Används till artiklar om arkitektur. Till exempel arkitekturtävlingar, åsikter om byggnaders utseende
   level: 2
   name: Arkitektur
 - code: RYF-XKI-DEG
-  description: Använd för historia om kultur. T.ex återblick på kulturprofils arbete,
-    hur en musikgenre uppstod
+  description: Används för historia om kultur. Till exempel återblick på kulturprofils arbete, hur en musikgenre uppstod
   level: 2
   name: Kulturhistoria
 - code: RYF-XKI-IHA
-  description: T.ex diskussioner om när man skall slänga ut julgranen, hur man bör
-    hälsa på främlingar
+  description: Till exempel diskussioner om när man skall slänga ut julgranen, hur man bör hälsa på främlingar
   level: 2
-  name: Seder och traditioner
+  name: Seder & traditioner
 - code: RYF-XKI-VME
   description: ''
   level: 2
-  name: Stand-up comedy
+  name: Ståuppkomik
 - code: RYF-XKI-FXL
-  description: T.ex konserter, spelturneringar
+  description: Till exempel konserter, spelturneringar
   level: 2
   name: Underhållningsevenemang
 - code: RYF-XKI-ISL
-  description: Alla typer av händelser med en viss kulturell bakgrund inte nödvändigtvis
-    knuten till en fast tillfälle eller datum
+  description: Alla typer av händelser med en viss kulturell bakgrund, inte nödvändigtvis knuten till en fast tillfälle eller datum
   level: 2
   name: Kulturell fest eller händelse
 - code: RYF-XKI-PGP
-  description: Använd för reportage om språk. T.ex att kommunen stödjer ett nytt språk,
-    språkhistoria
+  description: Använd för reportage om språk. Till exempel att kommunen stödjer ett nytt språk, språkhistoria
   level: 2
   name: Språk
 - code: RYF-XKI-SFU
@@ -218,7 +208,7 @@ categories:
   level: 2
   name: Bibliotek & museum
 - code: RYF-XKI-YBJ
-  description: T.ex Höga Kustenområdet, fornlämningar
+  description: Till exempel Höga Kustenområdet, fornlämningar
   level: 2
   name: Kulturarv
 - code: RYF-XKI-HLO
@@ -228,31 +218,31 @@ categories:
 - code: RYF-XKI-BUS
   description: ''
   level: 2
-  name: Tv, streaming & radio
+  name: Tv, radio & streaming
 - code: RYF-XKI-BUS-RWA
   description: Program som sänds av radiostationer
   level: 3
   name: Radio
 - code: RYF-XKI-BUS-NYP
-  description: T.ex "På Spåret", "Quizza med P3"
+  description: Till exempel "På Spåret", "Quizza med P3"
   level: 3
   name: Underhållingsprogram
 - code: RYF-XKI-BUS-IFX
-  description: T.ex "Tre Kronor", "Bonusfamiljen"
+  description: Till exempel "Tre Kronor", "Bonusfamiljen"
   level: 3
   name: Tv-serier
 - code: RYF-XKI-BUS-NXX
-  description: T.ex "Big Brother", "Gift vid första ögonkastet"
+  description: Till exempel "Big Brother", "Gift vid första ögonkastet"
   level: 3
   name: Reality-tv
 - code: RYF-XKI-BUS-PXU
-  description: Trendsättande personer som masskommunicerar med bl.a sociala medier
+  description: Trendsättande personer som masskommunicerar med bland annat sociala medier
   level: 3
   name: Influencers
 - code: RYF-BIZ
   description: ''
   level: 1
-  name: Brott & Straff
+  name: Brott & straff
 - code: RYF-BIZ-WZJ
   description: ''
   level: 2
@@ -290,8 +280,7 @@ categories:
   level: 4
   name: Sexualbrott mot barn
 - code: RYF-BIZ-WZJ-GSD
-  description: När it-teknik används för att begå brott. Brotten i sig kan vara av
-    vilken brottstyp som helst
+  description: När it-teknik används för att begå brott. Brotten i sig kan vara av vilken brottstyp som helst
   level: 3
   name: IT-brott
 - code: RYF-BIZ-WZJ-RPI
@@ -315,8 +304,7 @@ categories:
   level: 4
   name: Skattebrott
 - code: RYF-BIZ-WZJ-RPI-AFY
-  description: Handel med aktier av person med tillgång till intern information som
-    inte offentliggjorts
+  description: Handel med aktier av person med tillgång till intern information som inte offentliggjorts
   level: 4
   name: Insiderhandel
 - code: RYF-BIZ-WZJ-JDU
@@ -356,8 +344,7 @@ categories:
   level: 3
   name: Organiserad brottslighet
 - code: RYF-BIZ-WZJ-USP
-  description: Våld eller förstörelse för att med hjälp av rädsla uppnå politiska
-    eller ideologiska mål
+  description: Våld eller förstörelse för att med hjälp av rädsla uppnå politiska eller ideologiska mål
   level: 3
   name: Terrorism
 - code: RYF-BIZ-WZJ-GNO
@@ -365,8 +352,7 @@ categories:
   level: 3
   name: Stöld
 - code: RYF-BIZ-WZJ-MZM
-  description: Brott som begåtts under krig eller väpnad konflikt, vanligtvis mot
-    civila
+  description: Brott som begåtts under krig eller väpnad konflikt, vanligtvis mot civila
   level: 3
   name: Krigsbrott
 - code: RYF-BIZ-WZJ-ELD
@@ -394,8 +380,7 @@ categories:
   level: 3
   name: Övriga rättsärenden
 - code: RYF-BIZ-XSV-JUZ
-  description: Handlägger mål som främst rör tvister mellan enskilda personer och
-    myndigheter
+  description: Handlägger mål som främst rör tvister mellan enskilda personer och myndigheter
   level: 3
   name: Förvaltningsrätt
 - code: RYF-BIZ-XSV-JUZ-BQY
@@ -407,8 +392,7 @@ categories:
   level: 4
   name: Personrelaterat mål
 - code: RYF-BIZ-XSV-LCF
-  description: Lagar som omfattas av alla nationer, såsom Genèvekonventionen, International
-    Law of the Seas, etc.
+  description: Lagar som omfattas av alla nationer, till exempel Genèvekonventionen, International Law of the Seas och liknande
   level: 3
   name: Internationell rätt
 - code: RYF-BIZ-XSV-LCF-KVX
@@ -420,8 +404,7 @@ categories:
   level: 3
   name: Straff
 - code: RYF-BIZ-XSV-BII-FTR
-  description: Brottspåföljd för ett brott där påföljden inte bedöms kunna stanna
-    vid böter
+  description: Brottspåföljd för ett brott där påföljden inte bedöms kunna stanna vid böter
   level: 4
   name: Villkorlig dom
 - code: RYF-BIZ-XSV-BII-HDU
@@ -443,13 +426,13 @@ categories:
 - code: RYF-BIZ-LHX-PHV
   description: ''
   level: 3
-  name: Informationsverksamhet, spionage
+  name: Informationsverksamhet & spionage
 - code: RYF-BIZ-GCG
   description: ''
   level: 2
   name: Polisiärt arbete
 - code: RYF-BIZ-GCG-NCM
-  description: Gripande, anhållan, häktning
+  description: Gripande, anhållan, häktning eller liknande
   level: 3
   name: Frihetsberövande
 - code: RYF-BIZ-GCG-JSV
@@ -465,15 +448,13 @@ categories:
   level: 4
   name: Nedlagd förundersöking
 - code: RYF-AKM
-  description: Händelser som resulterar i skador på levande varelser eller skador
-    på egendom.
+  description: Händelser som resulterar i skador på levande varelser eller skador på egendom
   level: 1
-  name: Olyckor, katastrofer
+  name: Olyckor & katastrofer
 - code: RYF-AKM-QGJ
-  description: Alla typer av olyckor, tex. trafikolyckor, arbetsplatsolyckor, utsläpp
-    eller explosioner.
+  description: Alla typer av olyckor, till exempel trafikolyckor, arbetsplatsolyckor, utsläpp eller explosioner
   level: 2
-  name: Akut händelse, olycka
+  name: Olyckor
 - code: RYF-AKM-QGJ-TMT
   description: ''
   level: 3
@@ -507,8 +488,7 @@ categories:
   level: 3
   name: Byggnadsolycka
 - code: RYF-AKM-TGS
-  description: Allvarlig händelse där samhället inte står rustat att ta hand om konsekvenserna.
-    Exempelvis svält eller naturkatastrofer.
+  description: Allvarlig händelse där samhället inte står rustat att ta hand om konsekvenserna. Till exempel svält eller naturkatastrofer
   level: 2
   name: Katastrof
 - code: RYF-AKM-TGS-QGV
@@ -520,8 +500,7 @@ categories:
   level: 3
   name: Svält
 - code: RYF-AKM-AUE
-  description: Alla former av skadliga bränder. Exempelvis villabränder. Ej majbrasa
-    eller liknande.
+  description: Alla former av skadliga bränder. Till exempel villabränder. Ej majbrasa eller liknande
   level: 2
   name: Brand
 - code: RYF-AKM-AUE-MRU
@@ -541,12 +520,11 @@ categories:
   level: 3
   name: Fordonsbrand
 - code: RYF-AKM-TYE
-  description: 'Planering för åtgärder för att ta itu med plötsliga, oförutsedda händelser. '
+  description: Planering för åtgärder för att ta itu med plötsliga, oförutsedda händelser
   level: 2
   name: Beredskapsplanering
 - code: RYF-AKM-WDC
-  description: Arbetet med att undsätta personer eller samhällen i behov av hjälp
-    efter en katastrof.
+  description: Arbetet med att undsätta personer eller samhällen i behov av hjälp efter en katastrof
   level: 2
   name: Katastrofhjälp
 - code: RYF-IXA
@@ -568,7 +546,7 @@ categories:
 - code: RYF-IXA-LHV-QOI-RJL
   description: ''
   level: 4
-  name: Kommentarer & analys, ekonomi
+  name: Kommentarer & ekonomisk analys
 - code: RYF-IXA-LHV-QOI-TDN
   description: Nyheter om faktiska konkurs anmälningar
   level: 4
@@ -618,8 +596,7 @@ categories:
   level: 4
   name: Företagsgemensamma satsningar
 - code: RYF-IXA-LHV-GNH-GOH
-  description: Två eller flera företag som bildar ett nytt bolag genom uppköp eller
-    förvärv
+  description: Två eller flera företag som bildar ett nytt bolag genom uppköp eller förvärv
   level: 4
   name: Fusion eller förvärv
 - code: RYF-IXA-LHV-GNH-BDA
@@ -631,8 +608,7 @@ categories:
   level: 4
   name: Patent, upphovsrätt & varumärke
 - code: RYF-IXA-LHV-GNH-YVJ
-  description: Ett beslut av ett företag att ta tillbaka eller reparera en defekt
-    produkt
+  description: Ett beslut av ett företag att ta tillbaka eller reparera en defekt produkt
   level: 4
   name: Produktåterkallelse
 - code: RYF-IXA-LHV-DFG
@@ -706,7 +682,7 @@ categories:
 - code: RYF-IXA-KEV-BEL
   description: ''
   level: 3
-  name: IT, Datateknik
+  name: IT & datateknik
 - code: RYF-IXA-KEV-BEL-BJH
   description: ''
   level: 4
@@ -716,8 +692,7 @@ categories:
   level: 4
   name: Datornätverkstjänster
 - code: RYF-IXA-KEV-BEL-MRI
-  description: Hårdvara och mjukvara som gör det möjligt för markbaserade enheter
-    att skicka signaler till varandra via en satellit i omloppsbana.
+  description: Hårdvara och mjukvara som gör det möjligt för markbaserade enheter att skicka signaler till varandra via en satellit i omloppsbana
   level: 4
   name: Satellitteknik
 - code: RYF-IXA-KEV-BEL-LPY
@@ -731,7 +706,7 @@ categories:
 - code: RYF-IXA-KEV-BEL-HDC
   description: ''
   level: 4
-  name: Mjukvara, programvara
+  name: Mjukvara & programvara
 - code: RYF-IXA-KEV-BEL-OCZ
   description: ''
   level: 4
@@ -769,8 +744,7 @@ categories:
   level: 4
   name: Fastighetsaffärer
 - code: RYF-IXA-KEV-OTN-RBK
-  description: Återställa egenskaper / strukturer till en tidigare bättre tillstånd
-    genom rengöring
+  description: Återställa egenskaper eller strukturer till ett tidigare bättre tillstånd
   level: 4
   name: Renovering & restaurering
 - code: RYF-IXA-KEV-RQL
@@ -802,7 +776,7 @@ categories:
   level: 4
   name: Internethandel & postorder
 - code: RYF-IXA-KEV-RQL-QQF
-  description: Tändare, pennor och pappersvaror, porslin, klockor, glasögon etc
+  description: Till exempel tändare, pennor, pappersvaror, porslin, klockor eller glasögon
   level: 4
   name: Förbrukningsvaror
 - code: RYF-IXA-KEV-RQL-IDW
@@ -834,7 +808,7 @@ categories:
   level: 4
   name: Biobränslen
 - code: RYF-IXA-KEV-UBU-EUP
-  description: Exempelvis jordvärme och bergvärme.
+  description: Exempelvis jordvärme och bergvärme
   level: 4
   name: Geotermisk energi
 - code: RYF-IXA-KEV-UBU-FLQ
@@ -862,11 +836,11 @@ categories:
   level: 4
   name: Naturgas
 - code: RYF-IXA-KEV-UBU-SOG
-  description: Nyheter om t. ex. gasprospekt, oljehamnar och oljeborrning
+  description: Nyheter om till exempel gasprospekt, oljehamnar och oljeborrning
   level: 4
   name: Olja & gas
 - code: RYF-IXA-KEV-UBU-FVR
-  description: Nyheter om t. ex. höjning av bensinpriser och nedläggning av bensinmackar
+  description: Nyheter om till exempel höjning av bensinpriser eller nedläggning av bensinmackar
   level: 4
   name: Bensin
 - code: RYF-IXA-KEV-DOS
@@ -878,8 +852,7 @@ categories:
   level: 3
   name: Privat- & företagstjänster
 - code: RYF-IXA-KEV-VKR-MFC
-  description: Tjänster som erbjuder balansräkning av budget samt riktigheten av finansiella
-    rapporter
+  description: Tjänster som erbjuder balansräkning av budget samt riktigheten av finansiella rapporter
   level: 4
   name: Bokföring & revision
 - code: RYF-IXA-KEV-VKR-KHT
@@ -891,18 +864,15 @@ categories:
   level: 4
   name: Banktjänster
 - code: RYF-IXA-KEV-VKR-APV
-  description: Leverantörer av expertkunskap inom ett brett spektrum av områden, vanligtvis
-    tillfälligt
+  description: Leverantörer av expertkunskap inom ett brett spektrum av områden, vanligtvis tillfälligt
   level: 4
   name: Konsulttjänst
 - code: RYF-IXA-KEV-VKR-MVU
-  description: En tjänst som hjälper människor att hitta jobb och företag att hitta
-    arbetare
+  description: En tjänst som hjälper människor att hitta jobb och företag att hitta arbetare
   level: 4
   name: Bemanningsföretag
 - code: RYF-IXA-KEV-VKR-IRK
-  description: Företag som tillhandahåller städning och liknande tjänster för hem
-    och företag.
+  description: Företag som tillhandahåller städning och liknande tjänster för hem och företag
   level: 4
   name: Fastighetsskötsel
 - code: RYF-IXA-KEV-VKR-DTQ
@@ -918,12 +888,11 @@ categories:
   level: 4
   name: Begravningsbyrå & krematorier
 - code: RYF-IXA-KEV-VKR-UDU
-  description: Advokater och andra som hjälper företag och privatpersoner navigera
-    lagarna
+  description: Advokater och andra som hjälper företag och privatpersoner navigera lagarna
   level: 4
   name: Juridiska tjänster
 - code: RYF-IXA-KEV-VKR-SKJ
-  description: Konsument tjänst som är immateriell, t.ex. skönhetsvård såsom frisör
+  description: Konsument tjänst som är immateriell, till exempel skönhetsvård eller frisör
   level: 4
   name: Servicetjänster
 - code: RYF-IXA-KEV-VKR-OHX
@@ -943,8 +912,7 @@ categories:
   level: 3
   name: Tillverkning & konstruktion
 - code: RYF-IXA-KEV-WHS-NFQ
-  description: Företag som monterar eller tillverkar komponenter för flygplan och
-    rymdskepp
+  description: Företag som monterar eller tillverkar komponenter för flygplan och rymdskepp
   level: 4
   name: Flygtillverkning
 - code: RYF-IXA-KEV-WHS-OJI
@@ -960,13 +928,11 @@ categories:
   level: 4
   name: Elektriska apparater
 - code: RYF-IXA-KEV-WHS-PFN
-  description: Tillverkare av kranar, bulldozers och liknande för användning i större
-    byggprojekt
+  description: Tillverkare av kranar, bulldozers och liknande för användning i större byggprojekt
   level: 4
   name: Tung industri
 - code: RYF-IXA-KEV-WHS-OYE
-  description: Tillverkarna av mekaniska, elektriska, elektroniska artiklar som behövs
-    vid tillverkningen av andra objekt
+  description: Tillverkarna av mekaniska, elektriska, elektroniska artiklar som behövs vid tillverkningen av andra objekt
   level: 4
   name: Industriella komponenter
 - code: RYF-IXA-KEV-WHS-IBU
@@ -982,8 +948,7 @@ categories:
   level: 3
   name: Reklam & PR
 - code: RYF-IXA-KEV-CKN
-  description: Produktion, prospektering och raffinering av malm i metaller, ofta
-    från gruvor
+  description: Produktion, prospektering och raffinering av malm i metaller, ofta från gruvor
   level: 3
   name: Gruvnäring
 - code: RYF-IXA-KEV-VRA
@@ -993,7 +958,7 @@ categories:
 - code: RYF-IXA-KEV-VRA-JBZ
   description: Tillverkning av alkoholdrycker
   level: 4
-  name: Destillering & bryggeriverksamhet, alkoholhaltiga drycker
+  name: Destillering & bryggeriverksamhet för alkoholhaltiga drycker
 - code: RYF-IXA-KEV-VRA-BLM
   description: ''
   level: 4
@@ -1007,14 +972,13 @@ categories:
   level: 4
   name: Papper & förpackningsartiklar
 - code: RYF-IXA-KEV-VRA-YWU
-  description: Produktion av gummibaserat material för handskar, skyddsbeläggningar,
-    slangar och liknande
+  description: Produktion av gummibaserat material för handskar, skyddsbeläggningar, slangar och liknande
   level: 4
   name: Gummiprodukter
 - code: RYF-IXA-KEV-VRA-CHD
   description: ''
   level: 4
-  name: Dryck, ej alkoholhaltig
+  name: Dryckestillverkning utan alkohol
 - code: RYF-IXA-KEV-VRA-PLF
   description: Tillverkning av virke och annat material för byggnader
   level: 4
@@ -1048,8 +1012,7 @@ categories:
   level: 3
   name: Restaurang & catering
 - code: RYF-IXA-KEV-RFJ-IDT
-  description: Ett företag där drycker tillagas och serveras till allmänheten för
-    konsumtion på plats
+  description: Ett företag där drycker tillagas och serveras till allmänheten för konsumtion på plats
   level: 4
   name: Bar
 - code: RYF-IXA-KEV-RFJ-ABR
@@ -1069,8 +1032,7 @@ categories:
   level: 4
   name: Flygtransport
 - code: RYF-IXA-KEV-VXX-IMZ
-  description: Processen för att ta sig till och från arbetet, bland annat transportmöjligheter,
-    resenätverk, samåkning
+  description: Processen för att ta sig till och från arbetet, bland annat transportmöjligheter, resenätverk, samåkning
   level: 4
   name: Pendling
 - code: RYF-IXA-KEV-VXX-SAU
@@ -1082,8 +1044,7 @@ categories:
   level: 4
   name: Vägtransport
 - code: RYF-IXA-KEV-VXX-TBB
-  description: Kommersiella transporter av människor eller gods via båtar, fartyg
-    och vatten
+  description: Kommersiella transporter av människor eller gods via båtar, fartyg och vatten
   level: 4
   name: Sjötransporter
 - code: RYF-IXA-QED
@@ -1143,14 +1104,13 @@ categories:
   level: 3
   name: Internationell handel
 - code: RYF-IXA-QED-CPE
-  description: Använd för investeringar i råvaror, värdepapper, valutor eller andra
-    spekulativa instrument
+  description: Använd för investeringar i råvaror, värdepapper, valutor eller andra spekulativa instrument
   level: 3
   name: Investeringar
 - code: RYF-IXA-QED-CQI
   description: ''
   level: 3
-  name: Pengar och penningpolitik
+  name: Pengar & penningpolitik
 - code: RYF-IXA-QED-GWF
   description: ''
   level: 3
@@ -1200,24 +1160,19 @@ categories:
   level: 1
   name: Skola & utbildning
 - code: RYF-YDR-YJA
-  description: Driftsform mellan privat och offentligt för skolor, fritidshem och
-    förskolor
+  description: Driftsform mellan privat och offentligt för skolor, fritidshem och förskolor
   level: 2
   name: Föräldrakooperativ
 - code: RYF-YDR-MQP
-  description: En skola som inte drivs av offentliga sektorn, men som huvudsakligen
-    finansieras av skattemedel
+  description: En skola som inte drivs av offentliga sektorn, men som huvudsakligen finansieras av skattemedel
   level: 2
   name: Friskola
 - code: RYF-YDR-UER
-  description: En kommunal skola är öppen för alla och ingår i det offentliga skolväsendet
-    i Sverige
+  description: En kommunal skola är öppen för alla och ingår i det offentliga skolväsendet i Sverige
   level: 2
   name: Kommunal skola
 - code: RYF-YDR-BOB
-  description: 'En typ av skola som inte administreras av lokala, regionala eller
-    nationella myndigheter. Privatskolan förbehåller sig rätten att välja de elever
-    som tas in på skolan och finansieras genom avgifter snarare än offentlig finansiering '
+  description: En typ av skola som inte administreras av lokala, regionala eller nationella myndigheter. Privatskolan förbehåller sig rätten att välja de elever som tas in på skolan och finansieras genom avgifter snarare än offentlig finansiering
   level: 2
   name: Privatskola
 - code: RYF-YDR-MHH
@@ -1225,8 +1180,7 @@ categories:
   level: 2
   name: Skolsystemet
 - code: RYF-YDR-MHH-IRE
-  description: 'Skolformen där elever lär sig grundläggande kunskaper, bland annat
-    läsande och räknelära '
+  description: Skolformen där elever lär sig grundläggande kunskaper, bland annat läsande och räknelära
   level: 3
   name: Grundskola
 - code: RYF-YDR-MHH-UAD
@@ -1250,24 +1204,21 @@ categories:
   level: 4
   name: Högskola
 - code: RYF-YDR-MHH-UAD-VTV
-  description: Universitet är ett högre lärosäte med forskning och utbildning. T.ex.
-    Mittuniversitetet och Uppsala universitet
+  description: Universitet är ett högre lärosäte med forskning och utbildning. Till exempel Mittuniversitetet och Uppsala universitet
   level: 4
   name: Universitet
 - code: RYF-YDR-MHH-LKU
-  description: 'En avgiftsfri och frivillig sekundärutbildning i Sverige för ungdomar
-    som har gått ut grundskolan. '
+  description: En avgiftsfri och frivillig sekundärutbildning i Sverige för ungdomar som har gått ut grundskolan
   level: 3
   name: Gymnasieskola
 - code: RYF-YDR-MHH-DJZ
-  description: 'Verksamhet med barnomsorg och utbildning för barn åren innan den egentliga
-    skolgången '
+  description: Verksamhet med barnomsorg och utbildning för barn åren innan den egentliga skolgången
   level: 3
   name: Förskola
 - code: RYF-YDR-WXH
   description: ''
   level: 2
-  name: Undervisning och lärande
+  name: Undervisning & lärande
 - code: RYF-YDR-WXH-BQF
   description: ''
   level: 3
@@ -1293,8 +1244,7 @@ categories:
   level: 2
   name: Klimatförändringar
 - code: RYF-VHD-ZKU
-  description: Bevarande av ödemarker, flora och fauna, inklusive arter som hotas
-    av utrotning
+  description: Bevarande av ödemarker, flora och fauna, inklusive arter som hotas av utrotning
   level: 2
   name: Bevarande av miljö
 - code: RYF-VHD-ZKU-SBV
@@ -1314,10 +1264,9 @@ categories:
   level: 3
   name: Miljösanering
 - code: RYF-VHD-IFE-FHW
-  description: Ämnen skadliga för människor och djur. Strålning, giftgaser, kemikalier,
-    tungmetaller och PCB
+  description: Ämnen skadliga för människor och djur. Till exempel giftgaser, strålning, kemikalier, tungmetaller och PCB
   level: 3
-  name: Farliga ämnen, strålning
+  name: Farliga ämnen & strålning
 - code: RYF-VHD-IFE-EGU
   description: ''
   level: 3
@@ -1327,8 +1276,7 @@ categories:
   level: 3
   name: Naturföroreningar
 - code: RYF-VHD-QTT
-  description: Miljöfrågor om bland annat hav, sjöar, vattendrag och reservoarer,
-    samt is, glaciärer och nederbörd
+  description: Miljöfrågor om bland annat hav, sjöar, vattendrag och reservoarer, samt isar, glaciärer och nederbörd
   level: 2
   name: Vatten
 - code: RYF-VHD-QTT-RVR
@@ -1338,7 +1286,7 @@ categories:
 - code: RYF-VHD-QTT-VWZ
   description: ''
   level: 3
-  name: Älvar, åar
+  name: Älvar & åar
 - code: RYF-VHD-QTT-IGS
   description: ''
   level: 3
@@ -1348,18 +1296,15 @@ categories:
   level: 2
   name: Ekologi
 - code: RYF-VHD-OAY-CBT
-  description: Ett system av växter, djur och bakterier relaterade till varandra i
-    sin fysikaliska eller kemiska miljö
+  description: Ett system av växter, djur och bakterier relaterade till varandra i sin fysikaliska eller kemiska miljö
   level: 3
   name: Ekosystem
 - code: RYF-VHD-OAY-VCS
-  description: Arter som riskerar att försvinna, till stor del på grund av förändringar
-    i miljön, jakt, eller väder
+  description: Arter som riskerar att försvinna, till stor del på grund av förändringar i miljön, jakt, eller väder
   level: 3
   name: Hotade arter
 - code: RYF-VHD-OAY-JYG
-  description: Icke-inhemska växter, djur och andra organismer som tenderar att ta
-    över inhemska arter
+  description: Icke inhemska växter, djur och andra organismer som tenderar att ta över inhemska arter
   level: 3
   name: Invasiva arter
 - code: RYF-WUU
@@ -1369,7 +1314,7 @@ categories:
 - code: RYF-WUU-JZK
   description: ''
   level: 2
-  name: Sjukdomar och tillstånd
+  name: Sjukdomar & tillstånd
 - code: RYF-WUU-JZK-YIA
   description: ''
   level: 3
@@ -1387,14 +1332,13 @@ categories:
   level: 4
   name: Virussjukdomar
 - code: RYF-WUU-JZK-FBC-ORU
-  description: Epidemi som får spridning över stora delar av världen och drabbar många
-    människor
+  description: Epidemi som får spridning över stora delar av världen och drabbar många människor
   level: 4
   name: Pandemi
 - code: RYF-WUU-JZK-YMA
   description: ''
   level: 3
-  name: Hjärt- och kärlsjukdomar
+  name: Hjärt- & kärlsjukdomar
 - code: RYF-WUU-JZK-PFT
   description: ''
   level: 3
@@ -1436,14 +1380,13 @@ categories:
   level: 4
   name: Akutsjukvård
 - code: RYF-WUU-SUX-APJ-ZDB
-  description: Specialitet i åldrande och åldersrelaterade frågor, bland annat åldersrelaterade
-    sjukdomar
+  description: Specialitet i åldrande och åldersrelaterade frågor, bland annat åldersrelaterade sjukdomar
   level: 4
   name: Geriatrisk medicin
 - code: RYF-WUU-SUX-APJ-EMC
   description: ''
   level: 4
-  name: Obstetrik & Gynekologi
+  name: Obstetrik & gynekologi
 - code: RYF-WUU-SUX-APJ-RIY
   description: ''
   level: 4
@@ -1455,7 +1398,7 @@ categories:
 - code: RYF-WUU-SUX-APJ-RJV
   description: ''
   level: 4
-  name: Pediatrik, barnsjukvård
+  name: Pediatrik (barnsjukvård)
 - code: RYF-WUU-SUX-APJ-WDN
   description: ''
   level: 4
@@ -1473,7 +1416,7 @@ categories:
   level: 4
   name: Psykiatri
 - code: RYF-WUU-SUX-APJ-VGT
-  description: Reproduktiva tekniker som in vitro-fertilisering
+  description: Reproduktiva tekniker som in vitro-fertilisering, IVF
   level: 4
   name: Reproduktiv medicin
 - code: RYF-WUU-SUX-CJL
@@ -1521,8 +1464,7 @@ categories:
   level: 4
   name: Örtmedicin
 - code: RYF-WUU-QNB-CIM-ING
-  description: Behandling av hela människan, inklusive psykiska och sociala faktorer
-    snarare än bara symptomen
+  description: Behandling av hela människan, inklusive psykiska och sociala faktorer snarare än bara symptomen
   level: 4
   name: Holistisk medicin
 - code: RYF-WUU-QNB-CIM-CIL
@@ -1534,8 +1476,7 @@ categories:
   level: 3
   name: Vacciner
 - code: RYF-WUU-QNB-QUH
-  description: 'Behandling av fysiska, psykiska eller medicinska tillstånd utan kirurgiskt
-    ingrepp '
+  description: Behandling av fysiska, psykiska eller medicinska tillstånd utan kirurgiskt ingrepp
   level: 3
   name: Terapi
 - code: RYF-WUU-CNM
@@ -1555,13 +1496,11 @@ categories:
   level: 3
   name: Undersköterskor
 - code: RYF-CUW
-  description: Artiklar om individer, grupper, djur, växter eller andra föremål med
-    fokus på känslomässiga aspekter
+  description: Artiklar om individer, grupper, djur, växter eller andra föremål med fokus på känslomässiga aspekter
   level: 1
   name: Personligt
 - code: RYF-CUW-IAA
-  description: Artiklar om en prestation, att man åstadkommit något speciellt eller
-    uppnått milstole till exempel
+  description: Artiklar om en prestation, att man åstadkommit något speciellt eller uppnått milstole till exempel
   level: 2
   name: Prestationer
 - code: RYF-CUW-IAA-JLY
@@ -1619,7 +1558,7 @@ categories:
 - code: RYF-CUW-XVL-JXY
   description: ''
   level: 3
-  name: Alla helgona
+  name: Allahelgona
 - code: RYF-CUW-XVL-DPU
   description: ''
   level: 3
@@ -1661,12 +1600,11 @@ categories:
   level: 3
   name: Yom kippur
 - code: RYF-CUW-JCL
-  description: Artiklar om växter med fokus på känslomässiga aspekter.
+  description: Artiklar om växter med fokus på känslomässiga aspekter
   level: 2
   name: Växter
 - code: RYF-CUW-GIV
-  description: Frågor som rör familjen som institution, till exempel äktenskap, adoption
-    och skilsmässor.
+  description: Frågor som rör familjen som institution, till exempel äktenskap, adoption och skilsmässor
   level: 2
   name: Familjefrågor
 - code: RYF-CUW-GIV-RLJ
@@ -1678,12 +1616,11 @@ categories:
   level: 3
   name: Skilsmässor
 - code: RYF-CUW-GIV-CWF
-  description: Medvetna beslut och insatser som rör reproduktion, till exempel preventivmedel
-    eller IVF-behandling.
+  description: Medvetna beslut och insatser som rör reproduktion, till exempel preventivmedel eller IVF-behandling
   level: 3
   name: Familjeplanering
 - code: RYF-CUW-GIV-CWF-LBN
-  description: T. ex. provrörsbefruktning, IVF
+  description: Till exempel provrörsbefruktning, IVF
   level: 4
   name: Fertilitetsbehandling
 - code: RYF-CUW-GIV-CWF-BVA
@@ -1695,25 +1632,23 @@ categories:
   level: 4
   name: Abort
 - code: RYF-ZEI
-  description: Sociala aspekter, lagar, regler och förhållanden som påverkar sysselsättning
-    och arbetslöshet.
+  description: Sociala aspekter, lagar, regler och förhållanden som påverkar sysselsättning och arbetslöshet
   level: 1
   name: Arbetsmarknad
 - code: RYF-ZEI-YYF
-  description: Kompletterande utbildning för att förbättra nuvarande kompetens.
+  description: Kompletterande utbildning för att förbättra nuvarande kompetens
   level: 2
   name: Kompetensutveckling
 - code: RYF-ZEI-RYD
-  description: 'Lagar som styr anställningsförhållanden, arbetsrätt, arbetsmiljö,
-    arbetstagarinflytande och arbetsmarknadsreglering. '
+  description: Lagar som styr anställningsförhållanden, arbetsrätt, arbetsmiljö, arbetstagarinflytande och arbetsmarknadsreglering
   level: 2
   name: Arbetslagstiftningen
 - code: RYF-ZEI-RYD-YZX
-  description: Regler och rutiner för att garantera arbetstagarnas hälsa.
+  description: Regler och rutiner för att garantera arbetstagarnas hälsa
   level: 3
   name: Arbetsmiljöfrågor
 - code: RYF-ZEI-CLV
-  description: De regler och lagar som reglerar en anställning, exempelvis MBL.
+  description: De regler och lagar som reglerar en anställning, till exempel MBL
   level: 2
   name: Anställningsförhållanden
 - code: RYF-ZEI-CLV-AGH
@@ -1721,8 +1656,7 @@ categories:
   level: 3
   name: Löner & förmåner
 - code: RYF-ZEI-CLV-QGD
-  description: Vanligtvis skriftliga avtal som täcker en specifik klass av arbetare
-    och deras anställnignsvillkor.
+  description: Vanligtvis skriftliga avtal som täcker en specifik klass av arbetare och deras anställnignsvillkor
   level: 3
   name: Kollektivavtal
 - code: RYF-ZEI-CLV-QGD-IEB
@@ -1738,16 +1672,15 @@ categories:
   level: 4
   name: Avtalsfrågor arbetsregler
 - code: RYF-ZEI-CLV-PSL
-  description: Skillnader i uppfattning om till exempel arbetsförhållanden eller löner.
+  description: Skillnader i uppfattning om till exempel arbetsförhållanden eller löner
   level: 3
   name: Konflikter
 - code: RYF-ZEI-CLV-PSL-DLO
-  description: Arbetstagares yttersta stridsåtgärd vid arbetskonflikter.
+  description: Arbetstagares yttersta stridsåtgärd vid arbetskonflikter
   level: 4
   name: Strejk
 - code: RYF-ZEI-IVG
-  description: Frågor som rö pensionen, till exempel pensionsålder, förtidspension
-    med mera.
+  description: Frågor som rör pensionen, till exempel pensionsålder, förtidspension med mera
   level: 2
   name: Pension
 - code: RYF-ZEI-QWT
@@ -1755,8 +1688,7 @@ categories:
   level: 2
   name: Arbetslöshet
 - code: RYF-ZEI-QWT-QJQ
-  description: Att ändra inriktning på sitt arbetsliv genom utbildning till något
-    annat än man ägnat sig åt tidigare.
+  description: Att ändra inriktning på sitt arbetsliv genom utbildning till något annat än man ägnat sig åt tidigare
   level: 3
   name: Omskolning
 - code: RYF-ZEI-QWT-IIW
@@ -1776,16 +1708,11 @@ categories:
   level: 2
   name: Spel
 - code: RYF-TKT-VVD-AKF
-  description: Sällskapsspel är en umgängesform som vanligtvis går ut på att flera
-    personer slår tärningar, flyttar pjäser på ett bräde eller drar kort i enlighet
-    med spelets regler, med mål att vinna spelet. Det övergripande målet med sällskapsspel
-    är dock att umgås och ha trevligt. Sällskapsspel omfattar inte exempelvis hasardspel,
-    där man spelar om pengar eller egendom, eller datorspel
+  description: Sällskapsspel är en umgängesform som vanligtvis går ut på att flera personer slår tärningar, flyttar pjäser på ett bräde eller drar kort i enlighet med spelets regler, med mål att vinna spelet. Det övergripande målet med sällskapsspel är dock att umgås och ha trevligt. Sällskapsspel omfattar inte exempelvis hasardspel, där man spelar om pengar eller egendom, eller datorspel
   level: 3
   name: Sällskapsspel
 - code: RYF-TKT-VVD-EME
-  description: 'En form av interaktiv underhållning som spelas med hjälp av t.ex.
-    en persondator, spelkonsol eller mobiltelefon '
+  description: En form av interaktiv underhållning som spelas med hjälp av till exempel en persondator, spelkonsol eller mobiltelefon
   level: 3
   name: Datorspel
 - code: RYF-TKT-BIY
@@ -1867,7 +1794,7 @@ categories:
 - code: RYF-TKT-GSR-EXJ
   description: ''
   level: 3
-  name: Kläder, skor
+  name: Kläder & skor
 - code: RYF-TKT-GSR-BJE
   description: ''
   level: 3
@@ -1895,7 +1822,7 @@ categories:
 - code: RYF-TKT-AGB
   description: ''
   level: 2
-  name: Hem och trädgård
+  name: Hem & trädgård
 - code: RYF-TKT-AGB-NVR
   description: ''
   level: 3
@@ -1917,8 +1844,7 @@ categories:
   level: 2
   name: Val
 - code: RYF-KNI-MRR-YYH
-  description: Använd för politiska beslut som fattas av en direkt omröstning hos
-    samtliga, röstmyndiga medborgare
+  description: Använd för politiska beslut som fattas av en direkt omröstning hos samtliga röstberättigade medborgare
   level: 3
   name: Folkomröstning
 - code: RYF-KNI-MRR-OCZ
@@ -1946,12 +1872,11 @@ categories:
   level: 3
   name: Riksdagsval
 - code: RYF-KNI-MRR-ZUW
-  description: Använd för t.ex en ny kampanjstrategi inom sociala medier, kampanjskyltar
+  description: Använd för till exempel en ny kampanjstrategi inom sociala medier, kampanjskyltar
   level: 3
   name: Politiska kampanjer
 - code: RYF-KNI-MRR-QSD
-  description: Använd när t.ex ett parti annonserat ut sina kandidater, en kandidat
-    förlorat förtroende för partiet
+  description: Använd när till exempel ett parti annonserat ut sina kandidater, eller om en kandidat förlorat partiets förtroende
   level: 3
   name: Politiska kandidater
 - code: RYF-KNI-MRR-EUF
@@ -1959,13 +1884,11 @@ categories:
   level: 3
   name: Regionval & landstingsval
 - code: RYF-KNI-MRR-EIU
-  description: Använd för nyheter som rör själva röstandet. T.ex att färre taktikröstar,
-    röstlokal hotad
+  description: Använd för nyheter som rör själva röstandet. Till exempel att färre taktikröstar eller om en röstlokal är hotad
   level: 3
   name: Rösta i val
 - code: RYF-KNI-ZIS
-  description: Använd för diskussioner om politiska debatter som rör Sveriges grundläggande
-    lagar och rättigheter
+  description: Använd för diskussioner om politiska debatter som rör Sveriges grundläggande lagar och rättigheter
   level: 2
   name: Grundlagar
 - code: RYF-KNI-ZIS-RAZ
@@ -1975,7 +1898,7 @@ categories:
 - code: RYF-KNI-ZIS-IUN
   description: Personers rätt att kommunicera och uttrycka åsikter och idéer
   level: 3
-  name: Yttrandefrihet, tryckfrihet
+  name: Yttrandefrihet & tryckfrihet
 - code: RYF-KNI-ZIS-CWW
   description: Personers rätt att utöva och observera sin tro
   level: 3
@@ -2003,7 +1926,7 @@ categories:
 - code: RYF-KNI-RLW-HER-VNR
   description: Obetald tjänst för samhället som civila
   level: 4
-  name: Samhällstjänst, allmännytta
+  name: Samhällstjänst & allmännytta
 - code: RYF-KNI-RLW-YIU
   description: ''
   level: 3
@@ -2041,13 +1964,11 @@ categories:
   level: 3
   name: Offentliga finanser
 - code: RYF-KNI-RLW-NZZ
-  description: Använd för processer kring tjänsteman som anklagas för att ha överträtt
-    sitt mandat
+  description: Använd för processer kring tjänsteman eller politiker som anklagas för att ha överträtt sitt mandat
   level: 3
   name: Konstitutionella frågor
 - code: RYF-KNI-RLW-XJQ
-  description: Använd för riksdagens uppdrag och utformning, nyheter om riksdagens
-    agerande använder organisationstaggen
+  description: Använd för riksdagens uppdrag och utformning, nyheter om riksdagens agerande använder organisationstaggen
   level: 3
   name: Riksdagsfrågor
 - code: RYF-KNI-XNS
@@ -2055,7 +1976,7 @@ categories:
   level: 2
   name: Politiska frågor
 - code: RYF-KNI-XNS-CFE
-  description: T.ex anslag till vägar, Internetanslutning & elnät
+  description: Till exempel anslag till vägar, internetanslutning eller elnät
   level: 3
   name: Infrastrukturfrågor
 - code: RYF-KNI-XNS-FQO
@@ -2071,12 +1992,11 @@ categories:
   level: 3
   name: Ekonomisk politik
 - code: RYF-KNI-XNS-WZY-ZFI
-  description: Styrdokument för utgifter och investeringar ett styre skall göra under
-    en period och hur de skall finansieras av lån eller skatt
+  description: Styrdokument för utgifter och investeringar ett styre skall göra under en period och hur de skall finansieras av lån eller skatt
   level: 4
   name: Budget
 - code: RYF-KNI-XNS-WZY-NMW
-  description: Statens övertagande av privata företag eller tillgångar (som fastigheter)
+  description: Statens övertagande av privata företag eller tillgångar, som till exempel fastigheter
   level: 4
   name: Förstatligande
 - code: RYF-KNI-XNS-WZY-SEB
@@ -2090,7 +2010,7 @@ categories:
 - code: RYF-KNI-XNS-TDS
   description: Regeringens politik för att skydda nationen och gränserna
   level: 3
-  name: Försvars och säkerhetspolitik
+  name: Försvars- & säkerhetspolitik
 - code: RYF-KNI-XNS-HIC
   description: ''
   level: 3
@@ -2108,8 +2028,7 @@ categories:
   level: 4
   name: Bostads- & stadsplaneringsfrågor
 - code: RYF-KNI-XNS-SWE-CAC
-  description: Använd för nyheter om hur svenska minoriteter blir behandlade. T.ex
-    rättigheter för samer
+  description: Använd för nyheter om hur svenska minoriteter blir behandlade. Till exempel rättigheter för samer
   level: 4
   name: Minoritetsfrågor
 - code: RYF-KNI-XNS-SWE-VMT
@@ -2117,8 +2036,7 @@ categories:
   level: 4
   name: Pension & välfärdspolitik
 - code: RYF-KNI-XNS-SWE-ILT
-  description: Använd för nyheter om integrationsåtgärder. T.ex växande utanförskap,
-    satsningar på SFI
+  description: Använd för nyheter om integrationsåtgärder. Till exempel växande utanförskap, satsningar på SFI
   level: 4
   name: Integritetsfrågor & personuppgifter
 - code: RYF-KNI-XNS-SWE-PEU
@@ -2150,11 +2068,11 @@ categories:
   level: 4
   name: Livsmedelsregler
 - code: RYF-KNI-XNS-ELZ
-  description: T.ex investeringar i förnybara resurser och skatt på utsläpp
+  description: Till exempel investeringar i förnybara resurser och skatt på utsläpp
   level: 3
   name: Miljöpolitik
 - code: RYF-KNI-XNS-CHY
-  description: T.ex anslag till kulturella föreningar och sällskap
+  description: Till exempel anslag till kulturella föreningar och sällskap
   level: 3
   name: Kulturpolitik
 - code: RYF-KNI-XNS-KVO
@@ -2174,13 +2092,11 @@ categories:
   level: 2
   name: Internationella relationer
 - code: RYF-KNI-SQH-LCX
-  description: Muntlig och skriftlig kommunikation mellan nationer för att övertala
-    varandra utan våld
+  description: Muntlig och skriftlig kommunikation mellan nationer för att övertala varandra utan våld
   level: 3
   name: Diplomati
 - code: RYF-KNI-SQH-LCX-GQK
-  description: Möten mellan ledare och ministrar från olika länder om nationsöverskridande
-    frågor
+  description: Möten mellan ledare och ministrar från olika länder om nationsöverskridande frågor
   level: 4
   name: Toppmöten
 - code: RYF-KNI-SQH-LCX-EUJ
@@ -2188,18 +2104,15 @@ categories:
   level: 4
   name: Fördrag
 - code: RYF-KNI-SQH-LBP
-  description: Bestraffande åtgärder som vidtagits av ett land mot ett annat inklusive
-    handelsrestriktioner, embargon etc.
+  description: Bestraffande åtgärder som vidtagits av ett land mot ett annat inklusive handelsrestriktioner, till exempel embargon
   level: 3
   name: Ekonomiska sanktioner
 - code: RYF-KNI-SQH-DKK
-  description: Människor som söker skydd i ett annat land för att undslippa förföljelse
-    och misär
+  description: Människor som söker skydd i ett annat land för att undslippa förföljelse och misär
   level: 3
   name: Fyktingfrågan globalt
 - code: RYF-KNI-BII
-  description: Konflikt mellan partier som leder till att parlamentets uppdrag inte
-    kan utövas
+  description: Konflikt mellan partier som leder till att parlamentets uppdrag inte kan utövas
   level: 2
   name: Parlamentarisk kris
 - code: RYF-KNI-WER
@@ -2211,8 +2124,7 @@ categories:
   level: 2
   name: Politiska processen
 - code: RYF-KNI-OHT-UZG
-  description: Försök från icke-statliga organisationer att påverka lagstiftning genom
-    främst verbal övertalning
+  description: Försök från icke-statliga organisationer att påverka lagstiftning genom främst verbal övertalning
   level: 3
   name: Lobbyverksamhet
 - code: RYF-KNI-OHT-ACB
@@ -2228,13 +2140,11 @@ categories:
   level: 3
   name: Politiskt system
 - code: RYF-KNI-OHT-PIO-PCQ
-  description: En regering som väljs av folket med mandat att utöva folkets vilja
-    inom ramarna av mänskliga rättigheter
+  description: En regering som väljs av folket med mandat att utöva folkets vilja inom ramarna av mänskliga rättigheter
   level: 4
   name: Demokrati
 - code: RYF-KNI-OHT-PIO-PNL
-  description: En regering som inte valts av folket och är fria att bedriva politik
-    som främjar regeringens intressen
+  description: En regering som inte valts av folket och är fria att bedriva politik som främjar regeringens intressen
   level: 4
   name: Diktatur
 - code: RYF-ITV
@@ -2246,8 +2156,7 @@ categories:
   level: 2
   name: Religiösa åskådningar
 - code: RYF-ITV-LPR-MFH
-  description: Asiatisk religion grundad av Buddha 500-talet till 300-talet f.Kr.
-    i Indien
+  description: Asiatisk religion grundad av Buddha 500-talet till 300-talet f.Kr. i Indien
   level: 3
   name: Buddhism
 - code: RYF-ITV-LPR-BCK
@@ -2259,8 +2168,7 @@ categories:
   level: 3
   name: Sekt
 - code: RYF-ITV-LPR-COP
-  description: Samlingsnamnet för en rad indiska sedvänjor, religiösa föreställningar
-    och filosofiska koncept
+  description: Samlingsnamnet för en rad indiska sedvänjor, religiösa föreställningar och filosofiska koncept
   level: 3
   name: Hinduism
 - code: RYF-ITV-LPR-UQT
@@ -2272,7 +2180,7 @@ categories:
   level: 3
   name: Judendom
 - code: RYF-ITV-LPR-DOR
-  description: Dyrkan av naturliga element som eld, vatten, träd, berg
+  description: Dyrkan av naturliga element som eld, vatten, träd och berg
   level: 3
   name: Naturreligion
 - code: RYF-ITV-ZFQ
@@ -2288,12 +2196,11 @@ categories:
   level: 2
   name: Religiös händelse
 - code: RYF-ITV-QAK-VBF
-  description: Etablerade religiösa ritualer som tex gudstjänst, begravning och vigsel
+  description: Etablerade religiösa ritualer som till exempel gudstjänst, begravning och vigsel
   level: 3
   name: Religiös ritual
 - code: RYF-ITV-IQC
-  description: Anläggning där en grupp kan utföra sina religiösa riter, tex moské,
-    kyrka, hus eller tält
+  description: Anläggning där en grupp kan utföra sina religiösa riter, till exempel moské, kyrka, hus eller tält
   level: 2
   name: Religiösa byggnader
 - code: RYF-ITV-WPR
@@ -2309,8 +2216,7 @@ categories:
   level: 3
   name: Koranen
 - code: RYF-ITV-WPR-XCD
-  description: Helig skrift som ligger till grund för judisk, messiansk och hebreisk
-    tro. Innehåller bland annat Torah
+  description: Helig skrift som ligger till grund för judisk, messiansk och hebreisk tro. Innehåller bland annat Torah
   level: 3
   name: Tanach
 - code: RYF-EOI
@@ -2506,13 +2412,11 @@ categories:
   level: 4
   name: Nanoteknologi
 - code: RYF-HPT
-  description: Artiklar som rör samhällsfrågor som till exempel välfärden, olika människogrupper
-    och sociala problem
+  description: Artiklar som rör samhällsfrågor som till exempel välfärden, olika människogrupper och sociala problem
   level: 1
   name: Samhälle & välfärd
 - code: RYF-HPT-ZSS
-  description: Grupp av människor som hålls samman av geografiska, administrativa
-    eller sociala relationer.
+  description: Grupp av människor som hålls samman av geografiska, administrativa eller sociala relationer
   level: 2
   name: Samhällen
 - code: RYF-HPT-ECD
@@ -2524,8 +2428,7 @@ categories:
   level: 3
   name: Befolkningstillväxt
 - code: RYF-HPT-XAO
-  description: Att göra skillnad på människor på grund av något som inte bygger på
-    meriter eller talanger.
+  description: Att göra skillnad på människor på grund av något som inte bygger på meriter eller talanger
   level: 2
   name: Diskriminering
 - code: RYF-HPT-XAO-EWJ
@@ -2585,13 +2488,11 @@ categories:
   level: 3
   name: Tonåringar
 - code: RYF-HPT-THK
-  description: Olika typer av problem som kännetecknas av de går ut över en persons
-    omgivning.
+  description: Olika typer av problem som kännetecknas av de går ut över en persons omgivning
   level: 2
   name: Sociala problem
 - code: RYF-HPT-THK-KFS
-  description: Personer som är arbetsoförmögna, antingen fysiskt, känslomässigt eller
-    psykiskt.
+  description: Personer som är arbetsoförmögna, antingen fysiskt, känslomässigt eller psykiskt
   level: 3
   name: Utanförskap
 - code: RYF-HPT-THK-KAW
@@ -2607,8 +2508,7 @@ categories:
   level: 3
   name: Missbruk
 - code: RYF-HPT-THK-RGK
-  description: Personer som finansierar sin livsstil, ofta missbruk, med att begå
-    brott.
+  description: Personer som finansierar sin livsstil, ofta missbruk, med att begå brott
   level: 3
   name: Yrkeskriminella
 - code: RYF-HPT-THK-TPB
@@ -2620,15 +2520,13 @@ categories:
   level: 3
   name: Prostitution
 - code: RYF-HPT-THK-DPO
-  description: Modern form av slaveri, ofta relaterat till prostitution, hushållsarbete,
-    eller fabriksarbete.
+  description: Modern form av slaveri, ofta relaterat till prostitution, hushållsarbete, eller fabriksarbete
   level: 3
   name: Trafficing
 - code: RYF-HPT-PPR
-  description: Frågor som rör moraliska frågor, eller frågor som är svåra att prata
-    om.
+  description: Frågor som rör moraliska frågor, eller frågor som är svåra att prata om
   level: 2
-  name: Moraliska frågor, tabubelagda ämnen
+  name: Moraliska frågor & tabubelagda ämnen
 - code: RYF-HPT-PPR-LQJ
   description: ''
   level: 3
@@ -2642,7 +2540,7 @@ categories:
   level: 4
   name: Självmord
 - code: RYF-HPT-PPR-CWB
-  description: Frågor som rör vad som är socialt accepterat och inte.
+  description: Frågor som rör vad som är socialt accepterat och inte
   level: 3
   name: Etik
 - code: RYF-HPT-PPR-OZY
@@ -2650,7 +2548,7 @@ categories:
   level: 3
   name: Pornografi
 - code: RYF-HPT-PPR-RNR
-  description: Frågor kring olika sexuella beteenden och böjelser.
+  description: Frågor kring olika sexuella beteenden och böjelser
   level: 3
   name: Sexuellt beteende
 - code: RYF-HPT-YGE
@@ -2690,31 +2588,27 @@ categories:
   level: 3
   name: Elnät
 - code: RYF-HPT-XRQ
-  description: Frågor som rör välfärdssamhället och den hjälp samhället kan ge människor
-    som behöver mat, boende m.m.
+  description: Frågor som rör välfärdssamhället och den hjälp samhället kan ge människor som behöver mat, boende med mera
   level: 2
-  name: Välfärd och bidragsfrågor
+  name: Välfärd & bidragsfrågor
 - code: RYF-HPT-XRQ-MLN
-  description: Att skänka pengar till organisation eller person för en specifik orsak.
+  description: Att skänka pengar till organisation eller person för en specifik orsak
   level: 3
   name: Välgörenhet
 - code: RYF-HPT-XRQ-DXC
-  description: Omfattande sjukvård på grund av allvarlig sjukdom eller funktionshinder
-    till exempel på grund av ålder.
+  description: Omfattande sjukvård på grund av allvarlig sjukdom eller funktionshinder till exempel på grund av ålder
   level: 3
-  name: Långtidsvård, äldrevård
+  name: Långtids- & äldrevård
 - code: RYF-HPT-XRQ-YNP
-  description: Frågor som rör personers sociala nätverk som kan verka stöttande för
-    en person med sociala problem.
+  description: Frågor som rör personers sociala nätverk som kan verka stöttande för en person med sociala problem
   level: 3
   name: Socialt skyddsnät
 - code: RYF-HPT-XRQ-KWB
-  description: Pengar individer kan få av myndigheter för att täcka basala behov.
+  description: Pengar individer kan få av myndigheter för att täcka basala behov
   level: 3
   name: Bidrag
 - code: RYF-QPR
-  description: Sport som huvudämne, både specifika sporter eller sportrelaterade ämnen
-    som dopning och idrottsaffärer.
+  description: Sport som huvudämne, både specifika sporter eller sportrelaterade ämnen som dopning och idrottsaffärer
   level: 1
   name: Sport
 - code: RYF-QPR-HGB
@@ -2888,7 +2782,7 @@ categories:
 - code: RYF-QPR-HGB-OQU-EKM-QKO
   description: ''
   level: 5
-  name: Småland/Östergötland
+  name: Småland & Östergötland
 - code: RYF-QPR-HGB-OQU-EKM-CJJ
   description: ''
   level: 5
@@ -3152,7 +3046,7 @@ categories:
 - code: RYF-QPR-HGB-QHJ-OTJ-UGO
   description: ''
   level: 5
-  name: Västmanland/Örebro
+  name: Västmanland & Örebro
 - code: RYF-QPR-HGB-QHJ-OTJ-EYU
   description: ''
   level: 5
@@ -3216,7 +3110,7 @@ categories:
 - code: RYF-QPR-HGB-QHJ-XFL-EYU
   description: ''
   level: 5
-  name: Gästrikland/Dalarna
+  name: Gästrikland & Dalarna
 - code: RYF-QPR-HGB-QHJ-XFL-NNO
   description: ''
   level: 5
@@ -3296,19 +3190,19 @@ categories:
 - code: RYF-QPR-HGB-QHJ-HBV-BNT
   description: ''
   level: 5
-  name: norra
+  name: Norra
 - code: RYF-QPR-HGB-QHJ-HBV-KXR
   description: ''
   level: 5
-  name: östra
+  name: Östra
 - code: RYF-QPR-HGB-QHJ-HBV-QOG
   description: ''
   level: 5
-  name: södra
+  name: Södra
 - code: RYF-QPR-HGB-QHJ-HBV-HCU
   description: ''
   level: 5
-  name: västra
+  name: Västra
 - code: RYF-QPR-HGB-QHJ-UVW
   description: ''
   level: 4
@@ -3332,7 +3226,7 @@ categories:
 - code: RYF-QPR-HGB-QHJ-UVW-YHZ
   description: ''
   level: 5
-  name: Österg/Söderman
+  name: Österg & Söderman
 - code: RYF-QPR-HGB-QHJ-UVW-PXE
   description: ''
   level: 5
@@ -3368,7 +3262,7 @@ categories:
 - code: RYF-QPR-HGB-QHJ-SSA-VIC
   description: ''
   level: 5
-  name: Dalarna/Gäst
+  name: Dalarna & Gäst
 - code: RYF-QPR-HGB-QHJ-SSA-PWJ
   description: ''
   level: 5
@@ -3420,7 +3314,7 @@ categories:
 - code: RYF-QPR-HGB-QHJ-SSA-RAE
   description: ''
   level: 5
-  name: Västmanland/Örebro
+  name: Västmanland & Örebro
 - code: RYF-QPR-HGB-NWE
   description: ''
   level: 3
@@ -3560,19 +3454,19 @@ categories:
 - code: RYF-QPR-HGB-BQN-TQL-MCK
   description: ''
   level: 5
-  name: västra
+  name: Västra
 - code: RYF-QPR-HGB-BQN-TQL-DHE
   description: ''
   level: 5
-  name: södra
+  name: Södra
 - code: RYF-QPR-HGB-BQN-TQL-YGC
   description: ''
   level: 5
-  name: östra
+  name: Östra
 - code: RYF-QPR-HGB-BQN-TQL-DCL
   description: ''
   level: 5
-  name: norra
+  name: Norra
 - code: RYF-QPR-HGB-BQN-KNN
   description: ''
   level: 4
@@ -3580,43 +3474,43 @@ categories:
 - code: RYF-QPR-HGB-BQN-KNN-XGD
   description: ''
   level: 5
-  name: norra A
+  name: Norra A
 - code: RYF-QPR-HGB-BQN-KNN-NHL
   description: ''
   level: 5
-  name: norra B
+  name: Norra B
 - code: RYF-QPR-HGB-BQN-KNN-SYG
   description: ''
   level: 5
-  name: norra CD
+  name: Norra CD
 - code: RYF-QPR-HGB-BQN-KNN-JIP
   description: ''
   level: 5
-  name: östra A
+  name: Östra A
 - code: RYF-QPR-HGB-BQN-KNN-YWZ
   description: ''
   level: 5
-  name: östra B
+  name: Östra B
 - code: RYF-QPR-HGB-BQN-KNN-IBO
   description: ''
   level: 5
-  name: södra A
+  name: Södra A
 - code: RYF-QPR-HGB-BQN-KNN-YIT
   description: ''
   level: 5
-  name: södra B
+  name: Södra B
 - code: RYF-QPR-HGB-BQN-KNN-PPN
   description: ''
   level: 5
-  name: västra A
+  name: Västra A
 - code: RYF-QPR-HGB-BQN-KNN-FEN
   description: ''
   level: 5
-  name: västra B
+  name: Västra B
 - code: RYF-QPR-HGB-BQN-KNN-IPF
   description: ''
   level: 5
-  name: västra C
+  name: Västra C
 - code: RYF-QPR-HGB-BQN-TKF
   description: ''
   level: 4
@@ -3624,7 +3518,7 @@ categories:
 - code: RYF-QPR-HGB-BQN-TKF-TMF
   description: ''
   level: 5
-  name: västra C
+  name: Västra C
 - code: RYF-QPR-HGB-BQN-TKF-HEY
   description: ''
   level: 5
@@ -3632,35 +3526,35 @@ categories:
 - code: RYF-QPR-HGB-BQN-TKF-LCF
   description: ''
   level: 5
-  name: södra F
+  name: Södra F
 - code: RYF-QPR-HGB-BQN-TKF-DBG
   description: ''
   level: 5
-  name: södra E
+  name: Södra E
 - code: RYF-QPR-HGB-BQN-TKF-KIO
   description: ''
   level: 5
-  name: södra D
+  name: Södra D
 - code: RYF-QPR-HGB-BQN-TKF-UCC
   description: ''
   level: 5
-  name: södra C
+  name: Södra C
 - code: RYF-QPR-HGB-BQN-TKF-JGA
   description: ''
   level: 5
-  name: södra B
+  name: Södra B
 - code: RYF-QPR-HGB-BQN-TKF-JNG
   description: ''
   level: 5
-  name: södra A
+  name: Södra A
 - code: RYF-QPR-HGB-BQN-TKF-BOU
   description: ''
   level: 5
-  name: östra B
+  name: Östra B
 - code: RYF-QPR-HGB-BQN-TKF-DYK
   description: ''
   level: 5
-  name: östra A
+  name: Östra A
 - code: RYF-QPR-HGB-BQN-TKF-ZZJ
   description: ''
   level: 5
@@ -3692,7 +3586,7 @@ categories:
 - code: RYF-QPR-HGB-BQN-CBS
   description: ''
   level: 4
-  name: TV-pucken
+  name: Tv-pucken
 - code: RYF-QPR-HGB-BQN-VFB
   description: ''
   level: 4
@@ -3704,19 +3598,19 @@ categories:
 - code: RYF-QPR-HGB-BQN-EWY-RQL
   description: ''
   level: 5
-  name: norra
+  name: Norra
 - code: RYF-QPR-HGB-BQN-EWY-YHZ
   description: ''
   level: 5
-  name: östra
+  name: Östra
 - code: RYF-QPR-HGB-BQN-EWY-PXE
   description: ''
   level: 5
-  name: södra
+  name: Södra
 - code: RYF-QPR-HGB-BQN-EWY-DZV
   description: ''
   level: 5
-  name: västra
+  name: Västra
 - code: RYF-QPR-HGB-BQN-AAK
   description: ''
   level: 4
@@ -3724,11 +3618,11 @@ categories:
 - code: RYF-QPR-HGB-BQN-AAK-YGR
   description: ''
   level: 5
-  name: södra
+  name: Södra
 - code: RYF-QPR-HGB-BQN-AAK-YRS
   description: ''
   level: 5
-  name: västra
+  name: Västra
 - code: RYF-QPR-HGB-BQN-YPT
   description: ''
   level: 4
@@ -3972,11 +3866,11 @@ categories:
 - code: RYF-QPR-HGB-AYA-MFT-YLW
   description: ''
   level: 5
-  name: 10/15 km
+  name: 10 & 15 km
 - code: RYF-QPR-HGB-AYA-MFT-HRG
   description: ''
   level: 5
-  name: 30/50 km
+  name: 30 & 50 km
 - code: RYF-QPR-HGB-AYA-MFT-DOS
   description: ''
   level: 5
@@ -4040,23 +3934,23 @@ categories:
 - code: RYF-QPR-HGB-DEN-TQG-HVH
   description: ''
   level: 5
-  name: norra Götaland
+  name: Norra Götaland
 - code: RYF-QPR-HGB-DEN-TQG-XDQ
   description: ''
   level: 5
-  name: norra Svealand
+  name: Norra Svealand
 - code: RYF-QPR-HGB-DEN-TQG-SIS
   description: ''
   level: 5
-  name: östra Götaland
+  name: Östra Götaland
 - code: RYF-QPR-HGB-DEN-TQG-HNI
   description: ''
   level: 5
-  name: södra Svealand
+  name: Södra Svealand
 - code: RYF-QPR-HGB-DEN-TQG-JGN
   description: ''
   level: 5
-  name: västra Götaland
+  name: Västra Götaland
 - code: RYF-QPR-HGB-DEN-HKY
   description: ''
   level: 4
@@ -4064,47 +3958,47 @@ categories:
 - code: RYF-QPR-HGB-DEN-HKY-OON
   description: ''
   level: 5
-  name: norra Norrland
+  name: Norra Norrland
 - code: RYF-QPR-HGB-DEN-HKY-FFC
   description: ''
   level: 5
-  name: norra Svealand
+  name: Norra Svealand
 - code: RYF-QPR-HGB-DEN-HKY-DTT
   description: ''
   level: 5
-  name: mellersta Götaland
+  name: Mellersta Götaland
 - code: RYF-QPR-HGB-DEN-HKY-UAC
   description: ''
   level: 5
-  name: mellersta Norrland
+  name: Mellersta Norrland
 - code: RYF-QPR-HGB-DEN-HKY-JVR
   description: ''
   level: 5
-  name: nordöstra Götaland
+  name: Nordöstra Götaland
 - code: RYF-QPR-HGB-DEN-HKY-LZN
   description: ''
   level: 5
-  name: nordvästra Götaland
+  name: Nordvästra Götaland
 - code: RYF-QPR-HGB-DEN-HKY-NAJ
   description: ''
   level: 5
-  name: södra Götaland
+  name: Södra Götaland
 - code: RYF-QPR-HGB-DEN-HKY-EVK
   description: ''
   level: 5
-  name: södra Norrland
+  name: Södra Norrland
 - code: RYF-QPR-HGB-DEN-HKY-UYS
   description: ''
   level: 5
-  name: södra Svealand
+  name: Södra Svealand
 - code: RYF-QPR-HGB-DEN-HKY-GHA
   description: ''
   level: 5
-  name: sydöstra Götaland
+  name: Sydöstra Götaland
 - code: RYF-QPR-HGB-DEN-HKY-PVU
   description: ''
   level: 5
-  name: västra Svealand
+  name: Västra Svealand
 - code: RYF-QPR-HGB-DEN-ALX
   description: ''
   level: 4
@@ -4120,7 +4014,7 @@ categories:
 - code: RYF-QPR-HGB-DEN-ALX-UNC
   description: ''
   level: 5
-  name: Bohuslän/Dalsland
+  name: Bohuslän & Dalsland
 - code: RYF-QPR-HGB-DEN-ALX-VQQ
   description: ''
   level: 5
@@ -4152,7 +4046,7 @@ categories:
 - code: RYF-QPR-HGB-DEN-ALX-DGW
   description: ''
   level: 5
-  name: Jämtland/Härjedalen
+  name: Jämtland & Härjedalen
 - code: RYF-QPR-HGB-DEN-ALX-OEX
   description: ''
   level: 5
@@ -4300,7 +4194,7 @@ categories:
 - code: RYF-QPR-HGB-DEN-MVN-PRW
   description: ''
   level: 5
-  name: Jämtland/Härjedalen
+  name: Jämtland & Härjedalen
 - code: RYF-QPR-HGB-DEN-MVN-LXP
   description: ''
   level: 5
@@ -4540,11 +4434,11 @@ categories:
 - code: RYF-QPR-HGB-DEN-CWD-HWA
   description: ''
   level: 5
-  name: Jämtland/Härjedalen norra
+  name: Jämtland & Härjedalen norra
 - code: RYF-QPR-HGB-DEN-CWD-APC
   description: ''
   level: 5
-  name: Jämtland/Härjedalen södra
+  name: Jämtland & Härjedalen södra
 - code: RYF-QPR-HGB-DEN-CWD-QHH
   description: ''
   level: 5
@@ -4556,7 +4450,7 @@ categories:
 - code: RYF-QPR-HGB-DEN-CWD-GNX
   description: ''
   level: 5
-  name: Kalmar/Öland
+  name: Kalmar & Öland
 - code: RYF-QPR-HGB-DEN-CWD-UWY
   description: ''
   level: 5
@@ -4960,23 +4854,23 @@ categories:
 - code: RYF-QPR-HGB-DEN-UBA-FMV
   description: ''
   level: 5
-  name: norra Götaland
+  name: Norra Götaland
 - code: RYF-QPR-HGB-DEN-UBA-EJY
   description: ''
   level: 5
-  name: norra Svealand
+  name: Norra Svealand
 - code: RYF-QPR-HGB-DEN-UBA-WUG
   description: ''
   level: 5
-  name: mellersta Götaland
+  name: Mellersta Götaland
 - code: RYF-QPR-HGB-DEN-UBA-NGY
   description: ''
   level: 5
-  name: södra Götaland
+  name: Södra Götaland
 - code: RYF-QPR-HGB-DEN-UBA-AAW
   description: ''
   level: 5
-  name: södra Svealand
+  name: Södra Svealand
 - code: RYF-QPR-HGB-DEN-BMK
   description: ''
   level: 4
@@ -4984,63 +4878,63 @@ categories:
 - code: RYF-QPR-HGB-DEN-BMK-YXA
   description: ''
   level: 5
-  name: norra Götaland
+  name: Norra Götaland
 - code: RYF-QPR-HGB-DEN-BMK-LHN
   description: ''
   level: 5
-  name: mellersta Götaland
+  name: Mellersta Götaland
 - code: RYF-QPR-HGB-DEN-BMK-OUJ
   description: ''
   level: 5
-  name: mellersta Norrland
+  name: Mellersta Norrland
 - code: RYF-QPR-HGB-DEN-BMK-KHZ
   description: ''
   level: 5
-  name: mellersta Svealand
+  name: Mellersta Svealand
 - code: RYF-QPR-HGB-DEN-BMK-BIA
   description: ''
   level: 5
-  name: norra Norrland norra
+  name: Norra Norrland norra
 - code: RYF-QPR-HGB-DEN-BMK-QOW
   description: ''
   level: 5
-  name: norra Norrland södra
+  name: Norra Norrland södra
 - code: RYF-QPR-HGB-DEN-BMK-EED
   description: ''
   level: 5
-  name: nordöstra Götaland
+  name: Nordöstra Götaland
 - code: RYF-QPR-HGB-DEN-BMK-JTC
   description: ''
   level: 5
-  name: nordvästra Götaland
+  name: Nordvästra Götaland
 - code: RYF-QPR-HGB-DEN-BMK-JXC
   description: ''
   level: 5
-  name: östra Svealand
+  name: Östra Svealand
 - code: RYF-QPR-HGB-DEN-BMK-MVV
   description: ''
   level: 5
-  name: södra Götaland
+  name: Södra Götaland
 - code: RYF-QPR-HGB-DEN-BMK-MPP
   description: ''
   level: 5
-  name: södra Norrland
+  name: Södra Norrland
 - code: RYF-QPR-HGB-DEN-BMK-JTH
   description: ''
   level: 5
-  name: sydöstra Götaland
+  name: Sydöstra Götaland
 - code: RYF-QPR-HGB-DEN-BMK-FWF
   description: ''
   level: 5
-  name: sydvästra Götaland
+  name: Sydvästra Götaland
 - code: RYF-QPR-HGB-DEN-BMK-JGT
   description: ''
   level: 5
-  name: västra Götaland
+  name: Västra Götaland
 - code: RYF-QPR-HGB-DEN-BMK-PZR
   description: ''
   level: 5
-  name: västra Svealand
+  name: Västra Svealand
 - code: RYF-QPR-HGB-DEN-FXI
   description: ''
   level: 4
@@ -5052,7 +4946,7 @@ categories:
 - code: RYF-QPR-HGB-DEN-FXI-XXJ
   description: ''
   level: 5
-  name: Bohuslän/Dal
+  name: Bohuslän & Dal
 - code: RYF-QPR-HGB-DEN-FXI-ZJV
   description: ''
   level: 5
@@ -5080,7 +4974,7 @@ categories:
 - code: RYF-QPR-HGB-DEN-FXI-OMK
   description: ''
   level: 5
-  name: Jämtland/Härjedalen
+  name: Jämtland & Härjedalen
 - code: RYF-QPR-HGB-DEN-FXI-CKJ
   description: ''
   level: 5
@@ -5164,7 +5058,7 @@ categories:
 - code: RYF-QPR-HGB-DEN-FXI-PIL
   description: ''
   level: 5
-  name: Västmanland/Örebro
+  name: Västmanland & Örebro
 - code: RYF-QPR-HGB-DEN-SZC
   description: ''
   level: 4
@@ -5176,7 +5070,7 @@ categories:
 - code: RYF-QPR-HGB-DEN-SZC-CVY
   description: ''
   level: 5
-  name: Dalsland/Bohuslän
+  name: Dalsland & Bohuslän
 - code: RYF-QPR-HGB-DEN-SZC-PWD
   description: ''
   level: 5
@@ -5204,7 +5098,7 @@ categories:
 - code: RYF-QPR-HGB-DEN-SZC-KKA
   description: ''
   level: 5
-  name: Kalmar/Öland
+  name: Kalmar & Öland
 - code: RYF-QPR-HGB-DEN-SZC-DOJ
   description: ''
   level: 5
@@ -5216,7 +5110,7 @@ categories:
 - code: RYF-QPR-HGB-DEN-SZC-IVA
   description: ''
   level: 5
-  name: Örebro/Västmanland
+  name: Örebro & Västmanland
 - code: RYF-QPR-HGB-DEN-SZC-LYF
   description: ''
   level: 5
@@ -5280,7 +5174,7 @@ categories:
 - code: RYF-QPR-HGB-DEN-SZC-LAF
   description: ''
   level: 5
-  name: Växjö/Blekinge
+  name: Växjö & Blekinge
 - code: RYF-QPR-HGB-DEN-SZC-UDY
   description: ''
   level: 5
@@ -5492,11 +5386,11 @@ categories:
 - code: RYF-QPR-HGB-BAH-CRB-JTI
   description: ''
   level: 5
-  name: norra
+  name: Norra
 - code: RYF-QPR-HGB-BAH-CRB-KFO
   description: ''
   level: 5
-  name: södra
+  name: Södra
 - code: RYF-QPR-HGB-BAH-UUZ
   description: ''
   level: 4
@@ -5504,15 +5398,15 @@ categories:
 - code: RYF-QPR-HGB-BAH-UUZ-AHC
   description: ''
   level: 5
-  name: norra
+  name: Norra
 - code: RYF-QPR-HGB-BAH-UUZ-HPQ
   description: ''
   level: 5
-  name: mellersta
+  name: Mellersta
 - code: RYF-QPR-HGB-BAH-UUZ-YOK
   description: ''
   level: 5
-  name: södra
+  name: Södra
 - code: RYF-QPR-HGB-BAH-KFA
   description: ''
   level: 4
@@ -5524,11 +5418,11 @@ categories:
 - code: RYF-QPR-HGB-BAH-RMK-PSK
   description: ''
   level: 5
-  name: norra
+  name: Norra
 - code: RYF-QPR-HGB-BAH-RMK-EMR
   description: ''
   level: 5
-  name: södra
+  name: Södra
 - code: RYF-QPR-HGB-BAH-JUI
   description: ''
   level: 4
@@ -5536,27 +5430,27 @@ categories:
 - code: RYF-QPR-HGB-BAH-JUI-MVL
   description: ''
   level: 5
-  name: norra
+  name: Norra
 - code: RYF-QPR-HGB-BAH-JUI-OGL
   description: ''
   level: 5
-  name: mellersta östra
+  name: Mellersta östra
 - code: RYF-QPR-HGB-BAH-JUI-GUX
   description: ''
   level: 5
-  name: mellersta västra
+  name: Mellersta västra
 - code: RYF-QPR-HGB-BAH-JUI-HYG
   description: ''
   level: 5
-  name: östra
+  name: Östra
 - code: RYF-QPR-HGB-BAH-JUI-DHE
   description: ''
   level: 5
-  name: södra
+  name: Södra
 - code: RYF-QPR-HGB-BAH-JUI-DCL
   description: ''
   level: 5
-  name: västra
+  name: Västra
 - code: RYF-QPR-HGB-DYW
   description: ''
   level: 3
@@ -5600,7 +5494,7 @@ categories:
 - code: RYF-QPR-HGB-UGP
   description: ''
   level: 3
-  name: Inline, skateboard
+  name: Inline & skateboard
 - code: RYF-QPR-HGB-UGP-RGU
   description: ''
   level: 4
@@ -5650,21 +5544,19 @@ categories:
   level: 2
   name: Disciplinåtgärder inom idrotten
 - code: RYF-QPR-HJD
-  description: 'Användning av otillåtna preparat för att höja prestationsförmåga,
-    och frågor relaterade till det.'
+  description: Användning av otillåtna preparat för att höja prestationsförmåga, och frågor relaterade till det
   level: 2
   name: Dopning inom idrott
 - code: RYF-QPR-DBC
-  description: Kommersiella frågor som beror idrott, exempelvis tv-avtal, sponsoravtal,
-    eller förvärv av klubbar.
+  description: Kommersiella frågor som beror idrott, exempelvis tv-avtal, sponsoravtal, eller förvärv av klubbar
   level: 2
-  name: Sportindustri, ekonomiska affärer
+  name: Sportindustri & ekonomiska affärer
 - code: RYF-QPR-ICL
-  description: Nyheter som berör arenor och andra faciliteter där sport utövas.
+  description: Nyheter som berör arenor och andra faciliteter där sport utövas
   level: 2
   name: Sportarenor
 - code: RYF-QPR-FMU
-  description: Nyheter om spelare som byter lag/klubb, eller rykten om detsamma.
+  description: Nyheter om spelare som byter lag eller byter klubb, eller rykten om detsamma
   level: 2
   name: Övergångar
 - code: RYF-WXT
@@ -5672,12 +5564,11 @@ categories:
   level: 1
   name: Konflikter, krig & terrorism
 - code: RYF-WXT-ABT
-  description: Våldshandling utformad för att höja rädsla hos ett folk t.ex. 11 september
+  description: Våldshandling utformad för att höja rädsla hos ett folk, till exempel 11 september
   level: 2
   name: Terroristattentat
 - code: RYF-WXT-ABT-QYW
-  description: Vapen som baseras på levande organismer. Ofta varianter av sjukdomar
-    som mjältbrand eller smittkoppor. Biologiska vapen räknas som massförstörelsevapen.
+  description: Vapen som baseras på levande organismer. Ofta varianter av sjukdomar som mjältbrand eller smittkoppor. Biologiska vapen räknas som massförstörelsevapen
   level: 3
   name: Biologiska vapen
 - code: RYF-WXT-ABT-NHU
@@ -5685,17 +5576,15 @@ categories:
   level: 3
   name: Bombning
 - code: RYF-WXT-CRN
-  description: 'Tvister mellan motsatta grupper som innebär användning av vapen '
+  description: Tvister mellan motsatta grupper som innebär användning av vapen
   level: 2
   name: Beväpnad konflikt
 - code: RYF-WXT-CRN-VOL
-  description: Anti-statliga åtgärder av hemliga grupper med hit-and-run tekniker
-    eller sabotage, kidnappning och liknande
+  description: Anti-statliga åtgärder av hemliga grupper med hit-and-run tekniker eller sabotage, kidnappning och liknande
   level: 3
   name: Gerillakrig
 - code: RYF-WXT-CRN-BFS
-  description: Trupper som utför fredsbevarande operationer. Vanligast och mest känd
-    är FN:s fredsbevarande styrkor
+  description: Trupper som utför fredsbevarande operationer. Vanligast och mest känd är FN:s fredsbevarande styrkor
   level: 3
   name: Fredsbevarande styrkor
 - code: RYF-WXT-CRN-QLT
@@ -5711,23 +5600,19 @@ categories:
   level: 3
   name: Krig
 - code: RYF-WXT-CRN-NNP-ACL
-  description: Väpnade konflikter mellan medlemmar av samma nation eller geografisk
-    region
+  description: Väpnade konflikter mellan medlemmar av samma nation eller geografisk region
   level: 4
   name: Inbördeskrig
 - code: RYF-WXT-CRN-NNP-KLE
-  description: Krigsförbrytelser utgörs av grova brott mot internationella humanitära
-    rättsnormer som begås under väpnade konflikter
+  description: Krigsförbrytelser utgörs av grova brott mot internationella humanitära rättsnormer som begås under väpnade konflikter
   level: 4
   name: Krigsförbrytelse
 - code: RYF-WXT-BND
-  description: Missnöje bland befolkningen, vilket framgår av t.ex. strejker, demonstrationer
-    eller sabotage
+  description: Missnöje bland befolkningen, vilket framgår av till exempel strejker, demonstrationer eller sabotage
   level: 2
   name: Oroligheter
 - code: RYF-WXT-BND-ATO
-  description: En demonstration är en folkmassa som samlats för att offentligt uttrycka
-    en opinion i en politisk eller annan fråga
+  description: En demonstration är en folkmassa som samlats för att offentligt uttrycka en opinion i en politisk eller annan fråga
   level: 3
   name: Demonstration
 - code: RYF-WXT-BND-JKN
@@ -5739,13 +5624,11 @@ categories:
   level: 3
   name: Revolution
 - code: RYF-WXT-BND-IBC
-  description: Våldsam, destruktiv demonstration ofta involverar skada på individer
-    och förstörelse av egendom
+  description: Våldsam, destruktiv demonstration ofta involverar skada på individer och förstörelse av egendom
   level: 3
   name: Upplopp
 - code: RYF-WXT-AOH
-  description: Störtandet av en etablerad regering genom en organiserad grupp, ofta
-    militären eller ett politiskt parti
+  description: Störtandet av en etablerad regering genom en organiserad grupp, ofta militären eller ett politiskt parti
   level: 2
   name: Statskupp
 - code: RYF-WXT-UBT
@@ -5753,8 +5636,7 @@ categories:
   level: 2
   name: Massaker
 - code: RYF-WXT-UBT-QGE
-  description: Avsiktliga och systematiska handlingar i syfte att helt eller delvis
-    förinta en etnisk, religiös eller nationell grupp
+  description: Avsiktliga och systematiska handlingar i syfte att helt eller delvis förinta en etnisk, religiös eller nationell grupp
   level: 3
   name: Folkmord
 - code: RYF-WXT-OJB
@@ -5770,8 +5652,7 @@ categories:
   level: 3
   name: Fredssamtal
 - code: RYF-WXT-DTF
-  description: Alla åtgärder för att återuppbygga samhälle, ekonomi och politiska
-    system i ett område som drabbats av ett krig
+  description: Alla åtgärder för att återuppbygga samhälle, ekonomi och politiska system i ett område som drabbats av ett krig
   level: 2
   name: Återuppbyggnad efter krig
 - code: RYF-WXT-DTF-UWH
@@ -5779,13 +5660,11 @@ categories:
   level: 3
   name: Nedrustning av vapen
 - code: RYF-WXT-DTF-QYO
-  description: Avlägsnande eller neutralisering av ammunition såsom landminor som
-    återstår efter ett krig eller väpnade konflikter
+  description: Avlägsnande eller neutralisering av ammunition såsom landminor som återstår efter ett krig eller väpnade konflikter
   level: 3
   name: Minröjning
 - code: RYF-WXT-QIC
-  description: Människor fångade och fängslade på grund av sociala konflikter, politisk
-    aktivitet under krig eller väpnad konflikt
+  description: Människor fångade och fängslade på grund av sociala konflikter, politisk aktivitet under krig eller väpnad konflikt
   level: 2
   name: Krigs- & politiska fångar
 - code: RYF-WHZ
@@ -5801,8 +5680,7 @@ categories:
   level: 2
   name: Väderfenomen
 - code: RYF-WHZ-IPU
-  description: Numeriska fakta om vädret som temperatur, lufttryck, fuktighet och
-    liknande
+  description: Numeriska fakta om vädret som temperatur, lufttryck, fuktighet och liknande
   level: 2
   name: Väderstatistik
 - code: RYF-WHZ-MKN
