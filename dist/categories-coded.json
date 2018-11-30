@@ -14,7 +14,7 @@
         },
         {
             "code": "RYF-XKI-CDA",
-            "description": "Om artikeln handlar om animerad konst. Till exempel tecknad eller dataanimerad film",
+            "description": "Om artikeln handlar om animerad konst. Till exempel tecknad eller datoranimerad film",
             "level": 2,
             "name": "Animation"
         },
@@ -22,7 +22,7 @@
             "code": "RYF-XKI-TMS",
             "description": "Till exempel \"Bamse\", \"Fantomen\" och \"Nemi\"",
             "level": 2,
-            "name": "Tecknad serie"
+            "name": "Tecknade serier"
         },
         {
             "code": "RYF-XKI-JIJ",
@@ -340,7 +340,7 @@
             "code": "RYF-XKI-BUS-NYP",
             "description": "Till exempel \"På Spåret\", \"Quizza med P3\"",
             "level": 3,
-            "name": "Underhållingsprogram"
+            "name": "Underhållningsprogram"
         },
         {
             "code": "RYF-XKI-BUS-IFX",
@@ -1288,7 +1288,7 @@
             "code": "RYF-IXA-KEV-VKR-KHT",
             "description": "Försäljning per budgivning",
             "level": 4,
-            "name": "Auktionstjänst"
+            "name": "Auktionstjänster"
         },
         {
             "code": "RYF-IXA-KEV-VKR-LRI",
@@ -1300,7 +1300,7 @@
             "code": "RYF-IXA-KEV-VKR-APV",
             "description": "Leverantörer av expertkunskap inom ett brett spektrum av områden, vanligtvis tillfälligt",
             "level": 4,
-            "name": "Konsulttjänst"
+            "name": "Konsulttjänster"
         },
         {
             "code": "RYF-IXA-KEV-VKR-MVU",
@@ -1330,7 +1330,7 @@
             "code": "RYF-IXA-KEV-VKR-SQL",
             "description": "Företag som tillhandahåller tjänster för omhändertagande av de döda",
             "level": 4,
-            "name": "Begravningsbyrå & krematorier"
+            "name": "Begravningsbyråer & krematorier"
         },
         {
             "code": "RYF-IXA-KEV-VKR-UDU",
@@ -1546,7 +1546,7 @@
             "code": "RYF-IXA-KEV-VXX-TWI",
             "description": "Flygplan och flygplatsverksamhet",
             "level": 4,
-            "name": "Flygtransport"
+            "name": "Flygtransporter"
         },
         {
             "code": "RYF-IXA-KEV-VXX-IMZ",
@@ -1564,7 +1564,7 @@
             "code": "RYF-IXA-KEV-VXX-YRQ",
             "description": "Verksamheten att transportera gods med lastbil och motorvägar",
             "level": 4,
-            "name": "Vägtransport"
+            "name": "Vägtransporter"
         },
         {
             "code": "RYF-IXA-KEV-VXX-TBB",
@@ -2338,7 +2338,7 @@
             "code": "RYF-CUW-XVL-JXY",
             "description": "",
             "level": 3,
-            "name": "Allahelgona"
+            "name": "Allhelgona"
         },
         {
             "code": "RYF-CUW-XVL-DPU",
@@ -2494,19 +2494,19 @@
             "code": "RYF-ZEI-CLV-QGD-IEB",
             "description": "",
             "level": 4,
-            "name": "Avtalsfrågor sjukvård"
+            "name": "Avtalsfrågor (sjukvård)"
         },
         {
             "code": "RYF-ZEI-CLV-QGD-AMA",
             "description": "",
             "level": 4,
-            "name": "Avtalsfrågor löner"
+            "name": "Avtalsfrågor (löner)"
         },
         {
             "code": "RYF-ZEI-CLV-QGD-FZM",
             "description": "",
             "level": 4,
-            "name": "Avtalsfrågor arbetsregler"
+            "name": "Avtalsfrågor (arbetsregler)"
         },
         {
             "code": "RYF-ZEI-CLV-PSL",
@@ -3286,19 +3286,19 @@
             "code": "RYF-ITV-LTK",
             "description": "Konflikter som involverar religiösa skillnader",
             "level": 2,
-            "name": "Religiös konflikt"
+            "name": "Religiösa konflikter"
         },
         {
             "code": "RYF-ITV-QAK",
             "description": "Nyheter om en religiös händelse, men inte en festival eller semester",
             "level": 2,
-            "name": "Religiös händelse"
+            "name": "Religiösa händelser"
         },
         {
             "code": "RYF-ITV-QAK-VBF",
             "description": "Etablerade religiösa ritualer som till exempel gudstjänst, begravning och vigsel",
             "level": 3,
-            "name": "Religiös ritual"
+            "name": "Religiösa ritualer"
         },
         {
             "code": "RYF-ITV-IQC",
@@ -3310,7 +3310,7 @@
             "code": "RYF-ITV-WPR",
             "description": "",
             "level": 2,
-            "name": "Religiös text"
+            "name": "Religiösa texter"
         },
         {
             "code": "RYF-ITV-WPR-SYY",
@@ -3784,7 +3784,7 @@
             "code": "RYF-HPT-THK-DPO",
             "description": "Modern form av slaveri, ofta relaterat till prostitution, hushållsarbete, eller fabriksarbete",
             "level": 3,
-            "name": "Trafficing"
+            "name": "Trafficking"
         },
         {
             "code": "RYF-HPT-PPR",
@@ -8362,13 +8362,13 @@
             "code": "RYF-WXT-ABT-NHU",
             "description": "Användning av sprängladdningar mot människor, byggnader eller konstruktioner",
             "level": 3,
-            "name": "Bombning"
+            "name": "Bombningar"
         },
         {
             "code": "RYF-WXT-CRN",
             "description": "Tvister mellan motsatta grupper som innebär användning av vapen",
             "level": 2,
-            "name": "Beväpnad konflikt"
+            "name": "Beväpnade konflikter"
         },
         {
             "code": "RYF-WXT-CRN-VOL",
@@ -8422,7 +8422,7 @@
             "code": "RYF-WXT-BND-ATO",
             "description": "En demonstration är en folkmassa som samlats för att offentligt uttrycka en opinion i en politisk eller annan fråga",
             "level": 3,
-            "name": "Demonstration"
+            "name": "Demonstrationer"
         },
         {
             "code": "RYF-WXT-BND-JKN",
@@ -8434,7 +8434,7 @@
             "code": "RYF-WXT-BND-IMS",
             "description": "En ofta våldsamma förändringar i ett lands statsskick genom inre krafter",
             "level": 3,
-            "name": "Revolution"
+            "name": "Revolutioner"
         },
         {
             "code": "RYF-WXT-BND-IBC",
@@ -8446,13 +8446,13 @@
             "code": "RYF-WXT-AOH",
             "description": "Störtandet av en etablerad regering genom en organiserad grupp, ofta militären eller ett politiskt parti",
             "level": 2,
-            "name": "Statskupp"
+            "name": "Statskupper"
         },
         {
             "code": "RYF-WXT-UBT",
             "description": "Dödande av många människor vid ett och samma tillfälle",
             "level": 2,
-            "name": "Massaker"
+            "name": "Massakrer"
         },
         {
             "code": "RYF-WXT-UBT-QGE",
@@ -8512,7 +8512,7 @@
             "code": "RYF-WHZ-XTD",
             "description": "Förutsägelse av vädret i framtiden antingen kort eller lång sikt",
             "level": 2,
-            "name": "Väderprognos"
+            "name": "Väderprognoser"
         },
         {
             "code": "RYF-WHZ-LAW",
@@ -8530,7 +8530,7 @@
             "code": "RYF-WHZ-MKN",
             "description": "Varningar till den allmänna befolkningen om kraftigt väder",
             "level": 2,
-            "name": "Vädervarning"
+            "name": "Vädervarningar"
         }
     ],
     "version": "1.1.1"
