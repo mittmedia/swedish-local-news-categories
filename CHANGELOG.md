@@ -1,7 +1,11 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
-## [1.1.1] - 2018-11-15
+## [1.1.2] - 2018-11-30
+### Changes
+- Changed names and descriptions on a few categories, see commit `f4c5ce7da38307ea8faac6fd625b0e0a30adaacd` for more information.
+
+## [1.1.1] - 2018-11-29
 ### Changes
 - Changed names and descriptions on a hundred categories, see commit `f4c5ce7da38307ea8faac6fd625b0e0a30adaacd` for more information.
 

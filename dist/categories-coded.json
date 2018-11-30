@@ -4354,7 +4354,7 @@
             "code": "RYF-QPR-HGB-FUZ-CZT",
             "description": "",
             "level": 4,
-            "name": "Bmx"
+            "name": "BMX"
         },
         {
             "code": "RYF-QPR-HGB-FUZ-VII",
@@ -8533,5 +8533,5 @@
             "name": "Vädervarningar"
         }
     ],
-    "version": "1.1.1"
+    "version": "1.1.2"
 }
