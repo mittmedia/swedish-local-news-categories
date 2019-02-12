@@ -14,7 +14,8 @@ def load_categories():
 
 def save_categories(categories):
     with open('src/categories-coded.yml', 'w', encoding='utf-8') as categories_file:
-        yaml.dump(categories, categories_file)
+        yaml.dump(categories, categories_file, default_flow_style=False, allow_unicode=True, explicit_start=True,
+                  width=4096, line_break='n')
 
 
 def load_modfile():
