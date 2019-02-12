@@ -1,0 +1,14 @@
+version: 2.0
+modifications:
+  - action: UPDATE
+    code: RYF-QPR-HGB-AYA-MFT
+    name: Längdskidor
+  - action: UPDATE
+    code: RYF-WUU-SUX-MEF
+    name: Äldreomsorg (Sjukvård)
+  - action: UPDATE
+    code: RYF-CUW-AEJ
+    name: Husdjur
+  - action: UPDATE
+    code: RYF-BIZ-GCG-JSV
+    name: Förundersökning
