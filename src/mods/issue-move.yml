@@ -1,0 +1,22 @@
+modifications:
+  - action: MOVE
+    code: RYF-ZEI-IVG
+    name: Pension
+    newParentCode: RYF-IXA-QED
+    newParentName: Ekonomi
+# Rättsprocessen Flytta allt från Polisiärt arbete till Rättsprocessen
+# Ska polisiert arbete flyttas eller bara dess underkategorier 
+  - action: MOVE
+    code: RYF-BIZ-GCG-NCM
+    name: Frihetsberövande
+    newParentCode: RYF-BIZ-XSV
+    newParentName: Rättsprocessen
+    
+#Förundersökning har två underktegorier, som också ska flyttas
+  - action: MOVE
+    code: RYF-BIZ-GCG-JSV
+    name: Förundersöking
+    newParentCode: RYF-BIZ-XSV
+    newParentName: Rättsprocessen
+    
+ 

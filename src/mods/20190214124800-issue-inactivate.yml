@@ -1,0 +1,8 @@
+modifications:
+  - action: INACTIVATE
+    code: RYF-WUU-CNM
+    name: Vårdyrken
+    
+  - action: INACTIVATE
+    code: RYF-QPR-HGB-DEN-HPJ-TIM
+    name: Testserie

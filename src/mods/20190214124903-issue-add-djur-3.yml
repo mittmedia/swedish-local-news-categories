@@ -1,0 +1,30 @@
+modifications:
+
+  - action: ADD
+    parentCode: 
+    parentName: Rovdjur
+    name: Varg
+    
+  - action: ADD
+    parentCode: 
+    parentName: Rovdjur
+    name: Björn
+    
+  - action: ADD
+    parentCode: 
+    parentName: Rovdjur
+    name: Lodjur
+    
+  - action: ADD
+    parentCode: 
+    parentName: Rovdjur
+    name: Järv
+  
+  - action: ADD
+    parentCode: 
+    parentName: Rovdjur
+    name: Kungsörn
+    
+  
+    
+    

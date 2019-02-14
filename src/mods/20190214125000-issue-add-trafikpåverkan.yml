@@ -1,0 +1,25 @@
+modifications:
+  - action: ADD
+    parentCode: RYF-HPT-YGE-GUI
+    parentName: Trafikpåverkan
+    name: Väg 
+  
+  - action: ADD
+    parentCode: RYF-HPT-YGE-GUI
+    parentName: Trafikpåverkan
+    name: Tåg
+  
+  - action: ADD
+    parentCode: RYF-HPT-YGE-GUI
+    parentName: Trafikpåverkan
+    name: Flyg
+    
+  - action: ADD
+    parentCode: RYF-HPT-YGE-GUI
+    parentName: Trafikpåverkan
+    name: Sjöfart
+  
+  
+  
+    
+    

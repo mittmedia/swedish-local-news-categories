@@ -1,0 +1,224 @@
+modifications:
+  - action: ADD
+    parentCode: RYF-QPR-HGB-BQN
+    parentName: Ishockey
+    name: NHL
+    
+  - action: ADD
+    parentCode: RYF-QPR-HGB-BQN
+    parentName: Ishockey
+    name: KHL
+  - action: ADD
+    parentCode: RYF-QPR-HGB-BQNN
+    parentName: Ishockey
+    name: Hockeyettan Norra vår
+    
+  - action: ADD
+    parentCode: RYF-QPR-HGB-BQN
+    parentName: Ishockey
+    name: Allettan norra
+    
+  - action: ADD
+    parentCode: RYF-QPR-HGB-BQN
+    parentName: Ishockey
+    name: Allettan södra
+    
+  - action: ADD
+    parentCode: RYF-QPR-HGB-BQN
+    parentName: Ishockey
+    name: Hockeyettan Östra vår
+
+  - action: ADD
+    parentCode: RYF-QPR-HGB-BQN
+    parentName: Ishockey
+    name: Hockeyettan Södra vår
+
+  - action: ADD
+    parentCode: RYF-QPR-HGB-BQN
+    parentName: Ishockey  
+    name: Hockeyettan Västra vår
+
+  - action: ADD
+    parentCode: RYF-QPR-HGB-BQN
+    parentName: Ishockey
+    name: Kvalserien Hockeyettan västra
+
+  - action: ADD
+    parentCode: RYF-QPR-HGB-BQN
+    parentName: Ishockey
+    name: Playoff till Kvalserien Hockeyettan västra
+
+  - action: ADD
+    parentCode: RYF-QPR-HGB-BQN
+    parentName: Ishockey
+    name: Hockeytvåan Norra A fortsättning
+
+  - action: ADD
+    parentCode: RYF-QPR-HGB-BQN
+    parentName: Ishockey
+    name: Hockeytvåan Norra B fortsättning
+
+  - action: ADD
+    parentCode: RYF-QPR-HGB-BQN
+    parentName: Ishockey  
+    name: Alltvåan norra AB
+
+  - action: ADD
+    parentCode: RYF-QPR-HGB-BQN
+    parentName: Ishockey  
+    name: Alltvåan östra
+
+  - action: ADD
+    parentCode: RYF-QPR-HGB-BQN
+    parentName: Ishockey  
+    name: Alltvåan södra
+
+  - action: ADD
+    parentCode: RYF-QPR-HGB-BQN
+    parentName: Ishockey  
+    name: Förkval till Kvalserien till Hockeytvåan västra
+
+  - action: ADD
+    parentCode: RYF-QPR-HGB-BQN
+    parentName: Ishockey  
+    name: Hockeytvåan Södra A fortsättning
+
+  - action: ADD
+    parentCode: RYF-QPR-HGB-BQN
+    parentName: Ishockey  
+    name: Hockeytvåan Södra B fortsättning
+
+  - action: ADD
+    parentCode: RYF-QPR-HGB-BQN
+    parentName: Ishockey  
+    name: Alltrean östra
+
+  - action: ADD
+    parentCode: RYF-QPR-HGB-BQN
+    parentName: Ishockey  
+    name: Alltrean södra A
+
+  - action: ADD
+    parentCode: RYF-QPR-HGB-BQN
+    parentName: Ishockey  
+    name: Alltrean södra B
+
+  - action: ADD
+    parentCode: RYF-QPR-HGB-BQN
+    parentName: Ishockey  
+    name: Hockeytrean Norrbotten fortsättning
+
+  - action: ADD
+    parentCode: RYF-QPR-HGB-BQN
+    parentName: Ishockey  
+    name: Hockeytrean Örebro-Västmanland
+
+  - action: ADD
+    parentCode: RYF-QPR-HGB-BQN
+    parentName: Ishockey  
+    name: Hockeytrean Östra fortsättning
+
+  - action: ADD
+    parentCode: RYF-QPR-HGB-BQN
+    parentName: Ishockey  
+    name: Hockeytrean Södra A fortsättning
+
+  - action: ADD
+    parentCode: RYF-QPR-HGB-BQN
+    parentName: Ishockey  
+    name: Hockeytrean Södra B fortsättning
+
+  - action: ADD
+    parentCode: RYF-QPR-HGB-BQN 
+    parentName: Ishockey 
+    name: Hockeytrean Södra C fortsättning
+
+  - action: ADD
+    parentCode: RYF-QPR-HGB-BQN 
+    parentName: Ishockey 
+    name: Hockeytrean Södra D fortsättning
+
+  - action: ADD
+    parentCode: RYF-QPR-HGB-BQN  
+    parentName: Ishockey
+    name: Hockeytrean Värmland
+
+  - action: ADD
+    parentCode: RYF-QPR-HGB-BQN  
+    parentName: Ishockey
+    name: Hockeytrean Västerbotten fortsättning
+
+  - action: ADD
+    parentCode: RYF-QPR-HGB-BQN  
+    parentName: Ishockey
+    name: Hockeyfyran Göteborg A
+
+  - action: ADD
+    parentCode: RYF-QPR-HGB-BQN  
+    parentName: Ishockey
+    name: Hockeyfyran Göteborg B
+
+  - action: ADD
+    parentCode: RYF-QPR-HGB-BQN  
+    parentName: Ishockey
+    name: Hockeyfyran Östergötland
+
+  - action: ADD
+    parentCode: RYF-QPR-HGB-BQN
+    parentName: Ishockey
+    name: Hockeyfyran Stockholm fortsättning A
+
+  - action: ADD
+    parentCode: RYF-QPR-HGB-BQN  
+    parentName: Ishockey
+    name: Hockeyfyran Stockholm fortsättning B
+
+  - action: ADD
+    parentCode: RYF-QPR-HGB-BQN  
+    parentName: Ishockey
+    name: Hockeyfyran Stockholm mellersta
+
+  - action: ADD
+    parentCode: RYF-QPR-HGB-BQN  
+    parentName: Ishockey
+    name: Hockeyfyran Stockholm norra
+
+  - action: ADD
+    parentCode: RYF-QPR-HGB-BQN  
+    parentName: Ishockey
+    name: Hockeyfyran Stockholm södra
+
+  - action: ADD
+    parentCode: RYF-QPR-HGB-BQN  
+    parentName: Ishockey
+    name: Hockeyfyran Uppland
+
+  - action: ADD
+    parentCode: RYF-QPR-HGB-BQN  
+    parentName: Ishockey
+    name: Hockeyfyran Uppland fortsättning
+
+  - action: ADD
+    parentCode: RYF-QPR-HGB-BQN  
+    parentName: Ishockey
+    name: Division 5 herr Stockholm norra
+
+  - action: ADD
+    parentCode: RYF-QPR-HGB-BQN  
+    parentName: Ishockey
+    name: Division 5 herr Stockholm södra
+    
+  - action: ADD
+    parentCode: RYF-QPR-HGB-BQN  
+    parentName: Ishockey
+    name: Förkval till Play Off till SDHL 
+    
+  - action: ADD
+    parentCode: RYF-QPR-HGB-BQN  
+    parentName: Ishockey
+    name: Play Off till SDHL  
+    
+    
+    
+    
+  
