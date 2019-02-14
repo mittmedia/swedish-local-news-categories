@@ -11,12 +11,19 @@ class ModAction(Enum):
     INACTIVATE = 4
 
 
+class CategoryStatus(Enum):
+    ACTIVE = 1
+    INACTIVE = 2
+    REPLACED = 3
+
+
 @dataclass
 class Category:
     code: str
     level: int
     name: str
-    description: str = None
+    status: CategoryStatus = CategoryStatus.ACTIVE
+    description: str = ''
     replaces: str = None
     replacedBy: str = None
 
@@ -89,10 +96,9 @@ def save_categories(categories):
     categories_output = {'categories': [], 'version': categories['version']}
 
     for key, value in categories.items():
-
         # If the key is a tuple it is a category # lets see if this is needed :)
         if isinstance(key, tuple):
-            category = {'code': value.code, 'level ': value.level, 'name': value.name}
+            category = {'code': value.code, 'level': value.level, 'name': value.name}
 
             if value.description is not None:
                 category['description'] = value.description
@@ -103,40 +109,61 @@ def save_categories(categories):
             if value.replacedBy is not None:
                 category['replacedBy'] = value.replacedBy
 
-        categories['categories'] = categories
+            categories_output['categories'].append(category)
 
-    with open('src/categories-coded.yml', 'w', encoding='utf-8') as categories_file:
-        yaml.dump(categories, categories_file, allow_unicode=True, explicit_start=True,
-                  width=4096, line_break='\n')
-
-    return categories
+    with open('src/categories-coded.yml', 'w', encoding='utf-8', newline="\n") as categories_file:
+        yaml.dump(categories_output, categories_file, default_flow_style=False, allow_unicode=True,
+                  explicit_start=False,
+                  width=4096, line_break="\n")
 
 
 def update_categories(categories, operation):
     if operation.action == ModAction.ADD:
-        # Might need this to get it into the dict at the "right" place, also need
-        parent_category = categories[(operation.parentCode, operation.parentName)]
-
-        category = Category(name=operation.name, code=operation.code, description=operation.description)
-
-        if parent_category is None:
-            raise ValueError("Category must have an existing Parent: " + category)
-
-        categories[(category.code, category.name)] = category
+        category_add(categories, operation)
 
     if operation.action == ModAction.UPDATE:
         category_update(categories[(operation.code, operation.name)], operation)
 
-    # if(operation.action == ModAction.ADD):
+    # if (operation.action == ModAction.INACTIVATE):
+    #     category_inactivate(categories, operation)
 
     return categories
 
 
-def category_update(category, update_operation):
-    if category.code == update_operation.code:
-        category.name = update_operation.newName
-        category.description = update_operation.description
+def category_inactivate(categories, operation):
+    category = categories[(operation.code, operation.name)]
+
+    child_categories = []
+
+    # for
+    #
+    # if category.code == operation.code:
+    #     category.name = operation.newName
+    #
+    #     if operation.description is not None:
+    #         category.description = operation.description
     return category
+
+
+def category_update(category, operation):
+    if category.code == operation.code:
+        category.name = operation.newName
+
+        if operation.description is not None:
+            category.description = operation.description
+    return category
+
+
+def category_add(categories, operation):
+    # Might need this to get it into the dict at the "right" place, also need
+    parent_category = categories[(operation.parentCode, operation.parentName)]
+
+    category = Category(name=operation.name, code=operation.code, description=operation.description)
+
+    if parent_category is None:
+        raise ValueError("Category must have an existing Parent: " + category)
+
+    categories[(category.code, category.name)] = category
 
 
 if __name__ == '__main__':
