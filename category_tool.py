@@ -56,6 +56,8 @@ def load_categories():
             cat.replaces = category['replaces']
         if 'replacedBy' in category:
             cat.replacedBy = category['replacedBy']
+        if 'status' in category:
+            cat.status = category['status']
 
         categories[(cat.code, cat.name)] = cat
 
@@ -98,7 +100,7 @@ def save_categories(categories):
     for key, value in categories.items():
         # If the key is a tuple it is a category # lets see if this is needed :)
         if isinstance(key, tuple):
-            category = {'code': value.code, 'level': value.level, 'name': value.name}
+            category = {'code': value.code, 'level': value.level, 'name': value.name, 'status': value.status.name}
 
             if value.description is not None:
                 category['description'] = value.description
@@ -129,14 +131,26 @@ def update_categories(categories, operation):
 
     return categories
 
+def category_move(categories, operation):
+    print('need to move stuff')
+    category = categories[(operation.code, operation.name)]
+    category.status = CategoryStatus.INACTIVE
+
+    for key, sub_cat in categories.items():
+        if isinstance(key, tuple):
+            if sub_cat.code.startswith(category.code):
+                sub_cat.status = CategoryStatus.INACTIVE
+
+
 
 def category_inactivate(categories, operation):
     category = categories[(operation.code, operation.name)]
     category.status = CategoryStatus.INACTIVE
 
-    for k,sub_cat in categories.items():
-        if sub_cat.code.startswith(category.code):
-            sub_cat.status = CategoryStatus.INACTIVE
+    for key, sub_cat in categories.items():
+        if isinstance(key, tuple):
+            if sub_cat.code.startswith(category.code):
+                sub_cat.status = CategoryStatus.INACTIVE
 
 
 def category_update(category, operation):
@@ -160,13 +174,8 @@ def category_add(categories, operation):
 
 
 if __name__ == '__main__':
-    categories = load_categories()
-    modifications = load_modfile()
+    category_data = load_categories()
+    for mod in load_modfile():
+        update_categories(category_data, mod)
 
-    print(categories)
-    print(modifications)
-    for mod in modifications:
-        update_categories(categories, mod)
-
-    print(categories)
-    save_categories(categories)
+    save_categories(category_data)
