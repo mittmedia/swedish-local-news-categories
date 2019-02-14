@@ -124,25 +124,19 @@ def update_categories(categories, operation):
     if operation.action == ModAction.UPDATE:
         category_update(categories[(operation.code, operation.name)], operation)
 
-    # if (operation.action == ModAction.INACTIVATE):
-    #     category_inactivate(categories, operation)
+    if (operation.action == ModAction.INACTIVATE):
+        category_inactivate(categories, operation)
 
     return categories
 
 
 def category_inactivate(categories, operation):
     category = categories[(operation.code, operation.name)]
+    category.status = CategoryStatus.INACTIVE
 
-    child_categories = []
-
-    # for
-    #
-    # if category.code == operation.code:
-    #     category.name = operation.newName
-    #
-    #     if operation.description is not None:
-    #         category.description = operation.description
-    return category
+    for k,sub_cat in categories.items():
+        if sub_cat.code.startswith(category.code):
+            sub_cat.status = CategoryStatus.INACTIVE
 
 
 def category_update(category, operation):
@@ -151,7 +145,6 @@ def category_update(category, operation):
 
         if operation.description is not None:
             category.description = operation.description
-    return category
 
 
 def category_add(categories, operation):
