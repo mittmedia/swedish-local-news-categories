@@ -216,7 +216,19 @@ modifications:
   - action: ADD
     parentCode: RYF-QPR-HGB-BQN  
     parentName: Ishockey
-    name: Play Off till SDHL  
+    name: Play Off till SDHL
+    
+  - action: INACTIVATE
+    code: RYF-QPR-HGB-BQN-PWJ
+    name: J20 Elit
+    
+  - action: INACTIVATE
+    code: RYF-QPR-HGB-BQN-WGC 
+    name: J18 Elit
+    
+  - action: INACTIVATE
+    code: RYF-QPR-HGB-BQN-VIC 
+    name: J20 Superelit
     
     
     

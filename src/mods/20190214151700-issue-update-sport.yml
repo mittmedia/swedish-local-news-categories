@@ -108,12 +108,16 @@ modifications:
     parentName: Handboll
     name: Division 4 dam
   
-  
+# this one has two children
+  - action: INACTIVATE
+    code: RYF-QPR-HGB-DEN-IWR
+    name: Svenska Cupen
+    
+  - action: UPDATE
+    code: RYF-QPR-HGB-BAH-UUZ
+    name: Division 2
+    newName: Division 2 herr
  
-## kan inte hitta dessa        
-##TA BORT: Svenska Cupen norra/södra          
 
-## vad menas med den nedan?   
-##Sport/Sporter/Volleyboll/Division 2 ...   BYT NAMN TILL   Sport/Sporter/Volleyboll/Division 2 herr ...      (tre serier)
-        
+     
      

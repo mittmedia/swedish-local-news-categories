@@ -1,10 +1,4 @@
 modifications:
-
-  - action: UPDATE
-    code: RYF-QPR-HGB-AYA-MFT
-    name: Längdskidåkning
-    newName: Längdskidor
-### name: Längdåkning vad ska namnet vara ? Längdskidor
   - action: UPDATE
     code: RYF-QPR-HGB-AYA-MFT
     name: Längdskidåkning
@@ -15,7 +9,6 @@ modifications:
     name: Alpin skidåkning
     newName: Alpint
     
-#eller ska denna flyttas/ byta namn till freeskiing?    
   - action: INACTIVATE
     code: RYF-QPR-HGB-AYA-FLN-MVO
     name: FreeStyle
@@ -53,7 +46,6 @@ modifications:
     parentName: Längdsskidåkning
     name: 30 & 50 km
     
-## ska verkligen skiathlon tas väck
   - action: INACTIVATE
     parentCode: RYF-QPR-HGB-AYA-MFT-YLW
     parentName: Längdsskidåkning
