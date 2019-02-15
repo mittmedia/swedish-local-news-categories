@@ -1,3 +1,5 @@
+import random
+import string
 from dataclasses import dataclass
 from enum import Enum
 
@@ -39,6 +41,22 @@ class ModOperation:
     newParentName: str = None
     parentName: str = None
     parentCode: str = None
+
+
+def generate_new_code(parent_code, existing_codes):
+    new_code = ""
+
+    while True:
+        sub_code = ""
+
+        for _ in range(3):
+            sub_code += random.choice(string.ascii_uppercase)
+
+        new_code = parent_code + '-' + sub_code
+        if new_code not in existing_codes:
+            break
+
+    return new_code
 
 
 def load_categories():
@@ -98,7 +116,7 @@ def save_categories(categories):
     categories_output = {'categories': [], 'version': categories['version']}
 
     for key, value in categories.items():
-        # If the key is a tuple it is a category # lets see if this is needed :)
+        # If the key is a tuple it is a category
         if isinstance(key, tuple):
             category = {'code': value.code, 'level': value.level, 'name': value.name, 'status': value.status.name}
 
@@ -126,21 +144,36 @@ def update_categories(categories, operation):
     if operation.action == ModAction.UPDATE:
         category_update(categories[(operation.code, operation.name)], operation)
 
-    if (operation.action == ModAction.INACTIVATE):
+    if operation.action == ModAction.INACTIVATE:
         category_inactivate(categories, operation)
 
     return categories
 
+
 def category_move(categories, operation):
-    print('need to move stuff')
-    category = categories[(operation.code, operation.name)]
-    category.status = CategoryStatus.INACTIVE
+    category_to_move = categories[(operation.code, operation.name)]
+    sub_categories_to_move = []
 
-    for key, sub_cat in categories.items():
+    for key, cat in categories.items():
         if isinstance(key, tuple):
-            if sub_cat.code.startswith(category.code):
-                sub_cat.status = CategoryStatus.INACTIVE
+            if cat.code.startswith(category_to_move.code):
+                sub_categories_to_move.append(cat)
 
+    new_parent_cat = Category(name=category_to_move.name,
+                              code=generate_new_code(operation.newParentCode, [k[0] for k in category_data.keys()]),
+                              description=category_to_move.description)
+
+    category_to_move.status = CategoryStatus.INACTIVE
+
+    categories[(new_parent_cat.code, new_parent_cat.name)] = new_parent_cat
+
+    for sub_cat in sub_categories_to_move:
+        new_sub_cat = Category(name=sub_cat.name
+                               , code=sub_cat.code.replace(category_to_move.code, new_parent_cat.code)
+                               , description=sub_cat.description)
+
+        sub_cat.status = CategoryStatus.ACTIVE
+        categories[(new_sub_cat.code, new_sub_cat.name)] = new_sub_cat
 
 
 def category_inactivate(categories, operation):
@@ -175,6 +208,7 @@ def category_add(categories, operation):
 
 if __name__ == '__main__':
     category_data = load_categories()
+
     for mod in load_modfile():
         update_categories(category_data, mod)
 
