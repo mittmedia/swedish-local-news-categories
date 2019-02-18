@@ -110,13 +110,16 @@ def get_unprocessed_modification_files():
     for file_name in os.listdir(mod_file_path):
         if re.match("\d{14}.+.yml", file_name) and file_name not in applied_mods:
             unprocessed_modification_files.append(file_name)
+            applied_mods.append(file_name)
 
     return unprocessed_modification_files
 
 
 def save_processed_files(processed_files):
     with open(mod_file_path + '/applied_mods.yml', 'w', encoding='utf-8', newline="\n") as applied_mods_file:
-        yaml.dump(processed_files, applied_mods_file)
+        yaml.dump(processed_files, applied_mods_file, default_flow_style=False, allow_unicode=True,
+                  explicit_start=False,
+                  width=4096, line_break="\n")
 
 
 def load_modification_files(mod_files_to_load):
@@ -314,6 +317,7 @@ def category_add(categories, operation):
 
 if __name__ == '__main__':
     mod_files = get_unprocessed_modification_files()
+    save_processed_files(applied_mods)
 
     category_data = load_categories()
 
@@ -323,4 +327,3 @@ if __name__ == '__main__':
         update_categories(category_data, mod)
 
     save_categories(category_data)
-    save_processed_files(mod_files)
