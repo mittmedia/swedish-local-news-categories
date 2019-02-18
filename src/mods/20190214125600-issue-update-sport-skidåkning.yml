@@ -11,7 +11,7 @@ modifications:
     
   - action: INACTIVATE
     code: RYF-QPR-HGB-AYA-FLN-MVO
-    name: FreeStyle
+    name: Freestyle
 
   - action: MOVE
     code: RYF-QPR-HGB-AYA-FLN-EHF
@@ -34,29 +34,14 @@ modifications:
     parentName: Skidåkning
     name: Freeskiing
 
-    
   - action: INACTIVATE
-    parentCode: RYF-QPR-HGB-AYA-MFT-YLW
-    parentName: Längdsskidåkning
+    code: RYF-QPR-HGB-AYA-MFT-YLW
     name: 10 & 15 km
-    
-    
+
   - action: INACTIVATE
-    parentCode: RYF-QPR-HGB-AYA-MFT-YLW
-    parentName: Längdsskidåkning
+    code: RYF-QPR-HGB-AYA-MFT-HRG
     name: 30 & 50 km
     
   - action: INACTIVATE
-    parentCode: RYF-QPR-HGB-AYA-MFT-YLW
-    parentName: Längdsskidåkning
+    code: RYF-QPR-HGB-AYA-MFT-NUI
     name: Skiathlon
-    
-    
-    
-
-
-
-
-
-
-  
