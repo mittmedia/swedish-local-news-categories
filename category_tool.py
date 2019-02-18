@@ -4,6 +4,7 @@ import re
 import string
 from dataclasses import dataclass
 from enum import Enum
+from pathlib import Path
 
 import yaml
 
@@ -61,6 +62,8 @@ def generate_new_code(parent_code, existing_codes):
 
 version = None
 
+applied_mods = []
+
 mod_file_path = 'src/mods'
 
 
@@ -94,12 +97,33 @@ def load_categories():
     return categories
 
 
-def load_modification_files():
+def get_unprocessed_modification_files():
+    global mod_file_path
+    global applied_mods
+
+    unprocessed_modification_files = []
+
+    if Path(mod_file_path + '/applied_mods.yml').is_file():
+        with open(mod_file_path + '/applied_mods.yml', 'r', encoding='utf-8') as applied_mods_file:
+            applied_mods.extend(yaml.load(applied_mods_file))
+
+    for file_name in os.listdir(mod_file_path):
+        if re.match("\d{14}.+.yml", file_name) and file_name not in applied_mods:
+            unprocessed_modification_files.append(file_name)
+
+    return unprocessed_modification_files
+
+
+def save_processed_files(processed_files):
+    with open(mod_file_path + '/applied_mods.yml', 'w', encoding='utf-8', newline="\n") as applied_mods_file:
+        yaml.dump(processed_files, applied_mods_file)
+
+
+def load_modification_files(mod_files_to_load):
     global mod_file_path
     modifications = []
-    for file_name in os.listdir(mod_file_path):
-        if re.match("\d{14}.+.yml", file_name):
-            modifications.extend(load_modification_file(file_name))
+    for file_name in mod_files_to_load:
+        modifications.extend(load_modification_file(file_name))
 
     return modifications
 
@@ -111,8 +135,6 @@ def load_modification_file(path):
         mod_dict = yaml.load(modification_file)
 
     modifications = []
-
-    print(file_path)
 
     for modification in mod_dict['modifications']:
         mod = ModOperation(action=ModAction[modification['action']])
@@ -166,7 +188,6 @@ def save_categories(categories):
 
 
 def update_categories(categories, operation):
-    print(operation)
     if operation.action == ModAction.ADD:
         category_add(categories, operation)
 
@@ -247,7 +268,6 @@ def category_update(categories, operation):
         if matching_categories.__len__() == 1:
             category = matching_categories[0]
         else:
-            print(matching_categories)
             if matching_categories.__len__() > 1:
                 raise ValueError(
                     "Error renaming category with only name reference, duplicate active categories found: {name}"
@@ -293,11 +313,14 @@ def category_add(categories, operation):
 
 
 if __name__ == '__main__':
+    mod_files = get_unprocessed_modification_files()
+
     category_data = load_categories()
 
-    modification_data = load_modification_files()
+    modification_data = load_modification_files(mod_files)
 
     for mod in modification_data:
         update_categories(category_data, mod)
 
     save_categories(category_data)
+    save_processed_files(mod_files)
