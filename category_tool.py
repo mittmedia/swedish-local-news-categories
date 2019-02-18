@@ -233,9 +233,12 @@ def category_update(category, operation):
 
 
 def category_add(categories, operation):
-    # Might need this to get it into the dict at the "right" place, also need
-    parent_category = categories[(operation.parentCode, operation.parentName)]
-
+    if (operation.parentCode, operation.parentName) in categories:
+        parent_category = categories[(operation.parentCode, operation.parentName)]
+    else:
+        for code, name in [k for k in categories.keys()]:
+            if name == operation.parentName:
+                parent_category = categories[(code, operation.parentName)]
 
     new_category_code = generate_new_code(parent_category.code, [k[0] for k in categories.keys()])
 

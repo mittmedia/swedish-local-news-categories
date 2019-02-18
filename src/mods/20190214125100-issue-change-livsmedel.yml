@@ -1,16 +1,9 @@
 modifications:
   - action: UPDATE
-    parentCode: RYF-IXA-KEV-RQL
-    parentName: Konsumtions- & dagligvaror
+    code: RYF-IXA-KEV-RQL-MGE
     name: Mat
     newName: Livsmedel 
   
   - action: INACTIVATE
     code: RYF-IXA-KEV-RQL-ORT
     name: Dryck
-  
-
-  
-  
-    
-    

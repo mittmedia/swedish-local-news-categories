@@ -111,7 +111,7 @@ modifications:
 # this one has two children
   - action: INACTIVATE
     code: RYF-QPR-HGB-DEN-IWR
-    name: Svenska Cupen
+    name: Svenska cupen
     
   - action: UPDATE
     code: RYF-QPR-HGB-BAH-UUZ
