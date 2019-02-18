@@ -252,10 +252,6 @@ def category_add(categories, operation):
     categories[(category.code, category.name)] = category
 
 
-def category_sort(categories):
-    return sorted(categories.items())
-
-
 if __name__ == '__main__':
     category_data = load_categories()
 
