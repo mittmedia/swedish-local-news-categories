@@ -85,7 +85,7 @@ def load_categories():
         if 'replacedBy' in category:
             cat.replacedBy = category['replacedBy']
         if 'status' in category:
-            cat.status = category['status']
+            cat.status = CategoryStatus[category['status']]
 
         categories[(cat.code, cat.name)] = cat
 
