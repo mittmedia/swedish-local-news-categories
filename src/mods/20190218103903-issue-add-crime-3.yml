@@ -1,0 +1,13 @@
+modifications:
+  - action: UPDATE
+    code: 
+    name: Anlagd brand
+    newName: Mordbrand
+ 
+  - action: UPDATE
+    code: 
+    name: Kapning av fordon
+    newName: Tillgrepp av fortskaffningsmedel
+    
+  
+    

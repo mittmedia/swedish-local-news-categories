@@ -1,0 +1,58 @@
+modifications:
+  - action: MOVE
+    code: RYF-BIZ-WZJ-TEY
+    newParentCode: 
+    newParentName: Allmänfarliga brott
+    name: Anlagd brand
+    
+  - action: ADD
+    parentCode: 
+    parentName: Allmänfarliga brott
+    name: Spridande av gift eller smitta
+
+  - action: ADD
+    parentCode: 
+    parentName: Allmänfarliga brott
+    name: Sabotage
+
+  - action: ADD
+    parentCode: 
+    parentName: Allmänfarliga brott
+    name: Allmänfarlig ödeläggelse
+
+  - action: ADD
+    parentCode: 
+    parentName: Allmänfarliga brott
+    name: Allmänfarlig vårdslöshet
+
+
+  - action: ADD
+    parentCode: 
+    parentName: Hot & trakasserier
+    name: Ofredande
+
+  - action: ADD
+    parentCode: 
+    parentName: Hot & trakasserier
+    name: Olaga hot
+
+  - action: ADD
+    parentCode: 
+    parentName: Hot & trakasserier
+    name: Utpressning
+
+  - action: ADD
+    parentCode: 
+    parentName: Hot & trakasserier
+    name: Hot mot tjänsteman
+ 
+  - action: ADD
+    parentCode: 
+    parentName: Miljöbrott
+    name: Jaktbrott
+
+  - action: ADD
+    parentCode: 
+    parentName: Miljöbrott
+    name: Artskyddsbrott
+    
