@@ -35,13 +35,13 @@ modifications:
     name: Freeskiing
 
     
-  - action: DELETE
+  - action: INACTIVATE
     parentCode: RYF-QPR-HGB-AYA-MFT-YLW
     parentName: Längdsskidåkning
     name: 10 & 15 km
     
     
-  - action: DELETE
+  - action: INACTIVATE
     parentCode: RYF-QPR-HGB-AYA-MFT-YLW
     parentName: Längdsskidåkning
     name: 30 & 50 km

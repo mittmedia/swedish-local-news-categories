@@ -1,4 +1,6 @@
+import os
 import random
+import re
 import string
 from dataclasses import dataclass
 from enum import Enum
@@ -33,7 +35,7 @@ class Category:
 @dataclass
 class ModOperation:
     action: ModAction
-    code: str
+    code: str = None
     description: str = None
     name: str = None
     newName: str = None
@@ -44,8 +46,6 @@ class ModOperation:
 
 
 def generate_new_code(parent_code, existing_codes):
-    new_code = ""
-
     while True:
         sub_code = ""
 
@@ -59,7 +59,17 @@ def generate_new_code(parent_code, existing_codes):
     return new_code
 
 
+version = None
+
+mod_file_path = 'src/mods'
+
+
+def calculate_level(category_code):
+    return len(category_code.split('-')) - 1
+
+
 def load_categories():
+    global version
     with open('src/categories-coded.yml', 'r', encoding='utf-8') as categories_file:
         categories_dict = yaml.load(categories_file)
 
@@ -79,20 +89,36 @@ def load_categories():
 
         categories[(cat.code, cat.name)] = cat
 
-    categories['version'] = categories_dict['version']
+    version = categories_dict['version']
 
     return categories
 
 
-def load_modfile():
-    with open('diff-example.yml', 'r', encoding='utf-8') as modfile:
-        mod_dict = yaml.load(modfile)
+def load_modification_files():
+    global mod_file_path
+    modifications = []
+    for file_name in os.listdir(mod_file_path):
+        if re.match("\d{14}.+.yml", file_name):
+            modifications.extend(load_modification_file(file_name))
+
+    return modifications
+
+
+def load_modification_file(path):
+    global mod_file_path
+    file_path = mod_file_path + '/' + path
+    with open(file_path, 'r', encoding='utf-8') as modification_file:
+        mod_dict = yaml.load(modification_file)
 
     modifications = []
 
-    for modification in mod_dict['modifications']:
-        mod = ModOperation(action=ModAction[modification['action']], code=modification['code'])
+    print(file_path)
 
+    for modification in mod_dict['modifications']:
+        mod = ModOperation(action=ModAction[modification['action']])
+
+        if 'code' in modification:
+            mod.code = modification['code']
         if 'description' in modification:
             mod.replacedBy = modification['description']
         if 'name' in modification:
@@ -109,27 +135,29 @@ def load_modfile():
             mod.parentName = modification['parentName']
 
         modifications.append(mod)
+
     return modifications
 
 
 def save_categories(categories):
-    categories_output = {'categories': [], 'version': categories['version']}
+    global version
+    categories_output = {'categories': [], 'version': version}
 
     for key, value in categories.items():
-        # If the key is a tuple it is a category
-        if isinstance(key, tuple):
-            category = {'code': value.code, 'level': value.level, 'name': value.name, 'status': value.status.name}
+        category = {'code': value.code, 'level': value.level, 'name': value.name, 'status': value.status.name}
 
-            if value.description is not None:
-                category['description'] = value.description
+        if value.description is not None:
+            category['description'] = value.description
 
-            if value.replaces is not None:
-                category['replaces'] = value.replaces
+        if value.replaces is not None:
+            category['replaces'] = value.replaces
 
-            if value.replacedBy is not None:
-                category['replacedBy'] = value.replacedBy
+        if value.replacedBy is not None:
+            category['replacedBy'] = value.replacedBy
 
-            categories_output['categories'].append(category)
+        categories_output['categories'].append(category)
+
+    categories_output['categories'] = sorted(categories_output['categories'], key=lambda k: (k['code'], k['level']))
 
     with open('src/categories-coded.yml', 'w', encoding='utf-8', newline="\n") as categories_file:
         yaml.dump(categories_output, categories_file, default_flow_style=False, allow_unicode=True,
@@ -147,6 +175,9 @@ def update_categories(categories, operation):
     if operation.action == ModAction.INACTIVATE:
         category_inactivate(categories, operation)
 
+    if operation.action == ModAction.MOVE:
+        category_move(categories, operation)
+
     return categories
 
 
@@ -155,24 +186,32 @@ def category_move(categories, operation):
     sub_categories_to_move = []
 
     for key, cat in categories.items():
-        if isinstance(key, tuple):
-            if cat.code.startswith(category_to_move.code):
-                sub_categories_to_move.append(cat)
+        if cat.code.startswith(category_to_move.code):
+            sub_categories_to_move.append(cat)
 
+    new_parent_code = generate_new_code(operation.newParentCode, [k[0] for k in categories.keys()])
     new_parent_cat = Category(name=category_to_move.name,
-                              code=generate_new_code(operation.newParentCode, [k[0] for k in category_data.keys()]),
-                              description=category_to_move.description)
+                              code=new_parent_code,
+                              description=category_to_move.description,
+                              level=calculate_level(new_parent_code))
 
     category_to_move.status = CategoryStatus.INACTIVE
 
     categories[(new_parent_cat.code, new_parent_cat.name)] = new_parent_cat
 
     for sub_cat in sub_categories_to_move:
-        new_sub_cat = Category(name=sub_cat.name
-                               , code=sub_cat.code.replace(category_to_move.code, new_parent_cat.code)
-                               , description=sub_cat.description)
+        new_sub_cat_code = sub_cat.code.replace(category_to_move.code, new_parent_cat.code)
 
-        sub_cat.status = CategoryStatus.ACTIVE
+        if new_sub_cat_code in [k[0] for k in categories.keys()]:
+            parent_code = new_sub_cat_code[0:new_sub_cat_code.rfind("-")]
+            new_sub_cat_code = generate_new_code(parent_code, [k[0] for k in categories.keys()])
+
+        new_sub_cat = Category(name=sub_cat.name,
+                               code=new_sub_cat_code,
+                               description=sub_cat.description,
+                               level=calculate_level(new_sub_cat_code))
+
+        sub_cat.status = CategoryStatus.INACTIVE
         categories[(new_sub_cat.code, new_sub_cat.name)] = new_sub_cat
 
 
@@ -181,9 +220,8 @@ def category_inactivate(categories, operation):
     category.status = CategoryStatus.INACTIVE
 
     for key, sub_cat in categories.items():
-        if isinstance(key, tuple):
-            if sub_cat.code.startswith(category.code):
-                sub_cat.status = CategoryStatus.INACTIVE
+        if sub_cat.code.startswith(category.code):
+            sub_cat.status = CategoryStatus.INACTIVE
 
 
 def category_update(category, operation):
@@ -198,7 +236,12 @@ def category_add(categories, operation):
     # Might need this to get it into the dict at the "right" place, also need
     parent_category = categories[(operation.parentCode, operation.parentName)]
 
-    category = Category(name=operation.name, code=operation.code, description=operation.description)
+
+    new_category_code = generate_new_code(parent_category.code, [k[0] for k in categories.keys()])
+
+    level = calculate_level(new_category_code)
+
+    category = Category(name=operation.name, code=new_category_code, description=operation.description, level=level)
 
     if parent_category is None:
         raise ValueError("Category must have an existing Parent: " + category)
@@ -206,10 +249,16 @@ def category_add(categories, operation):
     categories[(category.code, category.name)] = category
 
 
+def category_sort(categories):
+    return sorted(categories.items())
+
+
 if __name__ == '__main__':
     category_data = load_categories()
 
-    for mod in load_modfile():
+    modification_data = load_modification_files()
+
+    for mod in modification_data:
         update_categories(category_data, mod)
 
     save_categories(category_data)
