@@ -160,17 +160,17 @@ modifications:
     
   - action: ADD
     parentCode: RYF-BIZ-WZJ-RPI
-    parentName: Stölder & Inbrott
+    parentName: Stölder & inbrott
     name: Snatteri
  
   - action: ADD
     parentCode: RYF-BIZ-WZJ-RPI
-    parentName: Stölder & Inbrott
+    parentName: Stölder & inbrott
     name: Stöld
 
   - action: ADD
     parentCode: RYF-BIZ-WZJ-RPI
-    parentName: Stölder & Inbrott
+    parentName: Stölder & inbrott
     name: Inbrott
 
   - action: ADD

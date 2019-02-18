@@ -166,11 +166,12 @@ def save_categories(categories):
 
 
 def update_categories(categories, operation):
+    print(operation)
     if operation.action == ModAction.ADD:
         category_add(categories, operation)
 
     if operation.action == ModAction.UPDATE:
-        category_update(categories[(operation.code, operation.name)], operation)
+        category_update(categories, operation)
 
     if operation.action == ModAction.INACTIVATE:
         category_inactivate(categories, operation)
@@ -186,18 +187,25 @@ def category_move(categories, operation):
     sub_categories_to_move = []
 
     for key, cat in categories.items():
-        if cat.code.startswith(category_to_move.code):
+        if cat.code.startswith(category_to_move.code) and cat.code != category_to_move.code:
             sub_categories_to_move.append(cat)
 
-    new_parent_code = generate_new_code(operation.newParentCode, [k[0] for k in categories.keys()])
+    if operation.newParentCode is None:
+        for code, name in [k for k in categories.keys()]:
+            if name == operation.newParentName:
+                new_parent_code = generate_new_code(code, [k[0] for k in categories.keys()])
+    else:
+        new_parent_code = generate_new_code(operation.newParentCode, [k[0] for k in categories.keys()])
+
     new_parent_cat = Category(name=category_to_move.name,
                               code=new_parent_code,
                               description=category_to_move.description,
                               level=calculate_level(new_parent_code))
+    new_parent_cat.replaces = category_to_move.code
+    categories[(new_parent_cat.code, new_parent_cat.name)] = new_parent_cat
 
     category_to_move.status = CategoryStatus.INACTIVE
-
-    categories[(new_parent_cat.code, new_parent_cat.name)] = new_parent_cat
+    category_to_move.replacedBy = new_parent_cat.code
 
     for sub_cat in sub_categories_to_move:
         new_sub_cat_code = sub_cat.code.replace(category_to_move.code, new_parent_cat.code)
@@ -210,8 +218,10 @@ def category_move(categories, operation):
                                code=new_sub_cat_code,
                                description=sub_cat.description,
                                level=calculate_level(new_sub_cat_code))
+        new_sub_cat.replaces = sub_cat.code
 
         sub_cat.status = CategoryStatus.INACTIVE
+        sub_cat.replacedBy = new_sub_cat.code
         categories[(new_sub_cat.code, new_sub_cat.name)] = new_sub_cat
 
 
@@ -224,12 +234,42 @@ def category_inactivate(categories, operation):
             sub_cat.status = CategoryStatus.INACTIVE
 
 
-def category_update(category, operation):
+def category_update(categories, operation):
+    if operation.code is None:
+        matching_categories = []
+        for code, name in [k for k in categories.keys()]:
+            if name == operation.name:
+                cat = categories[(code, operation.name)]
+                # We only care about Active Categories
+                if cat.status is CategoryStatus.ACTIVE:
+                    matching_categories.append(cat)
+
+        if matching_categories.__len__() == 1:
+            category = matching_categories[0]
+        else:
+            print(matching_categories)
+            if matching_categories.__len__() > 1:
+                raise ValueError(
+                    "Error renaming category with only name reference, duplicate active categories found: {name}"
+                        .format(name=operation.name))
+            elif matching_categories.__len__() < 1:
+                raise ValueError(
+                    "Error renaming category with only name reference, no active category found: {name}"
+                        .format(name=operation.name))
+    else:
+        category = categories[(operation.code, operation.name)]
+
+    old_category_name = category.name
+
     if category.code == operation.code:
         category.name = operation.newName
 
         if operation.description is not None:
             category.description = operation.description
+
+    categories.pop((category.code, old_category_name))
+
+    categories[(category.code, category.name)] = category
 
 
 def category_add(categories, operation):

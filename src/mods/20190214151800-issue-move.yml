@@ -15,7 +15,7 @@ modifications:
 #Förundersökning har två underktegorier, som också ska flyttas
   - action: MOVE
     code: RYF-BIZ-GCG-JSV
-    name: Förundersöking
+    name: Förundersökning
     newParentCode: RYF-BIZ-XSV
     newParentName: Rättsprocessen
     
