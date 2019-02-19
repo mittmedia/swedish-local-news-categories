@@ -1,0 +1,47 @@
+modifications:
+  - action: UPDATE
+    code: RYF-QPR-HGB-AYA-MFT
+    name: Längdskidåkning
+    newName: Längdåkning
+    
+  - action: UPDATE
+    code: RYF-QPR-HGB-AYA-FLN
+    name: Alpin skidåkning
+    newName: Alpint
+    
+  - action: INACTIVATE
+    code: RYF-QPR-HGB-AYA-FLN-MVO
+    name: Freestyle
+
+  - action: MOVE
+    code: RYF-QPR-HGB-AYA-FLN-EHF
+    name: Skicross
+    newParentCode: RYF-QPR-HGB-AYA
+    newParentName: Skidåkning
+
+  - action: ADD
+    parentCode: RYF-QPR-HGB-AYA
+    parentName: Skidåkning
+    name: Puckelpist
+       
+  - action: ADD
+    parentCode: RYF-QPR-HGB-AYA
+    parentName: Skidåkning
+    name: Speedski
+    
+  - action: ADD
+    parentCode: RYF-QPR-HGB-AYA
+    parentName: Skidåkning
+    name: Freeskiing
+
+  - action: INACTIVATE
+    code: RYF-QPR-HGB-AYA-MFT-YLW
+    name: 10 & 15 km
+
+  - action: INACTIVATE
+    code: RYF-QPR-HGB-AYA-MFT-HRG
+    name: 30 & 50 km
+    
+  - action: INACTIVATE
+    code: RYF-QPR-HGB-AYA-MFT-NUI
+    name: Skiathlon

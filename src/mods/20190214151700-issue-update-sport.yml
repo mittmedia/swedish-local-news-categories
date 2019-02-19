@@ -1,0 +1,123 @@
+modifications:
+  - action: ADD
+    parentCode: RYF-QPR-HGB
+    parentName: Sporter
+    name: Bridge
+  - action: ADD
+    parentCode: RYF-QPR-HGB-EOW
+    parentName: Motorcykelsport
+    name: Isracing
+    
+  - action: UPDATE
+    code: RYF-QPR-HGB-OQU-HEN
+    name: Allsvenskan
+    newName: Allsvenskan herr
+    
+  - action: UPDATE
+    code: RYF-QPR-HGB-OQU-KCB
+    name: Elitserien
+    newName: Elitserien herr
+    
+  - action: UPDATE
+    code: RYF-QPR-HGB-MII-DUB
+    name: Division 2
+    newName: Division 2 herr
+    
+  - action: ADD
+    parentCode: RYF-QPR-HGB-MII
+    parentName: Basket
+    name: Division 3 herr
+  
+  - action: ADD
+    parentCode: RYF-QPR-HGB-MII
+    parentName: Basket
+    name: Division 4 herr
+  
+  - action: ADD
+    parentCode: RYF-QPR-HGB-MII
+    parentName: Basket
+    name: Division 2 dam
+     
+  - action: ADD
+    parentCode: RYF-QPR-HGB-MII
+    parentName: Basket
+    name: Basketligan rullstol  
+    
+  - action: ADD
+    parentCode: RYF-QPR-HGB-JDC
+    parentName: Bordtennis
+    name: Division 1 herr
+    
+  - action: ADD
+    parentCode: RYF-QPR-HGB-JDC
+    parentName: Bordtennis
+    name: Division 1 dam
+    
+  - action: ADD
+    parentCode: RYF-QPR-HGB-JDC
+    parentName: Bordtennis
+    name: Division 2 herr
+    
+  - action: ADD
+    parentCode: RYF-QPR-HGB-JDC
+    parentName: Bordtennis
+    name: Division 1 dam
+    
+  - action: UPDATE
+    code: RYF-QPR-HGB-JDC-IPY
+    name: Pingisligan
+    newName: Pingisligan herr
+    
+  - action: UPDATE
+    code: RYF-QPR-HGB-JDC-QZF
+    name: Superettan
+    newName: Superettan herr
+    
+  - action: ADD
+    parentCode: RYF-QPR-HGB-BAH
+    parentName: Volleyboll
+    name: Division 3 herr   
+    
+  - action: ADD
+    parentCode: RYF-QPR-HGB-BAH
+    parentName: Volleyboll
+    name: Division 3 dam
+    
+  - action: ADD
+    parentCode: RYF-QPR-HGB
+    parentName: Sporter
+    name: Multisport
+    
+  - action: ADD
+    parentCode: RYF-QPR-HGB-PJR
+    parentName: Handboll
+    name: Division 3 dam
+    
+  - action: ADD
+    parentCode: RYF-QPR-HGB-PJR
+    parentName: Handboll
+    name: Division 3 herr
+    
+  - action: ADD
+    parentCode: RYF-QPR-HGB-PJR
+    parentName: Handboll
+    name: Division 4 herr
+    
+  - action: ADD
+    parentCode: RYF-QPR-HGB-PJR
+    parentName: Handboll
+    name: Division 4 dam
+  
+# this one has two children
+  - action: INACTIVATE
+    code: RYF-QPR-HGB-DEN-IWR
+    name: Svenska cupen
+    
+  - action: UPDATE
+    code: RYF-QPR-HGB-BAH-UUZ
+    name: Division 2
+    newName: Division 2 herr
+ 
+
+     
+     

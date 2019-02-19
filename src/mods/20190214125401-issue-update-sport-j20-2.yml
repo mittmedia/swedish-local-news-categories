@@ -1,0 +1,124 @@
+modifications:    
+  - action: ADD
+    parentCode: 
+    parentName: J20
+    name: J20 SM-slutspel
+    
+  - action: ADD
+    parentCode: 
+    parentName: J20  
+    name: J20 Allettan östra
+    
+  - action: ADD
+    parentCode: 
+    parentName: J20
+    name: J20 Division 1 A syd
+    
+  - action: ADD
+    parentCode: 
+    parentName: J20
+    name: J20 Division 1 A syd fortsättning
+    
+  - action: ADD
+    parentCode: 
+    parentName: J20
+    name: J20 Division 1 B syd
+    
+  - action: ADD
+    parentCode: 
+    parentName: J20  
+    name: J20 Division 1 B syd fortsättning
+    
+  - action: ADD
+    parentCode: 
+    parentName: J20
+    name: J20 Division 1 C syd
+    
+  - action: ADD
+    parentCode: 
+    parentName: J20  
+    name: J20 Division 1 C syd fortsättning
+    
+  - action: ADD
+    parentCode: 
+    parentName: J20  
+    name: J20 Division 1 D syd
+    
+  - action: ADD
+    parentCode: 
+    parentName: J20  
+    name: J20 Division 1 D syd fortsättning
+    
+  - action: ADD
+    parentCode: 
+    parentName: J20
+    name: J20 Division 1 Östra
+    
+  - action: ADD
+    parentCode: 
+    parentName: J20  
+    name: J20 Division 1 Östra fortsättning
+    
+  - action: ADD
+    parentCode: 
+    parentName: J20  
+    name: J20 Division 1 Västra A
+    
+  - action: ADD
+    parentCode: 
+    parentName: J20  
+    name: J20 Division 1 Västra B
+    
+  - action: ADD
+    parentCode: 
+    parentName: J20  
+    name: J20 Elit Norra
+    
+  - action: ADD
+    parentCode: 
+    parentName: J20  
+    name: J20 Elit Östra
+    
+  - action: ADD
+    parentCode: 
+    parentName: J20  
+    name: J20 Elit Södra
+    
+  - action: ADD
+    parentCode: 
+    parentName: J20  
+    name: J20 Elit Västra
+    
+  - action: ADD
+    parentCode: 
+    parentName: J20  
+    name: J20 Juniorettan södra
+    
+  - action: ADD
+    parentCode: 
+    parentName: J20 
+    name: J20 Superelit fortsättning
+    
+  - action: ADD
+    parentCode: 
+    parentName: J20  
+    name: J20 Superelit norra
+    
+  - action: ADD
+    parentCode: 
+    parentName: J20  
+    name: J20 Superelit södra
+    
+  - action: ADD
+    parentCode: 
+    parentName: J20  
+    name: J20 Superelit Top10
+    
+  - action: ADD
+    parentCode: 
+    parentName: J20
+    name: Playoff till J20 Superelit
+
+
+
+  

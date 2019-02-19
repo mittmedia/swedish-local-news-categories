@@ -1,0 +1,112 @@
+modifications:
+  - action: ADD
+    parentCode: 
+    parentName: J18
+    name: J18 SM-slutspel
+   
+  - action: ADD
+    parentCode: 
+    parentName: J18
+    name: J18 Allettan östra
+
+  - action: ADD
+    parentCode: 
+    parentName: J18  
+    name: J18 Allsvenskan norra
+
+  - action: ADD
+    parentCode: 
+    parentName: J18  
+    name: J18 Allsvenskan södra
+
+  - action: ADD
+    parentCode: 
+    parentName: J18  
+    name: J18 Division 1 A Syd
+
+  - action: ADD
+    parentCode: 
+    parentName: J18  
+    name: J18 Division 1 A Syd fortsättning
+
+  - action: ADD
+    parentCode: 
+    parentName: J18  
+    name: J18 Division 1 B Syd
+
+  - action: ADD
+    parentCode: 
+    parentName: J18  
+    name: J18 Division 1 B Syd fortsättning
+
+  - action: ADD
+    parentCode: 
+    parentName: J18  
+    name: J18 Division 1 C Syd
+
+  - action: ADD
+    parentCode: 
+    parentName: J18  
+    name: J18 Division 1 Östra D
+
+  - action: ADD
+    parentCode: 
+    parentName: J18  
+    name: J18 Division 1 Östra fortsättning B
+
+  - action: ADD
+    parentCode: 
+    parentName: J18  
+    name: J18 Division 1 Västra C
+
+  - action: ADD
+    parentCode: 
+    parentName: J18  
+    name: J18 Division 2 Västergötland
+
+  - action: ADD
+    parentCode: 
+    parentName: J18  
+    name: J18 Elit norra
+
+  - action: ADD
+    parentCode: 
+    parentName: J18  
+    name: J18 Elit norra fortsättning
+
+  - action: ADD
+    parentCode: 
+    parentName: J18  
+    name: J18 Elit östra
+
+  - action: ADD
+    parentCode: 
+    parentName: J18  
+    name: J18 Elit östra fortsättning
+
+  - action: ADD
+    parentCode: 
+    parentName: J18  
+    name: J18 Elit södra
+
+  - action: ADD
+    parentCode: 
+    parentName: J18  
+    name: J18 Elit södra fortsättning
+
+  - action: ADD
+    parentCode: 
+    parentName: J18  
+    name: J18 Elit västra
+
+  - action: ADD
+    parentCode: 
+    parentName: J18  
+    name: J18 Elit västra fortsättning
+
+  - action: ADD
+    parentCode: 
+    parentName: J18  
+    name: J18 Ettan södra
+
+  

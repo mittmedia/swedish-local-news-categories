@@ -1,0 +1,181 @@
+modifications:
+  - action: ADD
+    parentCode: RYF-BIZ-WZJ
+    parentName: Brottslighet
+    name: Allmänfarliga brott
+
+  - action: UPDATE
+    code: RYF-BIZ-WZJ-GNO
+    name: Stöld
+    newName: Stölder & inbrott
+
+  - action: ADD
+    parentCode: RYF-BIZ-WZJ
+    parentName: Brottslighet
+    name: Hot & trakasserier
+
+  - action: ADD
+    parentCode: RYF-BIZ-WZJ
+    parentName: Brottslighet
+    name: Vållande till annans död
+    
+  - action: ADD
+    parentCode: RYF-BIZ-WZJ
+    parentName: Brottslighet
+    name: Smugglingsbrott
+
+  - action: ADD
+    parentCode: RYF-BIZ-WZJ
+    parentName: Brottslighet
+    name: Miljöbrott
+    
+  - action: ADD
+    parentCode: RYF-BIZ-WZJ
+    parentName: Brottslighet
+    name: Vapenbrott
+ 
+  - action: ADD
+    parentCode: RYF-BIZ-WZJ
+    parentName: Brottslighet
+    name: Djurskyddsbrott
+   
+  - action: ADD
+    parentCode: RYF-BIZ-WZJ
+    parentName: Brottslighet
+    name: Skadegörelse
+      
+  - action: ADD
+    parentCode: RYF-BIZ-WZJ
+    parentName: Brottslighet
+    name: Häleri
+ 
+  - action: ADD
+    parentCode: RYF-BIZ-WZJ
+    parentName: Brottslighet
+    name: Stämpling
+
+  - action: UPDATE
+    code: RYF-BIZ-WZJ-KVS
+    name: Överfall
+    newName: Våldsbrott
+ 
+  - action: UPDATE
+    code: RYF-BIZ-WZJ-RPI 
+    name: Ekobrott
+    newName: Bedrägerier & ekobrott
+    
+
+  - action: MOVE
+    code: RYF-BIZ-WZJ-KVS-MQG
+    newParentCode: RYF-BIZ-WZJ-KVS
+    newParentName: Våldsbrott
+    name: Misshandel
+    
+  - action: MOVE
+    code: RYF-BIZ-WZJ-DFJ
+    newParentCode: RYF-BIZ-WZJ-KVS
+    newParentName: Våldsbrott
+    name: Dråp
+
+  - action: MOVE
+    code: RYF-BIZ-WZJ-DRD
+    newParentCode: RYF-BIZ-WZJ-KVS
+    newParentName: Våldsbrott
+    name: Mord
+    
+  - action: ADD
+    parentCode: RYF-BIZ-WZJ-KVS
+    parentName: Våldsbrott
+    name: Våld i nära relationer
+
+ 
+  - action: MOVE
+    code: RYF-BIZ-WZJ-TUQ
+    newParentCode: RYF-BIZ-WZJ-RPI
+    newParentName: Bedrägerier & ekobrott
+    name: Bedrägeri
+ 
+  - action: ADD
+    parentCode: RYF-BIZ-WZJ-ELD
+    parentName: Trafikbrott
+    name: Rattfylleri
+
+  - action: ADD
+    parentCode: RYF-BIZ-WZJ-ELD
+    parentName: Trafikbrott
+    name: Olovlig körning
+
+  - action: ADD
+    parentCode: RYF-BIZ-WZJ-ELD
+    parentName: Trafikbrott
+    name: Vårdslöshet i trafik
+
+  - action: ADD
+    parentCode: RYF-BIZ-WZJ-ELD
+    parentName: Trafikbrott
+    name: Drograttfylla
+
+  - action: ADD
+    parentCode: RYF-BIZ-WZJ-RPI
+    parentName: Bedrägerier & ekobrott
+    name: Bedrägeri
+
+  - action: ADD
+    parentCode: RYF-BIZ-WZJ-RPI
+    parentName: Bedrägerier & ekobrott
+    name: Bokföringsbrott
+
+  - action: ADD
+    parentCode: RYF-BIZ-WZJ-RPI
+    parentName: Bedrägerier & ekobrott
+    name: Avtalsbrott
+
+  - action: ADD
+    parentCode: RYF-BIZ-WZJ-RPI
+    parentName: Bedrägerier & ekobrott
+    name: Förskingring
+
+  - action: ADD
+    parentCode: RYF-BIZ-WZJ-RPI
+    parentName: Bedrägerier & ekobrott
+    name: Skattebrott
+
+  - action: ADD
+    parentCode: RYF-BIZ-WZJ-RPI
+    parentName: Bedrägerier & ekobrott
+    name: Insiderhandel
+    
+  - action: MOVE
+    code: RYF-BIZ-WZJ-KVS-LGW
+    newParentCode: RYF-BIZ-WZJ-GNO
+    newParentName: Stölder & inbrott
+    name: Rån
+    
+  - action: MOVE
+    code: RYF-BIZ-WZJ-CXJ
+    newParentCode: RYF-BIZ-WZJ-GNO
+    newParentName: Stölder & inbrott
+    name: Kapning av fordon
+
+    
+  - action: ADD
+    parentCode: RYF-BIZ-WZJ-RPI
+    parentName: Stölder & inbrott
+    name: Snatteri
+ 
+  - action: ADD
+    parentCode: RYF-BIZ-WZJ-RPI
+    parentName: Stölder & inbrott
+    name: Stöld
+
+  - action: ADD
+    parentCode: RYF-BIZ-WZJ-RPI
+    parentName: Stölder & inbrott
+    name: Inbrott
+
+  - action: ADD
+    parentCode: RYF-BIZ-WZJ-JDU
+    parentName: Korruption
+    name: Trolöshet mot huvudman
+    
+        

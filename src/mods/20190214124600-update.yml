@@ -1,0 +1,15 @@
+modifications:
+  - action: UPDATE
+    code: RYF-WUU-SUX-MEF
+    name: Äldrevård
+    newName: Äldreomsorg (Sjukvård)
+    
+  - action: UPDATE
+    code: RYF-CUW-AEJ
+    name: Djur
+    newName: Husdjur
+    
+  - action: UPDATE
+    code: RYF-BIZ-GCG-JSV
+    name: Förundersöking
+    newName: Förundersökning

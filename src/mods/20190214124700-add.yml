@@ -1,0 +1,77 @@
+modifications:
+  - action: ADD
+    parentCode: RYF-TKT
+    parentName: Livsstil & fritid
+    name: Hantverk
+    
+  - action: ADD
+    parentCode: RYF-IXA-KEV-OTN
+    parentName: Fastighets- & byggnadsindustri
+    name: Bostadspriser
+    
+  - action: ADD
+    parentCode: RYF-HPT-XRQ
+    parentName: Välfärd & bidragsfrågor
+    name: Barnomsorg
+    
+  - action: ADD
+    parentCode: RYF-TKT
+    parentName: Livsstil & fritid
+    name: Föreningsliv
+    
+  - action: ADD
+    parentCode: RYF-HPT-XRQ
+    parentName: Välfärd & bidragsfrågor
+    name: Skolskjutsar
+    
+  - action: ADD
+    parentCode: RYF-HPT-ZSS
+    parentName: Samhällen
+    name: Samhällsplanering
+    
+  - action: ADD
+    parentCode: RYF-HPT-ZSS
+    parentName: Samhällen
+    name: Detaljplan
+    
+  - action: ADD
+    parentCode: RYF-HPT-ZSS
+    parentName: Samhällen
+    name: Översiktsplan
+    
+  - action: ADD
+    parentCode: RYF-IXA-QED
+    parentName: Ekonomi
+    name: Högkonjunktur
+    
+  - action: ADD
+    parentCode: RYF-IXA-QED
+    parentName: Ekonomi
+    name: Privatekonomi
+    
+  - action: ADD
+    parentCode: RYF-TKT
+    parentName: Livsstil & fritid
+    name: Bostadsrätt
+    
+  - action: ADD
+    parentCode: RYF-TKT
+    parentName: Livsstil & fritid
+    name: Villa
+    
+  - action: ADD
+    parentCode: RYF-TKT
+    parentName: Livsstil & fritid
+    name: Fritidshus
+    
+  - action: ADD
+    parentCode: RYF-KNI-XNS
+    parentName: Politiska frågor
+    name: Landsbygdspolitik
+    
+  - action: ADD
+    parentCode: RYF-HPT-ZSS
+    parentName: Samhällen
+    name: Stadsmiljö 
+    
+    
