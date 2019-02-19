@@ -30,14 +30,6 @@ In addition to changes described in the least significant and second most signif
 
 The guidelines for contributing to the repository is laid out in [CONTRIBUTING.md](https://github.com/mittmedia/swedish-local-news-categories/blob/master/CONTRIBUTING.md)
 
-## Running the generate script
-
-The script has been tested with Python 3.6. You run it with this command.
-
-```
-python generate_from_yml.py
-```
-
 It should overwrite the files in the directory `dist`.
 
 ## License
