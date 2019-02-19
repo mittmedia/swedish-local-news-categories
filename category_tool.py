@@ -284,11 +284,10 @@ def category_update(categories, operation):
 
     old_category_name = category.name
 
-    if category.code == operation.code:
-        category.name = operation.newName
+    category.name = operation.newName
 
-        if operation.description is not None:
-            category.description = operation.description
+    if operation.description is not None:
+        category.description = operation.description
 
     categories.pop((category.code, old_category_name))
 
