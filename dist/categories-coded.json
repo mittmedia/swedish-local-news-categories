@@ -545,21 +545,21 @@
             "description": "",
             "level": 4,
             "name": "Förskingring",
-            "status": "ACTIVE"
+            "status": "INACTIVE"
         },
         {
             "code": "RYF-BIZ-WZJ-RPI-EBO",
             "description": "",
             "level": 4,
             "name": "Bokföringsbrott",
-            "status": "ACTIVE"
+            "status": "INACTIVE"
         },
         {
             "code": "RYF-BIZ-WZJ-RPI-JKK",
             "description": "",
             "level": 4,
             "name": "Insiderhandel",
-            "status": "ACTIVE"
+            "status": "INACTIVE"
         },
         {
             "code": "RYF-BIZ-WZJ-RPI-NKB",
@@ -573,14 +573,14 @@
             "description": "",
             "level": 4,
             "name": "Skattebrott",
-            "status": "ACTIVE"
+            "status": "INACTIVE"
         },
         {
             "code": "RYF-BIZ-WZJ-RPI-SVU",
             "description": "",
             "level": 4,
             "name": "Avtalsbrott",
-            "status": "ACTIVE"
+            "status": "INACTIVE"
         },
         {
             "code": "RYF-BIZ-WZJ-RPI-UBX",
@@ -595,7 +595,7 @@
             "description": "",
             "level": 4,
             "name": "Bedrägeri",
-            "status": "ACTIVE"
+            "status": "INACTIVE"
         },
         {
             "code": "RYF-BIZ-WZJ-RPI-XPC",
