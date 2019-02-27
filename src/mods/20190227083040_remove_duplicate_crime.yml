@@ -1,0 +1,19 @@
+modifications:
+  - code: RYF-BIZ-WZJ-RPI-ASA
+    action: INACTIVATE
+    name: Förskingring
+  - code: RYF-BIZ-WZJ-RPI-EBO
+    action: INACTIVATE
+    name: Bokföringsbrott
+  - code: RYF-BIZ-WZJ-RPI-JKK
+    action: INACTIVATE
+    name: Insiderhandel
+  - code: RYF-BIZ-WZJ-RPI-RAV
+    action: INACTIVATE
+    name: Skattebrott
+  - code: RYF-BIZ-WZJ-RPI-SVU
+    action: INACTIVATE
+    name: Avtalsbrott
+  - code: RYF-BIZ-WZJ-RPI-WUP
+    action: INACTIVATE
+    name: Bedrägeri
