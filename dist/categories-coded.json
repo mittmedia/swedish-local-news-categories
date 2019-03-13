@@ -841,6 +841,12 @@
             "status": "ACTIVE"
         },
         {
+            "code": "RYF-BIZ-XSV-RSI",
+            "level": 3,
+            "name": "Frikännande",
+            "status": "ACTIVE"
+        },
+        {
             "code": "RYF-BIZ-XSV-XBV",
             "description": "Juridiska frågor som regleras utanför domstol",
             "level": 3,
@@ -1447,7 +1453,7 @@
             "code": "RYF-HPT-ECD-NOG",
             "description": "Artiklar som rör befolkningens utveckling över tid",
             "level": 3,
-            "name": "Befolkningstillväxt",
+            "name": "Befolkningsutveckling",
             "status": "ACTIVE"
         },
         {
@@ -1819,7 +1825,8 @@
             "description": "",
             "level": 3,
             "name": "Detaljplan",
-            "status": "ACTIVE"
+            "replacedBy": "RYF-HPT-ZSS-WTL-JLR",
+            "status": "INACTIVE"
         },
         {
             "code": "RYF-HPT-ZSS-HAB",
@@ -1836,11 +1843,28 @@
             "status": "ACTIVE"
         },
         {
+            "code": "RYF-HPT-ZSS-WTL-JLR",
+            "description": "",
+            "level": 4,
+            "name": "Detaljplan",
+            "replaces": "RYF-HPT-ZSS-FKI",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-HPT-ZSS-WTL-WIC",
+            "description": "",
+            "level": 4,
+            "name": "Översiktsplan",
+            "replaces": "RYF-HPT-ZSS-XII",
+            "status": "ACTIVE"
+        },
+        {
             "code": "RYF-HPT-ZSS-XII",
             "description": "",
             "level": 3,
             "name": "Översiktsplan",
-            "status": "ACTIVE"
+            "replacedBy": "RYF-HPT-ZSS-WTL-WIC",
+            "status": "INACTIVE"
         },
         {
             "code": "RYF-ITV",
@@ -2120,7 +2144,8 @@
             "description": "Köp och försäljning av fastigheter av alla typer",
             "level": 4,
             "name": "Fastighetsaffärer",
-            "status": "ACTIVE"
+            "replacedBy": "RYF-IXA-QED-QAS",
+            "status": "INACTIVE"
         },
         {
             "code": "RYF-IXA-KEV-OTN-KAZ",
@@ -2141,7 +2166,8 @@
             "description": "",
             "level": 4,
             "name": "Bostadspriser",
-            "status": "ACTIVE"
+            "replacedBy": "RYF-IXA-QED-UGD-FRC",
+            "status": "INACTIVE"
         },
         {
             "code": "RYF-IXA-KEV-OTN-RBK",
@@ -2697,6 +2723,12 @@
             "status": "ACTIVE"
         },
         {
+            "code": "RYF-IXA-KEV-WHS-ZIB",
+            "level": 4,
+            "name": "Fordonstillverkning",
+            "status": "ACTIVE"
+        },
+        {
             "code": "RYF-IXA-KEV-XZV",
             "description": "",
             "level": 3,
@@ -3048,6 +3080,14 @@
             "status": "ACTIVE"
         },
         {
+            "code": "RYF-IXA-QED-QAS",
+            "description": "Köp och försäljning av fastigheter av alla typer",
+            "level": 3,
+            "name": "Fastighetsaffärer",
+            "replaces": "RYF-IXA-KEV-OTN-GCM",
+            "status": "ACTIVE"
+        },
+        {
             "code": "RYF-IXA-QED-RHY",
             "description": "",
             "level": 3,
@@ -3073,6 +3113,14 @@
             "description": "",
             "level": 3,
             "name": "Privatekonomi",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-IXA-QED-UGD-FRC",
+            "description": "",
+            "level": 4,
+            "name": "Bostadspriser",
+            "replaces": "RYF-IXA-KEV-OTN-OYA",
             "status": "ACTIVE"
         },
         {
@@ -3569,7 +3617,7 @@
             "code": "RYF-KNI-XNS-TXA",
             "description": "",
             "level": 3,
-            "name": "Kärnkraftspolitik",
+            "name": "Energipolitik",
             "status": "ACTIVE"
         },
         {
@@ -3675,6 +3723,12 @@
             "description": "Olika typer av sporter och även grenar inom sporter",
             "level": 2,
             "name": "Sporter",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-QPR-HGB-AIO",
+            "level": 3,
+            "name": "Parasport",
             "status": "ACTIVE"
         },
         {
@@ -4993,7 +5047,7 @@
             "description": "",
             "level": 4,
             "name": "Kälkhockey",
-            "status": "ACTIVE"
+            "status": "INACTIVE"
         },
         {
             "code": "RYF-QPR-HGB-BQN-YVU",
@@ -8073,7 +8127,7 @@
             "description": "",
             "level": 4,
             "name": "Basketligan rullstol",
-            "status": "ACTIVE"
+            "status": "INACTIVE"
         },
         {
             "code": "RYF-QPR-HGB-MII-RYG",
@@ -9738,14 +9792,14 @@
             "code": "RYF-TKT-ESN-JPB",
             "description": "",
             "level": 3,
-            "name": "Öl & vin",
+            "name": "Dryck",
             "status": "ACTIVE"
         },
         {
             "code": "RYF-TKT-ESN-QBA",
             "description": "",
             "level": 3,
-            "name": "Ekologisk mat",
+            "name": "Mat",
             "status": "ACTIVE"
         },
         {
@@ -9879,6 +9933,12 @@
             "description": "",
             "level": 2,
             "name": "Jakt",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-TKT-QWJ",
+            "level": 2,
+            "name": "Båtliv",
             "status": "ACTIVE"
         },
         {
@@ -10683,7 +10743,7 @@
             "code": "RYF-XKI-BUS",
             "description": "",
             "level": 2,
-            "name": "Tv, radio & streaming",
+            "name": "Medier",
             "status": "ACTIVE"
         },
         {
@@ -10795,8 +10855,9 @@
             "code": "RYF-XKI-FEY-VVW-OYZ",
             "description": "",
             "level": 4,
-            "name": "Barnmusik",
-            "status": "ACTIVE"
+            "name": "Barnkultur",
+            "replacedBy": "RYF-XKI-KKX",
+            "status": "INACTIVE"
         },
         {
             "code": "RYF-XKI-FEY-VVW-QSI",
@@ -10831,6 +10892,12 @@
             "description": "",
             "level": 3,
             "name": "Musikinstrument",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-XKI-FSW",
+            "level": 2,
+            "name": "Tidningar",
             "status": "ACTIVE"
         },
         {
@@ -10925,6 +10992,20 @@
             "status": "ACTIVE"
         },
         {
+            "code": "RYF-XKI-KHV",
+            "level": 2,
+            "name": "Sociala medier",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-XKI-KKX",
+            "description": "",
+            "level": 2,
+            "name": "Barnkultur",
+            "replaces": "RYF-XKI-FEY-VVW-OYZ",
+            "status": "ACTIVE"
+        },
+        {
             "code": "RYF-XKI-LNE",
             "description": "",
             "level": 2,
@@ -10999,6 +11080,12 @@
             "description": "Använd för reportage om språk. Till exempel att kommunen stödjer ett nytt språk, språkhistoria",
             "level": 2,
             "name": "Språk",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-XKI-RDA",
+            "level": 2,
+            "name": "Journalistik",
             "status": "ACTIVE"
         },
         {
