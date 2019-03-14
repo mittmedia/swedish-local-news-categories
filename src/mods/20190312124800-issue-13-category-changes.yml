@@ -1,0 +1,103 @@
+modifications:
+- action: ADD
+  parentCode: RYF-BIZ-XSV
+  parentName: Rättsprocessen
+  name: Frikännande
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-WHS
+  parentName: Tillverkning & konstruktion
+  name: Fordonstillverkning
+
+- action: ADD
+  parentCode: RYF-QPR-HGB
+  parentName: Sporter
+  name: Parasport
+
+- action: ADD
+  parentCode: RYF-TKT
+  parentName: Livsstil & fritid
+  name: Båtliv
+
+- action: ADD
+  parentCode: RYF-XKI-BUS
+  parentName: Kultur & nöje
+  name: Journalistik
+
+- action: ADD
+  parentCode: RYF-XKI-BUS
+  parentName: Kultur & nöje
+  name: Sociala medier
+
+- action: ADD
+  parentCode: RYF-XKI-BUS
+  parentName: Kultur & nöje
+  name: Tidningar
+
+- action: UPDATE
+  code: RYF-KNI-XNS-TXA
+  name: Kärnkraftspolitik
+  newName: Energipolitik
+
+- action: UPDATE
+  code: RYF-HPT-ECD-NOG
+  name: Befolkningstillväxt
+  newName: Befolkningsutveckling
+
+- action: UPDATE
+  code: RYF-XKI-BUS
+  name: Tv, radio & streaming
+  newName: Medier
+
+- action: UPDATE
+  code: RYF-TKT-ESN-JPB
+  name: Öl & vin
+  newName: Dryck
+
+- action: UPDATE
+  code: RYF-TKT-ESN-QBA
+  name: Ekologisk mat 
+  newName: Mat
+
+- action: UPDATE
+  code: RYF-XKI-FEY-VVW-OYZ
+  name: Barnmusik
+  newName: Barnkultur
+
+- action: INACTIVATE
+  code: RYF-QPR-HGB-BQN-YPT
+  name: Kälkhockey
+
+- action: INACTIVATE
+  code: RYF-QPR-HGB-MII-LJL
+  name: Basketligan rullstol
+
+- action: MOVE
+  code: RYF-IXA-KEV-OTN-OYA
+  name: Bostadspriser
+  newParentCode: RYF-IXA-QED-UGD
+  newParentName: Privatekonomi
+
+- action: MOVE
+  code: RYF-IXA-KEV-OTN-GCM
+  name: Fastighetsaffärer
+  newParentCode: RYF-IXA-QED
+  newParentName: Ekonomi
+
+- action: MOVE
+  code: RYF-HPT-ZSS-FKI
+  name: Detaljplan
+  newParentCode: RYF-HPT-ZSS-WTL
+  newParentName: Samhällsplanering
+
+- action: MOVE
+  code: RYF-HPT-ZSS-XII
+  name: Översiktsplan
+  newParentCode: RYF-HPT-ZSS-WTL
+  newParentName: Samhällsplanering
+
+- action: MOVE
+  code: RYF-XKI-FEY-VVW-OYZ
+  name: Barnkultur
+  newParentCode: RYF-XKI
+  newParentName: Kultur & nöje
