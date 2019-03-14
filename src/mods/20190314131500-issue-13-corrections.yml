@@ -1,0 +1,18 @@
+modifications:
+- action: MOVE
+  code: RYF-XKI-KHV
+  name: Sociala medier
+  newParentCode: RYF-XKI-BUS
+  newParentName: Medier
+
+- action: MOVE
+  code: RYF-XKI-FSW
+  name: Tidningar
+  newParentCode: RYF-XKI-BUS
+  newParentName: Medier
+
+- action: MOVE
+  code: RYF-XKI-RDA
+  name: Journalistik
+  newParentCode: RYF-XKI-BUS
+  newParentName: Medier
