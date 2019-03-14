@@ -842,6 +842,7 @@
         },
         {
             "code": "RYF-BIZ-XSV-RSI",
+            "description": "",
             "level": 3,
             "name": "Frikännande",
             "status": "ACTIVE"
@@ -2724,6 +2725,7 @@
         },
         {
             "code": "RYF-IXA-KEV-WHS-ZIB",
+            "description": "",
             "level": 4,
             "name": "Fordonstillverkning",
             "status": "ACTIVE"
@@ -3727,6 +3729,7 @@
         },
         {
             "code": "RYF-QPR-HGB-AIO",
+            "description": "",
             "level": 3,
             "name": "Parasport",
             "status": "ACTIVE"
@@ -9937,6 +9940,7 @@
         },
         {
             "code": "RYF-TKT-QWJ",
+            "description": "",
             "level": 2,
             "name": "Båtliv",
             "status": "ACTIVE"
@@ -10782,6 +10786,30 @@
             "status": "ACTIVE"
         },
         {
+            "code": "RYF-XKI-BUS-RXO",
+            "description": "",
+            "level": 3,
+            "name": "Sociala medier",
+            "replaces": "RYF-XKI-KHV",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-XKI-BUS-SBN",
+            "description": "",
+            "level": 3,
+            "name": "Tidningar",
+            "replaces": "RYF-XKI-FSW",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-XKI-BUS-TVB",
+            "description": "",
+            "level": 3,
+            "name": "Journalistik",
+            "replaces": "RYF-XKI-RDA",
+            "status": "ACTIVE"
+        },
+        {
             "code": "RYF-XKI-CDA",
             "description": "Om artikeln handlar om animerad konst. Till exempel tecknad eller datoranimerad film",
             "level": 2,
@@ -10896,9 +10924,11 @@
         },
         {
             "code": "RYF-XKI-FSW",
+            "description": "",
             "level": 2,
             "name": "Tidningar",
-            "status": "ACTIVE"
+            "replacedBy": "RYF-XKI-BUS-SBN",
+            "status": "INACTIVE"
         },
         {
             "code": "RYF-XKI-FXL",
@@ -10993,9 +11023,11 @@
         },
         {
             "code": "RYF-XKI-KHV",
+            "description": "",
             "level": 2,
             "name": "Sociala medier",
-            "status": "ACTIVE"
+            "replacedBy": "RYF-XKI-BUS-RXO",
+            "status": "INACTIVE"
         },
         {
             "code": "RYF-XKI-KKX",
@@ -11084,9 +11116,11 @@
         },
         {
             "code": "RYF-XKI-RDA",
+            "description": "",
             "level": 2,
             "name": "Journalistik",
-            "status": "ACTIVE"
+            "replacedBy": "RYF-XKI-BUS-TVB",
+            "status": "INACTIVE"
         },
         {
             "code": "RYF-XKI-SFU",
@@ -11433,5 +11467,5 @@
             "status": "ACTIVE"
         }
     ],
-    "version": "3.0.0"
+    "version": "4.0.0"
 }
