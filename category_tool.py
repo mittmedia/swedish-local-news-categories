@@ -295,12 +295,18 @@ def category_update(categories, operation):
 
 
 def category_add(categories, operation):
+    parent_category = None
     if (operation.parentCode, operation.parentName) in categories:
         parent_category = categories[(operation.parentCode, operation.parentName)]
     else:
         for code, name in [k for k in categories.keys()]:
             if name == operation.parentName:
                 parent_category = categories[(code, operation.parentName)]
+
+    if parent_category is None:
+        raise ValueError(
+            'Operation with parentCode {code} and name {name} could not be found.'
+                .format(name=operation.parentName, code=operation.parentCode))
 
     new_category_code = generate_new_code(parent_category.code, [k[0] for k in categories.keys()])
 
