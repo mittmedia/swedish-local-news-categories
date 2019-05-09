@@ -14,6 +14,10 @@ categories:
   level: 2
   name: Brand
   status: ACTIVE
+- code: RYF-AKM-AUE-CWR
+  level: 3
+  name: Gräsbrand
+  status: ACTIVE
 - code: RYF-AKM-AUE-CYE
   description: ''
   level: 3
@@ -374,6 +378,12 @@ categories:
   level: 3
   name: Organiserad brottslighet
   status: ACTIVE
+- code: RYF-BIZ-WZJ-PQY-MOO
+  description: Modern form av slaveri, ofta relaterat till prostitution, hushållsarbete, eller fabriksarbete
+  level: 4
+  name: Människohandel
+  replaces: RYF-HPT-THK-DPO
+  status: ACTIVE
 - code: RYF-BIZ-WZJ-RPI
   description: ''
   level: 3
@@ -562,7 +572,7 @@ categories:
 - code: RYF-BIZ-XSV-JIV-TFL
   description: ''
   level: 4
-  name: Nedlagd förundersöking
+  name: Nedlagd förundersökning
   replaces: RYF-BIZ-GCG-JSV-TFL
   status: ACTIVE
 - code: RYF-BIZ-XSV-JTA
@@ -1134,8 +1144,9 @@ categories:
 - code: RYF-HPT-THK-DPO
   description: Modern form av slaveri, ofta relaterat till prostitution, hushållsarbete, eller fabriksarbete
   level: 3
-  name: Trafficking
-  status: ACTIVE
+  name: Människohandel
+  replacedBy: RYF-BIZ-WZJ-PQY-MOO
+  status: INACTIVE
 - code: RYF-HPT-THK-IIG
   description: ''
   level: 3
@@ -1860,7 +1871,7 @@ categories:
 - code: RYF-IXA-KEV-VSA-GTD
   description: ''
   level: 4
-  name: Åkerodling
+  name: Jordbruk
   status: ACTIVE
 - code: RYF-IXA-KEV-VSA-HIL
   description: ''
@@ -2448,7 +2459,7 @@ categories:
 - code: RYF-KNI-SQH-DKK
   description: Människor som söker skydd i ett annat land för att undslippa förföljelse och misär
   level: 3
-  name: Fyktingfrågan globalt
+  name: Flyktingfrågan globalt
   status: ACTIVE
 - code: RYF-KNI-SQH-LBP
   description: Bestraffande åtgärder som vidtagits av ett land mot ett annat inklusive handelsrestriktioner, till exempel embargon
@@ -5800,7 +5811,7 @@ categories:
 - code: RYF-QPR-HGB-MII-HYQ
   description: ''
   level: 4
-  name: Basketligan dam
+  name: Svenska Basketligan dam
   status: ACTIVE
 - code: RYF-QPR-HGB-MII-ILA
   description: ''
@@ -5825,7 +5836,7 @@ categories:
 - code: RYF-QPR-HGB-MII-SVM
   description: ''
   level: 4
-  name: Basketligan herr
+  name: Svenska Basketligan herr
   status: ACTIVE
 - code: RYF-QPR-HGB-MII-YEF
   description: ''
@@ -6951,6 +6962,10 @@ categories:
   description: Nyheter som berör arenor och andra faciliteter där sport utövas
   level: 2
   name: Sportarenor
+  status: ACTIVE
+- code: RYF-QPR-NVT
+  level: 2
+  name: Padel
   status: ACTIVE
 - code: RYF-QPR-OVU
   description: Kan vara till exempel avstängningar, böter eller andra former av sanktioner
@@ -8159,7 +8174,7 @@ categories:
   description: ''
   level: 4
   name: Avtalsfrågor (sjukvård)
-  status: ACTIVE
+  status: INACTIVE
 - code: RYF-ZEI-IVG
   description: Frågor som rör pensionen, till exempel pensionsålder, förtidspension med mera
   level: 2

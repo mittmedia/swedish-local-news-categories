@@ -1,0 +1,30 @@
+modifications:
+- action: UPDATE
+  code: RYF-KNI-SQH-DKK
+  name: Fyktingfrågan globalt
+  newName: Flyktingfrågan globalt
+
+- action: UPDATE
+  code: RYF-IXA-KEV-VSA-GTD
+  name: Åkerodling
+  newName: Jordbruk
+
+- action: UPDATE
+  code: RYF-BIZ-XSV-JIV-TFL
+  name: Nedlagd förundersöking
+  newName: Nedlagd förundersökning
+
+- action: UPDATE
+  code: RYF-QPR-HGB-MII-SVM
+  name: Basketligan herr
+  newName: Svenska Basketligan herr
+
+- action: UPDATE
+  code: RYF-QPR-HGB-MII-HYQ
+  name: Basketligan dam
+  newName: Svenska Basketligan dam
+
+- action: UPDATE
+  code: RYF-HPT-THK-DPO
+  name: Trafficking
+  newName: Människohandel

@@ -1,0 +1,10 @@
+modifications:
+- action: ADD
+  parentCode: RYF-QPR
+  parentName: Sport
+  name: Padel
+
+- action: ADD
+  parentCode: RYF-AKM-AUE
+  parentName: Brand
+  name: Gräsbrand
