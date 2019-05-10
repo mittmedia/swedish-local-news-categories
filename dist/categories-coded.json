@@ -50,6 +50,12 @@
             "status": "ACTIVE"
         },
         {
+            "code": "RYF-AKM-AUE-ZZI",
+            "level": 3,
+            "name": "Gräsbrand",
+            "status": "ACTIVE"
+        },
+        {
             "code": "RYF-AKM-QGJ",
             "description": "Alla typer av olyckor, till exempel trafikolyckor, arbetsplatsolyckor, utsläpp eller explosioner",
             "level": 2,
@@ -520,6 +526,14 @@
             "status": "ACTIVE"
         },
         {
+            "code": "RYF-BIZ-WZJ-PQY-DCE",
+            "description": "Modern form av slaveri, ofta relaterat till prostitution, hushållsarbete, eller fabriksarbete",
+            "level": 4,
+            "name": "Människohandel",
+            "replaces": "RYF-HPT-THK-DPO",
+            "status": "ACTIVE"
+        },
+        {
             "code": "RYF-BIZ-WZJ-RPI",
             "description": "",
             "level": 3,
@@ -780,7 +794,7 @@
             "code": "RYF-BIZ-XSV-JIV-TFL",
             "description": "",
             "level": 4,
-            "name": "Nedlagd förundersöking",
+            "name": "Nedlagd förundersökning",
             "replaces": "RYF-BIZ-GCG-JSV-TFL",
             "status": "ACTIVE"
         },
@@ -1580,8 +1594,9 @@
             "code": "RYF-HPT-THK-DPO",
             "description": "Modern form av slaveri, ofta relaterat till prostitution, hushållsarbete, eller fabriksarbete",
             "level": 3,
-            "name": "Trafficking",
-            "status": "ACTIVE"
+            "name": "Människohandel",
+            "replacedBy": "RYF-BIZ-WZJ-PQY-DCE",
+            "status": "INACTIVE"
         },
         {
             "code": "RYF-HPT-THK-IIG",
@@ -2594,7 +2609,7 @@
             "code": "RYF-IXA-KEV-VSA-GTD",
             "description": "",
             "level": 4,
-            "name": "Åkerodling",
+            "name": "Jordbruk",
             "status": "ACTIVE"
         },
         {
@@ -3416,7 +3431,7 @@
             "code": "RYF-KNI-SQH-DKK",
             "description": "Människor som söker skydd i ett annat land för att undslippa förföljelse och misär",
             "level": 3,
-            "name": "Fyktingfrågan globalt",
+            "name": "Flyktingfrågan globalt",
             "status": "ACTIVE"
         },
         {
@@ -8049,6 +8064,12 @@
             "status": "ACTIVE"
         },
         {
+            "code": "RYF-QPR-HGB-LHA",
+            "level": 3,
+            "name": "Padel",
+            "status": "ACTIVE"
+        },
+        {
             "code": "RYF-QPR-HGB-LLE",
             "description": "",
             "level": 3,
@@ -8108,7 +8129,7 @@
             "code": "RYF-QPR-HGB-MII-HYQ",
             "description": "",
             "level": 4,
-            "name": "Basketligan dam",
+            "name": "Svenska Basketligan dam",
             "status": "ACTIVE"
         },
         {
@@ -8143,7 +8164,7 @@
             "code": "RYF-QPR-HGB-MII-SVM",
             "description": "",
             "level": 4,
-            "name": "Basketligan herr",
+            "name": "Svenska Basketligan herr",
             "status": "ACTIVE"
         },
         {
@@ -11407,7 +11428,7 @@
             "description": "",
             "level": 4,
             "name": "Avtalsfrågor (sjukvård)",
-            "status": "ACTIVE"
+            "status": "INACTIVE"
         },
         {
             "code": "RYF-ZEI-IVG",
@@ -11467,5 +11488,5 @@
             "status": "ACTIVE"
         }
     ],
-    "version": "4.0.0"
+    "version": "4.1.0"
 }
