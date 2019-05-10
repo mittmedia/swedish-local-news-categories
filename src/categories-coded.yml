@@ -14,10 +14,6 @@ categories:
   level: 2
   name: Brand
   status: ACTIVE
-- code: RYF-AKM-AUE-CWR
-  level: 3
-  name: Gräsbrand
-  status: ACTIVE
 - code: RYF-AKM-AUE-CYE
   description: ''
   level: 3
@@ -37,6 +33,10 @@ categories:
   description: ''
   level: 3
   name: Skogsbrand
+  status: ACTIVE
+- code: RYF-AKM-AUE-ZZI
+  level: 3
+  name: Gräsbrand
   status: ACTIVE
 - code: RYF-AKM-QGJ
   description: Alla typer av olyckor, till exempel trafikolyckor, arbetsplatsolyckor, utsläpp eller explosioner
@@ -378,7 +378,7 @@ categories:
   level: 3
   name: Organiserad brottslighet
   status: ACTIVE
-- code: RYF-BIZ-WZJ-PQY-MOO
+- code: RYF-BIZ-WZJ-PQY-DCE
   description: Modern form av slaveri, ofta relaterat till prostitution, hushållsarbete, eller fabriksarbete
   level: 4
   name: Människohandel
@@ -1145,7 +1145,7 @@ categories:
   description: Modern form av slaveri, ofta relaterat till prostitution, hushållsarbete, eller fabriksarbete
   level: 3
   name: Människohandel
-  replacedBy: RYF-BIZ-WZJ-PQY-MOO
+  replacedBy: RYF-BIZ-WZJ-PQY-DCE
   status: INACTIVE
 - code: RYF-HPT-THK-IIG
   description: ''
@@ -5768,6 +5768,10 @@ categories:
   level: 3
   name: Triathlon
   status: ACTIVE
+- code: RYF-QPR-HGB-LHA
+  level: 3
+  name: Padel
+  status: ACTIVE
 - code: RYF-QPR-HGB-LLE
   description: ''
   level: 3
@@ -6962,10 +6966,6 @@ categories:
   description: Nyheter som berör arenor och andra faciliteter där sport utövas
   level: 2
   name: Sportarenor
-  status: ACTIVE
-- code: RYF-QPR-NVT
-  level: 2
-  name: Padel
   status: ACTIVE
 - code: RYF-QPR-OVU
   description: Kan vara till exempel avstängningar, böter eller andra former av sanktioner

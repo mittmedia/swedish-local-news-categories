@@ -1,7 +1,7 @@
 modifications:
 - action: ADD
-  parentCode: RYF-QPR
-  parentName: Sport
+  parentCode: RYF-QPR-HGB
+  parentName: Sporter
   name: Padel
 
 - action: ADD
