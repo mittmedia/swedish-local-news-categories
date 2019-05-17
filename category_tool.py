@@ -66,6 +66,8 @@ applied_mods = []
 
 mod_file_path = 'src/mods'
 
+success = True
+
 
 def calculate_level(category_code):
     return len(category_code.split('-')) - 1
@@ -116,10 +118,12 @@ def get_unprocessed_modification_files():
 
 
 def save_processed_files(processed_files):
-    with open(mod_file_path + '/applied_mods.yml', 'w', encoding='utf-8', newline="\n") as applied_mods_file:
-        yaml.dump(processed_files, applied_mods_file, default_flow_style=False, allow_unicode=True,
-                  explicit_start=False,
-                  width=4096, line_break="\n")
+    global success
+    if success:
+        with open(mod_file_path + '/applied_mods.yml', 'w', encoding='utf-8', newline="\n") as applied_mods_file:
+            yaml.dump(processed_files, applied_mods_file, default_flow_style=False, allow_unicode=True,
+                      explicit_start=False,
+                      width=4096, line_break="\n")
 
 
 def load_modification_files(mod_files_to_load):
@@ -166,6 +170,7 @@ def load_modification_file(path):
 
 def save_categories(categories):
     global version
+    global success
     categories_output = {'categories': [], 'version': version}
 
     for key, value in categories.items():
@@ -184,10 +189,11 @@ def save_categories(categories):
 
     categories_output['categories'] = sorted(categories_output['categories'], key=lambda k: (k['code'], k['level']))
 
-    with open('src/categories-coded.yml', 'w', encoding='utf-8', newline="\n") as categories_file:
-        yaml.dump(categories_output, categories_file, default_flow_style=False, allow_unicode=True,
-                  explicit_start=False,
-                  width=4096, line_break="\n")
+    if success:
+        with open('src/categories-coded.yml', 'w', encoding='utf-8', newline="\n") as categories_file:
+            yaml.dump(categories_output, categories_file, default_flow_style=False, allow_unicode=True,
+                      explicit_start=False,
+                      width=4096, line_break="\n")
 
 
 def update_categories(categories, operation):
@@ -259,6 +265,7 @@ def category_inactivate(categories, operation):
 
 
 def category_update(categories, operation):
+    global success
     if operation.code is None:
         matching_categories = []
         for code, name in [k for k in categories.keys()]:
@@ -272,10 +279,12 @@ def category_update(categories, operation):
             category = matching_categories[0]
         else:
             if matching_categories.__len__() > 1:
+                success = False
                 raise ValueError(
                     "Error renaming category with only name reference, duplicate active categories found: {name}"
                         .format(name=operation.name))
             elif matching_categories.__len__() < 1:
+                success = False
                 raise ValueError(
                     "Error renaming category with only name reference, no active category found: {name}"
                         .format(name=operation.name))
@@ -295,6 +304,7 @@ def category_update(categories, operation):
 
 
 def category_add(categories, operation):
+    global success
     parent_category = None
     if (operation.parentCode, operation.parentName) in categories:
         parent_category = categories[(operation.parentCode, operation.parentName)]
@@ -304,6 +314,7 @@ def category_add(categories, operation):
                 parent_category = categories[(code, operation.parentName)]
 
     if parent_category is None:
+        success = False
         raise ValueError(
             'Operation with parentCode {code} and name {name} could not be found.'
                 .format(name=operation.parentName, code=operation.parentCode))
@@ -315,6 +326,7 @@ def category_add(categories, operation):
     category = Category(name=operation.name, code=new_category_code, description=operation.description, level=level)
 
     if parent_category is None:
+        success = False
         raise ValueError("Category must have an existing Parent: " + category)
 
     categories[(category.code, category.name)] = category
@@ -322,7 +334,7 @@ def category_add(categories, operation):
 
 if __name__ == '__main__':
     mod_files = get_unprocessed_modification_files()
-    save_processed_files(applied_mods)
+
 
     category_data = load_categories()
 
@@ -331,4 +343,5 @@ if __name__ == '__main__':
     for mod in modification_data:
         update_categories(category_data, mod)
 
+    save_processed_files(applied_mods)
     save_categories(category_data)
