@@ -334,7 +334,7 @@ def category_add(categories, operation):
 
 if __name__ == '__main__':
     mod_files = get_unprocessed_modification_files()
-    save_processed_files(applied_mods)
+
 
     category_data = load_categories()
 
@@ -343,4 +343,5 @@ if __name__ == '__main__':
     for mod in modification_data:
         update_categories(category_data, mod)
 
+    save_processed_files(applied_mods)
     save_categories(category_data)
