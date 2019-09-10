@@ -44,14 +44,14 @@ modifications:
   parentName: Högtider
   name: Farsdag
 
-- action: DELETE
+- action: INACTIVATE
   code: RYF-QPR-HGB-DEN-CWD-NYN
   name: Dalarna södra
 
-- action: DELETE
+- action: INACTIVATE
   code: RYF-QPR-HGB-DEN-FXI-LMY
   name: Dalarna södra
 
-- action: DELETE
+- action: INACTIVATE
   code: RYF-QPR-HGB-DEN-HPJ-ZPU
   name: Dalarna södra

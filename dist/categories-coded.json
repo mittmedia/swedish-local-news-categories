@@ -51,6 +51,7 @@
         },
         {
             "code": "RYF-AKM-AUE-ZZI",
+            "description": "",
             "level": 3,
             "name": "Gräsbrand",
             "status": "ACTIVE"
@@ -269,7 +270,7 @@
             "code": "RYF-BIZ-WZJ-ELD-ASC",
             "description": "",
             "level": 4,
-            "name": "Drograttfylla",
+            "name": "Drograttfylleri",
             "status": "ACTIVE"
         },
         {
@@ -334,7 +335,7 @@
             "code": "RYF-BIZ-WZJ-GNO-UHT",
             "description": "",
             "level": 4,
-            "name": "Snatteri",
+            "name": "Ringa stöld",
             "status": "ACTIVE"
         },
         {
@@ -1066,6 +1067,12 @@
             "status": "ACTIVE"
         },
         {
+            "code": "RYF-CUW-XVL-HEF",
+            "level": 3,
+            "name": "Morsdag",
+            "status": "ACTIVE"
+        },
+        {
             "code": "RYF-CUW-XVL-IEM",
             "description": "",
             "level": 3,
@@ -1112,6 +1119,12 @@
             "description": "",
             "level": 3,
             "name": "Pingst",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-CUW-XVL-YQK",
+            "level": 3,
+            "name": "Farsdag",
             "status": "ACTIVE"
         },
         {
@@ -1809,6 +1822,12 @@
             "status": "ACTIVE"
         },
         {
+            "code": "RYF-HPT-YGE-KEG",
+            "level": 3,
+            "name": "Telenät",
+            "status": "ACTIVE"
+        },
+        {
             "code": "RYF-HPT-YGE-MOZ",
             "description": "",
             "level": 3,
@@ -2413,7 +2432,7 @@
             "code": "RYF-IXA-KEV-UBU-ZZD",
             "description": "",
             "level": 4,
-            "name": "Diesebränsle",
+            "name": "Dieselbränsle",
             "status": "ACTIVE"
         },
         {
@@ -4039,6 +4058,12 @@
             "status": "ACTIVE"
         },
         {
+            "code": "RYF-QPR-HGB-BAH-LUF-YRO",
+            "level": 5,
+            "name": "Dalarna",
+            "status": "ACTIVE"
+        },
+        {
             "code": "RYF-QPR-HGB-BAH-RMK",
             "description": "",
             "level": 4,
@@ -4092,6 +4117,12 @@
             "description": "",
             "level": 4,
             "name": "Division 3 herr",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-QPR-HGB-BAH-XQF-IMB",
+            "level": 5,
+            "name": "Dalarna",
             "status": "ACTIVE"
         },
         {
@@ -5849,7 +5880,7 @@
             "description": "",
             "level": 5,
             "name": "Dalarna södra",
-            "status": "ACTIVE"
+            "status": "INACTIVE"
         },
         {
             "code": "RYF-QPR-HGB-DEN-CWD-OYR",
@@ -6171,7 +6202,7 @@
             "description": "",
             "level": 5,
             "name": "Dalarna södra",
-            "status": "ACTIVE"
+            "status": "INACTIVE"
         },
         {
             "code": "RYF-QPR-HGB-DEN-FXI-MHC",
@@ -6759,7 +6790,7 @@
             "description": "",
             "level": 5,
             "name": "Dalarna södra",
-            "status": "ACTIVE"
+            "status": "INACTIVE"
         },
         {
             "code": "RYF-QPR-HGB-DEN-HSA",
@@ -8065,6 +8096,7 @@
         },
         {
             "code": "RYF-QPR-HGB-LHA",
+            "description": "",
             "level": 3,
             "name": "Padel",
             "status": "ACTIVE"
@@ -10566,6 +10598,12 @@
             "description": "",
             "level": 3,
             "name": "Dietist",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-WUU-SUX-SFB",
+            "level": 3,
+            "name": "Omsorg",
             "status": "ACTIVE"
         },
         {
