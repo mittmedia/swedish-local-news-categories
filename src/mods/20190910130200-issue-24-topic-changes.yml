@@ -1,0 +1,57 @@
+modifications:
+- action: UPDATE
+  code: RYF-IXA-KEV-UBU-ZZD
+  name: Diesebränsle
+  newName: Dieselbränsle
+
+- action: UPDATE
+  code: RYF-BIZ-WZJ-ELD-ASC
+  name: Drograttfylla
+  newName: Drograttfylleri
+
+- action: UPDATE
+  code: RYF-BIZ-WZJ-GNO-UHT
+  name: Snatteri
+  newName: Ringa stöld
+
+- action: ADD
+  parentCode: RYF-HPT-YGE
+  parentName: Infrastruktur
+  name: Telenät
+
+- action: ADD
+  parentCode: RYF-WUU-SUX
+  parentName: Vård
+  name: Omsorg
+
+- action: ADD
+  parentCode: RYF-QPR-HGB-BAH-LUF
+  parentName: Division 3 dam
+  name: Dalarna
+
+- action: ADD
+  parentCode: RYF-QPR-HGB-BAH-XQF
+  parentName: Division 3 herr
+  name: Dalarna
+
+- action: ADD
+  parentCode: RYF-CUW-XVL
+  parentName: Högtider
+  name: Morsdag
+
+- action: ADD
+  parentCode: RYF-CUW-XVL
+  parentName: Högtider
+  name: Farsdag
+
+- action: INACTIVATE
+  code: RYF-QPR-HGB-DEN-CWD-NYN
+  name: Dalarna södra
+
+- action: INACTIVATE
+  code: RYF-QPR-HGB-DEN-FXI-LMY
+  name: Dalarna södra
+
+- action: INACTIVATE
+  code: RYF-QPR-HGB-DEN-HPJ-ZPU
+  name: Dalarna södra
