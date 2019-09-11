@@ -74,6 +74,10 @@ categories:
   level: 3
   name: Arbetsplatsolycka
   status: ACTIVE
+- code: RYF-AKM-QGJ-SRF
+  level: 3
+  name: Drunkning
+  status: ACTIVE
 - code: RYF-AKM-QGJ-TBS
   description: ''
   level: 3
@@ -768,6 +772,7 @@ categories:
   name: Lucia
   status: ACTIVE
 - code: RYF-CUW-XVL-HEF
+  description: ''
   level: 3
   name: Morsdag
   status: ACTIVE
@@ -807,6 +812,7 @@ categories:
   name: Pingst
   status: ACTIVE
 - code: RYF-CUW-XVL-YQK
+  description: ''
   level: 3
   name: Farsdag
   status: ACTIVE
@@ -1307,6 +1313,7 @@ categories:
   name: Sjöfart
   status: ACTIVE
 - code: RYF-HPT-YGE-KEG
+  description: ''
   level: 3
   name: Telenät
   status: ACTIVE
@@ -2907,6 +2914,7 @@ categories:
   name: Division 3 dam
   status: ACTIVE
 - code: RYF-QPR-HGB-BAH-LUF-YRO
+  description: ''
   level: 5
   name: Dalarna
   status: ACTIVE
@@ -2951,6 +2959,7 @@ categories:
   name: Division 3 herr
   status: ACTIVE
 - code: RYF-QPR-HGB-BAH-XQF-IMB
+  description: ''
   level: 5
   name: Dalarna
   status: ACTIVE
@@ -7580,6 +7589,7 @@ categories:
   name: Dietist
   status: ACTIVE
 - code: RYF-WUU-SUX-SFB
+  description: ''
   level: 3
   name: Omsorg
   status: ACTIVE
