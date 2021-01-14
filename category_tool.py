@@ -214,6 +214,8 @@ def update_categories(categories, operation):
 
 def category_move(categories, operation):
     category_to_move = categories[(operation.code, operation.name)]
+    if category_to_move.status != CategoryStatus.ACTIVE:
+        raise ValueError("Category must be active to be moved: " + category_to_move.code + " " + category_to_move.name)
     sub_categories_to_move = []
 
     for key, cat in categories.items():
