@@ -222,12 +222,16 @@ def category_move(categories, operation):
         if cat.code.startswith(category_to_move.code) and cat.code != category_to_move.code and cat.status == CategoryStatus.ACTIVE:
             sub_categories_to_move.append(cat)
 
+    new_code = None
     if operation.newParentCode is None:
         for code, name in [k for k in categories.keys()]:
-            if name == operation.parentName and categories[(code, name)].status == CategoryStatus.ACTIVE:
+            if name == operation.newParentName and categories[(code, name)].status == CategoryStatus.ACTIVE:
                 new_code = generate_new_code(code, [k[0] for k in categories.keys()])
     else:
         new_code = generate_new_code(operation.newParentCode, [k[0] for k in categories.keys()])
+
+    if new_code is None:
+        raise ValueError("New category parent must be active: " + category_to_move.code + " " + category_to_move.name)
 
     moved_cat = Category(name=category_to_move.name,
                          code=new_code,
