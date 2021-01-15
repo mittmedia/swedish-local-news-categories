@@ -224,7 +224,7 @@ def category_move(categories, operation):
 
     if operation.newParentCode is None:
         for code, name in [k for k in categories.keys()]:
-            if name == operation.newParentName:
+            if name == operation.parentName and categories[(code, name)].status == CategoryStatus.ACTIVE:
                 new_code = generate_new_code(code, [k[0] for k in categories.keys()])
     else:
         new_code = generate_new_code(operation.newParentCode, [k[0] for k in categories.keys()])
@@ -312,7 +312,7 @@ def category_add(categories, operation):
         parent_category = categories[(operation.parentCode, operation.parentName)]
     else:
         for code, name in [k for k in categories.keys()]:
-            if name == operation.parentName:
+            if name == operation.parentName and categories[(code, name)].status == CategoryStatus.ACTIVE:
                 parent_category = categories[(code, operation.parentName)]
 
     if parent_category is None:
