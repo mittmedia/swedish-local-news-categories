@@ -75,6 +75,7 @@ categories:
   name: Arbetsplatsolycka
   status: ACTIVE
 - code: RYF-AKM-QGJ-SRF
+  description: ''
   level: 3
   name: Drunkning
   status: ACTIVE
@@ -7206,7 +7207,7 @@ categories:
 - code: RYF-VHD
   description: ''
   level: 1
-  name: Miljö
+  name: Klimat & miljö
   status: ACTIVE
 - code: RYF-VHD-GUZ
   description: ''
