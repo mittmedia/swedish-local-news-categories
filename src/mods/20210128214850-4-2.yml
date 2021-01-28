@@ -1,0 +1,95 @@
+modifications:
+  
+- action: MOVE
+  code: RYF-CUW-GIV-RLJ
+  parentCode: RYF-CUW-GIV-CWF
+  newParentName: Familjeplanering
+  name: Adoption
+  level: 4
+  
+  
+- action: MOVE
+  code: RYF-IXA-KEV-CKN
+  newParentName: Mineraler & metaller
+  name: Gruvnäring
+  level: 4
+  
+  
+- action: MOVE
+  code: RYF-IXA-KEV-SXR
+  newParentName: Mediemarknaden 
+  name: Reklam & PR
+  level: 4
+  
+  
+- action: MOVE
+  code: RYF-IXA-QED-GWF
+  newParentName: Låntyper 
+  name: Bolån
+  level: 4
+  
+  
+- action: MOVE
+  code: RYF-KNI-MRR-OCZ
+  newParentName: Mellanstatliga val 
+  name: EU-val
+  level: 4
+  
+  
+- action: MOVE
+  code: RYF-WXT-BND-ATO
+  newParentName: Yttrandefrihet & tryckfrihet
+  name: Demonstrationer
+  level: 4
+  
+  
+- action: MOVE
+  code: RYF-TKT-FGO
+  newParentName: Friluftsliv
+  name: Fiske
+  level: 4
+  
+  
+- action: MOVE
+  code: RYF-TKT-PYI
+  newParentName: Friluftsliv
+  name: Jakt
+  level: 4
+  
+  
+- action: MOVE
+  code: RYF-TKT-QWJ
+  newParentName: Friluftsliv
+  name: Båtliv
+  level: 4
+  
+  
+- action: MOVE
+  code: RYF-TKT-RRC
+  newParentName: Friluftsliv
+  name: Ridning
+  level: 4
+  
+  
+- action: MOVE
+  code: RYF-TKT-SPE
+  newParentName: Friluftsliv
+  name: Cykelentusiasm
+  level: 4
+  
+  
+  
+- action: MOVE
+  code: RYF-XKI-IUV
+  newParentName: Visuella konstformer
+  name: Arkitektur
+  level: 4
+  
+  
+- action: MOVE
+  code: RYF-XKI-VME
+  newParentName: Humor
+  name: Ståuppkomik
+  level: 4
+  
+  
