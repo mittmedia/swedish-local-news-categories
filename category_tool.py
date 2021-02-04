@@ -214,31 +214,37 @@ def update_categories(categories, operation):
 
 def category_move(categories, operation):
     category_to_move = categories[(operation.code, operation.name)]
+    if category_to_move.status != CategoryStatus.ACTIVE:
+        raise ValueError("Category must be active to be moved: " + category_to_move.code + " " + category_to_move.name)
     sub_categories_to_move = []
 
     for key, cat in categories.items():
-        if cat.code.startswith(category_to_move.code) and cat.code != category_to_move.code:
+        if cat.code.startswith(category_to_move.code) and cat.code != category_to_move.code and cat.status == CategoryStatus.ACTIVE:
             sub_categories_to_move.append(cat)
 
+    new_code = None
     if operation.newParentCode is None:
         for code, name in [k for k in categories.keys()]:
-            if name == operation.newParentName:
-                new_parent_code = generate_new_code(code, [k[0] for k in categories.keys()])
+            if name == operation.newParentName and categories[(code, name)].status == CategoryStatus.ACTIVE:
+                new_code = generate_new_code(code, [k[0] for k in categories.keys()])
     else:
-        new_parent_code = generate_new_code(operation.newParentCode, [k[0] for k in categories.keys()])
+        new_code = generate_new_code(operation.newParentCode, [k[0] for k in categories.keys()])
 
-    new_parent_cat = Category(name=category_to_move.name,
-                              code=new_parent_code,
-                              description=category_to_move.description,
-                              level=calculate_level(new_parent_code))
-    new_parent_cat.replaces = category_to_move.code
-    categories[(new_parent_cat.code, new_parent_cat.name)] = new_parent_cat
+    if new_code is None:
+        raise ValueError("New category parent must be active: " + category_to_move.code + " " + category_to_move.name)
+
+    moved_cat = Category(name=category_to_move.name,
+                         code=new_code,
+                         description=category_to_move.description,
+                         level=calculate_level(new_code))
+    moved_cat.replaces = category_to_move.code
+    categories[(moved_cat.code, moved_cat.name)] = moved_cat
 
     category_to_move.status = CategoryStatus.INACTIVE
-    category_to_move.replacedBy = new_parent_cat.code
+    category_to_move.replacedBy = moved_cat.code
 
     for sub_cat in sub_categories_to_move:
-        new_sub_cat_code = sub_cat.code.replace(category_to_move.code, new_parent_cat.code)
+        new_sub_cat_code = sub_cat.code.replace(category_to_move.code, moved_cat.code)
 
         if new_sub_cat_code in [k[0] for k in categories.keys()]:
             parent_code = new_sub_cat_code[0:new_sub_cat_code.rfind("-")]
@@ -310,7 +316,7 @@ def category_add(categories, operation):
         parent_category = categories[(operation.parentCode, operation.parentName)]
     else:
         for code, name in [k for k in categories.keys()]:
-            if name == operation.parentName:
+            if name == operation.parentName and categories[(code, name)].status == CategoryStatus.ACTIVE:
                 parent_category = categories[(code, operation.parentName)]
 
     if parent_category is None:
