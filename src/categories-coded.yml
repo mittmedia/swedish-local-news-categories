@@ -248,14 +248,17 @@ categories:
   name: Tvångsmedel
   status: ACTIVE
 - code: RYF-BIZ-RER-QSE-DAS-BYT
+  description: ''
   level: 5
   name: Hastighetskameror
   status: ACTIVE
 - code: RYF-BIZ-RER-QSE-DAS-NGX
+  description: ''
   level: 5
   name: Kameraövervakning
   status: ACTIVE
 - code: RYF-BIZ-RER-QSE-DAS-SWN
+  description: ''
   level: 5
   name: Telefonavlyssning
   status: ACTIVE
@@ -611,10 +614,12 @@ categories:
   replaces: RYF-BIZ-WZJ-TUQ
   status: ACTIVE
 - code: RYF-BIZ-WZJ-RPI-UBX-BGP
+  description: ''
   level: 5
   name: Vägpirater
   status: ACTIVE
 - code: RYF-BIZ-WZJ-RPI-UBX-DUE
+  description: ''
   level: 5
   name: Nätbedrägeri
   status: ACTIVE
@@ -814,18 +819,22 @@ categories:
   name: Rättegång
   status: ACTIVE
 - code: RYF-BIZ-XSV-JTA-YUA-ACX
+  description: ''
   level: 5
   name: Tvistemål
   status: ACTIVE
 - code: RYF-BIZ-XSV-JTA-YUA-FQB
+  description: ''
   level: 5
   name: Svarande
   status: ACTIVE
 - code: RYF-BIZ-XSV-JTA-YUA-GMD
+  description: ''
   level: 5
   name: Vittne
   status: ACTIVE
 - code: RYF-BIZ-XSV-JTA-YUA-IFR
+  description: ''
   level: 5
   name: Domstolsförberedelser
   status: ACTIVE
@@ -1050,46 +1059,57 @@ categories:
   name: Graviditet
   status: ACTIVE
 - code: RYF-CUW-GIV-CWF-TOL-AWH
+  description: ''
   level: 5
   name: Kejsarsnitt
   status: ACTIVE
 - code: RYF-CUW-GIV-CWF-TOL-BHK
+  description: ''
   level: 5
   name: Sätesförlossning
   status: ACTIVE
 - code: RYF-CUW-GIV-CWF-TOL-KKC
+  description: ''
   level: 5
   name: Gravidkalender
   status: ACTIVE
 - code: RYF-CUW-GIV-CWF-TOL-LCI
+  description: ''
   level: 5
   name: IVF-behandling
   status: ACTIVE
 - code: RYF-CUW-GIV-CWF-TOL-LNO
+  description: ''
   level: 5
   name: Ultraljud
   status: ACTIVE
 - code: RYF-CUW-GIV-CWF-TOL-NXR
+  description: ''
   level: 5
   name: Föda hemma
   status: ACTIVE
 - code: RYF-CUW-GIV-CWF-TOL-QRR
+  description: ''
   level: 5
   name: Ägglossning
   status: ACTIVE
 - code: RYF-CUW-GIV-CWF-TOL-XDW
+  description: ''
   level: 5
   name: Gravidberättelser
   status: ACTIVE
 - code: RYF-CUW-GIV-CWF-TOL-XWI
+  description: ''
   level: 5
   name: Förlossning
   status: ACTIVE
 - code: RYF-CUW-GIV-CWF-TOL-YDW
+  description: ''
   level: 5
   name: Vattnet går
   status: ACTIVE
 - code: RYF-CUW-GIV-CWF-TOL-YRJ
+  description: ''
   level: 5
   name: Missfall
   status: ACTIVE
@@ -1270,18 +1290,22 @@ categories:
   name: Bebisprylar & varor för barn
   status: ACTIVE
 - code: RYF-CUW-RBU-JJM-BLQ-AYL
+  description: ''
   level: 5
   name: Barnvagnar
   status: ACTIVE
 - code: RYF-CUW-RBU-JJM-BLQ-FFA
+  description: ''
   level: 5
   name: Babysitter
   status: ACTIVE
 - code: RYF-CUW-RBU-JJM-BLQ-STU
+  description: ''
   level: 5
   name: Spjälsängar
   status: ACTIVE
 - code: RYF-CUW-RBU-JJM-BLQ-XCF
+  description: ''
   level: 5
   name: Babygym
   status: ACTIVE
@@ -1311,18 +1335,22 @@ categories:
   name: Barns utveckling
   status: ACTIVE
 - code: RYF-CUW-RBU-JJM-KPR-HQM
+  description: ''
   level: 5
   name: Potträning & blöjfritt barn
   status: ACTIVE
 - code: RYF-CUW-RBU-JJM-KPR-IDX
+  description: ''
   level: 5
   name: Nappar & sluta med napp
   status: ACTIVE
 - code: RYF-CUW-RBU-JJM-KPR-KFB
+  description: ''
   level: 5
   name: Vikt & längd
   status: ACTIVE
 - code: RYF-CUW-RBU-JJM-KPR-NAH
+  description: ''
   level: 5
   name: Sluta amma
   status: ACTIVE
@@ -1352,6 +1380,7 @@ categories:
   name: Amning & bröstmjölk
   status: ACTIVE
 - code: RYF-CUW-RBU-JJM-RWM-LAT
+  description: ''
   level: 5
   name: Modersmjölkersättning
   status: ACTIVE
@@ -1566,6 +1595,7 @@ categories:
   name: Kärnfysik
   status: ACTIVE
 - code: RYF-EOI-DLM-BUZ-DWC-TAT
+  description: ''
   level: 5
   name: Partikelfysik
   status: ACTIVE
@@ -1922,6 +1952,7 @@ categories:
   name: Dödshjälp
   status: ACTIVE
 - code: RYF-HPT-PPR-LQJ-DBB-FWA
+  description: ''
   level: 5
   name: Assisterat självmord
   status: ACTIVE
@@ -2468,10 +2499,12 @@ categories:
   name: Privatlån
   status: ACTIVE
 - code: RYF-IXA-AOE-CYP-SBF-IRO
+  description: ''
   level: 5
   name: Övriga lån utan säkerhet
   status: ACTIVE
 - code: RYF-IXA-AOE-CYP-SBF-QNT
+  description: ''
   level: 5
   name: Sms-lån
   status: ACTIVE
@@ -2482,10 +2515,12 @@ categories:
   replaces: RYF-IXA-QED-GWF
   status: ACTIVE
 - code: RYF-IXA-AOE-CYP-TSE-SDL
+  description: ''
   level: 5
   name: Amortering & amorteringskrav
   status: ACTIVE
 - code: RYF-IXA-AOE-CYP-TSE-XQB
+  description: ''
   level: 5
   name: Pantbrev & lagfart
   status: ACTIVE
@@ -2593,14 +2628,17 @@ categories:
   name: Aktieråd
   status: ACTIVE
 - code: RYF-IXA-CVI-MAB-NXZ-CYZ
+  description: ''
   level: 5
   name: Köpråd
   status: ACTIVE
 - code: RYF-IXA-CVI-MAB-NXZ-RIM
+  description: ''
   level: 5
   name: Säljråd
   status: ACTIVE
 - code: RYF-IXA-CVI-MAB-NXZ-WWQ
+  description: ''
   level: 5
   name: Råd att behålla
   status: ACTIVE
@@ -3307,34 +3345,42 @@ categories:
   name: Försäkringar
   status: ACTIVE
 - code: RYF-IXA-KEV-VKR-ODH-BSB
+  description: ''
   level: 5
   name: Gravidförsäkring
   status: ACTIVE
 - code: RYF-IXA-KEV-VKR-ODH-HZI
+  description: ''
   level: 5
   name: Olycksfallsförsäkring
   status: ACTIVE
 - code: RYF-IXA-KEV-VKR-ODH-LKB
+  description: ''
   level: 5
   name: Hemförsäkring
   status: ACTIVE
 - code: RYF-IXA-KEV-VKR-ODH-NNK
+  description: ''
   level: 5
   name: Husdjursförsäkring
   status: ACTIVE
 - code: RYF-IXA-KEV-VKR-ODH-OJZ
+  description: ''
   level: 5
   name: Båtförsäkring
   status: ACTIVE
 - code: RYF-IXA-KEV-VKR-ODH-OOZ
+  description: ''
   level: 5
   name: Livsförsäkring
   status: ACTIVE
 - code: RYF-IXA-KEV-VKR-ODH-TMT
+  description: ''
   level: 5
   name: Barnförsäkring
   status: ACTIVE
 - code: RYF-IXA-KEV-VKR-ODH-WLZ
+  description: ''
   level: 5
   name: Fordonsförsäkring
   status: ACTIVE
@@ -3354,10 +3400,12 @@ categories:
   name: Leasing
   status: ACTIVE
 - code: RYF-IXA-KEV-VKR-ROV-FSJ
+  description: ''
   level: 5
   name: Privatlease
   status: ACTIVE
 - code: RYF-IXA-KEV-VKR-ROV-QZV
+  description: ''
   level: 5
   name: Företagslease
   status: ACTIVE
@@ -3382,6 +3430,7 @@ categories:
   name: Verkstads- & reparationstjänster
   status: ACTIVE
 - code: RYF-IXA-KEV-VKR-TLP-JLP
+  description: ''
   level: 5
   name: Bilverkstad
   status: ACTIVE
@@ -3461,6 +3510,7 @@ categories:
   name: Djuruppfödning
   status: ACTIVE
 - code: RYF-IXA-KEV-VSA-CJI-EBR
+  description: ''
   level: 5
   name: Djurhållning
   status: ACTIVE
@@ -3530,10 +3580,12 @@ categories:
   name: Elektriska apparater
   status: ACTIVE
 - code: RYF-IXA-KEV-WHS-LHJ-KHY
+  description: ''
   level: 5
   name: Hushållsmaskiner
   status: ACTIVE
 - code: RYF-IXA-KEV-WHS-LHJ-UNZ
+  description: ''
   level: 5
   name: Köksmaskiner
   status: ACTIVE
@@ -3553,54 +3605,67 @@ categories:
   name: Fordonsutrustning
   status: ACTIVE
 - code: RYF-IXA-KEV-WHS-OJI-AHY
+  description: ''
   level: 5
   name: Krockkuddar
   status: ACTIVE
 - code: RYF-IXA-KEV-WHS-OJI-DOG
+  description: ''
   level: 5
   name: Autobromsar
   status: ACTIVE
 - code: RYF-IXA-KEV-WHS-OJI-EJA
+  description: ''
   level: 5
   name: Elbilsbatterier
   status: ACTIVE
 - code: RYF-IXA-KEV-WHS-OJI-IMY
+  description: ''
   level: 5
   name: Dubbdäck
   status: ACTIVE
 - code: RYF-IXA-KEV-WHS-OJI-JQC
+  description: ''
   level: 5
   name: Bilbarnstolar
   status: ACTIVE
 - code: RYF-IXA-KEV-WHS-OJI-KSK
+  description: ''
   level: 5
   name: Bilbatterier
   status: ACTIVE
 - code: RYF-IXA-KEV-WHS-OJI-KWL
+  description: ''
   level: 5
   name: Stötdämpare
   status: ACTIVE
 - code: RYF-IXA-KEV-WHS-OJI-NRD
+  description: ''
   level: 5
   name: Vinterdäck
   status: ACTIVE
 - code: RYF-IXA-KEV-WHS-OJI-OTB
+  description: ''
   level: 5
   name: Sommardäck
   status: ACTIVE
 - code: RYF-IXA-KEV-WHS-OJI-RUR
+  description: ''
   level: 5
   name: Vindrutor
   status: ACTIVE
 - code: RYF-IXA-KEV-WHS-OJI-UOX
+  description: ''
   level: 5
   name: Infotainmentsystem
   status: ACTIVE
 - code: RYF-IXA-KEV-WHS-OJI-WJA
+  description: ''
   level: 5
   name: Dubbelkopplingslåda
   status: ACTIVE
 - code: RYF-IXA-KEV-WHS-OJI-ZSM
+  description: ''
   level: 5
   name: Strålkastare & lampor
   status: ACTIVE
@@ -3625,6 +3690,7 @@ categories:
   name: Fordonstillverkning & bilindustri
   status: ACTIVE
 - code: RYF-IXA-KEV-WHS-ZIB-UME
+  description: ''
   level: 5
   name: Produktionsstopp
   status: ACTIVE
@@ -3691,6 +3757,7 @@ categories:
   name: Resebranschen
   status: ACTIVE
 - code: RYF-IXA-KEV-YII-KZL-EYK
+  description: ''
   level: 5
   name: Flygbolag
   status: ACTIVE
@@ -4698,6 +4765,7 @@ categories:
   name: Jämställdhetsfrågor
   status: ACTIVE
 - code: RYF-KNI-XNS-SWE-PHD-ING
+  description: ''
   level: 5
   name: Feminism & genus
   status: ACTIVE
@@ -4707,10 +4775,12 @@ categories:
   name: Bostads- & stadsplaneringsfrågor
   status: ACTIVE
 - code: RYF-KNI-XNS-SWE-ROA-DSR
+  description: ''
   level: 5
   name: Smarta städer
   status: ACTIVE
 - code: RYF-KNI-XNS-SWE-ROA-EMY
+  description: ''
   level: 5
   name: Bostadsbrist
   status: ACTIVE
@@ -4725,6 +4795,7 @@ categories:
   name: Pension & välfärdspolitik
   status: ACTIVE
 - code: RYF-KNI-XNS-SWE-VMT-ZKQ
+  description: ''
   level: 5
   name: Vinster i välfärden
   status: ACTIVE
@@ -4779,6 +4850,7 @@ categories:
   name: Statsbudget & budgetarbete
   status: ACTIVE
 - code: RYF-KNI-XNS-WZY-ZFI-HKG
+  description: ''
   level: 5
   name: Skuggbudget
   status: ACTIVE
@@ -6797,10 +6869,12 @@ categories:
   name: Fotbollslandslaget
   status: ACTIVE
 - code: RYF-QPR-HGB-DEN-HEP-ALL
+  description: ''
   level: 5
   name: Herrlandslaget i fotboll
   status: ACTIVE
 - code: RYF-QPR-HGB-DEN-HEP-IPZ
+  description: ''
   level: 5
   name: Damlandslaget i fotboll
   status: ACTIVE
@@ -9317,14 +9391,17 @@ categories:
   name: Sittmöbler
   status: ACTIVE
 - code: RYF-TKT-AGB-BGD-BLU-BPT
+  description: ''
   level: 5
   name: Fåtöljer
   status: ACTIVE
 - code: RYF-TKT-AGB-BGD-BLU-FZG
+  description: ''
   level: 5
   name: Stolar
   status: ACTIVE
 - code: RYF-TKT-AGB-BGD-BLU-LGQ
+  description: ''
   level: 5
   name: Soffor
   status: ACTIVE
@@ -9334,14 +9411,17 @@ categories:
   name: Bord
   status: ACTIVE
 - code: RYF-TKT-AGB-BGD-FMD-CFH
+  description: ''
   level: 5
   name: Soffbord
   status: ACTIVE
 - code: RYF-TKT-AGB-BGD-FMD-DQP
+  description: ''
   level: 5
   name: Matbord
   status: ACTIVE
 - code: RYF-TKT-AGB-BGD-FMD-KNM
+  description: ''
   level: 5
   name: Skrivbord
   status: ACTIVE
@@ -9351,58 +9431,72 @@ categories:
   name: Rumstyper att inreda
   status: ACTIVE
 - code: RYF-TKT-AGB-BGD-FQY-CEH
+  description: ''
   level: 5
   name: Barnrum
   status: ACTIVE
 - code: RYF-TKT-AGB-BGD-FQY-ESH
+  description: ''
   level: 5
   name: Kök
   status: ACTIVE
 - code: RYF-TKT-AGB-BGD-FQY-HKA
+  description: ''
   level: 5
   name: Jordkällare
   status: ACTIVE
 - code: RYF-TKT-AGB-BGD-FQY-HZG
+  description: ''
   level: 5
   name: Hall
   status: ACTIVE
 - code: RYF-TKT-AGB-BGD-FQY-LCN
+  description: ''
   level: 5
   name: Sovrum
   status: ACTIVE
 - code: RYF-TKT-AGB-BGD-FQY-LVJ
+  description: ''
   level: 5
   name: Arbetsrum
   status: ACTIVE
 - code: RYF-TKT-AGB-BGD-FQY-OPX
+  description: ''
   level: 5
   name: Tvättstuga
   status: ACTIVE
 - code: RYF-TKT-AGB-BGD-FQY-RYH
+  description: ''
   level: 5
   name: Matplats
   status: ACTIVE
 - code: RYF-TKT-AGB-BGD-FQY-SHO
+  description: ''
   level: 5
   name: Vardagsrum
   status: ACTIVE
 - code: RYF-TKT-AGB-BGD-FQY-VDB
+  description: ''
   level: 5
   name: Lekstuga
   status: ACTIVE
 - code: RYF-TKT-AGB-BGD-FQY-VDS
+  description: ''
   level: 5
   name: Walk in closet
   status: ACTIVE
 - code: RYF-TKT-AGB-BGD-FQY-VWP
+  description: ''
   level: 5
   name: Trappa & Trapphus
   status: ACTIVE
 - code: RYF-TKT-AGB-BGD-FQY-VYW
+  description: ''
   level: 5
   name: Gästrum
   status: ACTIVE
 - code: RYF-TKT-AGB-BGD-FQY-ZNV
+  description: ''
   level: 5
   name: Badrum & Toalett
   status: ACTIVE
@@ -9417,14 +9511,17 @@ categories:
   name: Dukning & dekoration
   status: ACTIVE
 - code: RYF-TKT-AGB-BGD-GFQ-DWM
+  description: ''
   level: 5
   name: Stilleben
   status: ACTIVE
 - code: RYF-TKT-AGB-BGD-GFQ-FEU
+  description: ''
   level: 5
   name: Brickor
   status: ACTIVE
 - code: RYF-TKT-AGB-BGD-GFQ-ORX
+  description: ''
   level: 5
   name: Bröllopsdukning
   status: ACTIVE
@@ -9444,42 +9541,52 @@ categories:
   name: Utomhusmiljö
   status: ACTIVE
 - code: RYF-TKT-AGB-BGD-IOS-BLX
+  description: ''
   level: 5
   name: Trall
   status: ACTIVE
 - code: RYF-TKT-AGB-BGD-IOS-DUP
+  description: ''
   level: 5
   name: Uterum
   status: ACTIVE
 - code: RYF-TKT-AGB-BGD-IOS-GBG
+  description: ''
   level: 5
   name: Uteplats
   status: ACTIVE
 - code: RYF-TKT-AGB-BGD-IOS-GTW
+  description: ''
   level: 5
   name: Pergola
   status: ACTIVE
 - code: RYF-TKT-AGB-BGD-IOS-GXU
+  description: ''
   level: 5
   name: Balkong
   status: ACTIVE
 - code: RYF-TKT-AGB-BGD-IOS-HPK
+  description: ''
   level: 5
   name: Terass
   status: ACTIVE
 - code: RYF-TKT-AGB-BGD-IOS-IIF
+  description: ''
   level: 5
   name: Trädäck
   status: ACTIVE
 - code: RYF-TKT-AGB-BGD-IOS-QIY
+  description: ''
   level: 5
   name: Kolonilott
   status: ACTIVE
 - code: RYF-TKT-AGB-BGD-IOS-RYM
+  description: ''
   level: 5
   name: Altan
   status: ACTIVE
 - code: RYF-TKT-AGB-BGD-IOS-WTD
+  description: ''
   level: 5
   name: Lusthus
   status: ACTIVE
@@ -9494,86 +9601,107 @@ categories:
   name: Inredningsstilar
   status: ACTIVE
 - code: RYF-TKT-AGB-BGD-LMT-BWG
+  description: ''
   level: 5
   name: Compact living
   status: ACTIVE
 - code: RYF-TKT-AGB-BGD-LMT-DDT
+  description: ''
   level: 5
   name: Rokokostil
   status: ACTIVE
 - code: RYF-TKT-AGB-BGD-LMT-DTK
+  description: ''
   level: 5
   name: Medeltidsstil
   status: ACTIVE
 - code: RYF-TKT-AGB-BGD-LMT-EGA
+  description: ''
   level: 5
   name: 70-talsstil
   status: ACTIVE
 - code: RYF-TKT-AGB-BGD-LMT-FBG
+  description: ''
   level: 5
   name: Industriell stil
   status: ACTIVE
 - code: RYF-TKT-AGB-BGD-LMT-GIU
+  description: ''
   level: 5
   name: Shabby chic
   status: ACTIVE
 - code: RYF-TKT-AGB-BGD-LMT-GZT
+  description: ''
   level: 5
   name: Allmogestil
   status: ACTIVE
 - code: RYF-TKT-AGB-BGD-LMT-KXA
+  description: ''
   level: 5
   name: Marin stil
   status: ACTIVE
 - code: RYF-TKT-AGB-BGD-LMT-LBT
+  description: ''
   level: 5
   name: Vintage
   status: ACTIVE
 - code: RYF-TKT-AGB-BGD-LMT-LNC
+  description: ''
   level: 5
   name: 50-talsstil
   status: ACTIVE
 - code: RYF-TKT-AGB-BGD-LMT-MCA
+  description: ''
   level: 5
   name: Minimalistisk stil
   status: ACTIVE
 - code: RYF-TKT-AGB-BGD-LMT-OZI
+  description: ''
   level: 5
   name: Orientalisk stil
   status: ACTIVE
 - code: RYF-TKT-AGB-BGD-LMT-QHY
+  description: ''
   level: 5
   name: Retro
   status: ACTIVE
 - code: RYF-TKT-AGB-BGD-LMT-RAT
+  description: ''
   level: 5
   name: Rustik stil
   status: ACTIVE
 - code: RYF-TKT-AGB-BGD-LMT-TVT
+  description: ''
   level: 5
   name: Modern stil
   status: ACTIVE
 - code: RYF-TKT-AGB-BGD-LMT-VVX
+  description: ''
   level: 5
   name: Lantlig stil
   status: ACTIVE
 - code: RYF-TKT-AGB-BGD-LMT-XGY
+  description: ''
   level: 5
   name: Jugend
   status: ACTIVE
 - code: RYF-TKT-AGB-BGD-LMT-XPF
+  description: ''
   level: 5
   name: Art deco
   status: ACTIVE
 - code: RYF-TKT-AGB-BGD-LMT-ZBH
+  description: ''
   level: 5
   name: ADD England
   status: ACTIVE
 - code: RYF-TKT-AGB-BGD-LMT-ZGC
+  description: ''
   level: 5
   name: Sekelskiftesstil
   status: ACTIVE
 - code: RYF-TKT-AGB-BGD-LMT-ZNA
+  description: ''
   level: 5
   name: Funkis
   status: ACTIVE
@@ -9583,10 +9711,12 @@ categories:
   name: Tavlor, affischer & posters
   status: ACTIVE
 - code: RYF-TKT-AGB-BGD-LPY-PZY
+  description: ''
   level: 5
   name: Tavelväggar
   status: ACTIVE
 - code: RYF-TKT-AGB-BGD-LPY-ZAP
+  description: ''
   level: 5
   name: Tavelramar
   status: ACTIVE
@@ -9596,10 +9726,12 @@ categories:
   name: Kuddar
   status: ACTIVE
 - code: RYF-TKT-AGB-BGD-MCI-HCH
+  description: ''
   level: 5
   name: Dunkuddar
   status: ACTIVE
 - code: RYF-TKT-AGB-BGD-MCI-ZZD
+  description: ''
   level: 5
   name: Soffkuddar
   status: ACTIVE
@@ -9624,14 +9756,17 @@ categories:
   name: Förvaringsmöbler
   status: ACTIVE
 - code: RYF-TKT-AGB-BGD-RQI-LZF
+  description: ''
   level: 5
   name: Hyllor
   status: ACTIVE
 - code: RYF-TKT-AGB-BGD-RQI-OUC
+  description: ''
   level: 5
   name: Byråer
   status: ACTIVE
 - code: RYF-TKT-AGB-BGD-RQI-RUL
+  description: ''
   level: 5
   name: Garderober
   status: ACTIVE
@@ -9661,10 +9796,12 @@ categories:
   name: Belysning & lampor
   status: ACTIVE
 - code: RYF-TKT-AGB-BGD-XRO-KQS
+  description: ''
   level: 5
   name: Utebelysning
   status: ACTIVE
 - code: RYF-TKT-AGB-BGD-XRO-PSW
+  description: ''
   level: 5
   name: Ljuslyktor
   status: ACTIVE
@@ -9674,6 +9811,7 @@ categories:
   name: Sängar
   status: ACTIVE
 - code: RYF-TKT-AGB-BGD-YTL-JZG
+  description: ''
   level: 5
   name: Sänggavlar & sängstomar
   status: ACTIVE
@@ -9683,22 +9821,27 @@ categories:
   name: Vitvaror
   status: ACTIVE
 - code: RYF-TKT-AGB-BGD-ZRR-EJJ
+  description: ''
   level: 5
   name: Spis & ugn
   status: ACTIVE
 - code: RYF-TKT-AGB-BGD-ZRR-HER
+  description: ''
   level: 5
   name: Microvågsugn
   status: ACTIVE
 - code: RYF-TKT-AGB-BGD-ZRR-HZN
+  description: ''
   level: 5
   name: Diskmaskin
   status: ACTIVE
 - code: RYF-TKT-AGB-BGD-ZRR-JUU
+  description: ''
   level: 5
   name: Kyl & frys
   status: ACTIVE
 - code: RYF-TKT-AGB-BGD-ZRR-TSC
+  description: ''
   level: 5
   name: Tvättmaskin & torktumlare
   status: ACTIVE
@@ -9748,14 +9891,17 @@ categories:
   name: Byggmaterial för hemmet
   status: ACTIVE
 - code: RYF-TKT-AGB-IAV-OWU-INL
+  description: ''
   level: 5
   name: Trätyper
   status: ACTIVE
 - code: RYF-TKT-AGB-IAV-OWU-QNC
+  description: ''
   level: 5
   name: Mässing
   status: ACTIVE
 - code: RYF-TKT-AGB-IAV-OWU-WLK
+  description: ''
   level: 5
   name: Betong
   status: ACTIVE
@@ -9790,18 +9936,22 @@ categories:
   name: Köksrenovering
   status: ACTIVE
 - code: RYF-TKT-AGB-NVR-JMX-DEF
+  description: ''
   level: 5
   name: Spisar
   status: ACTIVE
 - code: RYF-TKT-AGB-NVR-JMX-IQD
+  description: ''
   level: 5
   name: Köksluckor
   status: ACTIVE
 - code: RYF-TKT-AGB-NVR-JMX-TNR
+  description: ''
   level: 5
   name: Köksöar
   status: ACTIVE
 - code: RYF-TKT-AGB-NVR-JMX-VKT
+  description: ''
   level: 5
   name: Diskbänkar
   status: ACTIVE
@@ -9816,14 +9966,17 @@ categories:
   name: Golv, väggar & tak
   status: ACTIVE
 - code: RYF-TKT-AGB-NVR-TKG-AOP
+  description: ''
   level: 5
   name: Gipsväggar
   status: ACTIVE
 - code: RYF-TKT-AGB-NVR-TKG-BCT
+  description: ''
   level: 5
   name: Träpaneler
   status: ACTIVE
 - code: RYF-TKT-AGB-NVR-TKG-IJE
+  description: ''
   level: 5
   name: Betongväggar
   status: ACTIVE
@@ -9946,7 +10099,7 @@ categories:
   description: ''
   level: 2
   name: Mat & dryck
-  status: ACTIVE
+  status: INACTIVE
 - code: RYF-TKT-ESN-JPB
   description: ''
   level: 3
@@ -10044,10 +10197,12 @@ categories:
   name: Badkläder & badmode
   status: ACTIVE
 - code: RYF-TKT-GTX-NKU-ASH-OYB
+  description: ''
   level: 5
   name: Bikinis
   status: ACTIVE
 - code: RYF-TKT-GTX-NKU-ASH-SGX
+  description: ''
   level: 5
   name: Baddräkter
   status: ACTIVE
@@ -10058,50 +10213,62 @@ categories:
   replaces: RYF-TKT-GSR-BIH
   status: ACTIVE
 - code: RYF-TKT-GTX-NKU-BIH-BVR
+  description: ''
   level: 5
   name: Concealer
   status: ACTIVE
 - code: RYF-TKT-GTX-NKU-BIH-FSJ
+  description: ''
   level: 5
   name: Remover
   status: ACTIVE
 - code: RYF-TKT-GTX-NKU-BIH-GDX
+  description: ''
   level: 5
   name: Mascara
   status: ACTIVE
 - code: RYF-TKT-GTX-NKU-BIH-GKI
+  description: ''
   level: 5
   name: Puder
   status: ACTIVE
 - code: RYF-TKT-GTX-NKU-BIH-GVQ
+  description: ''
   level: 5
   name: Ögonskugga
   status: ACTIVE
 - code: RYF-TKT-GTX-NKU-BIH-HRM
+  description: ''
   level: 5
   name: Contouring
   status: ACTIVE
 - code: RYF-TKT-GTX-NKU-BIH-LJI
+  description: ''
   level: 5
   name: Foundation
   status: ACTIVE
 - code: RYF-TKT-GTX-NKU-BIH-PGH
+  description: ''
   level: 5
   name: Sminktips
   status: ACTIVE
 - code: RYF-TKT-GTX-NKU-BIH-UEW
+  description: ''
   level: 5
   name: Eyeliner
   status: ACTIVE
 - code: RYF-TKT-GTX-NKU-BIH-ULY
+  description: ''
   level: 5
   name: Highlighter
   status: ACTIVE
 - code: RYF-TKT-GTX-NKU-BIH-UYP
+  description: ''
   level: 5
   name: Primer
   status: ACTIVE
 - code: RYF-TKT-GTX-NKU-BIH-XVS
+  description: ''
   level: 5
   name: Rouge
   status: ACTIVE
@@ -10111,34 +10278,42 @@ categories:
   name: Skor
   status: ACTIVE
 - code: RYF-TKT-GTX-NKU-BII-FPH
+  description: ''
   level: 5
   name: Sandaler & tofflor
   status: ACTIVE
 - code: RYF-TKT-GTX-NKU-BII-IBV
+  description: ''
   level: 5
   name: Pumps
   status: ACTIVE
 - code: RYF-TKT-GTX-NKU-BII-JGQ
+  description: ''
   level: 5
   name: Höstskor
   status: ACTIVE
 - code: RYF-TKT-GTX-NKU-BII-PLM
+  description: ''
   level: 5
   name: Kängor
   status: ACTIVE
 - code: RYF-TKT-GTX-NKU-BII-ULI
+  description: ''
   level: 5
   name: Festskor
   status: ACTIVE
 - code: RYF-TKT-GTX-NKU-BII-VKI
+  description: ''
   level: 5
   name: Sneakers
   status: ACTIVE
 - code: RYF-TKT-GTX-NKU-BII-YPA
+  description: ''
   level: 5
   name: Ballerinaskor
   status: ACTIVE
 - code: RYF-TKT-GTX-NKU-BII-YTJ
+  description: ''
   level: 5
   name: Sommarskor
   status: ACTIVE
@@ -10149,30 +10324,37 @@ categories:
   replaces: RYF-TKT-GSR-BJE
   status: ACTIVE
 - code: RYF-TKT-GTX-NKU-BJE-BJH
+  description: ''
   level: 5
   name: Glasögon & linser
   status: ACTIVE
 - code: RYF-TKT-GTX-NKU-BJE-GYV
+  description: ''
   level: 5
   name: Handskar & vantar
   status: ACTIVE
 - code: RYF-TKT-GTX-NKU-BJE-ICF
+  description: ''
   level: 5
   name: Örhängen
   status: ACTIVE
 - code: RYF-TKT-GTX-NKU-BJE-KVZ
+  description: ''
   level: 5
   name: Halsband
   status: ACTIVE
 - code: RYF-TKT-GTX-NKU-BJE-MAY
+  description: ''
   level: 5
   name: Klockor & ur
   status: ACTIVE
 - code: RYF-TKT-GTX-NKU-BJE-NBG
+  description: ''
   level: 5
   name: Ringar
   status: ACTIVE
 - code: RYF-TKT-GTX-NKU-BJE-UZF
+  description: ''
   level: 5
   name: Armband & länkar
   status: ACTIVE
@@ -10188,10 +10370,12 @@ categories:
   replaces: RYF-TKT-GSR-CNN
   status: ACTIVE
 - code: RYF-TKT-GTX-NKU-CNN-FRZ
+  description: ''
   level: 5
   name: Hårfärger
   status: ACTIVE
 - code: RYF-TKT-GTX-NKU-CNN-KOA
+  description: ''
   level: 5
   name: Frisyrer & klippning
   status: ACTIVE
@@ -10212,30 +10396,37 @@ categories:
   replaces: RYF-TKT-GSR-EXJ
   status: ACTIVE
 - code: RYF-TKT-GTX-NKU-EXJ-DTO
+  description: ''
   level: 5
   name: Byxdressar
   status: ACTIVE
 - code: RYF-TKT-GTX-NKU-EXJ-FPT
+  description: ''
   level: 5
   name: Klädvård
   status: ACTIVE
 - code: RYF-TKT-GTX-NKU-EXJ-JSG
+  description: ''
   level: 5
   name: Träningskläder
   status: ACTIVE
 - code: RYF-TKT-GTX-NKU-EXJ-OFI
+  description: ''
   level: 5
   name: Kollektioner & årstider
   status: ACTIVE
 - code: RYF-TKT-GTX-NKU-EXJ-OIG
+  description: ''
   level: 5
   name: Kostymer
   status: ACTIVE
 - code: RYF-TKT-GTX-NKU-EXJ-OPE
+  description: ''
   level: 5
   name: Basgarderob
   status: ACTIVE
 - code: RYF-TKT-GTX-NKU-EXJ-WAV
+  description: ''
   level: 5
   name: Couture
   status: ACTIVE
@@ -10245,14 +10436,17 @@ categories:
   name: Parfymer & dofter
   status: ACTIVE
 - code: RYF-TKT-GTX-NKU-FDW-ASU
+  description: ''
   level: 5
   name: Eau de toilette
   status: ACTIVE
 - code: RYF-TKT-GTX-NKU-FDW-SSU
+  description: ''
   level: 5
   name: Rakvatten
   status: ACTIVE
 - code: RYF-TKT-GTX-NKU-FDW-ZSP
+  description: ''
   level: 5
   name: Deodorant
   status: ACTIVE
@@ -10262,18 +10456,22 @@ categories:
   name: Modetrender & modetyper
   status: ACTIVE
 - code: RYF-TKT-GTX-NKU-GVR-CCY
+  description: ''
   level: 5
   name: Höstmode
   status: ACTIVE
 - code: RYF-TKT-GTX-NKU-GVR-TKY
+  description: ''
   level: 5
   name: Vintermode
   status: ACTIVE
 - code: RYF-TKT-GTX-NKU-GVR-WAD
+  description: ''
   level: 5
   name: Sommarmode
   status: ACTIVE
 - code: RYF-TKT-GTX-NKU-GVR-YLA
+  description: ''
   level: 5
   name: Vårmode
   status: ACTIVE
@@ -10283,26 +10481,32 @@ categories:
   name: Jackor, kappor & rockar
   status: ACTIVE
 - code: RYF-TKT-GTX-NKU-ILV-ECI
+  description: ''
   level: 5
   name: Kavajer
   status: ACTIVE
 - code: RYF-TKT-GTX-NKU-ILV-IDL
+  description: ''
   level: 5
   name: Vårjackor
   status: ACTIVE
 - code: RYF-TKT-GTX-NKU-ILV-MBN
+  description: ''
   level: 5
   name: Vinterjackor
   status: ACTIVE
 - code: RYF-TKT-GTX-NKU-ILV-MPY
+  description: ''
   level: 5
   name: Vårkappor
   status: ACTIVE
 - code: RYF-TKT-GTX-NKU-ILV-QOY
+  description: ''
   level: 5
   name: Höstkappor
   status: ACTIVE
 - code: RYF-TKT-GTX-NKU-ILV-TEM
+  description: ''
   level: 5
   name: Höstjackor
   status: ACTIVE
@@ -10312,18 +10516,22 @@ categories:
   name: Skönhetsideal
   status: ACTIVE
 - code: RYF-TKT-GTX-NKU-JUT-GQM
+  description: ''
   level: 5
   name: Fatshaming
   status: ACTIVE
 - code: RYF-TKT-GTX-NKU-JUT-KXI
+  description: ''
   level: 5
   name: Bodyshaming
   status: ACTIVE
 - code: RYF-TKT-GTX-NKU-JUT-OUS
+  description: ''
   level: 5
   name: Rynkor
   status: ACTIVE
 - code: RYF-TKT-GTX-NKU-JUT-TRK
+  description: ''
   level: 5
   name: Kroppshets
   status: ACTIVE
@@ -10333,14 +10541,17 @@ categories:
   name: Hårvårdsprodukter
   status: ACTIVE
 - code: RYF-TKT-GTX-NKU-KBW-LXU
+  description: ''
   level: 5
   name: Schampo
   status: ACTIVE
 - code: RYF-TKT-GTX-NKU-KBW-QJU
+  description: ''
   level: 5
   name: Balsam
   status: ACTIVE
 - code: RYF-TKT-GTX-NKU-KBW-REF
+  description: ''
   level: 5
   name: Hårinpackningar
   status: ACTIVE
@@ -10350,6 +10561,7 @@ categories:
   name: Shorts & byxor
   status: ACTIVE
 - code: RYF-TKT-GTX-NKU-KLC-VUW
+  description: ''
   level: 5
   name: Jeans
   status: ACTIVE
@@ -10359,18 +10571,22 @@ categories:
   name: Solning & solprodukter
   status: ACTIVE
 - code: RYF-TKT-GTX-NKU-MQA-EEW
+  description: ''
   level: 5
   name: Solarium
   status: ACTIVE
 - code: RYF-TKT-GTX-NKU-MQA-TGB
+  description: ''
   level: 5
   name: Solglasögon
   status: ACTIVE
 - code: RYF-TKT-GTX-NKU-MQA-WZB
+  description: ''
   level: 5
   name: Brun utan sol
   status: ACTIVE
 - code: RYF-TKT-GTX-NKU-MQA-XND
+  description: ''
   level: 5
   name: Solskyddsprodukter
   status: ACTIVE
@@ -10381,10 +10597,12 @@ categories:
   replaces: RYF-TKT-GSR-PSA
   status: ACTIVE
 - code: RYF-TKT-GTX-NKU-PSA-AFJ
+  description: ''
   level: 5
   name: Piercing
   status: ACTIVE
 - code: RYF-TKT-GTX-NKU-PSA-HCF
+  description: ''
   level: 5
   name: Tatuering
   status: ACTIVE
@@ -10394,30 +10612,37 @@ categories:
   name: Övrig kosmetika & behandlingar
   status: ACTIVE
 - code: RYF-TKT-GTX-NKU-QOV-FVO
+  description: ''
   level: 5
   name: Ögonfransar
   status: ACTIVE
 - code: RYF-TKT-GTX-NKU-QOV-KWG
+  description: ''
   level: 5
   name: Nagellack
   status: ACTIVE
 - code: RYF-TKT-GTX-NKU-QOV-MSU
+  description: ''
   level: 5
   name: Ögonbryn
   status: ACTIVE
 - code: RYF-TKT-GTX-NKU-QOV-QTW
+  description: ''
   level: 5
   name: Nagelbehandling
   status: ACTIVE
 - code: RYF-TKT-GTX-NKU-QOV-RAV
+  description: ''
   level: 5
   name: Läppglans
   status: ACTIVE
 - code: RYF-TKT-GTX-NKU-QOV-RWF
+  description: ''
   level: 5
   name: Läppbalsam
   status: ACTIVE
 - code: RYF-TKT-GTX-NKU-QOV-YDU
+  description: ''
   level: 5
   name: Läppstift
   status: ACTIVE
@@ -10427,6 +10652,7 @@ categories:
   name: Färger & mönster
   status: ACTIVE
 - code: RYF-TKT-GTX-NKU-RIU-MHI
+  description: ''
   level: 5
   name: Pastell
   status: ACTIVE
@@ -10436,18 +10662,22 @@ categories:
   name: Väskor
   status: ACTIVE
 - code: RYF-TKT-GTX-NKU-RRW-FZG
+  description: ''
   level: 5
   name: Designerväskor
   status: ACTIVE
 - code: RYF-TKT-GTX-NKU-RRW-QTG
+  description: ''
   level: 5
   name: Clutch
   status: ACTIVE
 - code: RYF-TKT-GTX-NKU-RRW-SLV
+  description: ''
   level: 5
   name: Handväskor
   status: ACTIVE
 - code: RYF-TKT-GTX-NKU-RRW-ZTQ
+  description: ''
   level: 5
   name: Kuvertväskor
   status: ACTIVE
@@ -10472,14 +10702,17 @@ categories:
   name: Klänningar & kjolar
   status: ACTIVE
 - code: RYF-TKT-GTX-NKU-TZG-LON
+  description: ''
   level: 5
   name: Långklänningar
   status: ACTIVE
 - code: RYF-TKT-GTX-NKU-TZG-QDM
+  description: ''
   level: 5
   name: Nyårsklänningar
   status: ACTIVE
 - code: RYF-TKT-GTX-NKU-TZG-RMD
+  description: ''
   level: 5
   name: Sommarklänningar
   status: ACTIVE
@@ -10494,14 +10727,17 @@ categories:
   name: Stilar
   status: ACTIVE
 - code: RYF-TKT-GTX-NKU-UOY-ATZ
+  description: ''
   level: 5
   name: Kontorsstil
   status: ACTIVE
 - code: RYF-TKT-GTX-NKU-UOY-PKU
+  description: ''
   level: 5
   name: Vintagestil
   status: ACTIVE
 - code: RYF-TKT-GTX-NKU-UOY-XSJ
+  description: ''
   level: 5
   name: Street
   status: ACTIVE
@@ -10521,34 +10757,42 @@ categories:
   name: Hudvårdsprodukter
   status: ACTIVE
 - code: RYF-TKT-GTX-NKU-ZIV-ABA
+  description: ''
   level: 5
   name: Anti-age-krämer
   status: ACTIVE
 - code: RYF-TKT-GTX-NKU-ZIV-ADC
+  description: ''
   level: 5
   name: Hudrengörning
   status: ACTIVE
 - code: RYF-TKT-GTX-NKU-ZIV-GIV
+  description: ''
   level: 5
   name: Kroppsskrubb
   status: ACTIVE
 - code: RYF-TKT-GTX-NKU-ZIV-JHU
+  description: ''
   level: 5
   name: Krämer & lotion
   status: ACTIVE
 - code: RYF-TKT-GTX-NKU-ZIV-PGB
+  description: ''
   level: 5
   name: Ansiktsrengöring
   status: ACTIVE
 - code: RYF-TKT-GTX-NKU-ZIV-TOU
+  description: ''
   level: 5
   name: Ansiktsmasker
   status: ACTIVE
 - code: RYF-TKT-GTX-NKU-ZIV-VOA
+  description: ''
   level: 5
   name: Serum
   status: ACTIVE
 - code: RYF-TKT-GTX-NKU-ZIV-WWG
+  description: ''
   level: 5
   name: Dagkrämer
   status: ACTIVE
@@ -10558,10 +10802,12 @@ categories:
   name: Klädtyger
   status: ACTIVE
 - code: RYF-TKT-GTX-NKU-ZTW-IEL
+  description: ''
   level: 5
   name: Spetstyger
   status: ACTIVE
 - code: RYF-TKT-GTX-NKU-ZTW-XKR
+  description: ''
   level: 5
   name: Stickade kläder
   status: ACTIVE
@@ -10616,22 +10862,27 @@ categories:
   replaces: RYF-TKT-VVD-AKF
   status: ACTIVE
 - code: RYF-TKT-HFD-DXE-AKF-CHD
+  description: ''
   level: 5
   name: Brädspel
   status: ACTIVE
 - code: RYF-TKT-HFD-DXE-AKF-FSB
+  description: ''
   level: 5
   name: Rollspel
   status: ACTIVE
 - code: RYF-TKT-HFD-DXE-AKF-MEL
+  description: ''
   level: 5
   name: Kortspel
   status: ACTIVE
 - code: RYF-TKT-HFD-DXE-AKF-YMR
+  description: ''
   level: 5
   name: Familjespel
   status: ACTIVE
 - code: RYF-TKT-HFD-DXE-AKF-ZOU
+  description: ''
   level: 5
   name: Tärningsspel
   status: ACTIVE
@@ -10749,6 +11000,7 @@ categories:
   name: Japansk- & koreansk mat
   status: ACTIVE
 - code: RYF-TKT-JCK-GXU-HYN-OUB
+  description: ''
   level: 5
   name: Sushi
   status: ACTIVE
@@ -11275,6 +11527,7 @@ categories:
   replaces: RYF-TKT-SPE
   status: ACTIVE
 - code: RYF-TKT-KXM-ZBA-FSG-VZS
+  description: ''
   level: 5
   name: Cyklar
   status: ACTIVE
@@ -11350,6 +11603,7 @@ categories:
   name: Tvätt & rengöringstillbehör
   status: ACTIVE
 - code: RYF-TKT-MRA-AGA-LKS-TOO
+  description: ''
   level: 5
   name: Svampar & trasor
   status: ACTIVE
@@ -11424,6 +11678,7 @@ categories:
   name: Begagnade bilar
   status: ACTIVE
 - code: RYF-TKT-MRA-JUA-DYT-DJX
+  description: ''
   level: 5
   name: Köpa & sälja
   status: ACTIVE
@@ -11483,10 +11738,12 @@ categories:
   name: Hybridbilar
   status: ACTIVE
 - code: RYF-TKT-MRA-JUA-RGL-NPG
+  description: ''
   level: 5
   name: Mildhybrider
   status: ACTIVE
 - code: RYF-TKT-MRA-JUA-RGL-TVQ
+  description: ''
   level: 5
   name: Dieselhybrider
   status: ACTIVE
@@ -11526,6 +11783,7 @@ categories:
   name: Dieselbilar
   status: ACTIVE
 - code: RYF-TKT-MRA-JUA-XNP-ESC
+  description: ''
   level: 5
   name: Adblue
   status: ACTIVE
@@ -12479,14 +12737,17 @@ categories:
   name: Skog
   status: ACTIVE
 - code: RYF-VHD-HXU-ICY-YMU-CKX
+  description: ''
   level: 5
   name: Lövskog
   status: ACTIVE
 - code: RYF-VHD-HXU-ICY-YMU-KMF
+  description: ''
   level: 5
   name: Barrskog
   status: ACTIVE
 - code: RYF-VHD-HXU-ICY-YMU-NNT
+  description: ''
   level: 5
   name: Regnskog
   status: ACTIVE
@@ -12800,18 +13061,22 @@ categories:
   name: Könssjukdomar
   status: ACTIVE
 - code: RYF-WUU-JZK-FBC-FEB-KRB
+  description: ''
   level: 5
   name: Gonorré
   status: ACTIVE
 - code: RYF-WUU-JZK-FBC-FEB-RND
+  description: ''
   level: 5
   name: Syfilis
   status: ACTIVE
 - code: RYF-WUU-JZK-FBC-FEB-TYT
+  description: ''
   level: 5
   name: Klamydia
   status: ACTIVE
 - code: RYF-WUU-JZK-FBC-FEB-YOK
+  description: ''
   level: 5
   name: Herpes i underlivet
   status: ACTIVE
@@ -12821,50 +13086,62 @@ categories:
   name: Virussjukdomar
   status: ACTIVE
 - code: RYF-WUU-JZK-FBC-FRI-BGM
+  description: ''
   level: 5
   name: Influensa
   status: ACTIVE
 - code: RYF-WUU-JZK-FBC-FRI-CAW
+  description: ''
   level: 5
   name: Körtelfeber
   status: ACTIVE
 - code: RYF-WUU-JZK-FBC-FRI-FDZ
+  description: ''
   level: 5
   name: Höstblåsor
   status: ACTIVE
 - code: RYF-WUU-JZK-FBC-FRI-JRF
+  description: ''
   level: 5
   name: Retrovirus
   status: ACTIVE
 - code: RYF-WUU-JZK-FBC-FRI-LSF
+  description: ''
   level: 5
   name: Vattkoppor
   status: ACTIVE
 - code: RYF-WUU-JZK-FBC-FRI-MCH
+  description: ''
   level: 5
   name: Vinterkräksjuka
   status: ACTIVE
 - code: RYF-WUU-JZK-FBC-FRI-MGS
+  description: ''
   level: 5
   name: Röda hund
   status: ACTIVE
 - code: RYF-WUU-JZK-FBC-FRI-OQO
+  description: ''
   level: 5
   name: Coronavirus
   status: ACTIVE
 - code: RYF-WUU-JZK-FBC-FRI-PMG
+  description: ''
   level: 5
   name: Femte sjukan
   status: ACTIVE
 - code: RYF-WUU-JZK-FBC-FRI-PNE
+  description: ''
   level: 5
   name: RS-virus
   status: ACTIVE
 - code: RYF-WUU-JZK-FBC-FRI-UZW
+  description: ''
   level: 5
   name: Hiv & aids
   status: ACTIVE
 - code: RYF-WUU-JZK-FBC-FRI-WCA
+  description: ''
   level: 5
   name: Övriga förkylningsvirus
   status: ACTIVE
@@ -12949,10 +13226,12 @@ categories:
   name: Fästingbett
   status: ACTIVE
 - code: RYF-WUU-JZK-JUK-THW-IWU
+  description: ''
   level: 5
   name: Borrelia
   status: ACTIVE
 - code: RYF-WUU-JZK-JUK-THW-PYV
+  description: ''
   level: 5
   name: TBE
   status: ACTIVE
@@ -13152,10 +13431,12 @@ categories:
   name: Hörselnedsättning
   status: ACTIVE
 - code: RYF-WUU-JZK-TAC-BQK-RQA
+  description: ''
   level: 5
   name: Tinnitus
   status: ACTIVE
 - code: RYF-WUU-JZK-TAC-BQK-WTV
+  description: ''
   level: 5
   name: Dövhet
   status: ACTIVE
@@ -13180,14 +13461,17 @@ categories:
   name: Synnedsättning
   status: ACTIVE
 - code: RYF-WUU-JZK-TAC-YLZ-KGB
+  description: ''
   level: 5
   name: Glasögon & linser
   status: ACTIVE
 - code: RYF-WUU-JZK-TAC-YLZ-MUS
+  description: ''
   level: 5
   name: Blindhet
   status: ACTIVE
 - code: RYF-WUU-JZK-TAC-YLZ-YOV
+  description: ''
   level: 5
   name: Synundersökning
   status: ACTIVE
@@ -13222,10 +13506,12 @@ categories:
   name: Diabetes
   status: ACTIVE
 - code: RYF-WUU-JZK-WIT-GUK-BHZ
+  description: ''
   level: 5
   name: Typ 2-diabetes
   status: ACTIVE
 - code: RYF-WUU-JZK-WIT-GUK-DDY
+  description: ''
   level: 5
   name: Typ 1-diabetes
   status: ACTIVE
@@ -13482,14 +13768,17 @@ categories:
   name: Kirurgi
   status: ACTIVE
 - code: RYF-WUU-SUX-APJ-FCV-GUT
+  description: ''
   level: 5
   name: Plastikkirurgi
   status: ACTIVE
 - code: RYF-WUU-SUX-APJ-FCV-SYD
+  description: ''
   level: 5
   name: Transplantation
   status: ACTIVE
 - code: RYF-WUU-SUX-APJ-FCV-VUN
+  description: ''
   level: 5
   name: Organdonation
   status: ACTIVE
@@ -13524,10 +13813,12 @@ categories:
   name: Förlossningsvård
   status: ACTIVE
 - code: RYF-WUU-SUX-APJ-VGZ-GWG
+  description: ''
   level: 5
   name: Prematur & prematurvård
   status: ACTIVE
 - code: RYF-WUU-SUX-APJ-VGZ-JCV
+  description: ''
   level: 5
   name: BB
   status: ACTIVE
@@ -13627,10 +13918,12 @@ categories:
   name: Rökning
   status: ACTIVE
 - code: RYF-WUU-ZUM-PIA-VFN-CZF
+  description: ''
   level: 5
   name: Elektroniska cigaretter
   status: ACTIVE
 - code: RYF-WUU-ZUM-PIA-VFN-QYU
+  description: ''
   level: 5
   name: Cigaretter
   status: ACTIVE
@@ -14079,6 +14372,7 @@ categories:
   replaces: RYF-XKI-LNE-FAE
   status: ACTIVE
 - code: RYF-XKI-CUP-NCO-FAE-MUM
+  description: ''
   level: 5
   name: Fotomodeller
   status: ACTIVE
@@ -14142,18 +14436,22 @@ categories:
   name: Musikunderhållningsevenemang
   status: ACTIVE
 - code: RYF-XKI-CUP-NWA-ESM-AMG
+  description: ''
   level: 5
   name: Konserter
   status: ACTIVE
 - code: RYF-XKI-CUP-NWA-ESM-TEG
+  description: ''
   level: 5
   name: Musikframträdande
   status: ACTIVE
 - code: RYF-XKI-CUP-NWA-ESM-VUE
+  description: ''
   level: 5
   name: Turné
   status: ACTIVE
 - code: RYF-XKI-CUP-NWA-ESM-WCT
+  description: ''
   level: 5
   name: Musikfestival
   status: ACTIVE
@@ -14163,14 +14461,17 @@ categories:
   name: Sånger & visor
   status: ACTIVE
 - code: RYF-XKI-CUP-NWA-RRT-IIE
+  description: ''
   level: 5
   name: Julsånger
   status: ACTIVE
 - code: RYF-XKI-CUP-NWA-RRT-LFL
+  description: ''
   level: 5
   name: Folkvisor
   status: ACTIVE
 - code: RYF-XKI-CUP-NWA-RRT-UXS
+  description: ''
   level: 5
   name: Snapsvisor
   status: ACTIVE
@@ -14181,6 +14482,7 @@ categories:
   replaces: RYF-XKI-FEY-VVW
   status: ACTIVE
 - code: RYF-XKI-CUP-NWA-VVW-AJQ
+  description: ''
   level: 5
   name: Techno
   status: ACTIVE
@@ -14227,6 +14529,7 @@ categories:
   replaces: RYF-XKI-FEY-VVW-QSI
   status: ACTIVE
 - code: RYF-XKI-CUP-NWA-VVW-RCJ
+  description: ''
   level: 5
   name: Disco
   status: ACTIVE
