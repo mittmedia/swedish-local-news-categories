@@ -7,7 +7,7 @@ fetch("/dist/categories-coded.json")
   const maxLevel = Math.max(...jsonData.categories.map(category => category.level));
   for(let i = 0; i <= maxLevel; i++) {
     jsonData.categories.forEach(category => {
-      if (category.level !== i) {
+      if (category.level !== i || category.status !== 'ACTIVE') {
         return;
       }
 
@@ -249,6 +249,4 @@ fetch("/dist/categories-coded.json")
 
     toggleNode(d);
   }
-
-
 });
