@@ -1,8 +1,8 @@
 categories:
 - code: RYF
-  description: Rotobjektet för svenska lokalnyheters kategoriträd
+  description: Rotobjektet för Bonnier News kategoriträd
   level: 0
-  name: Lokala nyhetskategorier
+  name: Nyhetskategorier
   status: ACTIVE
 - code: RYF-AKM
   description: Händelser som resulterar i skador på levande varelser eller skador på egendom
