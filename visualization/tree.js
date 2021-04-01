@@ -7,7 +7,7 @@ fetch("/dist/categories-coded.json")
   const maxLevel = Math.max(...jsonData.categories.map(category => category.level));
   for(let i = 0; i <= maxLevel; i++) {
     jsonData.categories.forEach(category => {
-      if (category.level !== i) {
+      if (category.level !== i || !isActiveCategory(category, jsonData.categories)) {
         return;
       }
 
@@ -250,3 +250,8 @@ fetch("/dist/categories-coded.json")
     toggleNode(d);
   }
 });
+function isActiveCategory(category, allCategories) {
+  if (category.status !== 'ACTIVE') return false;
+  const inactiveParents = allCategories.filter(parent => category.startsWith(parent.code) && parent.status !== 'ACTIVE')
+  return inactiveParents.length === 0
+}
