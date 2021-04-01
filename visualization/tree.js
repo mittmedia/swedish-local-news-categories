@@ -252,6 +252,6 @@ fetch("/dist/categories-coded.json")
 });
 function isActiveCategory(category, allCategories) {
   if (category.status !== 'ACTIVE') return false;
-  const inactiveParents = allCategories.filter(parent => category.startsWith(parent.code) && parent.status !== 'ACTIVE')
-  return inactiveParents.length === 0
+  const inactiveParents = allCategories.filter(parent => category.code.startsWith(parent.code) && parent.status !== 'ACTIVE');
+  return inactiveParents.length === 0;
 }
