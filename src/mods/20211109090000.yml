@@ -1,0 +1,60 @@
+modifications:
+- action: ADD
+  parentCode: RYF-IXA-KEV-MCZ-LRX
+  parentName: Reklam & PR
+  name: Reklam
+  level: 5
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-MCZ-LRX
+  parentName: Reklam & PR
+  name: PR
+  level: 5
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-MCZ-LRX
+  parentName: Reklam & PR
+  name: Datamarknadsföring
+  level: 5
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-MCZ-LRX
+  parentName: Reklam & PR
+  name: Evenemang
+  level: 5
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-MCZ-LRX
+  parentName: Reklam & PR
+  name: Innehållsreklam
+  level: 5
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-MCZ-HLJ
+  parentName: Dagstidningar & magasin
+  name: Nyhetsmedier
+  level: 5
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-MCZ-HLJ
+  parentName: Dagstidningar & magasin
+  name: Tidskrifter
+  level: 5
+
+- action: ADD
+  parentCode: RYF-IXA-KEV
+  parentName: Näringsliv
+  name: Innovationer
+  level: 3
+
+- action: ADD
+  parentCode: RYF-IXA-KEV
+  parentName: Näringsliv
+  name: Ledarskap
+  level: 3
+
+- action: ADD
+  parentCode: RYF-IXA-KEV
+  parentName: Näringsliv
+  name: Strategi
+  level: 3
