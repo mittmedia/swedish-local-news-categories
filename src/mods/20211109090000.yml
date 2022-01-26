@@ -58,3 +58,149 @@ modifications:
   parentName: Näringsliv
   name: Strategi
   level: 3
+
+
+# 2022-01-26
+- action: ADD
+  parentCode: RYF-ZEI
+  parentName: Arbetsmarknad
+  name: Nyanställningar
+  level: 2
+ 
+- action: ADD
+  parentCode: RYF-ZEI-XXXX # Kod för nyanställningar?
+  parentName: Nyanställningar
+  name: Rekrytering
+  level: 3
+ 
+ 
+- action: ADD
+  parentCode: RYF-IXA-KEV
+  parentName: Näringsliv
+  name: Fastighetsbranschen
+  level: 3
+  
+- action: ADD
+  parentCode: RYF-IXA-KEV-XXXX # Kod för Fastighetsbranschen?
+  parentName: Fastighetsbranschen
+  name: Fastighetsförvaltning
+  level: 4
+  
+- action: ADD
+  parentCode: RYF-IXA-KEV-XXXX # Kod för Fastighetsbranschen?
+  parentName: Fastighetsbranschen
+  name: Fastighetsuthyrning
+  level: 4
+  
+- action: ADD
+  parentCode: RYF-IXA-KEV-XXXX # Kod för Fastighetsbranschen?
+  parentName: Fastighetsbranschen
+  name: Kontorsförvaltning
+  level: 4
+  
+- action: ADD
+  parentCode: RYF-IXA-KEV
+  parentName: Näringsliv
+  name: Byggnadsbranschen
+  level: 3
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-XXXX # Kod för Byggnadsbranschen?
+  parentName: Byggnadsbranschen
+  name: Nyproduktion
+  level: 4
+  
+- action: MOVE
+  code: RYF-IXA-KEV-OTN-ZWU
+  name: Infrastrukturbyggnad
+  newParentCode: RYF-HPT-YGE
+  newParentName: Infrastruktur
+
+- action: MOVE
+  code: RYF-IXA-KEV-OTN-RBK
+  name: Renovering & restaurering
+  newParentCode: RYF-IXA-KEV-XXXX # Kod för Byggnadsbranschen?
+  newParentName: Byggnadsbranschen
+  
+- action: MOVE
+  code: RYF-IXA-KEV-OTN-WNQ
+  name: Stadsbyggnad
+  newParentCode: RYF-HPT-ZSS-WTL
+  newParentName: Samhällsplanering
+ 
+- action: INACTIVATE
+  code: RYF-IXA-KEV-OTN-KAZ
+  name: Jordbruksfastigheter
+    
+- action: INACTIVATE
+  code: RYF-IXA-KEV-OTN-KAZ
+  name: Jordbruksfastigheter
+  
+- action: INACTIVATE
+  code: RYF-IXA-KEV-OTN-MNM
+  name: Markpriser
+ 
+- action: INACTIVATE
+  code: RYF-IXA-KEV-OTN-TSA
+  name: Husbyggnad
+  
+- action: INACTIVATE
+  code: RYF-IXA-KEV-OTN
+  name: Fastighets- & byggnadsindustri
+
+
+- action: ADD
+  parentCode: RYF-IXA-KEV
+  parentName: Näringsliv
+  name: Innovation
+  level: 3
+
+- action: UPDATE
+  code: RYF-IXA-KEV-RQL
+  name: Konsumtions- & dagligvaror
+  newName: Handel
+
+- action: UPDATE
+  code: RYF-IXA-KEV-RQL-FAF
+  name: Grossister
+  newName: Partihandel
+
+- action: ADD
+  parentCode: RYF-IXA-KEV
+  parentName: Näringsliv
+  name: Ledarskap
+  level: 3
+
+- action: UPDATE
+  code: RYF-IXA-KEV-RQL-FAF
+  name: Grossister
+  newName: Partihandel
+  
+  
+  
+  
+- action: MOVE
+  code: RYF-IXA-KEV-CYO
+  name: Flygtransporter
+  newParentCode: RYF-IXA-KEV-CYO
+  newParentName: Logistikbranschen
+  
+- action: MOVE
+  code: RYF-IXA-KEV-VXX-SAU
+  name: Järnvägstransporter
+  newParentCode: RYF-IXA-KEV-CYO
+  newParentName: Logistikbranschen
+  
+- action: MOVE
+  code: RYF-IXA-KEV-VXX-TBB
+  name: Sjötransporter
+  newParentCode: RYF-IXA-KEV-CYO
+  newParentName: Logistikbranschen
+  
+- action: MOVE
+  code: RYF-IXA-KEV-VXX-YRQ
+  name: Vägtransporter
+  newParentCode: RYF-IXA-KEV-CYO
+  newParentName: Logistikbranschen
+  
+  # om man flyttar hela Trasporter (RYF-IXA-KEV-VXX). Följer barnen med?
