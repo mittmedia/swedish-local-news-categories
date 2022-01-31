@@ -179,28 +179,196 @@ modifications:
   
   
   
-- action: MOVE
+ # Update först, sedan MOVE nedan
+- action: UPDATE
   code: RYF-IXA-KEV-CYO
   name: Flygtransporter
+  newName: Flygbranschen
+  
+- action: UPDATE
+  code: RYF-IXA-KEV-VXX-SAU
+  name: Järnvägstransporter
+  newName: Järnvägsbranschen
+  
+- action: UPDATE
+  code: RYF-IXA-KEV-VXX-TBB
+  name: Sjötransporter
+  newName: Rederibranschen
+  
+- action: UPDATE
+  code: RYF-IXA-KEV-VXX-YRQ
+  name: Vägtransporter
+  newName: Åkeribranschen
+  
+  
+  
+- action: MOVE
+  code: RYF-IXA-KEV-CYO
+  name: Flygbranschen
   newParentCode: RYF-IXA-KEV-CYO
   newParentName: Logistikbranschen
   
 - action: MOVE
   code: RYF-IXA-KEV-VXX-SAU
-  name: Järnvägstransporter
+  name: Järnvägsbranschen
   newParentCode: RYF-IXA-KEV-CYO
   newParentName: Logistikbranschen
   
 - action: MOVE
   code: RYF-IXA-KEV-VXX-TBB
-  name: Sjötransporter
+  name: Rederibranschen
   newParentCode: RYF-IXA-KEV-CYO
   newParentName: Logistikbranschen
   
 - action: MOVE
   code: RYF-IXA-KEV-VXX-YRQ
-  name: Vägtransporter
+  name: Åkeribranschen
   newParentCode: RYF-IXA-KEV-CYO
   newParentName: Logistikbranschen
   
-  # om man flyttar hela Trasporter (RYF-IXA-KEV-VXX). Följer barnen med?
+
+#- action: INACTIVATE
+#  code: RYF-IXA-KEV-VXX
+#  name: Transporter
+
+
+- action: ADD
+  parentCode: RYF-IXA-AOE
+  parentName: Privatekonomi
+  name: Bostadspriser
+  level: 3
+  
+- action: ADD
+  parentCode: RYF-IXA-AOE-XXX # ID för bostadspriser ovan
+  parentName: Bostadspriser
+  name: Bostadsrättspriser
+  level: 4
+  
+- action: ADD
+  parentCode: RYF-IXA-AOE-XXX # ID för bostadspriser ovan
+  parentName: Bostadspriser
+  name: Fritidshuspriser
+  level: 4
+  
+- action: ADD
+  parentCode: RYF-IXA-AOE-XXX # ID för bostadspriser ovan
+  parentName: Bostadspriser
+  name: Villapriser
+  level: 4
+
+
+
+
+- action: ADD
+  parentCode: RYF-IXA-QED
+  parentName: Samhällsekonomi
+  name: Konjunktur
+  level: 3
+
+- action: INACTIVATE
+  code: RYF-IXA-QED-MVF
+  name: Högkonjunktur
+  
+- action: INACTIVATE
+  code: RYF-IXA-QED-YXM
+  name: Lågkonjunktur
+
+
+
+
+- action: UPDATE
+  code: RYF-IXA-QED-CQI
+  name: Pengar & penningpolitik
+  newName: Penningpolitik
+
+- action: ADD
+  parentCode: RYF-IXA-QED-CQI
+  parentName: Penningpolitik # Från ovanstående UPDATE
+  name: Räntebesked
+  level: 4
+
+
+
+
+- action: UPDATE
+  code: RYF-TKT-KBC
+  name: Hus- & boendetyper
+  newName: Bostad
+
+- action: INACTIVATE
+  code: RYF-TKT-KBC-AKD
+  name: Sommarstugor
+
+- action: UPDATE
+  code: RYF-TKT-KBC-JDH
+  name: Rad- och parhus
+  newName: Radhus & parhus
+
+- action: INACTIVATE
+  code: RYF-TKT-KBC-BTK-DJI
+  name: Trähus
+  
+- action: INACTIVATE
+  code: RYF-TKT-KBC-BTK-WFO
+  name: Stenhus
+
+
+
+- action: ADD
+  parentCode: RYF-HPT-YGE
+  parentName: Infrastruktur
+  name: Digitalisering
+  level: 3
+
+- action: ADD
+  parentCode: RYF-HPT-YGE
+  parentName: Infrastruktur
+  name: Infrastrukturbyggnad
+  level: 3
+
+
+
+
+
+
+- action: ADD
+  parentCode: RYF-HPT-ZSS-LAJ
+  parentName: Byggnader
+  name: Arkitektur
+  level: 4
+
+- action: MOVE
+  code: RYF-HPT-ZSS-LAJ-RQP
+  name: Köpcentrum & gallerior
+  newParentCode: RYF-HPT-ZSS-HAB
+  newParentName: Stadsmiljö
+  
+- action: ADD
+  parentCode: RYF-HPT-ZSS-HAB
+  parentName: Stadsmiljö
+  name: Parker
+  level: 4
+  
+- action: ADD
+  parentCode: RYF-HPT-ZSS-HAB-XXX # ID för parker oavn
+  parentName: Parker
+  name: Lekparker
+  level: 5
+  
+  
+
+- action: ADD
+  parentCode: RYF-HPT-ZSS
+  parentName: Samhällen
+  name: Bostadsmarknad
+  level: 3
+ 
+- action: ADD
+  parentCode: RYF-HPT-ZSS-WTL
+  parentName: Samhällsplanering
+  name: Stadsbyggnad
+  level: 4
+
+
+
+
