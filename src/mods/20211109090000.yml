@@ -8,7 +8,7 @@ modifications:
 - action: ADD
   parentCode: RYF-IXA-KEV-MCZ-LRX
   parentName: Reklam & PR
-  name: PR
+  name: Pr
   level: 5
 
 - action: ADD
@@ -29,6 +29,16 @@ modifications:
   name: Innehållsreklam
   level: 5
 
+- action: UPDATE
+  code: RYF-IXA-KEV-MCZ-LRX
+  name: Reklam & PR
+  newName: Reklam & Pr
+
+
+
+
+
+
 - action: ADD
   parentCode: RYF-IXA-KEV-MCZ-HLJ
   parentName: Dagstidningar & magasin
@@ -40,11 +50,18 @@ modifications:
   parentName: Dagstidningar & magasin
   name: Tidskrifter
   level: 5
+  
+  
+  
+  
+  
+  
+  
 
 - action: ADD
   parentCode: RYF-IXA-KEV
   parentName: Näringsliv
-  name: Innovationer
+  name: Innovation
   level: 3
 
 - action: ADD
@@ -60,18 +77,25 @@ modifications:
   level: 3
 
 
-# 2022-01-26
+
+
+
+
 - action: ADD
   parentCode: RYF-ZEI
   parentName: Arbetsmarknad
-  name: Nyanställningar
+  name: Nyanställning
   level: 2
  
 - action: ADD
-  parentCode: RYF-ZEI-XXXX # Kod för nyanställningar?
-  parentName: Nyanställningar
+  parentCode: RYF-ZEI-XXXX # Kod för Nyanställning ovan
+  parentName: Nyanställning
   name: Rekrytering
   level: 3
+ 
+ 
+ 
+ 
  
  
 - action: ADD
@@ -81,22 +105,25 @@ modifications:
   level: 3
   
 - action: ADD
-  parentCode: RYF-IXA-KEV-XXXX # Kod för Fastighetsbranschen?
+  parentCode: RYF-IXA-KEV-XXXX # Kod för Fastighetsbranschen ovan
   parentName: Fastighetsbranschen
   name: Fastighetsförvaltning
   level: 4
   
 - action: ADD
-  parentCode: RYF-IXA-KEV-XXXX # Kod för Fastighetsbranschen?
+  parentCode: RYF-IXA-KEV-XXXX # Kod för Fastighetsbranschen ovan
   parentName: Fastighetsbranschen
   name: Fastighetsuthyrning
   level: 4
   
 - action: ADD
-  parentCode: RYF-IXA-KEV-XXXX # Kod för Fastighetsbranschen?
+  parentCode: RYF-IXA-KEV-XXXX # Kod för Fastighetsbranschen ovan
   parentName: Fastighetsbranschen
   name: Kontorsförvaltning
   level: 4
+  
+  
+  
   
 - action: ADD
   parentCode: RYF-IXA-KEV
@@ -105,10 +132,19 @@ modifications:
   level: 3
 
 - action: ADD
-  parentCode: RYF-IXA-KEV-XXXX # Kod för Byggnadsbranschen?
+  parentCode: RYF-IXA-KEV-XXXX # Kod för Byggnadsbranschen ovan
   parentName: Byggnadsbranschen
   name: Nyproduktion
   level: 4
+  
+- action: MOVE
+  code: RYF-IXA-KEV-OTN-RBK
+  name: Renovering & restaurering
+  newParentCode: RYF-IXA-KEV-XXXX # Kod för Byggnadsbranschen ovan
+  newParentName: Byggnadsbranschen
+  
+  
+  
   
 - action: MOVE
   code: RYF-IXA-KEV-OTN-ZWU
@@ -116,22 +152,18 @@ modifications:
   newParentCode: RYF-HPT-YGE
   newParentName: Infrastruktur
 
-- action: MOVE
-  code: RYF-IXA-KEV-OTN-RBK
-  name: Renovering & restaurering
-  newParentCode: RYF-IXA-KEV-XXXX # Kod för Byggnadsbranschen?
-  newParentName: Byggnadsbranschen
+
+
   
 - action: MOVE
   code: RYF-IXA-KEV-OTN-WNQ
   name: Stadsbyggnad
   newParentCode: RYF-HPT-ZSS-WTL
   newParentName: Samhällsplanering
+  
+  
+  
  
-- action: INACTIVATE
-  code: RYF-IXA-KEV-OTN-KAZ
-  name: Jordbruksfastigheter
-    
 - action: INACTIVATE
   code: RYF-IXA-KEV-OTN-KAZ
   name: Jordbruksfastigheter
@@ -149,11 +181,10 @@ modifications:
   name: Fastighets- & byggnadsindustri
 
 
-- action: ADD
-  parentCode: RYF-IXA-KEV
-  parentName: Näringsliv
-  name: Innovation
-  level: 3
+
+
+
+
 
 - action: UPDATE
   code: RYF-IXA-KEV-RQL
@@ -165,18 +196,11 @@ modifications:
   name: Grossister
   newName: Partihandel
 
-- action: ADD
-  parentCode: RYF-IXA-KEV
-  parentName: Näringsliv
-  name: Ledarskap
-  level: 3
 
-- action: UPDATE
-  code: RYF-IXA-KEV-RQL-FAF
-  name: Grossister
-  newName: Partihandel
-  
-  
+
+
+
+
   
   
  # Update först, sedan MOVE nedan
@@ -226,10 +250,14 @@ modifications:
   newParentCode: RYF-IXA-KEV-CYO
   newParentName: Logistikbranschen
   
-
+# Hold på grund av att vi ska flytta pendling senare
 #- action: INACTIVATE
 #  code: RYF-IXA-KEV-VXX
 #  name: Transporter
+
+
+
+
 
 
 - action: ADD
@@ -259,6 +287,8 @@ modifications:
 
 
 
+
+
 - action: ADD
   parentCode: RYF-IXA-QED
   parentName: Samhällsekonomi
@@ -283,7 +313,7 @@ modifications:
 
 - action: ADD
   parentCode: RYF-IXA-QED-CQI
-  parentName: Penningpolitik # Från ovanstående UPDATE
+  parentName: Penningpolitik # Från ovanstående UPDATE av Pengar & penningpolitik
   name: Räntebesked
   level: 4
 
@@ -314,16 +344,13 @@ modifications:
 
 
 
-- action: ADD
-  parentCode: RYF-HPT-YGE
-  parentName: Infrastruktur
-  name: Digitalisering
-  level: 3
+
+
 
 - action: ADD
   parentCode: RYF-HPT-YGE
   parentName: Infrastruktur
-  name: Infrastrukturbyggnad
+  name: Digitalisering
   level: 3
 
 
@@ -363,11 +390,6 @@ modifications:
   name: Bostadsmarknad
   level: 3
  
-- action: ADD
-  parentCode: RYF-HPT-ZSS-WTL
-  parentName: Samhällsplanering
-  name: Stadsbyggnad
-  level: 4
 
 
 
