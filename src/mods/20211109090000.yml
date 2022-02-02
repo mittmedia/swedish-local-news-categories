@@ -389,7 +389,119 @@ modifications:
   parentName: Samhällen
   name: Bostadsmarknad
   level: 3
+
+
+
+# Flytta allt under företagsekonomi till Näringsliv och bokslut under finansiella resultat
+- action: MOVE
+  code: RYF-IXA-ECZ-FAO
+  name: Bokslut
+  newParentCode: RYF-IXA-ECZ-UBS
+  newParentName: Finansiella resultat
+  
+- action: MOVE
+  code: RYF-IXA-ECZ-CBI
+  name: Årsredovisning
+  newParentCode: RYF-IXA-ECZ-UBS
+  newParentName: Finansiella resultat
  
+- action: MOVE
+  code: RYF-IXA-ECZ-SDB-IEO
+  name: Kvartalsrapporter
+  newParentCode: RYF-IXA-ECZ-UBS
+  newParentName: Finansiella resultat
+
+- action: MOVE
+  code: RYF-IXA-ECZ-SDB-QAJ
+  name: Resultatprognoser
+  newParentCode: RYF-IXA-ECZ-UBS
+  newParentName: Finansiella resultat
+  
+- action: MOVE
+  code: RYF-IXA-ECZ-BJN
+  name: Börsnotering
+  newParentCode: RYF-IXA-KEV
+  newParentName: Näringsliv
+
+- action: MOVE
+  code: RYF-IXA-ECZ-DXR
+  name: Årsmöten & stämmor
+  newParentCode: RYF-IXA-KEV
+  newParentName: Näringsliv
+  
+- action: MOVE
+  code: RYF-IXA-ECZ-FMD
+  name: Aktieutdelning
+  newParentCode: RYF-IXA-KEV
+  newParentName: Näringsliv
+  
+- action: INACTIVATE
+  code: RYF-IXA-ECZ-KCI
+  name: Aktiehändelser
+
+- action: UPDATE
+  code: RYF-IXA-ECZ-KOK
+  name: Nyemmissioner
+  newName: Nyemmission
+  
+- action: MOVE
+  code: RYF-IXA-ECZ-KOK
+  name: Nyemmission # Nytt namn från UPDATE ovan
+  newParentCode: RYF-IXA-KEV
+  newParentName: Näringsliv
+  
+- action: INACTIVATE
+  code: RYF-IXA-ECZ-LBG
+  name: Finansiella svårigheter
+
+- action: INACTIVATE
+  code: RYF-IXA-ECZ-LWV
+  name: Aktieägare
+
+- action: MOVE
+  code: RYF-IXA-ECZ-NBA
+  name: Redovisning & revision
+  newParentCode: RYF-IXA-KEV
+  newParentName: Näringsliv
+  
+# Inkl allting under Företagande, RYF-IXA-ECZ-NVH
+- action: INACTIVATE
+  code: RYF-IXA-ECZ-NVH
+  name: Företagande
+  
+- action: INACTIVATE
+  code: RYF-IXA-ECZ-RJL
+  name: Kommentarer & ekonomisk analys
+  
+- action: MOVE
+  code: RYF-IXA-ECZ-SDB
+  name: Företagsförvärv
+  newParentCode: RYF-IXA-KEV
+  newParentName: Näringsliv
+  
+- action: MOVE
+  code: RYF-IXA-ECZ-TDN
+  name: Konkurser
+  newParentCode: RYF-IXA-KEV
+  newParentName: Näringsliv
+  
+
+- action: MOVE
+  code: RYF-IXA-ECZ-UBS
+  name: Finansiella resultat
+  newParentCode: RYF-IXA-KEV
+  newParentName: Näringsliv
+  
+
+- action: MOVE
+  code: RYF-IXA-ECZ-WQY
+  name: Kreditvärdering
+  newParentCode: RYF-IXA-KEV
+  newParentName: Näringsliv
+
+- action: INACTIVATE
+  code: RYF-IXA-ECZ-ZML
+  name: Omstrukturering & rekapitalisering
 
 
 
