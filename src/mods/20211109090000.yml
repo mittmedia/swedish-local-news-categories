@@ -503,6 +503,47 @@ modifications:
   code: RYF-IXA-ECZ-ZML
   name: Omstrukturering & rekapitalisering
 
+- action: ADD
+  parentCode: RYF-IXA-KEV
+  parentName: Näringsliv
+  name: Aktiebolag
+  level: 3
+
+- action: ADD
+  parentCode: RYF-IXA-KEV
+  parentName: Näringsliv
+  name: Enskild firma
+  level: 3
+
+- action: ADD
+  parentCode: RYF-IXA-KEV
+  parentName: Näringsliv
+  name: Handelsbolag
+  level: 3
+
+- action: ADD
+  parentCode: RYF-IXA-KEV
+  parentName: Näringsliv
+  name: Nyetableringar
+  level: 3
+
+- action: ADD
+  parentCode: RYF-IXA-KEV
+  parentName: Näringsliv
+  name: Egenföretagande
+  level: 3
+
+- action: MOVE
+  code: RYF-IXA-QED-BIC-GJJ
+  name: Småföretagande
+  newParentCode: RYF-IXA-KEV
+  newParentName: Näringsliv
+
+- action: MOVE
+  code: RYF-IXA-QED-BIC-NTG
+  name: Entreprenörskap
+  newParentCode: RYF-IXA-KEV
+  newParentName: Näringsliv
 
 
 
