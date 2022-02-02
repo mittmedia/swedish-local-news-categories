@@ -1,0 +1,164 @@
+modifications:
+- action: ADD
+  parentCode: RYF-IXA-CVI-MAB
+  parentName: Aktier
+  name: Aktiekurs
+  level: 4
+  
+- action: ADD
+  parentCode: RYF-IXA-CVI-MAB
+  parentName: Aktier
+  name: Börsbolag
+  level: 4
+  
+- action: UPDATE
+  code: RYF-IXA-CVI-MAB-NXZ
+  name: Aktieråd
+  newName: Aktietips
+  
+- action: INACTIVATE
+  code: RYF-IXA-CVI-MAB-NXZ-CYZ
+  name: Köpråd
+  
+- action: INACTIVATE
+  code: RYF-IXA-CVI-MAB-NXZ-RIM
+  name: Säljråd
+  
+- action: INACTIVATE
+  code: RYF-IXA-CVI-MAB-NXZ-WWQ
+  name: Råd att behålla
+  
+- action: UPDATE
+  code: RYF-IXA-CVI-MAB-TUU
+  name: Börsrusning
+  newName: Börsrörelse
+  
+- action: INACTIVATE
+  code: RYF-IXA-CVI-MAB-UCN
+  name: Börsras
+  
+- action: INACTIVATE
+  code: RYF-IXA-CVI-TXG
+  name: Investeringar
+  
+- action: INACTIVATE
+  code: RYF-IXA-CVI-TSU
+  name: Lånemarknad
+ 
+- action: ADD
+  parentCode: RYF-IXA-CVI-VCE
+  parentName: Obligationer
+  name: Företagsobligationer
+  level: 4
+  
+- action: ADD
+  parentCode: RYF-IXA-CVI-VCE
+  parentName: Obligationer
+  name: Statspapper
+  level: 4
+  
+- action: UPDATE
+  code: RYF-IXA-CVI-FUJ-HZE
+  name: Energimarknad
+  newName: Oljepris
+  
+- action: UPDATE
+  code: RYF-IXA-CVI-FUJ-TPK
+  name: Metallmarknad
+  newName: Råvarupris
+  
+- action: UPDATE
+  code: RYF-IXA-CVI-OHN
+  name: Valutamarknad
+  newName: Valutor
+  
+- action: INACTIVATE
+  code: RYF-IXA-CVI-ODE
+  name: Värdepapper
+  
+- action: ADD
+  parentCode: RYF-IXA-KEV
+  parentName: Näringsliv
+  name: Företagsrekonstruktion
+  level: 3
+  
+- action: ADD
+  parentCode: RYF-IXA
+  parentName: Ekonomi, näringsliv & finans
+  name: Lobbyverksamhet
+  level: 2
+  
+- action: UPDATE
+  code: RYF-IXA-KEV-DOS
+  name: Avfallshantering & bekämpning av föroreningar
+  newName: Avfallshantering & återvinning
+ 
+- action: UPDATE
+  code: RYF-IXA-KEV-UBU
+  name: Energi, naturtillgångar & elproduktion
+  newName: Energi & elproduktion
+ 
+- action: INACTIVATE
+  code: RYF-IXA-KEV-UBU-AXD
+  name: Fotogen
+ 
+- action: INACTIVATE
+  code: RYF-IXA-KEV-UBU-FVR
+  name: Bensin
+  
+- action: INACTIVATE
+  code: RYF-IXA-KEV-UBU-KHX
+  name: Biobränslen
+  
+- action: INACTIVATE
+  code: RYF-IXA-KEV-UBU-QVE
+  name: Etanolbränsle
+  
+# OBS! Säkerställ att description kommer med.
+- action: UPDATE
+  code: RYF-IXA-KEV-UBU-ZZD
+  name: Dieselbränsle
+  newName: Drivmedelindustri
+  description: Bensin, diesel, etanol, fordonsgas, el, LPG, vätgas
+
+- action: INACTIVATE
+  code: RYF-IXA-KEV-UBU-EUP
+  name: Geotermisk energi
+  
+- action: UPDATE
+  code: RYF-IXA-KEV-UBU-NLX
+  name: Kolkraft
+  newName: Kolkraftindustri
+  
+- action: UPDATE
+  code: RYF-IXA-KEV-UBU-XCR
+  name: Kärnkraft
+  newName: Kärnkraftindustri
+  
+- action: INACTIVATE
+  code: RYF-IXA-KEV-UBU-OAX
+  name: Naturgas
+  
+- action: UPDATE
+  code: RYF-IXA-KEV-UBU-SOG
+  name: Olja & gas
+  newName: Olje- och gasindustri
+  
+- action: UPDATE
+  code: RYF-IXA-KEV-UBU-FLQ
+  name: Solenergi
+  newName: Solenergiindustri
+ 
+- action: UPDATE
+  code: RYF-IXA-KEV-UBU-YEW
+  name: Vattenkraft
+  newName: Vattenkraftindustri
+  
+ 
+- action: UPDATE
+  code: RYF-IXA-KEV-UBU-KPP
+  name: Vindkraft
+  newName: Vindkraftindustri
+  
+  
+  
