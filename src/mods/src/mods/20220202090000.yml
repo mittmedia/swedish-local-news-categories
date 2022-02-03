@@ -425,9 +425,12 @@ modifications:
   name: Uthyrning
 
 
+# TODO: Uppdatera med mer poster från Privat- & företagstjänster
+
+
 - action: ADD
-  parentCode: RYF-IXA-KEV-VKR
-  parentName: Privat- & företagstjänster
+  parentCode: RYF-IXA-KEV
+  parentName: Näringsliv
   name: Telefonförsäljning
   level: 4
  
