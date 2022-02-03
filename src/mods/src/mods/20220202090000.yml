@@ -319,8 +319,185 @@ modifications:
   code: RYF-IXA-KEV-VSA-HIL
   name: Vinodling
   
+- action: UPDATE
+  code: RYF-IXA-KEV-VKR-MVU
+  name: Bemanningsföretag
+  newName: Bemanningsbranschen
+  
+- action: MOVE
+  code: RYF-IXA-KEV-VKR-MVU
+  name: Bemanningsbranschen # nytt namn ovan
+  newParentCode: RYF-IXA-KEV
+  newParentName: Näringsliv
   
   
+- action: ADD
+  parentCode: RYF-IXA-AOE
+  parentName: Privatekonomi
+  name: Privatförsäkring
+  level: 3
+  
+- action: ADD
+  parentCode: RYF-IXA-AOE-XXXX # ID från Privatförsäkringar ovan
+  parentName: Privatförsäkring
+  name: Personförsäkring
+  level: 4
+  
+- action: ADD
+  parentCode: RYF-IXA-AOE-XXXX # ID från Privatförsäkringar ovan
+  parentName: Privatförsäkring
+  name: Sakförsäkring
+  level: 4
+  
+
+- action: MOVE
+  code: RYF-IXA-KEV-VKR-ODH-TMT
+  name: Barnförsäkring
+  newParentCode: RYF-IXA-AOE-XXXX-XXXX # ID från Privatförsäkring och Personförsäkring ovan
+  newParentName: Personförsäkring
+  
+- action: MOVE
+  code: RYF-IXA-KEV-VKR-ODH-BSB
+  name: Gravidförsäkring
+  newParentCode: RYF-IXA-AOE-XXXX-XXXX # ID från Privatförsäkring och Personförsäkring ovan
+  newParentName: Personförsäkring
+  
+- action: MOVE
+  code: RYF-IXA-KEV-VKR-ODH-OOZ
+  name: Livsförsäkring
+  newParentCode: RYF-IXA-AOE-XXXX-XXXX # ID från Privatförsäkring och Personförsäkring ovan
+  newParentName: Personförsäkring
+  
+- action: MOVE
+  code: RYF-IXA-KEV-VKR-ODH-HZI
+  name: Olycksfallsförsäkring
+  newParentCode: RYF-IXA-AOE-XXXX-XXXX # ID från Privatförsäkring och Personförsäkring ovan
+  newParentName: Personförsäkring
   
   
 
+- action: MOVE
+  code: RYF-IXA-KEV-VKR-ODH-OJZ
+  name: Båtförsäkring
+  newParentCode: RYF-IXA-AOE-XXXX-XXXX # ID från Privatförsäkring och sakförsäkring ovan
+  newParentName: Sakförsäkring
+  
+- action: MOVE
+  code: RYF-IXA-KEV-VKR-ODH-WLZ
+  name: Fordonsförsäkring
+  newParentCode: RYF-IXA-AOE-XXXX-XXXX # ID från Privatförsäkring och sakförsäkring ovan
+  newParentName: Sakförsäkring
+
+- action: MOVE
+  code: RYF-IXA-KEV-VKR-ODH-NNK
+  name: Husdjursförsäkring
+  newParentCode: RYF-IXA-AOE-XXXX # ID från Privatförsäkring
+  newParentName: Privatförsäkring
+
+- action: UPDATE
+  code: RYF-IXA-KEV-VKR-ODH
+  name: Försäkringar
+  newName: Försäkringsbranschen
+
+- action: INACTIVATE
+  code: RYF-IXA-KEV-VKR-UDU
+  name: Juridiska tjänster
+
+- action: INACTIVATE
+  code: RYF-IXA-KEV-VKR-APV
+  name: Konsulttjänster
+
+# Inkl undernivåer
+- action: INACTIVATE
+  code: RYF-IXA-KEV-VKR-ROV
+  name: Leasing
+  
+- action: INACTIVATE
+  code: RYF-IXA-KEV-VKR-DTQ
+  name: Marknadsundersökningar
+  
+- action: INACTIVATE
+  code: RYF-IXA-KEV-VKR-QLU
+  name: Tryckerier
+  
+- action: INACTIVATE
+  code: RYF-IXA-KEV-VKR-OHX
+  name: Uthyrning
+
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-VKR
+  parentName: Privat- & företagstjänster
+  name: Telefonförsäljning
+  level: 4
+ 
+- action: MOVE
+  code: RYF-IXA-KEV-VRA-PLF
+  name: Byggnadsmaterial
+  newParentCode: RYF-IXA-KEV
+  newParentName: Näringsliv
+  
+  
+- action: UPDATE
+  code: RYF-IXA-KEV-VRA-JBZ
+  name: Destillering & bryggeriverksamhet för alkoholhaltiga drycker
+  newName: Bryggeri och dryckestillverkning
+  
+- action: MOVE
+  code: RYF-IXA-KEV-VRA-JBZ
+  name: Bryggeri och dryckestillverkning # Nytt namn från ovan.
+  newParentCode: RYF-IXA-KEV
+  newParentName: Näringsliv
+  
+- action: MOVE
+  code: RYF-IXA-KEV-VRA-BLM
+  name: Livsmedelsindustrin
+  newParentCode: RYF-IXA-KEV
+  newParentName: Näringsliv
+  
+- action: MOVE
+  code: RYF-IXA-KEV-VRA-XAL
+  name: Möbel- & hemindredningstillverkning
+  newParentCode: RYF-IXA-KEV
+  newParentName: Näringsliv
+  
+- action: MOVE
+  code: RYF-IXA-KEV-VRA-CXF
+  name: Papper & förpackningsartiklar
+  newParentCode: RYF-IXA-KEV
+  newParentName: Näringsliv
+  
+- action: MOVE
+  code: RYF-IXA-KEV-VRA-HUR
+  name: Textiltillverkning
+  newParentCode: RYF-IXA-KEV
+  newParentName: Näringsliv
+  
+  
+- action: UPDATE
+  code: RYF-IXA-KEV-VRA-BOL
+  name: Tobak
+  newName: Tobaksbranschen
+  
+- action: MOVE
+  code: RYF-IXA-KEV-VRA-BOL
+  name: Tobaksbranschen # Nytt namn ovan
+  newParentCode: RYF-IXA-KEV
+  newParentName: Näringsliv
+  
+ 
+ 
+- action: INACTIVATE
+  code: RYF-IXA-KEV-VRA-YWU
+  name: Gummiprodukter
+  
+- action: INACTIVATE
+  code: RYF-IXA-KEV-VRA-CHD
+  name: Dryckestillverkning utan alkohol
+  
+- action: INACTIVATE
+  code: RYF-IXA-KEV-VRA
+  name: Processade tjänster & produkter
+  
+  
+  
