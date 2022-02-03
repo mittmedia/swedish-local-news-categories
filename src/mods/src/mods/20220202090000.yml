@@ -154,11 +154,173 @@ modifications:
   name: Vattenkraft
   newName: Vattenkraftindustri
   
- 
 - action: UPDATE
   code: RYF-IXA-KEV-UBU-KPP
   name: Vindkraft
   newName: Vindkraftindustri
   
   
+- action: ADD
+  parentCode: RYF-IXA-KEV
+  parentName: Näringsliv
+  name: Bankbranschen
+  level: 3
   
+- action: UPDATE
+  code: RYF-IXA-KEV-ZKK
+  name: Hantverksindustri
+  newName: Hantverksbranschen
+  
+- action: UPDATE
+  code: RYF-IXA-KEV-BEL
+  name: IT & datateknik
+  newName: Techbranschen
+  
+- action: UPDATE
+  code: RYF-IXA-KEV-BEL-LPY
+  name: Datasäkerhet
+  newName: IT-säkerhet
+ 
+- action: INACTIVATE
+  code: RYF-IXA-KEV-BEL-YKX
+  name: Datornätverkstjänster
+  
+- action: INACTIVATE
+  code: RYF-IXA-KEV-BEL-BJH
+  name: Hårdvara
+ 
+- action: INACTIVATE
+  code: RYF-IXA-KEV-BEL-MZV
+  name: Kretskort & datorkomponenter
+  
+- action: INACTIVATE
+  code: RYF-IXA-KEV-BEL-HDC
+  name: Mjukvara & programvara
+  
+- action: INACTIVATE
+  code: RYF-IXA-KEV-BEL-MRI
+  name: Satellitteknik
+  
+- action: INACTIVATE
+  code: RYF-IXA-KEV-BEL-RNR
+  name: Techbranschen
+  
+- action: INACTIVATE
+  code: RYF-IXA-KEV-BEL-OCZ
+  name: Telekommunikationsutrustning
+  
+- action: UPDATE
+  code: RYF-IXA-KEV-BEL-TMN
+  name: Telekommunikationstjänster & trådlös teknik
+  newName: Telekombranschen
+  
+- action: MOVE
+  code: RYF-IXA-KEV-BEL-TMN
+  name: Telekombranschen # Nytt namn ovan
+  newParentCode: RYF-IXA-KEV
+  newParentName: Näringsliv
+
+- action: INACTIVATE
+  code: RYF-IXA-KEV-XZV-GAD
+  name: Bioteknik
+
+- action: MOVE
+  code: RYF-IXA-KEV-XZV-GZB
+  name: Djurförsök
+  newParentCode: RYF-EOI-DOE
+  newParentName: Vetenskaplig forskning
+  
+- action: INACTIVATE
+  code: RYF-IXA-KEV-XZV-JLY
+  name: Gödningsmedel
+  
+- action: INACTIVATE
+  code: RYF-IXA-KEV-XZV-QRS
+  name: Hälsa & skönhetsprodukter
+
+- action: UPDATE
+  code: RYF-IXA-KEV-XZV-PYI
+  name: Läkemedelsproduktion
+  newName: Läkemedelsbranschen
+
+- action: INACTIVATE
+  code: RYF-IXA-KEV-XZV-BUG
+  name: Syntetiska & plastkemikalier
+
+- action: INACTIVATE
+  code: RYF-IXA-KEV-RQL-AOK
+  name: Elektronisk handel
+  
+- action: INACTIVATE
+  code: RYF-IXA-KEV-RQL-QQF
+  name: Förbrukningsvaror
+
+- action: INACTIVATE
+  code: RYF-IXA-KEV-RQL-XNY
+  name: Klädhandel
+
+- action: INACTIVATE
+  code: RYF-IXA-KEV-RQL-WDB
+  name: Leksakshandel
+
+- action: UPDATE
+  code: RYF-IXA-KEV-RQL-MGE
+  name: Livsmedel
+  newName: Livsmedelshandel
+
+- action: INACTIVATE
+  code: RYF-IXA-KEV-RQL-BET
+  name: Lyxvaror
+
+- action: INACTIVATE
+  code: RYF-IXA-KEV-RQL-LYC
+  name: Specialbutiker
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-MCZ
+  parentName: Mediemarknaden
+  name: Alternativmedier
+  level: 4
+
+- action: INACTIVATE
+  code: RYF-IXA-KEV-MCZ-MYU
+  name: Nyhetsbyråer
+
+- action: MOVE
+  code: RYF-IXA-KEV-IFB-RLI
+  name: Gruvnäring
+  newParentCode: RRYF-IXA-KEV
+  newParentName: Näringsliv
+  
+- action: UPDATE
+  code: RYF-IXA-KEV-IFB-WQS
+  name: Järn & stål
+  newName: Järn- & stålindustri
+  
+- action: MOVE
+  code: RYF-IXA-KEV-IFB-WQS
+  name: Järn- & stålindustri # Nytt namn ovan
+  newParentCode: RRYF-IXA-KEV
+  newParentName: Näringsliv
+  
+- action: INACTIVATE
+  code: RYF-IXA-KEV-IFB-QJI
+  name: Byggmaterial
+  
+- action: INACTIVATE
+  code: RYF-IXA-KEV-IFB-KET
+  name: Guld & värdefulla metaller
+  
+- action: INACTIVATE
+  code: RYF-IXA-KEV-IFB-KNE
+  name: Icke-järnmetall
+  
+- action: INACTIVATE
+  code: RYF-IXA-KEV-VSA-HIL
+  name: Vinodling
+  
+  
+  
+  
+  
+
