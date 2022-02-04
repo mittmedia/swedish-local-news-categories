@@ -424,9 +424,45 @@ modifications:
   code: RYF-IXA-KEV-VKR-OHX
   name: Uthyrning
 
+- action: INACTIVATE
+  code: RYF-IXA-KEV-VKR-AOW
+  name: Aktiemäklande
+  
+- action: INACTIVATE
+  code: RYF-IXA-KEV-VKR-KHT
+  name: Auktionstjänster
 
-# TODO: Uppdatera med mer poster från Privat- & företagstjänster
+- action: INACTIVATE
+  code: RYF-IXA-KEV-VKR-LRI
+  name: Banktjänster
+  
+- action: INACTIVATE
+  code: RYF-IXA-KEV-VKR-SQL
+  name: Begravningsbyråer & krematorier
+  
+- action: INACTIVATE
+  code: RYF-IXA-KEV-VKR-MFC
+  name: Bokföring & revision
+  
+- action: INACTIVATE
+  code: RYF-IXA-KEV-VKR-ILG
+  name: Bröllopstjänster
+  
+- action: INACTIVATE
+  code: RYF-IXA-KEV-VKR-KGD
+  name: Bud- & transporttjänster
 
+- action: INACTIVATE
+  code: RYF-IXA-KEV-VKR-SAA
+  name: Ekonomisk rådgivning
+
+- action: INACTIVATE
+  code: RYF-IXA-KEV-VKR-IRK
+  name: Fastighetsskötsel
+  
+- action: INACTIVATE
+  code: RYF-IXA-KEV-VKR
+  name: Privat- & företagstjänster
 
 - action: ADD
   parentCode: RYF-IXA-KEV
@@ -501,6 +537,366 @@ modifications:
 - action: INACTIVATE
   code: RYF-IXA-KEV-VRA
   name: Processade tjänster & produkter
+  
+  
+  
+- action: ADD
+  parentCode: RYF-IXA-KEV
+  parentName: Näringsliv
+  name: Mässa
+  level: 3
+
+  
+  
+
+- action: UPDATE
+  code: RYF-IXA-KEV-WHS-LHJ-KHY
+  name: Hushållsmaskiner
+  newName: Vitvarubranschen
+  
+- action: MOVE
+  code: RYF-IXA-KEV-WHS-LHJ-KHY
+  name: Vitvarubranschen # Nytt namn ovan
+  newParentCode: RYF-IXA-KEV
+  newParentName: Näringsliv
+  
+  
+- action: UPDATE
+  code: RYF-IXA-KEV-WHS-NFQ
+  name: Flygtillverkning
+  newName: Flygplanstillverkning
+  
+- action: MOVE
+  code: RYF-IXA-KEV-WHS-NFQ
+  name: Flygplanstillverkning # Nytt namn ovan
+  newParentCode: RYF-IXA-KEV
+  newParentName: Näringsliv
+  
+  
+- action: MOVE
+  code: RYF-IXA-KEV-WHS-ZIB
+  name: Fordonstillverkning & bilindustri
+  newParentCode: RYF-IXA-KEV
+  newParentName: Näringsliv
+  
+  
+  
+- action: UPDATE
+  code: RYF-IXA-KEV-WHS-NZM
+  name: Försvarsmaterial
+  newName: Försvarsmaterialindustri
+  
+- action: MOVE
+  code: RYF-IXA-KEV-WHS-NZM
+  name: Försvarsmaterialindustri # Nytt namn ovan
+  newParentCode: RYF-IXA-KEV
+  newParentName: Näringsliv
+  
+- action: MOVE
+  code: RYF-IXA-KEV-WHS-WKF
+  name: Varvsindustri
+  newParentCode: RYF-IXA-KEV
+  newParentName: Näringsliv
+  
+- action: INACTIVATE
+  code: RYF-IXA-KEV-WHS-ZIB-UME
+  name: Produktionsstopp
+  
+  
+- action: INACTIVATE
+  code: RYF-IXA-KEV-RFJ-ABR
+  name: Kafé
+  
+- action: INACTIVATE
+  code: RYF-IXA-KEV-RFJ-CQI
+  name: Nattklubb & diskotek
+  
+- action: INACTIVATE
+  code: RYF-IXA-KEV-RFJ-IDT
+  name: Bar
+  
+- action: INACTIVATE
+  code: RYF-IXA-KEV-RFJ-KXI
+  name: Restaurang
+  
+
+
+- action: UPDATE
+  code: RYF-IXA-AOE-OPN
+  name: Spartips
+  newName: Sparande
+  
+- action: ADD
+  parentCode: RYF-IXA-AOE-OPN
+  parentName: Sparande # Namn från ovan
+  name: Investeringssparkonto
+  level: 4
+  
+- action: ADD
+  parentCode: RYF-IXA-AOE
+  parentName: Privatekonomi
+  name: Konsumentrådgivning
+  level: 3
+  
+- action: INACTIVATE
+  code: RYF-IXA-AOE-OLB
+  name: Hushållskassa
+  
+  
+- action: UPDATE
+  code: RYF-IXA-AOE-CYP
+  name: Låntyper
+  newName: Privatlån
+  
+- action: ADD
+  parentCode: RYF-IXA-AOE-CYP-TSE
+  parentName: Bolån
+  name: Bolåneräntor
+  level: 5
+  
+  
+- action: INACTIVATE
+  code: RYF-IXA-AOE-CYP-TSE-XQB
+  name: Pantbrev & lagfart
+  
+  
+- action: UPDATE
+  code: RYF-IXA-AOE-CYP-SBF-IRO
+  name: Övriga lån utan säkerhet
+  newName: Blankolån
+  
+  
+- action: INACTIVATE
+  code: RYF-IXA-AOE-YFQ-HND
+  name: Flexpension
+  
+- action: INACTIVATE
+  code: RYF-IXA-AOE-YFQ-SBM
+  name: Förtidspension & sjukpension
+  
+- action: ADD
+  parentCode: RYF-IXA-AOE-YFQ
+  parentName: Pension
+  name: Premiepension
+  level: 4
+  
+- action: ADD
+  parentCode: RYF-IXA-AOE
+  parentName: Privatekonomi
+  name: Skuldsättning
+  level: 3
+  
+- action: ADD
+  parentCode: RYF-IXA-AOE-XXXX # ID från ovan Skuldsättning
+  parentName: Skuldsättning
+  name: Skuldsanering
+  level: 4
+  
+  
+  
+  
+  
+  
+- action: INACTIVATE
+  code: RYF-IXA-QED-LTK
+  name: Arbetsmarknadsstatistik
+  
+- action: INACTIVATE
+  code: RYF-IXA-QED-VPQ
+  name: Bensinpriser
+  
+- action: INACTIVATE
+  code: RYF-IXA-QED-WGO
+  name: Bistånd
+  
+- action: INACTIVATE
+  code: RYF-IXA-QED-KRU
+  name: Bostadspriser
+ 
+- action: MOVE
+  code: RYF-IXA-QED-LIJ
+  name: Budgetar & budgetering
+  newParentCode: RYF-KNI
+  newParentName: Politik
+
+- action: INACTIVATE
+  code: RYF-IXA-QED-LBV
+  name: Centralbanker
+  
+- action: UPDATE
+  code: RYF-IXA-QED-URW
+  name: Dieselpriser
+  newName: Drivmedelspriser
+  
+- action: INACTIVATE
+  code: RYF-IXA-QED-VZV
+  name: Ekonomisk tillväxt
+ 
+- action: ADD
+  parentCode: RYF-IXA-QED
+  parentName: Samhällsekonomi
+  name: Elpriser
+  level: 3
+  
+- action: INACTIVATE
+  code: RYF-IXA-QED-QAS
+  name: Fastighetsaffärer
+  
+- action: INACTIVATE
+  code: RYF-IXA-QED-BIC
+  name: Företag
+  
+- action: INACTIVATE
+  code: RYF-IXA-QED-CZR
+  name: Import
+  
+- action: INACTIVATE
+  code: RYF-IXA-QED-RHY
+  name: Export
+   
+- action: ADD
+  parentCode: RYF-IXA-QED
+  parentName: Samhällsekonomi
+  name: Frihandel
+  level: 3
+  
+- action: MOVE
+  code: RYF-IXA-QED-TPZ-PEX
+  name: Handelsavtal
+  newParentCode: RYF-IXA-QED
+  newParentName: Samhällsekonomi
+  
+- action: MOVE
+  code: RYF-IXA-QED-TPZ-SBV
+  name: Handelsbalans
+  newParentCode: RYF-IXA-QED
+  newParentName: Samhällsekonomi
+  
+- action: INACTIVATE
+  code: RYF-IXA-QED-TPZ-FWN
+  name: Handelstvist
+  
+- action: MOVE
+  code: RYF-IXA-QED-TPZ-JBV
+  name: Handelspolitik
+  newParentCode: RYF-KNI
+  newParentName: Politik
+  
+- action: INACTIVATE
+  code: RYF-IXA-QED-TPZ
+  name: Internationell handel
+  
+- action: INACTIVATE
+  code: RYF-IXA-QED-IIQ
+  name: Internationella ekonomiska organisationer
+  
+- action: ADD
+  parentCode: RYF-IXA-QED
+  parentName: Samhällsekonomi
+  name: Konjunktur
+  level: 3
+  
+  
+- action: INACTIVATE
+  code: RYF-IXA-QED-KZN
+  name: Krediter & skulder
+  
+- action: INACTIVATE
+  code: RYF-IXA-QED-PEG
+  name: Marknadspriser
+  
+- action: ADD
+  parentCode: RYF-IXA-QED
+  parentName: Samhällsekonomi
+  name: Skatter
+  level: 3
+  
+  
+- action: ADD
+  parentCode: RYF-IXA-QED-XXXX # ID för Skatter ovan
+  parentName: Skatter
+  name: Arbetsgivaravgift
+  level: 4
+  
+- action: ADD
+  parentCode: RYF-IXA-QED-XXXX # ID för Skatter ovan
+  parentName: Skatter
+  name: Begravningsavgift
+  level: 4
+  
+- action: ADD
+  parentCode: RYF-IXA-QED-XXXX # ID för Skatter ovan
+  parentName: Skatter
+  name: Bolagsskatt
+  level: 4
+  
+- action: ADD
+  parentCode: RYF-IXA-QED-XXXX # ID för Skatter ovan
+  parentName: Skatter
+  name: Drivmedelsskatt
+  level: 4
+  
+- action: ADD
+  parentCode: RYF-IXA-QED-XXXX # ID för Skatter ovan
+  parentName: Skatter
+  name: Inkomstskatt
+  level: 4
+  
+- action: ADD
+  parentCode: RYF-IXA-QED-XXXX # ID för Skatter ovan
+  parentName: Skatter
+  name: Kommunalskatt
+  level: 4
+  
+- action: MOVE
+  code: RYF-IXA-QED-IJC
+  name: Moms
+  newParentCode: RYF-IXA-QED-XXXX # ID för Skatter ovan
+  newParentName: Skatter
+  
+- action: ADD
+  parentCode: RYF-IXA-QED-XXXX # ID för Skatter ovan
+  parentName: Skatter
+  name: Skatteavdrag
+  level: 4
+  
+- action: ADD
+  parentCode: RYF-IXA-QED-XXXX-XXX # ID för Skatter ovan och Skatteavdrag ovan
+  parentName: Skatteavdrag
+  name: Rot- & rutavdrag
+  level: 5
+  
+- action: ADD
+  parentCode: RYF-IXA-QED-XXXX-XXX # ID för Skatter ovan och Skatteavdrag ovan
+  parentName: Skatteavdrag
+  name: Ränteavdrag
+  level: 5
+  
+ 
+- action: ADD
+  parentCode: RYF-IXA-QED-XXXX # ID för Skatter ovan
+  parentName: Skatter
+  name: Statlig inkomstskatt
+  level: 4
+  
+- action: ADD
+  parentCode: RYF-IXA-QED-XXXX # ID för Skatter ovan
+  parentName: Skatter
+  name: Tobaksskatt
+  level: 4
+  
+- action: UPDATE
+  code: RYF-IXA-QED-CQI
+  name: Pengar & penningpolitik
+  newName: Penningpolitik
+  
+- action: INACTIVATE
+  code: RYF-IXA-QED-UOI
+  name: Recession
+  
+- action: INACTIVATE
+  code: RYF-IXA-QED-SLZ
+  name: Tillväxtmarknad
   
   
   
