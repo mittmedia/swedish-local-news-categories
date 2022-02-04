@@ -885,6 +885,13 @@ modifications:
   name: Tobaksskatt
   level: 4
   
+- action: ADD
+  parentCode: RYF-IXA-QED-XXXX # ID för Skatter ovan
+  parentName: Skatter
+  name: 3:12-reglerna
+  description: 3:12-reglerna kallas det regelverk för ägarbeskattning som gör att utdelning från småföretag i vanliga fall beskattas betydligt högre än utdelning från storföretag i Sverige
+  level: 4
+  
 - action: UPDATE
   code: RYF-IXA-QED-CQI
   name: Pengar & penningpolitik
