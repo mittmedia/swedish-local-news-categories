@@ -250,6 +250,13 @@ modifications:
   newParentCode: RYF-IXA-KEV-CYO
   newParentName: Logistikbranschen
   
+- action: UPDATE
+  code: RYF-IXA-KEV-CYO
+  name: Logistikbranschen
+  newName: Logistik
+  
+  
+  
 # Hold på grund av att vi ska flytta pendling senare
 #- action: INACTIVATE
 #  code: RYF-IXA-KEV-VXX
@@ -283,6 +290,16 @@ modifications:
   parentName: Bostadspriser
   name: Villapriser
   level: 4
+
+
+- action: ADD
+  parentCode: RYF-KNI
+  parentName: Politik
+  name: Bostadspolitik
+  level: 2
+
+
+
 
 
 
@@ -389,6 +406,21 @@ modifications:
   parentName: Samhällen
   name: Bostadsmarknad
   level: 3
+  
+- action: UPDATE
+  code: RYF-IXA-AOE-CYP-TSE-XQB
+  name: Pantbrev & lagfart
+  newName: Lagfart
+  
+- action: MOVE
+  code: RYF-IXA-AOE-CYP-TSE-XQB
+  name: Lagfart
+  newParentCode: RYF-HPT-ZSS-XXXX # Ny post ovan
+  newParentName: Bostadsmarknad # Ny post ovan
+  
+  
+  
+  
 
 
 
@@ -464,7 +496,13 @@ modifications:
   newParentCode: RYF-IXA-KEV
   newParentName: Näringsliv
   
-# Inkl allting under Företagande, RYF-IXA-ECZ-NVH
+- action: MOVE
+  code: RYF-IXA-ECZ-NVH-GNH-UUS
+  name: Patent, upphovsrätt & varumärke
+  newParentCode: RYF-IXA-KEV
+  newParentName: Näringsliv
+  
+# Inkl allting under Företagande, RYF-IXA-ECZ-NVH förutom ovanstående move
 - action: INACTIVATE
   code: RYF-IXA-ECZ-NVH
   name: Företagande
@@ -544,6 +582,16 @@ modifications:
   name: Entreprenörskap
   newParentCode: RYF-IXA-KEV
   newParentName: Näringsliv
+
+
+
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-MCZ
+  parentName: Mediemarknaden
+  name: Public service
+  level: 4
+
 
 
 
