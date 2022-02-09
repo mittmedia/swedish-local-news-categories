@@ -37,10 +37,17 @@ modifications:
   code: RYF-IXA-CVI-MAB-UCN
   name: Börsras
   
-- action: INACTIVATE
+- action: UPDATE
   code: RYF-IXA-CVI-TXG
   name: Investeringar
+  newName: Investering
   
+- action: ADD
+  parentCode: RYF-IXA-CVI-TXG
+  parentName: Investering # Nytt namn ovan
+  name: Riskkapital
+  level: 4
+ 
 - action: INACTIVATE
   code: RYF-IXA-CVI-TSU
   name: Lånemarknad
@@ -251,9 +258,10 @@ modifications:
   code: RYF-IXA-KEV-RQL-AOK
   name: Elektronisk handel
   
-- action: INACTIVATE
+- action: UPDATE
   code: RYF-IXA-KEV-RQL-QQF
   name: Förbrukningsvaror
+  newName: Dagligvaror
 
 - action: INACTIVATE
   code: RYF-IXA-KEV-RQL-XNY
@@ -268,9 +276,10 @@ modifications:
   name: Livsmedel
   newName: Livsmedelshandel
 
-- action: INACTIVATE
+- action: UPDATE
   code: RYF-IXA-KEV-RQL-BET
   name: Lyxvaror
+  newName: Sällanköpshandel
 
 - action: INACTIVATE
   code: RYF-IXA-KEV-RQL-LYC
@@ -651,13 +660,13 @@ modifications:
 - action: ADD
   parentCode: RYF-IXA-AOE-CYP-TSE
   parentName: Bolån
-  name: Bolåneränta
   level: 5
   
   
-- action: INACTIVATE
-  code: RYF-IXA-AOE-CYP-TSE-XQB
-  name: Pantbrev & lagfart
+  
+  
+  
+  
   
   
 - action: UPDATE
