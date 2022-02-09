@@ -69,11 +69,9 @@ modifications:
   newParentCode: RYF-XXXX # ID för Trafik, kommunikation & fordon ovan
   newParentName: Trafik, kommunikation & fordon
   
-- action: MOVE
+- action: INACTIVATE
   code: RYF-TKT-MRA-XVK
   name: Bilreklam
-  newParentCode: RYF-XXXX # ID för Trafik, kommunikation & fordon ovan
-  newParentName: Trafik, kommunikation & fordon
   
 - action: MOVE
   code: RYF-TKT-MRA-JOQ
