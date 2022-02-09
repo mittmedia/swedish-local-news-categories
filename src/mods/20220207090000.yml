@@ -550,6 +550,43 @@ modifications:
   name: Halvkombibil
   level: 4
   
+- action: ADD
+  parentCode: RYF-TKT-MRA-JUA
+  parentName: Personbil # Nytt namn ovan
+  name: Miljöbil
+  level: 4
+  
+- action: ADD
+  parentCode: RYF-TKT-MRA-JUA
+  parentName: Personbil # Nytt namn ovan
+  name: Sedanbil
+  level: 4
+  
+- action: UPDATE
+  code: RYF-TKT-MRA-JUA-SIT
+  name: Stadsbilar
+  newName: Småbil
+  
+- action: UPDATE
+  code: RYF-TKT-MRA-JUA-YPW
+  name: Suvar & minisuvar
+  newName: Suv
+  description: Stadsjeep (även kallat SUV efter engelska sport utility vehicle) är en större personbil som kombinerar framkomligheten hos ett terrängfordon med komforten i en personbil
+  
+- action: UPDATE
+  code: RYF-TKT-MRA-JUA-EHD
+  name: Tjänstebil
+  newName: Tjänstebil & förmånsbil
+  
+- action: INACTIVATE
+  code: RYF-TKT-MRA-JUA-IGV
+  name: Trecylindriga bilar
+  
+- action: MOVE
+  code: RYF-TKT-MRA-JUA
+  name: Personbil # Nytt namn ovan
+  newParentCode: RYF-XXXX # ID för Trafik, kommunikation & fordon ovan
+  newParentName: Trafik, kommunikation & fordon
   
   
   
@@ -557,4 +594,117 @@ modifications:
   
   
   
+- action: MOVE
+  code: RYF-TKT-MRA-MJL
+  name: Registreringsnummer
+  newParentCode: RYF-XXXX # ID för Trafik, kommunikation & fordon ovan
+  newParentName: Trafik, kommunikation & fordon
+  
+- action: MOVE
+  code: RYF-HPT-YGE-GUI-YMN
+  name: Sjöfart
+  newParentCode: RYF-XXXX # ID för Trafik, kommunikation & fordon ovan
+  newParentName: Trafik, kommunikation & fordon
+  
+- action: ADD
+  parentCode: RYF-HPT-YGE-GUI-YMN # Kan ha uppdaterats med ovanstående MOVE.
+  parentName: Sjöfart
+  name: Fraktfartyg
+  level: 3
+  
+- action: ADD
+  parentCode: RYF-HPT-YGE-GUI-YMN # Kan ha uppdaterats med ovanstående MOVE.
+  parentName: Sjöfart
+  name: Passagerarfartyg
+  level: 3
+  
+- action: ADD
+  parentCode: RYF-HPT-YGE-GUI-YMN # Kan ha uppdaterats med ovanstående MOVE.
+  parentName: Sjöfart
+  name: Färja
+  level: 3
+  
+  
+  
+  
+  
+  
+- action: MOVE
+  code: RYF-TKT-MRA-CMW
+  name: Snöskoter
+  newParentCode: RYF-XXXX # ID för Trafik, kommunikation & fordon ovan
+  newParentName: Trafik, kommunikation & fordon
+  
+- action: INACTIVATE
+  code: RYF-HPT-YGE-YSF
+  name: Spårvagnsnät
+  
+- action: ADD
+  newParentCode: RYF-XXXX # ID för Trafik, kommunikation & fordon ovan
+  newParentName: Trafik, kommunikation & fordon
+  name: Taxi
+  level: 2
+  
+- action: INACTIVATE
+  code: RYF-HPT-YGE-GUI-EHJ
+  name: Väg
+  
+- action: MOVE
+  code: RYF-HPT-YGE-GUI
+  name: Trafikpåverkan
+  newParentCode: RYF-XXXX # ID för Trafik, kommunikation & fordon ovan
+  newParentName: Trafik, kommunikation & fordon
+  
+  
+  
+  
+  
+  
+  
+- action: UPDATE
+  code: RYF-TKT-MRA-YUY
+  name: Traktorer & a-traktorer
+  newName: Traktor & arbetsmaskiner
+  
+- action: ADD
+  newParentCode: RYF-TKT-MRA-YUY
+  newParentName: Traktor & arbetsmaskiner # nytt namn ovan
+  name: Entreprenadmaskin
+  level: 4
+  
+- action: ADD
+  newParentCode: RYF-TKT-MRA-YUY
+  newParentName: Traktor & arbetsmaskiner # nytt namn ovan
+  name: Jordbruksmaskin
+  level: 4
+  
+- action: ADD
+  newParentCode: RYF-TKT-MRA-YUY
+  newParentName: Traktor & arbetsmaskiner # nytt namn ovan
+  name: A-traktor & Epa-traktor
+  level: 4
+  
+- action: MOVE
+  code: RYF-TKT-MRA-YUY
+  name: Traktor & arbetsmaskiner # Nytt namn ovan
+  newParentCode: RYF-XXXX # ID för Trafik, kommunikation & fordon ovan
+  newParentName: Trafik, kommunikation & fordon
+  
+  
+  
+  
+  
+  
+  
+- action: MOVE
+  code: RYF-HPT-YGE-USH
+  name: Vägnät
+  newParentCode: RYF-XXXX # ID för Trafik, kommunikation & fordon ovan
+  newParentName: Trafik, kommunikation & fordon
+
+
+
+
+
+
 
