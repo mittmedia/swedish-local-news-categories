@@ -83,7 +83,7 @@ The feedback might be to close the pull request if we feel it does not align wit
 
 ## Running the generate scripts
 
-The scripts has been tested with Python 3.7.2, you run it with this command.
+The scripts has been tested with Python 3.9.10, you run it with this command.
 
 ```
 python category_tool.py
