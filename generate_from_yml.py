@@ -4,7 +4,7 @@ import sys
 import yaml
 
 yaml_file = open('src/categories-coded.yml', 'r', encoding='utf-8', newline='\n')
-categories_dict = yaml.load(yaml_file)
+categories_dict = yaml.safe_load(yaml_file)
 
 print("Checking category tree format.")
 
