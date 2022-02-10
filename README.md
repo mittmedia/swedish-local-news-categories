@@ -35,3 +35,8 @@ It should overwrite the files in the directory `dist`.
 ## License
 
 The Category tree for Swedish local news uses the MIT License.
+
+## The visualization is run as a vm in GCP
+
+And needs to be updated manually to show latest changes it can be accessed here
+http://swedish-news-categories.data.bonnier.news/visualization/tree.html
