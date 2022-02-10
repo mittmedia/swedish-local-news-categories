@@ -134,11 +134,16 @@ modifications:
   name: Rekrytering
   level: 4
 
-- action: ADD
-  parentCode: RYF-ZEI-CZS-JLQ
-  parentName: Nedskärningar
-  name: Uppsägning & varsel
-  level: 4
+- action: UPDATE
+  code: RYF-ZEI-QWT-IIW
+  name: Uppsägningar & varsel
+  newName: Uppsägning & varsel
+  
+- action: MOVE
+  code: RYF-ZEI-YYF
+  name: Uppsägning & varsel # Nytt namn ovan
+  newParentCode: RYF-ZEI-CZS-JLQ
+  newParentName: Nedskärningar
 
 - action: ADD
   parentCode: RYF-ZEI
