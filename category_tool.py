@@ -76,7 +76,7 @@ def calculate_level(category_code):
 def load_categories():
     global version
     with open('src/categories-coded.yml', 'r', encoding='utf-8') as categories_file:
-        categories_dict = yaml.load(categories_file)
+        categories_dict = yaml.safe_load(categories_file)
 
     categories = {}
 
@@ -107,7 +107,7 @@ def get_unprocessed_modification_files():
 
     if Path(mod_file_path + '/applied_mods.yml').is_file():
         with open(mod_file_path + '/applied_mods.yml', 'r', encoding='utf-8') as applied_mods_file:
-            applied_mods.extend(yaml.load(applied_mods_file))
+            applied_mods.extend(yaml.safe_load(applied_mods_file))
 
     for file_name in os.listdir(mod_file_path):
         if re.match("\d{14}.+.yml", file_name) and file_name not in applied_mods:
@@ -139,7 +139,7 @@ def load_modification_file(path):
     global mod_file_path
     file_path = mod_file_path + '/' + path
     with open(file_path, 'r', encoding='utf-8') as modification_file:
-        mod_dict = yaml.load(modification_file)
+        mod_dict = yaml.safe_load(modification_file)
 
     modifications = []
 
