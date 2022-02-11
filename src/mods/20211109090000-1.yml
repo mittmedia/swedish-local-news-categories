@@ -168,10 +168,10 @@ modifications:
   
   
  # Update först, sedan MOVE nedan
-#- action: UPDATE
-#  code: RYF-IXA-KEV-CYO  # URBAN commented out, wrong code
-#  name: Flygtransporter
-#  newName: Flygbranschen
+- action: UPDATE
+  code: RYF-IXA-KEV-VXX-TWI
+  name: Flygtransporter
+  newName: Flygbranschen
   
 - action: UPDATE
   code: RYF-IXA-KEV-VXX-SAU
@@ -190,34 +190,34 @@ modifications:
   
   
   
-#- action: MOVE
-#  code: RYF-IXA-KEV-CYO
-#  name: Flygbranschen
-#  newParentCode: RYF-IXA-KEV-CYO URBAN
-#  newParentName: Logistikbranschen
+- action: MOVE
+  code: RYF-IXA-KEV-VXX-TWI
+  name: Flygbranschen
+  newParentCode: RYF-IXA-KEV-CYO
+  newParentName: Logistikbranschen
   
-#- action: MOVE
-#  code: RYF-IXA-KEV-VXX-SAU
-#  name: Järnvägsbranschen
-#  newParentCode: RYF-IXA-KEV-CYO URBAN
-#  newParentName: Logistikbranschen
+- action: MOVE
+  code: RYF-IXA-KEV-VXX-SAU
+  name: Järnvägsbranschen
+  newParentCode: RYF-IXA-KEV-CYO
+  newParentName: Logistikbranschen
   
-#- action: MOVE
-#  code: RYF-IXA-KEV-VXX-TBB
-#  name: Rederibranschen
-#  newParentCode: RYF-IXA-KEV-CYO URBAN
-#  newParentName: Logistikbranschen
+- action: MOVE
+  code: RYF-IXA-KEV-VXX-TBB
+  name: Rederibranschen
+  newParentCode: RYF-IXA-KEV-CYO
+  newParentName: Logistikbranschen
   
-#- action: MOVE
-#  code: RYF-IXA-KEV-VXX-YRQ
-#  name: Åkeribranschen
-#  newParentCode: RYF-IXA-KEV-CYO URBAN
-#  newParentName: Logistikbranschen
+- action: MOVE
+  code: RYF-IXA-KEV-VXX-YRQ
+  name: Åkeribranschen
+  newParentCode: RYF-IXA-KEV-CYO
+  newParentName: Logistikbranschen
   
-#- action: UPDATE
-#  code: RYF-IXA-KEV-CYO  URBAN
-#  name: Logistikbranschen
-#  newName: Logistik
+- action: UPDATE
+  code: RYF-IXA-KEV-CYO
+  name: Logistikbranschen
+  newName: Logistik
   
   
   
