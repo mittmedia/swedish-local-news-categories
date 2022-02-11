@@ -346,62 +346,6 @@ modifications:
   name: Privatförsäkring
   level: 3
   
-- action: ADD
-  parentCode: RYF-IXA-AOE-XXXX # ID från Privatförsäkringar ovan
-  parentName: Privatförsäkring
-  name: Personförsäkring
-  level: 4
-  
-- action: ADD
-  parentCode: RYF-IXA-AOE-XXXX # ID från Privatförsäkringar ovan
-  parentName: Privatförsäkring
-  name: Sakförsäkring
-  level: 4
-  
-
-- action: MOVE
-  code: RYF-IXA-KEV-VKR-ODH-TMT
-  name: Barnförsäkring
-  newParentCode: RYF-IXA-AOE-XXXX-XXXX # ID från Privatförsäkring och Personförsäkring ovan
-  newParentName: Personförsäkring
-  
-- action: MOVE
-  code: RYF-IXA-KEV-VKR-ODH-BSB
-  name: Gravidförsäkring
-  newParentCode: RYF-IXA-AOE-XXXX-XXXX # ID från Privatförsäkring och Personförsäkring ovan
-  newParentName: Personförsäkring
-  
-- action: MOVE
-  code: RYF-IXA-KEV-VKR-ODH-OOZ
-  name: Livsförsäkring
-  newParentCode: RYF-IXA-AOE-XXXX-XXXX # ID från Privatförsäkring och Personförsäkring ovan
-  newParentName: Personförsäkring
-  
-- action: MOVE
-  code: RYF-IXA-KEV-VKR-ODH-HZI
-  name: Olycksfallsförsäkring
-  newParentCode: RYF-IXA-AOE-XXXX-XXXX # ID från Privatförsäkring och Personförsäkring ovan
-  newParentName: Personförsäkring
-  
-  
-
-- action: MOVE
-  code: RYF-IXA-KEV-VKR-ODH-OJZ
-  name: Båtförsäkring
-  newParentCode: RYF-IXA-AOE-XXXX-XXXX # ID från Privatförsäkring och sakförsäkring ovan
-  newParentName: Sakförsäkring
-  
-- action: MOVE
-  code: RYF-IXA-KEV-VKR-ODH-WLZ
-  name: Fordonsförsäkring
-  newParentCode: RYF-IXA-AOE-XXXX-XXXX # ID från Privatförsäkring och sakförsäkring ovan
-  newParentName: Sakförsäkring
-
-- action: MOVE
-  code: RYF-IXA-KEV-VKR-ODH-NNK
-  name: Husdjursförsäkring
-  newParentCode: RYF-IXA-AOE-XXXX # ID från Privatförsäkring
-  newParentName: Privatförsäkring
 
 - action: UPDATE
   code: RYF-IXA-KEV-VKR-ODH
@@ -695,16 +639,6 @@ modifications:
   name: Skuldsättning
   level: 3
   
-- action: ADD
-  parentCode: RYF-IXA-AOE-XXXX # ID från ovan Skuldsättning
-  parentName: Skuldsättning
-  name: Skuldsanering
-  level: 4
-  
-  
-  
-  
-  
   
 - action: INACTIVATE
   code: RYF-IXA-QED-LTK
@@ -820,92 +754,8 @@ modifications:
   name: Skatter
   level: 3
   
-  
-- action: ADD
-  parentCode: RYF-IXA-QED-XXXX # ID för Skatter ovan
-  parentName: Skatter
-  name: Arbetsgivaravgift
-  level: 4
-  
-- action: ADD
-  parentCode: RYF-IXA-QED-XXXX # ID för Skatter ovan
-  parentName: Skatter
-  name: Begravningsavgift
-  level: 4
-  
-- action: ADD
-  parentCode: RYF-IXA-QED-XXXX # ID för Skatter ovan
-  parentName: Skatter
-  name: Bolagsskatt
-  level: 4
-  
-- action: ADD
-  parentCode: RYF-IXA-QED-XXXX # ID för Skatter ovan
-  parentName: Skatter
-  name: Drivmedelsskatt
-  level: 4
-  
-- action: ADD
-  parentCode: RYF-IXA-QED-XXXX # ID för Skatter ovan
-  parentName: Skatter
-  name: Inkomstskatt
-  level: 4
-  
-- action: ADD
-  parentCode: RYF-IXA-QED-XXXX # ID för Skatter ovan
-  parentName: Skatter
-  name: Kommunalskatt
-  level: 4
-  
-- action: MOVE
-  code: RYF-IXA-QED-IJC
-  name: Moms
-  newParentCode: RYF-IXA-QED-XXXX # ID för Skatter ovan
-  newParentName: Skatter
-  
-- action: ADD
-  parentCode: RYF-IXA-QED-XXXX # ID för Skatter ovan
-  parentName: Skatter
-  name: Skatteavdrag
-  level: 4
-  
-- action: ADD
-  parentCode: RYF-IXA-QED-XXXX-XXX # ID för Skatter ovan och Skatteavdrag ovan
-  parentName: Skatteavdrag
-  name: Rot- & rutavdrag
-  level: 5
-  
-- action: ADD
-  parentCode: RYF-IXA-QED-XXXX-XXX # ID för Skatter ovan och Skatteavdrag ovan
-  parentName: Skatteavdrag
-  name: Ränteavdrag
-  level: 5
-  
- 
-- action: ADD
-  parentCode: RYF-IXA-QED-XXXX # ID för Skatter ovan
-  parentName: Skatter
-  name: Statlig inkomstskatt
-  level: 4
-  
-- action: ADD
-  parentCode: RYF-IXA-QED-XXXX # ID för Skatter ovan
-  parentName: Skatter
-  name: Tobaksskatt
-  level: 4
-  
-- action: ADD
-  parentCode: RYF-IXA-QED-XXXX # ID för Skatter ovan
-  parentName: Skatter
-  name: 3:12-reglerna
-  description: 3:12-reglerna kallas det regelverk för ägarbeskattning som gör att utdelning från småföretag i vanliga fall beskattas betydligt högre än utdelning från storföretag i Sverige
-  level: 4
-  
-- action: UPDATE
-  code: RYF-IXA-QED-CQI
-  name: Pengar & penningpolitik
-  newName: Penningpolitik
-  
+
+
 - action: INACTIVATE
   code: RYF-IXA-QED-UOI
   name: Recession
