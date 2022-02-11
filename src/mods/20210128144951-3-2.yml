@@ -1,0 +1,466 @@
+modifications:
+  
+  
+- action: UPDATE
+  name: Forskning om atomer
+  newName: Mikrovetenskap
+  
+  
+- action: UPDATE
+  name: Aktiehandel
+  newName: Aktier
+  
+  
+- action: UPDATE
+  name: Försvaret
+  newName: Försvars- & säkerhetspolitik
+  
+  
+- action: UPDATE
+  name: Miljöpolitik
+  newName: Miljö- & klimatpolitik
+  description: Till exempel investeringar i förnybara resurser och skatt på utsläpp
+  
+  
+- action: UPDATE
+  name: Flyktingpolitik
+  newName: Flyktingpolitik & migrationspolitik
+  
+  
+- action: UPDATE
+  name: Renovering
+  newName: Renovera 
+  
+  
+- action: UPDATE
+  name: Smittsam sjukdom
+  newName: Smittsamma sjukdomar
+  
+  
+- action: UPDATE
+  name: Funktionshinder
+  newName: Funktionsnedsättningar
+  
+  
+- action: UPDATE
+  name: Bombningar
+  newName: Bombdåd
+  description: Användning av sprängladdningar mot människor, byggnader eller konstruktioner
+  
+  
+- action: UPDATE
+  name: Minröjning
+  newName: Minröjning & röjning av krigsmateriel
+  description: Avlägsnande eller neutralisering av ammunition såsom landminor som återstår efter ett krig eller väpnade konflikter
+  
+  
+- action: UPDATE
+  name: Uppsägningar
+  newName: Uppsägningar & varsel
+  
+  
+- action: UPDATE
+  name: Kasino & spel
+  newName: Casino- & spelmarknaden
+  
+  
+- action: UPDATE
+  name: Resultat
+  newName: Finansiella resultat
+  
+  
+- action: UPDATE
+  name: Villa
+  newName: Villa & hus
+  
+  
+- action: UPDATE
+  name: Underhållningsevenemang
+  newName: Övriga underhållningsevenemang
+  
+  
+- action: UPDATE
+  name: Datorspel
+  newName: Dator-, tv- & mobilspel
+  
+  
+- action: MOVE
+  code: RYF-BIZ-XSV-XDC
+  newParentName: Brottsbekämpning 
+  name: Frihetsberövande
+  level: 3
+  
+  
+- action: MOVE
+  code: RYF-BIZ-GCG
+  newParentName: Brottsbekämpning 
+  name: Polisiärt arbete 
+  level: 3
+  
+  
+- action: MOVE
+  code: RYF-BIZ-LHX
+  newParentName: Brottsbekämpning 
+  name: Säkerhetspolisen
+  level: 3
+  
+  
+- action: MOVE
+  code: RYF-EOI-TKR
+  parentCode: RYF-EOI-GJM
+  newParentName: Teknik & ingenjörskonst
+  name: Maskinteknik
+  level: 3
+  
+  
+- action: MOVE
+  code: RYF-HPT-THK-IIG
+  newParentName: Sociala situationer
+  name: Fattigdom
+  level: 3
+  
+  
+- action: MOVE
+  code: RYF-HPT-THK-KAW
+  newParentName: Sociala situationer
+  name: Hemlöshet
+  level: 3
+  
+  
+- action: MOVE
+  code: RYF-HPT-THK-KFS
+  newParentName: Sociala situationer
+  name: Utanförskap
+  level: 3
+  
+  
+- action: MOVE
+  code: RYF-IXA-QED-CPE
+  parentCode: RYF-IXA-CVI
+  newParentName: Börser & handelsmarknader
+  name: Investeringar
+  level: 3
+  
+  
+- action: MOVE
+  code: RYF-IXA-KEV-XZV-LIU
+  parentCode: RYF-IXA-KEV
+  newParentName: Näringsliv
+  name: Mineraler & metaller
+  level: 3
+  
+  
+- action: MOVE
+  code: RYF-IXA-KEV-YII-BPJ
+  parentCode: RYF-IXA-KEV
+  newParentName: Näringsliv
+  name: Casino- & spelmarknaden
+  level: 3
+  
+  
+- action: MOVE
+  code: RYF-IXA-KEV-YII-VZZ
+  parentCode: RYF-IXA-KEV
+  newParentName: Näringsliv
+  name: Fritids- & sportartiklar
+  description: Tillverkning av varor för fritidsaktiviteter
+  level: 3
+  
+  
+  
+- action: MOVE
+  code: RYF-IXA-LHV
+  newParentName: Företagsekonomi
+  name: Företagande
+  level: 3
+  
+  
+- action: MOVE
+  code: RYF-IXA-AOE-FRC
+  newParentName: Samhällsekonomi
+  name: Bostadspriser
+  level: 3
+  
+  
+- action: MOVE
+  code: RYF-IXA-QED-HZF
+  newParentName: Privatekonomi
+  name: Pension
+  level: 3
+  
+  
+- action: MOVE
+  code: RYF-KNI-MRR-ZUW
+  newParentName: Politisk påverkan 
+  name: Politiska kampanjer
+  level: 3
+  
+  
+- action: MOVE
+  code: RYF-KNI-EPV-UZG
+  newParentName: Politisk påverkan 
+  name: Lobbyverksamhet
+  level: 3
+  
+  
+- action: MOVE
+  code: RYF-KNI-RLW-NZZ
+  newParentName: Riksdagsfrågor
+  name: Konstitutionella frågor
+  level: 3
+  
+  
+- action: MOVE
+  code: RYF-KNI-RLW-YIU
+  newParentName: Försvars- & säkerhetspolitik
+  name: Försvars- & säkerhetspolitik
+  level: 3
+  
+  
+- action: MOVE
+  code: RYF-QPR-HJD
+  newParentName: Idrottsmedicin
+  name: Dopning inom idrott
+  description: Användning av otillåtna preparat för att höja prestationsförmåga, och frågor relaterade till det
+  level: 3
+  
+  
+- action: MOVE
+  code: RYF-TKT-ESA
+  newParentName: Fritid 
+  name: Friluftsliv
+  level: 3
+  
+  
+- action: MOVE
+  code: RYF-TKT-INK
+  newParentName: Fritid 
+  name: Föreningsliv
+  level: 3
+  
+  
+- action: MOVE
+  code: RYF-TKT-PEJ
+  newParentName: Fritid 
+  name: Semester
+  level: 3
+  
+  
+- action: MOVE
+  code: RYF-TKT-GSR
+  newParentName: Livsstil
+  name: Mode & styling
+  level: 3
+  
+  
+- action: MOVE
+  code: RYF-TKT-HFA
+  newParentName: Hobby
+  name: Hantverk
+  level: 3
+  
+  
+- action: MOVE
+  code: RYF-TKT-NHW
+  newParentName: Hobby
+  name: Samlande
+  level: 3
+  
+  
+- action: MOVE
+  code: RYF-TKT-VVD
+  newParentName: Hobby
+  name: Spel
+  level: 3
+  
+  
+- action: MOVE
+  code: RYF-TKT-EPN
+  newParentName: Hus- & boendetyper
+  name: Villa & hus
+  level: 3
+  
+  
+- action: MOVE
+  code: RYF-TKT-MIZ
+  newParentName: Hus- & boendetyper
+  name: Fritidshus
+  level: 3
+  
+  
+- action: MOVE
+  code: RYF-TKT-MNX
+  newParentName: Hus- & boendetyper
+  name: Bostadsrätt
+  level: 3
+  
+  
+- action: MOVE
+  code: RYF-VHD-QTT
+  newParentName: Naturresurser 
+  name: Vatten
+  description: Miljöfrågor om bland annat hav, sjöar, vattendrag och reservoarer, samt isar, glaciärer och nederbörd
+  level: 3
+  
+  
+- action: MOVE
+  code: RYF-WUU-JZK-WLI
+  parentCode: RYF-WUU-QNB
+  newParentName: Behandlingar
+  name: Missbruksvård
+  level: 3
+  
+  
+- action: MOVE
+  code: RYF-WXT-CRN-GJG
+  newParentName: Krig
+  name: Krigsoffer
+  level: 3
+  
+  
+- action: MOVE
+  code: RYF-WXT-CRN-QLT
+  newParentName: Krig
+  name: Militär ockupation
+  level: 3
+  
+  
+- action: MOVE
+  code: RYF-WXT-CRN-VOL
+  newParentName: Krig
+  name: Gerillakrig
+  level: 3
+  
+  
+- action: MOVE
+  code: RYF-WXT-CRN-BFS
+  newParentName: Militär intervention
+  name: Fredsbevarande styrkor
+  level: 3
+  
+  
+- action: MOVE
+  code: RYF-XKI-FEY
+  newParentName: Konstformer & underhållning
+  name: Musik
+  level: 3
+  
+  
+- action: MOVE
+  code: RYF-XKI-FXL
+  newParentName: Konstformer & underhållning
+  name: Övriga underhållningsevenemang
+  level: 3
+  
+  
+- action: MOVE
+  code: RYF-XKI-HLO
+  newParentName: Konstformer & underhållning
+  name: Uteliv
+  level: 3
+  
+  
+- action: MOVE
+  code: RYF-XKI-CDA
+  newParentName: Konstformer & underhållning
+  name: Animation
+  level: 3
+  
+  
+- action: MOVE
+  code: RYF-XKI-GJH
+  newParentName: Konstformer & underhållning
+  name: Teater & musikal
+  level: 3
+  
+  
+- action: MOVE
+  code: RYF-XKI-JIJ
+  newParentName: Konstformer & underhållning
+  name: Film
+  level: 3
+  
+  
+- action: MOVE
+  code: RYF-XKI-JUJ
+  newParentName: Konstformer & underhållning
+  name: Opera
+  level: 3
+  
+  
+- action: MOVE
+  code: RYF-XKI-LNE
+  newParentName: Konstformer & underhållning
+  name: Visuella konstformer
+  level: 3
+  
+  
+- action: MOVE
+  code: RYF-XKI-TMS
+  newParentName: Konstformer & underhållning
+  name: Tecknade serier
+  level: 3
+  
+  
+- action: MOVE
+  code: RYF-XKI-WEG
+  newParentName: Konstformer & underhållning
+  name: Dans
+  level: 3
+  
+  
+- action: MOVE
+  code: RYF-XKI-YFJ
+  newParentName: Konstformer & underhållning
+  name: Litteratur
+  level: 3
+  
+  
+- action: MOVE
+  code: RYF-XKI-DEG
+  newParentName: Kultur
+  name: Kulturhistoria
+  level: 3
+  
+  
+- action: MOVE
+  code: RYF-XKI-IHA
+  newParentName: Kultur
+  name: Seder & traditioner
+  level: 3
+  
+  
+- action: MOVE
+  code: RYF-XKI-ISL
+  newParentName: Kultur
+  name: Kulturell fest eller händelse
+  level: 3
+  
+  
+- action: MOVE
+  code: RYF-XKI-KKX
+  newParentName: Kultur
+  name: Barnkultur
+  level: 3
+  
+  
+- action: MOVE
+  code: RYF-XKI-PGP
+  newParentName: Kultur
+  name: Språk
+  level: 3
+  
+  
+- action: MOVE
+  code: RYF-XKI-SFU
+  newParentName: Kultur
+  name: Bibliotek & museum
+  level: 3
+  
+  
+- action: MOVE
+  code: RYF-XKI-YBJ
+  newParentName: Kultur
+  name: Kulturarv
+  level: 3
+  

@@ -1,0 +1,3333 @@
+modifications:
+  
+- action: ADD
+  parentCode: RYF-AKM-QGJ-KUV
+  parentName: Trafikolycka
+  name: Olycksstatistik
+  level: 4
+  
+  
+- action: ADD
+  parentName: Luftfartsolycka
+  name: Helikopterolycka
+  level: 4
+  
+  
+- action: ADD
+  parentName: Luftfartsolycka
+  name: Flygolycka
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-AKM-TGS-QGV
+  parentName: Naturkatastrofer
+  name: Jordbävning
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-AKM-TGS-QGV
+  parentName: Naturkatastrofer
+  name: Översvämning
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-AKM-TGS-QGV
+  parentName: Naturkatastrofer
+  name: Jordskred
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-AKM-TGS-QGV
+  parentName: Naturkatastrofer
+  name: Väderkatastrof
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-AKM-TGS-QGV
+  parentName: Naturkatastrofer
+  name: Stormar & orkaner
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-AKM-TGS-QGV
+  parentName: Naturkatastrofer
+  name: Vulkanutbrott
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-AKM-TGS-QGV
+  parentName: Naturkatastrofer
+  name: Laviner
+  level: 4
+  
+  
+- action: ADD
+  parentName: Polisiärt arbete 
+  name: Saknad person
+  level: 4
+  
+  
+- action: ADD
+  parentName: Polisiärt arbete 
+  name: Tvångsmedel
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-BIZ-WZJ-ELD
+  parentName: Trafikbrott
+  name: Hastighetsöverträdelse
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-BIZ-WZJ-GSD
+  parentName: IT-brott
+  name: Datorbedrägeri
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-BIZ-WZJ-GSD
+  parentName: IT-brott
+  name: Dataintrång 
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-BIZ-WZJ-GSD
+  parentName: IT-brott
+  name: Hackerattack
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-BIZ-WZJ-KVS
+  parentName: Våldsbrott
+  name: Skolskjutning
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-BIZ-WZJ-OFE
+  parentName: Miljöbrott
+  name: Utsläppsskandal & utsläppsfusk
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-BIZ-WZJ-PQY
+  parentName: Organiserad brottslighet
+  name: Gängbrottslighet 
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-BIZ-WZJ-RPI
+  parentName: Bedrägerier & ekobrott
+  name: Penningtvätt
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-BIZ-WZJ-RPI
+  parentName: Bedrägerier & ekobrott
+  name: Konkurrensbrott
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-BIZ-WZJ-RXJ
+  parentName: Narkotikabrott
+  name: Narkotikainnehav
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-BIZ-WZJ-RXJ
+  parentName: Narkotikabrott
+  name: Narkotikasmuggling 
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-BIZ-WZJ-USP
+  parentName: Terrorism
+  name: Biologisk terrorism 
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-BIZ-XSV-BII
+  parentName: Straff
+  name: Dödsstraff
+  level: 4
+  
+  
+- action: ADD
+  parentName: Förlikningar
+  name: Medling 
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-BIZ-XSV-JTA
+  parentName: Straffrätt
+  name: Domstol 
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-BIZ-XSV-JTA
+  parentName: Straffrätt
+  name: Domare
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-BIZ-XSV-JTA
+  parentName: Straffrätt
+  name: Domstolspersonal
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-BIZ-XSV-LCF
+  parentName: Internationell rätt
+  name: Internationell domstol 
+  level: 4
+  
+  
+- action: ADD
+  parentName: Civilrätt
+  name: Konkurrensfrågor
+  level: 4
+  
+  
+- action: ADD
+  parentName: Civilrätt
+  name: Civilrättsregler
+  level: 4
+  
+  
+- action: ADD
+  parentName: Bebis & småbarnsåren
+  name: Bebisprylar & varor för barn
+  level: 4
+  
+  
+- action: ADD
+  parentName: Bebis & småbarnsåren
+  name: Gnälliga barn
+  level: 4
+  
+  
+- action: ADD
+  parentName: Bebis & småbarnsåren
+  name: Nattning
+  level: 4
+  
+  
+- action: ADD
+  parentName: Bebis & småbarnsåren
+  name: Skrikande barn
+  level: 4
+  
+  
+- action: ADD
+  parentName: Bebis & småbarnsåren
+  name: Tänders utveckling
+  level: 4
+  
+  
+- action: ADD
+  parentName: Bebis & småbarnsåren
+  name: Aggressivitet hos barn
+  level: 4
+  
+  
+- action: ADD
+  parentName: Bebis & småbarnsåren
+  name: Trots
+  level: 4
+  
+  
+- action: ADD
+  parentName: Bebis & småbarnsåren
+  name: Barnvakt
+  level: 4
+  
+  
+- action: ADD
+  parentName: Bebis & småbarnsåren
+  name: Sömnmetoder
+  level: 4
+  
+  
+- action: ADD
+  parentName: Bebis & småbarnsåren
+  name: Gråt & ledsamhet
+  level: 4
+  
+  
+- action: ADD
+  parentName: Bebis & småbarnsåren
+  name: Kolik
+  level: 4
+  
+  
+- action: ADD
+  parentName: Bebis & småbarnsåren
+  name: Amning & bröstmjölk
+  level: 4
+  
+  
+- action: ADD
+  parentName: Bebis & småbarnsåren
+  name: Barns temperament
+  level: 4
+  
+  
+- action: ADD
+  parentName: Bebis & småbarnsåren
+  name: Barns utveckling
+  level: 4
+  
+  
+- action: ADD
+  parentName: Bebis & småbarnsåren
+  name: Barns anknytning
+  level: 4
+  
+  
+- action: ADD
+  parentName: Barnkläder
+  name: Skalkläder
+  level: 4
+  
+  
+- action: ADD
+  parentName: Barnkläder
+  name: Bebiskläder
+  level: 4
+  
+  
+- action: ADD
+  parentName: Barnaktiviteter
+  name: Fotbollsskola
+  level: 4
+  
+  
+- action: ADD
+  parentName: Barnaktiviteter
+  name: Simskola
+  level: 4
+  
+  
+- action: ADD
+  parentName: Barnlekar & leksaker
+  name: Dockor & barbies
+  level: 4
+  
+  
+- action: ADD
+  parentName: Barnlekar & leksaker
+  name: Leksaksbilar
+  level: 4
+  
+  
+- action: ADD
+  parentName: Barnlekar & leksaker
+  name: Sparkcyklar
+  level: 4
+  
+  
+- action: ADD
+  parentName: Barnuppfostran
+  name: Sätta gränser
+  level: 4
+  
+  
+- action: ADD
+  parentName: Barnuppfostran
+  name: Skärmar & skärmtid
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-CUW-GIV-CWF
+  parentName: Familjeplanering
+  name: Ofrivillig barnlöshet
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-CUW-GIV-CWF
+  parentName: Familjeplanering
+  name: Ensamstående förälder
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-CUW-GIV-CWF
+  parentName: Familjeplanering
+  name: Stjärnfamilj
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-CUW-GIV-CWF
+  parentName: Familjeplanering
+  name: Tvillingar & flerbarnsfödsel
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-CUW-GIV-CWF
+  parentName: Familjeplanering
+  name: Bonusfamilj & bonusbarn
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-CUW-GIV-CWF
+  parentName: Familjeplanering
+  name: Sekundär infertilitet 
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-CUW-GIV-CWF
+  parentName: Familjeplanering
+  name: Plötslig spädbarnsdöd
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-CUW-GIV-CWF
+  parentName: Familjeplanering
+  name: Graviditet
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-CUW-IAA-JLY
+  parentName: Priser & utmärkelser
+  name: Körkort
+  level: 4
+  
+  
+- action: ADD
+  parentName: Sex
+  name: Orgasm & orgasmtips
+  level: 4
+  
+  
+- action: ADD
+  parentName: Sex
+  name: Fetisher 
+  level: 4
+  
+  
+- action: ADD
+  parentName: Sex
+  name: Sexleksaker
+  level: 4
+  
+  
+- action: ADD
+  parentName: Sex
+  name: Swingers
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-CUW-XVL-AJJ
+  parentName: Jul
+  name: Julgran
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-CUW-XVL-AJJ
+  parentName: Jul
+  name: Jylpyssel 
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-CUW-XVL-AJJ
+  parentName: Jul
+  name: Julpynta
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-CUW-XVL-AJJ
+  parentName: Jul
+  name: Julklappar
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-EOI-DLM-BUZ
+  parentName: Fysik
+  name: Elektromagnetism 
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-EOI-DLM-BUZ
+  parentName: Fysik
+  name: Kärnfysik
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-HPT-THK-RGK
+  parentName: Yrkeskriminella
+  name: MC-gäng
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-HPT-XRQ-KWB
+  parentName: Bidrag
+  name: Barnbidrag
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-HPT-XRQ-UFA
+  parentName: Barnomsorg
+  name: Vård av barn (Vab)
+  level: 4
+  
+  
+- action: ADD
+  parentName: Föräldraledighet 
+  name: Föräldrapenning
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-HPT-YGE-GUI
+  parentName: Trafikpåverkan
+  name: Tunnelbana
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-HPT-YGE-GUI
+  parentName: Trafikpåverkan
+  name: Buss
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-HPT-YGE-GUI
+  parentName: Trafikpåverkan
+  name: Spårvagn
+  level: 4
+  
+  
+- action: ADD
+  parentName: Byggnader
+  name: Köpcentrum & gallerior
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-IXA-CVI-FUJ
+  parentName: Råvarumarknad
+  name: Energimarknad
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-IXA-CVI-FUJ
+  parentName: Råvarumarknad
+  name: Metallmarknad
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-IXA-CVI-MAB
+  parentName: Aktier
+  name: Aktieråd
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-IXA-CVI-MAB
+  parentName: Aktier
+  name: Börsrusning
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-IXA-CVI-MAB
+  parentName: Aktier
+  name: Börsras
+  level: 4
+  
+  
+- action: ADD
+  parentName: Säkerheter
+  name: Derivat
+  level: 4
+  
+  
+- action: ADD
+  parentName: Mineraler & metaller
+  name: Järn & stål
+  level: 4
+  
+  
+- action: ADD
+  parentName: Mineraler & metaller
+  name: Byggmaterial
+  level: 4
+  
+  
+- action: ADD
+  parentName: Mineraler & metaller
+  name: Guld & värdefulla metaller
+  level: 4
+  
+  
+- action: ADD
+  parentName: Mineraler & metaller
+  name: Icke-järnmetall
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-IXA-KEV-BEL
+  parentName: IT & datateknik
+  name: AI-teknik
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-IXA-KEV-BEL
+  parentName: IT & datateknik
+  name: Techbranschen 
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-IXA-KEV-RFJ
+  parentName: Restaurang & catering
+  name: Nattklubb & diskotek
+  level: 4
+  
+  
+- action: ADD
+  parentName: Mediemarknaden 
+  name: Förlagsindustri
+  level: 4
+  
+  
+- action: ADD
+  parentName: Mediemarknaden 
+  name: Filmindustri
+  level: 4
+  
+  
+- action: ADD
+  parentName: Mediemarknaden 
+  name: Musikindustri
+  level: 4
+  
+  
+- action: ADD
+  parentName: Mediemarknaden 
+  name: Nyhetsbyråer
+  level: 4
+  
+  
+- action: ADD
+  parentName: Mediemarknaden 
+  name: Dagstidningar & magasin
+  level: 4
+  
+  
+- action: ADD
+  parentName: Mediemarknaden 
+  name: Internetmedier 
+  level: 4
+  
+  
+- action: ADD
+  parentName: Mediemarknaden 
+  name: Radioindustri
+  level: 4
+  
+  
+- action: ADD
+  parentName: Mediemarknaden 
+  name: Tv-industri
+  level: 4
+  
+  
+- action: ADD
+  parentName: Mediemarknaden 
+  name: Satellit- och kabelleverantörer
+  level: 4
+  
+  
+- action: ADD
+  parentName: Mediemarknaden 
+  name: Streaming-industri
+  level: 4
+  
+  
+- action: ADD
+  parentName: Mediemarknaden 
+  name: Podcastindustri
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-IXA-KEV-UBU
+  parentName: Energi, naturtillgångar & elproduktion
+  name: Etanolbränsle
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-IXA-KEV-UBU
+  parentName: Energi, naturtillgångar & elproduktion
+  name: Energiindustri
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-IXA-KEV-UBU
+  parentName: Energi, naturtillgångar & elproduktion
+  name: Elproduktion & distrubition 
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-IXA-KEV-UBU
+  parentName: Energi, naturtillgångar & elproduktion
+  name: Fotogen
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-IXA-KEV-VKR
+  parentName: Privat- & företagstjänster
+  name: Aktiemäklande
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-IXA-KEV-VKR
+  parentName: Privat- & företagstjänster
+  name: Tryckerier
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-IXA-KEV-VKR
+  parentName: Privat- & företagstjänster
+  name: Ekonomisk rådgivning 
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-IXA-KEV-VKR
+  parentName: Privat- & företagstjänster
+  name: Vårdgivare
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-IXA-KEV-VKR
+  parentName: Privat- & företagstjänster
+  name: Verkstads- & reparationstjänster
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-IXA-KEV-VKR
+  parentName: Privat- & företagstjänster
+  name: Leasing
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-IXA-KEV-XZV
+  parentName: Kemisk industri
+  name: Djurförsök
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-IXA-KEV-YII
+  parentName: Turism & besöksnäring
+  name: Resebranschen
+  level: 4
+  
+  
+- action: ADD
+  parentName: Casino- & spelmarknaden
+  name: Onlinecasinon
+  level: 4
+  
+  
+- action: ADD
+  parentName: Casino- & spelmarknaden
+  name: Onlinebetting
+  level: 4
+  
+  
+- action: ADD
+  parentName: Företagsförvärv 
+  name: Kvartalsrapporter
+  level: 4
+  
+  
+- action: ADD
+  parentName: Företagsförvärv 
+  name: Resultatprognoser
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-IXA-QED-JUO
+  parentName: Ränta
+  name: Styrränta
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-IXA-QED-JUO
+  parentName: Valutor
+  name: Kryptovalutor
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-IXA-QED-TPZ
+  parentName: Internationell handel
+  name: Handelsavtal 
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-IXA-QED-TPZ
+  parentName: Internationell handel
+  name: Handelsbalans
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-IXA-QED-TPZ
+  parentName: Internationell handel
+  name: Handelstvist 
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-IXA-QED-TPZ
+  parentName: Internationell handel
+  name: Handelspolitik 
+  level: 4
+  
+  
+- action: ADD
+  parentName: Ekonomiska indikatorer
+  name: Industriproduktion 
+  level: 4
+  
+  
+- action: ADD
+  parentName: Ekonomiska indikatorer
+  name: Lagerstatus
+  level: 4
+  
+  
+- action: ADD
+  parentName: Ekonomiska indikatorer
+  name: Produktivitet 
+  level: 4
+  
+  
+- action: ADD
+  parentName: Ekonomiska indikatorer
+  name: Bruttonationalprodukt
+  level: 4
+  
+  
+- action: ADD
+  parentName: Företag
+  name: Entreprenörskap 
+  level: 4
+  
+  
+- action: ADD
+  parentName: Företag
+  name: Småföretagande
+  level: 4
+  
+  
+- action: ADD
+  parentName: Låntyper 
+  name: Billån
+  level: 4
+  
+  
+- action: ADD
+  parentName: Låntyper 
+  name: Privatlån
+  level: 4
+  
+  
+- action: ADD
+  parentName: Pension
+  name: Allmän pension
+  level: 4
+  
+  
+- action: ADD
+  parentName: Pension
+  name: Garantipension
+  level: 4
+  
+  
+- action: ADD
+  parentName: Pension
+  name: Flexpension
+  level: 4
+  
+  
+- action: ADD
+  parentName: Pension
+  name: Inkomstpension
+  level: 4
+  
+  
+- action: ADD
+  parentName: Pension
+  name: Förtidspension & sjukpension
+  level: 4
+  
+  
+- action: ADD
+  parentName: Pension
+  name: Tjänstepension
+  level: 4
+  
+  
+- action: ADD
+  parentName: Amerikansk politik
+  name: Val i USA
+  level: 4
+  
+  
+- action: ADD
+  parentName: Amerikansk politik
+  name: Primärval
+  level: 4
+  
+  
+- action: ADD
+  parentName: Politiska kampanjer
+  name: Valkampanjer
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-KNI-XNS-ELZ
+  parentName: Miljö- & klimatpolitik
+  name: Miljöbilspremie
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-KNI-XNS-ELZ
+  parentName: Miljö- & klimatpolitik
+  name: MIljözoner
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-KNI-XNS-ELZ
+  parentName: Miljö- & klimatpolitik
+  name: Dieselförbud
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-KNI-XNS-ELZ
+  parentName: Miljö- & klimatpolitik
+  name: Vägtullar
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-KNI-XNS-ELZ
+  parentName: Miljö- & klimatpolitik
+  name: Bilförbud
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-KNI-XNS-HIC
+  parentName: Skattepolitik
+  name: Drivmedelsskatt
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-KNI-XNS-HIC
+  parentName: Skattepolitik
+  name: Fordonsskatt
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-KNI-XNS-HIC
+  parentName: Skattepolitik
+  name: Inkomstskatt
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-KNI-XNS-JVN
+  parentName: Flyktingpolitik & migrationspolitik
+  name: Gränskontroller
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-KNI-XNS-SWE
+  parentName: Samhällspolitik
+  name: Barn & ungdomsfrågor
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-KNI-XNS-SWE
+  parentName: Samhällspolitik
+  name: Jämställdhetsfrågor
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-KNI-XNS-TXA
+  parentName: Energipolitik
+  name: Kärnkraftspolitik
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-KNI-ZIS-IUN
+  parentName: Yttrandefrihet & tryckfrihet
+  name: Censur 
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-QPR-HGB-BQN
+  parentName: Ishockey
+  name: Kvalserien
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-QPR-HGB-BQN
+  parentName: Ishockey
+  name: Guldpucken 
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-QPR-HGB-DEN
+  parentName: Fotboll
+  name: Nationell fotboll
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-QPR-HGB-DEN
+  parentName: Fotboll
+  name: Fotbollslandslaget
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-QPR-HGB-DEN
+  parentName: Fotboll
+  name: Serie A
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-QPR-HGB-DEN
+  parentName: Fotboll
+  name: Champions League
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-QPR-HGB-DEN
+  parentName: Fotboll
+  name: La Liga
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-QPR-HGB-DEN
+  parentName: Fotboll
+  name: Ligue 1
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-QPR-HGB-DEN
+  parentName: Fotboll
+  name: Championship
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-QPR-HGB-DEN
+  parentName: Fotboll
+  name: Bundesliga
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-QPR-HGB-DEN
+  parentName: Fotboll
+  name: Premier League
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-QPR-HGB-DZQ
+  parentName: Amerikansk fotboll
+  name: NFL
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-TKT-AGB-BGD
+  parentName: Heminredning
+  name: Inredningstrender
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-TKT-AGB-BGD
+  parentName: Heminredning
+  name: Inredningsstilar
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-TKT-AGB-BGD
+  parentName: Heminredning
+  name: Rumstyper att inreda
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-TKT-AGB-BGD
+  parentName: Heminredning
+  name: Svensk inredningsdesign
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-TKT-AGB-BGD
+  parentName: Heminredning
+  name: Belysning & lampor
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-TKT-AGB-BGD
+  parentName: Heminredning
+  name: Sängar
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-TKT-AGB-BGD
+  parentName: Heminredning
+  name: Bord
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-TKT-AGB-BGD
+  parentName: Heminredning
+  name: Utomhusmiljö
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-TKT-AGB-BGD
+  parentName: Heminredning
+  name: Handdukar & sängkläder
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-TKT-AGB-BGD
+  parentName: Heminredning
+  name: Kuddar
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-TKT-AGB-BGD
+  parentName: Heminredning
+  name: Gardiner
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-TKT-AGB-BGD
+  parentName: Heminredning
+  name: Mattor & textilier
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-TKT-AGB-BGD
+  parentName: Heminredning
+  name: Filtar & plädar
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-TKT-AGB-BGD
+  parentName: Heminredning
+  name: Förvaringsmöbler
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-TKT-AGB-BGD
+  parentName: Heminredning
+  name: Förråd & skafferi
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-TKT-AGB-BGD
+  parentName: Heminredning
+  name: Ute- & trädgårdsmöbler
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-TKT-AGB-BGD
+  parentName: Heminredning
+  name: Inredningsdesign & inspiration
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-TKT-AGB-BGD
+  parentName: Heminredning
+  name: Vaser & skålar
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-TKT-AGB-BGD
+  parentName: Heminredning
+  name: Tavlor, affischer & posters
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-TKT-AGB-BGD
+  parentName: Heminredning
+  name: Skulpturer & konst 
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-TKT-AGB-BGD
+  parentName: Heminredning
+  name: Dukning & dekoration
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-TKT-AGB-BGD
+  parentName: Heminredning
+  name: Sittmöbler
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-TKT-AGB-BGD
+  parentName: Heminredning
+  name: Vitvaror
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-TKT-AGB-NVR
+  parentName: Renovera 
+  name: Köksrenovering
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-TKT-AGB-NVR
+  parentName: Renovera 
+  name: Golv, väggar & tak
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-TKT-AGB-NVR
+  parentName: Renovera 
+  name: Måla & färga
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-TKT-AGB-NVR
+  parentName: Renovera 
+  name: Tapetsera
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-TKT-AGB-NVR
+  parentName: Renovera 
+  name: Fasadrenovering
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-TKT-AGB-NVR
+  parentName: Renovera 
+  name: Byggfusk
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-TKT-AGB-NVR
+  parentName: Renovera 
+  name: Kakel & klinker
+  level: 4
+  
+  
+- action: ADD
+  parentName: Fixa & dona
+  name: Pynta & piffa
+  level: 4
+  
+  
+- action: ADD
+  parentName: Fixa & dona
+  name: Återbruka
+  level: 4
+  
+  
+- action: ADD
+  parentName: Fixa & dona
+  name: Städa
+  level: 4
+  
+  
+- action: ADD
+  parentName: Fixa & dona
+  name: Tvätta & diska 
+  level: 4
+  
+  
+- action: ADD
+  parentName: Bygga & snickra
+  name: Snickra
+  level: 4
+  
+  
+- action: ADD
+  parentName: Bygga & snickra
+  name: Byggmaterial för hemmet
+  level: 4
+  
+  
+- action: ADD
+  parentName: Bygga & snickra
+  name: Bygga hus
+  level: 4
+  
+  
+- action: ADD
+  parentName: Bygga & snickra
+  name: Bygnadstekniker
+  level: 4
+  
+  
+- action: ADD
+  parentName: Plantera & odla
+  name: Träd & buskar
+  level: 4
+  
+  
+- action: ADD
+  parentName: Plantera & odla
+  name: Krukväxter 
+  level: 4
+  
+  
+- action: ADD
+  parentName: Plantera & odla
+  name: Pallkragar
+  level: 4
+  
+  
+- action: ADD
+  parentName: Plantera & odla
+  name: Perenner 
+  level: 4
+  
+  
+- action: ADD
+  parentName: Plantera & odla
+  name: Blommor
+  level: 4
+  
+  
+- action: ADD
+  parentName: Loppis & auktion
+  name: Antikviteter
+  level: 4
+  
+  
+- action: ADD
+  parentName: Loppis & auktion
+  name: Second hand
+  level: 4
+  
+  
+- action: ADD
+  parentName: Friluftsliv
+  name: Vildmarksliv
+  level: 4
+  
+  
+- action: ADD
+  parentName: Friluftsliv
+  name: Vandring
+  level: 4
+  
+  
+- action: ADD
+  parentName: Friluftsliv
+  name: Dykning & surfing
+  level: 4
+  
+  
+- action: ADD
+  parentName: Mode & styling
+  name: Modegalor & modeevent
+  level: 4
+  
+  
+- action: ADD
+  parentName: Mode & styling
+  name: Färger & mönster
+  level: 4
+  
+  
+- action: ADD
+  parentName: Mode & styling
+  name: Klädtyger
+  level: 4
+  
+  
+- action: ADD
+  parentName: Mode & styling
+  name: Solning & solprodukter
+  level: 4
+  
+  
+- action: ADD
+  parentName: Mode & styling
+  name: Modetrender & modetyper
+  level: 4
+  
+  
+- action: ADD
+  parentName: Mode & styling
+  name: Stilar
+  level: 4
+  
+  
+- action: ADD
+  parentName: Mode & styling
+  name: Klänningar & kjolar
+  level: 4
+  
+  
+- action: ADD
+  parentName: Mode & styling
+  name: Underkläder
+  level: 4
+  
+  
+- action: ADD
+  parentName: Mode & styling
+  name: Shorts & byxor
+  level: 4
+  
+  
+- action: ADD
+  parentName: Mode & styling
+  name: Skjortor & blusar
+  level: 4
+  
+  
+- action: ADD
+  parentName: Mode & styling
+  name: Tröjor & koftor
+  level: 4
+  
+  
+- action: ADD
+  parentName: Mode & styling
+  name: Linnen & t-shirts
+  level: 4
+  
+  
+- action: ADD
+  parentName: Mode & styling
+  name: Väskor
+  level: 4
+  
+  
+- action: ADD
+  parentName: Mode & styling
+  name: Jackor, kappor & rockar
+  level: 4
+  
+  
+- action: ADD
+  parentName: Mode & styling
+  name: Badkläder & badmode
+  level: 4
+  
+  
+- action: ADD
+  parentName: Mode & styling
+  name: Skor
+  level: 4
+  
+  
+- action: ADD
+  parentName: Mode & styling
+  name: Hudvårdsprodukter
+  level: 4
+  
+  
+- action: ADD
+  parentName: Mode & styling
+  name: Hårvårdsprodukter
+  level: 4
+  
+  
+- action: ADD
+  parentName: Mode & styling
+  name: Skönhetsideal
+  level: 4
+  
+  
+- action: ADD
+  parentName: Mode & styling
+  name: Stylingtips
+  level: 4
+  
+  
+- action: ADD
+  parentName: Mode & styling
+  name: Skönhetstips
+  level: 4
+  
+  
+- action: ADD
+  parentName: Mode & styling
+  name: Hållbart mode
+  level: 4
+  
+  
+- action: ADD
+  parentName: Mode & styling
+  name: Svenskt mode
+  level: 4
+  
+  
+- action: ADD
+  parentName: Mode & styling
+  name: Parfymer & dofter
+  level: 4
+  
+  
+- action: ADD
+  parentName: Mode & styling
+  name: Övrig kosmetika & behandlingar
+  level: 4
+  
+  
+- action: ADD
+  parentName: Shopping
+  name: Reor & klipp
+  level: 4
+  
+  
+- action: ADD
+  parentName: Shopping
+  name: Julhandel
+  level: 4
+  
+  
+- action: ADD
+  parentName: Hantverk
+  name: Sticka
+  level: 4
+  
+  
+- action: ADD
+  parentName: Hantverk
+  name: Knyppla
+  level: 4
+  
+  
+- action: ADD
+  parentName: Hantverk
+  name: Virka
+  level: 4
+  
+  
+- action: ADD
+  parentName: Spel
+  name: Korsord & pysselspel
+  level: 4
+  
+  
+- action: ADD
+  parentName: Spel
+  name: Pussel
+  level: 4
+  
+  
+- action: ADD
+  parentName: Villa & hus
+  name: Stenhus
+  level: 4
+  
+  
+- action: ADD
+  parentName: Villa & hus
+  name: Trähus
+  level: 4
+  
+  
+- action: ADD
+  parentName: Hyresrätt
+  name: Andrahandsuthyrning
+  level: 4
+  
+  
+- action: ADD
+  parentName: Hyresrätt
+  name: Svartkontrakt
+  level: 4
+  
+  
+- action: ADD
+  parentName: Biltyper
+  name: Veteranbilar
+  level: 4
+  
+  
+- action: ADD
+  parentName: Biltyper
+  name: Semiautonoma bilar
+  level: 4
+  
+  
+- action: ADD
+  parentName: Biltyper
+  name: Kombibilar & halvkombi
+  level: 4
+  
+  
+- action: ADD
+  parentName: Biltyper
+  name: Husbilar & husvagnar
+  level: 4
+  
+  
+- action: ADD
+  parentName: Biltyper
+  name: Gasbilar
+  level: 4
+  
+  
+- action: ADD
+  parentName: Biltyper
+  name: Sportbilar
+  level: 4
+  
+  
+- action: ADD
+  parentName: Biltyper
+  name: Trecylindriga bilar
+  level: 4
+  
+  
+- action: ADD
+  parentName: Biltyper
+  name: Suvar & minisuvar
+  level: 4
+  
+  
+- action: ADD
+  parentName: Biltyper
+  name: Hyperbilar
+  level: 4
+  
+  
+- action: ADD
+  parentName: Biltyper
+  name: Nyttofordon
+  level: 4
+  
+  
+- action: ADD
+  parentName: Biltyper
+  name: Terrängbilar
+  level: 4
+  
+  
+- action: ADD
+  parentName: Biltyper
+  name: Amerikanare 
+  level: 4
+  
+  
+- action: ADD
+  parentName: Biltyper
+  name: Bakhjulsdrivna bilar
+  level: 4
+  
+  
+- action: ADD
+  parentName: Biltyper
+  name: Stadsbilar
+  level: 4
+  
+  
+- action: ADD
+  parentName: Biltyper
+  name: Säkerhetsbilar
+  level: 4
+  
+  
+- action: ADD
+  parentName: Biltyper
+  name: Premiumbilar
+  level: 4
+  
+  
+- action: ADD
+  parentName: Biltyper
+  name: Lågprisbilar
+  level: 4
+  
+  
+- action: ADD
+  parentName: Biltyper
+  name: Familjebilar
+  level: 4
+  
+  
+- action: ADD
+  parentName: Biltyper
+  name: Elbilar
+  level: 4
+  
+  
+- action: ADD
+  parentName: Biltyper
+  name: Hybridbilar
+  level: 4
+  
+  
+- action: ADD
+  parentName: Biltyper
+  name: Bensinbilar
+  level: 4
+  
+  
+- action: ADD
+  parentName: Biltyper
+  name: Framhjulsdrivna bilar
+  level: 4
+  
+  
+- action: ADD
+  parentName: Biltyper
+  name: Självkörande bilar
+  level: 4
+  
+  
+- action: ADD
+  parentName: Biltyper
+  name: Tjänstebil
+  level: 4
+  
+  
+- action: ADD
+  parentName: Biltyper
+  name: Dieselbilar
+  level: 4
+  
+  
+- action: ADD
+  parentName: Biltyper
+  name: Begagnade bilar
+  level: 4
+  
+  
+- action: ADD
+  parentName: Bilentusiasm
+  name: Bil & fordonssamlingar
+  level: 4
+  
+  
+- action: ADD
+  parentName: Bilvård & rekond
+  name: Tvätt & rengöringstillbehör
+  level: 4
+  
+  
+- action: ADD
+  parentName: Styrketräning
+  name: Hantlar & vikter
+  level: 4
+  
+  
+- action: ADD
+  parentName: Styrketräning
+  name: Gym
+  level: 4
+  
+  
+- action: ADD
+  parentName: Konditionsträning
+  name: Jogging
+  level: 4
+  
+  
+- action: ADD
+  parentName: Konditionsträning
+  name: Löpning
+  level: 4
+  
+  
+- action: ADD
+  parentName: Konditionsträning
+  name: Powerwalk
+  level: 4
+  
+  
+- action: ADD
+  parentName: Övriga träningsformer
+  name: Cross fit
+  level: 4
+  
+  
+- action: ADD
+  parentName: Övriga träningsformer
+  name: Motionssimning
+  level: 4
+  
+  
+- action: ADD
+  parentName: Övriga träningsformer
+  name: Bodypump
+  level: 4
+  
+  
+- action: ADD
+  parentName: Restyper
+  name: Sverigeresa
+  level: 4
+  
+  
+- action: ADD
+  parentName: Restyper
+  name: Utlandsboende 
+  level: 4
+  
+  
+- action: ADD
+  parentName: Restyper
+  name: Äventyrsresa
+  level: 4
+  
+  
+- action: ADD
+  parentName: Restyper
+  name: Familjeresa
+  level: 4
+  
+  
+- action: ADD
+  parentName: Restyper
+  name: Sol- & badresa
+  level: 4
+  
+  
+- action: ADD
+  parentName: Restyper
+  name: Sommarresa
+  level: 4
+  
+  
+- action: ADD
+  parentName: Restyper
+  name: Kryssning 
+  level: 4
+  
+  
+- action: ADD
+  parentName: Restyper
+  name: Smekmånad
+  level: 4
+  
+  
+- action: ADD
+  parentName: Restyper
+  name: Alpin- & fjällresa
+  level: 4
+  
+  
+- action: ADD
+  parentName: Restyper
+  name: Charterresa
+  level: 4
+  
+  
+- action: ADD
+  parentName: Restyper
+  name: Mat- & vinresa
+  level: 4
+  
+  
+- action: ADD
+  parentName: Restyper
+  name: Weekend-resa
+  level: 4
+  
+  
+- action: ADD
+  parentName: Restyper
+  name: Långresa
+  level: 4
+  
+  
+- action: ADD
+  parentName: Restyper
+  name: Jorden runt-resa
+  level: 4
+  
+  
+- action: ADD
+  parentName: Restyper
+  name: Campingresa
+  level: 4
+  
+  
+- action: ADD
+  parentName: Restyper
+  name: Julresa
+  level: 4
+  
+  
+- action: ADD
+  parentName: Restyper
+  name: Gruppresa
+  level: 4
+  
+  
+- action: ADD
+  parentName: Restyper
+  name: Båtluff
+  level: 4
+  
+  
+- action: ADD
+  parentName: Restyper
+  name: Tågluff
+  level: 4
+  
+  
+- action: ADD
+  parentName: Restyper
+  name: Idrottsresa
+  level: 4
+  
+  
+- action: ADD
+  parentName: Restyper
+  name: Paketresa
+  level: 4
+  
+  
+- action: ADD
+  parentName: Restyper
+  name: Hälsoresa
+  level: 4
+  
+  
+- action: ADD
+  parentName: Restyper
+  name: Golfresa
+  level: 4
+  
+  
+- action: ADD
+  parentName: Restyper
+  name: Bilsemester
+  level: 4
+  
+  
+- action: ADD
+  parentName: Restyper
+  name: Träningsresa
+  level: 4
+  
+  
+- action: ADD
+  parentName: Restyper
+  name: Friluftsresa
+  level: 4
+  
+  
+- action: ADD
+  parentName: Restyper
+  name: Fyndresa
+  level: 4
+  
+  
+- action: ADD
+  parentName: Boende på resmål
+  name: Vandrarhem 
+  level: 4
+  
+  
+- action: ADD
+  parentName: Boende på resmål
+  name: Hotell
+  level: 4
+  
+  
+- action: ADD
+  parentName: Boende på resmål
+  name: Hyra lägenhet
+  level: 4
+  
+  
+- action: ADD
+  parentName: Boende på resmål
+  name: Hostel
+  level: 4
+  
+  
+- action: ADD
+  parentName: Sevärdheter
+  name: Djurparker
+  level: 4
+  
+  
+- action: ADD
+  parentName: Sevärdheter
+  name: Nationalparker
+  level: 4
+  
+  
+- action: ADD
+  parentName: Badplatser, stränder & pooler
+  name: Vattenland & äventyrsbad
+  level: 4
+  
+  
+- action: ADD
+  parentName: Sprit
+  name: Rom 
+  level: 4
+  
+  
+- action: ADD
+  parentName: Sprit
+  name: Whisky
+  level: 4
+  
+  
+- action: ADD
+  parentName: Sprit
+  name: Cognac
+  level: 4
+  
+  
+- action: ADD
+  parentName: Sprit
+  name: Vodka 
+  level: 4
+  
+  
+- action: ADD
+  parentName: Sprit
+  name: Punsch
+  level: 4
+  
+  
+- action: ADD
+  parentName: Sprit
+  name: Absint
+  level: 4
+  
+  
+- action: ADD
+  parentName: Sprit
+  name: Gin
+  level: 4
+  
+  
+- action: ADD
+  parentName: Sprit
+  name: Calvados
+  level: 4
+  
+  
+- action: ADD
+  parentName: Sprit
+  name: Bourbon
+  level: 4
+  
+  
+- action: ADD
+  parentName: Sprit
+  name: Tequila
+  level: 4
+  
+  
+- action: ADD
+  parentName: Sprit
+  name: Brandy
+  level: 4
+  
+  
+- action: ADD
+  parentName: Sprit
+  name: Kryddad sprit 
+  level: 4
+  
+  
+- action: ADD
+  parentName: Starkvin
+  name: Vermouth
+  level: 4
+  
+  
+- action: ADD
+  parentName: Starkvin
+  name: Portvin
+  level: 4
+  
+  
+- action: ADD
+  parentName: Starkvin
+  name: Sherry
+  level: 4
+  
+  
+- action: ADD
+  parentName: Drinkar
+  name: Fördrinkar
+  level: 4
+  
+  
+- action: ADD
+  parentName: Drinkar
+  name: Välkomstdrinkar
+  level: 4
+  
+  
+- action: ADD
+  parentName: Drinkar
+  name: Nyårsdrinkar
+  level: 4
+  
+  
+- action: ADD
+  parentName: Drinkar
+  name: Alkoholfria drinkar
+  level: 4
+  
+  
+- action: ADD
+  parentName: Mousserande vin & bubbel
+  name: Crémant
+  level: 4
+  
+  
+- action: ADD
+  parentName: Mousserande vin & bubbel
+  name: Procecco 
+  level: 4
+  
+  
+- action: ADD
+  parentName: Mousserande vin & bubbel
+  name: Cava
+  level: 4
+  
+  
+- action: ADD
+  parentName: Öl
+  name: Påsköl
+  level: 4
+  
+  
+- action: ADD
+  parentName: Öl
+  name: Oktoberöl
+  level: 4
+  
+  
+- action: ADD
+  parentName: Öl
+  name: Julöl
+  level: 4
+  
+  
+- action: ADD
+  parentName: Övrig dryck
+  name: Saft
+  level: 4
+  
+  
+- action: ADD
+  parentName: Övrig dryck
+  name: Lemonad
+  level: 4
+  
+  
+- action: ADD
+  parentName: Övrig dryck
+  name: Mineralvatten 
+  level: 4
+  
+  
+- action: ADD
+  parentName: Övrig dryck
+  name: Läsk
+  level: 4
+  
+  
+- action: ADD
+  parentName: Kött & styckningsdetaljer 
+  name: Lamm
+  level: 4
+  
+  
+- action: ADD
+  parentName: Kött & styckningsdetaljer 
+  name: Viltkött
+  level: 4
+  
+  
+- action: ADD
+  parentName: Kött & styckningsdetaljer 
+  name: Kalv
+  level: 4
+  
+  
+- action: ADD
+  parentName: Kött & styckningsdetaljer 
+  name: Nötkött
+  level: 4
+  
+  
+- action: ADD
+  parentName: Kött & styckningsdetaljer 
+  name: Fläskkött
+  level: 4
+  
+  
+- action: ADD
+  parentName: Kött & styckningsdetaljer 
+  name: Färs
+  level: 4
+  
+  
+- action: ADD
+  parentName: Kött & styckningsdetaljer 
+  name: Korv & chark 
+  level: 4
+  
+  
+- action: ADD
+  parentName: Kött & styckningsdetaljer 
+  name: Kyckling & fågel 
+  level: 4
+  
+  
+- action: ADD
+  parentName: Övriga tillagningstekniker
+  name: Rökning
+  level: 4
+  
+  
+- action: ADD
+  parentName: Övriga tillagningstekniker
+  name: Inläggningar
+  level: 4
+  
+  
+- action: ADD
+  parentName: Övriga tillagningstekniker
+  name: Safta & sylta
+  level: 4
+  
+  
+- action: ADD
+  parentName: Övriga tillagningstekniker
+  name: Fermentering
+  level: 4
+  
+  
+- action: ADD
+  parentName: Måltidstyper 
+  name: Brunch & frukost
+  level: 4
+  
+  
+- action: ADD
+  parentName: Måltidstyper 
+  name: Lunch
+  level: 4
+  
+  
+- action: ADD
+  parentName: Måltidstyper 
+  name: Mellanmål
+  level: 4
+  
+  
+- action: ADD
+  parentName: Måltidstyper 
+  name: Middag
+  level: 4
+  
+  
+- action: ADD
+  parentName: Mat för allergiker
+  name: Glutenfritt
+  level: 4
+  
+  
+- action: ADD
+  parentName: Mat för allergiker
+  name: Laktosfritt
+  level: 4
+  
+  
+- action: ADD
+  parentName: Fisk & fiskrätter
+  name: Lax
+  level: 4
+  
+  
+- action: ADD
+  parentName: Fisk & fiskrätter
+  name: Strömming
+  level: 4
+  
+  
+- action: ADD
+  parentName: Fisk & fiskrätter
+  name: Sill 
+  level: 4
+  
+  
+- action: ADD
+  parentName: Fisk & fiskrätter
+  name: Spätta
+  level: 4
+  
+  
+- action: ADD
+  parentName: Fisk & fiskrätter
+  name: Torsk
+  level: 4
+  
+  
+- action: ADD
+  parentName: Fisk & fiskrätter
+  name: Flundra
+  level: 4
+  
+  
+- action: ADD
+  parentName: Fisk & fiskrätter
+  name: Röding 
+  level: 4
+  
+  
+- action: ADD
+  parentName: Fisk & fiskrätter
+  name: Tonfisk
+  level: 4
+  
+  
+- action: ADD
+  parentName: Fisk & fiskrätter
+  name: Gös
+  level: 4
+  
+  
+- action: ADD
+  parentName: Fisk & fiskrätter
+  name: Kolja
+  level: 4
+  
+  
+- action: ADD
+  parentName: Fisk & fiskrätter
+  name: Sej
+  level: 4
+  
+  
+- action: ADD
+  parentName: Mat under fest, högtid & helg
+  name: Festmat
+  level: 4
+  
+  
+- action: ADD
+  parentName: Mat under fest, högtid & helg
+  name: Julmat
+  level: 4
+  
+  
+- action: ADD
+  parentName: Mat under fest, högtid & helg
+  name: Fredagsmiddag
+  level: 4
+  
+  
+- action: ADD
+  parentName: Mat under fest, högtid & helg
+  name: Påskmat
+  level: 4
+  
+  
+- action: ADD
+  parentName: Mat under fest, högtid & helg
+  name: Midsommarmat
+  level: 4
+  
+  
+- action: ADD
+  parentName: Mat under fest, högtid & helg
+  name: Kräftor & Kräftskiva
+  level: 4
+  
+  
+- action: ADD
+  parentName: Mat under fest, högtid & helg
+  name: Buffémat
+  level: 4
+  
+  
+- action: ADD
+  parentName: Mat under fest, högtid & helg
+  name: Snittar
+  level: 4
+  
+  
+- action: ADD
+  parentName: Mat under fest, högtid & helg
+  name: Bröllopsmat
+  level: 4
+  
+  
+- action: ADD
+  parentName: Mat under fest, högtid & helg
+  name: Tapas
+  level: 4
+  
+  
+- action: ADD
+  parentName: Mat under fest, högtid & helg
+  name: Gourmét och lyx
+  level: 4
+  
+  
+- action: ADD
+  parentName: Mat under fest, högtid & helg
+  name: Nyårsmiddag
+  level: 4
+  
+  
+- action: ADD
+  parentName: Klassisk mat & husman
+  name: Gratänger
+  level: 4
+  
+  
+- action: ADD
+  parentName: Klassisk mat & husman
+  name: Grytor
+  level: 4
+  
+  
+- action: ADD
+  parentName: Klassisk mat & husman
+  name: Soppor
+  level: 4
+  
+  
+- action: ADD
+  parentName: Klassisk mat & husman
+  name: Matpajer
+  level: 4
+  
+  
+- action: ADD
+  parentName: Mexikansk mat
+  name: Texmex & tacos
+  level: 4
+  
+  
+- action: ADD
+  parentName: Italiensk mat
+  name: Pizza
+  level: 4
+  
+  
+- action: ADD
+  parentName: Italiensk mat
+  name: Pasta
+  level: 4
+  
+  
+- action: ADD
+  parentName: Asiatisk mat
+  name: Indisk mat
+  level: 4
+  
+  
+- action: ADD
+  parentName: Asiatisk mat
+  name: Japansk- & koreansk mat
+  level: 4
+  
+  
+- action: ADD
+  parentName: Asiatisk mat
+  name: Thailändsk mat
+  level: 4
+  
+  
+- action: ADD
+  parentName: Asiatisk mat
+  name: Vietnamesisk mat
+  level: 4
+  
+  
+- action: ADD
+  parentName: Amerikansk mat
+  name: Hamburgare
+  level: 4
+  
+  
+- action: ADD
+  parentName: Afrikansk mat
+  name: Nordafrikansk mat
+  level: 4
+  
+  
+- action: ADD
+  parentName: Bröd & matbröd 
+  name: Frallor
+  level: 4
+  
+  
+- action: ADD
+  parentName: Bröd & matbröd 
+  name: Baguetter
+  level: 4
+  
+  
+- action: ADD
+  parentName: Bröd & matbröd 
+  name: Surdegsbröd
+  level: 4
+  
+  
+- action: ADD
+  parentName: Bröd & matbröd 
+  name: Limpor
+  level: 4
+  
+  
+- action: ADD
+  parentName: Landresurser 
+  name: Skog
+  level: 4
+  
+  
+- action: ADD
+  parentName: Landresurser 
+  name: Berg
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-WUU-JZK-FBC
+  parentName: Smittsamma sjukdomar
+  name: Könssjukdomar
+  level: 4
+  
+  
+- action: ADD
+  parentName: Neurologiska sjukdomar
+  name: ALS
+  level: 4
+  
+  
+- action: ADD
+  parentName: Neurologiska sjukdomar
+  name: CP
+  level: 4
+  
+  
+- action: ADD
+  parentName: Neurologiska sjukdomar
+  name: MS
+  level: 4
+  
+  
+- action: ADD
+  parentName: Neurologiska sjukdomar
+  name: Narkolepsi 
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-WUU-JZK-TAC
+  parentName: Funktionsnedsättningar
+  name: ADHD
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-WUU-JZK-TAC
+  parentName: Funktionsnedsättningar
+  name: Downs syndrom
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-WUU-JZK-TAC
+  parentName: Funktionsnedsättningar
+  name: ADD
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-WUU-JZK-TAC
+  parentName: Funktionsnedsättningar
+  name: Synnedsättning
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-WUU-JZK-TAC
+  parentName: Funktionsnedsättningar
+  name: Aspergers
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-WUU-JZK-TAC
+  parentName: Funktionsnedsättningar
+  name: Hörselnedsättning
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-WUU-JZK-TAC
+  parentName: Funktionsnedsättningar
+  name: Autism
+  level: 4
+  
+  
+- action: ADD
+  parentName: Hormonsjukdomar
+  name: Sköldkörtelsjukdom
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-WUU-JZK-PFT
+  parentName: Fysisk skada
+  name: Idrottsskada
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-WUU-JZK-PFT
+  parentName: Fysisk skada
+  name: Förslitningsskada
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-WUU-JZK-PFT
+  parentName: Fysisk skada
+  name: Förlossningsskador
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-WUU-JZK-PFT
+  parentName: Fysisk skada
+  name: Värk & Smärta
+  level: 4
+  
+  
+- action: ADD
+  parentName: Bett, stick & löss
+  name: Fästingbett
+  level: 4
+  
+  
+- action: ADD
+  parentName: Bett, stick & löss
+  name: Insektsbett
+  level: 4
+  
+  
+- action: ADD
+  parentName: Bett, stick & löss
+  name: Huvudlöss
+  level: 4
+  
+  
+- action: ADD
+  parentName: Bett, stick & löss
+  name: Getingstick
+  level: 4
+  
+  
+- action: ADD
+  parentName: Mag- och tarmsjukdomar
+  name: Crohns sjukdom
+  level: 4
+  
+  
+- action: ADD
+  parentName: Mag- och tarmsjukdomar
+  name: IBS
+  level: 4
+  
+  
+- action: ADD
+  parentName: Barnsjukdomar & åkommor
+  name: Krupp
+  level: 4
+  
+  
+- action: ADD
+  parentName: Barnsjukdomar & åkommor
+  name: Sharlakansfeber
+  level: 4
+  
+  
+- action: ADD
+  parentName: Barnsjukdomar & åkommor
+  name: Höftledsluxation
+  level: 4
+  
+  
+- action: ADD
+  parentName: Demenssjukdomar
+  name: Alzheimers
+  level: 4
+  
+  
+- action: ADD
+  parentName: Luftvägssjukdomar
+  name: Bronkit
+  level: 4
+  
+  
+- action: ADD
+  parentName: Luftvägssjukdomar
+  name: Astma
+  level: 4
+  
+  
+- action: ADD
+  parentName: Infektionssjukdomar
+  name: Tuberkulos
+  level: 4
+  
+  
+- action: ADD
+  parentName: Infektionssjukdomar
+  name: Kolera
+  level: 4
+  
+  
+- action: ADD
+  parentName: Infektionssjukdomar
+  name: Pest
+  level: 4
+  
+  
+- action: ADD
+  parentName: Infektionssjukdomar
+  name: Mjältbrand
+  level: 4
+  
+  
+- action: ADD
+  parentName: Infektionssjukdomar
+  name: Urinvägsinfektion
+  level: 4
+  
+  
+- action: ADD
+  parentName: Kroniska sjukdomar
+  name: Diabetes
+  level: 4
+  
+  
+- action: ADD
+  parentName: Gravidåkommor
+  name: Illamående
+  level: 4
+  
+  
+- action: ADD
+  parentName: Gravidåkommor
+  name: Värkar
+  level: 4
+  
+  
+- action: ADD
+  parentName: Gravidåkommor
+  name: Förvärkar
+  level: 4
+  
+  
+- action: ADD
+  parentName: Gravidåkommor
+  name: Bristningar
+  level: 4
+  
+  
+- action: ADD
+  parentName: Gravidåkommor
+  name: Mjölkstockning
+  level: 4
+  
+  
+- action: ADD
+  parentName: Gravidåkommor
+  name: Förlossningsrädsla
+  level: 4
+  
+  
+- action: ADD
+  parentName: Gravidåkommor
+  name: Blödningar & flytningar
+  level: 4
+  
+  
+- action: ADD
+  parentName: Gravidåkommor
+  name: Foglossning
+  level: 4
+  
+  
+- action: ADD
+  parentName: Gynekologiska sjukdomar
+  name: Endometriosis
+  level: 4
+  
+  
+- action: ADD
+  parentName: Hudutslag & prickar
+  name: Mollusker
+  level: 4
+  
+  
+- action: ADD
+  parentName: Hudsjukdomar
+  name: Psoriasis
+  level: 4
+  
+  
+- action: ADD
+  parentName: Hudsjukdomar
+  name: Eksem
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-WUU-JZK-YIA
+  parentName: Cancer
+  name: Lungcancer
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-WUU-JZK-YIA
+  parentName: Cancer
+  name: Malignt melanom
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-WUU-JZK-YIA
+  parentName: Cancer
+  name: Prostatacancer
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-WUU-JZK-YIA
+  parentName: Cancer
+  name: Tjocktarmscancer
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-WUU-JZK-YIA
+  parentName: Cancer
+  name: Hudcancer
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-WUU-JZK-YIA
+  parentName: Cancer
+  name: Bröstcancer
+  level: 4
+  
+  
+- action: ADD
+  parentName: Inflammationer
+  name: Njurbäckeninflammation
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-WUU-JZK-YMA
+  parentName: Hjärt- & kärlsjukdomar
+  name: Hjärtinfarkt 
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-WUU-JZK-YMA
+  parentName: Hjärt- & kärlsjukdomar
+  name: Stroke
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-WUU-JZK-YSP
+  parentName: Psykisk ohälsa
+  name: Utmattningssyndrom
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-WUU-JZK-YSP
+  parentName: Psykisk ohälsa
+  name: Stress
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-WUU-JZK-YSP
+  parentName: Psykisk ohälsa
+  name: PTSD
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-WUU-JZK-YSP
+  parentName: Psykisk ohälsa
+  name: Ångest & oro
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-WUU-JZK-YSP
+  parentName: Psykisk ohälsa
+  name: Trötthet
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-WUU-JZK-YSP
+  parentName: Psykisk ohälsa
+  name: Tvångssyndrom (OCD)
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-WUU-JZK-YSP
+  parentName: Psykisk ohälsa
+  name: Sömn- & sovstörningar
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-WUU-JZK-YSP
+  parentName: Psykisk ohälsa
+  name: Schizofreni
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-WUU-JZK-YSP
+  parentName: Psykisk ohälsa
+  name: Bipolär sjukdom
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-WUU-JZK-YSP
+  parentName: Psykisk ohälsa
+  name: Depression 
+  level: 4
+  
+  
+- action: ADD
+  parentName: Solrelaterade sjukdomar & åkommor
+  name: Soleksem
+  level: 4
+  
+  
+- action: ADD
+  parentName: Solrelaterade sjukdomar & åkommor
+  name: Solbränna 
+  level: 4
+  
+  
+- action: ADD
+  parentName: Solrelaterade sjukdomar & åkommor
+  name: Brännskador 
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-WUU-QNB-LKJ
+  parentName: Mediciner
+  name: Smärtlindrande medicin & behandling
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-WUU-SUX-APJ
+  parentName: Specialistvård
+  name: Rehabilitering
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-WUU-SUX-APJ
+  parentName: Specialistvård
+  name: Öronsjukvård
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-WUU-SUX-APJ
+  parentName: Specialistvård
+  name: Förlossningsvård
+  level: 4
+  
+  
+- action: ADD
+  parentName: Tobak & nikotin
+  name: Snusa
+  level: 4
+  
+  
+- action: ADD
+  parentName: Tobak & nikotin
+  name: Rökning
+  level: 4
+  
+  
+- action: ADD
+  parentName: Musik
+  name: Sånger & visor
+  level: 4
+  
+  
+- action: ADD
+  parentName: Musik
+  name: Musikunderhållningsevenemang
+  level: 4
+  
+  
+- action: ADD
+  parentName: Övriga underhållningsevenemang
+  name: Galor & pristävlingar
+  level: 4
+  
+  
+- action: ADD
+  parentName: Övriga underhållningsevenemang
+  name: Skönhetstävlingar
+  level: 4
+  
+  
+- action: ADD
+  parentName: Film
+  name: Filmfestivaler
+  level: 4
+  
+  
+- action: ADD
+  parentName: Nöjespersonligheter
+  name: Komiker 
+  level: 4
+  
+  
+- action: ADD
+  parentName: Nöjespersonligheter
+  name: Artister 
+  level: 4
+  
+  
+- action: ADD
+  parentName: Nöjespersonligheter
+  name: Skådespelare
+  level: 4
+  
+  
+- action: ADD
+  parentName: Nöjespersonligheter
+  name: TV-sportprofiler
+  level: 4
+  
+  
+- action: ADD
+  parentName: Nöjespersonligheter
+  name: Kungligheter
+  level: 4
+  
+  
+- action: ADD
+  parentName: Nöjespersonligheter
+  name: Gage & löner
+  level: 4
+  
+  
+- action: ADD
+  parentName: Visuella konstformer
+  name: Design
+  level: 4
+  
+  
+- action: ADD
+  parentName: Litteratur
+  name: Drama
+  level: 4
+  
+  
+- action: ADD
+  parentName: Litteratur
+  name: Barnböcker
+  level: 4
+  
+  
+- action: ADD
+  parentName: Litteratur
+  name: Författare
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-XKI-BUS-NYP
+  parentName: Underhållningsprogram
+  name: Frågesportsprogram
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-XKI-BUS-NYP
+  parentName: Underhållningsprogram
+  name: Matlagningsprogram
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-XKI-BUS-NYP
+  parentName: Underhållningsprogram
+  name: Talkshow
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-XKI-BUS-NYP
+  parentName: Underhållningsprogram
+  name: Inredningsprogram
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-XKI-BUS-NYP
+  parentName: Underhållningsprogram
+  name: Barnprogram
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-XKI-BUS-TVB
+  parentName: Journalistik
+  name: Nyhetsprogram 
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-XKI-BUS-TVB
+  parentName: Journalistik
+  name: Filmrecensioner
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-XKI-BUS-TVB
+  parentName: Journalistik
+  name: Kulturjournalistik 
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-XKI-BUS-TVB
+  parentName: Journalistik
+  name: Musikrecensioner
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-XKI-BUS-TVB
+  parentName: Journalistik
+  name: Tv-recensioner
+  level: 4
+  
+  
+- action: ADD
+  parentName: Kulturella byggnader
+  name: Slott
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-YDR-MHH-DJZ
+  parentName: Förskola
+  name: Förskolestart
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-YDR-MHH-IRE
+  parentName: Grundskola
+  name: Lågstadiet
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-YDR-MHH-IRE
+  parentName: Grundskola
+  name: Mellanstadiet
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-YDR-MHH-IRE
+  parentName: Grundskola
+  name: Högstadiet
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-YDR-MHH-IRE
+  parentName: Grundskola
+  name: Skolstart
+  level: 4
+  
+  
+- action: ADD
+  parentName: Friskvård
+  name: Friskvårdsbidrag
+  level: 4
+  
+  
+- action: UPDATE
+  name: Kläder
+  newName: Klädhandel 
+  
+  
+- action: UPDATE
+  name: Fordonstillverkning
+  newName: Fordonstillverkning & bilindustri
+  
+  
+- action: UPDATE
+  name: Budget
+  newName: Statsbudget & budgetarbete
+  description: Styrdokument för utgifter och investeringar ett styre skall göra under en period och hur de skall finansieras av lån eller skatt
+  
+  
+- action: UPDATE
+  name: Smink
+  newName: Smink & make up
+  
+  
+- action: UPDATE
+  name: Hårmode
+  newName: Hår & hårmode
+  
+  
+- action: UPDATE
+  name: Kläder & skor
+  newName: Övriga kläder & klädprodukter

@@ -29,7 +29,7 @@ mod_file_path = 'src/mods'
 def load_category_file(file_path):
     global version
     with open(file_path, 'r', encoding='utf-8') as categories_file:
-        categories_dict = yaml.load(categories_file)
+        categories_dict = yaml.safe_load(categories_file)
 
     categories = {}
 

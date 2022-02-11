@@ -1,0 +1,495 @@
+modifications:
+  
+- action: ADD
+  parentCode: RYF-BIZ
+  parentName: Brott & straff
+  name: Brottsbekämpning 
+  level: 2
+  
+  
+- action: ADD
+  parentCode: RYF-CUW
+  parentName: Personligt
+  name: Småbarnsförälder
+  level: 2
+  
+  
+- action: ADD
+  parentCode: RYF-CUW
+  parentName: Personligt
+  name: Livskris
+  level: 2
+  
+  
+- action: ADD
+  parentCode: RYF-CUW
+  parentName: Personligt
+  name: Åldrande
+  level: 2
+  
+  
+- action: ADD
+  parentCode: RYF-CUW
+  parentName: Personligt
+  name: Karriär
+  level: 2
+  
+  
+- action: ADD
+  parentCode: RYF-CUW
+  parentName: Personligt
+  name: Kärlek & relationer
+  level: 2
+  
+  
+- action: ADD
+  parentCode: RYF-CUW
+  parentName: Personligt
+  name: Vänskap & relationer
+  level: 2
+  
+  
+- action: ADD
+  parentCode: RYF-CUW
+  parentName: Personligt
+  name: Självkänsla & självförtroende
+  level: 2
+  
+  
+- action: ADD
+  parentCode: RYF-CUW
+  parentName: Personligt
+  name: Bråk & osämja
+  level: 2
+  
+  
+- action: ADD
+  parentCode: RYF-CUW
+  parentName: Personligt
+  name: Temadagar
+  level: 2
+  
+  
+- action: ADD
+  parentCode: RYF-EOI
+  parentName: Vetenskap & teknologi
+  name: Forskningsinstitutioner
+  level: 2
+  
+  
+- action: ADD
+  parentCode: RYF-HPT
+  parentName: Samhälle & välfärd
+  name: Gemenskaper 
+  level: 2
+  
+  
+- action: ADD
+  parentCode: RYF-HPT
+  parentName: Samhälle & välfärd
+  name: Sociala situationer
+  level: 2
+  
+  
+- action: ADD
+  parentCode: RYF-ITV
+  parentName: Religion & tro
+  name: Religiösa ledare
+  level: 2
+  
+  
+- action: ADD
+  parentCode: RYF-ITV
+  parentName: Religion & tro
+  name: Religiösa institutioner 
+  level: 2
+  
+  
+- action: ADD
+  parentCode: RYF-ITV
+  parentName: Religion & tro
+  name: Astrologi
+  level: 2
+  
+  
+- action: ADD
+  parentCode: RYF-KNI
+  parentName: Politik
+  name: Utrikespolitik
+  level: 2
+  
+  
+- action: ADD
+  parentCode: RYF-KNI
+  parentName: Politik
+  name: Politisk påverkan 
+  level: 2
+  
+  
+- action: ADD
+  parentCode: RYF-KNI
+  parentName: Politik
+  name: Regeringsfrågor
+  level: 2
+  
+  
+- action: ADD
+  parentCode: RYF-KNI
+  parentName: Politik
+  name: Kungahuset
+  level: 2
+  
+  
+- action: ADD
+  parentCode: RYF-KNI
+  parentName: Politik
+  name: Politiska ideologier
+  level: 2
+  
+  
+- action: ADD
+  parentCode: RYF-KNI
+  parentName: Politik
+  name: Extrema organisationer
+  level: 2
+  
+  
+- action: ADD
+  parentCode: RYF-KNI
+  parentName: Politik
+  name: Icke-statliga organisationer
+  level: 2
+  
+  
+- action: ADD
+  parentCode: RYF-QPR
+  parentName: Sport
+  name: Tips & odds
+  level: 2
+  
+  
+- action: ADD
+  parentCode: RYF-QPR
+  parentName: Sport
+  name: Målservice
+  level: 2
+  
+  
+- action: ADD
+  parentCode: RYF-QPR
+  parentName: Sport
+  name: Idrottsmedicin
+  level: 2
+  
+  
+- action: ADD
+  parentCode: RYF-QPR
+  parentName: Sport
+  name: Idrottsorganisationer
+  level: 2
+  
+  
+- action: ADD
+  parentCode: RYF-QPR
+  parentName: Sport
+  name: Huliganism & Idrottsvåld
+  level: 2
+  
+  
+- action: ADD
+  parentCode: RYF-QPR
+  parentName: Sport
+  name: Supporterföreningar
+  level: 2
+  
+  
+- action: ADD
+  parentCode: RYF-TKT
+  parentName: Livsstil & fritid
+  name: Fritid 
+  level: 2
+  
+  
+- action: ADD
+  parentCode: RYF-TKT
+  parentName: Livsstil & fritid
+  name: Livsstil
+  level: 2
+  
+  
+- action: ADD
+  parentCode: RYF-TKT
+  parentName: Livsstil & fritid
+  name: Hobby
+  level: 2
+  
+  
+- action: ADD
+  parentCode: RYF-TKT
+  parentName: Livsstil & fritid
+  name: Hus- & boendetyper
+  level: 2
+  
+  
+- action: ADD
+  parentCode: RYF-TKT
+  parentName: Livsstil & fritid
+  name: Frukt, bär & grönt
+  level: 2
+  
+  
+- action: ADD
+  parentCode: RYF-TKT
+  parentName: Livsstil & fritid
+  name: Köksredskap & köksutrustning
+  level: 2
+  
+  
+- action: ADD
+  parentCode: RYF-TKT
+  parentName: Livsstil & fritid
+  name: Tilltugg & snacks
+  level: 2
+  
+  
+- action: ADD
+  parentCode: RYF-TKT
+  parentName: Livsstil & fritid
+  name: Godis & sötsaker
+  level: 2
+  
+  
+- action: ADD
+  parentCode: RYF-VHD
+  parentName: Klimat & miljö
+  name: Naturresurser 
+  level: 2
+  
+  
+- action: ADD
+  parentCode: RYF-WHZ
+  parentName: Väder
+  name: Extremväder
+  level: 2
+  
+  
+- action: ADD
+  parentCode: RYF-WUU
+  parentName: Hälsa & sjukvård
+  name: Vårdinrättningar
+  level: 2
+  
+  
+- action: ADD
+  parentCode: RYF-WUU
+  parentName: Hälsa & sjukvård
+  name: Icke mänskliga sjukdomar
+  level: 2
+  
+  
+- action: ADD
+  parentCode: RYF-WUU
+  parentName: Hälsa & sjukvård
+  name: Beroenden & beroendesjukdomar
+  level: 2
+  
+  
+- action: ADD
+  parentCode: RYF-WXT
+  parentName: Konflikter, krig & terrorism
+  name: Militär intervention
+  level: 2
+  
+  
+- action: ADD
+  parentCode: RYF-XKI
+  parentName: Kultur & nöje
+  name: Konstformer & underhållning
+  level: 2
+  
+  
+- action: ADD
+  parentCode: RYF-XKI
+  parentName: Kultur & nöje
+  name: Kultur
+  level: 2
+  
+  
+- action: ADD
+  parentCode: RYF-YDR
+  parentName: Skola & utbildning
+  name: Religiös utbildning
+  level: 2
+  
+  
+- action: ADD
+  parentCode: RYF-YDR
+  parentName: Skola & utbildning
+  name: Mobbning i skolan
+  level: 2
+  
+  
+- action: ADD
+  parentCode: RYF-ZEI
+  parentName: Arbetsmarknad
+  name: Sjukskrivning
+  level: 2
+  
+  
+- action: ADD
+  parentCode: RYF-ZEI
+  parentName: Arbetsmarknad
+  name: Personal- & anställningsfrågor
+  level: 2
+  
+  
+- action: UPDATE
+  name: Akademisk forskning
+  newName: Vetenskaplig forskning
+  
+  
+- action: UPDATE
+  name: Moraliska frågor & tabubelagda ämnen
+  newName: Moraliska frågor & sociala värderingar
+  description: Frågor som rör moraliska frågor, eller frågor som är svåra att prata om
+  
+  
+- action: UPDATE
+  name: Ekonomi
+  newName: Samhällsekonomi
+  description: Artikel i en allmän karaktär om handel och ekonomi
+  
+  
+- action: UPDATE
+  name: Grundlagar
+  newName: Grundlagar & grundläggande rättigheter 
+  description: Använd för diskussioner om politiska debatter som rör Sveriges grundläggande lagar och rättigheter
+  
+  
+- action: UPDATE
+  name: Övergångar
+  newName: Transfermarknad & övergångar
+  description: Nyheter om spelare som byter lag eller byter klubb, eller rykten om detsamma
+  
+  
+- action: UPDATE
+  name: Hem & trädgård
+  newName: Hem
+  
+  
+- action: UPDATE
+  name: Beväpnade konflikter
+  newName: Väpnade konflikter
+  description: Tvister mellan motsatta grupper som innebär användning av vapen
+  
+  
+- action: UPDATE
+  name: Spel & dobbel
+  newName: Lotto & bingo 
+  
+  
+- action: UPDATE
+  name: Motion & hälsa
+  newName: Träning & hälsa
+  
+  
+- action: UPDATE
+  name: Bakning
+  newName: Bakning & bakverk
+  
+  
+- action: MOVE
+  code: RYF-IXA-LHV-QOI
+  parentCode: RYF-IXA
+  newParentName: Ekonomi, näringsliv & finans
+  name: Företagsekonomi
+  level: 2
+  
+  
+- action: MOVE
+  code: RYF-IXA-QED-UGD
+  parentCode: RYF-IXA
+  newParentName: Ekonomi, näringsliv & finans
+  name: Privatekonomi
+  level: 2
+  
+  
+- action: MOVE
+  code: RYF-KNI-OHT
+  parentCode: RYF-KNI
+  newParentName: Politik
+  name: Politiska processen
+  level: 2
+  
+  
+- action: MOVE
+  code: RYF-KNI-RLW-XJQ
+  parentCode: RYF-KNI
+  newParentName: Politik
+  name: Riksdagsfrågor
+  level: 2
+  
+  
+- action: MOVE
+  code: RYF-TKT-AGB-OKN
+  parentCode: RYF-TKT
+  newParentName: Livsstil & fritid
+  name: Trädgård
+  level: 2
+  
+  
+- action: MOVE
+  code: RYF-TKT-BIY
+  parentCode: RYF-TKT
+  newParentName: Livsstil & fritid
+  name: Lotto & bingo 
+  level: 2
+  
+  
+- action: MOVE
+  code: RYF-TKT-YIG
+  parentCode: RYF-TKT
+  newParentName: Livsstil & fritid
+  name: Träning & hälsa
+  level: 2
+  
+  
+- action: MOVE
+  code: RYF-TKT-ZWD
+  parentCode: RYF-TKT
+  newParentName: Livsstil & fritid
+  name: Resa
+  level: 2
+  
+  
+- action: MOVE
+  code: RYF-TKT-ESN-JPB
+  parentCode: RYF-TKT
+  newParentName: Livsstil & fritid
+  name: Dryck
+  level: 2
+  
+  
+- action: MOVE
+  code: RYF-TKT-ESN-QBA
+  parentCode: RYF-TKT
+  newParentName: Livsstil & fritid
+  name: Mat
+  level: 2
+  
+  
+- action: MOVE
+  code: RYF-TKT-ESN-XAE
+  parentCode: RYF-TKT
+  newParentName: Livsstil & fritid
+  name: Bakning & bakverk
+  level: 2
+  
+  
+- action: MOVE
+  code: RYF-WXT-CRN-NNP
+  parentCode: RYF-WXT
+  newParentName: Konflikter, krig & terrorism
+  name: Krig
+  level: 2
+  
