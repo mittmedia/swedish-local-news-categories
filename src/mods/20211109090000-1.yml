@@ -87,13 +87,7 @@ modifications:
   name: Nyanställning
   level: 2
  
-- action: ADD
-  parentCode: RYF-ZEI-XXXX # Kod för Nyanställning ovan
-  parentName: Nyanställning
-  name: Rekrytering
-  level: 3
- 
- 
+
  
  
  
@@ -104,25 +98,7 @@ modifications:
   name: Fastighetsbranschen
   level: 3
   
-- action: ADD
-  parentCode: RYF-IXA-KEV-XXXX # Kod för Fastighetsbranschen ovan
-  parentName: Fastighetsbranschen
-  name: Fastighetsförvaltning
-  level: 4
-  
-- action: ADD
-  parentCode: RYF-IXA-KEV-XXXX # Kod för Fastighetsbranschen ovan
-  parentName: Fastighetsbranschen
-  name: Fastighetsuthyrning
-  level: 4
-  
-- action: ADD
-  parentCode: RYF-IXA-KEV-XXXX # Kod för Fastighetsbranschen ovan
-  parentName: Fastighetsbranschen
-  name: Kontorsförvaltning
-  level: 4
-  
-  
+
   
   
 - action: ADD
@@ -131,19 +107,7 @@ modifications:
   name: Byggnadsbranschen
   level: 3
 
-- action: ADD
-  parentCode: RYF-IXA-KEV-XXXX # Kod för Byggnadsbranschen ovan
-  parentName: Byggnadsbranschen
-  name: Nyproduktion
-  level: 4
-  
-- action: MOVE
-  code: RYF-IXA-KEV-OTN-RBK
-  name: Renovering & restaurering
-  newParentCode: RYF-IXA-KEV-XXXX # Kod för Byggnadsbranschen ovan
-  newParentName: Byggnadsbranschen
-  
-  
+
   
   
 - action: MOVE
@@ -204,10 +168,10 @@ modifications:
   
   
  # Update först, sedan MOVE nedan
-- action: UPDATE
-  code: RYF-IXA-KEV-CYO
-  name: Flygtransporter
-  newName: Flygbranschen
+#- action: UPDATE
+#  code: RYF-IXA-KEV-CYO  # URBAN commented out, wrong code
+#  name: Flygtransporter
+#  newName: Flygbranschen
   
 - action: UPDATE
   code: RYF-IXA-KEV-VXX-SAU
@@ -226,34 +190,34 @@ modifications:
   
   
   
-- action: MOVE
-  code: RYF-IXA-KEV-CYO
-  name: Flygbranschen
-  newParentCode: RYF-IXA-KEV-CYO
-  newParentName: Logistikbranschen
+#- action: MOVE
+#  code: RYF-IXA-KEV-CYO
+#  name: Flygbranschen
+#  newParentCode: RYF-IXA-KEV-CYO URBAN
+#  newParentName: Logistikbranschen
   
-- action: MOVE
-  code: RYF-IXA-KEV-VXX-SAU
-  name: Järnvägsbranschen
-  newParentCode: RYF-IXA-KEV-CYO
-  newParentName: Logistikbranschen
+#- action: MOVE
+#  code: RYF-IXA-KEV-VXX-SAU
+#  name: Järnvägsbranschen
+#  newParentCode: RYF-IXA-KEV-CYO URBAN
+#  newParentName: Logistikbranschen
   
-- action: MOVE
-  code: RYF-IXA-KEV-VXX-TBB
-  name: Rederibranschen
-  newParentCode: RYF-IXA-KEV-CYO
-  newParentName: Logistikbranschen
+#- action: MOVE
+#  code: RYF-IXA-KEV-VXX-TBB
+#  name: Rederibranschen
+#  newParentCode: RYF-IXA-KEV-CYO URBAN
+#  newParentName: Logistikbranschen
   
-- action: MOVE
-  code: RYF-IXA-KEV-VXX-YRQ
-  name: Åkeribranschen
-  newParentCode: RYF-IXA-KEV-CYO
-  newParentName: Logistikbranschen
+#- action: MOVE
+#  code: RYF-IXA-KEV-VXX-YRQ
+#  name: Åkeribranschen
+#  newParentCode: RYF-IXA-KEV-CYO URBAN
+#  newParentName: Logistikbranschen
   
-- action: UPDATE
-  code: RYF-IXA-KEV-CYO
-  name: Logistikbranschen
-  newName: Logistik
+#- action: UPDATE
+#  code: RYF-IXA-KEV-CYO  URBAN
+#  name: Logistikbranschen
+#  newName: Logistik
   
   
   
@@ -273,23 +237,6 @@ modifications:
   name: Bostadspriser
   level: 3
   
-- action: ADD
-  parentCode: RYF-IXA-AOE-XXX # ID för bostadspriser ovan
-  parentName: Bostadspriser
-  name: Bostadsrättspriser
-  level: 4
-  
-- action: ADD
-  parentCode: RYF-IXA-AOE-XXX # ID för bostadspriser ovan
-  parentName: Bostadspriser
-  name: Fritidshuspriser
-  level: 4
-  
-- action: ADD
-  parentCode: RYF-IXA-AOE-XXX # ID för bostadspriser ovan
-  parentName: Bostadspriser
-  name: Villapriser
-  level: 4
 
 
 - action: ADD
@@ -393,12 +340,7 @@ modifications:
   name: Parker
   level: 4
   
-- action: ADD
-  parentCode: RYF-HPT-ZSS-HAB-XXX # ID för parker oavn
-  parentName: Parker
-  name: Lekparker
-  level: 5
-  
+
   
 
 - action: ADD
@@ -412,15 +354,7 @@ modifications:
   name: Pantbrev & lagfart
   newName: Lagfart
   
-- action: MOVE
-  code: RYF-IXA-AOE-CYP-TSE-XQB
-  name: Lagfart
-  newParentCode: RYF-HPT-ZSS-XXXX # Ny post ovan
-  newParentName: Bostadsmarknad # Ny post ovan
-  
-  
-  
-  
+
 
 
 

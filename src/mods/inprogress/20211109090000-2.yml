@@ -1,0 +1,69 @@
+modifications:
+- action: ADD
+  parentCode: RYF-ZEI-XXXX # Kod för Nyanställning ovan
+  parentName: Nyanställning
+  name: Rekrytering
+  level: 3
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-XXXX # Kod för Fastighetsbranschen ovan
+  parentName: Fastighetsbranschen
+  name: Fastighetsförvaltning
+  level: 4
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-XXXX # Kod för Fastighetsbranschen ovan
+  parentName: Fastighetsbranschen
+  name: Fastighetsuthyrning
+  level: 4
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-XXXX # Kod för Fastighetsbranschen ovan
+  parentName: Fastighetsbranschen
+  name: Kontorsförvaltning
+  level: 4
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-XXXX # Kod för Byggnadsbranschen ovan
+  parentName: Byggnadsbranschen
+  name: Nyproduktion
+  level: 4
+
+- action: MOVE
+  code: RYF-IXA-KEV-OTN-RBK
+  name: Renovering & restaurering
+  newParentCode: RYF-IXA-KEV-XXXX # Kod för Byggnadsbranschen ovan
+  newParentName: Byggnadsbranschen
+
+- action: ADD
+  parentCode: RYF-IXA-AOE-XXX # ID för bostadspriser ovan
+  parentName: Bostadspriser
+  name: Bostadsrättspriser
+  level: 4
+
+- action: ADD
+  parentCode: RYF-IXA-AOE-XXX # ID för bostadspriser ovan
+  parentName: Bostadspriser
+  name: Fritidshuspriser
+  level: 4
+
+- action: ADD
+  parentCode: RYF-IXA-AOE-XXX # ID för bostadspriser ovan
+  parentName: Bostadspriser
+  name: Villapriser
+  level: 4
+
+- action: ADD
+  parentCode: RYF-HPT-ZSS-HAB-XXX # ID för parker oavn
+  parentName: Parker
+  name: Lekparker
+  level: 5
+
+- action: MOVE
+  code: RYF-IXA-AOE-CYP-TSE-XQB
+  name: Lagfart
+  newParentCode: RYF-HPT-ZSS-XXXX # Ny post ovan
+  newParentName: Bostadsmarknad # Ny post ovan
+
+
+
