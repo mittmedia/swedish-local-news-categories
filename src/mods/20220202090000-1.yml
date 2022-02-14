@@ -413,9 +413,7 @@ modifications:
   code: RYF-IXA-KEV-VKR-IRK
   name: Fastighetsskötsel
   
-- action: INACTIVATE
-  code: RYF-IXA-KEV-VKR
-  name: Privat- & företagstjänster
+
 
 - action: ADD
   parentCode: RYF-IXA-KEV
