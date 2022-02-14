@@ -1,11 +1,11 @@
 categories:
-- code: RRYF-IXA-KEV-VND
+- code: RYF-IXA-KEV-VND
   description: ''
   level: 3
   name: Järn- & stålindustri
   replaces: RYF-IXA-KEV-IFB-WQS
   status: ACTIVE
-- code: RRYF-IXA-KEV-YJY
+- code: RYF-IXA-KEV-YJY
   description: ''
   level: 3
   name: Gruvnäring
@@ -2380,7 +2380,7 @@ categories:
   name: Köpcentrum & gallerior
   replacedBy: RYF-HPT-ZSS-HAB-GKI
   status: INACTIVE
-- code: RYF-HPT-ZSS-NH-WKQ
+- code: RYF-HPT-ZSS-NHH-WKQ
   description: ''
   level: 4
   name: Lagfart
@@ -2620,7 +2620,7 @@ categories:
 - code: RYF-IXA-AOE-CYP-TSE-JBJ
   description: ''
   level: 5
-  name: null
+  name: Bolåneränta
   status: ACTIVE
 - code: RYF-IXA-AOE-CYP-TSE-JBJ-BHP
   description: ''
@@ -3403,14 +3403,14 @@ categories:
   description: ''
   level: 4
   name: Gruvnäring
-  replacedBy: RRYF-IXA-KEV-YJY
+  replacedBy: RYF-IXA-KEV-YJY
   replaces: RYF-IXA-KEV-CKN
   status: INACTIVE
 - code: RYF-IXA-KEV-IFB-WQS
   description: ''
   level: 4
   name: Järn- & stålindustri
-  replacedBy: RRYF-IXA-KEV-VND
+  replacedBy: RYF-IXA-KEV-VND
   status: INACTIVE
 - code: RYF-IXA-KEV-IGZ
   description: ''
@@ -16844,6 +16844,7 @@ categories:
   name: Nyanställning
   status: ACTIVE
 - code: RYF-ZEI-CZS-PYJ-KGH
+  description: ''
   level: 4
   name: Rekrytering
   status: ACTIVE
