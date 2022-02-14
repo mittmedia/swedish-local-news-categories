@@ -722,6 +722,12 @@ categories:
   level: 4
   name: Biologisk terrorism
   status: ACTIVE
+- code: RYF-BIZ-WZJ-VWX
+  description: ''
+  level: 3
+  name: Barnarbete
+  replaces: RYF-ZEI-CLV-OBQ
+  status: ACTIVE
 - code: RYF-BIZ-WZJ-XEY
   description: ''
   level: 3
@@ -10277,6 +10283,7 @@ categories:
   name: Bilförsäljning
   status: ACTIVE
 - code: RYF-RSF-GVJ-KYG
+  description: ''
   level: 3
   name: Nybilsförsäljning
   status: ACTIVE
@@ -10670,10 +10677,12 @@ categories:
   replaces: RYF-HPT-YGE-GUI-AZI
   status: ACTIVE
 - code: RYF-RSF-RWJ-UYV
+  description: ''
   level: 3
   name: Regionaltåg
   status: ACTIVE
 - code: RYF-RSF-RWJ-ZFQ
+  description: ''
   level: 3
   name: Snabbtåg
   status: ACTIVE
@@ -10708,18 +10717,22 @@ categories:
   replaces: RYF-HPT-YGE-GUI-JGK
   status: ACTIVE
 - code: RYF-RSF-TJK-GTV
+  description: ''
   level: 3
   name: Flygplats
   status: ACTIVE
 - code: RYF-RSF-TJK-KUE
+  description: ''
   level: 3
   name: Inrikesflyg
   status: ACTIVE
 - code: RYF-RSF-TJK-LLC
+  description: ''
   level: 3
   name: Flygplan
   status: ACTIVE
 - code: RYF-RSF-TJK-UTD
+  description: ''
   level: 3
   name: Utrikesflyg
   status: ACTIVE
@@ -16706,63 +16719,92 @@ categories:
 - code: RYF-ZEI-CLV-AGH
   description: ''
   level: 3
-  name: Löner & förmåner
-  status: ACTIVE
+  name: Lön & förmån
+  replacedBy: RYF-ZEI-DKZ
+  status: INACTIVE
+- code: RYF-ZEI-CLV-AGH-QJR
+  description: ''
+  level: 4
+  name: Lönespridning
+  replacedBy: RYF-ZEI-DKZ-QJR
+  status: INACTIVE
 - code: RYF-ZEI-CLV-AQQ
   description: ''
   level: 3
   name: Arbetstagare
-  status: ACTIVE
+  replacedBy: RYF-ZEI-GKO
+  status: INACTIVE
 - code: RYF-ZEI-CLV-BLS
   description: ''
   level: 3
   name: Yrken
-  status: ACTIVE
+  replacedBy: RYF-ZEI-PDB
+  status: INACTIVE
 - code: RYF-ZEI-CLV-GBF
   description: ''
   level: 3
   name: Arbetsgivare
-  status: ACTIVE
+  replacedBy: RYF-ZEI-VGY
+  status: INACTIVE
 - code: RYF-ZEI-CLV-IXZ
   description: ''
   level: 3
   name: Yrkesträning
-  status: ACTIVE
+  replacedBy: RYF-ZEI-FUE
+  status: INACTIVE
 - code: RYF-ZEI-CLV-KWA
   description: ''
   level: 3
   name: Lärling
-  status: ACTIVE
+  replacedBy: RYF-ZEI-YCW
+  status: INACTIVE
 - code: RYF-ZEI-CLV-OBQ
   description: ''
   level: 3
   name: Barnarbete
-  status: ACTIVE
+  replacedBy: RYF-BIZ-WZJ-VWX
+  status: INACTIVE
 - code: RYF-ZEI-CLV-PSL
   description: ''
   level: 3
-  name: Konflikter
-  status: ACTIVE
+  name: Arbetsmarknadskonflikter
+  replacedBy: RYF-ZEI-JOB
+  status: INACTIVE
 - code: RYF-ZEI-CLV-PSL-DLO
   description: ''
   level: 4
   name: Strejk
-  status: ACTIVE
+  replacedBy: RYF-ZEI-JOB-DLO
+  status: INACTIVE
+- code: RYF-ZEI-CLV-PSL-IBD
+  description: ''
+  level: 4
+  name: Lockout
+  replacedBy: RYF-ZEI-JOB-IBD
+  status: INACTIVE
+- code: RYF-ZEI-CLV-PSL-JZD
+  description: ''
+  level: 4
+  name: Arbetsblockad
+  replacedBy: RYF-ZEI-JOB-JZD
+  status: INACTIVE
 - code: RYF-ZEI-CLV-QGD
   description: ''
   level: 3
   name: Kollektivavtal
-  status: ACTIVE
+  replacedBy: RYF-ZEI-SCG
+  status: INACTIVE
 - code: RYF-ZEI-CLV-QGD-AMA
   description: ''
   level: 4
-  name: Avtalsfrågor (löner)
-  status: ACTIVE
+  name: Avtalsrörelsen
+  replacedBy: RYF-ZEI-SCG-AMA
+  status: INACTIVE
 - code: RYF-ZEI-CLV-QGD-FZM
   description: ''
   level: 4
   name: Avtalsfrågor (arbetsregler)
-  status: ACTIVE
+  status: INACTIVE
 - code: RYF-ZEI-CLV-QGD-IEB
   description: ''
   level: 4
@@ -16772,21 +16814,73 @@ categories:
   description: ''
   level: 3
   name: Friskvård
-  status: ACTIVE
+  replacedBy: RYF-ZEI-SIM
+  status: INACTIVE
 - code: RYF-ZEI-CLV-VVZ-END
   description: ''
   level: 4
   name: Friskvårdsbidrag
-  status: ACTIVE
+  replacedBy: RYF-ZEI-SIM-END
+  status: INACTIVE
 - code: RYF-ZEI-CZS
   description: ''
   level: 2
-  name: Personal- & anställningsfrågor
+  name: Personal- & anställning
   status: ACTIVE
 - code: RYF-ZEI-CZS-JLQ
   description: ''
   level: 3
   name: Nedskärningar
+  status: ACTIVE
+- code: RYF-ZEI-CZS-JLQ-KNX
+  description: ''
+  level: 4
+  name: Uppsägning & varsel
+  replaces: RYF-ZEI-QWT-IIW
+  status: ACTIVE
+- code: RYF-ZEI-CZS-PYJ
+  description: ''
+  level: 3
+  name: Nyanställning
+  status: ACTIVE
+- code: RYF-ZEI-CZS-PYJ-KGH
+  level: 4
+  name: Rekrytering
+  status: ACTIVE
+- code: RYF-ZEI-CZS-UJR
+  description: ''
+  level: 3
+  name: Kompetensutveckling
+  replaces: RYF-ZEI-YYF
+  status: ACTIVE
+- code: RYF-ZEI-DKZ
+  description: ''
+  level: 2
+  name: Lön & förmån
+  replaces: RYF-ZEI-CLV-AGH
+  status: ACTIVE
+- code: RYF-ZEI-DKZ-QJR
+  description: ''
+  level: 3
+  name: Lönespridning
+  replaces: RYF-ZEI-CLV-AGH-QJR
+  status: ACTIVE
+- code: RYF-ZEI-FUE
+  description: ''
+  level: 2
+  name: Yrkesträning
+  replaces: RYF-ZEI-CLV-IXZ
+  status: ACTIVE
+- code: RYF-ZEI-GKO
+  description: ''
+  level: 2
+  name: Arbetstagare
+  replaces: RYF-ZEI-CLV-AQQ
+  status: ACTIVE
+- code: RYF-ZEI-GSB
+  description: ''
+  level: 2
+  name: Sommarjobb
   status: ACTIVE
 - code: RYF-ZEI-ICY
   description: ''
@@ -16799,6 +16893,30 @@ categories:
   name: Pension
   replacedBy: RYF-IXA-QED-HZF
   status: INACTIVE
+- code: RYF-ZEI-JOB
+  description: ''
+  level: 2
+  name: Arbetsmarknadskonflikter
+  replaces: RYF-ZEI-CLV-PSL
+  status: ACTIVE
+- code: RYF-ZEI-JOB-DLO
+  description: ''
+  level: 3
+  name: Strejk
+  replaces: RYF-ZEI-CLV-PSL-DLO
+  status: ACTIVE
+- code: RYF-ZEI-JOB-IBD
+  description: ''
+  level: 3
+  name: Lockout
+  replaces: RYF-ZEI-CLV-PSL-IBD
+  status: ACTIVE
+- code: RYF-ZEI-JOB-JZD
+  description: ''
+  level: 3
+  name: Arbetsblockad
+  replaces: RYF-ZEI-CLV-PSL-JZD
+  status: ACTIVE
 - code: RYF-ZEI-MEH
   description: ''
   level: 2
@@ -16808,6 +16926,12 @@ categories:
   description: ''
   level: 3
   name: Rekrytering
+  status: ACTIVE
+- code: RYF-ZEI-PDB
+  description: ''
+  level: 2
+  name: Yrken
+  replaces: RYF-ZEI-CLV-BLS
   status: ACTIVE
 - code: RYF-ZEI-QWT
   description: ''
@@ -16822,8 +16946,9 @@ categories:
 - code: RYF-ZEI-QWT-IIW
   description: ''
   level: 3
-  name: Uppsägningar & varsel
-  status: ACTIVE
+  name: Uppsägning & varsel
+  replacedBy: RYF-ZEI-CZS-JLQ-KNX
+  status: INACTIVE
 - code: RYF-ZEI-QWT-QJQ
   description: ''
   level: 3
@@ -16832,16 +16957,53 @@ categories:
 - code: RYF-ZEI-RYD
   description: ''
   level: 2
-  name: Arbetslagstiftningen
+  name: Arbetslagstiftning
   status: ACTIVE
 - code: RYF-ZEI-RYD-YZX
   description: ''
   level: 3
-  name: Arbetsmiljöfrågor
+  name: Arbetsmiljö
+  status: ACTIVE
+- code: RYF-ZEI-SCG
+  description: ''
+  level: 2
+  name: Kollektivavtal
+  replaces: RYF-ZEI-CLV-QGD
+  status: ACTIVE
+- code: RYF-ZEI-SCG-AMA
+  description: ''
+  level: 3
+  name: Avtalsrörelsen
+  replaces: RYF-ZEI-CLV-QGD-AMA
+  status: ACTIVE
+- code: RYF-ZEI-SIM
+  description: ''
+  level: 2
+  name: Friskvård
+  replaces: RYF-ZEI-CLV-VVZ
+  status: ACTIVE
+- code: RYF-ZEI-SIM-END
+  description: ''
+  level: 3
+  name: Friskvårdsbidrag
+  replaces: RYF-ZEI-CLV-VVZ-END
+  status: ACTIVE
+- code: RYF-ZEI-VGY
+  description: ''
+  level: 2
+  name: Arbetsgivare
+  replaces: RYF-ZEI-CLV-GBF
+  status: ACTIVE
+- code: RYF-ZEI-YCW
+  description: ''
+  level: 2
+  name: Lärling
+  replaces: RYF-ZEI-CLV-KWA
   status: ACTIVE
 - code: RYF-ZEI-YYF
   description: ''
   level: 2
   name: Kompetensutveckling
-  status: ACTIVE
+  replacedBy: RYF-ZEI-CZS-UJR
+  status: INACTIVE
 version: 4.1.0

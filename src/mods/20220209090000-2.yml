@@ -1,0 +1,7 @@
+modifications:
+- action: ADD
+  parentCode: RYF-ZEI-CZS-PYJ # Från Nyanställning ovan
+  parentName: Nyanställning # Ny ovan
+  name: Rekrytering
+  level: 4
+

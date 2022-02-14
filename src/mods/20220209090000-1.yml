@@ -128,22 +128,12 @@ modifications:
   name: Nyanställning
   level: 3
   
-- action: ADD
-  parentCode: RYF-ZEI-CZS-XXX # Från Nyanställning ovan
-  parentName: Nyanställning # Ny ovan
-  name: Rekrytering
-  level: 4
 
 - action: UPDATE
   code: RYF-ZEI-QWT-IIW
   name: Uppsägningar & varsel
   newName: Uppsägning & varsel
   
-- action: MOVE
-  code: RYF-ZEI-YYF
-  name: Uppsägning & varsel # Nytt namn ovan
-  newParentCode: RYF-ZEI-CZS-JLQ
-  newParentName: Nedskärningar
 
 - action: ADD
   parentCode: RYF-ZEI
@@ -151,6 +141,11 @@ modifications:
   name: Sommarjobb
   level: 4
 
+- action: MOVE
+  code: RYF-ZEI-QWT-IIW
+  name: Uppsägning & varsel # Nytt namn ovan
+  newParentCode: RYF-ZEI-CZS-JLQ
+  newParentName: Nedskärningar
 
 
 
