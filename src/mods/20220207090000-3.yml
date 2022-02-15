@@ -1,55 +1,55 @@
 modifications:
 - action: ADD
-  parentCode: RYF-RSF-HOA # ID för Trafik, kommunikation & fordon ovan och bilförsäljning
+  parentCode: RYF-XRZ-UXH # ID för Trafik, kommunikation & fordon ovan och bilförsäljning
   parentName: Bilförsäljning
   name: Nybilsförsäljning
   level: 3
 
 - action: ADD
-  parentCode: RYF-RSF-TJK # ID för Trafik, kommunikation & fordon ovan och Flygtrafik ovan
+  parentCode: RYF-XRZ-GGI # ID för Trafik, kommunikation & fordon ovan och Flygtrafik ovan
   parentName: Flygtrafik
   name: Flygplan
   level: 3
 
 - action: ADD
-  parentCode: RYF-RSF-TJK # ID för Trafik, kommunikation & fordon ovan och Flygtrafik ovan
+  parentCode: RYF-XRZ-GGI # ID för Trafik, kommunikation & fordon ovan och Flygtrafik ovan
   parentName: Flygtrafik
   name: Flygplats
   level: 3
 
 - action: ADD
-  parentCode: RYF-RSF-TJK # ID för Trafik, kommunikation & fordon ovan och Flygtrafik ovan
+  parentCode: RYF-XRZ-GGI # ID för Trafik, kommunikation & fordon ovan och Flygtrafik ovan
   parentName: Flygtrafik
   name: Inrikesflyg
   level: 3
 
 - action: ADD
-  parentCode: RYF-RSF-TJK # ID för Trafik, kommunikation & fordon ovan och Flygtrafik ovan
+  parentCode: RYF-XRZ-GGI # ID för Trafik, kommunikation & fordon ovan och Flygtrafik ovan
   parentName: Flygtrafik
   name: Utrikesflyg
   level: 3
 
 - action: MOVE
-  code: RYF-RSF-LKZ-DOG
+  code: RYF-XRZ-YVU-DOG
   name: Autobroms # Nytt namn ovan
-  newParentCode: RYF-RSF-CDC # ID för Trafik, kommunikation & fordon ovan och Fordonsfunktion ovan
+  newParentCode: RYF-XRZ-VED # ID för Trafik, kommunikation & fordon ovan och Fordonsfunktion ovan
   newParentName: Fordonsfunktion
 
 - action: MOVE
   code: RYF-TKT-MRA-AEE
   name: Parkeringshjälp & självparkering
-  newParentCode: RYF-RSF-CDC # ID för Trafik, kommunikation & fordon ovan och Fordonsfunktion ovan
+  newParentCode: RYF-XRZ-VED # ID för Trafik, kommunikation & fordon ovan och Fordonsfunktion ovan
   newParentName: Fordonsfunktion
 
 
 - action: ADD
-  parentCode: RYF-RSF-RWJ # ID för Trafik, kommunikation & fordon ovan och Tåg ovan
+  parentCode: RYF-XRZ-ZPV # ID för Trafik, kommunikation & fordon ovan och Tåg ovan
   parentName: Tåg
   name: Regionaltåg
   level: 3
 
 - action: ADD
-  parentCode: RYF-RSF-RWJ # ID för Trafik, kommunikation & fordon ovan och Tåg ovan
+  parentCode: RYF-XRZ-ZPV # ID för Trafik, kommunikation & fordon ovan och Tåg ovan
   parentName: Tåg
   name: Snabbtåg
   level: 3

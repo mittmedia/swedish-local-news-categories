@@ -7,7 +7,7 @@ modifications:
 
 
   - action: ADD
-    parentCode: RYF-RSF # ID för Trafik, kommunikation & fordon ovan
+    parentCode: RYF-XRZ # ID för Trafik, kommunikation & fordon ovan
     parentName: Trafik, kommunikation & fordon
     name: Bilförsäljning
     level: 2
@@ -16,43 +16,43 @@ modifications:
   - action: MOVE
     code: RYF-TKT-MRA-FLT
     name: Bilguide # Nytt namn ovan.
-    newParentCode: RYF-RSF # ID för Trafik, kommunikation & fordon ovan
+    newParentCode: RYF-XRZ # ID för Trafik, kommunikation & fordon ovan
     newParentName: Trafik, kommunikation & fordon
 
 
   - action: MOVE
     code: RYF-TKT-MRA-JOQ
     name: Bilservice
-    newParentCode: RYF-RSF # ID för Trafik, kommunikation & fordon ovan
+    newParentCode: RYF-XRZ # ID för Trafik, kommunikation & fordon ovan
     newParentName: Trafik, kommunikation & fordon
 
   - action: MOVE
     code: RYF-TKT-MRA-IQM
     name: Biltest # Nytt namn ovan
-    newParentCode: RYF-RSF # ID för Trafik, kommunikation & fordon ovan
+    newParentCode: RYF-XRZ # ID för Trafik, kommunikation & fordon ovan
     newParentName: Trafik, kommunikation & fordon
 
     # Inklusive barnposter
   - action: MOVE
     code: RYF-TKT-MRA-AGA
     name: Bilvård & rekond
-    newParentCode: RYF-RSF # ID för Trafik, kommunikation & fordon ovan
+    newParentCode: RYF-XRZ # ID för Trafik, kommunikation & fordon ovan
     newParentName: Trafik, kommunikation & fordon
 
   - action: MOVE
     code: RYF-TKT-MRA-LMK
     name: Bilvärdering
-    newParentCode: RYF-RSF # ID för Trafik, kommunikation & fordon ovan
+    newParentCode: RYF-XRZ # ID för Trafik, kommunikation & fordon ovan
     newParentName: Trafik, kommunikation & fordon
 
   - action: ADD
-    parentCode: RYF-RSF # ID för Trafik, kommunikation & fordon ovan
+    parentCode: RYF-XRZ # ID för Trafik, kommunikation & fordon ovan
     parentName: Trafik, kommunikation & fordon
     name: Cykel
     level: 2
 
   - action: ADD
-    parentCode: RYF-RSF # ID för Trafik, kommunikation & fordon ovan
+    parentCode: RYF-XRZ # ID för Trafik, kommunikation & fordon ovan
     parentName: Trafik, kommunikation & fordon
     name: Elsparkcykel
     level: 2
@@ -61,19 +61,19 @@ modifications:
   - action: MOVE
     code: RYF-HPT-YGE-GUI-JGK
     name: Flygtrafik # Nytt namn ovan
-    newParentCode: RYF-RSF # ID för Trafik, kommunikation & fordon ovan
+    newParentCode: RYF-XRZ # ID för Trafik, kommunikation & fordon ovan
     newParentName: Trafik, kommunikation & fordon
 
   - action: MOVE
     code: RYF-IXA-KEV-WHS-OJI
     name: Fordonsutrustning
-    newParentCode: RYF-RSF # ID för Trafik, kommunikation & fordon ovan
+    newParentCode: RYF-XRZ # ID för Trafik, kommunikation & fordon ovan
     newParentName: Trafik, kommunikation & fordon
 
 
 
   - action: ADD
-    parentCode: RYF-RSF # ID för Trafik, kommunikation & fordon ovan
+    parentCode: RYF-XRZ # ID för Trafik, kommunikation & fordon ovan
     parentName: Trafik, kommunikation & fordon
     name: Fordonsfunktion
     level: 2
@@ -82,7 +82,7 @@ modifications:
   - action: MOVE
     code: RYF-TKT-OUV-RKR
     name: Fordonsuthyrning # Nytt namn ovan
-    newParentCode: RYF-RSF # ID för Trafik, kommunikation & fordon ovan
+    newParentCode: RYF-XRZ # ID för Trafik, kommunikation & fordon ovan
     newParentName: Trafik, kommunikation & fordon
 
 
@@ -92,18 +92,18 @@ modifications:
   - action: MOVE
     code: RYF-TKT-MRA-CBI
     name: Fyrhjuling & ATV # Nytt namn ovan
-    newParentCode: RYF-RSF # ID för Trafik, kommunikation & fordon ovan
+    newParentCode: RYF-XRZ # ID för Trafik, kommunikation & fordon ovan
     newParentName: Trafik, kommunikation & fordon
 
   - action: MOVE
     code: RYF-TKT-MRA-TSY
     name: Garage
-    newParentCode: RYF-RSF # ID för Trafik, kommunikation & fordon ovan
+    newParentCode: RYF-XRZ # ID för Trafik, kommunikation & fordon ovan
     newParentName: Trafik, kommunikation & fordon
 
 
   - action: ADD
-    parentCode: RYF-RSF # ID för Trafik, kommunikation & fordon ovan
+    parentCode: RYF-XRZ # ID för Trafik, kommunikation & fordon ovan
     parentName: Trafik, kommunikation & fordon
     name: Godstrafik
     level: 2
@@ -112,50 +112,50 @@ modifications:
   - action: MOVE
     code: RYF-HPT-YGE-MOZ
     name: Järnvägsnät # Nytt namn ovan
-    newParentCode: RYF-RSF # ID för Trafik, kommunikation & fordon ovan
+    newParentCode: RYF-XRZ # ID för Trafik, kommunikation & fordon ovan
     newParentName: Trafik, kommunikation & fordon
 
   - action: MOVE
     code: RYF-HPT-YGE-AAD
     name: Kollektivtrafik
-    newParentCode: RYF-RSF # ID för Trafik, kommunikation & fordon ovan
+    newParentCode: RYF-XRZ # ID för Trafik, kommunikation & fordon ovan
     newParentName: Trafik, kommunikation & fordon
 
   - action: MOVE
     code: RYF-HPT-YGE-GUI-IVZ
     name: Buss
-    newParentCode: RYF-RSF # ID för Trafik, kommunikation & fordon ovan
+    newParentCode: RYF-XRZ # ID för Trafik, kommunikation & fordon ovan
     newParentName: Trafik, kommunikation & fordon
 
   - action: MOVE
     code: RYF-HPT-YGE-GUI-OUM
     name: Spårvagn
-    newParentCode: RYF-RSF # ID för Trafik, kommunikation & fordon ovan
+    newParentCode: RYF-XRZ # ID för Trafik, kommunikation & fordon ovan
     newParentName: Trafik, kommunikation & fordon
 
   - action: MOVE
     code: RYF-HPT-YGE-GUI-XYP
     name: Tunnelbana
-    newParentCode: RYF-RSF # ID för Trafik, kommunikation & fordon ovan
+    newParentCode: RYF-XRZ # ID för Trafik, kommunikation & fordon ovan
     newParentName: Trafik, kommunikation & fordon
 
   - action: MOVE
     code: RYF-HPT-YGE-GUI-AZI
     name: Tåg
-    newParentCode: RYF-RSF # ID för Trafik, kommunikation & fordon ovan
+    newParentCode: RYF-XRZ # ID för Trafik, kommunikation & fordon ovan
     newParentName: Trafik, kommunikation & fordon
 
 
   - action: MOVE
     code: RYF-HPT-YGE-PEJ
     name: Laddstolpe # Nytt namn ovan
-    newParentCode: RYF-RSF # ID för Trafik, kommunikation & fordon ovan
+    newParentCode: RYF-XRZ # ID för Trafik, kommunikation & fordon ovan
     newParentName: Trafik, kommunikation & fordon
 
 
 
   - action: ADD
-    parentCode: RYF-RSF # ID för Trafik, kommunikation & fordon ovan
+    parentCode: RYF-XRZ # ID för Trafik, kommunikation & fordon ovan
     parentName: Trafik, kommunikation & fordon
     name: Lastbil
     level: 2
@@ -165,20 +165,20 @@ modifications:
   - action: MOVE
     code: RYF-TKT-MRA-TJY
     name: MC-intresse # Nytt namn ovan
-    newParentCode: RYF-RSF # ID för Trafik, kommunikation & fordon ovan
+    newParentCode: RYF-XRZ # ID för Trafik, kommunikation & fordon ovan
     newParentName: Trafik, kommunikation & fordon
 
   - action: MOVE
-    code: YF-TKT-MRA-HCS
+    code: RYF-TKT-MRA-HCS
     name: Moped # Nytt namn ovan
-    newParentCode: RYF-RSF # ID för Trafik, kommunikation & fordon ovan
+    newParentCode: RYF-XRZ # ID för Trafik, kommunikation & fordon ovan
     newParentName: Trafik, kommunikation & fordon
 
 
 
 
   - action: ADD
-    parentCode: RYF-RSF # ID för Trafik, kommunikation & fordon ovan
+    parentCode: RYF-XRZ # ID för Trafik, kommunikation & fordon ovan
     parentName: Trafik, kommunikation & fordon
     name: Mopedbil
     level: 2
@@ -187,7 +187,7 @@ modifications:
   - action: MOVE
     code: RYF-TKT-MRA-RJL
     name: Motorcykel # Nytt namn ovan
-    newParentCode: RYF-RSF # ID för Trafik, kommunikation & fordon ovan
+    newParentCode: RYF-XRZ # ID för Trafik, kommunikation & fordon ovan
     newParentName: Trafik, kommunikation & fordon
 
 
@@ -197,13 +197,13 @@ modifications:
   - action: MOVE
     code: RYF-TKT-MRA-OPE
     name: Motorproblem
-    newParentCode: RYF-RSF # ID för Trafik, kommunikation & fordon ovan
+    newParentCode: RYF-XRZ # ID för Trafik, kommunikation & fordon ovan
     newParentName: Trafik, kommunikation & fordon
 
 
 
   - action: ADD
-    parentCode: RYF-RSF # ID för Trafik, kommunikation & fordon ovan
+    parentCode: RYF-XRZ # ID för Trafik, kommunikation & fordon ovan
     parentName: Trafik, kommunikation & fordon
     name: Parkering
     level: 2
@@ -213,12 +213,12 @@ modifications:
   - action: MOVE
     code: RYF-IXA-KEV-VXX-IMZ
     name: Pendling
-    newParentCode: RYF-RSF # ID för Trafik, kommunikation & fordon ovan
+    newParentCode: RYF-XRZ # ID för Trafik, kommunikation & fordon ovan
     newParentName: Trafik, kommunikation & fordon
   - action: MOVE
     code: RYF-TKT-MRA-JUA
     name: Personbil # Nytt namn ovan
-    newParentCode: RYF-RSF # ID för Trafik, kommunikation & fordon ovan
+    newParentCode: RYF-XRZ # ID för Trafik, kommunikation & fordon ovan
     newParentName: Trafik, kommunikation & fordon
 
 
@@ -226,33 +226,33 @@ modifications:
   - action: MOVE
     code: RYF-TKT-MRA-MJL
     name: Registreringsnummer
-    newParentCode: RYF-RSF # ID för Trafik, kommunikation & fordon ovan
+    newParentCode: RYF-XRZ # ID för Trafik, kommunikation & fordon ovan
     newParentName: Trafik, kommunikation & fordon
 
   - action: MOVE
     code: RYF-HPT-YGE-GUI-YMN
     name: Sjöfart
-    newParentCode: RYF-RSF # ID för Trafik, kommunikation & fordon ovan
+    newParentCode: RYF-XRZ # ID för Trafik, kommunikation & fordon ovan
     newParentName: Trafik, kommunikation & fordon
   - action: MOVE
     code: RYF-TKT-MRA-CMW
     name: Snöskoter
-    newParentCode: RYF-RSF # ID för Trafik, kommunikation & fordon ovan
+    newParentCode: RYF-XRZ # ID för Trafik, kommunikation & fordon ovan
     newParentName: Trafik, kommunikation & fordon
   - action: ADD
-    newParentCode: RYF-RSF # ID för Trafik, kommunikation & fordon ovan
-    newParentName: Trafik, kommunikation & fordon
+    parentCode: RYF-XRZ # ID för Trafik, kommunikation & fordon ovan
+    parentName: Trafik, kommunikation & fordon
     name: Taxi
     level: 2
   - action: MOVE
     code: RYF-HPT-YGE-GUI
     name: Trafikpåverkan
-    newParentCode: RYF-RSF # ID för Trafik, kommunikation & fordon ovan
+    newParentCode: RYF-XRZ # ID för Trafik, kommunikation & fordon ovan
     newParentName: Trafik, kommunikation & fordon
   - action: MOVE
     code: RYF-TKT-MRA-YUY
     name: Traktor & arbetsmaskiner # Nytt namn ovan
-    newParentCode: RYF-RSF # ID för Trafik, kommunikation & fordon ovan
+    newParentCode: RYF-XRZ # ID för Trafik, kommunikation & fordon ovan
     newParentName: Trafik, kommunikation & fordon
 
 
@@ -264,5 +264,5 @@ modifications:
   - action: MOVE
     code: RYF-HPT-YGE-USH
     name: Vägnät
-    newParentCode: RYF-RSF # ID för Trafik, kommunikation & fordon ovan
+    newParentCode: RYF-XRZ # ID för Trafik, kommunikation & fordon ovan
     newParentName: Trafik, kommunikation & fordon

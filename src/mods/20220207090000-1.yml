@@ -328,20 +328,20 @@ modifications:
   newName: Traktor & arbetsmaskiner
   
 - action: ADD
-  newParentCode: RYF-TKT-MRA-YUY
-  newParentName: Traktor & arbetsmaskiner # nytt namn ovan
+  parentCode: RYF-TKT-MRA-YUY
+  parentName: Traktor & arbetsmaskiner # nytt namn ovan
   name: Entreprenadmaskin
   level: 4
   
 - action: ADD
-  newParentCode: RYF-TKT-MRA-YUY
-  newParentName: Traktor & arbetsmaskiner # nytt namn ovan
+  parentCode: RYF-TKT-MRA-YUY
+  parentName: Traktor & arbetsmaskiner # nytt namn ovan
   name: Jordbruksmaskin
   level: 4
   
 - action: ADD
-  newParentCode: RYF-TKT-MRA-YUY
-  newParentName: Traktor & arbetsmaskiner # nytt namn ovan
+  parentCode: RYF-TKT-MRA-YUY
+  parentName: Traktor & arbetsmaskiner # nytt namn ovan
   name: A-traktor & Epa-traktor
   level: 4
   
