@@ -2612,6 +2612,7 @@ categories:
   name: Skuldsättning
   status: ACTIVE
 - code: RYF-IXA-AOE-FAJ-FIX
+  description: ''
   level: 4
   name: Skuldsanering
   status: ACTIVE
@@ -2632,13 +2633,57 @@ categories:
   level: 3
   name: Privatförsäkring
   status: ACTIVE
+- code: RYF-IXA-AOE-KPB-AYM
+  description: ''
+  level: 4
+  name: Husdjursförsäkring
+  replaces: RYF-IXA-KEV-VKR-ODH-NNK
+  status: ACTIVE
 - code: RYF-IXA-AOE-KPB-IYR
+  description: ''
   level: 4
   name: Personförsäkring
   status: ACTIVE
+- code: RYF-IXA-AOE-KPB-IYR-CEY
+  description: ''
+  level: 5
+  name: Livsförsäkring
+  replaces: RYF-IXA-KEV-VKR-ODH-OOZ
+  status: ACTIVE
+- code: RYF-IXA-AOE-KPB-IYR-EHG
+  description: ''
+  level: 5
+  name: Gravidförsäkring
+  replaces: RYF-IXA-KEV-VKR-ODH-BSB
+  status: ACTIVE
+- code: RYF-IXA-AOE-KPB-IYR-JAA
+  description: ''
+  level: 5
+  name: Barnförsäkring
+  replaces: RYF-IXA-KEV-VKR-ODH-TMT
+  status: ACTIVE
+- code: RYF-IXA-AOE-KPB-IYR-ZOS
+  description: ''
+  level: 5
+  name: Olycksfallsförsäkring
+  replaces: RYF-IXA-KEV-VKR-ODH-HZI
+  status: ACTIVE
 - code: RYF-IXA-AOE-KPB-TBH
+  description: ''
   level: 4
   name: Sakförsäkring
+  status: ACTIVE
+- code: RYF-IXA-AOE-KPB-TBH-JPR
+  description: ''
+  level: 5
+  name: Fordonsförsäkring
+  replaces: RYF-IXA-KEV-VKR-ODH-WLZ
+  status: ACTIVE
+- code: RYF-IXA-AOE-KPB-TBH-ZQJ
+  description: ''
+  level: 5
+  name: Båtförsäkring
+  replaces: RYF-IXA-KEV-VKR-ODH-OJZ
   status: ACTIVE
 - code: RYF-IXA-AOE-OLB
   description: ''
@@ -3796,7 +3841,7 @@ categories:
   description: ''
   level: 3
   name: Privat- & företagstjänster
-  status: ACTIVE
+  status: INACTIVE
 - code: RYF-IXA-KEV-VKR-AOW
   description: ''
   level: 4
@@ -3852,47 +3897,54 @@ categories:
   description: ''
   level: 4
   name: Försäkringsbranschen
-  status: ACTIVE
+  status: INACTIVE
 - code: RYF-IXA-KEV-VKR-ODH-BSB
   description: ''
   level: 5
   name: Gravidförsäkring
-  status: ACTIVE
+  replacedBy: RYF-IXA-AOE-KPB-IYR-EHG
+  status: INACTIVE
 - code: RYF-IXA-KEV-VKR-ODH-HZI
   description: ''
   level: 5
   name: Olycksfallsförsäkring
-  status: ACTIVE
+  replacedBy: RYF-IXA-AOE-KPB-IYR-ZOS
+  status: INACTIVE
 - code: RYF-IXA-KEV-VKR-ODH-LKB
   description: ''
   level: 5
   name: Hemförsäkring
-  status: ACTIVE
+  status: INACTIVE
 - code: RYF-IXA-KEV-VKR-ODH-NNK
   description: ''
   level: 5
   name: Husdjursförsäkring
-  status: ACTIVE
+  replacedBy: RYF-IXA-AOE-KPB-AYM
+  status: INACTIVE
 - code: RYF-IXA-KEV-VKR-ODH-OJZ
   description: ''
   level: 5
   name: Båtförsäkring
-  status: ACTIVE
+  replacedBy: RYF-IXA-AOE-KPB-TBH-ZQJ
+  status: INACTIVE
 - code: RYF-IXA-KEV-VKR-ODH-OOZ
   description: ''
   level: 5
   name: Livsförsäkring
-  status: ACTIVE
+  replacedBy: RYF-IXA-AOE-KPB-IYR-CEY
+  status: INACTIVE
 - code: RYF-IXA-KEV-VKR-ODH-TMT
   description: ''
   level: 5
   name: Barnförsäkring
-  status: ACTIVE
+  replacedBy: RYF-IXA-AOE-KPB-IYR-JAA
+  status: INACTIVE
 - code: RYF-IXA-KEV-VKR-ODH-WLZ
   description: ''
   level: 5
   name: Fordonsförsäkring
-  status: ACTIVE
+  replacedBy: RYF-IXA-AOE-KPB-TBH-JPR
+  status: INACTIVE
 - code: RYF-IXA-KEV-VKR-OHX
   description: ''
   level: 4
@@ -3927,7 +3979,7 @@ categories:
   description: Konsument tjänst som är immateriell, till exempel skönhetsvård eller frisör
   level: 4
   name: Servicetjänster
-  status: ACTIVE
+  status: INACTIVE
 - code: RYF-IXA-KEV-VKR-SQL
   description: Företag som tillhandahåller tjänster för omhändertagande av de döda
   level: 4
@@ -3937,12 +3989,12 @@ categories:
   description: ''
   level: 4
   name: Verkstads- & reparationstjänster
-  status: ACTIVE
+  status: INACTIVE
 - code: RYF-IXA-KEV-VKR-TLP-JLP
   description: ''
   level: 5
   name: Bilverkstad
-  status: ACTIVE
+  status: INACTIVE
 - code: RYF-IXA-KEV-VKR-UDU
   description: Advokater och andra som hjälper företag och privatpersoner navigera lagarna
   level: 4
@@ -3952,7 +4004,7 @@ categories:
   description: ''
   level: 4
   name: Vårdgivare
-  status: ACTIVE
+  status: INACTIVE
 - code: RYF-IXA-KEV-VOI
   description: ''
   level: 3
@@ -4552,10 +4604,12 @@ categories:
   name: Skatter
   status: ACTIVE
 - code: RYF-IXA-QED-CPU-BHH
+  description: ''
   level: 4
   name: Statlig inkomstskatt
   status: ACTIVE
 - code: RYF-IXA-QED-CPU-BPF
+  description: ''
   level: 4
   name: Bolagsskatt
   status: ACTIVE
@@ -4566,34 +4620,50 @@ categories:
   replaces: RYF-IXA-QED-IJC
   status: ACTIVE
 - code: RYF-IXA-QED-CPU-GCA
+  description: ''
   level: 4
   name: Inkomstskatt
   status: ACTIVE
 - code: RYF-IXA-QED-CPU-JDM
+  description: ''
   level: 4
   name: Arbetsgivaravgift
   status: ACTIVE
 - code: RYF-IXA-QED-CPU-JQH
+  description: ''
   level: 4
   name: Drivmedelsskatt
   status: ACTIVE
 - code: RYF-IXA-QED-CPU-LJS
+  description: ''
   level: 4
   name: 3:12-reglerna
   status: ACTIVE
 - code: RYF-IXA-QED-CPU-MUI
+  description: ''
   level: 4
   name: Kommunalskatt
   status: ACTIVE
 - code: RYF-IXA-QED-CPU-NNT
+  description: ''
   level: 4
   name: Begravningsavgift
   status: ACTIVE
 - code: RYF-IXA-QED-CPU-PMY
+  description: ''
   level: 4
   name: Skatteavdrag
   status: ACTIVE
+- code: RYF-IXA-QED-CPU-PMY-BCP
+  level: 5
+  name: Ränteavdrag
+  status: ACTIVE
+- code: RYF-IXA-QED-CPU-PMY-HLU
+  level: 5
+  name: Rot- & rutavdrag
+  status: ACTIVE
 - code: RYF-IXA-QED-CPU-QTD
+  description: ''
   level: 4
   name: Tobaksskatt
   status: ACTIVE

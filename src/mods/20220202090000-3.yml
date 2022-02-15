@@ -3,53 +3,53 @@ modifications:
 - action: MOVE
   code: RYF-IXA-KEV-VKR-ODH-TMT
   name: Barnförsäkring
-  newParentCode: RYF-IXA-AOE-UFQ-FXM # ID från Privatförsäkring och Personförsäkring ovan
+  newParentCode: RYF-IXA-AOE-KPB-IYR # ID från Privatförsäkring och Personförsäkring ovan
   newParentName: Personförsäkring
 
 - action: MOVE
   code: RYF-IXA-KEV-VKR-ODH-BSB
   name: Gravidförsäkring
-  newParentCode: RYF-IXA-AOE-UFQ-FXM # ID från Privatförsäkring och Personförsäkring ovan
+  newParentCode: RYF-IXA-AOE-KPB-IYR # ID från Privatförsäkring och Personförsäkring ovan
   newParentName: Personförsäkring
 
 - action: MOVE
   code: RYF-IXA-KEV-VKR-ODH-OOZ
   name: Livsförsäkring
-  newParentCode: RYF-IXA-AOE-UFQ-FXM # ID från Privatförsäkring och Personförsäkring ovan
+  newParentCode: RYF-IXA-AOE-KPB-IYR # ID från Privatförsäkring och Personförsäkring ovan
   newParentName: Personförsäkring
 
 - action: MOVE
   code: RYF-IXA-KEV-VKR-ODH-HZI
   name: Olycksfallsförsäkring
-  newParentCode: RYF-IXA-AOE-UFQ-FXM # ID från Privatförsäkring och Personförsäkring ovan
+  newParentCode: RYF-IXA-AOE-KPB-IYR # ID från Privatförsäkring och Personförsäkring ovan
   newParentName: Personförsäkring
 
 - action: MOVE
   code: RYF-IXA-KEV-VKR-ODH-OJZ
   name: Båtförsäkring
-  newParentCode: RYF-IXA-AOE-UFQ-MMW # ID från Privatförsäkring och sakförsäkring ovan
+  newParentCode: RYF-IXA-AOE-KPB-TBH # ID från Privatförsäkring och sakförsäkring ovan
   newParentName: Sakförsäkring
 
 - action: MOVE
   code: RYF-IXA-KEV-VKR-ODH-WLZ
   name: Fordonsförsäkring
-  newParentCode: RYF-IXA-AOE-UFQ-MMW # ID från Privatförsäkring och sakförsäkring ovan
+  newParentCode: RYF-IXA-AOE-KPB-TBH # ID från Privatförsäkring och sakförsäkring ovan
   newParentName: Sakförsäkring
 
 - action: MOVE
   code: RYF-IXA-KEV-VKR-ODH-NNK
   name: Husdjursförsäkring
-  newParentCode: RYF-IXA-AOE-UFQ # ID från Privatförsäkring
+  newParentCode: RYF-IXA-AOE-KPB # ID från Privatförsäkring
   newParentName: Privatförsäkring
 
 - action: ADD
-  parentCode: RYF-IXA-QED-ZWD-LFF # ID för Skatter ovan och Skatteavdrag ovan
+  parentCode: RYF-IXA-QED-CPU-PMY # ID för Skatter ovan och Skatteavdrag ovan
   parentName: Skatteavdrag
   name: Rot- & rutavdrag
   level: 5
 
 - action: ADD
-  parentCode: RYF-IXA-QED-ZWD-LFF # ID för Skatter ovan och Skatteavdrag ovan
+  parentCode: RYF-IXA-QED-CPU-PMY # ID för Skatter ovan och Skatteavdrag ovan
   parentName: Skatteavdrag
   name: Ränteavdrag
   level: 5
