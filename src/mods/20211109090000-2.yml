@@ -1,30 +1,30 @@
 modifications:
 - action: ADD
-  parentCode: RYF-ZEI-MEH # Kod för Nyanställning ovan
+  parentCode: RYF-ZEI-AGF # Kod för Nyanställning ovan
   parentName: Nyanställning
   name: Rekrytering
   level: 3
 
 - action: ADD
-  parentCode: RYF-IXA-KEV-LLP # Kod för Fastighetsbranschen ovan
+  parentCode: RYF-IXA-KEV-TOY # Kod för Fastighetsbranschen ovan
   parentName: Fastighetsbranschen
   name: Fastighetsförvaltning
   level: 4
 
 - action: ADD
-  parentCode: RYF-IXA-KEV-LLP # Kod för Fastighetsbranschen ovan
+  parentCode: RYF-IXA-KEV-TOY # Kod för Fastighetsbranschen ovan
   parentName: Fastighetsbranschen
   name: Fastighetsuthyrning
   level: 4
 
 - action: ADD
-  parentCode: RYF-IXA-KEV-LLP # Kod för Fastighetsbranschen ovan
+  parentCode: RYF-IXA-KEV-TOY # Kod för Fastighetsbranschen ovan
   parentName: Fastighetsbranschen
   name: Kontorsförvaltning
   level: 4
 
 - action: ADD
-  parentCode: RYF-IXA-KEV-CGM # Kod för Byggnadsbranschen ovan
+  parentCode: RYF-IXA-KEV-IRW # Kod för Byggnadsbranschen ovan
   parentName: Byggnadsbranschen
   name: Nyproduktion
   level: 4
@@ -32,29 +32,29 @@ modifications:
 - action: MOVE
   code: RYF-IXA-KEV-OTN-RBK
   name: Renovering & restaurering
-  newParentCode: RYF-IXA-KEV-CGM # Kod för Byggnadsbranschen ovan
+  newParentCode: RYF-IXA-KEV-IRW # Kod för Byggnadsbranschen ovan
   newParentName: Byggnadsbranschen
 
 - action: ADD
-  parentCode: RYF-IXA-AOE-OLB # ID för bostadspriser ovan
+  parentCode: RYF-IXA-AOE-ESB # ID för bostadspriser ovan
   parentName: Bostadspriser
   name: Bostadsrättspriser
   level: 4
 
 - action: ADD
-  parentCode: RYF-IXA-AOE-OLB # ID för bostadspriser ovan
+  parentCode: RYF-IXA-AOE-ESB # ID för bostadspriser ovan
   parentName: Bostadspriser
   name: Fritidshuspriser
   level: 4
 
 - action: ADD
-  parentCode: RYF-IXA-AOE-OLB # ID för bostadspriser ovan
+  parentCode: RYF-IXA-AOE-ESB # ID för bostadspriser ovan
   parentName: Bostadspriser
   name: Villapriser
   level: 4
 
 - action: ADD
-  parentCode: RYF-HPT-ZSS-HAB-DBW # ID för parker oavn
+  parentCode: RYF-HPT-ZSS-HAB-QOC # ID för parker oavn
   parentName: Parker
   name: Lekparker
   level: 5
@@ -62,7 +62,7 @@ modifications:
 - action: MOVE
   code: RYF-IXA-AOE-CYP-TSE-XQB
   name: Lagfart
-  newParentCode: RYF-HPT-ZSS-NH # Ny post ovan
+  newParentCode: RYF-HPT-ZSS-WRT # Ny post ovan
   newParentName: Bostadsmarknad # Ny post ovan
 
 - action: INACTIVATE

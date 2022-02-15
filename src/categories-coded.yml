@@ -1,28 +1,16 @@
 categories:
-- code: RYF-IXA-KEV-VND
-  description: ''
-  level: 3
-  name: Järn- & stålindustri
-  replaces: RYF-IXA-KEV-IFB-WQS
-  status: ACTIVE
-- code: RYF-IXA-KEV-YJY
-  description: ''
-  level: 3
-  name: Gruvnäring
-  replaces: RYF-IXA-KEV-IFB-RLI
-  status: ACTIVE
 - code: RYF
-  description: ''
+  description: Rotobjektet för Bonnier News kategoriträd
   level: 0
   name: Nyhetskategorier
   status: ACTIVE
 - code: RYF-AKM
-  description: ''
+  description: Händelser som resulterar i skador på levande varelser eller skador på egendom
   level: 1
   name: Olyckor & katastrofer
   status: ACTIVE
 - code: RYF-AKM-AUE
-  description: ''
+  description: Alla former av skadliga bränder. Till exempel villabränder. Ej majbrasa eller liknande
   level: 2
   name: Brand
   status: ACTIVE
@@ -52,7 +40,7 @@ categories:
   name: Gräsbrand
   status: ACTIVE
 - code: RYF-AKM-QGJ
-  description: ''
+  description: Alla typer av olyckor, till exempel trafikolyckor, arbetsplatsolyckor, utsläpp eller explosioner
   level: 2
   name: Olyckor
   status: ACTIVE
@@ -132,7 +120,7 @@ categories:
   name: Kärnkraftsolycka
   status: ACTIVE
 - code: RYF-AKM-TGS
-  description: ''
+  description: Allvarlig händelse där samhället inte står rustat att ta hand om konsekvenserna. Till exempel svält eller naturkatastrofer
   level: 2
   name: Katastrof
   status: ACTIVE
@@ -187,12 +175,12 @@ categories:
   name: Svält
   status: ACTIVE
 - code: RYF-AKM-TYE
-  description: ''
+  description: Planering för åtgärder för att ta itu med plötsliga, oförutsedda händelser
   level: 2
   name: Beredskapsplanering
   status: ACTIVE
 - code: RYF-AKM-WDC
-  description: ''
+  description: Arbetet med att undsätta personer eller samhällen i behov av hjälp efter en katastrof
   level: 2
   name: Katastrofhjälp
   status: ACTIVE
@@ -226,7 +214,7 @@ categories:
   replacedBy: RYF-BIZ-XSV-JIV-TFL
   status: INACTIVE
 - code: RYF-BIZ-GCG-NCM
-  description: ''
+  description: Gripande, anhållan, häktning eller liknande
   level: 3
   name: Frihetsberövande
   replacedBy: RYF-BIZ-XSV-XDC
@@ -292,7 +280,7 @@ categories:
   replaces: RYF-BIZ-LHX-PHV
   status: ACTIVE
 - code: RYF-BIZ-RER-ZDY
-  description: ''
+  description: Gripande, anhållan, häktning eller liknande
   level: 3
   name: Frihetsberövande
   replaces: RYF-BIZ-XSV-XDC
@@ -393,7 +381,7 @@ categories:
   name: Ringa stöld
   status: ACTIVE
 - code: RYF-BIZ-WZJ-GSD
-  description: ''
+  description: När it-teknik används för att begå brott. Brotten i sig kan vara av vilken brottstyp som helst
   level: 3
   name: IT-brott
   status: ACTIVE
@@ -449,7 +437,7 @@ categories:
   name: Allmänfarlig ödeläggelse
   status: ACTIVE
 - code: RYF-BIZ-WZJ-JDU
-  description: ''
+  description: Person som missbrukar offentlig makt för privat vinning
   level: 3
   name: Korruption
   status: ACTIVE
@@ -514,7 +502,7 @@ categories:
   name: Våld i nära relationer
   status: ACTIVE
 - code: RYF-BIZ-WZJ-MZM
-  description: ''
+  description: Brott som begåtts under krig eller väpnad konflikt, vanligtvis mot civila
   level: 3
   name: Krigsbrott
   status: ACTIVE
@@ -549,7 +537,7 @@ categories:
   name: Kidnappning
   status: ACTIVE
 - code: RYF-BIZ-WZJ-PQY
-  description: ''
+  description: Brott som begås av ligor eller kriminella grupper
   level: 3
   name: Organiserad brottslighet
   status: ACTIVE
@@ -559,7 +547,7 @@ categories:
   name: Gängbrottslighet
   status: ACTIVE
 - code: RYF-BIZ-WZJ-PQY-DCE
-  description: ''
+  description: Modern form av slaveri, ofta relaterat till prostitution, hushållsarbete, eller fabriksarbete
   level: 4
   name: Människohandel
   replaces: RYF-HPT-THK-DPO
@@ -575,7 +563,7 @@ categories:
   name: Avtalsbrott
   status: ACTIVE
 - code: RYF-BIZ-WZJ-RPI-AFY
-  description: ''
+  description: Handel med aktier av person med tillgång till intern information som inte offentliggjorts
   level: 4
   name: Insiderhandel
   status: ACTIVE
@@ -651,7 +639,7 @@ categories:
   name: Förskingring
   status: ACTIVE
 - code: RYF-BIZ-WZJ-RXJ
-  description: ''
+  description: Alla typer av brott som rör narkotika
   level: 3
   name: Narkotikabrott
   status: ACTIVE
@@ -713,7 +701,7 @@ categories:
   name: Stämpling
   status: ACTIVE
 - code: RYF-BIZ-WZJ-USP
-  description: ''
+  description: Våld eller förstörelse för att med hjälp av rädsla uppnå politiska eller ideologiska mål
   level: 3
   name: Terrorism
   status: ACTIVE
@@ -721,12 +709,6 @@ categories:
   description: ''
   level: 4
   name: Biologisk terrorism
-  status: ACTIVE
-- code: RYF-BIZ-WZJ-VWX
-  description: ''
-  level: 3
-  name: Barnarbete
-  replaces: RYF-ZEI-CLV-OBQ
   status: ACTIVE
 - code: RYF-BIZ-WZJ-XEY
   description: ''
@@ -764,7 +746,7 @@ categories:
   name: Rättspsykiatrisk vård
   status: ACTIVE
 - code: RYF-BIZ-XSV-BII-FTR
-  description: ''
+  description: Brottspåföljd för ett brott där påföljden inte bedöms kunna stanna vid böter
   level: 4
   name: Villkorlig dom
   status: ACTIVE
@@ -863,12 +845,12 @@ categories:
   replaces: RYF-BIZ-XSV-RSI
   status: ACTIVE
 - code: RYF-BIZ-XSV-JTA-ZUJ
-  description: ''
+  description: När dom inte accepteras av den som dömts, av åklagaren eller brottsoffer
   level: 4
   name: Överklagande av dom
   status: ACTIVE
 - code: RYF-BIZ-XSV-JUZ
-  description: ''
+  description: Handlägger mål som främst rör tvister mellan enskilda personer och myndigheter
   level: 3
   name: Förvaltningsrätt
   status: ACTIVE
@@ -883,12 +865,12 @@ categories:
   name: Personrelaterat mål
   status: ACTIVE
 - code: RYF-BIZ-XSV-LCF
-  description: ''
+  description: Lagar som omfattas av alla nationer, till exempel Genèvekonventionen, International Law of the Seas och liknande
   level: 3
   name: Internationell rätt
   status: ACTIVE
 - code: RYF-BIZ-XSV-LCF-KVX
-  description: ''
+  description: Lagenlig överlåtelse av brottslingar eller misstänkta mellan länder
   level: 4
   name: Utlämning av brottsling
   status: ACTIVE
@@ -919,24 +901,24 @@ categories:
   name: Konkurrensfrågor
   status: ACTIVE
 - code: RYF-BIZ-XSV-XBV
-  description: ''
+  description: Juridiska frågor som regleras utanför domstol
   level: 3
   name: Övriga rättsärenden
   status: ACTIVE
 - code: RYF-BIZ-XSV-XDC
-  description: ''
+  description: Gripande, anhållan, häktning eller liknande
   level: 3
   name: Frihetsberövande
   replacedBy: RYF-BIZ-RER-ZDY
   replaces: RYF-BIZ-GCG-NCM
   status: INACTIVE
 - code: RYF-CUW
-  description: ''
+  description: Artiklar om individer, grupper, djur, växter eller andra föremål med fokus på känslomässiga aspekter
   level: 1
   name: Personligt
   status: ACTIVE
 - code: RYF-CUW-AEJ
-  description: ''
+  description: Känslomässiga berättelser om djur, eller om djurs roll för människan
   level: 2
   name: Husdjur
   status: ACTIVE
@@ -1011,7 +993,7 @@ categories:
   name: Otrohet
   status: ACTIVE
 - code: RYF-CUW-GIV
-  description: ''
+  description: Frågor som rör familjen som institution, till exempel äktenskap, adoption och skilsmässor
   level: 2
   name: Familjefrågor
   status: ACTIVE
@@ -1021,7 +1003,7 @@ categories:
   name: Skilsmässor
   status: ACTIVE
 - code: RYF-CUW-GIV-CWF
-  description: ''
+  description: Medvetna beslut och insatser som rör reproduktion, till exempel preventivmedel eller IVF-behandling
   level: 3
   name: Familjeplanering
   status: ACTIVE
@@ -1047,7 +1029,7 @@ categories:
   replaces: RYF-CUW-GIV-RLJ
   status: ACTIVE
 - code: RYF-CUW-GIV-CWF-LBN
-  description: ''
+  description: Till exempel provrörsbefruktning, IVF
   level: 4
   name: Fertilitetsbehandling
   status: ACTIVE
@@ -1148,12 +1130,12 @@ categories:
   replacedBy: RYF-CUW-GIV-CWF-KUQ
   status: INACTIVE
 - code: RYF-CUW-IAA
-  description: ''
+  description: Artiklar om en prestation, att man åstadkommit något speciellt eller uppnått milstole till exempel
   level: 2
   name: Prestationer
   status: ACTIVE
 - code: RYF-CUW-IAA-JLY
-  description: ''
+  description: Inriktat på om man fått pris eller utmärkselse
   level: 3
   name: Priser & utmärkelser
   status: ACTIVE
@@ -1168,12 +1150,12 @@ categories:
   name: Karriär
   status: ACTIVE
 - code: RYF-CUW-JCL
-  description: ''
+  description: Artiklar om växter med fokus på känslomässiga aspekter
   level: 2
   name: Växter
   status: ACTIVE
 - code: RYF-CUW-LGT
-  description: ''
+  description: Artiklar om speciella tillfällen, ceremonier och händelser
   level: 2
   name: Ceremonier & händelser
   status: ACTIVE
@@ -1478,7 +1460,7 @@ categories:
   name: Bråk & osämja
   status: ACTIVE
 - code: RYF-CUW-XVL
-  description: ''
+  description: Artiklar som rör kalendariska högtider
   level: 2
   name: Högtider
   status: ACTIVE
@@ -1707,12 +1689,6 @@ categories:
   level: 4
   name: Rymdresor
   status: ACTIVE
-- code: RYF-EOI-DOE-DNW
-  description: ''
-  level: 3
-  name: Djurförsök
-  replaces: RYF-IXA-KEV-XZV-GZB
-  status: ACTIVE
 - code: RYF-EOI-DOE-GTI
   description: ''
   level: 3
@@ -1886,17 +1862,17 @@ categories:
   replacedBy: RYF-EOI-GJM-LSG
   status: INACTIVE
 - code: RYF-HPT
-  description: ''
+  description: Artiklar som rör samhällsfrågor som till exempel välfärden, olika människogrupper och sociala problem
   level: 1
   name: Samhälle & välfärd
   status: ACTIVE
 - code: RYF-HPT-ECD
-  description: ''
+  description: Vetenskapen om en befolknings fördelning, storlek och sammansättning
   level: 2
   name: Demografi
   status: ACTIVE
 - code: RYF-HPT-ECD-NOG
-  description: ''
+  description: Artiklar som rör befolkningens utveckling över tid
   level: 3
   name: Befolkningsutveckling
   status: ACTIVE
@@ -1911,7 +1887,7 @@ categories:
   name: Socialt nätverkande
   status: ACTIVE
 - code: RYF-HPT-PFF
-  description: ''
+  description: Frågor om specifika grupperingar av liknande människor
   level: 2
   name: Människogrupper
   status: ACTIVE
@@ -1956,12 +1932,12 @@ categories:
   name: Kön
   status: ACTIVE
 - code: RYF-HPT-PPR
-  description: ''
+  description: Frågor som rör moraliska frågor, eller frågor som är svåra att prata om
   level: 2
   name: Moraliska frågor & sociala värderingar
   status: ACTIVE
 - code: RYF-HPT-PPR-CWB
-  description: ''
+  description: Frågor som rör vad som är socialt accepterat och inte
   level: 3
   name: Etik
   status: ACTIVE
@@ -1991,17 +1967,17 @@ categories:
   name: Pornografi
   status: ACTIVE
 - code: RYF-HPT-PPR-RNR
-  description: ''
+  description: Frågor kring olika sexuella beteenden och böjelser
   level: 3
   name: Sexuellt beteende
   status: ACTIVE
 - code: RYF-HPT-THK
-  description: ''
+  description: Olika typer av problem som kännetecknas av de går ut över en persons omgivning
   level: 2
   name: Sociala problem
   status: ACTIVE
 - code: RYF-HPT-THK-DPO
-  description: ''
+  description: Modern form av slaveri, ofta relaterat till prostitution, hushållsarbete, eller fabriksarbete
   level: 3
   name: Människohandel
   replacedBy: RYF-BIZ-WZJ-PQY-DCE
@@ -2019,7 +1995,7 @@ categories:
   replacedBy: RYF-HPT-TPU-ECJ
   status: INACTIVE
 - code: RYF-HPT-THK-KFS
-  description: ''
+  description: Personer som är arbetsoförmögna, antingen fysiskt, känslomässigt eller psykiskt
   level: 3
   name: Utanförskap
   replacedBy: RYF-HPT-TPU-XFH
@@ -2035,7 +2011,7 @@ categories:
   name: Prostitution
   status: ACTIVE
 - code: RYF-HPT-THK-RGK
-  description: ''
+  description: Personer som finansierar sin livsstil, ofta missbruk, med att begå brott
   level: 3
   name: Yrkeskriminella
   status: ACTIVE
@@ -2077,13 +2053,13 @@ categories:
   replaces: RYF-HPT-THK-IIG
   status: ACTIVE
 - code: RYF-HPT-TPU-XFH
-  description: ''
+  description: Personer som är arbetsoförmögna, antingen fysiskt, känslomässigt eller psykiskt
   level: 3
   name: Utanförskap
   replaces: RYF-HPT-THK-KFS
   status: ACTIVE
 - code: RYF-HPT-XAO
-  description: ''
+  description: Att göra skillnad på människor på grund av något som inte bygger på meriter eller talanger
   level: 2
   name: Diskriminering
   status: ACTIVE
@@ -2113,7 +2089,7 @@ categories:
   name: Rasism
   status: ACTIVE
 - code: RYF-HPT-XRQ
-  description: ''
+  description: Frågor som rör välfärdssamhället och den hjälp samhället kan ge människor som behöver mat, boende med mera
   level: 2
   name: Välfärd & bidragsfrågor
   status: ACTIVE
@@ -2123,7 +2099,7 @@ categories:
   name: Arbetslöshetsförsäkring
   status: ACTIVE
 - code: RYF-HPT-XRQ-DXC
-  description: ''
+  description: Omfattande sjukvård på grund av allvarlig sjukdom eller funktionshinder till exempel på grund av ålder
   level: 3
   name: Långtids- & äldrevård
   status: ACTIVE
@@ -2138,7 +2114,7 @@ categories:
   name: Skolskjutsar
   status: ACTIVE
 - code: RYF-HPT-XRQ-KWB
-  description: ''
+  description: Pengar individer kan få av myndigheter för att täcka basala behov
   level: 3
   name: Bidrag
   status: ACTIVE
@@ -2148,7 +2124,7 @@ categories:
   name: Barnbidrag
   status: ACTIVE
 - code: RYF-HPT-XRQ-MLN
-  description: ''
+  description: Att skänka pengar till organisation eller person för en specifik orsak
   level: 3
   name: Välgörenhet
   status: ACTIVE
@@ -2173,7 +2149,7 @@ categories:
   name: Hemtjänst
   status: ACTIVE
 - code: RYF-HPT-XRQ-YNP
-  description: ''
+  description: Frågor som rör personers sociala nätverk som kan verka stöttande för en person med sociala problem
   level: 3
   name: Socialt skyddsnät
   status: ACTIVE
@@ -2196,8 +2172,7 @@ categories:
   description: ''
   level: 3
   name: Kollektivtrafik
-  replacedBy: RYF-RSF-WHS
-  status: INACTIVE
+  status: ACTIVE
 - code: RYF-HPT-YGE-AMQ
   description: ''
   level: 3
@@ -2213,6 +2188,12 @@ categories:
   level: 3
   name: Internet
   status: ACTIVE
+- code: RYF-HPT-YGE-EZA
+  description: ''
+  level: 3
+  name: Infrastrukturbyggnad
+  replaces: RYF-IXA-KEV-OTN-ZWU
+  status: ACTIVE
 - code: RYF-HPT-YGE-FAZ
   description: ''
   level: 3
@@ -2227,67 +2208,42 @@ categories:
   description: ''
   level: 3
   name: Trafikpåverkan
-  replacedBy: RYF-RSF-KQR
-  status: INACTIVE
+  status: ACTIVE
 - code: RYF-HPT-YGE-GUI-AZI
   description: ''
   level: 4
   name: Tåg
-  replacedBy: RYF-RSF-RWJ
-  status: INACTIVE
+  status: ACTIVE
 - code: RYF-HPT-YGE-GUI-EHJ
   description: ''
   level: 4
   name: Väg
-  status: INACTIVE
+  status: ACTIVE
 - code: RYF-HPT-YGE-GUI-IVZ
   description: ''
   level: 4
   name: Buss
-  replacedBy: RYF-RSF-XXH
-  status: INACTIVE
+  status: ACTIVE
 - code: RYF-HPT-YGE-GUI-JGK
   description: ''
   level: 4
-  name: Flygtrafik
-  replacedBy: RYF-RSF-TJK
-  status: INACTIVE
+  name: Flyg
+  status: ACTIVE
 - code: RYF-HPT-YGE-GUI-OUM
   description: ''
   level: 4
   name: Spårvagn
-  replacedBy: RYF-RSF-CJA
-  status: INACTIVE
+  status: ACTIVE
 - code: RYF-HPT-YGE-GUI-XYP
   description: ''
   level: 4
   name: Tunnelbana
-  replacedBy: RYF-RSF-RHX
-  status: INACTIVE
+  status: ACTIVE
 - code: RYF-HPT-YGE-GUI-YMN
   description: ''
   level: 4
   name: Sjöfart
-  replacedBy: RYF-RSF-SRJ
-  status: INACTIVE
-- code: RYF-HPT-YGE-GUI-YMN-MDX
-  description: ''
-  level: 5
-  name: Färja
-  replacedBy: RYF-RSF-SRJ-MDX
-  status: INACTIVE
-- code: RYF-HPT-YGE-GUI-YMN-RBD
-  description: ''
-  level: 5
-  name: Fraktfartyg
-  replacedBy: RYF-RSF-SRJ-RBD
-  status: INACTIVE
-- code: RYF-HPT-YGE-GUI-YMN-ZUF
-  description: ''
-  level: 5
-  name: Passagerarfartyg
-  replacedBy: RYF-RSF-SRJ-ZUF
-  status: INACTIVE
+  status: ACTIVE
 - code: RYF-HPT-YGE-KEG
   description: ''
   level: 3
@@ -2296,28 +2252,19 @@ categories:
 - code: RYF-HPT-YGE-MOZ
   description: ''
   level: 3
-  name: Järnvägsnät
-  replacedBy: RYF-RSF-AVB
-  status: INACTIVE
+  name: Tågnät
+  status: ACTIVE
 - code: RYF-HPT-YGE-PEJ
   description: ''
   level: 3
-  name: Laddstolpe
-  replacedBy: RYF-RSF-FGN
-  status: INACTIVE
-- code: RYF-HPT-YGE-SCR
-  description: ''
-  level: 3
-  name: Infrastrukturbyggnad
-  replaces: RYF-IXA-KEV-OTN-ZWU
+  name: Laddstolpar
   status: ACTIVE
 - code: RYF-HPT-YGE-USH
   description: ''
   level: 3
   name: Vägnät
-  replacedBy: RYF-RSF-NBA
-  status: INACTIVE
-- code: RYF-HPT-YGE-WOH
+  status: ACTIVE
+- code: RYF-HPT-YGE-VOJ
   description: ''
   level: 3
   name: Digitalisering
@@ -2331,9 +2278,9 @@ categories:
   description: ''
   level: 3
   name: Spårvagnsnät
-  status: INACTIVE
+  status: ACTIVE
 - code: RYF-HPT-ZSS
-  description: ''
+  description: Grupp av människor som hålls samman av geografiska, administrativa eller sociala relationer
   level: 2
   name: Samhällen
   status: ACTIVE
@@ -2348,17 +2295,16 @@ categories:
   level: 3
   name: Stadsmiljö
   status: ACTIVE
-- code: RYF-HPT-ZSS-HAB-DBW
+- code: RYF-HPT-ZSS-HAB-QOC
   description: ''
   level: 4
   name: Parker
   status: ACTIVE
-- code: RYF-HPT-ZSS-HAB-DBW-MAL
-  description: ''
+- code: RYF-HPT-ZSS-HAB-QOC-PZL
   level: 5
   name: Lekparker
   status: ACTIVE
-- code: RYF-HPT-ZSS-HAB-GKI
+- code: RYF-HPT-ZSS-HAB-YQC
   description: ''
   level: 4
   name: Köpcentrum & gallerior
@@ -2369,38 +2315,32 @@ categories:
   level: 3
   name: Byggnader
   status: ACTIVE
-- code: RYF-HPT-ZSS-LAJ-CPM
-  description: ''
-  level: 4
-  name: Arkitektur
-  status: ACTIVE
 - code: RYF-HPT-ZSS-LAJ-RQP
   description: ''
   level: 4
   name: Köpcentrum & gallerior
-  replacedBy: RYF-HPT-ZSS-HAB-GKI
+  replacedBy: RYF-HPT-ZSS-HAB-YQC
   status: INACTIVE
-- code: RYF-HPT-ZSS-NHH-WKQ
+- code: RYF-HPT-ZSS-LAJ-UDN
+  description: ''
+  level: 4
+  name: Arkitektur
+  status: ACTIVE
+- code: RYF-HPT-ZSS-WRT
+  description: ''
+  level: 3
+  name: Bostadsmarknad
+  status: ACTIVE
+- code: RYF-HPT-ZSS-WRT-CGR
   description: ''
   level: 4
   name: Lagfart
   replaces: RYF-IXA-AOE-CYP-TSE-XQB
   status: ACTIVE
-- code: RYF-HPT-ZSS-NHH
-  description: ''
-  level: 3
-  name: Bostadsmarknad
-  status: ACTIVE
 - code: RYF-HPT-ZSS-WTL
   description: ''
   level: 3
   name: Samhällsplanering
-  status: ACTIVE
-- code: RYF-HPT-ZSS-WTL-HXO
-  description: ''
-  level: 4
-  name: Stadsbyggnad
-  replaces: RYF-IXA-KEV-OTN-WNQ
   status: ACTIVE
 - code: RYF-HPT-ZSS-WTL-JLR
   description: ''
@@ -2413,6 +2353,12 @@ categories:
   level: 4
   name: Översiktsplan
   replaces: RYF-HPT-ZSS-XII
+  status: ACTIVE
+- code: RYF-HPT-ZSS-WTL-XPE
+  description: ''
+  level: 4
+  name: Stadsbyggnad
+  replaces: RYF-IXA-KEV-OTN-WNQ
   status: ACTIVE
 - code: RYF-HPT-ZSS-XII
   description: ''
@@ -2436,7 +2382,7 @@ categories:
   name: Horoskop
   status: ACTIVE
 - code: RYF-ITV-IQC
-  description: ''
+  description: Anläggning där en grupp kan utföra sina religiösa riter, till exempel moské, kyrka, hus eller tält
   level: 2
   name: Religiösa byggnader
   status: ACTIVE
@@ -2476,12 +2422,12 @@ categories:
   name: Kristendom
   status: ACTIVE
 - code: RYF-ITV-LPR-COP
-  description: ''
+  description: Samlingsnamnet för en rad indiska sedvänjor, religiösa föreställningar och filosofiska koncept
   level: 3
   name: Hinduism
   status: ACTIVE
 - code: RYF-ITV-LPR-DOR
-  description: ''
+  description: Dyrkan av naturliga element som eld, vatten, träd och berg
   level: 3
   name: Naturreligion
   status: ACTIVE
@@ -2496,7 +2442,7 @@ categories:
   name: Sekt
   status: ACTIVE
 - code: RYF-ITV-LPR-MFH
-  description: ''
+  description: Asiatisk religion grundad av Buddha 500-talet till 300-talet f.Kr. i Indien
   level: 3
   name: Buddhism
   status: ACTIVE
@@ -2526,7 +2472,7 @@ categories:
   name: Scientologi
   status: ACTIVE
 - code: RYF-ITV-LTK
-  description: ''
+  description: Konflikter som involverar religiösa skillnader
   level: 2
   name: Religiösa konflikter
   status: ACTIVE
@@ -2536,12 +2482,12 @@ categories:
   name: Religiösa ledare
   status: ACTIVE
 - code: RYF-ITV-QAK
-  description: ''
+  description: Nyheter om en religiös händelse, men inte en festival eller semester
   level: 2
   name: Religiösa händelser
   status: ACTIVE
 - code: RYF-ITV-QAK-VBF
-  description: ''
+  description: Etablerade religiösa ritualer som till exempel gudstjänst, begravning och vigsel
   level: 3
   name: Religiösa ritualer
   status: ACTIVE
@@ -2551,12 +2497,12 @@ categories:
   name: Religiösa texter
   status: ACTIVE
 - code: RYF-ITV-WPR-MFF
-  description: ''
+  description: Islams heliga skrift
   level: 3
   name: Koranen
   status: ACTIVE
 - code: RYF-ITV-WPR-SYY
-  description: ''
+  description: Heliga skrifter av kristendomen som består av gamla och nya testamentet
   level: 3
   name: Bibeln
   status: ACTIVE
@@ -2566,12 +2512,12 @@ categories:
   name: Toran
   status: ACTIVE
 - code: RYF-ITV-WPR-XCD
-  description: ''
+  description: Helig skrift som ligger till grund för judisk, messiansk och hebreisk tro. Innehåller bland annat Torah
   level: 3
   name: Tanach
   status: ACTIVE
 - code: RYF-ITV-ZFQ
-  description: ''
+  description: Varje form av kommunikation mellan religioner
   level: 2
   name: Dialog mellan religioner
   status: ACTIVE
@@ -2589,7 +2535,7 @@ categories:
 - code: RYF-IXA-AOE-CYP
   description: ''
   level: 3
-  name: Privatlån
+  name: Låntyper
   status: ACTIVE
 - code: RYF-IXA-AOE-CYP-LRH
   description: ''
@@ -2604,7 +2550,7 @@ categories:
 - code: RYF-IXA-AOE-CYP-SBF-IRO
   description: ''
   level: 5
-  name: Blankolån
+  name: Övriga lån utan säkerhet
   status: ACTIVE
 - code: RYF-IXA-AOE-CYP-SBF-QNT
   description: ''
@@ -2617,31 +2563,6 @@ categories:
   name: Bolån
   replaces: RYF-IXA-QED-GWF
   status: ACTIVE
-- code: RYF-IXA-AOE-CYP-TSE-JBJ
-  description: ''
-  level: 5
-  name: Bolåneränta
-  status: ACTIVE
-- code: RYF-IXA-AOE-CYP-TSE-JBJ-BHP
-  description: ''
-  level: 6
-  name: Taxi
-  status: ACTIVE
-- code: RYF-IXA-AOE-CYP-TSE-JBJ-FCW
-  description: ''
-  level: 6
-  name: A-traktor & Epa-traktor
-  status: ACTIVE
-- code: RYF-IXA-AOE-CYP-TSE-JBJ-RFZ
-  description: ''
-  level: 6
-  name: Jordbruksmaskin
-  status: ACTIVE
-- code: RYF-IXA-AOE-CYP-TSE-JBJ-WTF
-  description: ''
-  level: 6
-  name: Entreprenadmaskin
-  status: ACTIVE
 - code: RYF-IXA-AOE-CYP-TSE-SDL
   description: ''
   level: 5
@@ -2651,17 +2572,24 @@ categories:
   description: ''
   level: 5
   name: Lagfart
-  replacedBy: RYF-HPT-ZSS-NH-WKQ
+  replacedBy: RYF-HPT-ZSS-WRT-CGR
   status: INACTIVE
-- code: RYF-IXA-AOE-FEY
+- code: RYF-IXA-AOE-ESB
   description: ''
   level: 3
-  name: Skuldsättning
+  name: Bostadspriser
   status: ACTIVE
-- code: RYF-IXA-AOE-FEY-CPE
-  description: ''
+- code: RYF-IXA-AOE-ESB-FQZ
   level: 4
-  name: Skuldsanering
+  name: Bostadsrättspriser
+  status: ACTIVE
+- code: RYF-IXA-AOE-ESB-SFB
+  level: 4
+  name: Fritidshuspriser
+  status: ACTIVE
+- code: RYF-IXA-AOE-ESB-TTI
+  level: 4
+  name: Villapriser
   status: ACTIVE
 - code: RYF-IXA-AOE-FRC
   description: ''
@@ -2675,87 +2603,15 @@ categories:
   level: 3
   name: Deklaration
   status: ACTIVE
-- code: RYF-IXA-AOE-IRM
-  description: ''
-  level: 3
-  name: Bostadspriser
-  status: ACTIVE
 - code: RYF-IXA-AOE-OLB
   description: ''
   level: 3
   name: Hushållskassa
-  status: INACTIVE
+  status: ACTIVE
 - code: RYF-IXA-AOE-OPN
   description: ''
   level: 3
-  name: Sparande
-  status: ACTIVE
-- code: RYF-IXA-AOE-OPN-JSK
-  description: ''
-  level: 4
-  name: Investeringssparkonto
-  status: ACTIVE
-- code: RYF-IXA-AOE-QVR
-  description: ''
-  level: 3
-  name: Konsumentrådgivning
-  status: ACTIVE
-- code: RYF-IXA-AOE-UFQ
-  description: ''
-  level: 3
-  name: Privatförsäkring
-  status: ACTIVE
-- code: RYF-IXA-AOE-UFQ-FXM
-  description: ''
-  level: 4
-  name: Personförsäkring
-  status: ACTIVE
-- code: RYF-IXA-AOE-UFQ-FXM-BMU
-  description: ''
-  level: 5
-  name: Olycksfallsförsäkring
-  replaces: RYF-IXA-KEV-VKR-ODH-HZI
-  status: ACTIVE
-- code: RYF-IXA-AOE-UFQ-FXM-GKG
-  description: ''
-  level: 5
-  name: Gravidförsäkring
-  replaces: RYF-IXA-KEV-VKR-ODH-BSB
-  status: ACTIVE
-- code: RYF-IXA-AOE-UFQ-FXM-QCD
-  description: ''
-  level: 5
-  name: Livsförsäkring
-  replaces: RYF-IXA-KEV-VKR-ODH-OOZ
-  status: ACTIVE
-- code: RYF-IXA-AOE-UFQ-FXM-WDQ
-  description: ''
-  level: 5
-  name: Barnförsäkring
-  replaces: RYF-IXA-KEV-VKR-ODH-TMT
-  status: ACTIVE
-- code: RYF-IXA-AOE-UFQ-MMW
-  description: ''
-  level: 4
-  name: Sakförsäkring
-  status: ACTIVE
-- code: RYF-IXA-AOE-UFQ-MMW-RNM
-  description: ''
-  level: 5
-  name: Båtförsäkring
-  replaces: RYF-IXA-KEV-VKR-ODH-OJZ
-  status: ACTIVE
-- code: RYF-IXA-AOE-UFQ-MMW-XPF
-  description: ''
-  level: 5
-  name: Fordonsförsäkring
-  replaces: RYF-IXA-KEV-VKR-ODH-WLZ
-  status: ACTIVE
-- code: RYF-IXA-AOE-UFQ-TIJ
-  description: ''
-  level: 4
-  name: Husdjursförsäkring
-  replaces: RYF-IXA-KEV-VKR-ODH-NNK
+  name: Spartips
   status: ACTIVE
 - code: RYF-IXA-AOE-VRY
   description: ''
@@ -2768,7 +2624,7 @@ categories:
   name: Skatteåterbäring
   status: ACTIVE
 - code: RYF-IXA-AOE-YFQ
-  description: ''
+  description: Frågor som rör pensionen, till exempel pensionsålder, förtidspension med mera
   level: 3
   name: Pension
   replaces: RYF-IXA-QED-HZF
@@ -2782,11 +2638,6 @@ categories:
   description: ''
   level: 4
   name: Flexpension
-  status: INACTIVE
-- code: RYF-IXA-AOE-YFQ-KJE
-  description: ''
-  level: 4
-  name: Premiepension
   status: ACTIVE
 - code: RYF-IXA-AOE-YFQ-NBP
   description: ''
@@ -2807,7 +2658,7 @@ categories:
   description: ''
   level: 4
   name: Förtidspension & sjukpension
-  status: INACTIVE
+  status: ACTIVE
 - code: RYF-IXA-CVI
   description: ''
   level: 2
@@ -2826,67 +2677,57 @@ categories:
 - code: RYF-IXA-CVI-FUJ-HZE
   description: ''
   level: 4
-  name: Oljepris
+  name: Energimarknad
   status: ACTIVE
 - code: RYF-IXA-CVI-FUJ-TPK
   description: ''
   level: 4
-  name: Råvarupris
+  name: Metallmarknad
   status: ACTIVE
 - code: RYF-IXA-CVI-MAB
   description: ''
   level: 3
   name: Aktier
   status: ACTIVE
-- code: RYF-IXA-CVI-MAB-BET
-  description: ''
-  level: 4
-  name: Börsbolag
-  status: ACTIVE
 - code: RYF-IXA-CVI-MAB-NXZ
   description: ''
   level: 4
-  name: Aktietips
+  name: Aktieråd
   status: ACTIVE
 - code: RYF-IXA-CVI-MAB-NXZ-CYZ
   description: ''
   level: 5
   name: Köpråd
-  status: INACTIVE
+  status: ACTIVE
 - code: RYF-IXA-CVI-MAB-NXZ-RIM
   description: ''
   level: 5
   name: Säljråd
-  status: INACTIVE
+  status: ACTIVE
 - code: RYF-IXA-CVI-MAB-NXZ-WWQ
   description: ''
   level: 5
   name: Råd att behålla
-  status: INACTIVE
+  status: ACTIVE
 - code: RYF-IXA-CVI-MAB-TUU
   description: ''
   level: 4
-  name: Börsrörelse
+  name: Börsrusning
   status: ACTIVE
 - code: RYF-IXA-CVI-MAB-UCN
   description: ''
   level: 4
   name: Börsras
-  status: INACTIVE
-- code: RYF-IXA-CVI-MAB-XEP
-  description: ''
-  level: 4
-  name: Aktiekurs
   status: ACTIVE
 - code: RYF-IXA-CVI-ODE
   description: ''
   level: 3
   name: Värdepapper
-  status: INACTIVE
+  status: ACTIVE
 - code: RYF-IXA-CVI-OHN
   description: ''
   level: 3
-  name: Valutor
+  name: Valutamarknad
   status: ACTIVE
 - code: RYF-IXA-CVI-RYM
   description: ''
@@ -2902,32 +2743,17 @@ categories:
   description: ''
   level: 3
   name: Lånemarknad
-  status: INACTIVE
-- code: RYF-IXA-CVI-TXG
-  description: ''
-  level: 3
-  name: Investering
-  replaces: RYF-IXA-QED-CPE
   status: ACTIVE
-- code: RYF-IXA-CVI-TXG-JBO
-  description: ''
-  level: 4
-  name: Riskkapital
+- code: RYF-IXA-CVI-TXG
+  description: Använd för investeringar i råvaror, värdepapper, valutor eller andra spekulativa instrument
+  level: 3
+  name: Investeringar
+  replaces: RYF-IXA-QED-CPE
   status: ACTIVE
 - code: RYF-IXA-CVI-VCE
   description: ''
   level: 3
   name: Obligationer
-  status: ACTIVE
-- code: RYF-IXA-CVI-VCE-KZL
-  description: ''
-  level: 4
-  name: Företagsobligationer
-  status: ACTIVE
-- code: RYF-IXA-CVI-VCE-RKC
-  description: ''
-  level: 4
-  name: Statspapper
   status: ACTIVE
 - code: RYF-IXA-ECZ
   description: ''
@@ -2939,33 +2765,33 @@ categories:
   description: ''
   level: 3
   name: Börsnotering
-  replacedBy: RYF-IXA-KEV-GNX
+  replacedBy: RYF-IXA-KEV-ANU
   status: INACTIVE
 - code: RYF-IXA-ECZ-CBI
   description: ''
   level: 3
   name: Årsredovisning
-  replacedBy: RYF-IXA-ECZ-UBS-DES
+  replacedBy: RYF-IXA-ECZ-UBS-ZQH
   replaces: RYF-IXA-LHV-QOI-CBI
   status: INACTIVE
 - code: RYF-IXA-ECZ-DXR
   description: ''
   level: 3
   name: Årsmöten & stämmor
-  replacedBy: RYF-IXA-KEV-HLK
+  replacedBy: RYF-IXA-KEV-OZO
   replaces: RYF-IXA-LHV-QOI-DXR
   status: INACTIVE
 - code: RYF-IXA-ECZ-FAO
   description: ''
   level: 3
   name: Bokslut
-  replacedBy: RYF-IXA-ECZ-UBS-QHN
+  replacedBy: RYF-IXA-ECZ-UBS-CBG
   status: INACTIVE
 - code: RYF-IXA-ECZ-FMD
-  description: ''
+  description: Meddelanden om aktieägarnas faktiska utdelning, använd också för vinstvarning
   level: 3
   name: Aktieutdelning
-  replacedBy: RYF-IXA-KEV-ZGL
+  replacedBy: RYF-IXA-KEV-PKH
   replaces: RYF-IXA-LHV-QOI-FMD
   status: INACTIVE
 - code: RYF-IXA-ECZ-KCI
@@ -2974,10 +2800,10 @@ categories:
   name: Aktiehändelser
   status: INACTIVE
 - code: RYF-IXA-ECZ-KOK
-  description: ''
+  description: Nya erbjudanden av eget kapital inklusive börsintroduktioner
   level: 3
   name: Nyemmission
-  replacedBy: RYF-IXA-KEV-WVF
+  replacedBy: RYF-IXA-KEV-JOH
   replaces: RYF-IXA-LHV-QOI-KOK
   status: INACTIVE
 - code: RYF-IXA-ECZ-LBG
@@ -2994,7 +2820,7 @@ categories:
   description: ''
   level: 3
   name: Redovisning & revision
-  replacedBy: RYF-IXA-KEV-DIC
+  replacedBy: RYF-IXA-KEV-PUM
   replaces: RYF-IXA-LHV-QOI-NBA
   status: INACTIVE
 - code: RYF-IXA-ECZ-NVH
@@ -3010,7 +2836,7 @@ categories:
   replaces: RYF-IXA-LHV-DFG
   status: INACTIVE
 - code: RYF-IXA-ECZ-NVH-FFA
-  description: ''
+  description: Alla typer av etableringar av nya företag, oavsett bransch
   level: 4
   name: Nyetableringar
   replaces: RYF-IXA-LHV-FFA
@@ -3028,19 +2854,19 @@ categories:
   replaces: RYF-IXA-LHV-GNH-BDA
   status: INACTIVE
 - code: RYF-IXA-ECZ-NVH-GNH-GOH
-  description: ''
+  description: Två eller flera företag som bildar ett nytt bolag genom uppköp eller förvärv
   level: 5
   name: Fusion eller förvärv
   replaces: RYF-IXA-LHV-GNH-GOH
   status: INACTIVE
 - code: RYF-IXA-ECZ-NVH-GNH-IDB
-  description: ''
+  description: Utnämningar till eller förändringar i styrelsen för ett företag
   level: 5
   name: Styrelse
   replaces: RYF-IXA-LHV-GNH-IDB
   status: INACTIVE
 - code: RYF-IXA-ECZ-NVH-GNH-MGG
-  description: ''
+  description: Kontrakt avseende kommersiell verksamhet
   level: 5
   name: Affärsavtal
   replaces: RYF-IXA-LHV-GNH-MGG
@@ -3049,23 +2875,23 @@ categories:
   description: ''
   level: 5
   name: Patent, upphovsrätt & varumärke
-  replacedBy: RYF-IXA-KEV-ZQV
+  replacedBy: RYF-IXA-KEV-OXW
   replaces: RYF-IXA-LHV-GNH-UUS
   status: INACTIVE
 - code: RYF-IXA-ECZ-NVH-GNH-WDE
-  description: ''
+  description: Skapandet av nya företag som knoppades av från befintliga företag
   level: 5
   name: Dotterbolag
   replaces: RYF-IXA-LHV-GNH-WDE
   status: INACTIVE
 - code: RYF-IXA-ECZ-NVH-GNH-YDU
-  description: ''
+  description: Två eller fler företag som kommer överens om en satsning
   level: 5
   name: Företagsgemensamma satsningar
   replaces: RYF-IXA-LHV-GNH-YDU
   status: INACTIVE
 - code: RYF-IXA-ECZ-NVH-GNH-YVJ
-  description: ''
+  description: Ett beslut av ett företag att ta tillbaka eller reparera en defekt produkt
   level: 5
   name: Produktåterkallelse
   replaces: RYF-IXA-LHV-GNH-YVJ
@@ -3080,67 +2906,67 @@ categories:
   description: ''
   level: 3
   name: Företagsförvärv
-  replacedBy: RYF-IXA-KEV-WMI
+  replacedBy: RYF-IXA-KEV-BCO
   status: INACTIVE
 - code: RYF-IXA-ECZ-SDB-IEO
   description: ''
   level: 4
   name: Kvartalsrapporter
-  replacedBy: RYF-IXA-ECZ-UBS-HPO
+  replacedBy: RYF-IXA-ECZ-UBS-GBN
   status: INACTIVE
 - code: RYF-IXA-ECZ-SDB-QAJ
   description: ''
   level: 4
   name: Resultatprognoser
-  replacedBy: RYF-IXA-ECZ-UBS-PGK
+  replacedBy: RYF-IXA-ECZ-UBS-FGW
   status: INACTIVE
 - code: RYF-IXA-ECZ-TDN
-  description: ''
+  description: Nyheter om faktiska konkurs anmälningar
   level: 3
   name: Konkurser
-  replacedBy: RYF-IXA-KEV-IVS
+  replacedBy: RYF-IXA-KEV-HNS
   replaces: RYF-IXA-LHV-QOI-TDN
   status: INACTIVE
 - code: RYF-IXA-ECZ-UBS
-  description: ''
+  description: Använd för rapport om företags ekonomiska resultat
   level: 3
   name: Finansiella resultat
-  replacedBy: RYF-IXA-KEV-HVF
+  replacedBy: RYF-IXA-KEV-WBI
   replaces: RYF-IXA-LHV-QOI-UBS
   status: INACTIVE
-- code: RYF-IXA-ECZ-UBS-DES
-  description: ''
-  level: 4
-  name: Årsredovisning
-  replacedBy: RYF-IXA-KEV-HVF-DES
-  replaces: RYF-IXA-ECZ-CBI
-  status: INACTIVE
-- code: RYF-IXA-ECZ-UBS-HPO
-  description: ''
-  level: 4
-  name: Kvartalsrapporter
-  replacedBy: RYF-IXA-KEV-HVF-HPO
-  replaces: RYF-IXA-ECZ-SDB-IEO
-  status: INACTIVE
-- code: RYF-IXA-ECZ-UBS-PGK
-  description: ''
-  level: 4
-  name: Resultatprognoser
-  replacedBy: RYF-IXA-KEV-HVF-PGK
-  replaces: RYF-IXA-ECZ-SDB-QAJ
-  status: INACTIVE
-- code: RYF-IXA-ECZ-UBS-QHN
+- code: RYF-IXA-ECZ-UBS-CBG
   description: ''
   level: 4
   name: Bokslut
-  replacedBy: RYF-IXA-KEV-HVF-QHN
+  replacedBy: RYF-IXA-KEV-WBI-CBG
   replaces: RYF-IXA-ECZ-FAO
+  status: INACTIVE
+- code: RYF-IXA-ECZ-UBS-FGW
+  description: ''
+  level: 4
+  name: Resultatprognoser
+  replacedBy: RYF-IXA-KEV-WBI-FGW
+  replaces: RYF-IXA-ECZ-SDB-QAJ
+  status: INACTIVE
+- code: RYF-IXA-ECZ-UBS-GBN
+  description: ''
+  level: 4
+  name: Kvartalsrapporter
+  replacedBy: RYF-IXA-KEV-WBI-GBN
+  replaces: RYF-IXA-ECZ-SDB-IEO
+  status: INACTIVE
+- code: RYF-IXA-ECZ-UBS-ZQH
+  description: ''
+  level: 4
+  name: Årsredovisning
+  replacedBy: RYF-IXA-KEV-WBI-ZQH
+  replaces: RYF-IXA-ECZ-CBI
   status: INACTIVE
 - code: RYF-IXA-ECZ-WQY
   description: ''
   level: 3
   name: Kreditvärdering
-  replacedBy: RYF-IXA-KEV-JND
+  replacedBy: RYF-IXA-KEV-BOW
   status: INACTIVE
 - code: RYF-IXA-ECZ-ZML
   description: ''
@@ -3148,56 +2974,69 @@ categories:
   name: Omstrukturering & rekapitalisering
   replaces: RYF-IXA-LHV-QOI-ZML
   status: INACTIVE
-- code: RYF-IXA-IIY
-  description: ''
-  level: 2
-  name: Lobbyverksamhet
-  status: ACTIVE
 - code: RYF-IXA-KEV
   description: ''
   level: 2
   name: Näringsliv
   status: ACTIVE
+- code: RYF-IXA-KEV-AIM
+  description: ''
+  level: 3
+  name: Entreprenörskap
+  replaces: RYF-IXA-QED-BIC-NTG
+  status: ACTIVE
+- code: RYF-IXA-KEV-ANU
+  description: ''
+  level: 3
+  name: Börsnotering
+  replaces: RYF-IXA-ECZ-BJN
+  status: ACTIVE
+- code: RYF-IXA-KEV-BCO
+  description: ''
+  level: 3
+  name: Företagsförvärv
+  replaces: RYF-IXA-ECZ-SDB
+  status: ACTIVE
 - code: RYF-IXA-KEV-BEL
   description: ''
   level: 3
-  name: Techbranschen
+  name: IT & datateknik
   status: ACTIVE
 - code: RYF-IXA-KEV-BEL-BJH
   description: ''
   level: 4
   name: Hårdvara
-  status: INACTIVE
+  status: ACTIVE
 - code: RYF-IXA-KEV-BEL-HDC
   description: ''
   level: 4
   name: Mjukvara & programvara
-  status: INACTIVE
+  status: ACTIVE
 - code: RYF-IXA-KEV-BEL-LPY
   description: ''
   level: 4
-  name: IT-säkerhet
+  name: Datasäkerhet
   status: ACTIVE
 - code: RYF-IXA-KEV-BEL-MRI
-  description: ''
+  description: Hårdvara och mjukvara som gör det möjligt för markbaserade enheter att skicka signaler till varandra via en satellit i omloppsbana
   level: 4
   name: Satellitteknik
-  status: INACTIVE
+  status: ACTIVE
 - code: RYF-IXA-KEV-BEL-MZV
   description: ''
   level: 4
   name: Kretskort & datorkomponenter
-  status: INACTIVE
+  status: ACTIVE
 - code: RYF-IXA-KEV-BEL-OCZ
   description: ''
   level: 4
   name: Telekommunikationsutrustning
-  status: INACTIVE
+  status: ACTIVE
 - code: RYF-IXA-KEV-BEL-RNR
   description: ''
   level: 4
   name: Techbranschen
-  status: INACTIVE
+  status: ACTIVE
 - code: RYF-IXA-KEV-BEL-SMN
   description: ''
   level: 4
@@ -3206,103 +3045,63 @@ categories:
 - code: RYF-IXA-KEV-BEL-TMN
   description: ''
   level: 4
-  name: Telekombranschen
-  replacedBy: RYF-IXA-KEV-PVA
-  status: INACTIVE
+  name: Telekommunikationstjänster & trådlös teknik
+  status: ACTIVE
 - code: RYF-IXA-KEV-BEL-YKX
   description: ''
   level: 4
   name: Datornätverkstjänster
-  status: INACTIVE
-- code: RYF-IXA-KEV-BFL
+  status: ACTIVE
+- code: RYF-IXA-KEV-BOW
   description: ''
   level: 3
-  name: Försvarsmaterialindustri
-  replaces: RYF-IXA-KEV-WHS-NZM
+  name: Kreditvärdering
+  replaces: RYF-IXA-ECZ-WQY
   status: ACTIVE
-- code: RYF-IXA-KEV-BKE
-  description: ''
-  level: 3
-  name: Papper & förpackningsartiklar
-  replaces: RYF-IXA-KEV-VRA-CXF
-  status: ACTIVE
-- code: RYF-IXA-KEV-BMO
+- code: RYF-IXA-KEV-CBT
   description: ''
   level: 3
   name: Strategi
   status: ACTIVE
-- code: RYF-IXA-KEV-CGM
-  description: ''
-  level: 3
-  name: Byggnadsbranschen
-  status: ACTIVE
-- code: RYF-IXA-KEV-CGM-HAN
-  description: ''
-  level: 4
-  name: Renovering & restaurering
-  replaces: RYF-IXA-KEV-OTN-RBK
-  status: ACTIVE
-- code: RYF-IXA-KEV-CGM-POJ
-  description: ''
-  level: 4
-  name: Nyproduktion
-  status: ACTIVE
 - code: RYF-IXA-KEV-CKN
-  description: ''
+  description: Produktion, prospektering och raffinering av malm i metaller, ofta från gruvor
   level: 3
   name: Gruvnäring
   replacedBy: RYF-IXA-KEV-IFB-RLI
   status: INACTIVE
-- code: RYF-IXA-KEV-CNI
-  description: ''
-  level: 3
-  name: Vitvarubranschen
-  replaces: RYF-IXA-KEV-WHS-LHJ-KHY
-  status: ACTIVE
 - code: RYF-IXA-KEV-CYO
   description: ''
   level: 3
   name: Logistik
   status: ACTIVE
-- code: RYF-IXA-KEV-CYO-DBK
-  description: ''
+- code: RYF-IXA-KEV-CYO-DPG
+  description: Verksamheten att transportera gods med lastbil och motorvägar
   level: 4
   name: Åkeribranschen
   replaces: RYF-IXA-KEV-VXX-YRQ
   status: ACTIVE
-- code: RYF-IXA-KEV-CYO-ERI
-  description: ''
+- code: RYF-IXA-KEV-CYO-OPE
+  description: Verksamheten för att transportera personer eller gods på järnväg
   level: 4
   name: Järnvägsbranschen
   replaces: RYF-IXA-KEV-VXX-SAU
   status: ACTIVE
-- code: RYF-IXA-KEV-CYO-LWX
-  description: ''
+- code: RYF-IXA-KEV-CYO-RID
+  description: Kommersiella transporter av människor eller gods via båtar, fartyg och vatten
   level: 4
   name: Rederibranschen
   replaces: RYF-IXA-KEV-VXX-TBB
   status: ACTIVE
-- code: RYF-IXA-KEV-CYO-OKM
-  description: ''
+- code: RYF-IXA-KEV-CYO-URX
+  description: Flygplan och flygplatsverksamhet
   level: 4
   name: Flygbranschen
   replaces: RYF-IXA-KEV-VXX-TWI
   status: ACTIVE
-- code: RYF-IXA-KEV-DCX
-  description: ''
-  level: 3
-  name: Mässa
-  status: ACTIVE
-- code: RYF-IXA-KEV-DIC
-  description: ''
-  level: 3
-  name: Redovisning & revision
-  replaces: RYF-IXA-ECZ-NBA
-  status: ACTIVE
 - code: RYF-IXA-KEV-DOS
-  description: ''
+  description: Verksamheter inom avfallshantering och begränsning av föroreningar
   level: 3
-  name: Avfallshantering & återvinning
+  name: Avfallshantering & bekämpning av föroreningar
   status: ACTIVE
 - code: RYF-IXA-KEV-DVU
   description: ''
@@ -3320,66 +3119,24 @@ categories:
   level: 4
   name: Onlinecasinon
   status: ACTIVE
-- code: RYF-IXA-KEV-EBO
+- code: RYF-IXA-KEV-EST
   description: ''
   level: 3
   name: Innovation
   status: ACTIVE
-- code: RYF-IXA-KEV-GNX
+- code: RYF-IXA-KEV-GZI
   description: ''
   level: 3
-  name: Börsnotering
-  replaces: RYF-IXA-ECZ-BJN
+  name: Egenföretagande
   status: ACTIVE
-- code: RYF-IXA-KEV-GSZ
-  description: ''
+- code: RYF-IXA-KEV-HNS
+  description: Nyheter om faktiska konkurs anmälningar
   level: 3
-  name: Småföretagande
-  replaces: RYF-IXA-QED-BIC-GJJ
-  status: ACTIVE
-- code: RYF-IXA-KEV-HLK
-  description: ''
-  level: 3
-  name: Årsmöten & stämmor
-  replaces: RYF-IXA-ECZ-DXR
-  status: ACTIVE
-- code: RYF-IXA-KEV-HRV
-  description: ''
-  level: 3
-  name: Ledarskap
-  status: ACTIVE
-- code: RYF-IXA-KEV-HVF
-  description: ''
-  level: 3
-  name: Finansiella resultat
-  replaces: RYF-IXA-ECZ-UBS
-  status: ACTIVE
-- code: RYF-IXA-KEV-HVF-DES
-  description: ''
-  level: 4
-  name: Årsredovisning
-  replaces: RYF-IXA-ECZ-UBS-DES
-  status: ACTIVE
-- code: RYF-IXA-KEV-HVF-HPO
-  description: ''
-  level: 4
-  name: Kvartalsrapporter
-  replaces: RYF-IXA-ECZ-UBS-HPO
-  status: ACTIVE
-- code: RYF-IXA-KEV-HVF-PGK
-  description: ''
-  level: 4
-  name: Resultatprognoser
-  replaces: RYF-IXA-ECZ-UBS-PGK
-  status: ACTIVE
-- code: RYF-IXA-KEV-HVF-QHN
-  description: ''
-  level: 4
-  name: Bokslut
-  replaces: RYF-IXA-ECZ-UBS-QHN
+  name: Konkurser
+  replaces: RYF-IXA-ECZ-TDN
   status: ACTIVE
 - code: RYF-IXA-KEV-IFB
-  description: ''
+  description: Metallurgisk industri
   level: 3
   name: Mineraler & metaller
   replaces: RYF-IXA-KEV-XZV-LIU
@@ -3388,89 +3145,64 @@ categories:
   description: ''
   level: 4
   name: Guld & värdefulla metaller
-  status: INACTIVE
+  status: ACTIVE
 - code: RYF-IXA-KEV-IFB-KNE
   description: ''
   level: 4
   name: Icke-järnmetall
-  status: INACTIVE
+  status: ACTIVE
 - code: RYF-IXA-KEV-IFB-QJI
   description: ''
   level: 4
   name: Byggmaterial
-  status: INACTIVE
+  status: ACTIVE
 - code: RYF-IXA-KEV-IFB-RLI
-  description: ''
+  description: Produktion, prospektering och raffinering av malm i metaller, ofta från gruvor
   level: 4
   name: Gruvnäring
-  replacedBy: RYF-IXA-KEV-YJY
   replaces: RYF-IXA-KEV-CKN
-  status: INACTIVE
+  status: ACTIVE
 - code: RYF-IXA-KEV-IFB-WQS
   description: ''
   level: 4
-  name: Järn- & stålindustri
-  replacedBy: RYF-IXA-KEV-VND
-  status: INACTIVE
-- code: RYF-IXA-KEV-IGZ
+  name: Järn & stål
+  status: ACTIVE
+- code: RYF-IXA-KEV-IRW
   description: ''
   level: 3
-  name: Möbel- & hemindredningstillverkning
-  replaces: RYF-IXA-KEV-VRA-XAL
+  name: Byggnadsbranschen
   status: ACTIVE
-- code: RYF-IXA-KEV-IVS
-  description: ''
+- code: RYF-IXA-KEV-IRW-EPE
+  description: Återställa egenskaper eller strukturer till ett tidigare bättre tillstånd
+  level: 4
+  name: Renovering & restaurering
+  replaces: RYF-IXA-KEV-OTN-RBK
+  status: ACTIVE
+- code: RYF-IXA-KEV-IRW-WCU
+  level: 4
+  name: Nyproduktion
+  status: ACTIVE
+- code: RYF-IXA-KEV-JOH
+  description: Nya erbjudanden av eget kapital inklusive börsintroduktioner
   level: 3
-  name: Konkurser
-  replaces: RYF-IXA-ECZ-TDN
+  name: Nyemmission
+  replaces: RYF-IXA-ECZ-KOK
   status: ACTIVE
-- code: RYF-IXA-KEV-JAU
+- code: RYF-IXA-KEV-KFO
   description: ''
   level: 3
   name: Handelsbolag
   status: ACTIVE
-- code: RYF-IXA-KEV-JND
+- code: RYF-IXA-KEV-KLF
   description: ''
   level: 3
-  name: Kreditvärdering
-  replaces: RYF-IXA-ECZ-WQY
+  name: Aktiebolag
   status: ACTIVE
-- code: RYF-IXA-KEV-JXF
+- code: RYF-IXA-KEV-KTN
   description: ''
   level: 3
-  name: Företagsrekonstruktion
-  status: ACTIVE
-- code: RYF-IXA-KEV-JYL
-  description: ''
-  level: 3
-  name: Bryggeri och dryckestillverkning
-  replaces: RYF-IXA-KEV-VRA-JBZ
-  status: ACTIVE
-- code: RYF-IXA-KEV-LLP
-  description: ''
-  level: 3
-  name: Fastighetsbranschen
-  status: ACTIVE
-- code: RYF-IXA-KEV-LLP-AZO
-  description: ''
-  level: 4
-  name: Fastighetsuthyrning
-  status: ACTIVE
-- code: RYF-IXA-KEV-LLP-QVK
-  description: ''
-  level: 4
-  name: Kontorsförvaltning
-  status: ACTIVE
-- code: RYF-IXA-KEV-LLP-YKF
-  description: ''
-  level: 4
-  name: Fastighetsförvaltning
-  status: ACTIVE
-- code: RYF-IXA-KEV-LQH
-  description: ''
-  level: 3
-  name: Byggnadsmaterial
-  replaces: RYF-IXA-KEV-VRA-PLF
+  name: Småföretagande
+  replaces: RYF-IXA-QED-BIC-GJJ
   status: ACTIVE
 - code: RYF-IXA-KEV-MCZ
   description: ''
@@ -3497,12 +3229,12 @@ categories:
   level: 4
   name: Dagstidningar & magasin
   status: ACTIVE
-- code: RYF-IXA-KEV-MCZ-HLJ-CRN
+- code: RYF-IXA-KEV-MCZ-HLJ-AHG
   description: ''
   level: 5
   name: Tidskrifter
   status: ACTIVE
-- code: RYF-IXA-KEV-MCZ-HLJ-PSH
+- code: RYF-IXA-KEV-MCZ-HLJ-MBC
   description: ''
   level: 5
   name: Nyhetsmedier
@@ -3518,45 +3250,40 @@ categories:
   name: Reklam & Pr
   replaces: RYF-IXA-KEV-SXR
   status: ACTIVE
-- code: RYF-IXA-KEV-MCZ-LRX-IVT
+- code: RYF-IXA-KEV-MCZ-LRX-AKK
   description: ''
   level: 5
-  name: Datamarknadsföring
+  name: Innehållsreklam
   status: ACTIVE
-- code: RYF-IXA-KEV-MCZ-LRX-MCA
+- code: RYF-IXA-KEV-MCZ-LRX-GNN
   description: ''
   level: 5
   name: Evenemang
   status: ACTIVE
-- code: RYF-IXA-KEV-MCZ-LRX-UHO
-  description: ''
-  level: 5
-  name: Pr
-  status: ACTIVE
-- code: RYF-IXA-KEV-MCZ-LRX-VUC
+- code: RYF-IXA-KEV-MCZ-LRX-RQA
   description: ''
   level: 5
   name: Reklam
   status: ACTIVE
-- code: RYF-IXA-KEV-MCZ-LRX-YJI
+- code: RYF-IXA-KEV-MCZ-LRX-XRJ
   description: ''
   level: 5
-  name: Innehållsreklam
+  name: Pr
+  status: ACTIVE
+- code: RYF-IXA-KEV-MCZ-LRX-ZPE
+  description: ''
+  level: 5
+  name: Datamarknadsföring
   status: ACTIVE
 - code: RYF-IXA-KEV-MCZ-MYU
   description: ''
   level: 4
   name: Nyhetsbyråer
-  status: INACTIVE
+  status: ACTIVE
 - code: RYF-IXA-KEV-MCZ-NYJ
   description: ''
   level: 4
   name: Filmindustri
-  status: ACTIVE
-- code: RYF-IXA-KEV-MCZ-PUM
-  description: ''
-  level: 4
-  name: Public service
   status: ACTIVE
 - code: RYF-IXA-KEV-MCZ-QMG
   description: ''
@@ -3573,33 +3300,20 @@ categories:
   level: 4
   name: Internetmedier
   status: ACTIVE
+- code: RYF-IXA-KEV-MCZ-WEU
+  description: ''
+  level: 4
+  name: Public service
+  status: ACTIVE
 - code: RYF-IXA-KEV-MCZ-WTP
   description: ''
   level: 4
   name: Satellit- och kabelleverantörer
   status: ACTIVE
-- code: RYF-IXA-KEV-MCZ-YRL
-  description: ''
-  level: 4
-  name: Alternativmedier
-  status: ACTIVE
-- code: RYF-IXA-KEV-MFS
+- code: RYF-IXA-KEV-MVM
   description: ''
   level: 3
-  name: Textiltillverkning
-  replaces: RYF-IXA-KEV-VRA-HUR
-  status: ACTIVE
-- code: RYF-IXA-KEV-MQE
-  description: ''
-  level: 3
-  name: Tobaksbranschen
-  replaces: RYF-IXA-KEV-VRA-BOL
-  status: ACTIVE
-- code: RYF-IXA-KEV-NYA
-  description: ''
-  level: 3
-  name: Bemanningsbranschen
-  replaces: RYF-IXA-KEV-VKR-MVU
+  name: Ledarskap
   status: ACTIVE
 - code: RYF-IXA-KEV-OTN
   description: ''
@@ -3607,7 +3321,7 @@ categories:
   name: Fastighets- & byggnadsindustri
   status: INACTIVE
 - code: RYF-IXA-KEV-OTN-GCM
-  description: ''
+  description: Köp och försäljning av fastigheter av alla typer
   level: 4
   name: Fastighetsaffärer
   replacedBy: RYF-IXA-QED-QAS
@@ -3629,10 +3343,10 @@ categories:
   replacedBy: RYF-IXA-QED-UGD-FRC
   status: INACTIVE
 - code: RYF-IXA-KEV-OTN-RBK
-  description: ''
+  description: Återställa egenskaper eller strukturer till ett tidigare bättre tillstånd
   level: 4
   name: Renovering & restaurering
-  replacedBy: RYF-IXA-KEV-CGM-HAN
+  replacedBy: RYF-IXA-KEV-IRW-EPE
   status: INACTIVE
 - code: RYF-IXA-KEV-OTN-TSA
   description: ''
@@ -3643,46 +3357,42 @@ categories:
   description: ''
   level: 4
   name: Stadsbyggnad
-  replacedBy: RYF-HPT-ZSS-WTL-HXO
+  replacedBy: RYF-HPT-ZSS-WTL-XPE
   status: INACTIVE
 - code: RYF-IXA-KEV-OTN-ZWU
   description: ''
   level: 4
   name: Infrastrukturbyggnad
-  replacedBy: RYF-HPT-YGE-SCR
+  replacedBy: RYF-HPT-YGE-EZA
   status: INACTIVE
-- code: RYF-IXA-KEV-PFR
+- code: RYF-IXA-KEV-OXW
   description: ''
   level: 3
-  name: Telefonförsäljning
+  name: Patent, upphovsrätt & varumärke
+  replaces: RYF-IXA-ECZ-NVH-GNH-UUS
   status: ACTIVE
-- code: RYF-IXA-KEV-PHX
+- code: RYF-IXA-KEV-OZO
   description: ''
   level: 3
-  name: Egenföretagande
+  name: Årsmöten & stämmor
+  replaces: RYF-IXA-ECZ-DXR
   status: ACTIVE
-- code: RYF-IXA-KEV-PIG
+- code: RYF-IXA-KEV-PCJ
   description: ''
   level: 3
   name: Enskild firma
   status: ACTIVE
-- code: RYF-IXA-KEV-PVA
-  description: ''
+- code: RYF-IXA-KEV-PKH
+  description: Meddelanden om aktieägarnas faktiska utdelning, använd också för vinstvarning
   level: 3
-  name: Telekombranschen
-  replaces: RYF-IXA-KEV-BEL-TMN
+  name: Aktieutdelning
+  replaces: RYF-IXA-ECZ-FMD
   status: ACTIVE
-- code: RYF-IXA-KEV-RCH
+- code: RYF-IXA-KEV-PUM
   description: ''
   level: 3
-  name: Flygplanstillverkning
-  replaces: RYF-IXA-KEV-WHS-NFQ
-  status: ACTIVE
-- code: RYF-IXA-KEV-RDX
-  description: ''
-  level: 3
-  name: Entreprenörskap
-  replaces: RYF-IXA-QED-BIC-NTG
+  name: Redovisning & revision
+  replaces: RYF-IXA-ECZ-NBA
   status: ACTIVE
 - code: RYF-IXA-KEV-RFJ
   description: ''
@@ -3693,22 +3403,22 @@ categories:
   description: ''
   level: 4
   name: Kafé
-  status: INACTIVE
+  status: ACTIVE
 - code: RYF-IXA-KEV-RFJ-CQI
   description: ''
   level: 4
   name: Nattklubb & diskotek
-  status: INACTIVE
+  status: ACTIVE
 - code: RYF-IXA-KEV-RFJ-IDT
-  description: ''
+  description: Ett företag där drycker tillagas och serveras till allmänheten för konsumtion på plats
   level: 4
   name: Bar
-  status: INACTIVE
+  status: ACTIVE
 - code: RYF-IXA-KEV-RFJ-KXI
-  description: ''
+  description: Ett företag där måltider tillagas och serveras till allmänheten
   level: 4
   name: Restaurang
-  status: INACTIVE
+  status: ACTIVE
 - code: RYF-IXA-KEV-RQL
   description: ''
   level: 3
@@ -3718,11 +3428,11 @@ categories:
   description: ''
   level: 4
   name: Elektronisk handel
-  status: INACTIVE
+  status: ACTIVE
 - code: RYF-IXA-KEV-RQL-BET
   description: ''
   level: 4
-  name: Sällanköpshandel
+  name: Lyxvaror
   status: ACTIVE
 - code: RYF-IXA-KEV-RQL-FAF
   description: ''
@@ -3738,11 +3448,11 @@ categories:
   description: ''
   level: 4
   name: Specialbutiker
-  status: INACTIVE
+  status: ACTIVE
 - code: RYF-IXA-KEV-RQL-MGE
   description: ''
   level: 4
-  name: Livsmedelshandel
+  name: Livsmedel
   status: ACTIVE
 - code: RYF-IXA-KEV-RQL-ORT
   description: ''
@@ -3750,12 +3460,12 @@ categories:
   name: Dryck
   status: INACTIVE
 - code: RYF-IXA-KEV-RQL-QQF
-  description: ''
+  description: Till exempel tändare, pennor, pappersvaror, porslin, klockor eller glasögon
   level: 4
-  name: Dagligvaror
+  name: Förbrukningsvaror
   status: ACTIVE
 - code: RYF-IXA-KEV-RQL-WBC
-  description: ''
+  description: Objekt som beställs och levereras per post
   level: 4
   name: Internethandel & postorder
   status: ACTIVE
@@ -3763,34 +3473,21 @@ categories:
   description: ''
   level: 4
   name: Leksakshandel
-  status: INACTIVE
+  status: ACTIVE
 - code: RYF-IXA-KEV-RQL-XNY
   description: ''
   level: 4
   name: Klädhandel
-  status: INACTIVE
+  status: ACTIVE
+- code: RYF-IXA-KEV-RSE
+  description: ''
+  level: 3
+  name: Nyetableringar
+  status: ACTIVE
 - code: RYF-IXA-KEV-RXL
   description: ''
   level: 3
   name: Cirkulär ekonomi
-  status: ACTIVE
-- code: RYF-IXA-KEV-RZZ
-  description: ''
-  level: 3
-  name: Livsmedelsindustrin
-  replaces: RYF-IXA-KEV-VRA-BLM
-  status: ACTIVE
-- code: RYF-IXA-KEV-SFI
-  description: ''
-  level: 3
-  name: Fordonstillverkning & bilindustri
-  replaces: RYF-IXA-KEV-WHS-ZIB
-  status: ACTIVE
-- code: RYF-IXA-KEV-SFI-UME
-  description: ''
-  level: 4
-  name: Produktionsstopp
-  replaces: RYF-IXA-KEV-WHS-ZIB-UME
   status: ACTIVE
 - code: RYF-IXA-KEV-SXR
   description: ''
@@ -3798,60 +3495,77 @@ categories:
   name: Reklam & PR
   replacedBy: RYF-IXA-KEV-MCZ-LRX
   status: INACTIVE
+- code: RYF-IXA-KEV-TOY
+  description: ''
+  level: 3
+  name: Fastighetsbranschen
+  status: ACTIVE
+- code: RYF-IXA-KEV-TOY-CSZ
+  level: 4
+  name: Fastighetsuthyrning
+  status: ACTIVE
+- code: RYF-IXA-KEV-TOY-FDT
+  level: 4
+  name: Fastighetsförvaltning
+  status: ACTIVE
+- code: RYF-IXA-KEV-TOY-XLK
+  level: 4
+  name: Kontorsförvaltning
+  status: ACTIVE
 - code: RYF-IXA-KEV-UBU
   description: ''
   level: 3
-  name: Energi & elproduktion
+  name: Energi, naturtillgångar & elproduktion
   status: ACTIVE
 - code: RYF-IXA-KEV-UBU-AXD
   description: ''
   level: 4
   name: Fotogen
-  status: INACTIVE
+  status: ACTIVE
 - code: RYF-IXA-KEV-UBU-EUP
-  description: ''
+  description: Exempelvis jordvärme och bergvärme
   level: 4
   name: Geotermisk energi
-  status: INACTIVE
+  status: ACTIVE
 - code: RYF-IXA-KEV-UBU-FLQ
   description: ''
   level: 4
-  name: Solenergiindustri
+  name: Solenergi
   status: ACTIVE
 - code: RYF-IXA-KEV-UBU-FVR
-  description: ''
+  description: Nyheter om till exempel höjning av bensinpriser eller nedläggning av bensinmackar
   level: 4
   name: Bensin
-  status: INACTIVE
+  status: ACTIVE
 - code: RYF-IXA-KEV-UBU-KHX
-  description: ''
+  description: Energi som inte framställs av fossila bränslen
   level: 4
   name: Biobränslen
-  status: INACTIVE
+  status: ACTIVE
 - code: RYF-IXA-KEV-UBU-KPP
   description: ''
   level: 4
-  name: Vindkraftindustri
+  name: Vindkraft
   status: ACTIVE
 - code: RYF-IXA-KEV-UBU-NLX
   description: ''
   level: 4
-  name: Kolkraftindustri
+  name: Kolkraft
   status: ACTIVE
 - code: RYF-IXA-KEV-UBU-OAX
   description: ''
   level: 4
   name: Naturgas
-  status: INACTIVE
+  status: ACTIVE
 - code: RYF-IXA-KEV-UBU-QVE
   description: ''
   level: 4
   name: Etanolbränsle
-  status: INACTIVE
+  status: ACTIVE
 - code: RYF-IXA-KEV-UBU-SOG
-  description: ''
+  description: Nyheter om till exempel gasprospekt, oljehamnar och oljeborrning
   level: 4
-  name: Olje- och gasindustri
+  name: Olja & gas
   status: ACTIVE
 - code: RYF-IXA-KEV-UBU-URP
   description: ''
@@ -3866,20 +3580,20 @@ categories:
 - code: RYF-IXA-KEV-UBU-XCR
   description: ''
   level: 4
-  name: Kärnkraftindustri
+  name: Kärnkraft
   status: ACTIVE
 - code: RYF-IXA-KEV-UBU-YEW
   description: ''
   level: 4
-  name: Vattenkraftindustri
+  name: Vattenkraft
   status: ACTIVE
 - code: RYF-IXA-KEV-UBU-ZZD
   description: ''
   level: 4
-  name: Drivmedelindustri
+  name: Dieselbränsle
   status: ACTIVE
 - code: RYF-IXA-KEV-UZJ
-  description: ''
+  description: Tillverkning av varor för fritidsaktiviteter
   level: 3
   name: Fritids- & sportartiklar
   replaces: RYF-IXA-KEV-YII-VZZ
@@ -3888,232 +3602,217 @@ categories:
   description: ''
   level: 3
   name: Privat- & företagstjänster
-  status: INACTIVE
+  status: ACTIVE
 - code: RYF-IXA-KEV-VKR-AOW
   description: ''
   level: 4
   name: Aktiemäklande
-  status: INACTIVE
+  status: ACTIVE
 - code: RYF-IXA-KEV-VKR-APV
-  description: ''
+  description: Leverantörer av expertkunskap inom ett brett spektrum av områden, vanligtvis tillfälligt
   level: 4
   name: Konsulttjänster
-  status: INACTIVE
+  status: ACTIVE
 - code: RYF-IXA-KEV-VKR-DTQ
-  description: ''
+  description: En tjänst som försöker bestämma vad folk vill köpa
   level: 4
   name: Marknadsundersökningar
-  status: INACTIVE
+  status: ACTIVE
 - code: RYF-IXA-KEV-VKR-ILG
   description: ''
   level: 4
   name: Bröllopstjänster
-  status: INACTIVE
+  status: ACTIVE
 - code: RYF-IXA-KEV-VKR-IRK
-  description: ''
+  description: Företag som tillhandahåller städning och liknande tjänster för hem och företag
   level: 4
   name: Fastighetsskötsel
-  status: INACTIVE
+  status: ACTIVE
 - code: RYF-IXA-KEV-VKR-KGD
   description: ''
   level: 4
   name: Bud- & transporttjänster
-  status: INACTIVE
+  status: ACTIVE
 - code: RYF-IXA-KEV-VKR-KHT
-  description: ''
+  description: Försäljning per budgivning
   level: 4
   name: Auktionstjänster
-  status: INACTIVE
+  status: ACTIVE
 - code: RYF-IXA-KEV-VKR-LRI
-  description: ''
+  description: Tjänster för lagring, överföring, mottagning och leverans av pengar
   level: 4
   name: Banktjänster
-  status: INACTIVE
+  status: ACTIVE
 - code: RYF-IXA-KEV-VKR-MFC
-  description: ''
+  description: Tjänster som erbjuder balansräkning av budget samt riktigheten av finansiella rapporter
   level: 4
   name: Bokföring & revision
-  status: INACTIVE
+  status: ACTIVE
 - code: RYF-IXA-KEV-VKR-MVU
-  description: ''
+  description: En tjänst som hjälper människor att hitta jobb och företag att hitta arbetare
   level: 4
-  name: Bemanningsbranschen
-  replacedBy: RYF-IXA-KEV-NYA
-  status: INACTIVE
+  name: Bemanningsföretag
+  status: ACTIVE
 - code: RYF-IXA-KEV-VKR-ODH
   description: ''
   level: 4
-  name: Försäkringsbranschen
-  status: INACTIVE
+  name: Försäkringar
+  status: ACTIVE
 - code: RYF-IXA-KEV-VKR-ODH-BSB
   description: ''
   level: 5
   name: Gravidförsäkring
-  replacedBy: RYF-IXA-AOE-UFQ-FXM-GKG
-  status: INACTIVE
+  status: ACTIVE
 - code: RYF-IXA-KEV-VKR-ODH-HZI
   description: ''
   level: 5
   name: Olycksfallsförsäkring
-  replacedBy: RYF-IXA-AOE-UFQ-FXM-BMU
-  status: INACTIVE
+  status: ACTIVE
 - code: RYF-IXA-KEV-VKR-ODH-LKB
   description: ''
   level: 5
   name: Hemförsäkring
-  status: INACTIVE
+  status: ACTIVE
 - code: RYF-IXA-KEV-VKR-ODH-NNK
   description: ''
   level: 5
   name: Husdjursförsäkring
-  replacedBy: RYF-IXA-AOE-UFQ-TIJ
-  status: INACTIVE
+  status: ACTIVE
 - code: RYF-IXA-KEV-VKR-ODH-OJZ
   description: ''
   level: 5
   name: Båtförsäkring
-  replacedBy: RYF-IXA-AOE-UFQ-MMW-RNM
-  status: INACTIVE
+  status: ACTIVE
 - code: RYF-IXA-KEV-VKR-ODH-OOZ
   description: ''
   level: 5
   name: Livsförsäkring
-  replacedBy: RYF-IXA-AOE-UFQ-FXM-QCD
-  status: INACTIVE
+  status: ACTIVE
 - code: RYF-IXA-KEV-VKR-ODH-TMT
   description: ''
   level: 5
   name: Barnförsäkring
-  replacedBy: RYF-IXA-AOE-UFQ-FXM-WDQ
-  status: INACTIVE
+  status: ACTIVE
 - code: RYF-IXA-KEV-VKR-ODH-WLZ
   description: ''
   level: 5
   name: Fordonsförsäkring
-  replacedBy: RYF-IXA-AOE-UFQ-MMW-XPF
-  status: INACTIVE
+  status: ACTIVE
 - code: RYF-IXA-KEV-VKR-OHX
   description: ''
   level: 4
   name: Uthyrning
-  status: INACTIVE
+  status: ACTIVE
 - code: RYF-IXA-KEV-VKR-QLU
   description: ''
   level: 4
   name: Tryckerier
-  status: INACTIVE
+  status: ACTIVE
 - code: RYF-IXA-KEV-VKR-ROV
   description: ''
   level: 4
   name: Leasing
-  status: INACTIVE
+  status: ACTIVE
 - code: RYF-IXA-KEV-VKR-ROV-FSJ
   description: ''
   level: 5
   name: Privatlease
-  status: INACTIVE
+  status: ACTIVE
 - code: RYF-IXA-KEV-VKR-ROV-QZV
   description: ''
   level: 5
   name: Företagslease
-  status: INACTIVE
+  status: ACTIVE
 - code: RYF-IXA-KEV-VKR-SAA
   description: ''
   level: 4
   name: Ekonomisk rådgivning
-  status: INACTIVE
+  status: ACTIVE
 - code: RYF-IXA-KEV-VKR-SKJ
-  description: ''
+  description: Konsument tjänst som är immateriell, till exempel skönhetsvård eller frisör
   level: 4
   name: Servicetjänster
-  status: INACTIVE
+  status: ACTIVE
 - code: RYF-IXA-KEV-VKR-SQL
-  description: ''
+  description: Företag som tillhandahåller tjänster för omhändertagande av de döda
   level: 4
   name: Begravningsbyråer & krematorier
-  status: INACTIVE
+  status: ACTIVE
 - code: RYF-IXA-KEV-VKR-TLP
   description: ''
   level: 4
   name: Verkstads- & reparationstjänster
-  status: INACTIVE
+  status: ACTIVE
 - code: RYF-IXA-KEV-VKR-TLP-JLP
   description: ''
   level: 5
   name: Bilverkstad
-  status: INACTIVE
+  status: ACTIVE
 - code: RYF-IXA-KEV-VKR-UDU
-  description: ''
+  description: Advokater och andra som hjälper företag och privatpersoner navigera lagarna
   level: 4
   name: Juridiska tjänster
-  status: INACTIVE
+  status: ACTIVE
 - code: RYF-IXA-KEV-VKR-XAQ
   description: ''
   level: 4
   name: Vårdgivare
-  status: INACTIVE
+  status: ACTIVE
 - code: RYF-IXA-KEV-VOI
   description: ''
   level: 3
   name: Skogsindustri
   status: ACTIVE
 - code: RYF-IXA-KEV-VRA
-  description: ''
+  description: Verksamheten för att omvandla råvaror till användbara produkter
   level: 3
   name: Processade tjänster & produkter
-  status: INACTIVE
+  status: ACTIVE
 - code: RYF-IXA-KEV-VRA-BLM
   description: ''
   level: 4
   name: Livsmedelsindustrin
-  replacedBy: RYF-IXA-KEV-RZZ
-  status: INACTIVE
+  status: ACTIVE
 - code: RYF-IXA-KEV-VRA-BOL
-  description: ''
+  description: Odling, produktion och försäljning av tobaksvaror
   level: 4
-  name: Tobaksbranschen
-  replacedBy: RYF-IXA-KEV-MQE
-  status: INACTIVE
+  name: Tobak
+  status: ACTIVE
 - code: RYF-IXA-KEV-VRA-CHD
   description: ''
   level: 4
   name: Dryckestillverkning utan alkohol
-  status: INACTIVE
+  status: ACTIVE
 - code: RYF-IXA-KEV-VRA-CXF
   description: ''
   level: 4
   name: Papper & förpackningsartiklar
-  replacedBy: RYF-IXA-KEV-BKE
-  status: INACTIVE
+  status: ACTIVE
 - code: RYF-IXA-KEV-VRA-HUR
   description: ''
   level: 4
   name: Textiltillverkning
-  replacedBy: RYF-IXA-KEV-MFS
-  status: INACTIVE
+  status: ACTIVE
 - code: RYF-IXA-KEV-VRA-JBZ
-  description: ''
+  description: Tillverkning av alkoholdrycker
   level: 4
-  name: Bryggeri och dryckestillverkning
-  replacedBy: RYF-IXA-KEV-JYL
-  status: INACTIVE
+  name: Destillering & bryggeriverksamhet för alkoholhaltiga drycker
+  status: ACTIVE
 - code: RYF-IXA-KEV-VRA-PLF
-  description: ''
+  description: Tillverkning av virke och annat material för byggnader
   level: 4
   name: Byggnadsmaterial
-  replacedBy: RYF-IXA-KEV-LQH
-  status: INACTIVE
+  status: ACTIVE
 - code: RYF-IXA-KEV-VRA-XAL
-  description: ''
+  description: Tillverkning av möbler, tapeter, färger och tyger för inredning
   level: 4
   name: Möbel- & hemindredningstillverkning
-  replacedBy: RYF-IXA-KEV-IGZ
-  status: INACTIVE
+  status: ACTIVE
 - code: RYF-IXA-KEV-VRA-YWU
-  description: ''
+  description: Produktion av gummibaserat material för handskar, skyddsbeläggningar, slangar och liknande
   level: 4
   name: Gummiprodukter
-  status: INACTIVE
+  status: ACTIVE
 - code: RYF-IXA-KEV-VSA
   description: ''
   level: 3
@@ -4138,7 +3837,7 @@ categories:
   description: ''
   level: 4
   name: Vinodling
-  status: INACTIVE
+  status: ACTIVE
 - code: RYF-IXA-KEV-VSA-MEC
   description: ''
   level: 4
@@ -4150,40 +3849,69 @@ categories:
   name: Fiskerinäring
   status: ACTIVE
 - code: RYF-IXA-KEV-VXX
-  description: ''
+  description: Medlen för att komma från en plats till en annan utan att gå
   level: 3
   name: Transporter
   status: ACTIVE
 - code: RYF-IXA-KEV-VXX-IMZ
-  description: ''
+  description: Processen för att ta sig till och från arbetet, bland annat transportmöjligheter, resenätverk, samåkning
   level: 4
   name: Pendling
-  replacedBy: RYF-RSF-QOE
-  status: INACTIVE
+  status: ACTIVE
 - code: RYF-IXA-KEV-VXX-SAU
-  description: ''
+  description: Verksamheten för att transportera personer eller gods på järnväg
   level: 4
   name: Järnvägsbranschen
-  replacedBy: RYF-IXA-KEV-CYO-ERI
+  replacedBy: RYF-IXA-KEV-CYO-OPE
   status: INACTIVE
 - code: RYF-IXA-KEV-VXX-TBB
-  description: ''
+  description: Kommersiella transporter av människor eller gods via båtar, fartyg och vatten
   level: 4
   name: Rederibranschen
-  replacedBy: RYF-IXA-KEV-CYO-LWX
+  replacedBy: RYF-IXA-KEV-CYO-RID
   status: INACTIVE
 - code: RYF-IXA-KEV-VXX-TWI
-  description: ''
+  description: Flygplan och flygplatsverksamhet
   level: 4
   name: Flygbranschen
-  replacedBy: RYF-IXA-KEV-CYO-OKM
+  replacedBy: RYF-IXA-KEV-CYO-URX
   status: INACTIVE
 - code: RYF-IXA-KEV-VXX-YRQ
-  description: ''
+  description: Verksamheten att transportera gods med lastbil och motorvägar
   level: 4
   name: Åkeribranschen
-  replacedBy: RYF-IXA-KEV-CYO-DBK
+  replacedBy: RYF-IXA-KEV-CYO-DPG
   status: INACTIVE
+- code: RYF-IXA-KEV-WBI
+  description: Använd för rapport om företags ekonomiska resultat
+  level: 3
+  name: Finansiella resultat
+  replaces: RYF-IXA-ECZ-UBS
+  status: ACTIVE
+- code: RYF-IXA-KEV-WBI-CBG
+  description: ''
+  level: 4
+  name: Bokslut
+  replaces: RYF-IXA-ECZ-UBS-CBG
+  status: ACTIVE
+- code: RYF-IXA-KEV-WBI-FGW
+  description: ''
+  level: 4
+  name: Resultatprognoser
+  replaces: RYF-IXA-ECZ-UBS-FGW
+  status: ACTIVE
+- code: RYF-IXA-KEV-WBI-GBN
+  description: ''
+  level: 4
+  name: Kvartalsrapporter
+  replaces: RYF-IXA-ECZ-UBS-GBN
+  status: ACTIVE
+- code: RYF-IXA-KEV-WBI-ZQH
+  description: ''
+  level: 4
+  name: Årsredovisning
+  replaces: RYF-IXA-ECZ-UBS-ZQH
+  status: ACTIVE
 - code: RYF-IXA-KEV-WHS
   description: ''
   level: 3
@@ -4202,117 +3930,100 @@ categories:
 - code: RYF-IXA-KEV-WHS-LHJ-KHY
   description: ''
   level: 5
-  name: Vitvarubranschen
-  replacedBy: RYF-IXA-KEV-CNI
-  status: INACTIVE
+  name: Hushållsmaskiner
+  status: ACTIVE
 - code: RYF-IXA-KEV-WHS-LHJ-UNZ
   description: ''
   level: 5
   name: Köksmaskiner
   status: ACTIVE
 - code: RYF-IXA-KEV-WHS-NFQ
-  description: ''
+  description: Företag som monterar eller tillverkar komponenter för flygplan och rymdskepp
   level: 4
-  name: Flygplanstillverkning
-  replacedBy: RYF-IXA-KEV-RCH
-  status: INACTIVE
+  name: Flygtillverkning
+  status: ACTIVE
 - code: RYF-IXA-KEV-WHS-NZM
   description: ''
   level: 4
-  name: Försvarsmaterialindustri
-  replacedBy: RYF-IXA-KEV-BFL
-  status: INACTIVE
+  name: Försvarsmaterial
+  status: ACTIVE
 - code: RYF-IXA-KEV-WHS-OJI
-  description: ''
+  description: Företag som producerar komponenter för bilar
   level: 4
   name: Fordonsutrustning
-  replacedBy: RYF-RSF-LKZ
-  status: INACTIVE
+  status: ACTIVE
 - code: RYF-IXA-KEV-WHS-OJI-AHY
   description: ''
   level: 5
-  name: Krockkudde
-  replacedBy: RYF-RSF-LKZ-AHY
-  status: INACTIVE
+  name: Krockkuddar
+  status: ACTIVE
 - code: RYF-IXA-KEV-WHS-OJI-DOG
   description: ''
   level: 5
-  name: Autobroms
-  replacedBy: RYF-RSF-LKZ-DOG
-  status: INACTIVE
+  name: Autobromsar
+  status: ACTIVE
 - code: RYF-IXA-KEV-WHS-OJI-EJA
   description: ''
   level: 5
-  name: Elbilsbatteri
-  replacedBy: RYF-RSF-LKZ-EJA
-  status: INACTIVE
+  name: Elbilsbatterier
+  status: ACTIVE
 - code: RYF-IXA-KEV-WHS-OJI-IMY
   description: ''
   level: 5
   name: Dubbdäck
-  replacedBy: RYF-RSF-LKZ-IMY
-  status: INACTIVE
+  status: ACTIVE
 - code: RYF-IXA-KEV-WHS-OJI-JQC
   description: ''
   level: 5
-  name: Bilbarnstol
-  replacedBy: RYF-RSF-LKZ-JQC
-  status: INACTIVE
+  name: Bilbarnstolar
+  status: ACTIVE
 - code: RYF-IXA-KEV-WHS-OJI-KSK
   description: ''
   level: 5
-  name: Bilbatteri
-  replacedBy: RYF-RSF-LKZ-KSK
-  status: INACTIVE
+  name: Bilbatterier
+  status: ACTIVE
 - code: RYF-IXA-KEV-WHS-OJI-KWL
   description: ''
   level: 5
   name: Stötdämpare
-  replacedBy: RYF-RSF-LKZ-KWL
-  status: INACTIVE
+  status: ACTIVE
 - code: RYF-IXA-KEV-WHS-OJI-NRD
   description: ''
   level: 5
   name: Vinterdäck
-  replacedBy: RYF-RSF-LKZ-NRD
-  status: INACTIVE
+  status: ACTIVE
 - code: RYF-IXA-KEV-WHS-OJI-OTB
   description: ''
   level: 5
   name: Sommardäck
-  replacedBy: RYF-RSF-LKZ-OTB
-  status: INACTIVE
+  status: ACTIVE
 - code: RYF-IXA-KEV-WHS-OJI-RUR
   description: ''
   level: 5
-  name: Vindruta
-  replacedBy: RYF-RSF-LKZ-RUR
-  status: INACTIVE
+  name: Vindrutor
+  status: ACTIVE
 - code: RYF-IXA-KEV-WHS-OJI-UOX
   description: ''
   level: 5
   name: Infotainmentsystem
-  replacedBy: RYF-RSF-LKZ-UOX
-  status: INACTIVE
+  status: ACTIVE
 - code: RYF-IXA-KEV-WHS-OJI-WJA
   description: ''
   level: 5
   name: Dubbelkopplingslåda
-  replacedBy: RYF-RSF-LKZ-WJA
-  status: INACTIVE
+  status: ACTIVE
 - code: RYF-IXA-KEV-WHS-OJI-ZSM
   description: ''
   level: 5
-  name: Strålkastare & lampa
-  replacedBy: RYF-RSF-LKZ-ZSM
-  status: INACTIVE
+  name: Strålkastare & lampor
+  status: ACTIVE
 - code: RYF-IXA-KEV-WHS-OYE
-  description: ''
+  description: Tillverkarna av mekaniska, elektriska, elektroniska artiklar som behövs vid tillverkningen av andra objekt
   level: 4
   name: Industriella komponenter
   status: ACTIVE
 - code: RYF-IXA-KEV-WHS-PFN
-  description: ''
+  description: Tillverkare av kranar, bulldozers och liknande för användning i större byggprojekt
   level: 4
   name: Tung industri
   status: ACTIVE
@@ -4320,31 +4031,16 @@ categories:
   description: ''
   level: 4
   name: Varvsindustri
-  replacedBy: RYF-IXA-KEV-YOG
-  status: INACTIVE
+  status: ACTIVE
 - code: RYF-IXA-KEV-WHS-ZIB
   description: ''
   level: 4
   name: Fordonstillverkning & bilindustri
-  replacedBy: RYF-IXA-KEV-SFI
-  status: INACTIVE
+  status: ACTIVE
 - code: RYF-IXA-KEV-WHS-ZIB-UME
   description: ''
   level: 5
   name: Produktionsstopp
-  replacedBy: RYF-IXA-KEV-SFI-UME
-  status: INACTIVE
-- code: RYF-IXA-KEV-WMI
-  description: ''
-  level: 3
-  name: Företagsförvärv
-  replaces: RYF-IXA-ECZ-SDB
-  status: ACTIVE
-- code: RYF-IXA-KEV-WVF
-  description: ''
-  level: 3
-  name: Nyemmission
-  replaces: RYF-IXA-ECZ-KOK
   status: ACTIVE
 - code: RYF-IXA-KEV-XZV
   description: ''
@@ -4355,25 +4051,24 @@ categories:
   description: ''
   level: 4
   name: Syntetiska & plastkemikalier
-  status: INACTIVE
+  status: ACTIVE
 - code: RYF-IXA-KEV-XZV-GAD
   description: ''
   level: 4
   name: Bioteknik
-  status: INACTIVE
+  status: ACTIVE
 - code: RYF-IXA-KEV-XZV-GZB
   description: ''
   level: 4
   name: Djurförsök
-  replacedBy: RYF-EOI-DOE-DNW
-  status: INACTIVE
+  status: ACTIVE
 - code: RYF-IXA-KEV-XZV-JLY
   description: ''
   level: 4
   name: Gödningsmedel
-  status: INACTIVE
+  status: ACTIVE
 - code: RYF-IXA-KEV-XZV-LIU
-  description: ''
+  description: Metallurgisk industri
   level: 4
   name: Mineraler & metaller
   replacedBy: RYF-IXA-KEV-IFB
@@ -4381,7 +4076,7 @@ categories:
 - code: RYF-IXA-KEV-XZV-PYI
   description: ''
   level: 4
-  name: Läkemedelsbranschen
+  name: Läkemedelsproduktion
   status: ACTIVE
 - code: RYF-IXA-KEV-XZV-QLV
   description: ''
@@ -4392,7 +4087,7 @@ categories:
   description: ''
   level: 4
   name: Hälsa & skönhetsprodukter
-  status: INACTIVE
+  status: ACTIVE
 - code: RYF-IXA-KEV-YII
   description: ''
   level: 3
@@ -4415,53 +4110,20 @@ categories:
   name: Flygbolag
   status: ACTIVE
 - code: RYF-IXA-KEV-YII-NFS
-  description: ''
+  description: Verksamhet i form av mat och husrum för resenärer
   level: 4
   name: Hotell & logi
   status: ACTIVE
 - code: RYF-IXA-KEV-YII-VZZ
-  description: ''
+  description: Tillverkning av varor för fritidsaktiviteter
   level: 4
   name: Fritids- & sportartiklar
   replacedBy: RYF-IXA-KEV-UZJ
   status: INACTIVE
-- code: RYF-IXA-KEV-YOG
-  description: ''
-  level: 3
-  name: Varvsindustri
-  replaces: RYF-IXA-KEV-WHS-WKF
-  status: ACTIVE
-- code: RYF-IXA-KEV-ZCR
-  description: ''
-  level: 3
-  name: Bankbranschen
-  status: ACTIVE
-- code: RYF-IXA-KEV-ZGL
-  description: ''
-  level: 3
-  name: Aktieutdelning
-  replaces: RYF-IXA-ECZ-FMD
-  status: ACTIVE
 - code: RYF-IXA-KEV-ZKK
   description: ''
   level: 3
-  name: Hantverksbranschen
-  status: ACTIVE
-- code: RYF-IXA-KEV-ZQV
-  description: ''
-  level: 3
-  name: Patent, upphovsrätt & varumärke
-  replaces: RYF-IXA-ECZ-NVH-GNH-UUS
-  status: ACTIVE
-- code: RYF-IXA-KEV-ZXG
-  description: ''
-  level: 3
-  name: Nyetableringar
-  status: ACTIVE
-- code: RYF-IXA-KEV-ZYD
-  description: ''
-  level: 3
-  name: Aktiebolag
+  name: Hantverksindustri
   status: ACTIVE
 - code: RYF-IXA-LHV
   description: ''
@@ -4476,7 +4138,7 @@ categories:
   replacedBy: RYF-IXA-ECZ-NVH-DFG
   status: INACTIVE
 - code: RYF-IXA-LHV-FFA
-  description: ''
+  description: Alla typer av etableringar av nya företag, oavsett bransch
   level: 3
   name: Nyetableringar
   replacedBy: RYF-IXA-ECZ-NVH-FFA
@@ -4494,19 +4156,19 @@ categories:
   replacedBy: RYF-IXA-ECZ-NVH-GNH-BDA
   status: INACTIVE
 - code: RYF-IXA-LHV-GNH-GOH
-  description: ''
+  description: Två eller flera företag som bildar ett nytt bolag genom uppköp eller förvärv
   level: 4
   name: Fusion eller förvärv
   replacedBy: RYF-IXA-ECZ-NVH-GNH-GOH
   status: INACTIVE
 - code: RYF-IXA-LHV-GNH-IDB
-  description: ''
+  description: Utnämningar till eller förändringar i styrelsen för ett företag
   level: 4
   name: Styrelse
   replacedBy: RYF-IXA-ECZ-NVH-GNH-IDB
   status: INACTIVE
 - code: RYF-IXA-LHV-GNH-MGG
-  description: ''
+  description: Kontrakt avseende kommersiell verksamhet
   level: 4
   name: Affärsavtal
   replacedBy: RYF-IXA-ECZ-NVH-GNH-MGG
@@ -4518,19 +4180,19 @@ categories:
   replacedBy: RYF-IXA-ECZ-NVH-GNH-UUS
   status: INACTIVE
 - code: RYF-IXA-LHV-GNH-WDE
-  description: ''
+  description: Skapandet av nya företag som knoppades av från befintliga företag
   level: 4
   name: Dotterbolag
   replacedBy: RYF-IXA-ECZ-NVH-GNH-WDE
   status: INACTIVE
 - code: RYF-IXA-LHV-GNH-YDU
-  description: ''
+  description: Två eller fler företag som kommer överens om en satsning
   level: 4
   name: Företagsgemensamma satsningar
   replacedBy: RYF-IXA-ECZ-NVH-GNH-YDU
   status: INACTIVE
 - code: RYF-IXA-LHV-GNH-YVJ
-  description: ''
+  description: Ett beslut av ett företag att ta tillbaka eller reparera en defekt produkt
   level: 4
   name: Produktåterkallelse
   replacedBy: RYF-IXA-ECZ-NVH-GNH-YVJ
@@ -4554,13 +4216,13 @@ categories:
   replacedBy: RYF-IXA-ECZ-DXR
   status: INACTIVE
 - code: RYF-IXA-LHV-QOI-FMD
-  description: ''
+  description: Meddelanden om aktieägarnas faktiska utdelning, använd också för vinstvarning
   level: 4
   name: Aktieutdelning
   replacedBy: RYF-IXA-ECZ-FMD
   status: INACTIVE
 - code: RYF-IXA-LHV-QOI-KOK
-  description: ''
+  description: Nya erbjudanden av eget kapital inklusive börsintroduktioner
   level: 4
   name: Nyemmissioner
   replacedBy: RYF-IXA-ECZ-KOK
@@ -4578,13 +4240,13 @@ categories:
   replacedBy: RYF-IXA-ECZ-RJL
   status: INACTIVE
 - code: RYF-IXA-LHV-QOI-TDN
-  description: ''
+  description: Nyheter om faktiska konkurs anmälningar
   level: 4
   name: Konkurser
   replacedBy: RYF-IXA-ECZ-TDN
   status: INACTIVE
 - code: RYF-IXA-LHV-QOI-UBS
-  description: ''
+  description: Använd för rapport om företags ekonomiska resultat
   level: 4
   name: Resultat
   replacedBy: RYF-IXA-ECZ-UBS
@@ -4596,7 +4258,7 @@ categories:
   replacedBy: RYF-IXA-ECZ-ZML
   status: INACTIVE
 - code: RYF-IXA-QED
-  description: ''
+  description: Artikel i en allmän karaktär om handel och ekonomi
   level: 2
   name: Samhällsekonomi
   status: ACTIVE
@@ -4604,18 +4266,18 @@ categories:
   description: ''
   level: 3
   name: Företag
-  status: INACTIVE
+  status: ACTIVE
 - code: RYF-IXA-QED-BIC-GJJ
   description: ''
   level: 4
   name: Småföretagande
-  replacedBy: RYF-IXA-KEV-GSZ
+  replacedBy: RYF-IXA-KEV-KTN
   status: INACTIVE
 - code: RYF-IXA-QED-BIC-NTG
   description: ''
   level: 4
   name: Entreprenörskap
-  replacedBy: RYF-IXA-KEV-RDX
+  replacedBy: RYF-IXA-KEV-AIM
   status: INACTIVE
 - code: RYF-IXA-QED-BLG
   description: ''
@@ -4648,7 +4310,7 @@ categories:
   name: Tullavgifter
   status: ACTIVE
 - code: RYF-IXA-QED-CPE
-  description: ''
+  description: Använd för investeringar i råvaror, värdepapper, valutor eller andra spekulativa instrument
   level: 3
   name: Investeringar
   replacedBy: RYF-IXA-CVI-TXG
@@ -4658,7 +4320,7 @@ categories:
   level: 3
   name: Penningpolitik
   status: ACTIVE
-- code: RYF-IXA-QED-CQI-BYP
+- code: RYF-IXA-QED-CQI-FXA
   description: ''
   level: 4
   name: Räntebesked
@@ -4667,15 +4329,14 @@ categories:
   description: ''
   level: 3
   name: Import
-  status: INACTIVE
-- code: RYF-IXA-QED-EIQ
+  status: ACTIVE
+- code: RYF-IXA-QED-EKT
   description: ''
   level: 3
-  name: Handelsbalans
-  replaces: RYF-IXA-QED-TPZ-SBV
+  name: Konjunktur
   status: ACTIVE
 - code: RYF-IXA-QED-EVV
-  description: ''
+  description: Motsatsen till inflation
   level: 3
   name: Deflation
   status: ACTIVE
@@ -4686,7 +4347,7 @@ categories:
   replacedBy: RYF-IXA-AOE-CYP-TSE
   status: INACTIVE
 - code: RYF-IXA-QED-HZF
-  description: ''
+  description: Frågor som rör pensionen, till exempel pensionsålder, förtidspension med mera
   level: 3
   name: Pension
   replacedBy: RYF-IXA-AOE-YFQ
@@ -4696,22 +4357,11 @@ categories:
   description: ''
   level: 3
   name: Internationella ekonomiska organisationer
-  status: INACTIVE
+  status: ACTIVE
 - code: RYF-IXA-QED-IJC
   description: ''
   level: 3
   name: Moms
-  replacedBy: RYF-IXA-QED-ZWD-POF
-  status: INACTIVE
-- code: RYF-IXA-QED-ILU
-  description: ''
-  level: 3
-  name: Elpriser
-  status: ACTIVE
-- code: RYF-IXA-QED-IPU
-  description: ''
-  level: 3
-  name: Frihandel
   status: ACTIVE
 - code: RYF-IXA-QED-JUO
   description: ''
@@ -4723,42 +4373,17 @@ categories:
   level: 4
   name: Styrränta
   status: ACTIVE
-- code: RYF-IXA-QED-KMC
-  description: ''
-  level: 3
-  name: Konjunktur
-  status: ACTIVE
 - code: RYF-IXA-QED-KRU
   description: ''
   level: 3
   name: Bostadspriser
   replaces: RYF-IXA-AOE-FRC
-  status: INACTIVE
-- code: RYF-IXA-QED-KRU-DGB
-  description: ''
-  level: 4
-  name: Villapriser
-  status: INACTIVE
-- code: RYF-IXA-QED-KRU-IDB
-  description: ''
-  level: 4
-  name: Bostadsrättspriser
-  status: INACTIVE
-- code: RYF-IXA-QED-KRU-TGP
-  description: ''
-  level: 4
-  name: Fritidshuspriser
-  status: INACTIVE
-- code: RYF-IXA-QED-KYQ
-  description: ''
-  level: 3
-  name: Konjunktur
   status: ACTIVE
 - code: RYF-IXA-QED-KZN
   description: ''
   level: 3
   name: Krediter & skulder
-  status: INACTIVE
+  status: ACTIVE
 - code: RYF-IXA-QED-LBK
   description: ''
   level: 3
@@ -4768,15 +4393,14 @@ categories:
   description: ''
   level: 3
   name: Centralbanker
-  status: INACTIVE
+  status: ACTIVE
 - code: RYF-IXA-QED-LIJ
   description: ''
   level: 3
   name: Budgetar & budgetering
-  replacedBy: RYF-KNI-MIP
-  status: INACTIVE
+  status: ACTIVE
 - code: RYF-IXA-QED-LSP
-  description: ''
+  description: Stigande priser
   level: 3
   name: Inflation
   status: ACTIVE
@@ -4784,7 +4408,7 @@ categories:
   description: ''
   level: 3
   name: Arbetsmarknadsstatistik
-  status: INACTIVE
+  status: ACTIVE
 - code: RYF-IXA-QED-LXS
   description: ''
   level: 3
@@ -4809,57 +4433,48 @@ categories:
   description: ''
   level: 3
   name: Marknadspriser
-  status: INACTIVE
+  status: ACTIVE
 - code: RYF-IXA-QED-QAS
-  description: ''
+  description: Köp och försäljning av fastigheter av alla typer
   level: 3
   name: Fastighetsaffärer
   replaces: RYF-IXA-KEV-OTN-GCM
-  status: INACTIVE
+  status: ACTIVE
 - code: RYF-IXA-QED-RHY
   description: ''
   level: 3
   name: Export
-  status: INACTIVE
+  status: ACTIVE
 - code: RYF-IXA-QED-SLZ
   description: ''
   level: 3
   name: Tillväxtmarknad
-  status: INACTIVE
-- code: RYF-IXA-QED-TND
-  description: ''
-  level: 3
-  name: Handelsavtal
-  replaces: RYF-IXA-QED-TPZ-PEX
   status: ACTIVE
 - code: RYF-IXA-QED-TPZ
-  description: ''
+  description: Handel med varor och tjänster mellan länder
   level: 3
   name: Internationell handel
-  status: INACTIVE
+  status: ACTIVE
 - code: RYF-IXA-QED-TPZ-FWN
   description: ''
   level: 4
   name: Handelstvist
-  status: INACTIVE
+  status: ACTIVE
 - code: RYF-IXA-QED-TPZ-JBV
   description: ''
   level: 4
   name: Handelspolitik
-  replacedBy: RYF-KNI-HPL
-  status: INACTIVE
+  status: ACTIVE
 - code: RYF-IXA-QED-TPZ-PEX
   description: ''
   level: 4
   name: Handelsavtal
-  replacedBy: RYF-IXA-QED-TND
-  status: INACTIVE
+  status: ACTIVE
 - code: RYF-IXA-QED-TPZ-SBV
   description: ''
   level: 4
   name: Handelsbalans
-  replacedBy: RYF-IXA-QED-EIQ
-  status: INACTIVE
+  status: ACTIVE
 - code: RYF-IXA-QED-UGD
   description: ''
   level: 3
@@ -4877,124 +4492,58 @@ categories:
   description: ''
   level: 3
   name: Recession
-  status: INACTIVE
+  status: ACTIVE
 - code: RYF-IXA-QED-URW
   description: ''
   level: 3
-  name: Drivmedelspriser
+  name: Dieselpriser
   status: ACTIVE
 - code: RYF-IXA-QED-VPQ
   description: ''
   level: 3
   name: Bensinpriser
-  status: INACTIVE
+  status: ACTIVE
 - code: RYF-IXA-QED-VZV
   description: ''
   level: 3
   name: Ekonomisk tillväxt
-  status: INACTIVE
+  status: ACTIVE
 - code: RYF-IXA-QED-WGO
   description: ''
   level: 3
   name: Bistånd
-  status: INACTIVE
+  status: ACTIVE
 - code: RYF-IXA-QED-YXM
   description: ''
   level: 3
   name: Lågkonjunktur
   status: INACTIVE
-- code: RYF-IXA-QED-ZWD
-  description: ''
-  level: 3
-  name: Skatter
-  status: ACTIVE
-- code: RYF-IXA-QED-ZWD-AAT
-  description: ''
-  level: 4
-  name: 3:12-reglerna
-  status: ACTIVE
-- code: RYF-IXA-QED-ZWD-AKP
-  description: ''
-  level: 4
-  name: Begravningsavgift
-  status: ACTIVE
-- code: RYF-IXA-QED-ZWD-AMZ
-  description: ''
-  level: 4
-  name: Kommunalskatt
-  status: ACTIVE
-- code: RYF-IXA-QED-ZWD-EHQ
-  description: ''
-  level: 4
-  name: Drivmedelsskatt
-  status: ACTIVE
-- code: RYF-IXA-QED-ZWD-LCN
-  description: ''
-  level: 4
-  name: Bolagsskatt
-  status: ACTIVE
-- code: RYF-IXA-QED-ZWD-LFF
-  description: ''
-  level: 4
-  name: Skatteavdrag
-  status: ACTIVE
-- code: RYF-IXA-QED-ZWD-LFF-SYX
-  description: ''
-  level: 5
-  name: Ränteavdrag
-  status: ACTIVE
-- code: RYF-IXA-QED-ZWD-LFF-UYM
-  description: ''
-  level: 5
-  name: Rot- & rutavdrag
-  status: ACTIVE
-- code: RYF-IXA-QED-ZWD-MJY
-  description: ''
-  level: 4
-  name: Arbetsgivaravgift
-  status: ACTIVE
-- code: RYF-IXA-QED-ZWD-OTH
-  description: ''
-  level: 4
-  name: Inkomstskatt
-  status: ACTIVE
-- code: RYF-IXA-QED-ZWD-POF
-  description: ''
-  level: 4
-  name: Moms
-  replaces: RYF-IXA-QED-IJC
-  status: ACTIVE
-- code: RYF-IXA-QED-ZWD-QBL
-  description: ''
-  level: 4
-  name: Statlig inkomstskatt
-  status: ACTIVE
-- code: RYF-IXA-QED-ZWD-SME
-  description: ''
-  level: 4
-  name: Tobaksskatt
-  status: ACTIVE
 - code: RYF-KNI
   description: ''
   level: 1
   name: Politik
   status: ACTIVE
 - code: RYF-KNI-BII
-  description: ''
+  description: Konflikt mellan partier som leder till att parlamentets uppdrag inte kan utövas
   level: 2
   name: Parlamentarisk kris
   status: ACTIVE
 - code: RYF-KNI-CLN
-  description: ''
+  description: Använd för riksdagens uppdrag och utformning, nyheter om riksdagens agerande använder organisationstaggen
   level: 2
   name: Riksdagsfrågor
   replaces: RYF-KNI-RLW-XJQ
   status: ACTIVE
 - code: RYF-KNI-CLN-QLS
-  description: ''
+  description: Använd för processer kring tjänsteman eller politiker som anklagas för att ha överträtt sitt mandat
   level: 3
   name: Konstitutionella frågor
   replaces: RYF-KNI-RLW-NZZ
+  status: ACTIVE
+- code: RYF-KNI-DFX
+  description: ''
+  level: 2
+  name: Bostadspolitik
   status: ACTIVE
 - code: RYF-KNI-EPV
   description: ''
@@ -5020,54 +4569,43 @@ categories:
   replaces: RYF-KNI-OHT-JAT
   status: ACTIVE
 - code: RYF-KNI-EPV-PIO
-  description: ''
+  description: System utformad för att ge order till regeringen
   level: 3
   name: Politiskt system
   replaces: RYF-KNI-OHT-PIO
   status: ACTIVE
 - code: RYF-KNI-EPV-PIO-PCQ
-  description: ''
+  description: En regering som väljs av folket med mandat att utöva folkets vilja inom ramarna av mänskliga rättigheter
   level: 4
   name: Demokrati
   replaces: RYF-KNI-OHT-PIO-PCQ
   status: ACTIVE
 - code: RYF-KNI-EPV-PIO-PNL
-  description: ''
+  description: En regering som inte valts av folket och är fria att bedriva politik som främjar regeringens intressen
   level: 4
   name: Diktatur
   replaces: RYF-KNI-OHT-PIO-PNL
   status: ACTIVE
 - code: RYF-KNI-EPV-UZG
-  description: ''
+  description: Försök från icke-statliga organisationer att påverka lagstiftning genom främst verbal övertalning
   level: 3
   name: Lobbyverksamhet
   replacedBy: RYF-KNI-KZM-KAV
   replaces: RYF-KNI-OHT-UZG
   status: INACTIVE
-- code: RYF-KNI-HPL
-  description: ''
-  level: 2
-  name: Handelspolitik
-  replaces: RYF-IXA-QED-TPZ-JBV
-  status: ACTIVE
-- code: RYF-KNI-JTZ
-  description: ''
-  level: 2
-  name: Bostadspolitik
-  status: ACTIVE
 - code: RYF-KNI-KZM
   description: ''
   level: 2
   name: Politisk påverkan
   status: ACTIVE
 - code: RYF-KNI-KZM-KAV
-  description: ''
+  description: Försök från icke-statliga organisationer att påverka lagstiftning genom främst verbal övertalning
   level: 3
   name: Lobbyverksamhet
   replaces: RYF-KNI-EPV-UZG
   status: ACTIVE
 - code: RYF-KNI-KZM-UAJ
-  description: ''
+  description: Använd för till exempel en ny kampanjstrategi inom sociala medier, kampanjskyltar
   level: 3
   name: Politiska kampanjer
   replaces: RYF-KNI-MRR-ZUW
@@ -5076,12 +4614,6 @@ categories:
   description: ''
   level: 4
   name: Valkampanjer
-  status: ACTIVE
-- code: RYF-KNI-MIP
-  description: ''
-  level: 2
-  name: Budgetar & budgetering
-  replaces: RYF-IXA-QED-LIJ
   status: ACTIVE
 - code: RYF-KNI-MRR
   description: ''
@@ -5094,7 +4626,7 @@ categories:
   name: Kyrkoval
   status: ACTIVE
 - code: RYF-KNI-MRR-EIU
-  description: ''
+  description: Använd för nyheter som rör själva röstandet. Till exempel att färre taktikröstar eller om en röstlokal är hotad
   level: 3
   name: Rösta i val
   status: ACTIVE
@@ -5125,12 +4657,12 @@ categories:
   replacedBy: RYF-KNI-MRR-YSA-CQL
   status: INACTIVE
 - code: RYF-KNI-MRR-QSD
-  description: ''
+  description: Använd när till exempel ett parti annonserat ut sina kandidater, eller om en kandidat förlorat partiets förtroende
   level: 3
   name: Politiska kandidater
   status: ACTIVE
 - code: RYF-KNI-MRR-URH
-  description: ''
+  description: Politiska förslag som inte grundas på styrets egna utredningar
   level: 3
   name: Medborgarförslag
   status: ACTIVE
@@ -5151,12 +4683,12 @@ categories:
   replaces: RYF-KNI-MRR-OCZ
   status: ACTIVE
 - code: RYF-KNI-MRR-YYH
-  description: ''
+  description: Använd för politiska beslut som fattas av en direkt omröstning hos samtliga röstberättigade medborgare
   level: 3
   name: Folkomröstning
   status: ACTIVE
 - code: RYF-KNI-MRR-ZUW
-  description: ''
+  description: Använd för till exempel en ny kampanjstrategi inom sociala medier, kampanjskyltar
   level: 3
   name: Politiska kampanjer
   replacedBy: RYF-KNI-KZM-UAJ
@@ -5195,25 +4727,25 @@ categories:
   replacedBy: RYF-KNI-EPV-JAT
   status: INACTIVE
 - code: RYF-KNI-OHT-PIO
-  description: ''
+  description: System utformad för att ge order till regeringen
   level: 3
   name: Politiskt system
   replacedBy: RYF-KNI-EPV-PIO
   status: INACTIVE
 - code: RYF-KNI-OHT-PIO-PCQ
-  description: ''
+  description: En regering som väljs av folket med mandat att utöva folkets vilja inom ramarna av mänskliga rättigheter
   level: 4
   name: Demokrati
   replacedBy: RYF-KNI-EPV-PIO-PCQ
   status: INACTIVE
 - code: RYF-KNI-OHT-PIO-PNL
-  description: ''
+  description: En regering som inte valts av folket och är fria att bedriva politik som främjar regeringens intressen
   level: 4
   name: Diktatur
   replacedBy: RYF-KNI-EPV-PIO-PNL
   status: INACTIVE
 - code: RYF-KNI-OHT-UZG
-  description: ''
+  description: Försök från icke-statliga organisationer att påverka lagstiftning genom främst verbal övertalning
   level: 3
   name: Lobbyverksamhet
   replacedBy: RYF-KNI-EPV-UZG
@@ -5224,7 +4756,7 @@ categories:
   name: Politiska ideologier
   status: ACTIVE
 - code: RYF-KNI-RLW
-  description: ''
+  description: Organisationer som utövar styret i ett land
   level: 2
   name: Myndigheter
   status: ACTIVE
@@ -5244,7 +4776,7 @@ categories:
   name: Offentliga tjänstemän
   status: ACTIVE
 - code: RYF-KNI-RLW-HER-VNR
-  description: ''
+  description: Obetald tjänst för samhället som civila
   level: 4
   name: Samhällstjänst & allmännytta
   status: ACTIVE
@@ -5264,7 +4796,7 @@ categories:
   name: Regionala myndigheter
   status: ACTIVE
 - code: RYF-KNI-RLW-NZZ
-  description: ''
+  description: Använd för processer kring tjänsteman eller politiker som anklagas för att ha överträtt sitt mandat
   level: 3
   name: Konstitutionella frågor
   replacedBy: RYF-KNI-CLN-QLS
@@ -5296,7 +4828,7 @@ categories:
   name: Departement
   status: ACTIVE
 - code: RYF-KNI-RLW-XJQ
-  description: ''
+  description: Använd för riksdagens uppdrag och utformning, nyheter om riksdagens agerande använder organisationstaggen
   level: 3
   name: Riksdagsfrågor
   replacedBy: RYF-KNI-CLN
@@ -5314,7 +4846,7 @@ categories:
   replacedBy: RYF-KNI-RLW-YIU-RDU-ADH
   status: INACTIVE
 - code: RYF-KNI-RLW-YIU-ADH-ORM
-  description: ''
+  description: Filosofin kring att säkra en nation och dess gränser
   level: 5
   name: Nationell säkerhet
   replacedBy: RYF-KNI-RLW-YIU-RDU-ADH-ORM
@@ -5326,7 +4858,7 @@ categories:
   replacedBy: RYF-KNI-RLW-YIU-RDU-IEY
   status: INACTIVE
 - code: RYF-KNI-RLW-YIU-IEY-KTJ
-  description: ''
+  description: Ett lands utrustning och arsenal för militären
   level: 5
   name: Militära vapen
   replacedBy: RYF-KNI-RLW-YIU-RDU-IEY-KTJ
@@ -5362,7 +4894,7 @@ categories:
   replaces: RYF-KNI-RLW-YIU-ADH
   status: ACTIVE
 - code: RYF-KNI-RLW-YIU-RDU-ADH-ORM
-  description: ''
+  description: Filosofin kring att säkra en nation och dess gränser
   level: 6
   name: Nationell säkerhet
   replaces: RYF-KNI-RLW-YIU-ADH-ORM
@@ -5374,7 +4906,7 @@ categories:
   replaces: RYF-KNI-RLW-YIU-IEY
   status: ACTIVE
 - code: RYF-KNI-RLW-YIU-RDU-IEY-KTJ
-  description: ''
+  description: Ett lands utrustning och arsenal för militären
   level: 6
   name: Militära vapen
   replaces: RYF-KNI-RLW-YIU-IEY-KTJ
@@ -5408,17 +4940,17 @@ categories:
   name: Internationella relationer
   status: ACTIVE
 - code: RYF-KNI-SQH-DKK
-  description: ''
+  description: Människor som söker skydd i ett annat land för att undslippa förföljelse och misär
   level: 3
   name: Flyktingfrågan globalt
   status: ACTIVE
 - code: RYF-KNI-SQH-LBP
-  description: ''
+  description: Bestraffande åtgärder som vidtagits av ett land mot ett annat inklusive handelsrestriktioner, till exempel embargon
   level: 3
   name: Ekonomiska sanktioner
   status: ACTIVE
 - code: RYF-KNI-SQH-LCX
-  description: ''
+  description: Muntlig och skriftlig kommunikation mellan nationer för att övertala varandra utan våld
   level: 3
   name: Diplomati
   status: ACTIVE
@@ -5428,7 +4960,7 @@ categories:
   name: Fördrag
   status: ACTIVE
 - code: RYF-KNI-SQH-LCX-GQK
-  description: ''
+  description: Möten mellan ledare och ministrar från olika länder om nationsöverskridande frågor
   level: 4
   name: Toppmöten
   status: ACTIVE
@@ -5458,17 +4990,17 @@ categories:
   name: Politiska frågor
   status: ACTIVE
 - code: RYF-KNI-XNS-CFE
-  description: ''
+  description: Till exempel anslag till vägar, internetanslutning eller elnät
   level: 3
   name: Infrastrukturfrågor
   status: ACTIVE
 - code: RYF-KNI-XNS-CHY
-  description: ''
+  description: Till exempel anslag till kulturella föreningar och sällskap
   level: 3
   name: Kulturpolitik
   status: ACTIVE
 - code: RYF-KNI-XNS-ELZ
-  description: ''
+  description: Till exempel investeringar i förnybara resurser och skatt på utsläpp
   level: 3
   name: Miljö- & klimatpolitik
   status: ACTIVE
@@ -5498,7 +5030,7 @@ categories:
   name: Dieselförbud
   status: ACTIVE
 - code: RYF-KNI-XNS-FQO
-  description: ''
+  description: Används för artiklar som berör regioners och landstings styre
   level: 3
   name: Regions- & landstingsfrågor
   status: ACTIVE
@@ -5543,12 +5075,12 @@ categories:
   name: Sjukvårdspolitik
   status: ACTIVE
 - code: RYF-KNI-XNS-KVO-MPS
-  description: ''
+  description: Skydd som täcker utgifterna för en person som är för sjuk för att arbeta
   level: 4
   name: Sjukförsäkring
   status: ACTIVE
 - code: RYF-KNI-XNS-KVO-RXE
-  description: ''
+  description: Sjukvård som bedrivs på privata sjukhus och vårdcentraler
   level: 4
   name: Privat sjukvård
   status: ACTIVE
@@ -5563,7 +5095,7 @@ categories:
   name: Samhällspolitik
   status: ACTIVE
 - code: RYF-KNI-XNS-SWE-CAC
-  description: ''
+  description: Använd för nyheter om hur svenska minoriteter blir behandlade. Till exempel rättigheter för samer
   level: 4
   name: Minoritetsfrågor
   status: ACTIVE
@@ -5573,7 +5105,7 @@ categories:
   name: Datasäkerhetsfrågor
   status: ACTIVE
 - code: RYF-KNI-XNS-SWE-ILT
-  description: ''
+  description: Använd för nyheter om integrationsåtgärder. Till exempel växande utanförskap, satsningar på SFI
   level: 4
   name: Integritetsfrågor & personuppgifter
   status: ACTIVE
@@ -5633,7 +5165,7 @@ categories:
   name: Vinster i välfärden
   status: ACTIVE
 - code: RYF-KNI-XNS-TDS
-  description: ''
+  description: Regeringens politik för att skydda nationen och gränserna
   level: 3
   name: Försvars- & säkerhetspolitik
   status: ACTIVE
@@ -5643,7 +5175,7 @@ categories:
   name: Regleringar
   status: ACTIVE
 - code: RYF-KNI-XNS-TVM-YQF
-  description: ''
+  description: Regeringens politik som rör mat och dryck
   level: 4
   name: Livsmedelsregler
   status: ACTIVE
@@ -5668,7 +5200,7 @@ categories:
   name: Statligt ägda företag
   status: ACTIVE
 - code: RYF-KNI-XNS-WZY-NMW
-  description: ''
+  description: Statens övertagande av privata företag eller tillgångar, som till exempel fastigheter
   level: 4
   name: Förstatligande
   status: ACTIVE
@@ -5678,7 +5210,7 @@ categories:
   name: Privatisering
   status: ACTIVE
 - code: RYF-KNI-XNS-WZY-ZFI
-  description: ''
+  description: Styrdokument för utgifter och investeringar ett styre skall göra under en period och hur de skall finansieras av lån eller skatt
   level: 4
   name: Statsbudget & budgetarbete
   status: ACTIVE
@@ -5724,17 +5256,17 @@ categories:
   name: Val i USA
   status: ACTIVE
 - code: RYF-KNI-ZIS
-  description: ''
+  description: Använd för diskussioner om politiska debatter som rör Sveriges grundläggande lagar och rättigheter
   level: 2
   name: Grundlagar & grundläggande rättigheter
   status: ACTIVE
 - code: RYF-KNI-ZIS-CWW
-  description: ''
+  description: Personers rätt att utöva och observera sin tro
   level: 3
   name: Religionsfrihet
   status: ACTIVE
 - code: RYF-KNI-ZIS-IUN
-  description: ''
+  description: Personers rätt att kommunicera och uttrycka åsikter och idéer
   level: 3
   name: Yttrandefrihet & tryckfrihet
   status: ACTIVE
@@ -5744,33 +5276,33 @@ categories:
   name: Censur
   status: ACTIVE
 - code: RYF-KNI-ZIS-IUN-PGT
-  description: ''
+  description: En demonstration är en folkmassa som samlats för att offentligt uttrycka en opinion i en politisk eller annan fråga
   level: 4
   name: Demonstrationer
   replaces: RYF-WXT-BND-ATO
   status: ACTIVE
 - code: RYF-KNI-ZIS-OPA
-  description: ''
+  description: Universiella rättigheter som gäller för alla människor, även icke-medborgare
   level: 3
   name: Mänskliga rättigheter
   status: ACTIVE
 - code: RYF-KNI-ZIS-RAZ
-  description: ''
+  description: Enskilda medborgares rättigheter enligt civilrätten
   level: 3
   name: Medborgerliga rättigheter
   status: ACTIVE
 - code: RYF-QPR
-  description: ''
+  description: Sport som huvudämne, både specifika sporter eller sportrelaterade ämnen som dopning och idrottsaffärer
   level: 1
   name: Sport
   status: ACTIVE
 - code: RYF-QPR-DBC
-  description: ''
+  description: Kommersiella frågor som beror idrott, exempelvis tv-avtal, sponsoravtal, eller förvärv av klubbar
   level: 2
   name: Sportindustri & ekonomiska affärer
   status: ACTIVE
 - code: RYF-QPR-FMU
-  description: ''
+  description: Nyheter om spelare som byter lag eller byter klubb, eller rykten om detsamma
   level: 2
   name: Transfermarknad & övergångar
   status: ACTIVE
@@ -5785,7 +5317,7 @@ categories:
   name: Målservice
   status: ACTIVE
 - code: RYF-QPR-HGB
-  description: ''
+  description: Olika typer av sporter och även grenar inom sporter
   level: 2
   name: Sporter
   status: ACTIVE
@@ -10147,13 +9679,13 @@ categories:
   name: Dragkamp
   status: ACTIVE
 - code: RYF-QPR-HJD
-  description: ''
+  description: Användning av otillåtna preparat för att höja prestationsförmåga, och frågor relaterade till det
   level: 2
   name: Dopning inom idrott
   replacedBy: RYF-QPR-QHP-QXE
   status: INACTIVE
 - code: RYF-QPR-ICL
-  description: ''
+  description: Nyheter som berör arenor och andra faciliteter där sport utövas
   level: 2
   name: Sportarenor
   status: ACTIVE
@@ -10163,7 +9695,7 @@ categories:
   name: Idrottsorganisationer
   status: ACTIVE
 - code: RYF-QPR-OVU
-  description: ''
+  description: Kan vara till exempel avstängningar, böter eller andra former av sanktioner
   level: 2
   name: Disciplinåtgärder inom idrotten
   status: ACTIVE
@@ -10178,7 +9710,7 @@ categories:
   name: Dopningskontroll
   status: ACTIVE
 - code: RYF-QPR-QHP-QXE
-  description: ''
+  description: Användning av otillåtna preparat för att höja prestationsförmåga, och frågor relaterade till det
   level: 3
   name: Dopning inom idrott
   replaces: RYF-QPR-HJD
@@ -10202,585 +9734,6 @@ categories:
   description: ''
   level: 2
   name: Tips & odds
-  status: ACTIVE
-- code: RYF-RSF
-  description: ''
-  level: 1
-  name: Trafik, kommunikation & fordon
-  status: ACTIVE
-- code: RYF-RSF-AVB
-  description: ''
-  level: 2
-  name: Järnvägsnät
-  replaces: RYF-HPT-YGE-MOZ
-  status: ACTIVE
-- code: RYF-RSF-BDH
-  description: ''
-  level: 2
-  name: Motorproblem
-  replaces: RYF-TKT-MRA-OPE
-  status: ACTIVE
-- code: RYF-RSF-BVV
-  description: ''
-  level: 2
-  name: Bilguide
-  replaces: RYF-TKT-MRA-FLT
-  status: ACTIVE
-- code: RYF-RSF-CDC
-  description: ''
-  level: 2
-  name: Fordonsfunktion
-  status: ACTIVE
-- code: RYF-RSF-CDC-AIQ
-  description: ''
-  level: 3
-  name: Parkeringshjälp & självparkering
-  replaces: RYF-TKT-MRA-AEE
-  status: ACTIVE
-- code: RYF-RSF-CDC-GCW
-  description: ''
-  level: 3
-  name: Autobroms
-  replaces: RYF-RSF-LKZ-DOG
-  status: ACTIVE
-- code: RYF-RSF-CJA
-  description: ''
-  level: 2
-  name: Spårvagn
-  replaces: RYF-HPT-YGE-GUI-OUM
-  status: ACTIVE
-- code: RYF-RSF-DYZ
-  description: ''
-  level: 2
-  name: Moped
-  replaces: RYF-TKT-MRA-HCS
-  status: ACTIVE
-- code: RYF-RSF-EPK
-  description: ''
-  level: 2
-  name: MC-intresse
-  replaces: RYF-TKT-MRA-TJY
-  status: ACTIVE
-- code: RYF-RSF-FCV
-  description: ''
-  level: 2
-  name: Cykel
-  status: ACTIVE
-- code: RYF-RSF-FGN
-  description: ''
-  level: 2
-  name: Laddstolpe
-  replaces: RYF-HPT-YGE-PEJ
-  status: ACTIVE
-- code: RYF-RSF-GQA
-  description: ''
-  level: 2
-  name: Mopedbil
-  status: ACTIVE
-- code: RYF-RSF-GVJ
-  description: ''
-  level: 2
-  name: Bilförsäljning
-  status: ACTIVE
-- code: RYF-RSF-GVJ-KYG
-  description: ''
-  level: 3
-  name: Nybilsförsäljning
-  status: ACTIVE
-- code: RYF-RSF-HOA
-  description: ''
-  level: 2
-  name: Personbil
-  replaces: RYF-TKT-MRA-JUA
-  status: ACTIVE
-- code: RYF-RSF-HOA-AAY
-  description: ''
-  level: 3
-  name: Säkerhetsbilar
-  replaces: RYF-TKT-MRA-JUA-AAY
-  status: ACTIVE
-- code: RYF-RSF-HOA-BLQ
-  description: ''
-  level: 3
-  name: Nyttofordon
-  replaces: RYF-TKT-MRA-JUA-BLQ
-  status: ACTIVE
-- code: RYF-RSF-HOA-CIO
-  description: ''
-  level: 3
-  name: Familjebil
-  replaces: RYF-TKT-MRA-JUA-CIO
-  status: ACTIVE
-- code: RYF-RSF-HOA-DBY
-  description: ''
-  level: 3
-  name: Bensinbil
-  replaces: RYF-TKT-MRA-JUA-DBY
-  status: ACTIVE
-- code: RYF-RSF-HOA-DJH
-  description: ''
-  level: 3
-  name: Halvkombibil
-  replaces: RYF-TKT-MRA-JUA-DJH
-  status: ACTIVE
-- code: RYF-RSF-HOA-DYT
-  description: ''
-  level: 3
-  name: Begagnade bilar
-  replaces: RYF-TKT-MRA-JUA-DYT
-  status: ACTIVE
-- code: RYF-RSF-HOA-EHD
-  description: ''
-  level: 3
-  name: Tjänstebil & förmånsbil
-  replaces: RYF-TKT-MRA-JUA-EHD
-  status: ACTIVE
-- code: RYF-RSF-HOA-GCX
-  description: ''
-  level: 3
-  name: Bakhjulsdriven bil
-  replaces: RYF-TKT-MRA-JUA-GCX
-  status: ACTIVE
-- code: RYF-RSF-HOA-HIC
-  description: ''
-  level: 3
-  name: Miljöbil
-  replaces: RYF-TKT-MRA-JUA-HIC
-  status: ACTIVE
-- code: RYF-RSF-HOA-HSI
-  description: ''
-  level: 3
-  name: Lågprisbilar
-  replaces: RYF-TKT-MRA-JUA-HSI
-  status: ACTIVE
-- code: RYF-RSF-HOA-JLC
-  description: ''
-  level: 3
-  name: Kombibil
-  replaces: RYF-TKT-MRA-JUA-JLC
-  status: ACTIVE
-- code: RYF-RSF-HOA-KAM
-  description: ''
-  level: 3
-  name: Framhjulsdriven bil
-  replaces: RYF-TKT-MRA-JUA-KAM
-  status: ACTIVE
-- code: RYF-RSF-HOA-KIY
-  description: ''
-  level: 3
-  name: Självkörande bilar
-  replaces: RYF-TKT-MRA-JUA-KIY
-  status: ACTIVE
-- code: RYF-RSF-HOA-MNG
-  description: ''
-  level: 3
-  name: Sedanbil
-  replaces: RYF-TKT-MRA-JUA-MNG
-  status: ACTIVE
-- code: RYF-RSF-HOA-OAJ
-  description: ''
-  level: 3
-  name: Amerikanare
-  replaces: RYF-TKT-MRA-JUA-OAJ
-  status: ACTIVE
-- code: RYF-RSF-HOA-QZP
-  description: ''
-  level: 3
-  name: Sportbilar
-  replaces: RYF-TKT-MRA-JUA-QZP
-  status: ACTIVE
-- code: RYF-RSF-HOA-RGL
-  description: ''
-  level: 3
-  name: Hybridbil
-  replaces: RYF-TKT-MRA-JUA-RGL
-  status: ACTIVE
-- code: RYF-RSF-HOA-RGL-CLJ
-  description: ''
-  level: 4
-  name: Laddhybrid
-  replaces: RYF-TKT-MRA-JUA-RGL-CLJ
-  status: ACTIVE
-- code: RYF-RSF-HOA-RGL-DAL
-  description: ''
-  level: 4
-  name: Elhybrid
-  replaces: RYF-TKT-MRA-JUA-RGL-DAL
-  status: ACTIVE
-- code: RYF-RSF-HOA-RGL-FYZ
-  description: ''
-  level: 4
-  name: Bensinhybrid
-  replaces: RYF-TKT-MRA-JUA-RGL-FYZ
-  status: ACTIVE
-- code: RYF-RSF-HOA-RGL-NPG
-  description: ''
-  level: 4
-  name: Mildhybrid
-  replaces: RYF-TKT-MRA-JUA-RGL-NPG
-  status: ACTIVE
-- code: RYF-RSF-HOA-RGL-TVQ
-  description: ''
-  level: 4
-  name: Dieselhybrid
-  replaces: RYF-TKT-MRA-JUA-RGL-TVQ
-  status: ACTIVE
-- code: RYF-RSF-HOA-RJU
-  description: ''
-  level: 3
-  name: Gasbil
-  replaces: RYF-TKT-MRA-JUA-RJU
-  status: ACTIVE
-- code: RYF-RSF-HOA-RNO
-  description: ''
-  level: 3
-  name: Terrängbilar
-  replaces: RYF-TKT-MRA-JUA-RNO
-  status: ACTIVE
-- code: RYF-RSF-HOA-SEW
-  description: ''
-  level: 3
-  name: Husbil & husvagn
-  replaces: RYF-TKT-MRA-JUA-SEW
-  status: ACTIVE
-- code: RYF-RSF-HOA-SIT
-  description: ''
-  level: 3
-  name: Småbil
-  replaces: RYF-TKT-MRA-JUA-SIT
-  status: ACTIVE
-- code: RYF-RSF-HOA-UUF
-  description: ''
-  level: 3
-  name: Premiumbilar
-  replaces: RYF-TKT-MRA-JUA-UUF
-  status: ACTIVE
-- code: RYF-RSF-HOA-XKH
-  description: ''
-  level: 3
-  name: Elbil
-  replaces: RYF-TKT-MRA-JUA-XKH
-  status: ACTIVE
-- code: RYF-RSF-HOA-XKH-EHP
-  description: ''
-  level: 4
-  name: Vätgasbil
-  replaces: RYF-TKT-MRA-JUA-XKH-EHP
-  status: ACTIVE
-- code: RYF-RSF-HOA-XNP
-  description: ''
-  level: 3
-  name: Dieselbil
-  replaces: RYF-TKT-MRA-JUA-XNP
-  status: ACTIVE
-- code: RYF-RSF-HOA-XNP-ESC
-  description: ''
-  level: 4
-  name: Adblue
-  replaces: RYF-TKT-MRA-JUA-XNP-ESC
-  status: ACTIVE
-- code: RYF-RSF-HOA-YHQ
-  description: ''
-  level: 3
-  name: Hyperbil
-  replaces: RYF-TKT-MRA-JUA-YHQ
-  status: ACTIVE
-- code: RYF-RSF-HOA-YOE
-  description: ''
-  level: 3
-  name: Semiautonoma bilar
-  replaces: RYF-TKT-MRA-JUA-YOE
-  status: ACTIVE
-- code: RYF-RSF-HOA-YPW
-  description: ''
-  level: 3
-  name: Suv
-  replaces: RYF-TKT-MRA-JUA-YPW
-  status: ACTIVE
-- code: RYF-RSF-HTH
-  description: ''
-  level: 2
-  name: Traktor & arbetsmaskiner
-  replaces: RYF-TKT-MRA-YUY
-  status: ACTIVE
-- code: RYF-RSF-IJA
-  description: ''
-  level: 2
-  name: Bilvärdering
-  replaces: RYF-TKT-MRA-LMK
-  status: ACTIVE
-- code: RYF-RSF-IYS
-  description: ''
-  level: 2
-  name: Bilservice
-  replaces: RYF-TKT-MRA-JOQ
-  status: ACTIVE
-- code: RYF-RSF-IZB
-  description: ''
-  level: 2
-  name: Elsparkcykel
-  status: ACTIVE
-- code: RYF-RSF-KQR
-  description: ''
-  level: 2
-  name: Trafikpåverkan
-  replaces: RYF-HPT-YGE-GUI
-  status: ACTIVE
-- code: RYF-RSF-KWU
-  description: ''
-  level: 2
-  name: Garage
-  replaces: RYF-TKT-MRA-TSY
-  status: ACTIVE
-- code: RYF-RSF-LKZ
-  description: ''
-  level: 2
-  name: Fordonsutrustning
-  replaces: RYF-IXA-KEV-WHS-OJI
-  status: ACTIVE
-- code: RYF-RSF-LKZ-AHY
-  description: ''
-  level: 3
-  name: Krockkudde
-  replaces: RYF-IXA-KEV-WHS-OJI-AHY
-  status: ACTIVE
-- code: RYF-RSF-LKZ-DOG
-  description: ''
-  level: 3
-  name: Autobroms
-  replacedBy: RYF-RSF-CDC-GCW
-  replaces: RYF-IXA-KEV-WHS-OJI-DOG
-  status: INACTIVE
-- code: RYF-RSF-LKZ-EJA
-  description: ''
-  level: 3
-  name: Elbilsbatteri
-  replaces: RYF-IXA-KEV-WHS-OJI-EJA
-  status: ACTIVE
-- code: RYF-RSF-LKZ-IMY
-  description: ''
-  level: 3
-  name: Dubbdäck
-  replaces: RYF-IXA-KEV-WHS-OJI-IMY
-  status: ACTIVE
-- code: RYF-RSF-LKZ-JQC
-  description: ''
-  level: 3
-  name: Bilbarnstol
-  replaces: RYF-IXA-KEV-WHS-OJI-JQC
-  status: ACTIVE
-- code: RYF-RSF-LKZ-KSK
-  description: ''
-  level: 3
-  name: Bilbatteri
-  replaces: RYF-IXA-KEV-WHS-OJI-KSK
-  status: ACTIVE
-- code: RYF-RSF-LKZ-KWL
-  description: ''
-  level: 3
-  name: Stötdämpare
-  replaces: RYF-IXA-KEV-WHS-OJI-KWL
-  status: ACTIVE
-- code: RYF-RSF-LKZ-NRD
-  description: ''
-  level: 3
-  name: Vinterdäck
-  replaces: RYF-IXA-KEV-WHS-OJI-NRD
-  status: ACTIVE
-- code: RYF-RSF-LKZ-OTB
-  description: ''
-  level: 3
-  name: Sommardäck
-  replaces: RYF-IXA-KEV-WHS-OJI-OTB
-  status: ACTIVE
-- code: RYF-RSF-LKZ-RUR
-  description: ''
-  level: 3
-  name: Vindruta
-  replaces: RYF-IXA-KEV-WHS-OJI-RUR
-  status: ACTIVE
-- code: RYF-RSF-LKZ-UOX
-  description: ''
-  level: 3
-  name: Infotainmentsystem
-  replaces: RYF-IXA-KEV-WHS-OJI-UOX
-  status: ACTIVE
-- code: RYF-RSF-LKZ-WJA
-  description: ''
-  level: 3
-  name: Dubbelkopplingslåda
-  replaces: RYF-IXA-KEV-WHS-OJI-WJA
-  status: ACTIVE
-- code: RYF-RSF-LKZ-ZSM
-  description: ''
-  level: 3
-  name: Strålkastare & lampa
-  replaces: RYF-IXA-KEV-WHS-OJI-ZSM
-  status: ACTIVE
-- code: RYF-RSF-MNR
-  description: ''
-  level: 2
-  name: Parkering
-  status: ACTIVE
-- code: RYF-RSF-NBA
-  description: ''
-  level: 2
-  name: Vägnät
-  replaces: RYF-HPT-YGE-USH
-  status: ACTIVE
-- code: RYF-RSF-NSC
-  description: ''
-  level: 2
-  name: Fordonsuthyrning
-  replaces: RYF-TKT-OUV-RKR
-  status: ACTIVE
-- code: RYF-RSF-PAH
-  description: ''
-  level: 2
-  name: Bilvård & rekond
-  replaces: RYF-TKT-MRA-AGA
-  status: ACTIVE
-- code: RYF-RSF-PAH-LKS
-  description: ''
-  level: 3
-  name: Tvätt & rengöringstillbehör
-  replaces: RYF-TKT-MRA-AGA-LKS
-  status: ACTIVE
-- code: RYF-RSF-PAH-LKS-TOO
-  description: ''
-  level: 4
-  name: Svampar & trasor
-  replaces: RYF-TKT-MRA-AGA-LKS-TOO
-  status: ACTIVE
-- code: RYF-RSF-QOE
-  description: ''
-  level: 2
-  name: Pendling
-  replaces: RYF-IXA-KEV-VXX-IMZ
-  status: ACTIVE
-- code: RYF-RSF-RFY
-  description: ''
-  level: 2
-  name: Motorcykel
-  replaces: RYF-TKT-MRA-RJL
-  status: ACTIVE
-- code: RYF-RSF-RHX
-  description: ''
-  level: 2
-  name: Tunnelbana
-  replaces: RYF-HPT-YGE-GUI-XYP
-  status: ACTIVE
-- code: RYF-RSF-RWJ
-  description: ''
-  level: 2
-  name: Tåg
-  replaces: RYF-HPT-YGE-GUI-AZI
-  status: ACTIVE
-- code: RYF-RSF-RWJ-UYV
-  description: ''
-  level: 3
-  name: Regionaltåg
-  status: ACTIVE
-- code: RYF-RSF-RWJ-ZFQ
-  description: ''
-  level: 3
-  name: Snabbtåg
-  status: ACTIVE
-- code: RYF-RSF-SRJ
-  description: ''
-  level: 2
-  name: Sjöfart
-  replaces: RYF-HPT-YGE-GUI-YMN
-  status: ACTIVE
-- code: RYF-RSF-SRJ-MDX
-  description: ''
-  level: 3
-  name: Färja
-  replaces: RYF-HPT-YGE-GUI-YMN-MDX
-  status: ACTIVE
-- code: RYF-RSF-SRJ-RBD
-  description: ''
-  level: 3
-  name: Fraktfartyg
-  replaces: RYF-HPT-YGE-GUI-YMN-RBD
-  status: ACTIVE
-- code: RYF-RSF-SRJ-ZUF
-  description: ''
-  level: 3
-  name: Passagerarfartyg
-  replaces: RYF-HPT-YGE-GUI-YMN-ZUF
-  status: ACTIVE
-- code: RYF-RSF-TJK
-  description: ''
-  level: 2
-  name: Flygtrafik
-  replaces: RYF-HPT-YGE-GUI-JGK
-  status: ACTIVE
-- code: RYF-RSF-TJK-GTV
-  description: ''
-  level: 3
-  name: Flygplats
-  status: ACTIVE
-- code: RYF-RSF-TJK-KUE
-  description: ''
-  level: 3
-  name: Inrikesflyg
-  status: ACTIVE
-- code: RYF-RSF-TJK-LLC
-  description: ''
-  level: 3
-  name: Flygplan
-  status: ACTIVE
-- code: RYF-RSF-TJK-UTD
-  description: ''
-  level: 3
-  name: Utrikesflyg
-  status: ACTIVE
-- code: RYF-RSF-VFX
-  description: ''
-  level: 2
-  name: Lastbil
-  status: ACTIVE
-- code: RYF-RSF-WHS
-  description: ''
-  level: 2
-  name: Kollektivtrafik
-  replaces: RYF-HPT-YGE-AAD
-  status: ACTIVE
-- code: RYF-RSF-WPN
-  description: ''
-  level: 2
-  name: Godstrafik
-  status: ACTIVE
-- code: RYF-RSF-XVZ
-  description: ''
-  level: 2
-  name: Biltest
-  replaces: RYF-TKT-MRA-IQM
-  status: ACTIVE
-- code: RYF-RSF-XXH
-  description: ''
-  level: 2
-  name: Buss
-  replaces: RYF-HPT-YGE-GUI-IVZ
-  status: ACTIVE
-- code: RYF-RSF-YON
-  description: ''
-  level: 2
-  name: Fyrhjuling & ATV
-  replaces: RYF-TKT-MRA-CBI
-  status: ACTIVE
-- code: RYF-RSF-ZDP
-  description: ''
-  level: 2
-  name: Snöskoter
-  replaces: RYF-TKT-MRA-CMW
-  status: ACTIVE
-- code: RYF-RSF-ZWL
-  description: ''
-  level: 2
-  name: Registreringsnummer
-  replaces: RYF-TKT-MRA-MJL
   status: ACTIVE
 - code: RYF-TKT
   description: ''
@@ -11502,7 +10455,7 @@ categories:
   replacedBy: RYF-TKT-KBC-BTK
   status: INACTIVE
 - code: RYF-TKT-ESA
-  description: ''
+  description: Samlingsbegrepp för fritidsaktiviteter som genomförs utomhus
   level: 2
   name: Friluftsliv
   replacedBy: RYF-TKT-KXM-ZBA
@@ -12268,7 +11221,7 @@ categories:
   replaces: RYF-TKT-VVD
   status: ACTIVE
 - code: RYF-TKT-HFD-DXE-AKF
-  description: ''
+  description: Sällskapsspel är en umgängesform som vanligtvis går ut på att flera personer slår tärningar, flyttar pjäser på ett bräde eller drar kort i enlighet med spelets regler, med mål att vinna spelet. Det övergripande målet med sällskapsspel är dock att umgås och ha trevligt. Sällskapsspel omfattar inte exempelvis hasardspel, där man spelar om pengar eller egendom, eller datorspel
   level: 4
   name: Sällskapsspel
   replaces: RYF-TKT-VVD-AKF
@@ -12299,7 +11252,7 @@ categories:
   name: Tärningsspel
   status: ACTIVE
 - code: RYF-TKT-HFD-DXE-EME
-  description: ''
+  description: En form av interaktiv underhållning som spelas med hjälp av till exempel en persondator, spelkonsol eller mobiltelefon
   level: 4
   name: Dator-, tv- & mobilspel
   replaces: RYF-TKT-VVD-EME
@@ -12927,7 +11880,7 @@ categories:
   replaces: RYF-TKT-PEJ
   status: ACTIVE
 - code: RYF-TKT-KXM-ZBA
-  description: ''
+  description: Samlingsbegrepp för fritidsaktiviteter som genomförs utomhus
   level: 3
   name: Friluftsliv
   replaces: RYF-TKT-ESA
@@ -13003,44 +11956,37 @@ categories:
   description: ''
   level: 3
   name: Parkeringshjälp & självparkering
-  replacedBy: RYF-RSF-CDC-AIQ
-  status: INACTIVE
+  status: ACTIVE
 - code: RYF-TKT-MRA-AGA
   description: ''
   level: 3
   name: Bilvård & rekond
-  replacedBy: RYF-RSF-PAH
-  status: INACTIVE
+  status: ACTIVE
 - code: RYF-TKT-MRA-AGA-LKS
   description: ''
   level: 4
   name: Tvätt & rengöringstillbehör
-  replacedBy: RYF-RSF-PAH-LKS
-  status: INACTIVE
+  status: ACTIVE
 - code: RYF-TKT-MRA-AGA-LKS-TOO
   description: ''
   level: 5
   name: Svampar & trasor
-  replacedBy: RYF-RSF-PAH-LKS-TOO
-  status: INACTIVE
+  status: ACTIVE
 - code: RYF-TKT-MRA-CBI
   description: ''
   level: 3
-  name: Fyrhjuling & ATV
-  replacedBy: RYF-RSF-YON
-  status: INACTIVE
+  name: Fyrhjulingar & avg
+  status: ACTIVE
 - code: RYF-TKT-MRA-CMW
   description: ''
   level: 3
   name: Snöskoter
-  replacedBy: RYF-RSF-ZDP
-  status: INACTIVE
+  status: ACTIVE
 - code: RYF-TKT-MRA-FLT
   description: ''
   level: 3
-  name: Bilguide
-  replacedBy: RYF-RSF-BVV
-  status: INACTIVE
+  name: Bilguider
+  status: ACTIVE
 - code: RYF-TKT-MRA-HBF
   description: ''
   level: 3
@@ -13049,9 +11995,8 @@ categories:
 - code: RYF-TKT-MRA-HCS
   description: ''
   level: 3
-  name: Moped
-  replacedBy: RYF-RSF-DYZ
-  status: INACTIVE
+  name: Mopeder
+  status: ACTIVE
 - code: RYF-TKT-MRA-ICA
   description: ''
   level: 3
@@ -13060,251 +12005,172 @@ categories:
 - code: RYF-TKT-MRA-IQM
   description: ''
   level: 3
-  name: Biltest
-  replacedBy: RYF-RSF-XVZ
-  status: INACTIVE
+  name: Biltester
+  status: ACTIVE
 - code: RYF-TKT-MRA-JOQ
   description: ''
   level: 3
   name: Bilservice
-  replacedBy: RYF-RSF-IYS
-  status: INACTIVE
+  status: ACTIVE
 - code: RYF-TKT-MRA-JUA
   description: ''
   level: 3
-  name: Personbil
-  replacedBy: RYF-RSF-HOA
-  status: INACTIVE
+  name: Biltyper
+  status: ACTIVE
 - code: RYF-TKT-MRA-JUA-AAY
   description: ''
   level: 4
   name: Säkerhetsbilar
-  replacedBy: RYF-RSF-HOA-AAY
-  status: INACTIVE
+  status: ACTIVE
 - code: RYF-TKT-MRA-JUA-BLQ
   description: ''
   level: 4
   name: Nyttofordon
-  replacedBy: RYF-RSF-HOA-BLQ
-  status: INACTIVE
+  status: ACTIVE
 - code: RYF-TKT-MRA-JUA-CIO
   description: ''
   level: 4
-  name: Familjebil
-  replacedBy: RYF-RSF-HOA-CIO
-  status: INACTIVE
+  name: Familjebilar
+  status: ACTIVE
 - code: RYF-TKT-MRA-JUA-DBY
   description: ''
   level: 4
-  name: Bensinbil
-  replacedBy: RYF-RSF-HOA-DBY
-  status: INACTIVE
-- code: RYF-TKT-MRA-JUA-DJH
-  description: ''
-  level: 4
-  name: Halvkombibil
-  replacedBy: RYF-RSF-HOA-DJH
-  status: INACTIVE
+  name: Bensinbilar
+  status: ACTIVE
 - code: RYF-TKT-MRA-JUA-DYT
   description: ''
   level: 4
   name: Begagnade bilar
-  replacedBy: RYF-RSF-HOA-DYT
-  status: INACTIVE
+  status: ACTIVE
 - code: RYF-TKT-MRA-JUA-DYT-DJX
   description: ''
   level: 5
   name: Köpa & sälja
-  status: INACTIVE
+  status: ACTIVE
 - code: RYF-TKT-MRA-JUA-EHD
   description: ''
   level: 4
-  name: Tjänstebil & förmånsbil
-  replacedBy: RYF-RSF-HOA-EHD
-  status: INACTIVE
+  name: Tjänstebil
+  status: ACTIVE
 - code: RYF-TKT-MRA-JUA-GCX
   description: ''
   level: 4
-  name: Bakhjulsdriven bil
-  replacedBy: RYF-RSF-HOA-GCX
-  status: INACTIVE
-- code: RYF-TKT-MRA-JUA-HIC
-  description: ''
-  level: 4
-  name: Miljöbil
-  replacedBy: RYF-RSF-HOA-HIC
-  status: INACTIVE
+  name: Bakhjulsdrivna bilar
+  status: ACTIVE
 - code: RYF-TKT-MRA-JUA-HSI
   description: ''
   level: 4
   name: Lågprisbilar
-  replacedBy: RYF-RSF-HOA-HSI
-  status: INACTIVE
+  status: ACTIVE
 - code: RYF-TKT-MRA-JUA-IGV
   description: ''
   level: 4
   name: Trecylindriga bilar
-  status: INACTIVE
+  status: ACTIVE
 - code: RYF-TKT-MRA-JUA-JLC
   description: ''
   level: 4
-  name: Kombibil
-  replacedBy: RYF-RSF-HOA-JLC
-  status: INACTIVE
+  name: Kombibilar & halvkombi
+  status: ACTIVE
 - code: RYF-TKT-MRA-JUA-KAM
   description: ''
   level: 4
-  name: Framhjulsdriven bil
-  replacedBy: RYF-RSF-HOA-KAM
-  status: INACTIVE
+  name: Framhjulsdrivna bilar
+  status: ACTIVE
 - code: RYF-TKT-MRA-JUA-KIY
   description: ''
   level: 4
   name: Självkörande bilar
-  replacedBy: RYF-RSF-HOA-KIY
-  status: INACTIVE
-- code: RYF-TKT-MRA-JUA-MNG
-  description: ''
-  level: 4
-  name: Sedanbil
-  replacedBy: RYF-RSF-HOA-MNG
-  status: INACTIVE
+  status: ACTIVE
 - code: RYF-TKT-MRA-JUA-OAJ
   description: ''
   level: 4
   name: Amerikanare
-  replacedBy: RYF-RSF-HOA-OAJ
-  status: INACTIVE
+  status: ACTIVE
 - code: RYF-TKT-MRA-JUA-PSL
   description: ''
   level: 4
   name: Veteranbilar
-  replacedBy: RYF-TKT-MRA-KWO-REE
-  status: INACTIVE
+  status: ACTIVE
 - code: RYF-TKT-MRA-JUA-QZP
   description: ''
   level: 4
   name: Sportbilar
-  replacedBy: RYF-RSF-HOA-QZP
-  status: INACTIVE
+  status: ACTIVE
 - code: RYF-TKT-MRA-JUA-RGL
   description: ''
   level: 4
-  name: Hybridbil
-  replacedBy: RYF-RSF-HOA-RGL
-  status: INACTIVE
-- code: RYF-TKT-MRA-JUA-RGL-CLJ
-  description: ''
-  level: 5
-  name: Laddhybrid
-  replacedBy: RYF-RSF-HOA-RGL-CLJ
-  status: INACTIVE
-- code: RYF-TKT-MRA-JUA-RGL-DAL
-  description: ''
-  level: 5
-  name: Elhybrid
-  replacedBy: RYF-RSF-HOA-RGL-DAL
-  status: INACTIVE
-- code: RYF-TKT-MRA-JUA-RGL-FYZ
-  description: ''
-  level: 5
-  name: Bensinhybrid
-  replacedBy: RYF-RSF-HOA-RGL-FYZ
-  status: INACTIVE
+  name: Hybridbilar
+  status: ACTIVE
 - code: RYF-TKT-MRA-JUA-RGL-NPG
   description: ''
   level: 5
-  name: Mildhybrid
-  replacedBy: RYF-RSF-HOA-RGL-NPG
-  status: INACTIVE
+  name: Mildhybrider
+  status: ACTIVE
 - code: RYF-TKT-MRA-JUA-RGL-TVQ
   description: ''
   level: 5
-  name: Dieselhybrid
-  replacedBy: RYF-RSF-HOA-RGL-TVQ
-  status: INACTIVE
+  name: Dieselhybrider
+  status: ACTIVE
 - code: RYF-TKT-MRA-JUA-RJU
   description: ''
   level: 4
-  name: Gasbil
-  replacedBy: RYF-RSF-HOA-RJU
-  status: INACTIVE
+  name: Gasbilar
+  status: ACTIVE
 - code: RYF-TKT-MRA-JUA-RNO
   description: ''
   level: 4
   name: Terrängbilar
-  replacedBy: RYF-RSF-HOA-RNO
-  status: INACTIVE
+  status: ACTIVE
 - code: RYF-TKT-MRA-JUA-SEW
   description: ''
   level: 4
-  name: Husbil & husvagn
-  replacedBy: RYF-RSF-HOA-SEW
-  status: INACTIVE
+  name: Husbilar & husvagnar
+  status: ACTIVE
 - code: RYF-TKT-MRA-JUA-SIT
   description: ''
   level: 4
-  name: Småbil
-  replacedBy: RYF-RSF-HOA-SIT
-  status: INACTIVE
+  name: Stadsbilar
+  status: ACTIVE
 - code: RYF-TKT-MRA-JUA-UUF
   description: ''
   level: 4
   name: Premiumbilar
-  replacedBy: RYF-RSF-HOA-UUF
-  status: INACTIVE
+  status: ACTIVE
 - code: RYF-TKT-MRA-JUA-XKH
   description: ''
   level: 4
-  name: Elbil
-  replacedBy: RYF-RSF-HOA-XKH
-  status: INACTIVE
-- code: RYF-TKT-MRA-JUA-XKH-EHP
-  description: ''
-  level: 5
-  name: Vätgasbil
-  replacedBy: RYF-RSF-HOA-XKH-EHP
-  status: INACTIVE
+  name: Elbilar
+  status: ACTIVE
 - code: RYF-TKT-MRA-JUA-XNP
   description: ''
   level: 4
-  name: Dieselbil
-  replacedBy: RYF-RSF-HOA-XNP
-  status: INACTIVE
+  name: Dieselbilar
+  status: ACTIVE
 - code: RYF-TKT-MRA-JUA-XNP-ESC
   description: ''
   level: 5
   name: Adblue
-  replacedBy: RYF-RSF-HOA-XNP-ESC
-  status: INACTIVE
+  status: ACTIVE
 - code: RYF-TKT-MRA-JUA-YHQ
   description: ''
   level: 4
-  name: Hyperbil
-  replacedBy: RYF-RSF-HOA-YHQ
-  status: INACTIVE
+  name: Hyperbilar
+  status: ACTIVE
 - code: RYF-TKT-MRA-JUA-YOE
   description: ''
   level: 4
   name: Semiautonoma bilar
-  replacedBy: RYF-RSF-HOA-YOE
-  status: INACTIVE
+  status: ACTIVE
 - code: RYF-TKT-MRA-JUA-YPW
   description: ''
   level: 4
-  name: Suv
-  replacedBy: RYF-RSF-HOA-YPW
-  status: INACTIVE
+  name: Suvar & minisuvar
+  status: ACTIVE
 - code: RYF-TKT-MRA-KWO
   description: ''
   level: 3
-  name: Bilintresse
-  status: ACTIVE
-- code: RYF-TKT-MRA-KWO-REE
-  description: ''
-  level: 4
-  name: Veteranbilar
-  replaces: RYF-TKT-MRA-JUA-PSL
+  name: Bilentusiasm
   status: ACTIVE
 - code: RYF-TKT-MRA-KWO-XZI
   description: ''
@@ -13315,14 +12181,12 @@ categories:
   description: ''
   level: 3
   name: Bilvärdering
-  replacedBy: RYF-RSF-IJA
-  status: INACTIVE
+  status: ACTIVE
 - code: RYF-TKT-MRA-MJL
   description: ''
   level: 3
   name: Registreringsnummer
-  replacedBy: RYF-RSF-ZWL
-  status: INACTIVE
+  status: ACTIVE
 - code: RYF-TKT-MRA-NGH
   description: ''
   level: 3
@@ -13332,37 +12196,32 @@ categories:
   description: ''
   level: 3
   name: Motorproblem
-  replacedBy: RYF-RSF-BDH
-  status: INACTIVE
+  status: ACTIVE
 - code: RYF-TKT-MRA-RJL
   description: ''
   level: 3
-  name: Motorcykel
-  replacedBy: RYF-RSF-RFY
-  status: INACTIVE
+  name: Motorcyklar
+  status: ACTIVE
 - code: RYF-TKT-MRA-TJY
   description: ''
   level: 3
-  name: MC-intresse
-  replacedBy: RYF-RSF-EPK
-  status: INACTIVE
+  name: MC-entusiasm
+  status: ACTIVE
 - code: RYF-TKT-MRA-TSY
   description: ''
   level: 3
   name: Garage
-  replacedBy: RYF-RSF-KWU
-  status: INACTIVE
+  status: ACTIVE
 - code: RYF-TKT-MRA-XVK
   description: ''
   level: 3
   name: Bilreklam
-  status: INACTIVE
+  status: ACTIVE
 - code: RYF-TKT-MRA-YUY
   description: ''
   level: 3
-  name: Traktor & arbetsmaskiner
-  replacedBy: RYF-RSF-HTH
-  status: INACTIVE
+  name: Traktorer & a-traktorer
+  status: ACTIVE
 - code: RYF-TKT-NAU
   description: ''
   level: 2
@@ -13438,9 +12297,8 @@ categories:
 - code: RYF-TKT-OUV-RKR
   description: ''
   level: 3
-  name: Fordonsuthyrning
-  replacedBy: RYF-RSF-NSC
-  status: INACTIVE
+  name: Fordonsuthyrning på resmål
+  status: ACTIVE
 - code: RYF-TKT-OUV-SMF
   description: ''
   level: 3
@@ -13740,13 +12598,13 @@ categories:
   replacedBy: RYF-TKT-HFD-DXE
   status: INACTIVE
 - code: RYF-TKT-VVD-AKF
-  description: ''
+  description: Sällskapsspel är en umgängesform som vanligtvis går ut på att flera personer slår tärningar, flyttar pjäser på ett bräde eller drar kort i enlighet med spelets regler, med mål att vinna spelet. Det övergripande målet med sällskapsspel är dock att umgås och ha trevligt. Sällskapsspel omfattar inte exempelvis hasardspel, där man spelar om pengar eller egendom, eller datorspel
   level: 3
   name: Sällskapsspel
   replacedBy: RYF-TKT-HFD-DXE-AKF
   status: INACTIVE
 - code: RYF-TKT-VVD-EME
-  description: ''
+  description: En form av interaktiv underhållning som spelas med hjälp av till exempel en persondator, spelkonsol eller mobiltelefon
   level: 3
   name: Dator-, tv- & mobilspel
   replacedBy: RYF-TKT-HFD-DXE-EME
@@ -14205,7 +13063,7 @@ categories:
   name: Naturresurser
   status: ACTIVE
 - code: RYF-VHD-HXU-GRV
-  description: ''
+  description: Miljöfrågor om bland annat hav, sjöar, vattendrag och reservoarer, samt isar, glaciärer och nederbörd
   level: 3
   name: Vatten
   replaces: RYF-VHD-QTT
@@ -14274,7 +13132,7 @@ categories:
   name: Avfall
   status: ACTIVE
 - code: RYF-VHD-IFE-FHW
-  description: ''
+  description: Ämnen skadliga för människor och djur. Till exempel giftgaser, strålning, kemikalier, tungmetaller och PCB
   level: 3
   name: Farliga ämnen & strålning
   status: ACTIVE
@@ -14299,7 +13157,7 @@ categories:
   name: Ekologi
   status: ACTIVE
 - code: RYF-VHD-OAY-CBT
-  description: ''
+  description: Ett system av växter, djur och bakterier relaterade till varandra i sin fysikaliska eller kemiska miljö
   level: 3
   name: Ekosystem
   status: ACTIVE
@@ -14344,17 +13202,17 @@ categories:
   name: Utrotningshotade arter
   status: ACTIVE
 - code: RYF-VHD-OAY-JYG
-  description: ''
+  description: Icke inhemska växter, djur och andra organismer som tenderar att ta över inhemska arter
   level: 3
   name: Invasiva arter
   status: ACTIVE
 - code: RYF-VHD-OAY-VCS
-  description: ''
+  description: Arter som riskerar att försvinna, till stor del på grund av förändringar i miljön, jakt, eller väder
   level: 3
   name: Hotade arter
   status: ACTIVE
 - code: RYF-VHD-QTT
-  description: ''
+  description: Miljöfrågor om bland annat hav, sjöar, vattendrag och reservoarer, samt isar, glaciärer och nederbörd
   level: 2
   name: Vatten
   replacedBy: RYF-VHD-HXU-GRV
@@ -14378,7 +13236,7 @@ categories:
   replacedBy: RYF-VHD-HXU-GRV-VWZ
   status: INACTIVE
 - code: RYF-VHD-ZKU
-  description: ''
+  description: Bevarande av ödemarker, flora och fauna, inklusive arter som hotas av utrotning
   level: 2
   name: Bevarande av miljö
   status: ACTIVE
@@ -14418,17 +13276,17 @@ categories:
   name: Väder
   status: ACTIVE
 - code: RYF-WHZ-IPU
-  description: ''
+  description: Numeriska fakta om vädret som temperatur, lufttryck, fuktighet och liknande
   level: 2
   name: Väderstatistik
   status: ACTIVE
 - code: RYF-WHZ-LAW
-  description: ''
+  description: Särskilda väderförhållanden såsom halofenomen och tromber
   level: 2
   name: Väderfenomen
   status: ACTIVE
 - code: RYF-WHZ-MKN
-  description: ''
+  description: Varningar till den allmänna befolkningen om kraftigt väder
   level: 2
   name: Vädervarningar
   status: ACTIVE
@@ -14438,7 +13296,7 @@ categories:
   name: Extremväder
   status: ACTIVE
 - code: RYF-WHZ-XTD
-  description: ''
+  description: Förutsägelse av vädret i framtiden antingen kort eller lång sikt
   level: 2
   name: Väderprognoser
   status: ACTIVE
@@ -14558,7 +13416,7 @@ categories:
   name: Smittsamma sjukdomar
   status: ACTIVE
 - code: RYF-WUU-JZK-FBC-BSI
-  description: ''
+  description: Ett utbrott av något, vanligen sjukdomar, som sprider sig mellan människor
   level: 4
   name: Epidemi
   status: ACTIVE
@@ -14653,7 +13511,7 @@ categories:
   name: Övriga förkylningsvirus
   status: ACTIVE
 - code: RYF-WUU-JZK-FBC-ORU
-  description: ''
+  description: Epidemi som får spridning över stora delar av världen och drabbar många människor
   level: 4
   name: Pandemi
   status: ACTIVE
@@ -15144,7 +14002,7 @@ categories:
   name: Sömn- & sovstörningar
   status: ACTIVE
 - code: RYF-WUU-JZK-YSP-MXY
-  description: ''
+  description: Anorexi, bulimi, överätande och liknande sjukdomar
   level: 4
   name: Ätstörningar
   status: ACTIVE
@@ -15179,7 +14037,7 @@ categories:
   name: Traditionell kinesisk medicin
   status: ACTIVE
 - code: RYF-WUU-QNB-CIM-ING
-  description: ''
+  description: Behandling av hela människan, inklusive psykiska och sociala faktorer snarare än bara symptomen
   level: 4
   name: Holistisk medicin
   status: ACTIVE
@@ -15220,7 +14078,7 @@ categories:
   name: Medicinska tester
   status: ACTIVE
 - code: RYF-WUU-QNB-QUH
-  description: ''
+  description: Behandling av fysiska, psykiska eller medicinska tillstånd utan kirurgiskt ingrepp
   level: 3
   name: Terapi
   status: ACTIVE
@@ -15310,7 +14168,7 @@ categories:
   name: Pediatrik (barnsjukvård)
   status: ACTIVE
 - code: RYF-WUU-SUX-APJ-VGT
-  description: ''
+  description: Reproduktiva tekniker som in vitro-fertilisering, IVF
   level: 4
   name: Reproduktiv medicin
   status: ACTIVE
@@ -15335,12 +14193,12 @@ categories:
   name: Röntgen
   status: ACTIVE
 - code: RYF-WUU-SUX-APJ-XHQ
-  description: ''
+  description: Läran om tumörsjukdomar. Medicinsk specialitet som fokuserar på tumörsjukdomar
   level: 4
   name: Onkologi
   status: ACTIVE
 - code: RYF-WUU-SUX-APJ-ZDB
-  description: ''
+  description: Specialitet i åldrande och åldersrelaterade frågor, bland annat åldersrelaterade sjukdomar
   level: 4
   name: Geriatrisk medicin
   status: ACTIVE
@@ -15445,127 +14303,127 @@ categories:
   name: Konflikter, krig & terrorism
   status: ACTIVE
 - code: RYF-WXT-ABT
-  description: ''
+  description: Våldshandling utformad för att höja rädsla hos ett folk, till exempel 11 september
   level: 2
   name: Terroristattentat
   status: ACTIVE
 - code: RYF-WXT-ABT-NHU
-  description: ''
+  description: Användning av sprängladdningar mot människor, byggnader eller konstruktioner
   level: 3
   name: Bombdåd
   status: ACTIVE
 - code: RYF-WXT-ABT-QYW
-  description: ''
+  description: Vapen som baseras på levande organismer. Ofta varianter av sjukdomar som mjältbrand eller smittkoppor. Biologiska vapen räknas som massförstörelsevapen
   level: 3
   name: Biologiska vapen
   status: ACTIVE
 - code: RYF-WXT-AOH
-  description: ''
+  description: Störtandet av en etablerad regering genom en organiserad grupp, ofta militären eller ett politiskt parti
   level: 2
   name: Statskupper
   status: ACTIVE
 - code: RYF-WXT-BND
-  description: ''
+  description: Missnöje bland befolkningen, vilket framgår av till exempel strejker, demonstrationer eller sabotage
   level: 2
   name: Oroligheter
   status: ACTIVE
 - code: RYF-WXT-BND-ATO
-  description: ''
+  description: En demonstration är en folkmassa som samlats för att offentligt uttrycka en opinion i en politisk eller annan fråga
   level: 3
   name: Demonstrationer
   replacedBy: RYF-KNI-ZIS-IUN-PGT
   status: INACTIVE
 - code: RYF-WXT-BND-IBC
-  description: ''
+  description: Våldsam, destruktiv demonstration ofta involverar skada på individer och förstörelse av egendom
   level: 3
   name: Upplopp
   status: ACTIVE
 - code: RYF-WXT-BND-IMS
-  description: ''
+  description: En ofta våldsamma förändringar i ett lands statsskick genom inre krafter
   level: 3
   name: Revolutioner
   status: ACTIVE
 - code: RYF-WXT-BND-JKN
-  description: ''
+  description: Olydnad av medborgare med avsikt att störta regeringen
   level: 3
   name: Uppror
   status: ACTIVE
 - code: RYF-WXT-CRN
-  description: ''
+  description: Tvister mellan motsatta grupper som innebär användning av vapen
   level: 2
   name: Väpnade konflikter
   status: ACTIVE
 - code: RYF-WXT-CRN-BFS
-  description: ''
+  description: Trupper som utför fredsbevarande operationer. Vanligast och mest känd är FN:s fredsbevarande styrkor
   level: 3
   name: Fredsbevarande styrkor
   replacedBy: RYF-WXT-PJE-HVD
   status: INACTIVE
 - code: RYF-WXT-CRN-GJG
-  description: ''
+  description: Människor, både civila och militära, saknade under eller efter fientlighet
   level: 3
   name: Krigsoffer
   replacedBy: RYF-WXT-HGG-XJG
   status: INACTIVE
 - code: RYF-WXT-CRN-NNP
-  description: ''
+  description: Väpnade konflikter med en grupp eller land mot en annan
   level: 3
   name: Krig
   replacedBy: RYF-WXT-HGG
   status: INACTIVE
 - code: RYF-WXT-CRN-NNP-ACL
-  description: ''
+  description: Väpnade konflikter mellan medlemmar av samma nation eller geografisk region
   level: 4
   name: Inbördeskrig
   replacedBy: RYF-WXT-HGG-ACL
   status: INACTIVE
 - code: RYF-WXT-CRN-NNP-KLE
-  description: ''
+  description: Krigsförbrytelser utgörs av grova brott mot internationella humanitära rättsnormer som begås under väpnade konflikter
   level: 4
   name: Krigsförbrytelse
   replacedBy: RYF-WXT-HGG-KLE
   status: INACTIVE
 - code: RYF-WXT-CRN-QLT
-  description: ''
+  description: Att ta över kontrollen i ett land eller en region med militära styrkor
   level: 3
   name: Militär ockupation
   replacedBy: RYF-WXT-HGG-VBP
   status: INACTIVE
 - code: RYF-WXT-CRN-VOL
-  description: ''
+  description: Anti-statliga åtgärder av hemliga grupper med hit-and-run tekniker eller sabotage, kidnappning och liknande
   level: 3
   name: Gerillakrig
   replacedBy: RYF-WXT-HGG-RRQ
   status: INACTIVE
 - code: RYF-WXT-DTF
-  description: ''
+  description: Alla åtgärder för att återuppbygga samhälle, ekonomi och politiska system i ett område som drabbats av ett krig
   level: 2
   name: Återuppbyggnad efter krig
   status: ACTIVE
 - code: RYF-WXT-DTF-QYO
-  description: ''
+  description: Avlägsnande eller neutralisering av ammunition såsom landminor som återstår efter ett krig eller väpnade konflikter
   level: 3
   name: Minröjning & röjning av krigsmateriel
   status: ACTIVE
 - code: RYF-WXT-DTF-UWH
-  description: ''
+  description: Avskaffande eller minska vapen
   level: 3
   name: Nedrustning av vapen
   status: ACTIVE
 - code: RYF-WXT-HGG
-  description: ''
+  description: Väpnade konflikter med en grupp eller land mot en annan
   level: 2
   name: Krig
   replaces: RYF-WXT-CRN-NNP
   status: ACTIVE
 - code: RYF-WXT-HGG-ACL
-  description: ''
+  description: Väpnade konflikter mellan medlemmar av samma nation eller geografisk region
   level: 3
   name: Inbördeskrig
   replaces: RYF-WXT-CRN-NNP-ACL
   status: ACTIVE
 - code: RYF-WXT-HGG-KLE
-  description: ''
+  description: Krigsförbrytelser utgörs av grova brott mot internationella humanitära rättsnormer som begås under väpnade konflikter
   level: 3
   name: Krigsförbrytelse
   replaces: RYF-WXT-CRN-NNP-KLE
@@ -15576,35 +14434,35 @@ categories:
   name: Saknad i krig
   status: ACTIVE
 - code: RYF-WXT-HGG-RRQ
-  description: ''
+  description: Anti-statliga åtgärder av hemliga grupper med hit-and-run tekniker eller sabotage, kidnappning och liknande
   level: 3
   name: Gerillakrig
   replaces: RYF-WXT-CRN-VOL
   status: ACTIVE
 - code: RYF-WXT-HGG-VBP
-  description: ''
+  description: Att ta över kontrollen i ett land eller en region med militära styrkor
   level: 3
   name: Militär ockupation
   replaces: RYF-WXT-CRN-QLT
   status: ACTIVE
 - code: RYF-WXT-HGG-XJG
-  description: ''
+  description: Människor, både civila och militära, saknade under eller efter fientlighet
   level: 3
   name: Krigsoffer
   replaces: RYF-WXT-CRN-GJG
   status: ACTIVE
 - code: RYF-WXT-OJB
-  description: ''
+  description: Åtgärder för att avsluta ett krig eller konflikt
   level: 2
   name: Fredsprocess
   status: ACTIVE
 - code: RYF-WXT-OJB-LCQ
-  description: ''
+  description: Disposition för att uppnå fred
   level: 3
   name: Fredsplan
   status: ACTIVE
 - code: RYF-WXT-OJB-XGZ
-  description: ''
+  description: Diskussioner mellan de stridande parterna på olika formella nivåer
   level: 3
   name: Fredssamtal
   status: ACTIVE
@@ -15614,23 +14472,23 @@ categories:
   name: Militär intervention
   status: ACTIVE
 - code: RYF-WXT-PJE-HVD
-  description: ''
+  description: Trupper som utför fredsbevarande operationer. Vanligast och mest känd är FN:s fredsbevarande styrkor
   level: 3
   name: Fredsbevarande styrkor
   replaces: RYF-WXT-CRN-BFS
   status: ACTIVE
 - code: RYF-WXT-QIC
-  description: ''
+  description: Människor fångade och fängslade på grund av sociala konflikter, politisk aktivitet under krig eller väpnad konflikt
   level: 2
   name: Krigs- & politiska fångar
   status: ACTIVE
 - code: RYF-WXT-UBT
-  description: ''
+  description: Dödande av många människor vid ett och samma tillfälle
   level: 2
   name: Massakrer
   status: ACTIVE
 - code: RYF-WXT-UBT-QGE
-  description: ''
+  description: Avsiktliga och systematiska handlingar i syfte att helt eller delvis förinta en etnisk, religiös eller nationell grupp
   level: 3
   name: Folkmord
   status: ACTIVE
@@ -15650,17 +14508,17 @@ categories:
   name: Programledare
   status: ACTIVE
 - code: RYF-XKI-BUS-IFX
-  description: ''
+  description: Till exempel "Tre Kronor", "Bonusfamiljen"
   level: 3
   name: Tv-serier
   status: ACTIVE
 - code: RYF-XKI-BUS-NXX
-  description: ''
+  description: Till exempel "Big Brother", "Gift vid första ögonkastet"
   level: 3
   name: Reality-tv
   status: ACTIVE
 - code: RYF-XKI-BUS-NYP
-  description: ''
+  description: Till exempel "På Spåret", "Quizza med P3"
   level: 3
   name: Underhållningsprogram
   status: ACTIVE
@@ -15690,12 +14548,12 @@ categories:
   name: Barnprogram
   status: ACTIVE
 - code: RYF-XKI-BUS-PXU
-  description: ''
+  description: Trendsättande personer som masskommunicerar med bland annat sociala medier
   level: 3
   name: Influencers
   status: ACTIVE
 - code: RYF-XKI-BUS-RWA
-  description: ''
+  description: Program som sänds av radiostationer
   level: 3
   name: Radio
   status: ACTIVE
@@ -15743,7 +14601,7 @@ categories:
   name: Tv-recensioner
   status: ACTIVE
 - code: RYF-XKI-CDA
-  description: ''
+  description: Om artikeln handlar om animerad konst. Till exempel tecknad eller datoranimerad film
   level: 2
   name: Animation
   replacedBy: RYF-XKI-CUP-FKK
@@ -15789,7 +14647,7 @@ categories:
   name: Kungligheter
   status: ACTIVE
 - code: RYF-XKI-CUP-DEC
-  description: ''
+  description: Till exempel nyheter om nattklubbar, krogar eller vimmel
   level: 3
   name: Uteliv
   replaces: RYF-XKI-HLO
@@ -15822,13 +14680,13 @@ categories:
   name: Barnböcker
   status: ACTIVE
 - code: RYF-XKI-CUP-EDZ-XZQ
-  description: ''
+  description: Litteratur som inte nödvändigtvis behöver baseras på fakta. Till exempel "Harry Potter" och "Arn"
   level: 4
   name: Skönlitteratur
   replaces: RYF-XKI-YFJ-XZQ
   status: ACTIVE
 - code: RYF-XKI-CUP-EDZ-ZBW
-  description: ''
+  description: Litteratur med fakta för att lära sig mer om ett ämne. Till exempel matematikböcker
   level: 4
   name: Facklitteratur
   replaces: RYF-XKI-YFJ-ZBW
@@ -15839,7 +14697,7 @@ categories:
   name: Nöjesparker
   status: ACTIVE
 - code: RYF-XKI-CUP-FKK
-  description: ''
+  description: Om artikeln handlar om animerad konst. Till exempel tecknad eller datoranimerad film
   level: 3
   name: Animation
   replaces: RYF-XKI-CDA
@@ -15862,7 +14720,7 @@ categories:
   replaces: RYF-XKI-LNE
   status: ACTIVE
 - code: RYF-XKI-CUP-NCO-BTS
-  description: ''
+  description: Används till artiklar om arkitektur. Till exempel arkitekturtävlingar, åsikter om byggnaders utseende
   level: 4
   name: Arkitektur
   replaces: RYF-XKI-IUV
@@ -15908,7 +14766,7 @@ categories:
   replaces: RYF-XKI-LNE-QWZ-VTV
   status: ACTIVE
 - code: RYF-XKI-CUP-NCO-SNR
-  description: ''
+  description: Konstruktioner i keramik, sten, trä, metall eller andra fasta material i konstsyfte
   level: 4
   name: Skulptur
   replaces: RYF-XKI-LNE-SNR
@@ -16006,7 +14864,7 @@ categories:
   replaces: RYF-XKI-FEY-VVW-CRI
   status: ACTIVE
 - code: RYF-XKI-CUP-NWA-VVW-ISA
-  description: ''
+  description: Traditionella musikgenrer med rötter från den amerikanska södern
   level: 5
   name: Country & blues
   replaces: RYF-XKI-FEY-VVW-ISA
@@ -16024,7 +14882,7 @@ categories:
   replaces: RYF-XKI-FEY-VVW-NQX
   status: ACTIVE
 - code: RYF-XKI-CUP-NWA-VVW-OFH
-  description: ''
+  description: Musik som följer klassiska strukturer rytm och harmoni
   level: 5
   name: Klassisk musik
   replaces: RYF-XKI-FEY-VVW-OFH
@@ -16065,7 +14923,7 @@ categories:
   replaces: RYF-XKI-FEY-XYE
   status: ACTIVE
 - code: RYF-XKI-CUP-OAU
-  description: ''
+  description: Till exempel "Bamse", "Fantomen" och "Nemi"
   level: 3
   name: Tecknade serier
   replaces: RYF-XKI-TMS
@@ -16077,7 +14935,7 @@ categories:
   replaces: RYF-XKI-GJH
   status: ACTIVE
 - code: RYF-XKI-CUP-QZP-DLL
-  description: ''
+  description: Dramaföreställningar som är en satir över något som hänt under det gångna året
   level: 4
   name: Revy
   replaces: RYF-XKI-GJH-DLL
@@ -16118,7 +14976,7 @@ categories:
   replaces: RYF-XKI-VME
   status: ACTIVE
 - code: RYF-XKI-CUP-SVM
-  description: ''
+  description: Till exempel konserter, spelturneringar
   level: 3
   name: Övriga underhållningsevenemang
   replaces: RYF-XKI-FXL
@@ -16140,19 +14998,19 @@ categories:
   replaces: RYF-XKI-WEG
   status: ACTIVE
 - code: RYF-XKI-CUP-VDP-GZH
-  description: ''
+  description: En teaterdansstil med fri stil snarare än formella gester
   level: 4
   name: Modern dans
   replaces: RYF-XKI-WEG-GZH
   status: ACTIVE
 - code: RYF-XKI-CUP-VDP-NLU
-  description: ''
+  description: En klassisk dansform baserad på formella gester, steg och ställningar
   level: 4
   name: Balett
   replaces: RYF-XKI-WEG-NLU
   status: ACTIVE
 - code: RYF-XKI-CUP-VDP-ZEZ
-  description: ''
+  description: En typ av dans vanligtvis som en social aktivitet. Omfattar ceremoniell och folkdans
   level: 4
   name: Traditionell dans
   replaces: RYF-XKI-WEG-ZEZ
@@ -16169,7 +15027,7 @@ categories:
   name: Filmfestivaler
   status: ACTIVE
 - code: RYF-XKI-DEG
-  description: ''
+  description: Används för historia om kultur. Till exempel återblick på kulturprofils arbete, hur en musikgenre uppstod
   level: 2
   name: Kulturhistoria
   replacedBy: RYF-XKI-HSG-MEX
@@ -16199,7 +15057,7 @@ categories:
   replacedBy: RYF-XKI-CUP-NWA-VVW-CRI
   status: INACTIVE
 - code: RYF-XKI-FEY-VVW-ISA
-  description: ''
+  description: Traditionella musikgenrer med rötter från den amerikanska södern
   level: 4
   name: Country & blues
   replacedBy: RYF-XKI-CUP-NWA-VVW-ISA
@@ -16217,7 +15075,7 @@ categories:
   replacedBy: RYF-XKI-CUP-NWA-VVW-NQX
   status: INACTIVE
 - code: RYF-XKI-FEY-VVW-OFH
-  description: ''
+  description: Musik som följer klassiska strukturer rytm och harmoni
   level: 4
   name: Klassisk musik
   replacedBy: RYF-XKI-CUP-NWA-VVW-OFH
@@ -16265,7 +15123,7 @@ categories:
   replacedBy: RYF-XKI-BUS-SBN
   status: INACTIVE
 - code: RYF-XKI-FXL
-  description: ''
+  description: Till exempel konserter, spelturneringar
   level: 2
   name: Övriga underhållningsevenemang
   replacedBy: RYF-XKI-CUP-SVM
@@ -16277,7 +15135,7 @@ categories:
   replacedBy: RYF-XKI-CUP-QZP
   status: INACTIVE
 - code: RYF-XKI-GJH-DLL
-  description: ''
+  description: Dramaföreställningar som är en satir över något som hänt under det gångna året
   level: 3
   name: Revy
   replacedBy: RYF-XKI-CUP-QZP-DLL
@@ -16307,7 +15165,7 @@ categories:
   replacedBy: RYF-XKI-CUP-QZP-TCH-LEP
   status: INACTIVE
 - code: RYF-XKI-HLO
-  description: ''
+  description: Till exempel nyheter om nattklubbar, krogar eller vimmel
   level: 2
   name: Uteliv
   replacedBy: RYF-XKI-CUP-DEC
@@ -16318,7 +15176,7 @@ categories:
   name: Kultur
   status: ACTIVE
 - code: RYF-XKI-HSG-BMH
-  description: ''
+  description: Till exempel Höga Kustenområdet, fornlämningar
   level: 3
   name: Kulturarv
   replaces: RYF-XKI-YBJ
@@ -16340,13 +15198,13 @@ categories:
   name: Slott
   status: ACTIVE
 - code: RYF-XKI-HSG-MEX
-  description: ''
+  description: Används för historia om kultur. Till exempel återblick på kulturprofils arbete, hur en musikgenre uppstod
   level: 3
   name: Kulturhistoria
   replaces: RYF-XKI-DEG
   status: ACTIVE
 - code: RYF-XKI-HSG-MOF
-  description: ''
+  description: Använd för reportage om språk. Till exempel att kommunen stödjer ett nytt språk, språkhistoria
   level: 3
   name: Språk
   replaces: RYF-XKI-PGP
@@ -16358,31 +15216,31 @@ categories:
   replaces: RYF-XKI-KKX
   status: ACTIVE
 - code: RYF-XKI-HSG-QMO
-  description: ''
+  description: Till exempel diskussioner om när man skall slänga ut julgranen, hur man bör hälsa på främlingar
   level: 3
   name: Seder & traditioner
   replaces: RYF-XKI-IHA
   status: ACTIVE
 - code: RYF-XKI-HSG-QQE
-  description: ''
+  description: Alla typer av händelser med en viss kulturell bakgrund, inte nödvändigtvis knuten till en fast tillfälle eller datum
   level: 3
   name: Kulturell fest eller händelse
   replaces: RYF-XKI-ISL
   status: ACTIVE
 - code: RYF-XKI-IHA
-  description: ''
+  description: Till exempel diskussioner om när man skall slänga ut julgranen, hur man bör hälsa på främlingar
   level: 2
   name: Seder & traditioner
   replacedBy: RYF-XKI-HSG-QMO
   status: INACTIVE
 - code: RYF-XKI-ISL
-  description: ''
+  description: Alla typer av händelser med en viss kulturell bakgrund, inte nödvändigtvis knuten till en fast tillfälle eller datum
   level: 2
   name: Kulturell fest eller händelse
   replacedBy: RYF-XKI-HSG-QQE
   status: INACTIVE
 - code: RYF-XKI-IUV
-  description: ''
+  description: Används till artiklar om arkitektur. Till exempel arkitekturtävlingar, åsikter om byggnaders utseende
   level: 2
   name: Arkitektur
   replacedBy: RYF-XKI-CUP-NCO-BTS
@@ -16449,7 +15307,7 @@ categories:
   replacedBy: RYF-XKI-CUP-NCO-QWZ-VTV
   status: INACTIVE
 - code: RYF-XKI-LNE-SNR
-  description: ''
+  description: Konstruktioner i keramik, sten, trä, metall eller andra fasta material i konstsyfte
   level: 3
   name: Skulptur
   replacedBy: RYF-XKI-CUP-NCO-SNR
@@ -16473,7 +15331,7 @@ categories:
   replacedBy: RYF-XKI-CUP-NCO-VPL
   status: INACTIVE
 - code: RYF-XKI-PGP
-  description: ''
+  description: Använd för reportage om språk. Till exempel att kommunen stödjer ett nytt språk, språkhistoria
   level: 2
   name: Språk
   replacedBy: RYF-XKI-HSG-MOF
@@ -16491,7 +15349,7 @@ categories:
   replacedBy: RYF-XKI-HSG-JZB
   status: INACTIVE
 - code: RYF-XKI-TMS
-  description: ''
+  description: Till exempel "Bamse", "Fantomen" och "Nemi"
   level: 2
   name: Tecknade serier
   replacedBy: RYF-XKI-CUP-OAU
@@ -16509,25 +15367,25 @@ categories:
   replacedBy: RYF-XKI-CUP-VDP
   status: INACTIVE
 - code: RYF-XKI-WEG-GZH
-  description: ''
+  description: En teaterdansstil med fri stil snarare än formella gester
   level: 3
   name: Modern dans
   replacedBy: RYF-XKI-CUP-VDP-GZH
   status: INACTIVE
 - code: RYF-XKI-WEG-NLU
-  description: ''
+  description: En klassisk dansform baserad på formella gester, steg och ställningar
   level: 3
   name: Balett
   replacedBy: RYF-XKI-CUP-VDP-NLU
   status: INACTIVE
 - code: RYF-XKI-WEG-ZEZ
-  description: ''
+  description: En typ av dans vanligtvis som en social aktivitet. Omfattar ceremoniell och folkdans
   level: 3
   name: Traditionell dans
   replacedBy: RYF-XKI-CUP-VDP-ZEZ
   status: INACTIVE
 - code: RYF-XKI-YBJ
-  description: ''
+  description: Till exempel Höga Kustenområdet, fornlämningar
   level: 2
   name: Kulturarv
   replacedBy: RYF-XKI-HSG-BMH
@@ -16545,13 +15403,13 @@ categories:
   replacedBy: RYF-XKI-CUP-EDZ-HKG
   status: INACTIVE
 - code: RYF-XKI-YFJ-XZQ
-  description: ''
+  description: Litteratur som inte nödvändigtvis behöver baseras på fakta. Till exempel "Harry Potter" och "Arn"
   level: 3
   name: Skönlitteratur
   replacedBy: RYF-XKI-CUP-EDZ-XZQ
   status: INACTIVE
 - code: RYF-XKI-YFJ-ZBW
-  description: ''
+  description: Litteratur med fakta för att lära sig mer om ett ämne. Till exempel matematikböcker
   level: 3
   name: Facklitteratur
   replacedBy: RYF-XKI-CUP-EDZ-ZBW
@@ -16562,7 +15420,7 @@ categories:
   name: Skola & utbildning
   status: ACTIVE
 - code: RYF-YDR-BOB
-  description: ''
+  description: En typ av skola som inte administreras av lokala, regionala eller nationella myndigheter. Privatskolan förbehåller sig rätten att välja de elever som tas in på skolan och finansieras genom avgifter snarare än offentlig finansiering
   level: 2
   name: Privatskola
   status: ACTIVE
@@ -16577,7 +15435,7 @@ categories:
   name: Skolsystemet
   status: ACTIVE
 - code: RYF-YDR-MHH-DJZ
-  description: ''
+  description: Verksamhet med barnomsorg och utbildning för barn åren innan den egentliga skolgången
   level: 3
   name: Förskola
   status: ACTIVE
@@ -16587,7 +15445,7 @@ categories:
   name: Förskolestart
   status: ACTIVE
 - code: RYF-YDR-MHH-IRE
-  description: ''
+  description: Skolformen där elever lär sig grundläggande kunskaper, bland annat läsande och räknelära
   level: 3
   name: Grundskola
   status: ACTIVE
@@ -16612,7 +15470,7 @@ categories:
   name: Lågstadiet
   status: ACTIVE
 - code: RYF-YDR-MHH-LKU
-  description: ''
+  description: En avgiftsfri och frivillig sekundärutbildning i Sverige för ungdomar som har gått ut grundskolan
   level: 3
   name: Gymnasieskola
   status: ACTIVE
@@ -16642,12 +15500,12 @@ categories:
   name: Vuxenutbildning
   status: ACTIVE
 - code: RYF-YDR-MHH-UAD-VTV
-  description: ''
+  description: Universitet är ett högre lärosäte med forskning och utbildning. Till exempel Mittuniversitetet och Uppsala universitet
   level: 4
   name: Universitet
   status: ACTIVE
 - code: RYF-YDR-MQP
-  description: ''
+  description: En skola som inte drivs av offentliga sektorn, men som huvudsakligen finansieras av skattemedel
   level: 2
   name: Friskola
   status: ACTIVE
@@ -16657,7 +15515,7 @@ categories:
   name: Mobbning i skolan
   status: ACTIVE
 - code: RYF-YDR-UER
-  description: ''
+  description: En kommunal skola är öppen för alla och ingår i det offentliga skolväsendet i Sverige
   level: 2
   name: Kommunal skola
   status: ACTIVE
@@ -16687,7 +15545,7 @@ categories:
   name: Betyg
   status: ACTIVE
 - code: RYF-YDR-WXH-KSV
-  description: ''
+  description: En mätning av elevers prestation
   level: 3
   name: Prov
   status: ACTIVE
@@ -16702,109 +15560,89 @@ categories:
   name: Lärare
   status: ACTIVE
 - code: RYF-YDR-YJA
-  description: ''
+  description: Driftsform mellan privat och offentligt för skolor, fritidshem och förskolor
   level: 2
   name: Föräldrakooperativ
   status: ACTIVE
 - code: RYF-ZEI
-  description: ''
+  description: Sociala aspekter, lagar, regler och förhållanden som påverkar sysselsättning och arbetslöshet
   level: 1
   name: Arbetsmarknad
   status: ACTIVE
-- code: RYF-ZEI-CLV
+- code: RYF-ZEI-AGF
   description: ''
+  level: 2
+  name: Nyanställning
+  status: ACTIVE
+- code: RYF-ZEI-AGF-QIL
+  level: 3
+  name: Rekrytering
+  status: ACTIVE
+- code: RYF-ZEI-CLV
+  description: De regler och lagar som reglerar en anställning, till exempel MBL
   level: 2
   name: Anställningsförhållanden
   status: ACTIVE
 - code: RYF-ZEI-CLV-AGH
   description: ''
   level: 3
-  name: Lön & förmån
-  replacedBy: RYF-ZEI-DKZ
-  status: INACTIVE
-- code: RYF-ZEI-CLV-AGH-QJR
-  description: ''
-  level: 4
-  name: Lönespridning
-  replacedBy: RYF-ZEI-DKZ-QJR
-  status: INACTIVE
+  name: Löner & förmåner
+  status: ACTIVE
 - code: RYF-ZEI-CLV-AQQ
   description: ''
   level: 3
   name: Arbetstagare
-  replacedBy: RYF-ZEI-GKO
-  status: INACTIVE
+  status: ACTIVE
 - code: RYF-ZEI-CLV-BLS
   description: ''
   level: 3
   name: Yrken
-  replacedBy: RYF-ZEI-PDB
-  status: INACTIVE
+  status: ACTIVE
 - code: RYF-ZEI-CLV-GBF
   description: ''
   level: 3
   name: Arbetsgivare
-  replacedBy: RYF-ZEI-VGY
-  status: INACTIVE
+  status: ACTIVE
 - code: RYF-ZEI-CLV-IXZ
   description: ''
   level: 3
   name: Yrkesträning
-  replacedBy: RYF-ZEI-FUE
-  status: INACTIVE
+  status: ACTIVE
 - code: RYF-ZEI-CLV-KWA
   description: ''
   level: 3
   name: Lärling
-  replacedBy: RYF-ZEI-YCW
-  status: INACTIVE
+  status: ACTIVE
 - code: RYF-ZEI-CLV-OBQ
   description: ''
   level: 3
   name: Barnarbete
-  replacedBy: RYF-BIZ-WZJ-VWX
-  status: INACTIVE
+  status: ACTIVE
 - code: RYF-ZEI-CLV-PSL
-  description: ''
+  description: Skillnader i uppfattning om till exempel arbetsförhållanden eller löner
   level: 3
-  name: Arbetsmarknadskonflikter
-  replacedBy: RYF-ZEI-JOB
-  status: INACTIVE
+  name: Konflikter
+  status: ACTIVE
 - code: RYF-ZEI-CLV-PSL-DLO
-  description: ''
+  description: Arbetstagares yttersta stridsåtgärd vid arbetskonflikter
   level: 4
   name: Strejk
-  replacedBy: RYF-ZEI-JOB-DLO
-  status: INACTIVE
-- code: RYF-ZEI-CLV-PSL-IBD
-  description: ''
-  level: 4
-  name: Lockout
-  replacedBy: RYF-ZEI-JOB-IBD
-  status: INACTIVE
-- code: RYF-ZEI-CLV-PSL-JZD
-  description: ''
-  level: 4
-  name: Arbetsblockad
-  replacedBy: RYF-ZEI-JOB-JZD
-  status: INACTIVE
+  status: ACTIVE
 - code: RYF-ZEI-CLV-QGD
-  description: ''
+  description: Vanligtvis skriftliga avtal som täcker en specifik klass av arbetare och deras anställnignsvillkor
   level: 3
   name: Kollektivavtal
-  replacedBy: RYF-ZEI-SCG
-  status: INACTIVE
+  status: ACTIVE
 - code: RYF-ZEI-CLV-QGD-AMA
   description: ''
   level: 4
-  name: Avtalsrörelsen
-  replacedBy: RYF-ZEI-SCG-AMA
-  status: INACTIVE
+  name: Avtalsfrågor (löner)
+  status: ACTIVE
 - code: RYF-ZEI-CLV-QGD-FZM
   description: ''
   level: 4
   name: Avtalsfrågor (arbetsregler)
-  status: INACTIVE
+  status: ACTIVE
 - code: RYF-ZEI-CLV-QGD-IEB
   description: ''
   level: 4
@@ -16814,74 +15652,21 @@ categories:
   description: ''
   level: 3
   name: Friskvård
-  replacedBy: RYF-ZEI-SIM
-  status: INACTIVE
+  status: ACTIVE
 - code: RYF-ZEI-CLV-VVZ-END
   description: ''
   level: 4
   name: Friskvårdsbidrag
-  replacedBy: RYF-ZEI-SIM-END
-  status: INACTIVE
+  status: ACTIVE
 - code: RYF-ZEI-CZS
   description: ''
   level: 2
-  name: Personal- & anställning
+  name: Personal- & anställningsfrågor
   status: ACTIVE
 - code: RYF-ZEI-CZS-JLQ
   description: ''
   level: 3
   name: Nedskärningar
-  status: ACTIVE
-- code: RYF-ZEI-CZS-JLQ-KNX
-  description: ''
-  level: 4
-  name: Uppsägning & varsel
-  replaces: RYF-ZEI-QWT-IIW
-  status: ACTIVE
-- code: RYF-ZEI-CZS-PYJ
-  description: ''
-  level: 3
-  name: Nyanställning
-  status: ACTIVE
-- code: RYF-ZEI-CZS-PYJ-KGH
-  description: ''
-  level: 4
-  name: Rekrytering
-  status: ACTIVE
-- code: RYF-ZEI-CZS-UJR
-  description: ''
-  level: 3
-  name: Kompetensutveckling
-  replaces: RYF-ZEI-YYF
-  status: ACTIVE
-- code: RYF-ZEI-DKZ
-  description: ''
-  level: 2
-  name: Lön & förmån
-  replaces: RYF-ZEI-CLV-AGH
-  status: ACTIVE
-- code: RYF-ZEI-DKZ-QJR
-  description: ''
-  level: 3
-  name: Lönespridning
-  replaces: RYF-ZEI-CLV-AGH-QJR
-  status: ACTIVE
-- code: RYF-ZEI-FUE
-  description: ''
-  level: 2
-  name: Yrkesträning
-  replaces: RYF-ZEI-CLV-IXZ
-  status: ACTIVE
-- code: RYF-ZEI-GKO
-  description: ''
-  level: 2
-  name: Arbetstagare
-  replaces: RYF-ZEI-CLV-AQQ
-  status: ACTIVE
-- code: RYF-ZEI-GSB
-  description: ''
-  level: 2
-  name: Sommarjobb
   status: ACTIVE
 - code: RYF-ZEI-ICY
   description: ''
@@ -16889,51 +15674,11 @@ categories:
   name: Sjukskrivning
   status: ACTIVE
 - code: RYF-ZEI-IVG
-  description: ''
+  description: Frågor som rör pensionen, till exempel pensionsålder, förtidspension med mera
   level: 2
   name: Pension
   replacedBy: RYF-IXA-QED-HZF
   status: INACTIVE
-- code: RYF-ZEI-JOB
-  description: ''
-  level: 2
-  name: Arbetsmarknadskonflikter
-  replaces: RYF-ZEI-CLV-PSL
-  status: ACTIVE
-- code: RYF-ZEI-JOB-DLO
-  description: ''
-  level: 3
-  name: Strejk
-  replaces: RYF-ZEI-CLV-PSL-DLO
-  status: ACTIVE
-- code: RYF-ZEI-JOB-IBD
-  description: ''
-  level: 3
-  name: Lockout
-  replaces: RYF-ZEI-CLV-PSL-IBD
-  status: ACTIVE
-- code: RYF-ZEI-JOB-JZD
-  description: ''
-  level: 3
-  name: Arbetsblockad
-  replaces: RYF-ZEI-CLV-PSL-JZD
-  status: ACTIVE
-- code: RYF-ZEI-MEH
-  description: ''
-  level: 2
-  name: Nyanställning
-  status: ACTIVE
-- code: RYF-ZEI-MEH-FHA
-  description: ''
-  level: 3
-  name: Rekrytering
-  status: ACTIVE
-- code: RYF-ZEI-PDB
-  description: ''
-  level: 2
-  name: Yrken
-  replaces: RYF-ZEI-CLV-BLS
-  status: ACTIVE
 - code: RYF-ZEI-QWT
   description: ''
   level: 2
@@ -16947,64 +15692,26 @@ categories:
 - code: RYF-ZEI-QWT-IIW
   description: ''
   level: 3
-  name: Uppsägning & varsel
-  replacedBy: RYF-ZEI-CZS-JLQ-KNX
-  status: INACTIVE
+  name: Uppsägningar & varsel
+  status: ACTIVE
 - code: RYF-ZEI-QWT-QJQ
-  description: ''
+  description: Att ändra inriktning på sitt arbetsliv genom utbildning till något annat än man ägnat sig åt tidigare
   level: 3
   name: Omskolning
   status: ACTIVE
 - code: RYF-ZEI-RYD
-  description: ''
+  description: Lagar som styr anställningsförhållanden, arbetsrätt, arbetsmiljö, arbetstagarinflytande och arbetsmarknadsreglering
   level: 2
-  name: Arbetslagstiftning
+  name: Arbetslagstiftningen
   status: ACTIVE
 - code: RYF-ZEI-RYD-YZX
-  description: ''
+  description: Regler och rutiner för att garantera arbetstagarnas hälsa
   level: 3
-  name: Arbetsmiljö
-  status: ACTIVE
-- code: RYF-ZEI-SCG
-  description: ''
-  level: 2
-  name: Kollektivavtal
-  replaces: RYF-ZEI-CLV-QGD
-  status: ACTIVE
-- code: RYF-ZEI-SCG-AMA
-  description: ''
-  level: 3
-  name: Avtalsrörelsen
-  replaces: RYF-ZEI-CLV-QGD-AMA
-  status: ACTIVE
-- code: RYF-ZEI-SIM
-  description: ''
-  level: 2
-  name: Friskvård
-  replaces: RYF-ZEI-CLV-VVZ
-  status: ACTIVE
-- code: RYF-ZEI-SIM-END
-  description: ''
-  level: 3
-  name: Friskvårdsbidrag
-  replaces: RYF-ZEI-CLV-VVZ-END
-  status: ACTIVE
-- code: RYF-ZEI-VGY
-  description: ''
-  level: 2
-  name: Arbetsgivare
-  replaces: RYF-ZEI-CLV-GBF
-  status: ACTIVE
-- code: RYF-ZEI-YCW
-  description: ''
-  level: 2
-  name: Lärling
-  replaces: RYF-ZEI-CLV-KWA
+  name: Arbetsmiljöfrågor
   status: ACTIVE
 - code: RYF-ZEI-YYF
-  description: ''
+  description: Kompletterande utbildning för att förbättra nuvarande kompetens
   level: 2
   name: Kompetensutveckling
-  replacedBy: RYF-ZEI-CZS-UJR
-  status: INACTIVE
+  status: ACTIVE
 version: 4.1.0
