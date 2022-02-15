@@ -298,7 +298,7 @@ modifications:
 - action: MOVE
   code: RYF-IXA-KEV-IFB-RLI
   name: Gruvnäring
-  newParentCode: RRYF-IXA-KEV
+  newParentCode: RYF-IXA-KEV
   newParentName: Näringsliv
   
 - action: UPDATE
@@ -309,7 +309,7 @@ modifications:
 - action: MOVE
   code: RYF-IXA-KEV-IFB-WQS
   name: Järn- & stålindustri # Nytt namn ovan
-  newParentCode: RRYF-IXA-KEV
+  newParentCode: RYF-IXA-KEV
   newParentName: Näringsliv
   
 - action: INACTIVATE
@@ -603,14 +603,8 @@ modifications:
   parentCode: RYF-IXA-AOE-CYP-TSE
   parentName: Bolån
   level: 5
-  
-  
-  
-  
-  
-  
-  
-  
+  name: Bolåneränta
+
 - action: UPDATE
   code: RYF-IXA-AOE-CYP-SBF-IRO
   name: Övriga lån utan säkerhet

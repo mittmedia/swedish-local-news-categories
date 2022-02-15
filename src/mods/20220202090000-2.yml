@@ -1,54 +1,54 @@
 modifications:
 - action: ADD
-  parentCode: RYF-IXA-AOE-UFQ # ID från Privatförsäkringar ovan
+  parentCode: RYF-IXA-AOE-KPB # ID från Privatförsäkringar ovan
   parentName: Privatförsäkring
   name: Personförsäkring
   level: 4
 
 - action: ADD
-  parentCode: RYF-IXA-AOE-UFQ # ID från Privatförsäkringar ovan
+  parentCode: RYF-IXA-AOE-KPB # ID från Privatförsäkringar ovan
   parentName: Privatförsäkring
   name: Sakförsäkring
   level: 4
 
 - action: ADD
-  parentCode: RYF-IXA-AOE-FEY # ID från ovan Skuldsättning
+  parentCode: RYF-IXA-AOE-FAJ # ID från ovan Skuldsättning
   parentName: Skuldsättning
   name: Skuldsanering
   level: 4
 
 - action: ADD
-  parentCode: RYF-IXA-QED-ZWD # ID för Skatter ovan
+  parentCode: RYF-IXA-QED-CPU # ID för Skatter ovan
   parentName: Skatter
   name: Arbetsgivaravgift
   level: 4
 
 - action: ADD
-  parentCode: RYF-IXA-QED-ZWD # ID för Skatter ovan
+  parentCode: RYF-IXA-QED-CPU # ID för Skatter ovan
   parentName: Skatter
   name: Begravningsavgift
   level: 4
 
 - action: ADD
-  parentCode: RYF-IXA-QED-ZWD # ID för Skatter ovan
+  parentCode: RYF-IXA-QED-CPU # ID för Skatter ovan
   parentName: Skatter
   name: Bolagsskatt
   level: 4
 
 - action: ADD
-  parentCode: RYF-IXA-QED-ZWD # ID för Skatter ovan
+  parentCode: RYF-IXA-QED-CPU # ID för Skatter ovan
   parentName: Skatter
   name: Drivmedelsskatt
   level: 4
 
 - action: ADD
-  parentCode: RYF-IXA-QED-ZWD # ID för Skatter ovan
+  parentCode: RYF-IXA-QED-CPU # ID för Skatter ovan
   parentName: Skatter
   name: Inkomstskatt
   level: 4
 
 - action: ADD
-  parentCode: RYF-IXA-QED-ZWD # ID för Skatter ovan
+  parentCode: RYF-IXA-QED-CPU # ID för Skatter ovan
   parentName: Skatter
   name: Kommunalskatt
   level: 4
@@ -56,29 +56,29 @@ modifications:
 - action: MOVE
   code: RYF-IXA-QED-IJC
   name: Moms
-  newParentCode: RYF-IXA-QED-ZWD # ID för Skatter ovan
+  newParentCode: RYF-IXA-QED-CPU # ID för Skatter ovan
   newParentName: Skatter
 
 - action: ADD
-  parentCode: RYF-IXA-QED-ZWD # ID för Skatter ovan
+  parentCode: RYF-IXA-QED-CPU # ID för Skatter ovan
   parentName: Skatter
   name: Skatteavdrag
   level: 4
 
 - action: ADD
-  parentCode: RYF-IXA-QED-ZWD # ID för Skatter ovan
+  parentCode: RYF-IXA-QED-CPU # ID för Skatter ovan
   parentName: Skatter
   name: Statlig inkomstskatt
   level: 4
 
 - action: ADD
-  parentCode: RYF-IXA-QED-ZWD # ID för Skatter ovan
+  parentCode: RYF-IXA-QED-CPU # ID för Skatter ovan
   parentName: Skatter
   name: Tobaksskatt
   level: 4
 
 - action: ADD
-  parentCode: RYF-IXA-QED-ZWD # ID för Skatter ovan
+  parentCode: RYF-IXA-QED-CPU # ID för Skatter ovan
   parentName: Skatter
   name: 3:12-reglerna
   description: 3:12-reglerna kallas det regelverk för ägarbeskattning som gör att utdelning från småföretag i vanliga fall beskattas betydligt högre än utdelning från storföretag i Sverige
