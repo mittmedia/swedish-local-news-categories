@@ -16738,6 +16738,7 @@ categories:
   name: Nyanställning
   status: ACTIVE
 - code: RYF-ZEI-AGF-NLP
+  description: ''
   level: 3
   name: Rekrytering
   status: ACTIVE
@@ -16745,7 +16746,7 @@ categories:
   description: ''
   level: 3
   name: Rekrytering
-  status: ACTIVE
+  status: INACTIVE
 - code: RYF-ZEI-CLV
   description: De regler och lagar som reglerar en anställning, till exempel MBL
   level: 2
