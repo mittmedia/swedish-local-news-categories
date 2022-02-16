@@ -1,0 +1,529 @@
+modifications:
+- action: ADD
+  parentCode: RYF-IXA-KEV-MCZ-LRX
+  parentName: Reklam & PR
+  name: Reklam
+  level: 5
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-MCZ-LRX
+  parentName: Reklam & PR
+  name: Pr
+  level: 5
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-MCZ-LRX
+  parentName: Reklam & PR
+  name: Datamarknadsföring
+  level: 5
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-MCZ-LRX
+  parentName: Reklam & PR
+  name: Evenemang
+  level: 5
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-MCZ-LRX
+  parentName: Reklam & PR
+  name: Innehållsreklam
+  level: 5
+
+- action: UPDATE
+  code: RYF-IXA-KEV-MCZ-LRX
+  name: Reklam & PR
+  newName: Reklam & Pr
+
+
+
+
+
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-MCZ-HLJ
+  parentName: Dagstidningar & magasin
+  name: Nyhetsmedier
+  level: 5
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-MCZ-HLJ
+  parentName: Dagstidningar & magasin
+  name: Tidskrifter
+  level: 5
+  
+  
+  
+  
+  
+  
+  
+
+- action: ADD
+  parentCode: RYF-IXA-KEV
+  parentName: Näringsliv
+  name: Innovation
+  level: 3
+
+- action: ADD
+  parentCode: RYF-IXA-KEV
+  parentName: Näringsliv
+  name: Ledarskap
+  level: 3
+
+- action: ADD
+  parentCode: RYF-IXA-KEV
+  parentName: Näringsliv
+  name: Strategi
+  level: 3
+
+
+
+
+
+
+- action: ADD
+  parentCode: RYF-ZEI
+  parentName: Arbetsmarknad
+  name: Nyanställning
+  level: 2
+ 
+
+ 
+ 
+ 
+ 
+- action: ADD
+  parentCode: RYF-IXA-KEV
+  parentName: Näringsliv
+  name: Fastighetsbranschen
+  level: 3
+  
+
+  
+  
+- action: ADD
+  parentCode: RYF-IXA-KEV
+  parentName: Näringsliv
+  name: Byggnadsbranschen
+  level: 3
+
+
+  
+  
+- action: MOVE
+  code: RYF-IXA-KEV-OTN-ZWU
+  name: Infrastrukturbyggnad
+  newParentCode: RYF-HPT-YGE
+  newParentName: Infrastruktur
+
+
+
+  
+- action: MOVE
+  code: RYF-IXA-KEV-OTN-WNQ
+  name: Stadsbyggnad
+  newParentCode: RYF-HPT-ZSS-WTL
+  newParentName: Samhällsplanering
+  
+  
+  
+ 
+- action: INACTIVATE
+  code: RYF-IXA-KEV-OTN-KAZ
+  name: Jordbruksfastigheter
+  
+- action: INACTIVATE
+  code: RYF-IXA-KEV-OTN-MNM
+  name: Markpriser
+ 
+- action: INACTIVATE
+  code: RYF-IXA-KEV-OTN-TSA
+  name: Husbyggnad
+  
+
+
+
+
+
+
+
+
+- action: UPDATE
+  code: RYF-IXA-KEV-RQL
+  name: Konsumtions- & dagligvaror
+  newName: Handel
+
+- action: UPDATE
+  code: RYF-IXA-KEV-RQL-FAF
+  name: Grossister
+  newName: Partihandel
+
+
+
+
+
+
+  
+  
+ # Update först, sedan MOVE nedan
+- action: UPDATE
+  code: RYF-IXA-KEV-VXX-TWI
+  name: Flygtransporter
+  newName: Flygbranschen
+  
+- action: UPDATE
+  code: RYF-IXA-KEV-VXX-SAU
+  name: Järnvägstransporter
+  newName: Järnvägsbranschen
+  
+- action: UPDATE
+  code: RYF-IXA-KEV-VXX-TBB
+  name: Sjötransporter
+  newName: Rederibranschen
+  
+- action: UPDATE
+  code: RYF-IXA-KEV-VXX-YRQ
+  name: Vägtransporter
+  newName: Åkeribranschen
+  
+  
+  
+- action: MOVE
+  code: RYF-IXA-KEV-VXX-TWI
+  name: Flygbranschen
+  newParentCode: RYF-IXA-KEV-CYO
+  newParentName: Logistikbranschen
+  
+- action: MOVE
+  code: RYF-IXA-KEV-VXX-SAU
+  name: Järnvägsbranschen
+  newParentCode: RYF-IXA-KEV-CYO
+  newParentName: Logistikbranschen
+  
+- action: MOVE
+  code: RYF-IXA-KEV-VXX-TBB
+  name: Rederibranschen
+  newParentCode: RYF-IXA-KEV-CYO
+  newParentName: Logistikbranschen
+  
+- action: MOVE
+  code: RYF-IXA-KEV-VXX-YRQ
+  name: Åkeribranschen
+  newParentCode: RYF-IXA-KEV-CYO
+  newParentName: Logistikbranschen
+  
+- action: UPDATE
+  code: RYF-IXA-KEV-CYO
+  name: Logistikbranschen
+  newName: Logistik
+  
+  
+  
+# Hold på grund av att vi ska flytta pendling senare
+#- action: INACTIVATE
+#  code: RYF-IXA-KEV-VXX
+#  name: Transporter
+
+
+
+
+
+
+- action: ADD
+  parentCode: RYF-IXA-AOE
+  parentName: Privatekonomi
+  name: Bostadspriser
+  level: 3
+  
+
+
+- action: ADD
+  parentCode: RYF-KNI
+  parentName: Politik
+  name: Bostadspolitik
+  level: 2
+
+
+
+
+
+
+
+
+
+- action: ADD
+  parentCode: RYF-IXA-QED
+  parentName: Samhällsekonomi
+  name: Konjunktur
+  level: 3
+
+- action: INACTIVATE
+  code: RYF-IXA-QED-MVF
+  name: Högkonjunktur
+  
+- action: INACTIVATE
+  code: RYF-IXA-QED-YXM
+  name: Lågkonjunktur
+
+
+
+
+- action: UPDATE
+  code: RYF-IXA-QED-CQI
+  name: Pengar & penningpolitik
+  newName: Penningpolitik
+
+- action: ADD
+  parentCode: RYF-IXA-QED-CQI
+  parentName: Penningpolitik # Från ovanstående UPDATE av Pengar & penningpolitik
+  name: Räntebesked
+  level: 4
+
+
+
+
+- action: UPDATE
+  code: RYF-TKT-KBC
+  name: Hus- & boendetyper
+  newName: Bostad
+
+- action: INACTIVATE
+  code: RYF-TKT-KBC-AKD
+  name: Sommarstugor
+
+- action: UPDATE
+  code: RYF-TKT-KBC-JDH
+  name: Rad- och parhus
+  newName: Radhus & parhus
+
+- action: INACTIVATE
+  code: RYF-TKT-KBC-BTK-DJI
+  name: Trähus
+  
+- action: INACTIVATE
+  code: RYF-TKT-KBC-BTK-WFO
+  name: Stenhus
+
+
+
+
+
+
+- action: ADD
+  parentCode: RYF-HPT-YGE
+  parentName: Infrastruktur
+  name: Digitalisering
+  level: 3
+
+
+
+
+
+
+- action: ADD
+  parentCode: RYF-HPT-ZSS-LAJ
+  parentName: Byggnader
+  name: Arkitektur
+  level: 4
+
+- action: MOVE
+  code: RYF-HPT-ZSS-LAJ-RQP
+  name: Köpcentrum & gallerior
+  newParentCode: RYF-HPT-ZSS-HAB
+  newParentName: Stadsmiljö
+  
+- action: ADD
+  parentCode: RYF-HPT-ZSS-HAB
+  parentName: Stadsmiljö
+  name: Parker
+  level: 4
+  
+
+  
+
+- action: ADD
+  parentCode: RYF-HPT-ZSS
+  parentName: Samhällen
+  name: Bostadsmarknad
+  level: 3
+  
+- action: UPDATE
+  code: RYF-IXA-AOE-CYP-TSE-XQB
+  name: Pantbrev & lagfart
+  newName: Lagfart
+  
+
+
+
+
+# Flytta allt under företagsekonomi till Näringsliv och bokslut under finansiella resultat
+- action: MOVE
+  code: RYF-IXA-ECZ-FAO
+  name: Bokslut
+  newParentCode: RYF-IXA-ECZ-UBS
+  newParentName: Finansiella resultat
+  
+- action: MOVE
+  code: RYF-IXA-ECZ-CBI
+  name: Årsredovisning
+  newParentCode: RYF-IXA-ECZ-UBS
+  newParentName: Finansiella resultat
+ 
+- action: MOVE
+  code: RYF-IXA-ECZ-SDB-IEO
+  name: Kvartalsrapporter
+  newParentCode: RYF-IXA-ECZ-UBS
+  newParentName: Finansiella resultat
+
+- action: MOVE
+  code: RYF-IXA-ECZ-SDB-QAJ
+  name: Resultatprognoser
+  newParentCode: RYF-IXA-ECZ-UBS
+  newParentName: Finansiella resultat
+  
+- action: MOVE
+  code: RYF-IXA-ECZ-BJN
+  name: Börsnotering
+  newParentCode: RYF-IXA-KEV
+  newParentName: Näringsliv
+
+- action: MOVE
+  code: RYF-IXA-ECZ-DXR
+  name: Årsmöten & stämmor
+  newParentCode: RYF-IXA-KEV
+  newParentName: Näringsliv
+  
+- action: MOVE
+  code: RYF-IXA-ECZ-FMD
+  name: Aktieutdelning
+  newParentCode: RYF-IXA-KEV
+  newParentName: Näringsliv
+  
+- action: INACTIVATE
+  code: RYF-IXA-ECZ-KCI
+  name: Aktiehändelser
+
+- action: UPDATE
+  code: RYF-IXA-ECZ-KOK
+  name: Nyemmissioner
+  newName: Nyemmission
+  
+- action: MOVE
+  code: RYF-IXA-ECZ-KOK
+  name: Nyemmission # Nytt namn från UPDATE ovan
+  newParentCode: RYF-IXA-KEV
+  newParentName: Näringsliv
+  
+- action: INACTIVATE
+  code: RYF-IXA-ECZ-LBG
+  name: Finansiella svårigheter
+
+- action: INACTIVATE
+  code: RYF-IXA-ECZ-LWV
+  name: Aktieägare
+
+- action: MOVE
+  code: RYF-IXA-ECZ-NBA
+  name: Redovisning & revision
+  newParentCode: RYF-IXA-KEV
+  newParentName: Näringsliv
+  
+- action: MOVE
+  code: RYF-IXA-ECZ-NVH-GNH-UUS
+  name: Patent, upphovsrätt & varumärke
+  newParentCode: RYF-IXA-KEV
+  newParentName: Näringsliv
+  
+# Inkl allting under Företagande, RYF-IXA-ECZ-NVH förutom ovanstående move
+- action: INACTIVATE
+  code: RYF-IXA-ECZ-NVH
+  name: Företagande
+  
+- action: INACTIVATE
+  code: RYF-IXA-ECZ-RJL
+  name: Kommentarer & ekonomisk analys
+  
+- action: MOVE
+  code: RYF-IXA-ECZ-SDB
+  name: Företagsförvärv
+  newParentCode: RYF-IXA-KEV
+  newParentName: Näringsliv
+  
+- action: MOVE
+  code: RYF-IXA-ECZ-TDN
+  name: Konkurser
+  newParentCode: RYF-IXA-KEV
+  newParentName: Näringsliv
+  
+
+- action: MOVE
+  code: RYF-IXA-ECZ-UBS
+  name: Finansiella resultat
+  newParentCode: RYF-IXA-KEV
+  newParentName: Näringsliv
+  
+
+- action: MOVE
+  code: RYF-IXA-ECZ-WQY
+  name: Kreditvärdering
+  newParentCode: RYF-IXA-KEV
+  newParentName: Näringsliv
+
+- action: INACTIVATE
+  code: RYF-IXA-ECZ-ZML
+  name: Omstrukturering & rekapitalisering
+
+- action: ADD
+  parentCode: RYF-IXA-KEV
+  parentName: Näringsliv
+  name: Aktiebolag
+  level: 3
+
+- action: ADD
+  parentCode: RYF-IXA-KEV
+  parentName: Näringsliv
+  name: Enskild firma
+  level: 3
+
+- action: ADD
+  parentCode: RYF-IXA-KEV
+  parentName: Näringsliv
+  name: Handelsbolag
+  level: 3
+
+- action: ADD
+  parentCode: RYF-IXA-KEV
+  parentName: Näringsliv
+  name: Nyetableringar
+  level: 3
+
+- action: ADD
+  parentCode: RYF-IXA-KEV
+  parentName: Näringsliv
+  name: Egenföretagande
+  level: 3
+
+- action: MOVE
+  code: RYF-IXA-QED-BIC-GJJ
+  name: Småföretagande
+  newParentCode: RYF-IXA-KEV
+  newParentName: Näringsliv
+
+- action: MOVE
+  code: RYF-IXA-QED-BIC-NTG
+  name: Entreprenörskap
+  newParentCode: RYF-IXA-KEV
+  newParentName: Näringsliv
+
+
+
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-MCZ
+  parentName: Mediemarknaden
+  name: Public service
+  level: 4
+
+
+
+

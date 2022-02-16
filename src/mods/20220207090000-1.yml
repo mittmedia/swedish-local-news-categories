@@ -1,0 +1,354 @@
+modifications:
+- action: ADD
+  parentCode: RYF
+  parentName: Nyhetskategorier
+  name: Trafik, kommunikation & fordon
+  level: 1
+  
+- action: UPDATE
+  code: RYF-TKT-MRA-KWO
+  name: Bilentusiasm
+  newName: Bilintresse
+  
+
+
+- action: INACTIVATE # har inga barn
+  code: RYF-TKT-MRA-JUA-DYT-DJX
+  name: Köpa & sälja
+
+
+  
+- action: UPDATE
+  code: RYF-TKT-MRA-FLT
+  name: Bilguider
+  newName: Bilguide
+
+- action: INACTIVATE #har inga barn
+  code: RYF-TKT-MRA-XVK
+  name: Bilreklam
+  
+
+  
+- action: UPDATE
+  code: RYF-TKT-MRA-IQM
+  name: Biltester
+  newName: Biltest
+  
+
+ 
+ 
+- action: UPDATE
+  code: RYF-HPT-YGE-GUI-JGK
+  name: Flyg
+  newName: Flygtrafik
+
+
+- action: UPDATE
+  code: RYF-IXA-KEV-WHS-OJI-JQC
+  name: Bilbarnstolar
+  newName: Bilbarnstol
+  
+- action: UPDATE
+  code: RYF-IXA-KEV-WHS-OJI-KSK
+  name: Bilbatterier
+  newName: Bilbatteri
+  
+- action: UPDATE
+  code: RYF-IXA-KEV-WHS-OJI-EJA
+  name: Elbilsbatterier
+  newName: Elbilsbatteri
+  
+- action: UPDATE
+  code: RYF-IXA-KEV-WHS-OJI-AHY
+  name: Krockkuddar
+  newName: Krockkudde
+  
+- action: UPDATE
+  code: RYF-IXA-KEV-WHS-OJI-ZSM
+  name: Strålkastare & lampor
+  newName: Strålkastare & lampa
+  
+- action: UPDATE
+  code: RYF-IXA-KEV-WHS-OJI-RUR
+  name: Vindrutor
+  newName: Vindruta
+  
+  # Inkl alla barnposter
+
+- action: UPDATE
+  code: RYF-IXA-KEV-WHS-OJI-DOG
+  name: Autobromsar
+  newName: Autobroms
+  
+
+
+
+
+
+
+- action: UPDATE
+  code: RYF-TKT-OUV-RKR
+  name: Fordonsuthyrning på resmål
+  newName: Fordonsuthyrning
+  
+
+- action: UPDATE
+  code: RYF-TKT-MRA-CBI
+  name: Fyrhjulingar & avg
+  newName: Fyrhjuling & ATV
+
+
+- action: UPDATE
+  code: RYF-HPT-YGE-MOZ
+  name: Tågnät
+  newName: Järnvägsnät
+  
+
+  
+- action: UPDATE
+  code: RYF-HPT-YGE-PEJ
+  name: Laddstolpar
+  newName: Laddstolpe
+  
+
+  
+- action: UPDATE
+  code: RYF-TKT-MRA-TJY
+  name: MC-entusiasm
+  newName: MC-intresse
+  
+
+  
+  
+- action: UPDATE
+  code: RYF-TKT-MRA-HCS
+  name: Mopeder
+  newName: Moped
+  
+
+
+  
+- action: UPDATE
+  code: RYF-TKT-MRA-RJL
+  name: Motorcyklar
+  newName: Motorcykel
+  
+
+
+
+
+# Ev ta bort. Osäker just nu.
+#- action: INACTIVATE
+#  code: RYF-IXA-KEV-VXX
+#  name: Transporter
+
+
+
+
+
+
+
+
+- action: UPDATE
+  code: RYF-TKT-MRA-JUA
+  name: Biltyper
+  newName: Personbil
+ 
+- action: UPDATE
+  code: RYF-TKT-MRA-JUA-GCX
+  name: Bakhjulsdrivna bilar
+  newName: Bakhjulsdriven bil
+
+- action: UPDATE
+  code: RYF-TKT-MRA-JUA-DBY
+  name: Bensinbilar
+  newName: Bensinbil
+  
+- action: UPDATE
+  code: RYF-TKT-MRA-JUA-XNP
+  name: Dieselbilar
+  newName: Dieselbil
+ 
+- action: UPDATE
+  code: RYF-TKT-MRA-JUA-XKH
+  name: Elbilar
+  newName: Elbil
+  
+- action: ADD
+  parentCode: RYF-TKT-MRA-JUA-XKH
+  parentName: Elbil # nytt namn ovan
+  name: Vätgasbil
+  level: 5
+  
+- action: UPDATE
+  code: RYF-TKT-MRA-JUA-CIO
+  name: Familjebilar
+  newName: Familjebil
+  
+- action: UPDATE
+  code: RYF-TKT-MRA-JUA-KAM
+  name: Framhjulsdrivna bilar
+  newName: Framhjulsdriven bil
+  
+- action: UPDATE
+  code: RYF-TKT-MRA-JUA-RJU
+  name: Gasbilar
+  newName: Gasbil
+ 
+- action: UPDATE
+  code: RYF-TKT-MRA-JUA-SEW
+  name: Husbilar & husvagnar
+  newName: Husbil & husvagn
+ 
+- action: UPDATE
+  code: RYF-TKT-MRA-JUA-RGL
+  name: Hybridbilar
+  newName: Hybridbil
+  
+- action: ADD
+  parentCode: RYF-TKT-MRA-JUA-RGL
+  parentName: Hybridbil # Nytt namn ovan
+  name: Bensinhybrid
+  level: 5
+  
+- action: UPDATE
+  code: RYF-TKT-MRA-JUA-RGL-TVQ
+  name: Dieselhybrider
+  newName: Dieselhybrid
+  
+- action: ADD
+  parentCode: RYF-TKT-MRA-JUA-RGL
+  parentName: Hybridbil # Nytt namn ovan
+  name: Elhybrid
+  level: 5
+  
+- action: ADD
+  parentCode: RYF-TKT-MRA-JUA-RGL
+  parentName: Hybridbil # Nytt namn ovan
+  name: Laddhybrid
+  level: 5
+  
+- action: UPDATE
+  code: RYF-TKT-MRA-JUA-RGL-NPG
+  name: Mildhybrider
+  newName: Mildhybrid
+  
+- action: UPDATE
+  code: RYF-TKT-MRA-JUA-YHQ
+  name: Hyperbilar
+  newName: Hyperbil
+  
+- action: UPDATE
+  code: RYF-TKT-MRA-JUA-JLC
+  name: Kombibilar & halvkombi
+  newName: Kombibil
+  
+- action: ADD
+  parentCode: RYF-TKT-MRA-JUA
+  parentName: Personbil # Nytt namn ovan
+  name: Halvkombibil
+  level: 4
+  
+- action: ADD
+  parentCode: RYF-TKT-MRA-JUA
+  parentName: Personbil # Nytt namn ovan
+  name: Miljöbil
+  level: 4
+  
+- action: ADD
+  parentCode: RYF-TKT-MRA-JUA
+  parentName: Personbil # Nytt namn ovan
+  name: Sedanbil
+  level: 4
+  
+- action: UPDATE
+  code: RYF-TKT-MRA-JUA-SIT
+  name: Stadsbilar
+  newName: Småbil
+  
+- action: UPDATE
+  code: RYF-TKT-MRA-JUA-YPW
+  name: Suvar & minisuvar
+  newName: Suv
+  description: Stadsjeep (även kallat SUV efter engelska sport utility vehicle) är en större personbil som kombinerar framkomligheten hos ett terrängfordon med komforten i en personbil
+  
+- action: UPDATE
+  code: RYF-TKT-MRA-JUA-EHD
+  name: Tjänstebil
+  newName: Tjänstebil & förmånsbil
+  
+- action: INACTIVATE # har inga barn
+  code: RYF-TKT-MRA-JUA-IGV
+  name: Trecylindriga bilar
+  
+
+- action: ADD
+  parentCode: RYF-HPT-YGE-GUI-YMN # Kan ha uppdaterats med ovanstående MOVE.
+  parentName: Sjöfart
+  name: Fraktfartyg
+  level: 3
+  
+- action: ADD
+  parentCode: RYF-HPT-YGE-GUI-YMN # Kan ha uppdaterats med ovanstående MOVE.
+  parentName: Sjöfart
+  name: Passagerarfartyg
+  level: 3
+  
+- action: ADD
+  parentCode: RYF-HPT-YGE-GUI-YMN # Kan ha uppdaterats med ovanstående MOVE.
+  parentName: Sjöfart
+  name: Färja
+  level: 3
+  
+  
+  
+  
+  
+  
+
+- action: INACTIVATE # har inga barn
+  code: RYF-HPT-YGE-YSF
+  name: Spårvagnsnät
+  
+
+- action: INACTIVATE # har inga barn
+  code: RYF-HPT-YGE-GUI-EHJ
+  name: Väg
+  
+
+  
+  
+  
+  
+  
+  
+- action: UPDATE
+  code: RYF-TKT-MRA-YUY
+  name: Traktorer & a-traktorer
+  newName: Traktor & arbetsmaskiner
+  
+- action: ADD
+  parentCode: RYF-TKT-MRA-YUY
+  parentName: Traktor & arbetsmaskiner # nytt namn ovan
+  name: Entreprenadmaskin
+  level: 4
+  
+- action: ADD
+  parentCode: RYF-TKT-MRA-YUY
+  parentName: Traktor & arbetsmaskiner # nytt namn ovan
+  name: Jordbruksmaskin
+  level: 4
+  
+- action: ADD
+  parentCode: RYF-TKT-MRA-YUY
+  parentName: Traktor & arbetsmaskiner # nytt namn ovan
+  name: A-traktor & Epa-traktor
+  level: 4
+  
+
+
+
+
+
+
+
