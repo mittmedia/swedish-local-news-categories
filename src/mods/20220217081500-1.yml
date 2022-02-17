@@ -2,3 +2,174 @@ modifications:
 - action: INACTIVATE
   code: RYF-ZEI-CLV
   name: Anställningsförhållanden
+
+
+- action: UPDATE
+  code: RYF-ZEI-QWT-FSK
+  name: Arbetslöshetsersättning
+  newName: A-kassa
+
+- action: INACTIVATE
+  code: RYF-IXA-ECZ
+  name: Företagsekonomi
+
+
+- action: MOVE
+  code: RYF-IXA-LSL
+  name: Lobbyverksamhet
+  newParentCode: RYF-IXA-KEV
+  newParentName: Näringsliv
+
+
+- action: INACTIVATE
+  code: RYF-IXA-KEV-WHS-LHJ-UNZ
+  name: Köksmaskiner
+
+- action: INACTIVATE
+  code: RYF-IXA-KEV-WHS-LHJ
+  name: Elektriska apparater
+
+- action: INACTIVATE
+  code: RYF-IXA-KEV-WHS-OYE
+  name: Industriella komponenter
+
+- action: INACTIVATE
+  code: RYF-IXA-KEV-WHS-IBU
+  name: Maskintillverkning
+
+- action: INACTIVATE
+  code: RYF-IXA-KEV-WHS-PFN
+  name: Tung industri
+
+- action: INACTIVATE
+  code: RYF-IXA-KEV-WHS
+  name: Tillverkning & konstruktion
+
+
+- action: INACTIVATE
+  code: RYF-IXA-KEV-VXX
+  name: Transporter
+
+
+- action: UPDATE
+  code: RYF-IXA-KEV-YII-NFS
+  name: Hotell & logi
+  newName: Hotell
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-YII
+  parentName: Turism & besöksnäring
+  name: Bed & breakfast
+  level: 4
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-YII
+  parentName: Turism & besöksnäring
+  name: Camping
+  level: 4
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-YII
+  parentName: Turism & besöksnäring
+  name: Vandrarhem
+  level: 4
+
+
+- action: MOVE
+  code: RYF-XRZ-ITR-DYT
+  name: Begagnade bilar
+  newParentCode: RYF-XRZ-UXH
+  newParentName: Bilförsäljning
+
+
+- action: UPDATE
+  code: RYF-XRZ-BQN-LKS-TOO
+  name: Svampar & trasor
+  newName: Svamp & trasa
+
+
+# Inkl barn
+- action: MOVE
+  code: RYF-TKT-MRA-KWO
+  name: Bilintresse
+  newParentCode: RYF-XRZ
+  newParentName: Trafik, kommunikation & fordon
+
+
+- action: MOVE
+  code: RYF-TKT-MRA-ICA
+  name: Bilstyling
+  newParentCode: RYF-XRZ-XXXX # nytt ID ovan från flytt av bilintresse
+  newParentName: Bilintresse
+
+- action: MOVE
+  code: RYF-TKT-MRA-NGH
+  name: Fordonsbesiktning
+  newParentCode: RYF-XRZ
+  newParentName: Trafik, kommunikation & fordon
+
+
+- action: INACTIVATE
+  code: RYF-TKT-MRA-HBF
+  name: Gocart
+
+# Efter ovanstående flyttar
+- action: INACTIVATE
+  code: RYF-TKT-MRA
+  name: Motor
+
+
+- action: MOVE
+  code: RYF-XRZ-ITR-OAJ
+  name: Amerikanare
+  newParentCode: RYF-XRZ-XXXX # nytt ID ovan från flytt av bilintresse
+  newParentName: Bilintresse
+
+- action: UPDATE
+  code: RYF-XRZ-ITR-YHQ
+  name: Hyperbil
+  newName: Supersportbil
+
+- action: UPDATE
+  code: RYF-XRZ-ITR-HSI
+  name: Lågprisbilar
+  newName: Lågprisbil
+
+- action: UPDATE
+  code: RYF-XRZ-ITR-UUF
+  name: Premiumbilar
+  newName: Premiumbil
+
+- action: UPDATE
+  code: RYF-XRZ-ITR-YOE
+  name: Semiautonoma bilar
+  newName: Semiautonom bil
+
+- action: UPDATE
+  code: RYF-XRZ-ITR-KIY
+  name: Självkörande bilar
+  newName: Självkörande bil
+
+- action: UPDATE
+  code: RYF-XRZ-ITR-QZP
+  name: Sportbilar
+  newName: Sportbil
+
+- action: UPDATE
+  code: RYF-XRZ-ITR-AAY
+  name: Säkerhetsbilar
+  newName: Säkerhetsbil
+
+- action: UPDATE
+  code: RYF-XRZ-ITR-RNO
+  name: Terrängbilar
+  newName: Terrängbil
+
+
+- action: ADD
+  parentCode: RYF-XRZ-ZPV
+  parentName: Tåg
+  name: Nattåg
+  level: 3
+
+
