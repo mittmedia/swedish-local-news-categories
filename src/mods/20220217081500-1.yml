@@ -55,6 +55,20 @@ modifications:
   code: RYF-IXA-KEV-YII-NFS
   name: Hotell & logi
   newName: Hotell
+  
+- action: INACTIVATE
+  code: RYF-TKT-OUV-CFU-DRO
+  name: Hotell
+  
+- action: INACTIVATE
+  code: RYF-TKT-OUV-CFU-DRO
+  name: Hostel
+  
+- action: INACTIVATE
+  code: RYF-TKT-OUV-CFU-GXG
+  name: Hyra lägenhet
+  
+  
 
 - action: ADD
   parentCode: RYF-IXA-KEV-YII
@@ -68,11 +82,12 @@ modifications:
   name: Camping
   level: 4
 
-- action: ADD
-  parentCode: RYF-IXA-KEV-YII
-  parentName: Turism & besöksnäring
+
+- action: MOVE
+  code: RYF-TKT-OUV-CFU-EUH
   name: Vandrarhem
-  level: 4
+  newParentCode: RYF-IXA-KEV-YII
+  newParentName: Turism & besöksnäring
 
 
 - action: MOVE
