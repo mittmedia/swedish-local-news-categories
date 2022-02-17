@@ -1,0 +1,27 @@
+modifications:
+- action: MOVE
+  code: RYF-CUW-JAY
+  name: Karriär
+  newParentCode: RYF-ZEI
+  newParentName: Arbetsmarknad
+  
+- action: ADD
+  parentCode: RYF-BIZ-WZJ
+  parentName: Brottslighet
+  name: Hedersbrott
+  level: 3
+  
+- action: ADD
+  parentCode: RYF-IXA-KEV-MCZ
+  parentName: Mediemarknaden
+  name: Presstöd
+  level: 4
+
+- action: UPDATE
+  code: RYF-WXT-ABT
+  name: Terroristattentat
+  newName: Terrorism
+
+
+
+

@@ -1,0 +1,298 @@
+modifications:
+- action: UPDATE
+  code: RYF-VHD-ZKU
+  name: Bevarande av miljö
+  newName: Miljö
+  description: Med miljö kan menas omgivning eller omgivande förhållanden. Ordet används särskilt när det är fråga om samspelet mellan omgivningen och däri verkande system, djur, växter eller andra organismer. 
+  
+- action: ADD
+  parentCode: RYF-VHD-ZKU
+  parentName: Miljö # nytt namn ovan
+  name: Biologisk mångfald
+  level: 3
+  
+
+
+- action: UPDATE
+  code: RYF-VHD-ZKU-BLX
+  name: Hållbarhetsarbete
+  newName: Hållbarhet
+ 
+ 
+- action: ADD
+  parentCode: RYF-VHD-ZKU-BLX
+  parentName: Hållbarhet # nytt namn ovan
+  name: Matsvinn
+  level: 4
+  
+ 
+- action: ADD
+  parentCode: RYF-VHD-ZKU
+  parentName: Miljö # nytt namn ovan
+  name: Naturvård
+  level: 3
+
+
+- action: ADD
+  parentCode: RYF-VHD-ZKU
+  parentName: Miljö # nytt namn ovan
+  name: Övergödning
+  level: 3
+
+
+
+
+- action: ADD
+  parentCode: RYF-VHD-OAY-DLT
+  parentName: Djur
+  name: Vilda djur
+  level: 4
+
+- action: INACTIVATE
+  code: RYF-VHD-OAY-DLT-XUZ-MGE
+  name: Varg
+  
+- action: INACTIVATE
+  code: RYF-VHD-OAY-DLT-XUZ-TXW
+  name: Kungsörn
+  
+- action: INACTIVATE
+  code: RYF-VHD-OAY-DLT-XUZ-UVR
+  name: Lodjur
+  
+- action: INACTIVATE
+  code: RYF-VHD-OAY-DLT-XUZ-WEH
+  name: Björn
+  
+- action: INACTIVATE
+  code: RYF-VHD-OAY-DLT-XUZ-XOM
+  name: Järv
+
+- action: MOVE
+  code: RYF-VHD-OAY-DLT-XUZ
+  name: Rovdjur
+  newParentCode: RYF-VHD-OAY-DLT-XXXX # Ny ovan
+  newParentName: Vilda djur # Ny ovan
+
+
+
+- action: INACTIVATE
+  code: RYF-VHD-OAY-VCS
+  name: Hotade arter
+
+
+
+- action: ADD
+  parentCode: RYF-VHD-IFE
+  parentName: Föroreningar
+  name: Buller
+  level: 3
+
+
+
+
+- action: UPDATE
+  code: RYF-VHD-GUZ
+  name: Klimatförändringar
+  newName: Klimatförändring
+ 
+- action: ADD
+  parentCode: RYF-VHD-GUZ-SYG
+  parentName: Global uppvärmning
+  name: Klimateffekt
+  level: 4
+  
+- action: ADD
+  parentCode: RYF-VHD-GUZ-SYG-XXXX # Id för Klimateffekt ovan
+  parentName: Klimateffekt # Ny post ovan
+  name: Extremväder
+  level: 5
+  
+- action: ADD
+  parentCode: RYF-VHD-GUZ-SYG-XXXX # Id för Klimateffekt ovan
+  parentName: Klimateffekt # Ny post ovan
+  name: Glaciärsmältning
+  level: 5
+  
+- action: ADD
+  parentCode: RYF-VHD-GUZ-SYG-XXXX # Id för Klimateffekt ovan
+  parentName: Klimateffekt # Ny post ovan
+  name: Havsnivåhöjning
+  level: 5
+  
+- action: ADD
+  parentCode: RYF-VHD-GUZ-SYG-XXXX # Id för Klimateffekt ovan
+  parentName: Klimateffekt # Ny post ovan
+  name: Issmältning
+  level: 5
+  
+- action: ADD
+  parentCode: RYF-VHD-GUZ-SYG-XXXX # Id för Klimateffekt ovan
+  parentName: Klimateffekt # Ny post ovan
+  name: Minskad havsis
+  level: 5
+ 
+- action: ADD
+  parentCode: RYF-VHD-GUZ-SYG
+  parentName: Global uppvärmning
+  name: Klimatpåverkan
+  level: 4
+  
+- action: ADD
+  parentCode: RYF-VHD-GUZ-SYG
+  parentName: Global uppvärmning
+  name: Växthusgas
+  level: 4
+  
+  
+- action: ADD
+  parentCode: RYF-VHD-GUZ-SYG-XXX # ID för Växthusgas ovan
+  parentName: Växthusgas # ny post ovan
+  name: Koldioxidutsläpp
+  level: 5
+  
+- action: ADD
+  parentCode: RYF-VHD-GUZ-SYG-XXX # ID för Växthusgas ovan
+  parentName: Växthusgas # ny post ovan
+  name: Lustgasutsläpp
+  level: 5
+  
+- action: ADD
+  parentCode: RYF-VHD-GUZ-SYG-XXX # ID för Växthusgas ovan
+  parentName: Växthusgas # ny post ovan
+  name: Metangasutsläpp
+  level: 5
+  
+  
+  
+  
+  # Osäker på dessa
+#- action: INACTIVATE
+#  code: RYF-KNI-XNS-ELZ-DIN
+#  name: Bilförbud
+  
+#- action: INACTIVATE
+#  code: RYF-KNI-XNS-ELZ-GES
+#  name: Miljöbilspremie
+  
+#- action: INACTIVATE
+#  code: RYF-KNI-XNS-ELZ-KCI
+#  name: Miljözoner
+  
+#- action: INACTIVATE
+#  code: RYF-KNI-XNS-ELZ-PXQ
+#  name: Vägtullar
+  
+#- action: INACTIVATE
+#  code: RYF-KNI-XNS-ELZ-XSP
+#  name: Dieselförbud
+  
+#- action: UPDATE
+#  code: RYF-KNI-XNS-ELZ
+#  name: Miljö- & klimatpolitik
+# newName: Klimatpolitik
+  
+#- action: MOVE
+#  code: RYF-KNI-XNS-ELZ
+#  name: Klimatpolitik # nytt namn ovan
+#  newParentCode: RYF-VHD-GUZ
+#  newParentName: Klimatförändring # Nytt namn ovan
+  
+  
+  
+- action: ADD
+  parentCode: RYF-VHD-GUZ
+  parentName: Klimatförändring
+  name: Klimatanpassning
+  level: 3
+  
+- action: ADD
+  parentCode: RYF-VHD-GUZ
+  parentName: Klimatförändring
+  name: Klimatförhandling
+  level: 3
+  
+  
+  
+  
+- action: UPDATE
+  code: RYF-VHD-HXU
+  name: Naturresurser
+  newName: Natur
+  
+  # Inkl barn
+- action: MOVE
+  code: RYF-VHD-HXU-ICY-YMU
+  name: Skog
+  newParentCode: RYF-VHD-HXU
+  newParentName: Natur # Nytt namn ovan
+  
+- action: MOVE
+  code: RYF-VHD-HXU-ICY-HOR
+  name: Berg
+  newParentCode: RYF-VHD-HXU
+  newParentName: Natur # Nytt namn ovan
+  
+- action: ADD
+  parentCode: RYF-VHD-HXU
+  parentName: Natur # Nytt namn ovan
+  name: Naturfenomen
+  level: 3
+  
+- action: ADD
+  parentCode: RYF-VHD-HXU-XXXX # ID För Naturfenomen ovan
+  parentName: Naturfenomen # Nytt namn ovan
+  name: Norrsken
+  level: 4
+  
+  
+  
+  
+  
+  
+  # OBS! Ovanstående move först.
+- action: INACTIVATE
+  code: RYF-VHD-HXU-ICY
+  name: Landresurser
+  
+- action: INACTIVATE
+  code: RYF-VHD-HXU-OEC
+  name: Energiresurser
+  
+  
+  
+- action: ADD
+  parentCode: RYF-VHD-HXU-GRV
+  parentName: Vatten
+  name: Dricksvatten
+  level: 4
+ 
+- action: UPDATE
+  code: RYF-VHD-HXU-GRV-IGS
+  name: Våtmarker
+  newName: Våtmark
+  
+- action: UPDATE
+  code: RYF-VHD-HXU-GRV-VWZ
+  name: Älvar & åar
+  newName: Älv & å
+  
+  
+  
+- action: ADD
+  parentCode: RYF-VHD-HXU-GRV
+  parentName: Vatten
+  name: Algblomning
+  level: 4
+  
+- action: ADD
+  parentCode: RYF-VHD-HXU-GRV
+  parentName: Vatten
+  name: Sjö
+  level: 4
+  
+  
+  
+  
+  
+  

@@ -1,0 +1,458 @@
+modifications:
+- action: UPDATE
+  code: RYF-XKI-CUP-FKK
+  name: Animation
+  newName: Animerad film
+  
+- action: MOVE
+  code: RYF-XKI-CUP-FKK
+  name: Animerad film # Nytt namn ovan
+  newParentCode: RYF-XKI-CUP-XBM
+  newParentName: Film
+  
+
+
+
+- action: ADD
+  parentCode: RYF-XKI-CUP
+  parentName: Konstformer & underhållning
+  name: Cirkus
+  level: 3
+
+
+
+- action: UPDATE
+  code: RYF-XKI-CUP-VDP-ZEZ
+  name: Traditionell dans
+  newName: Folkdans
+
+
+
+- action: ADD
+  parentCode: RYF-XKI-CUP-XBM
+  parentName: Film
+  name: Barnfilm
+  level: 4
+
+- action: ADD
+  parentCode: RYF-XKI-CUP-XBM
+  parentName: Film
+  name: Bio
+  level: 4
+
+- action: ADD
+  parentCode: RYF-XKI-CUP-XBM-XXX # ID för Bio ovan
+  parentName: Bio
+  name: Biopremiär
+  level: 5
+
+- action: ADD
+  parentCode: RYF-XKI-CUP-XBM
+  parentName: Film
+  name: Actionfilm
+  level: 4
+  
+- action: ADD
+  parentCode: RYF-XKI-CUP-XBM
+  parentName: Film
+  name: Familjefilm
+  level: 4
+  
+- action: ADD
+  parentCode: RYF-XKI-CUP-XBM
+  parentName: Film
+  name: Dokumentärfilm
+  level: 4
+  
+- action: ADD
+  parentCode: RYF-XKI-CUP-XBM
+  parentName: Film
+  name: Dramafilm
+  level: 4
+  
+- action: ADD
+  parentCode: RYF-XKI-CUP-XBM
+  parentName: Film
+  name: Fantasyfilm
+  level: 4
+
+- action: ADD
+  parentCode: RYF-XKI-CUP-XBM
+  parentName: Film
+  name: Independentfilm
+  level: 4
+
+- action: ADD
+  parentCode: RYF-XKI-CUP-XBM
+  parentName: Film
+  name: Kriminalfilm
+  level: 4
+
+- action: ADD
+  parentCode: RYF-XKI-CUP-XBM
+  parentName: Film
+  name: Musikalfilm
+  level: 4
+  
+- action: ADD
+  parentCode: RYF-XKI-CUP-XBM
+  parentName: Film
+  name: Romantisk film
+  level: 4
+  
+- action: ADD
+  parentCode: RYF-XKI-CUP-XBM
+  parentName: Film
+  name: Science-fictionfilm
+  level: 4
+
+- action: ADD
+  parentCode: RYF-XKI-CUP-XBM
+  parentName: Film
+  name: Skräckfilm
+  level: 4
+
+- action: ADD
+  parentCode: RYF-XKI-CUP-XBM
+  parentName: Film
+  name: Thrillerfilm
+  level: 4
+
+- action: ADD
+  parentCode: RYF-XKI-CUP-XBM
+  parentName: Film
+  name: Bio
+  level: 4
+  
+- action: ADD
+  parentCode: RYF-XKI-CUP-XBM
+  parentName: Film
+  name: Skådespelare
+  level: 4
+
+
+
+- action: ADD
+  parentCode: RYF-XKI-CUP-KAQ
+  parentName: Konstutställning
+  name: Vernissage
+  level: 4
+
+
+
+- action: ADD
+  parentCode: RYF-XKI-CUP-EDZ
+  parentName: Litteratur
+  name: Bokbranschen
+  level: 4
+
+- action: ADD
+  parentCode: RYF-XKI-CUP-EDZ
+  parentName: Litteratur
+  name: Deckare
+  level: 4
+  
+- action: ADD
+  parentCode: RYF-XKI-CUP-EDZ
+  parentName: Litteratur
+  name: Fantasyböcker
+  level: 4
+  
+- action: ADD
+  parentCode: RYF-XKI-CUP-EDZ
+  parentName: Litteratur
+  name: Ljudböcker
+  level: 4
+  
+- action: ADD
+  parentCode: RYF-XKI-CUP-EDZ
+  parentName: Litteratur
+  name: Reportageböcker
+  level: 4
+
+- action: ADD
+  parentCode: RYF-XKI-CUP-EDZ
+  parentName: Litteratur
+  name: Science-fictionlitteratur
+  level: 4
+  
+- action: ADD
+  parentCode: RYF-XKI-CUP-EDZ
+  parentName: Litteratur
+  name: Skräcklitteratur
+  level: 4
+  
+- action: ADD
+  parentCode: RYF-XKI-CUP-EDZ
+  parentName: Litteratur
+  name: Ungdomsböcker
+  level: 4
+
+
+
+
+
+
+
+
+- action: UPDATE
+  code: RYF-XKI-CUP-NWA-VVW-ISA
+  name: Country & blues
+  newName: Blues
+  
+- action: MOVE
+  code: RYF-XKI-CUP-NWA-VVW-ISA
+  name: Country # Nytt nann ovan
+  newParentCode: RYF-XKI-CUP-NWA
+  newParentName: Musik
+  
+- action: ADD
+  parentCode: RYF-XKI-CUP-NWA
+  parentName: Musik
+  name: Country
+  level: 4
+
+- action: MOVE
+  code: RYF-XKI-CUP-NWA-VVW-BJY
+  name: Dansband
+  newParentCode: RYF-XKI-CUP-NWA
+  newParentName: Musik
+
+- action: MOVE
+  code: RYF-XKI-CUP-NWA-VVW-RCJ
+  name: Disco
+  newParentCode: RYF-XKI-CUP-NWA
+  newParentName: Musik
+
+- action: MOVE
+  code: RYF-XKI-CUP-NWA-VVW-XSC
+  name: Electronic Dance Music (EDM)
+  newParentCode: RYF-XKI-CUP-NWA
+  newParentName: Musik
+
+- action: MOVE
+  code: RYF-XKI-CUP-NWA-VVW-CRI
+  name: Folkmusik
+  newParentCode: RYF-XKI-CUP-NWA
+  newParentName: Musik
+
+
+
+- action: UPDATE
+  code: RYF-XKI-CUP-NWA-VVW-XGJ
+  name: Hiphop & RNB
+  newName: Hiphop
+  
+- action: MOVE
+  code: RYF-XKI-CUP-NWA-VVW-XGJ
+  name: Hiphop # Nytt namn ovan
+  newParentCode: RYF-XKI-CUP-NWA
+  newParentName: Musik
+
+- action: ADD
+  parentCode: RYF-XKI-CUP-NWA
+  parentName: Musik
+  name: Rhythm & blues
+  level: 4
+
+- action: MOVE
+  code: RYF-XKI-CUP-NWA-VVW-QSI
+  name: Jazz
+  newParentCode: RYF-XKI-CUP-NWA
+  newParentName: Musik
+  
+- action: MOVE
+  code: RYF-XKI-CUP-NWA-VVW-OFH
+  name: Klassisk musik
+  newParentCode: RYF-XKI-CUP-NWA
+  newParentName: Musik
+
+- action: UPDATE
+  code: RYF-XKI-CUP-NWA-VVW-LYB
+  name: Metal
+  newName: Hårdrock
+
+- action: MOVE
+  code: RYF-XKI-CUP-NWA-VVW-OFH
+  name: Hårdrock # Nytt namn ovan
+  newParentCode: RYF-XKI-CUP-NWA
+  newParentName: Musik
+
+- action: MOVE
+  code: RYF-XKI-CUP-NWA-VVW-NQX
+  name: Pop
+  newParentCode: RYF-XKI-CUP-NWA
+  newParentName: Musik
+
+- action: ADD
+  parentCode: RYF-XKI-CUP-NWA
+  parentName: Musik
+  name: Punk
+  level: 4
+  
+- action: MOVE
+  code: RYF-XKI-CUP-NWA-VVW-ZJU
+  name: Rock
+  newParentCode: RYF-XKI-CUP-NWA
+  newParentName: Musik
+  
+- action: MOVE
+  code: RYF-XKI-CUP-NWA-VVW-AJQ
+  name: Techno
+  newParentCode: RYF-XKI-CUP-NWA
+  newParentName: Musik
+
+- action: INACTIVATE
+  code: RYF-XKI-CUP-NWA-VVW
+  name: Musikgenre
+
+- action: UPDATE
+  code: RYF-XKI-CUP-NWA-ESM
+  name: Musikunderhållningsevenemang
+  newName: Musikevenemang
+
+- action: INACTIVATE
+  code: RYF-XKI-CUP-NWA-RRT-IIE
+  name: Julsånger
+  
+- action: INACTIVATE
+  code: RYF-XKI-CUP-NWA-RRT-LFL
+  name: Folkvisor
+
+- action: INACTIVATE
+  code: RYF-XKI-CUP-NWA-RRT-UXS
+  name: Snapsvisor
+
+
+- action: INACTIVATE
+  code: RYF-XKI-CUP-CSJ-DMB
+  name: Komiker
+  
+- action: INACTIVATE
+  code: RYF-XKI-CUP-CSJ-UBB
+  name: TV-sportprofiler
+  
+- action: INACTIVATE
+  code: RYF-XKI-CUP-CSJ-VRN
+  name: Artister
+  
+- action: INACTIVATE
+  code: RYF-XKI-CUP-CSJ-YUR
+  name: Gage & löner
+  
+- action: INACTIVATE
+  code: RYF-XKI-CUP-CSJ-YVI
+  name: Skådespelare
+  
+- action: INACTIVATE
+  code: RYF-XKI-CUP-CSJ-ZFE
+  name: Kungligheter
+  
+- action: INACTIVATE
+  code: RYF-XKI-CUP-CSJ
+  name: Nöjespersonligheter
+  
+
+- action: UPDATE
+  code: RYF-XKI-CUP-QZP
+  name: Teater & musikal
+  newName: Scen
+
+- action: MOVE
+  code: RYF-XKI-CUP-QZP-TCH-JMH
+  name: Musikal
+  newParentCode: RYF-XKI-CUP-QZP
+  newParentName: Scen # Nytt namn ovan
+  
+- action: MOVE
+  code: RYF-XKI-CUP-QZP-TCH-LEP
+  name: Operett
+  newParentCode: RYF-XKI-CUP-QZP
+  newParentName: Scen # Nytt namn ovan
+
+- action: INACTIVATE
+  code: RYF-XKI-CUP-QZP-TCH
+  name: Musikteater
+
+- action: MOVE
+  code: RYF-XKI-CUP-MYQ
+  name: Opera
+  newParentCode: RYF-XKI-CUP-QZP
+  newParentName: Scen # Nytt namn ovan
+
+- action: INACTIVATE
+  code: RYF-XKI-CUP-DEC
+  name: Uteliv
+
+- action: INACTIVATE
+  code: RYF-XKI-CUP-NCO-FAE-MUM
+  name: Fotomodeller
+
+- action: ADD
+  parentCode: RYF-XKI-CUP-NCO
+  parentName: Visuella konstformer
+  name: Gatukonst
+  level: 4
+  
+- action: ADD
+  parentCode: RYF-XKI-CUP-NCO-XXXX # ID för Gatukonst ovan 
+  parentName: Gatukonst
+  name: Graffiti
+  level: 5
+
+- action: UPDATE
+  code: RYF-XKI-CUP-NCO
+  name: Visuella konstformer
+  newName: Konst
+
+
+- action: INACTIVATE
+  code: RYF-XKI-CUP-SVM-GFZ
+  name: Galor & pristävlingar
+  
+- action: INACTIVATE
+  code: RYF-XKI-CUP-SVM-PPC
+  name: Skönhetstävlingar
+
+- action: INACTIVATE
+  code: RYF-XKI-CUP-SVM
+  name: Övriga underhållningsevenemang
+  
+  
+- action: UPDATE
+  code: RYF-XKI-HSG-JZB
+  name: Bibliotek & museum
+  newName: Bibliotek
+
+- action: ADD
+  parentCode: RYF-XKI-HSG
+  parentName: Kultur
+  name: Museum
+  level: 3
+
+
+- action: INACTIVATE
+  code: RYF-XKI-HSG-QQE
+  name: Kulturell fest eller händelse
+
+- action: INACTIVATE
+  code: RYF-XKI-HSG-MBC-AZW
+  name: Slott
+  
+- action: INACTIVATE
+  code: RYF-XKI-HSG-MBC
+  name: Kulturella byggnader
+
+- action: INACTIVATE
+  code: RYF-XKI-HSG-QMO
+  name: Seder & traditioner
+  
+- action: ADD
+  parentCode: RYF-XKI-HSG-MOF
+  parentName: Språk
+  name: Minoritetsspråk
+  level: 4
+  
+  
+
+

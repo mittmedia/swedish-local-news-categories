@@ -1,0 +1,70 @@
+modifications:
+- action: UPDATE
+  code: RYF-WHZ-WOM
+  name: Extremväder
+  newName: Extremväder
+  description: Extremväder: Klimatextremer kan definieras utifrån att de förekommer sällan eller utifrån att de påverkar samhälle och miljö på ett kännbart sätt
+
+- action: ADD
+  parentCode: RYF-WHZ
+  parentName: Väder
+  name: Kyla
+  description: Kyla kan beskrivas som låg temperatur för årstiden, alternativt temperaturer under fryspunkten 0 grader Celcius.
+  level: 2
+  
+- action: ADD
+  parentCode: RYF-WHZ
+  parentName: Väder
+  name: Regn
+  description: Regn är nederbörd som endast består av flytande vatten.
+  level: 2
+  
+- action: ADD
+  parentCode: RYF-WHZ
+  parentName: Väder
+  name: Snö
+  description: Snö är nederbörd i form av iskristaller, enstaka eller sammanfogade, som faller från ett moln men kan även referera till snö som ligger på marken
+  level: 2
+  
+- action: ADD
+  parentCode: RYF-WHZ
+  parentName: Väder
+  name: Torka
+  description: Torka är en ihållande period med reducerad vattentillgång i jämförelse med normalt
+  level: 2
+  
+- action: ADD
+  parentCode: RYF-WHZ
+  parentName: Väder
+  name: Vind
+  description: Vind är flödet av luft i atmosfären
+  level: 2
+  
+- action: ADD
+  parentCode: RYF-WHZ-XXX # ID för Vind ovan
+  parentName: Vind
+  name: Orkan
+  description: En storm med orkanstyrka har en vindhastighet på minst 32,7 m/s
+  level: 3
+  
+- action: ADD
+  parentCode: RYF-WHZ-XXX # ID för Vind ovan
+  parentName: Vind
+  name: Storm
+  description: Storm kallas vinden både på land och till sjöss, när vindhastigheten är stor. Ibland används benämningen "storm" specifikt för vindstyrka mellan 24,5 och 28,4 meter per sekund. När vindstyrkan är 20,8–24,4 m/s kallas vinden halv storm, och vid vindstyrka 28,5–32,6 m/s benämns vinden svår storm
+  level: 3
+  
+- action: ADD
+  parentCode: RYF-WHZ
+  parentName: Väder
+  name: Värme
+  description: Värmebölja är den allmänna beteckningen inom meteorologin på perioder med för årstiden ovanligt varmt väder
+  level: 2
+  
+- action: ADD
+  parentCode: RYF-WHZ
+  parentName: Väder
+  name: Översvämning
+  description: Översvämning innebär att ett markområde som vanligtvis är torrt, tillfälligt eller permanent, sätts under vatten, ofta som följd av händelser utanför människans omedelbara kontroll som exempelvis vid kraftigt regn
+  level: 2
+  

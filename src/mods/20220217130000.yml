@@ -1,0 +1,242 @@
+modifications:
+- action: ADD
+  parentCode: RYF-TKT-OUV-ZMR
+  parentName: Restips
+  name: Reseguide
+  level: 4
+
+- action: ADD
+  parentCode: RYF-TKT-OUV
+  parentName: Resa
+  name: Reseskildring
+  level: 3
+
+- action: INACTIVATE
+  code: RYF-TKT-OUV-CFU
+  name: Boende på resmål
+
+- action: ADD
+  parentCode: RYF-TKT-OUV
+  parentName: Resa
+  name: Sparesa
+  level: 3
+
+- action: MOVE
+  code: RYF-TKT-OUV-SMF-KPW
+  name: Alpin- & fjällresa
+  newParentCode: RYF-TKT-OUV
+  newParentName: Resa
+
+- action: MOVE
+  code: RYF-TKT-OUV-SMF-PFL
+  name: Bilsemester
+  newParentCode: RYF-TKT-OUV
+  newParentName: Resa
+
+- action: MOVE
+  code: RYF-TKT-OUV-SMF-ZBB
+  name: Båtluff
+  newParentCode: RYF-TKT-OUV
+  newParentName: Resa
+
+- action: MOVE
+  code: RYF-TKT-OUV-SMF-CUO
+  name: Campingresa
+  newParentCode: RYF-TKT-OUV
+  newParentName: Resa
+
+- action: MOVE
+  code: RYF-TKT-OUV-SMF-NJA
+  name: Charterresa
+  newParentCode: RYF-TKT-OUV
+  newParentName: Resa
+
+- action: MOVE
+  code: RYF-TKT-OUV-SMF-EZB
+  name: Familjeresa
+  newParentCode: RYF-TKT-OUV
+  newParentName: Resa
+
+- action: MOVE
+  code: RYF-TKT-OUV-SMF-FUV
+  name: Friluftsresa
+  newParentCode: RYF-TKT-OUV
+  newParentName: Resa
+
+- action: UPDATE
+  code: RYF-TKT-OUV-SMF-BJW
+  name: Fyndresa
+  newName: Sista minuten-resa
+
+- action: MOVE
+  code: RYF-TKT-OUV-SMF-BJW
+  name: Fyndresa
+  newParentCode: RYF-TKT-OUV
+  newParentName: Resa
+
+- action: MOVE
+  code: RYF-TKT-OUV-SMF-QXV
+  name: Golfresa
+  newParentCode: RYF-TKT-OUV
+  newParentName: Resa
+
+- action: MOVE
+  code: RYF-TKT-OUV-SMF-RTB
+  name: Gruppresa
+  newParentCode: RYF-TKT-OUV
+  newParentName: Resa
+
+- action: MOVE
+  code: RYF-TKT-OUV-SMF-WJW
+  name: Hälsoresa
+  newParentCode: RYF-TKT-OUV
+  newParentName: Resa
+
+- action: MOVE
+  code: RYF-TKT-OUV-SMF-MYQ
+  name: Idrottsresa
+  newParentCode: RYF-TKT-OUV
+  newParentName: Resa
+
+- action: MOVE
+  code: RYF-TKT-OUV-SMF-ISY
+  name: Jorden runt-resa
+  newParentCode: RYF-TKT-OUV
+  newParentName: Resa
+
+- action: MOVE
+  code: RYF-TKT-OUV-SMF-TGV
+  name: Julresa
+  newParentCode: RYF-TKT-OUV
+  newParentName: Resa
+
+- action: MOVE
+  code: RYF-TKT-OUV-SMF-MQG
+  name: Kryssning
+  newParentCode: RYF-TKT-OUV
+  newParentName: Resa
+
+- action: MOVE
+  code: RYF-TKT-OUV-SMF-PYW
+  name: Långresa
+  newParentCode: RYF-TKT-OUV
+  newParentName: Resa
+
+- action: MOVE
+  code: RYF-TKT-OUV-SMF-PJO
+  name: Mat- och vinresa
+  newParentCode: RYF-TKT-OUV
+  newParentName: Resa
+
+- action: MOVE
+  code: RYF-TKT-OUV-SMF-FKF
+  name: Paketresa
+  newParentCode: RYF-TKT-OUV
+  newParentName: Resa
+
+- action: ADD
+  parentCode: RYF-TKT-OUV
+  parentName: Resa
+  name: Shoppingresa
+  level: 3
+
+- action: MOVE
+  code: RYF-TKT-OUV-SMF-ZWU
+  name: Smekmånad
+  newParentCode: RYF-TKT-OUV
+  newParentName: Resa
+
+- action: MOVE
+  code: RYF-TKT-OUV-SMF-BAZ
+  name: Sol- och badresa
+  newParentCode: RYF-TKT-OUV
+  newParentName: Resa
+
+- action: MOVE
+  code: RYF-TKT-OUV-SMF-KNG
+  name: Sommarresa
+  newParentCode: RYF-TKT-OUV
+  newParentName: Resa
+
+- action: ADD
+  parentCode: RYF-TKT-OUV
+  parentName: Resa
+  name: Spa-resa
+  level: 3
+
+- action: MOVE
+  code: RYF-TKT-OUV-SMF-CDV
+  name: Sverigeresa
+  newParentCode: RYF-TKT-OUV
+  newParentName: Resa
+
+- action: MOVE
+  code: RYF-TKT-OUV-SMF-LKV
+  name: Träningsresa
+  newParentCode: RYF-TKT-OUV
+  newParentName: Resa
+
+- action: MOVE
+  code: RYF-TKT-OUV-SMF-RIS
+  name: Tåguff
+  newParentCode: RYF-TKT-OUV
+  newParentName: Resa
+
+- action: MOVE
+  code: RYF-TKT-OUV-SMF-EPL
+  name: Utlandsboende
+  newParentCode: RYF-TKT-OUV
+  newParentName: Resa
+
+- action: MOVE
+  code: RYF-TKT-OUV-SMF-LKL
+  name: Weekend-resa
+  newParentCode: RYF-TKT-OUV
+  newParentName: Resa
+
+- action: MOVE
+  code: RYF-TKT-OUV-SMF-ITH
+  name: Äventyrsresa
+  newParentCode: RYF-TKT-OUV
+  newParentName: Resa
+
+# Invänta ovanstånde move
+- action: INACTIVATE
+  code: RYF-TKT-OUV-SMF
+  name: Restyper
+
+
+
+- action: ADD
+  parentCode: RYF-TKT-XHP
+  parentName: Träning & hälsa
+  name: Sömn
+  level: 3
+
+- action: MOVE
+  code: RYF-TKT-XHP-MHN-XMN
+  name: Bodypump
+  newParentCode: RYF-TKT-XHP
+  newParentName: Träning & hälsa
+
+- action: UPDATE
+  code: RYF-TKT-XHP-MHN-ETF
+  name: Cross fit
+  newName: Crossfit
+
+- action: MOVE
+  code: RYF-TKT-XHP-MHN-ETF
+  name: Crossfit # Nytt namn ovan
+  newParentCode: RYF-TKT-XHP
+  newParentName: Träning & hälsa
+
+- action: MOVE
+  code: RYF-TKT-XHP-MHN-YXW
+  name: Motionssimning
+  newParentCode: RYF-TKT-XHP
+  newParentName: Träning & hälsa
+
+- action: INACTIVATE
+  code: RYF-TKT-XHP-MHN
+  name: Övriga träningsformer
+

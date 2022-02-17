@@ -1,0 +1,138 @@
+modifications:
+- action: UPDATE
+  code: RYF-XKI-BUS-PXU
+  name: Influencers
+  newName: Influerare
+  decription: Även influencers, trendsättande person som masskommunicerar genom sociala medier
+  
+- action: MOVE
+  code: RYF-XKI-BUS-PXU
+  name: Influerare # Nytt namn ovan
+  newParentCode: RYF-XKI-BUS-RXO
+  newParentName: Sociala medier
+  
+  
+  
+- action: INACTIVATE
+  code: RYF-XKI-BUS-TVB-LVT
+  name: Filmrecensioner
+
+- action: INACTIVATE
+  code: RYF-XKI-BUS-TVB-AWP
+  name: Kulturjournalistik
+  
+- action: INACTIVATE
+  code: RYF-XKI-BUS-TVB-ESF
+  name: Musikrecensioner
+
+- action: INACTIVATE
+  code: RYF-XKI-BUS-TVB-VLL
+  name: TV-recensioner
+
+
+
+- action: UPDATE
+  code: RYF-XKI-BUS-IFX
+  name: TV-serier
+  newName: TV
+  decription: Television är ett system inom telekommunikation för att på avstånd skicka ljud och tvådimensionella rörliga bilder till en mottagare
+
+- action: MOVE
+  code: RYF-XKI-BUS-TVB-EUD
+  name: Nyhetsprogram
+  newParentCode: RYF-XKI-BUS-IFX
+  newParentName: TV # nytt namn ovan
+  
+- action: MOVE
+  code: RYF-XKI-BUS-NXX
+  name: Reality-tv
+  newParentCode: RYF-XKI-BUS-IFX
+  newParentName: TV # nytt namn ovan
+ 
+- action: MOVE
+  code: RYF-XKI-BUS-NYP-XRY
+  name: Barnprogram
+  newParentCode: RYF-XKI-BUS-IFX
+  newParentName: TV # nytt namn ovan
+  
+- action: MOVE
+  code: RYF-XKI-BUS-NYP-DHC
+  name: Frågesportsprogram
+  newParentCode: RYF-XKI-BUS-IFX
+  newParentName: TV # nytt namn ovan
+  
+- action: MOVE
+  code: RYF-XKI-BUS-NYP-JOY
+  name: Inredningsprogram
+  newParentCode: RYF-XKI-BUS-IFX
+  newParentName: TV # nytt namn ovan
+  
+- action: MOVE
+  code: RYF-XKI-BUS-NYP-XCX
+  name: Matlagningsprogram
+  newParentCode: RYF-XKI-BUS-IFX
+  newParentName: TV # nytt namn ovan
+  
+- action: MOVE
+  code: RYF-XKI-BUS-NYP-FPW
+  name: Talkshow
+  newParentCode: RYF-XKI-BUS-IFX
+  newParentName: TV # nytt namn ovan
+  
+- action: MOVE
+  code: RYF-XKI-BUS-NYP
+  name: Underhållningsprogram
+  newParentCode: RYF-XKI-BUS-IFX
+  newParentName: TV # nytt namn ovan
+  
+
+
+
+
+
+- action: ADD
+  parentCode: RYF-XKI-BUS-TVB
+  parentName: Journalistik
+  name: Pressetik
+  level: 4
+  
+- action: ADD
+  parentCode: RYF-XKI-BUS-TVB
+  parentName: Journalistik
+  name: Pressfrihet
+  level: 4
+  
+  
+
+- action: ADD
+  parentCode: YF-XKI-BUS
+  parentName: Medier
+  name: Källkritik
+  level: 4
+  
+  
+  
+  
+  
+  
+- action: UPDATE
+  code: RYF-IXA-KEV-MCZ-FDE
+  name: Podcastindustrin
+  newName: Poddar
+  
+- action: MOVE
+  code: RYF-IXA-KEV-MCZ-FDE
+  name: Poddar # nytt namn ovan
+  newParentCode: RYF-XKI-BUS
+  newParentName: Medier
+  
+  
+  
+- action: INACTIVATE
+  code: RYF-XKI-BUS-EIU
+  name: Programledare
+  
+ 
+  
+  
+  

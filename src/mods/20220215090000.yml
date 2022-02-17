@@ -1,0 +1,12 @@
+modifications:
+- action: INACTIVATE
+  code: RYF-AKM-TGS-QGV-NBN
+  name: Stormar & orkaner
+
+- action: INACTIVATE
+  code: RYF-AKM-TGS-QGV-PGK
+  name: Väderkatastrof
+
+- action: INACTIVATE
+  code: RYF-AKM-TGS-QGV-BSS
+  name: Översvämning

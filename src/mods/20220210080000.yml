@@ -1,0 +1,287 @@
+modifications:
+- action: ADD
+  parentCode: RYF-WUU-QNB-LKJ-BIB
+  parentName: Receptbelagda mediciner
+  name: Antibiotika
+  level: 5
+  
+  # Inkl barn
+- action: MOVE
+  code: RYF-HPT-PPR-LQJ-DBB
+  name: Dödshjälp
+  newParentCode: RYF-WUU
+  newParentName: Hälsa & sjukvård
+
+
+- action: MOVE
+  code: RYF-WUU-WXG-YQX
+  name: Djursjukdomar
+  newParentCode: RYF-EOI-DLM-FKB-XGL
+  newParentName: Zoologi
+
+- action: MOVE
+  code: RYF-WUU-WXG-XZJ
+  name: Växtsjukdomar
+  newParentCode: RYF-EOI-DLM-FKB-GQI
+  newParentName: Botanik
+  
+- action: INACTIVATE
+  code: RYF-WUU-WXG
+  name: Icke mänskliga sjukdomar
+  
+- action: UPDATE
+  code: RYF-WUU-JZK
+  name: Sjukdomar & tillstånd
+  newName: Sjukdomar, tillstånd och diagnoser
+  
+
+
+
+
+
+
+- action: MOVE
+  code: RYF-WUU-JZK-DQP-SDZ
+  name: Sharlakansfeber
+  newParentCode: RYF-WUU-JZK
+  newParentName: Sjukdomar, tillstånd och diagnoser # Nytt namn ovan
+
+- action: MOVE
+  code: RYF-WUU-JZK-DQP-SHO
+  name: Krupp
+  newParentCode: RYF-WUU-JZK
+  newParentName: Sjukdomar, tillstånd och diagnoser # Nytt namn ovan
+  
+- action: MOVE
+  code: RYF-WUU-JZK-DQP-ZFO
+  name: Höftledsluxation
+  newParentCode: RYF-WUU-JZK
+  newParentName: Sjukdomar, tillstånd och diagnoser # Nytt namn ovan
+
+- action: INACTIVATE
+  code: RYF-WUU-JZK-DQP
+  name: Barnsjukdomar & åkommor
+  
+  
+  
+- action: MOVE
+  code: RYF-WUU-JZK-SNV
+  name: Hosta
+  newParentCode: RYF-WUU-JZK-TZR
+  newParentName: Luftvägssjukdomar
+  
+  
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+- action: UPDATE
+  code: RYF-WUU-JZK-JUK
+  name: Bett, stick & löss
+  newName: Bett & stick
+
+- action: INACTIVATE
+  code: RYF-WUU-JZK-JUK-AUF
+  name: Insektsbett
+
+
+
+
+
+
+- action: MOVE
+  code: RYF-WUU-JZK-YIA-WNC
+  name: Malignt melanom
+  newParentCode: RYF-WUU-JZK-YIA-WMP
+  newParentName: Hudcancer
+
+
+
+
+
+
+  # TODO: Ändra description
+- action: ADD
+  parentCode: RYF-WUU-JZK
+  parentName: Sjukdomar, tillstånd och diagnoser # Nytt namn ovan
+  name: Ehec
+  description: EHEC (Enterohemorragisk Escherichia coli), är en stam av bakteriearten Escherichia coli som är en bidragande orsak till matförgiftning.
+  level: 3
+
+
+
+  
+  
+- action: UPDATE
+  code: RYF-WUU-JZK-AOD
+  name: Erektil dysfunktion
+  newName: Impotens
+
+
+
+
+- action: ADD
+  parentCode: RYF-WUU-JZK-BBN
+  parentName: Övervikt
+  name: Fetma
+  level: 4
+
+
+
+
+- action: ADD
+  parentCode: RYF-WUU-JZK
+  parentName: Sjukdomar, tillstånd och diagnoser # Nytt namn ovan
+  name: Smittskydd
+  level: 3
+
+
+
+
+
+- action: INACTIVATE
+  code: RYF-WUU-SUX-SFB
+  name: Omsorg
+
+
+
+- action: ADD
+  parentCode: RYF-WUU-SUX-APJ
+  parentName: Specialistvård
+  name: Fysioterapi
+  description: Fysioterapi (även kallat sjukgymnastik) innefattar undersökning och behandling med syfte att bedöma, bota, förebygga eller lindra sjukdomar, främst sådana som manifesterar sig i rörelse- och stödjeorganen det vill säga muskler, leder, skelett och nerver
+  level: 4
+
+
+- action: ADD
+  parentCode: RYF-WUU-SUX-APJ
+  parentName: Specialistvård
+  name: Palliativ vård
+  level: 4
+
+
+- action: INACTIVATE
+  code: RYF-WUU-SUX-MEF
+  name: Äldreomsorg (Sjukvård)
+
+
+
+
+- action: ADD
+  parentCode: RYF-WUU-BNJ
+  parentName: Vårdinrättningar
+  name: Privata vårdgivare
+  level: 3
+
+- action: ADD
+  parentCode: RYF-WUU-BNJ
+  parentName: Vårdinrättningar
+  name: Hälsocentral
+  description: En vårdcentral kan också kallas husläkarmottagning, familjeläkarmottagning, hälsocentral, hälsovårdscentral eller distriktsläkarmottagning. Det är nästan alltid på vårdcentralen du ska söka vård när du är sjuk eller har något besvär.
+  level: 3
+
+
+
+
+- action: ADD
+  parentCode: RYF-WUU
+  parentName: Hälsa & sjukvård
+  name: Vårdyrken
+  level: 2
+
+- action: ADD
+  parentCode: RYF-WUU-XXXX # ID för Vårdyrken ovan
+  parentName: Vårdyrken # Ny post ovan
+  name: Sjuksköterska
+  level: 3
+
+- action: ADD
+  parentCode: RYF-WUU-XXXX # ID för Vårdyrken ovan
+  parentName: Vårdyrken # Ny post ovan
+  name: Undersköterska
+  level: 3
+
+- action: ADD
+  parentCode: RYF-WUU-XXXX # ID för Vårdyrken ovan
+  parentName: Vårdyrken # Ny post ovan
+  name: Läkare
+  level: 3
+
+
+
+
+
+
+
+  
+  
+- action: MOVE
+  code: RYF-WUU-JZK-AOA-JDH
+  name: Mollusker
+  newParentCode: RYF-WUU-JZK-XAW
+  newParentName: Hudsjukdomar
+  
+  
+  
+- action: MOVE
+  code: RYF-WUU-JZK-NKB-OSL
+  name: Solbränna
+  newParentCode: RYF-WUU-JZK-AOA
+  newParentName: Hudutslag & prickar
+  
+- action: MOVE
+  code: RYF-WUU-JZK-NKB-PPX
+  name: Soleksem
+  newParentCode: RYF-WUU-JZK-AOA
+  newParentName: Hudutslag & prickar
+  
+- action: MOVE
+  code: RYF-WUU-JZK-NKB-VUU
+  name: Brännskador
+  newParentCode: RYF-WUU-JZK-AOA
+  newParentName: Hudutslag & prickar
+  
+- action: UPDATE
+  code: RYF-WUU-JZK-AOA
+  name: Hudutslag & prickar
+  newName: Hudutslag
+  
+  
+- action: MOVE
+  code: RYF-WUU-JZK-DRQ
+  name: Träningsvärk
+  newParentCode: RYF-TKT-XHP
+  newParentName: Träning & hälsa
+  
+- action: UPDATE
+  code: RYF-WUU-JZK-TAC
+  name: Funktionsnedsättningar
+  newName: Funktionsvariation
+
+- action: ADD
+  parentCode: RYF-WUU-JZK-TAC
+  parentName: Funktionsnedsättningar # Nytt namn ovan
+  name: Stamning
+  level: 3
+  
+- action: MOVE
+  code: RYF-WUU-JZK-BZQ
+  name: Mens & PMS
+  newParentCode: RYF-TKT-XHP
+  newParentName: Träning & hälsa
+
+- action: MOVE
+  code: RYF-WUU-JZK-YSP-XQT
+  name: Stress
+  newParentCode: RYF-TKT-XHP
+  newParentName: Träning & hälsa
+
+
+  
+  
+  

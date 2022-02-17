@@ -1,0 +1,25 @@
+modifications:
+- action: UPDATE
+  code: RYF-EOI
+  name: Vetenskap & teknologi
+  newName: Vetenskap & teknik
+
+- action: UPDATE
+  code: RYF-EOI-FZS
+  name: Biomedicinsk vetenskap
+  newName: Biomedicin
+
+
+- action: MOVE
+  code: RYF-EOI-FZS-RFH
+  name: Veterinärvetenskap
+  newParentCode: RYF-EOI-DLM-FKB-XGL
+  newParentName: Zoologi
+
+- action: ADD
+  parentCode: RYF-EOI-DLM-FKB-XGL
+  parentName: Zoologi
+  name: Djurskydd
+  level: 5
+
+
