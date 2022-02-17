@@ -188,3 +188,17 @@ modifications:
   level: 3
 
 
+- action: ADD
+  parentCode: RYF-QPR-HGB-DEN
+  parentName: Fotboll
+  name: Ettan norra
+  level: 4
+
+- action: ADD
+  parentCode: RYF-QPR-HGB-DEN
+  parentName: Fotboll
+  name: Ettan södra
+  level: 4
+
+
+
