@@ -61,7 +61,7 @@ modifications:
   name: Hotell
   
 - action: INACTIVATE
-  code: RYF-TKT-OUV-CFU-DRO
+  code: RYF-TKT-OUV-CFU-VUC
   name: Hostel
   
 - action: INACTIVATE
@@ -112,12 +112,6 @@ modifications:
 
 
 - action: MOVE
-  code: RYF-TKT-MRA-ICA
-  name: Bilstyling
-  newParentCode: RYF-XRZ-XXXX # nytt ID ovan från flytt av bilintresse
-  newParentName: Bilintresse
-
-- action: MOVE
   code: RYF-TKT-MRA-NGH
   name: Fordonsbesiktning
   newParentCode: RYF-XRZ
@@ -126,19 +120,8 @@ modifications:
 
 - action: INACTIVATE
   code: RYF-TKT-MRA-HBF
-  name: Gocart
+  name: Gokart
 
-# Efter ovanstående flyttar
-- action: INACTIVATE
-  code: RYF-TKT-MRA
-  name: Motor
-
-
-- action: MOVE
-  code: RYF-XRZ-ITR-OAJ
-  name: Amerikanare
-  newParentCode: RYF-XRZ-XXXX # nytt ID ovan från flytt av bilintresse
-  newParentName: Bilintresse
 
 - action: UPDATE
   code: RYF-XRZ-ITR-YHQ
