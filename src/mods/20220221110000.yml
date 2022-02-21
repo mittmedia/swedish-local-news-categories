@@ -1,0 +1,492 @@
+modifications:
+- action: MOVE
+  code: RYF-CUW-USY
+  name: Bråk & osämja
+  newParentCode: RYF-CUW-EHM
+  newParentName: Kärlek & relationer
+
+- action: UPDATE
+  code: RYF-CUW-LGT-WOF
+  name: Studentfirande
+  newName: Examen
+
+- action: UPDATE
+  code: RYF-CUW-GIV
+  name: Familjefrågor
+  newName: Familj
+
+- action: MOVE
+  code: RYF-CUW-GIV-CWF-SUG
+  name: Abort
+  newParentCode: RYF-CUW-GIV-CWF-TOL
+  newParentName: Graviditet
+
+- action: MOVE
+  code: RYF-CUW-GIV-CWF-KUQ
+  name: Adoption
+  newParentCode: RYF-CUW-GIV
+  newParentName: Familj # Nytt namn ovan
+
+- action: MOVE
+  code: RYF-CUW-GIV-CWF-ZTB
+  name: Bonusfamilj & bonusbarn
+  newParentCode: RYF-CUW-GIV
+  newParentName: Familj # Nytt namn ovan
+
+- action: MOVE
+  code: RYF-CUW-GIV-CWF-LBN
+  name: Fertilitetsbehandling
+  newParentCode: RYF-CUW-GIV
+  newParentName: Familj # Nytt namn ovan
+
+- action: MOVE
+  code: RYF-CUW-GIV-CWF-TOL-LCI
+  name: Ivf-behandling
+  newParentCode: RYF-CUW-GIV-XXXX # ID För Fertilitetsbehandling ovan
+  newParentName: Fertilitetsbehandling
+
+
+- action: INACTIVATE
+  code: RYF-CUW-GIV-CWF-TOL-NXR
+  name: Föda hemma
+
+- action: INACTIVATE
+  code: RYF-CUW-GIV-CWF-TOL-XDW
+  name: Gravidberättelser
+
+- action: INACTIVATE
+  code: RYF-CUW-GIV-CWF-TOL-KKC
+  name: Gravidkalender
+
+- action: INACTIVATE
+  code: RYF-CUW-GIV-CWF-TOL-AWH
+  name: Kejsarsnitt
+
+- action: INACTIVATE
+  code: RYF-CUW-GIV-CWF-TOL-BHK
+  name: Sätesförlossning
+
+- action: MOVE
+  code: RYF-CUW-GIV-CWF-TOL-LNO
+  name: Ultraljud
+  newParentCode: RYF-WUU-QNB
+  newParentName: Behandlingar
+
+- action: INACTIVATE
+  code: RYF-CUW-GIV-CWF-TOL-YDW
+  name: Vattnet går
+
+- action: INACTIVATE
+  code: RYF-CUW-GIV-CWF-TOL-QRR
+  name: Ägglossning
+
+- action: MOVE
+  code: RYF-CUW-GIV-CWF-TOL
+  name: Graviditet
+  newParentCode: RYF-CUW-GIV
+  newParentName: Familj # Nytt namn ovan
+
+- action: MOVE
+  code: RYF-CUW-GIV-CWF-SPS
+  name: Ofrivillig barnlöshet
+  newParentCode: RYF-CUW-GIV
+  newParentName: Familj # Nytt namn ovan
+
+- action: MOVE
+  code: RYF-CUW-GIV-CWF-HZS
+  name: Plötslig spädbarnsdöd
+  newParentCode: RYF-CUW-GIV
+  newParentName: Familj # Nytt namn ovan
+
+- action: INACTIVATE
+  code: RYF-CUW-GIV-CWF-QZN
+  name: Sekundär infertilitet
+
+- action: MOVE
+  code: RYF-CUW-GIV-CWF-VXO
+  name: Stjärnfamilj
+  newParentCode: RYF-CUW-GIV
+  newParentName: Familj # Nytt namn ovan
+
+- action: MOVE
+  code: RYF-CUW-GIV-CWF-KGU
+  name: Tvillingar & flerbarnsfödsel
+  newParentCode: RYF-CUW-GIV
+  newParentName: Familj # Nytt namn ovan
+
+- action: UPDATE
+  code: RYF-CUW-GIV-BNB
+  name: Skilsmässor
+  newName: Skilsmässa
+
+- action: UPDATE
+  code: RYF-HPT-PFF-ZFA
+  name: Tonåringar
+  newName: Tonåring
+
+- action: MOVE
+  code: RYF-HPT-PFF-ZFA
+  name: Tonåring # Nytt namn ovan
+  newParentCode: RYF-CUW-GIV
+  newParentName: Familj # Nytt namn ovan
+
+
+- action: UPDATE
+  code: RYF-CUW-XVL-YQK
+  name: Farsdag
+  newName: Fars dag
+
+- action: ADD
+  parentCode: RYF-CUW-XVL
+  parentName: Högtider
+  name: Eid al-fitr
+  level: 3
+  description: Eid al-fitr är det årliga fastebrytandets högtid som avslutar den muslimska fastemånaden ramadan
+
+
+- action: INACTIVATE
+  code: RYF-CUW-XVL-AJJ-EJS
+  name: Julgran
+
+- action: INACTIVATE
+  code: RYF-CUW-XVL-AJJ-LLV
+  name: Julklappar
+
+- action: INACTIVATE
+  code: RYF-CUW-XVL-AJJ-BMF
+  name: Julpynta
+
+- action: INACTIVATE
+  code: RYF-CUW-XVL-AJJ-MYS
+  name: Julpyssel
+
+- action: ADD
+  parentCode: RYF-CUW-XVL-AJJ
+  parentName: Jul
+  name: Advent
+  level: 4
+
+- action: ADD
+  parentCode: RYF-CUW-XVL-AJJ
+  parentName: Jul
+  name: Trettondedag jul
+  level: 4
+
+- action: UPDATE
+  code: RYF-CUW-XVL-HEF
+  name: Morsdag
+  newName: Mors dag
+
+- action: INACTIVATE
+  code: RYF-CUW-XVL-YIQ
+  name: Pingst
+
+- action: ADD
+  parentCode: RYF-CUW-XVL
+  parentName: Högtider
+  name: Thanksgiving
+  level: 3
+
+- action: UPDATE
+  code: RYF-CUW-EHM
+  name: Kärlek & relationer
+  newName: Relationer
+
+- action: ADD
+  parentCode: RYF-CUW-EHM
+  parentName: Relationer # Nytt namn ovan
+  name: Polyamori
+  level: 3
+
+
+- action: MOVE
+  code: RYF-HPT-PPR-OZY
+  name: Pornografi
+  newParentCode: RYF-CUW-EHM-AEM
+  newParentName: Sex
+
+- action: MOVE
+  code: RYF-CUW-GIV-CWF-BVA
+  name: Preventivmedel
+  newParentCode: RYF-CUW-EHM-AEM
+  newParentName: Sex
+
+
+- action: INACTIVATE
+  code: RYF-CUW-IAA-JLY-SRX
+  name: Körkort
+
+
+- action: INACTIVATE
+  code: RYF-CUW-ARJ
+  name: Självkänsla & självförtroende
+
+
+
+
+- action: UPDATE
+  code: RYF-CUW-RBU
+  name: Småbarnsförälder
+  newName: Föräldraskap
+
+- action: INACTIVATE
+  code: RYF-CUW-RBU-GOT-ZKB
+  name: Fotbollsskola
+
+- action: INACTIVATE
+  code: RYF-CUW-RBU-GOT-PFC
+  name: Simskola
+
+- action: INACTIVATE
+  code: RYF-CUW-RBU-TGE-RBD
+  name: Dockor & barbies
+
+- action: INACTIVATE
+  code: RYF-CUW-RBU-TGE-QXR
+  name: Leksaksbilar
+
+- action: INACTIVATE
+  code: RYF-CUW-RBU-TGE-JPQ
+  name: Sparkcyklar
+
+- action: INACTIVATE
+  code: RYF-CUW-RBU-OZI-UKE
+  name: Skärmar & skärmtid
+
+- action: INACTIVATE
+  code: RYF-CUW-RBU-OZI-HFE
+  name: Sätta gränser
+
+- action: UPDATE
+  code: RYF-CUW-RBU-JJM
+  name: Bebis & småbarnsåren
+  newName: Bebis & småbarn
+
+- action: INACTIVATE
+  code: RYF-CUW-RBU-JJM-XNX
+  name: Aggressivitet hos barn
+
+- action: INACTIVATE
+  code: RYF-CUW-RBU-JJM-VET
+  name: Barns anknytning
+
+- action: INACTIVATE
+  code: RYF-CUW-RBU-JJM-HRB
+  name: Barns temperament
+
+- action: INACTIVATE
+  code: RYF-CUW-RBU-JJM-KPR-IDX
+  name: Nappar & sluta med napp
+
+- action: INACTIVATE
+  code: RYF-CUW-RBU-JJM-KPR-HQM
+  name: Potträning & blöjfritt barn
+
+- action: INACTIVATE
+  code: RYF-CUW-RBU-JJM-KPR-NAH
+  name: Sluta amma
+
+- action: INACTIVATE
+  code: RYF-CUW-RBU-JJM-KPR-KFB
+  name: Vikt & längd
+
+
+- action: INACTIVATE
+  code: RYF-CUW-RBU-JJM-BLQ-XCF
+  name: Babygym
+
+- action: INACTIVATE
+  code: RYF-CUW-RBU-JJM-BLQ-FFA
+  name: Babysitter
+
+- action: INACTIVATE
+  code: RYF-CUW-RBU-JJM-BLQ-AYL
+  name: Barnvagnar
+
+- action: INACTIVATE
+  code: RYF-CUW-RBU-JJM-BLQ-STU
+  name: Spjälsängar
+
+- action: INACTIVATE
+  code: RYF-CUW-RBU-JJM-BLQ
+  name: Bebisprylar & varor för barn
+
+- action: INACTIVATE
+  code: RYF-CUW-RBU-JJM-WDC
+  name: Gnälliga barn
+
+- action: INACTIVATE
+  code: RYF-CUW-RBU-JJM-FDN
+  name: Gråt & ledsamhet
+
+- action: INACTIVATE
+  code: RYF-CUW-RBU-JJM-OXR
+  name: Kolik
+
+- action: INACTIVATE
+  code: RYF-CUW-RBU-JJM-RWM-LAT
+  name: Modersmjölkersättning
+
+- action: INACTIVATE
+  code: RYF-CUW-RBU-JJM-MTS
+  name: Nattning
+
+- action: INACTIVATE
+  code: RYF-CUW-RBU-JJM-UZS
+  name: Skrikande barn
+
+- action: INACTIVATE
+  code: RYF-CUW-RBU-JJM-QWP
+  name: Sömnmetoder
+
+- action: INACTIVATE
+  code: RYF-CUW-RBU-JJM-GOV
+  name: Trots
+
+- action: INACTIVATE
+  code: RYF-CUW-RBU-JJM-HDI
+  name: Tänders utveckling
+
+# Inkl barn men ovanstående ändringar först
+- action: MOVE
+  code: RYF-CUW-RBU
+  name: Föräldraskap # Nytt namn ovan
+  newParentCode: RYF-CUW-GIV
+  newParentName: Familj # Nytt namn ovan
+
+
+
+- action: MOVE
+  code: RYF-WUU-JZK-YSP-XQT
+  name: Stress
+  newParentCode: RYF-CUW
+  newParentName: Personligt
+
+- action: ADD
+  parentCode: RYF-CUW
+  parentName: Personligt
+  name: Särbegåvning
+  level: 2
+
+- action: ADD
+  parentCode: RYF-CUW-MHX
+  parentName: Temadagar
+  name: Internationella kvinnodagen
+  level: 3
+
+- action: INACTIVATE
+  code: RYF-CUW-MHX-LJL
+  name: Thanksgivning
+
+
+- action: MOVE
+  code: RYF-CUW-GIV-CWF-SUG
+  name: Ensamhet
+  newParentCode: RYF-CUW-EHM
+  newParentName: Relationer # Nytt namn ovan
+
+- action: ADD
+  parentCode: RYF-CUW-EHM-XXX # Nytt ID För ensamhet ovan
+  parentName: Ensamhet
+  name: Incel
+  level: 4
+  description: Ofrivilligt celibat är tillståndet hos en vuxen person som inte har någon kärleksrelation eller har haft samlag med någon
+
+- action: INACTIVATE
+  code: RYF-CUW-DNF-BPT
+  name: Relation till föräldrar
+
+- action: INACTIVATE
+  code: RYF-CUW-DNF-VJZ
+  name: Relation till vuxna barn
+
+
+- action: UPDATE
+  code: RYF-CUW-DNF
+  name: Vänskap & relationer
+  newName: Vänskap
+
+- action: MOVE
+  code: RYF-CUW-DNF
+  name: Vänskap # nytt namn ovan
+  newParentCode: RYF-CUW-EHM
+  newParentName: Relationer # Nytt namn ovan
+
+- action: INACTIVATE
+  code: RYF-CUW-JCL
+  name: Växter
+
+- action: ADD
+  parentCode: RYF-CUW-AEM
+  parentName: Åldrande
+  name: Klimakterie
+  level: 4
+ 
+- action: MOVE
+  code: RYF-HPT-PFF-KWE
+  name: Pensionärer
+  newParentCode: RYF-CUW-AEM
+  newParentName: Åldrande
+
+- action: ADD
+  parentCode: RYF-CUW
+  parentName: Personligt
+  name: Genus
+  level: 2
+
+
+- action: UPDATE
+  code: RYF-HPT-PFF-YBM
+  name: HBTQ-personer
+  newName: Hbtqi
+
+- action: MOVE
+  code: RYF-HPT-PFF-YBM
+  name: Hbtqi # Nytt namn ovan
+  newParentCode: RYF-CUW
+  newParentName: Personligt
+
+- action: ADD
+  parentCode: RYF-CUW-XXXX # Nytt ID För Hbtqi ovan
+  parentName: Hbtqi # Nytt namn ovan
+  name: Könsidentitet
+  level: 3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+############
+# Template
+############
+
+
+- action: UPDATE
+  code: RYF-CUW-EHM
+  name: Kärlek & relationer
+  newName: Relationer
+
+- action: MOVE
+  code: RYF-CUW-GIV-CWF-SUG
+  name: Bråk & osämja
+  newParentCode: RYF-CUW-GIV
+  newParentName: Familj # Nytt namn ovan
+
+- action: INACTIVATE
+  code: RYF-IXA-KEV-WHS-OYE
+  name: Industriella komponenter
+
+- action: ADD
+  parentCode: RYF-WUU-ZUM-PIA-MMW
+  parentName: Snusa
+  name: Snus
+  level: 5
