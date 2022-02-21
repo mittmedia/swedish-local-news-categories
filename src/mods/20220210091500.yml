@@ -74,12 +74,6 @@ modifications:
   name: Biologiska vapen
   newParentCode: RYF-WXT-XXXX-XXXX # ID för Militär utrustning och Militära vapen ovan
   newParentName: Militära vapen
-
-- action: ADD
-  parentCode: RYF-WXT-XXXX-XXXX # ID för Militär utrustning och Militära vapen ovan
-  parentName: Militära vapen
-  name: Konventionella vapen
-  level: 4
   
 - action: ADD
   parentCode: RYF-WXT-XXXX-XXXX # ID för Militär utrustning och Militära vapen ovan
