@@ -3239,6 +3239,12 @@ categories:
   name: Byggnadsmaterial
   replaces: RYF-IXA-KEV-VRA-PLF
   status: ACTIVE
+- code: RYF-IXA-KEV-CUQ
+  description: ''
+  level: 3
+  name: Lobbyverksamhet
+  replaces: RYF-IXA-LSL
+  status: ACTIVE
 - code: RYF-IXA-KEV-CYO
   description: ''
   level: 3
@@ -3551,12 +3557,6 @@ categories:
   level: 3
   name: Möbel- & hemindredningstillverkning
   replaces: RYF-IXA-KEV-VRA-XAL
-  status: ACTIVE
-- code: RYF-IXA-KEV-NHI
-  description: ''
-  level: 3
-  name: Lobbyverksamhet
-  replaces: RYF-IXA-LSL
   status: ACTIVE
 - code: RYF-IXA-KEV-OTN
   description: ''
@@ -4416,17 +4416,28 @@ categories:
   level: 3
   name: Turism & besöksnäring
   status: ACTIVE
-- code: RYF-IXA-KEV-YII-BLR
-  description: ''
-  level: 4
-  name: Camping
-  status: ACTIVE
 - code: RYF-IXA-KEV-YII-BPJ
   description: ''
   level: 4
   name: Casino- & spelmarknaden
   replacedBy: RYF-IXA-KEV-DVU
   status: INACTIVE
+- code: RYF-IXA-KEV-YII-DCK
+  description: ''
+  level: 4
+  name: Bed & breakfast
+  status: ACTIVE
+- code: RYF-IXA-KEV-YII-EQK
+  description: ''
+  level: 4
+  name: Camping
+  status: ACTIVE
+- code: RYF-IXA-KEV-YII-KZE
+  description: ''
+  level: 4
+  name: Vandrarhem
+  replaces: RYF-TKT-OUV-CFU-EUH
+  status: ACTIVE
 - code: RYF-IXA-KEV-YII-KZL
   description: ''
   level: 4
@@ -4442,23 +4453,12 @@ categories:
   level: 4
   name: Hotell
   status: ACTIVE
-- code: RYF-IXA-KEV-YII-TDH
-  description: ''
-  level: 4
-  name: Bed & breakfast
-  status: ACTIVE
 - code: RYF-IXA-KEV-YII-VZZ
   description: Tillverkning av varor för fritidsaktiviteter
   level: 4
   name: Fritids- & sportartiklar
   replacedBy: RYF-IXA-KEV-UZJ
   status: INACTIVE
-- code: RYF-IXA-KEV-YII-WKZ
-  description: ''
-  level: 4
-  name: Vandrarhem
-  replaces: RYF-TKT-OUV-CFU-EUH
-  status: ACTIVE
 - code: RYF-IXA-KEV-YYX
   description: ''
   level: 3
@@ -4611,7 +4611,7 @@ categories:
   description: ''
   level: 2
   name: Lobbyverksamhet
-  replacedBy: RYF-IXA-KEV-NHI
+  replacedBy: RYF-IXA-KEV-CUQ
   status: INACTIVE
 - code: RYF-IXA-QED
   description: Artikel i en allmän karaktär om handel och ekonomi
@@ -6864,6 +6864,11 @@ categories:
   level: 3
   name: Fotboll
   status: ACTIVE
+- code: RYF-QPR-HGB-DEN-AHL
+  description: ''
+  level: 4
+  name: Ettan norra
+  status: ACTIVE
 - code: RYF-QPR-HGB-DEN-ALX
   description: ''
   level: 4
@@ -8019,6 +8024,11 @@ categories:
   level: 5
   name: Superettan södra
   status: ACTIVE
+- code: RYF-QPR-HGB-DEN-IAU
+  description: ''
+  level: 4
+  name: Ettan södra
+  status: ACTIVE
 - code: RYF-QPR-HGB-DEN-IWR
   description: ''
   level: 4
@@ -8304,11 +8314,6 @@ categories:
   level: 5
   name: Skåne västra
   status: ACTIVE
-- code: RYF-QPR-HGB-DEN-NDA
-  description: ''
-  level: 4
-  name: Ettan södra
-  status: ACTIVE
 - code: RYF-QPR-HGB-DEN-OAF
   description: ''
   level: 4
@@ -8318,11 +8323,6 @@ categories:
   description: ''
   level: 4
   name: Nationell fotboll
-  status: ACTIVE
-- code: RYF-QPR-HGB-DEN-SOY
-  description: ''
-  level: 4
-  name: Ettan norra
   status: ACTIVE
 - code: RYF-QPR-HGB-DEN-SZC
   description: ''
@@ -12490,7 +12490,7 @@ categories:
   description: ''
   level: 3
   name: Bilstyling
-  replacedBy: RYF-XRZ-IRQ-XTC
+  replacedBy: RYF-XRZ-HYF-UWK
   status: INACTIVE
 - code: RYF-TKT-MRA-IQM
   description: ''
@@ -12734,20 +12734,20 @@ categories:
   description: ''
   level: 3
   name: Bilintresse
-  replacedBy: RYF-XRZ-HNL
+  replacedBy: RYF-XRZ-HYF
   status: INACTIVE
 - code: RYF-TKT-MRA-KWO-PSR
   description: ''
   level: 4
   name: Veteranbilar
-  replacedBy: RYF-XRZ-HNL-PSR
+  replacedBy: RYF-XRZ-HYF-PSR
   replaces: RYF-TKT-MRA-JUA-PSL
   status: INACTIVE
 - code: RYF-TKT-MRA-KWO-XZI
   description: ''
   level: 4
   name: Bil & fordonssamlingar
-  replacedBy: RYF-XRZ-HNL-XZI
+  replacedBy: RYF-XRZ-HYF-XZI
   status: INACTIVE
 - code: RYF-TKT-MRA-LMK
   description: ''
@@ -12765,7 +12765,7 @@ categories:
   description: ''
   level: 3
   name: Fordonsbesiktning
-  replacedBy: RYF-XRZ-WEQ
+  replacedBy: RYF-XRZ-JWD
   status: INACTIVE
 - code: RYF-TKT-MRA-OPE
   description: ''
@@ -12861,7 +12861,7 @@ categories:
   description: ''
   level: 4
   name: Vandrarhem
-  replacedBy: RYF-IXA-KEV-YII-WKZ
+  replacedBy: RYF-IXA-KEV-YII-KZE
   status: INACTIVE
 - code: RYF-TKT-OUV-CFU-GXG
   description: ''
@@ -16097,35 +16097,35 @@ categories:
   level: 3
   name: Utrikesflyg
   status: ACTIVE
-- code: RYF-XRZ-HNL
+- code: RYF-XRZ-HYF
   description: ''
   level: 2
   name: Bilintresse
   replaces: RYF-TKT-MRA-KWO
   status: ACTIVE
-- code: RYF-XRZ-HNL-PSR
-  description: ''
-  level: 3
-  name: Veteranbilar
-  replaces: RYF-TKT-MRA-KWO-PSR
-  status: ACTIVE
-- code: RYF-XRZ-HNL-XZI
-  description: ''
-  level: 3
-  name: Bil & fordonssamlingar
-  replaces: RYF-TKT-MRA-KWO-XZI
-  status: ACTIVE
-- code: RYF-XRZ-IRQ-FVJ
+- code: RYF-XRZ-HYF-CXT
   description: ''
   level: 3
   name: Amerikanare
   replaces: RYF-XRZ-ITR-OAJ
   status: ACTIVE
-- code: RYF-XRZ-IRQ-XTC
+- code: RYF-XRZ-HYF-PSR
+  description: ''
+  level: 3
+  name: Veteranbilar
+  replaces: RYF-TKT-MRA-KWO-PSR
+  status: ACTIVE
+- code: RYF-XRZ-HYF-UWK
   description: ''
   level: 3
   name: Bilstyling
   replaces: RYF-TKT-MRA-ICA
+  status: ACTIVE
+- code: RYF-XRZ-HYF-XZI
+  description: ''
+  level: 3
+  name: Bil & fordonssamlingar
+  replaces: RYF-TKT-MRA-KWO-XZI
   status: ACTIVE
 - code: RYF-XRZ-ITR
   description: ''
@@ -16173,7 +16173,7 @@ categories:
   description: ''
   level: 3
   name: Begagnade bilar
-  replacedBy: RYF-XRZ-UXH-XJN
+  replacedBy: RYF-XRZ-UXH-PFO
   replaces: RYF-TKT-MRA-JUA-DYT
   status: INACTIVE
 - code: RYF-XRZ-ITR-EHD
@@ -16216,7 +16216,7 @@ categories:
   description: ''
   level: 3
   name: Amerikanare
-  replacedBy: RYF-XRZ-IRQ-FVJ
+  replacedBy: RYF-XRZ-HYF-CXT
   replaces: RYF-TKT-MRA-JUA-OAJ
   status: INACTIVE
 - code: RYF-XRZ-ITR-QZP
@@ -16344,6 +16344,12 @@ categories:
   level: 2
   name: Moped
   replaces: RYF-TKT-MRA-HCS
+  status: ACTIVE
+- code: RYF-XRZ-JWD
+  description: ''
+  level: 2
+  name: Fordonsbesiktning
+  replaces: RYF-TKT-MRA-NGH
   status: ACTIVE
 - code: RYF-XRZ-KWN
   description: Processen för att ta sig till och från arbetet, bland annat transportmöjligheter, resenätverk, samåkning
@@ -16485,16 +16491,16 @@ categories:
   level: 2
   name: Bilförsäljning
   status: ACTIVE
-- code: RYF-XRZ-UXH-SJY
-  description: ''
-  level: 3
-  name: Nybilsförsäljning
-  status: ACTIVE
-- code: RYF-XRZ-UXH-XJN
+- code: RYF-XRZ-UXH-PFO
   description: ''
   level: 3
   name: Begagnade bilar
   replaces: RYF-XRZ-ITR-DYT
+  status: ACTIVE
+- code: RYF-XRZ-UXH-SJY
+  description: ''
+  level: 3
+  name: Nybilsförsäljning
   status: ACTIVE
 - code: RYF-XRZ-VAI
   description: ''
@@ -16523,12 +16529,6 @@ categories:
   level: 2
   name: Tunnelbana
   replaces: RYF-HPT-YGE-GUI-XYP
-  status: ACTIVE
-- code: RYF-XRZ-WEQ
-  description: ''
-  level: 2
-  name: Fordonsbesiktning
-  replaces: RYF-TKT-MRA-NGH
   status: ACTIVE
 - code: RYF-XRZ-WZC
   description: ''
@@ -16639,7 +16639,7 @@ categories:
   name: Tåg
   replaces: RYF-HPT-YGE-GUI-AZI
   status: ACTIVE
-- code: RYF-XRZ-ZPV-AVT
+- code: RYF-XRZ-ZPV-FEK
   description: ''
   level: 3
   name: Nattåg
