@@ -1,0 +1,164 @@
+modifications:
+
+
+- action: MOVE
+  code: RYF-QPR-QHP-OPY
+  name: Dopningskontroll
+  newParentCode: RYF-QPR
+  newParentName: Sport
+
+- action: UPDATE
+  code: RYF-QPR-QHP-QXE
+  name: Dopning inom idrott
+  newName: Dopning
+
+- action: MOVE
+  code: RYF-QPR-QHP-QXE
+  name: Dopning # Nytt namn ovan
+  newParentCode: RYF-QPR
+  newParentName: Sport
+
+- action: INACTIVATE
+  code: RYF-QPR-QHP-XNK
+  name: Tillåtna läkemedel och preparat
+
+# Efter ovanstående move
+- action: INACTIVATE
+  code: RYF-QPR-QHP
+  name: Idrottsmedicin
+
+
+- action: ADD
+  parentCode: RYF-QPR-HGB-APE
+  parentName: Biljard
+  name: Carambole
+  level: 4
+
+- action: ADD
+  parentCode: RYF-QPR-HGB-APE
+  parentName: Biljard
+  name: Pool
+  level: 4
+
+- action: MOVE
+  code: RYF-QPR-HGB-WHS
+  name: Snooker
+  newParentCode: RYF-QPR-HGB-APE
+  newParentName: Biljard
+
+- action: ADD
+  parentCode: RYF-QPR-HGB-RQL
+  parentName: Brottning
+  name: Fristil
+  level: 4
+
+- action: INACTIVATE
+  code: RYF-QPR-HGB-FUZ-VII
+  name: Cyklo-cross
+
+
+- action: UPDATE
+  code: RYF-QPR-HGB-FUZ-UTN
+  name: Velodromcykling
+  newName: Bancykling
+
+- action: ADD
+  parentCode: RYF-QPR-HGB-PWE
+  parentName: Friidrott
+  name: Maraton
+  level: 4
+
+
+- action: UPDATE
+  code: RYF-QPR-HGB-CIS-MON
+  name: Minigolf
+  newName: Bangolf
+
+- action: MOVE
+  code: RYF-QPR-HGB-CIS-MON
+  name: Bangolf # Nytt namn ovan
+  newParentCode: RYF-QPR-HGB
+  newParentName: Sport
+
+- action: ADD
+  parentCode: RYF-QPR-HGB-KJR
+  parentName: Gymnastik
+  name: Truppgymnastik
+  level: 4
+
+
+- action: UPDATE
+  code: RYF-QPR-HGB-UGP
+  name: Inline & skateboard
+  newName: Skateboard
+
+- action: INACTIVATE
+  code: RYF-QPR-HGB-UGP-BFM
+  name: Skateboard
+
+- action: MOVE
+  code: RYF-QPR-HGB-UGP-RGU
+  name: Inlinehockey
+  newParentCode: RYF-QPR-HGB
+  newParentName: Sport
+
+
+- action: ADD
+  parentCode: RYF-QPR-HGB-NYM
+  parentName: Skridskoåkning
+  name: Inline
+  level: 4
+
+- action: MOVE
+  code: RYF-QPR-HGB-MDD
+  name: Shorttrack
+  newParentCode: RYF-QPR-HGB-NYM
+  newParentName: Skridskoåkning
+
+- action: UPDATE
+  code: RYF-QPR-HGB-NYM
+  name: Skridskoåkning
+  newName: Skridsko
+
+
+- action: ADD
+  parentCode: RYF-QPR-HGB-SQQ
+  parentName: Konståkning
+  name: Isdans
+  level: 4
+
+- action: ADD
+  parentCode: RYF-QPR-HGB-SQQ
+  parentName: Konståkning
+  name: Paråkning
+  level: 4
+
+- action: ADD
+  parentCode: RYF-QPR-HGB-SQQ
+  parentName: Konståkning
+  name: Singelåkning
+  level: 4
+
+- action: ADD
+  parentCode: RYF-QPR-HGB-SQQ
+  parentName: Konståkning
+  name: Synkroniserad åkning
+  level: 4
+
+- action: ADD
+  parentCode: RYF-QPR-HGB-AIO
+  parentName: Parasport
+  name: Kälkhockey
+  level: 4
+
+
+- action: UPDATE
+  code: RYF-QPR-HGB-IPS-KOW
+  name: Distans
+  newName: Distansridning
+
+- action: UPDATE
+  code: RYF-QPR-HGB-IPS-VZU
+  name: Körning
+  newName: Sportkörning
+
