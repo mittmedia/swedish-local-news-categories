@@ -428,11 +428,21 @@ modifications:
   newParentCode: RYF-CUW-AEM
   newParentName: Åldrande
 
-- action: ADD
-  parentCode: RYF-CUW
-  parentName: Personligt
-  name: Genus
-  level: 2
+
+- action: UPDATE
+  code: RYF-KNI-XNS-SWE-PHD-ING
+  name: Feminism & genus
+  newName: Genus
+
+- action: MOVE
+  code: RYF-KNI-XNS-SWE-PHD-ING
+  name: Genus # Nytt namn ovan
+  newParentCode: RYF-CUW
+  newParentName: Personligt
+
+
+
+
 
 
 - action: UPDATE
