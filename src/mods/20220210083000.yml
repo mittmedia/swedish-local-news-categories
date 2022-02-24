@@ -163,43 +163,7 @@ modifications:
   name: Metangasutsläpp
   level: 5
   
-  
-  
-  
-  # Osäker på dessa
-#- action: INACTIVATE
-#  code: RYF-KNI-XNS-ELZ-DIN
-#  name: Bilförbud
-  
-#- action: INACTIVATE
-#  code: RYF-KNI-XNS-ELZ-GES
-#  name: Miljöbilspremie
-  
-#- action: INACTIVATE
-#  code: RYF-KNI-XNS-ELZ-KCI
-#  name: Miljözoner
-  
-#- action: INACTIVATE
-#  code: RYF-KNI-XNS-ELZ-PXQ
-#  name: Vägtullar
-  
-#- action: INACTIVATE
-#  code: RYF-KNI-XNS-ELZ-XSP
-#  name: Dieselförbud
-  
-#- action: UPDATE
-#  code: RYF-KNI-XNS-ELZ
-#  name: Miljö- & klimatpolitik
-# newName: Klimatpolitik
-  
-#- action: MOVE
-#  code: RYF-KNI-XNS-ELZ
-#  name: Klimatpolitik # nytt namn ovan
-#  newParentCode: RYF-VHD-GUZ
-#  newParentName: Klimatförändring # Nytt namn ovan
-  
-  
-  
+
 - action: ADD
   parentCode: RYF-VHD-GUZ
   parentName: Klimatförändring
