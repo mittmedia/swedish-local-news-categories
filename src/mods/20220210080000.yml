@@ -165,9 +165,19 @@ modifications:
   level: 4
 
 
-- action: INACTIVATE
+
+
+
+- action: UPDATE
   code: RYF-WUU-SUX-MEF
   name: Äldreomsorg (Sjukvård)
+  newName: Äldreomsorg
+
+- action: MOVE
+  code: RYF-HPT-ZSS-HAB
+  name: Äldreomsorg
+  newParentCode: RYF-HPT-XRQ
+  newParentName: Välfärd & bidragsfrågor
 
 
 

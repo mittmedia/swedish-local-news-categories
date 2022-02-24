@@ -1,0 +1,421 @@
+modifications:
+- action: UPDATE
+  code: RYF-HPT
+  name: Samhälle & välfärd
+  newName: Samhälle
+
+- action: ADD
+  parentCode: RYF-HPT
+  parentName: Samhälle # Nytt namn ovan
+  name: Internationellt bistånd
+  level: 2
+
+- action: ADD
+  parentCode: RYF-HPT-XXXX # ID för Internationellt bistånd ovan
+  parentName: Internationellt bistånd
+  name: Biståndsarbete
+  level: 3
+
+- action: ADD
+  parentCode: RYF-HPT-XAO
+  parentName: Diskriminering
+  name: Anitisemitism
+  level: 3
+
+- action: ADD
+  parentCode: RYF-HPT
+  parentName: Samhälle # Nytt namn ovan
+  name: Energislag
+  level: 2
+
+- action: ADD
+  parentCode: RYF-HPT-XXXX # ID för Energislag ovan
+  parentName: Energislag # Ny post ovan
+  name: Biobränsle
+  level: 3
+
+- action: ADD
+  parentCode: RYF-HPT-XXXX # ID för Energislag ovan
+  parentName: Energislag # Ny post ovan
+  name: Brännolja
+  level: 3
+
+- action: ADD
+  parentCode: RYF-HPT-XXXX # ID för Energislag ovan
+  parentName: Energislag # Ny post ovan
+  name: Energieffektivisering
+  level: 3
+
+- action: ADD
+  parentCode: RYF-HPT-XXXX # ID för Energislag ovan
+  parentName: Energislag # Ny post ovan
+  name: Fjärrvärme
+  level: 3
+
+- action: MOVE
+  code: RYF-VHD-ZKU-IYS
+  name: Förnybar energi
+  newParentCode: RYF-HPT-XXXX # ID för Energislag ovan
+  newParentName: Energislag # Ny post ovan
+
+- action: ADD
+  parentCode: RYF-HPT-XXXX # ID för Energislag ovan
+  parentName: Energislag # Ny post ovan
+  name: Geotermisk energi
+  level: 3
+
+- action: ADD
+  parentCode: RYF-HPT-XXXX # ID för Energislag ovan
+  parentName: Energislag # Ny post ovan
+  name: Kolkraft
+  level: 3
+
+- action: ADD
+  parentCode: RYF-HPT-XXXX # ID för Energislag ovan
+  parentName: Energislag # Ny post ovan
+  name: Kärnkraft
+  level: 3
+
+- action: ADD
+  parentCode: RYF-HPT-XXXX # ID för Energislag ovan
+  parentName: Energislag # Ny post ovan
+  name: Naturgas
+  level: 3
+
+- action: ADD
+  parentCode: RYF-HPT-XXXX # ID för Energislag ovan
+  parentName: Energislag # Ny post ovan
+  name: Solenergi
+  level: 3
+
+- action: ADD
+  parentCode: RYF-HPT-XXXX # ID för Energislag ovan
+  parentName: Energislag # Ny post ovan
+  name: Vattenkraft
+  level: 3
+
+- action: ADD
+  parentCode: RYF-HPT-XXXX # ID för Energislag ovan
+  parentName: Energislag # Ny post ovan
+  name: Vindkraft
+  level: 3
+
+- action: ADD
+  parentCode: RYF-HPT-XXXX # ID för Energislag ovan
+  parentName: Energislag # Ny post ovan
+  name: Vågkraft
+  level: 3
+
+
+- action: ADD
+  parentCode: RYF-HPT-YGE-EWJ
+  parentName: Internet
+  name: Bredband
+  level: 4
+
+- action: ADD
+  parentCode: RYF-HPT-YGE-EWJ
+  parentName: Internet
+  name: Datalagring
+  level: 4
+
+- action: ADD
+  parentCode: RYF-HPT-YGE-EWJ
+  parentName: Internet
+  name: It-säkerhet
+  level: 4
+
+- action: ADD
+  parentCode: RYF-HPT-YGE-EWJ
+  parentName: Internet
+  name: Fildelning
+  level: 4
+
+
+- action: ADD
+  parentCode: RYF-HPT-YGE
+  parentName: Infrastruktur
+  name: Telenät
+  level: 3
+
+
+- action: INACTIVATE
+  code: RYF-HPT-YGE-EIH
+  name: Tunnelbanenät
+
+
+- action: ADD
+  parentCode: RYF-HPT-YGE-GCZ
+  parentName: Vattennät
+  name: Vatten & avlopp
+  level: 4
+
+
+- action: ADD
+  parentCode: RYF-HPT
+  parentName: Samhälle # Nytt namn ovan
+  name: Integration
+  level: 2
+
+- action: UPDATE
+  code: RYF-HPT-PPR
+  name: Moraliska frågor & sociala värderingar
+  newName: Moral & etik
+
+- action: ADD
+  parentCode: RYF-HPT-PPR
+  parentName: Moral & etik # Nytt namn ovan
+  name: Hederskultur
+  level: 3
+
+- action: ADD
+  parentCode: RYF-HPT-PPR
+  parentName: Moral & etik # Nytt namn ovan
+  name: Mobbning
+  level: 3
+
+
+- action: INACTIVATE
+  code: RYF-HPT-PPR-RNR
+  name: Sexuellt beteende
+
+- action: UPDATE
+  code: RYF-HPT-PFF-QXE
+  name: Nationell eller etnisk minoritet
+  newName: Minoritet
+
+- action: INACTIVATE
+  code: RYF-HPT-PFF-LJW
+  name: Spädbarn
+
+- action: INACTIVATE
+  code: RYF-HPT-PFF-JYB
+  name: Vuxna
+
+
+- action: ADD
+  parentCode: RYF-HPT
+  parentName: Samhälle # Nytt namn ovan
+  name: Asylinvandring
+  level: 2
+
+
+- action: MOVE
+  code: RYF-HPT-ZSS-LAJ
+  name: Byggnader
+  newParentCode: RYF-HPT
+  newParentName: Samhälle # Nytt namn ovan
+
+# Inkl barn
+- action: MOVE
+  code: RYF-HPT-ZSS-LAJ
+  name: Bostadsmarknad
+  newParentCode: RYF-HPT
+  newParentName: Samhälle # Nytt namn ovan
+
+
+- action: MOVE
+  code: RYF-HPT-ZSS-WTL-JLR
+  name: Detaljplan
+  newParentCode: RYF-HPT-ZSS-HAB
+  newParentName: Stadsmiljö
+
+- action: MOVE
+  code: RYF-HPT-ZSS-WTL-XPE
+  name: Stadsbyggnad
+  newParentCode: RYF-HPT-ZSS-HAB
+  newParentName: Stadsmiljö
+
+
+- action: ADD
+  parentCode: RYF-HPT
+  parentName: Samhälle # Nytt namn ovan
+  name: Civilsamhälle
+  level: 2
+
+- action: ADD
+  parentCode: RYF-HPT
+  parentName: Samhälle # Nytt namn ovan
+  name: Glesbygd
+  level: 2
+
+- action: ADD
+  parentCode: RYF-HPT
+  parentName: Samhälle # Nytt namn ovan
+  name: Krisberedskap
+  level: 2
+
+- action: ADD
+  parentCode: RYF-HPT
+  parentName: Samhälle # Nytt namn ovan
+  name: Landsbygd
+  level: 2
+
+- action: MOVE
+  code: RYF-HPT-ZSS-HAB
+  name: Stadsmiljö
+  newParentCode: RYF-HPT
+  newParentName: Samhälle # Nytt namn ovan
+
+- action: MOVE
+  code: RYF-HPT-ZSS-WTL
+  name: Samhällsplanering
+  newParentCode: RYF-HPT
+  newParentName: Samhälle # Nytt namn ovan
+
+# OBS! Efter ovanstående flyttar
+- action: INACTIVATE
+  code: RYF-HPT-ZSS
+  name: Samhällen
+
+
+
+- action: UPDATE
+  code: RYF-HPT-XRQ
+  name: Välfärd & bidragsfrågor
+  newName: Välfärd
+
+- action: ADD
+  parentCode: RYF-HPT-XRQ
+  parentName: Välfärd # Nytt namn ovan
+  name: Familjehem
+  level: 3
+
+- action: INACTIVATE
+  code: RYF-HPT-XRQ-BFV
+  name: Arbetslöshetsförsäkring
+
+
+- action: UPDATE
+  code: RYF-HPT-XRQ-YUY
+  name: Föräldraledighet
+  newName: Föräldraförsäkring
+
+- action: ADD
+  parentCode: RYF-HPT-XRQ-YUY
+  parentName: Föräldraförsäkring # Nytt namn ovan
+  name: Föräldraledighet
+  level: 4
+
+
+- action: INACTIVATE
+  code: RYF-HPT-XRQ-DXC
+  name: Långtids- & äldrevård
+
+
+- action: INACTIVATE
+  code: RYF-HPT-XRQ-YNP
+  name: Socialt skyddsnät
+
+- action: INACTIVATE
+  code: RYF-HPT-THK-MAE
+  name: Kränkande beteende
+
+
+
+
+
+
+- action: UPDATE
+  code: RYF-HPT-XRQ-YUY
+  name: Socialtjänst
+  newName: Socialt
+
+- action: MOVE
+  code: RYF-HPT-XRQ-YUY
+  name: Socialt
+  newParentCode: RYF-HPT
+  newParentName: Samhälle # Nytt namn ovan
+
+- action: MOVE
+  code: RYF-HPT-THK-RYE
+  name: Missbruk
+  newParentCode: RYF-HPT-XXXX # ID för Socialt
+  newParentName: Socialt # Ny post ovan
+
+- action: MOVE
+  code: RYF-HPT-THK-OIW
+  name: Prostitution
+  newParentCode: RYF-HPT-XXXX # ID för Socialt
+  newParentName: Socialt # Ny post ovan
+
+- action: MOVE
+  code: RYF-HPT-THK-TPB
+  name: Ungdomsbrottslighet
+  newParentCode: RYF-BIZ-WZJ
+  newParentName: Brottslighet
+
+- action: UPDATE
+  code: RYF-HPT-THK-RGK-VHY
+  name: MC-gäng
+  newName: Gängkriminalitet
+
+# Inkl barn
+- action: MOVE
+  code: RYF-HPT-THK-RGK
+  name: Yrkeskriminella
+  newParentCode: RYF-BIZ-WZJ
+  newParentName: Brottslighet
+
+- action: INACTIVATE
+  code: RYF-HPT-THK
+  name: Sociala problem
+
+
+
+
+
+- action: MOVE
+  code: RYF-HPT-TPU-WBO
+  name: Fattigdom
+  newParentCode: RYF-HPT-XXXX # ID för Socialt
+  newParentName: Socialt # Ny post ovan
+
+- action: MOVE
+  code: RYF-HPT-TPU-ECJ
+  name: Hemlöshet
+  newParentCode: RYF-HPT-XXXX # ID för Socialt
+  newParentName: Socialt # Ny post ovan
+
+- action: MOVE
+  code: RYF-HPT-TPU-PQN
+  name: Tiggeri
+  newParentCode: RYF-HPT-XXXX # ID för Socialt
+  newParentName: Socialt # Ny post ovan
+  
+- action: MOVE
+  code: RYF-HPT-TPU-XFH
+  name: Utanförskap
+  newParentCode: RYF-HPT-XXXX # ID för Socialt
+  newParentName: Socialt # Ny post ovan
+
+- action: ADD
+  parentCode: RYF-HPT-XXXX # ID för Socialt
+  parentName: Socialt # Ny post ovan
+  name: Droger
+  level: 3
+
+- action: ADD
+  parentCode: RYF-HPT-XXXX-XXXX # ID för Socialt och Droger ovan
+  parentName: Droger # Ny post ovan
+  name: Narkotika
+  level: 4
+
+- action: ADD
+  parentCode: RYF-HPT-XXXX # ID för Socialt
+  parentName: Socialt # Ny post ovan
+  name: Kriminalitet
+  level: 3
+
+- action: ADD
+  parentCode: RYF-HPT-XXXX-XXXX # ID för Socialt och Kriminalitet
+  parentName: Kriminalitet # Ny post ovan
+  name: Vapen
+  level: 4
+
+- action: ADD
+  parentCode: RYF-HPT-XXXX # ID för Socialt
+  parentName: Socialt # Ny post ovan
+  name: Segregation
+  level: 3
+
