@@ -65,7 +65,4 @@ modifications:
   newParentCode: RYF-HPT-ZSS-WRT # Ny post ovan
   newParentName: Bostadsmarknad # Ny post ovan
 
-- action: INACTIVATE
-  code: RYF-IXA-KEV-OTN
-  name: Fastighets- & byggnadsindustri
 

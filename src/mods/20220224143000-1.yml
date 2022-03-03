@@ -1,4 +1,250 @@
 modifications:
+
+- action: INACTIVATE
+  code: RYF-IXA-KEV-OTN
+  name: Fastighets- & byggnadsindustri
+
+
+
+- action: UPDATE
+  code: RYF-BIZ
+  name: Brott & straff
+  newName: Brott, lag och rätt
+  
+
+- action: UPDATE
+  code: RYF-BIZ-RER-ZDY
+  name: Frihetsberövande
+  newName: Omhändertagande
+  
+- action: MOVE
+  code: RYF-BIZ-RER-ZDY
+  name: Omhändertagande # Nytt namn ovan
+  newParentCode: RYF-BIZ
+  newParentName: Brott, lag och rätt # Nytt namn ovan
+  
+- action: MOVE
+  code: RYF-BIZ-RER-QSE-DXR
+  name: Saknad person
+  newParentCode: RYF-BIZ
+  newParentName: Brott, lag och rätt # Nytt namn ovan
+
+- action: ADD
+  parentCode: RYF-BIZ-RER
+  parentName: Brottsbekämpning
+  name: Gripande
+  level: 3
+  
+- action: MOVE
+  code: RYF-BIZ-RER-QSE-DAS-BYT
+  name: Hastighetskameror
+  newParentCode: RYF-BIZ-RER
+  newParentName: Brottsbekämpning
+  
+- action: MOVE
+  code: RYF-BIZ-RER-QSE-DAS-NGX
+  name: Kameraövervakning
+  newParentCode: RYF-BIZ-RER
+  newParentName: Brottsbekämpning
+
+- action: MOVE
+  code: RYF-BIZ-RER-QSE-DAS-SWN
+  name: Telefonavlyssning
+  newParentCode: RYF-BIZ-RER
+  newParentName: Brottsbekämpning
+
+- action: INACTIVATE
+  code: RYF-BIZ-RER-QSE-DAS
+  name: Tvångsmedel
+  
+- action: INACTIVATE
+  code: RYF-BIZ-RER-QSE
+  name: Polisiärt arbete
+
+
+
+
+
+
+- action: MOVE
+  code: RYF-BIZ-RER-TSI-PHV
+  name: Informationsverksamhet & spionage
+  newParentCode: RYF-BIZ-WZJ
+  newParentName: Brottslighet
+
+- action: INACTIVATE
+  code: RYF-BIZ-RER-TSI
+  name: Säkerhetspolisen
+
+
+
+
+
+- action: UPDATE
+  code: RYF-BIZ-WZJ-IQH
+  name: Allmänfarliga brott
+  newName: Allmänfarligt brott
+
+- action: UPDATE
+  code: RYF-BIZ-WZJ-RPI
+  name: Bedrägerier & ekobrott
+  newName: Bedrägeri & ekobrott
+
+- action: INACTIVATE
+  code: RYF-BIZ-WZJ-RPI-AEK
+  name: Avtalsbrott
+  
+- action: INACTIVATE
+  code: RYF-BIZ-WZJ-RPI-UBX-BGP
+  name: Vägpirater
+
+- action: UPDATE
+  code: RYF-BIZ-WZJ-OFE-HYB
+  name: Utsläppsskandal & utsläppsfusk
+  newName: Läckage & utsläpp
+
+- action: INACTIVATE
+  code: RYF-BIZ-WZJ-GNO-UHT
+  name: Ringa stöld
+
+- action: UPDATE
+  code: RYF-BIZ-WZJ-USP
+  name: Terrorism
+  newName: Terroristbrott
+
+- action: INACTIVATE
+  code: RYF-BIZ-WZJ-USP-MKM
+  name: Biologisk terrorism
+
+
+
+
+
+- action: ADD
+  parentCode: RYF-BIZ-WZJ-KVS
+  parentName: Våldsbrott
+  name: Mordförsök
+  level: 4
+
+- action: INACTIVATE
+  code: RYF-BIZ-WZJ-KVS-HDW
+  name: Skolskjutning
+
+
+
+
+
+- action: MOVE
+  code: RYF-BIZ-XSV-JTA-YUA-XSE
+  name: Frikännande
+  newParentCode: RYF-BIZ-XSV
+  newParentName: Rättsprocessen
+  
+  
+  
+  
+  
+- action: ADD
+  parentCode: RYF-BIZ-XSV-JIV
+  parentName: Förundersökning
+  name: Häktning
+  level: 4
+
+- action: INACTIVATE
+  code: RYF-BIZ-XSV-LCF-YJV
+  name: Internationell domstol
+
+
+
+
+- action: UPDATE
+  code: RYF-BIZ-XSV-BII
+  name: Straff
+  newName: Påföljd
+
+- action: INACTIVATE
+  code: RYF-BIZ-XSV-BII-MKF
+  name: Dödsstraff
+
+
+
+
+
+- action: INACTIVATE
+  code: RYF-BIZ-XSV-JTA-YUA-ACX
+  name: Tvistemål
+
+
+- action: INACTIVATE
+  code: RYF-BIZ-XSV-JTA-YUA-FQB
+  name: Svarande
+  
+- action: INACTIVATE
+  code: RYF-BIZ-XSV-JTA-YUA-GMD
+  name: Vittne
+  
+- action: INACTIVATE
+  code: RYF-BIZ-XSV-JTA-YUA-IFR
+  name: Domstolsförberedelser
+
+- action: MOVE
+  code: RYF-BIZ-XSV-JTA-YUA
+  name: Rättegång
+  newParentCode: RYF-BIZ-XSV
+  newParentName: Rättsprocessen
+
+
+- action: INACTIVATE
+  code: RYF-BIZ-XSV-JTA-APZ
+  name: Domstol
+  
+- action: INACTIVATE
+  code: RYF-BIZ-XSV-JTA-TQC
+  name: Domstolspersonal
+  
+- action: INACTIVATE
+  code: RYF-BIZ-XSV-JTA-WUJ
+  name: Domare
+ 
+- action: UPDATE
+  code: RYF-BIZ-XSV-JTA-ZUJ
+  name: Överklagande av dom
+  newName: Överklagan
+  
+- action: MOVE
+  code: RYF-BIZ-XSV-JTA-ZUJ
+  name: Överklagan # Nytt namn ovan
+  newParentCode: RYF-BIZ-XSV
+  newParentName: Rättsprocessen
+  
+- action: INACTIVATE
+  code: RYF-BIZ-XSV-JTA
+  name: Straffrätt
+
+- action: INACTIVATE
+  code: RYF-BIZ-XSV-XBV
+  name: Övriga rättsärenden
+
+- action: ADD
+  parentCode: RYF-BIZ
+  parentName: Brott, lag och rätt
+  name: Juridik
+  level: 2
+
+- action: ADD
+  parentCode: RYF-BIZ-RER
+  parentName: Brottsbekämpning
+  name: Anhållan
+  level: 3
+
+
+
+
+
+
+
+
+
 - action: UPDATE
   code: RYF-WHZ-WOM
   name: Extremväder
