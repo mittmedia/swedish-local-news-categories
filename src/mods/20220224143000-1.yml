@@ -1,9 +1,7 @@
 modifications:
-
 - action: INACTIVATE
   code: RYF-IXA-KEV-OTN
   name: Fastighets- & byggnadsindustri
-
 
 
 - action: UPDATE
@@ -62,10 +60,6 @@ modifications:
   name: Polisiärt arbete
 
 
-
-
-
-
 - action: MOVE
   code: RYF-BIZ-RER-TSI-PHV
   name: Informationsverksamhet & spionage
@@ -75,9 +69,6 @@ modifications:
 - action: INACTIVATE
   code: RYF-BIZ-RER-TSI
   name: Säkerhetspolisen
-
-
-
 
 
 - action: UPDATE
@@ -117,9 +108,6 @@ modifications:
   name: Biologisk terrorism
 
 
-
-
-
 - action: ADD
   parentCode: RYF-BIZ-WZJ-KVS
   parentName: Våldsbrott
@@ -131,19 +119,13 @@ modifications:
   name: Skolskjutning
 
 
-
-
-
 - action: MOVE
   code: RYF-BIZ-XSV-JTA-YUA-XSE
   name: Frikännande
   newParentCode: RYF-BIZ-XSV
   newParentName: Rättsprocessen
   
-  
-  
-  
-  
+
 - action: ADD
   parentCode: RYF-BIZ-XSV-JIV
   parentName: Förundersökning
@@ -155,8 +137,6 @@ modifications:
   name: Internationell domstol
 
 
-
-
 - action: UPDATE
   code: RYF-BIZ-XSV-BII
   name: Straff
@@ -165,9 +145,6 @@ modifications:
 - action: INACTIVATE
   code: RYF-BIZ-XSV-BII-MKF
   name: Dödsstraff
-
-
-
 
 
 - action: INACTIVATE
@@ -238,13 +215,6 @@ modifications:
   level: 3
 
 
-
-
-
-
-
-
-
 - action: UPDATE
   code: RYF-WHZ-WOM
   name: Extremväder
@@ -300,25 +270,12 @@ modifications:
   description: Översvämning innebär att ett markområde som vanligtvis är torrt, tillfälligt eller permanent, sätts under vatten, ofta som följd av händelser utanför människans omedelbara kontroll som exempelvis vid kraftigt regn
   level: 2
   
-
-
-
-
-
-
-
-
-
-
+  
 - action: ADD
   parentCode: RYF
   parentName: Nyhetskategorier
   name: Kungligt
   level: 1
-
-
-
-
 
 
 - action: ADD
@@ -357,11 +314,6 @@ modifications:
   newName: Sjukdomar, tillstånd och diagnoser
   
 
-
-
-
-
-
 - action: MOVE
   code: RYF-WUU-JZK-DQP-SDZ
   name: Sharlakansfeber
@@ -385,21 +337,11 @@ modifications:
   name: Barnsjukdomar & åkommor
   
   
-  
 - action: MOVE
   code: RYF-WUU-JZK-SNV
   name: Hosta
   newParentCode: RYF-WUU-JZK-TZR
   newParentName: Luftvägssjukdomar
-  
-  
- 
-  
-  
-  
-  
-  
-  
   
   
 - action: UPDATE
@@ -412,19 +354,11 @@ modifications:
   name: Insektsbett
 
 
-
-
-
-
 - action: MOVE
   code: RYF-WUU-JZK-YIA-WNC
   name: Malignt melanom
   newParentCode: RYF-WUU-JZK-YIA-WMP
   newParentName: Hudcancer
-
-
-
-
 
 
   # TODO: Ändra description
@@ -436,15 +370,10 @@ modifications:
   level: 3
 
 
-
-  
-  
 - action: UPDATE
   code: RYF-WUU-JZK-AOD
   name: Erektil dysfunktion
   newName: Impotens
-
-
 
 
 - action: ADD
@@ -454,8 +383,6 @@ modifications:
   level: 4
 
 
-
-
 - action: ADD
   parentCode: RYF-WUU-JZK
   parentName: Sjukdomar, tillstånd och diagnoser # Nytt namn ovan
@@ -463,13 +390,9 @@ modifications:
   level: 3
 
 
-
-
-
 - action: INACTIVATE
   code: RYF-WUU-SUX-SFB
   name: Omsorg
-
 
 
 - action: ADD
@@ -487,9 +410,6 @@ modifications:
   level: 4
 
 
-
-
-
 - action: UPDATE
   code: RYF-WUU-SUX-MEF
   name: Äldreomsorg (Sjukvård)
@@ -500,8 +420,6 @@ modifications:
   name: Äldreomsorg
   newParentCode: RYF-HPT-XRQ
   newParentName: Välfärd & bidragsfrågor
-
-
 
 
 - action: ADD
@@ -518,8 +436,6 @@ modifications:
   level: 3
 
 
-
-
 - action: ADD
   parentCode: RYF-WUU
   parentName: Hälsa & sjukvård
@@ -527,13 +443,11 @@ modifications:
   level: 2
 
 
-  
 - action: MOVE
   code: RYF-WUU-JZK-AOA-JDH
   name: Mollusker
   newParentCode: RYF-WUU-JZK-XAW
   newParentName: Hudsjukdomar
-  
   
   
 - action: MOVE
@@ -590,17 +504,6 @@ modifications:
   newParentName: Träning & hälsa
 
 
-  
-
-
-
-
-
-
-
-
-
-
 - action: UPDATE
   code: RYF-VHD-ZKU
   name: Bevarande av miljö
@@ -613,7 +516,6 @@ modifications:
   name: Biologisk mångfald
   level: 3
   
-
 
 - action: UPDATE
   code: RYF-VHD-ZKU-BLX
@@ -642,8 +544,6 @@ modifications:
   level: 3
 
 
-
-
 - action: ADD
   parentCode: RYF-VHD-OAY-DLT
   parentName: Djur
@@ -670,18 +570,10 @@ modifications:
   code: RYF-VHD-OAY-DLT-XUZ-XOM
   name: Järv
 
-- action: MOVE
-  code: RYF-VHD-OAY-DLT-XUZ
-  name: Rovdjur
-  newParentCode: RYF-VHD-OAY-DLT-XXXX # Ny ovan
-  newParentName: Vilda djur # Ny ovan
-
-
 
 - action: INACTIVATE
   code: RYF-VHD-OAY-VCS
   name: Hotade arter
-
 
 
 - action: ADD
@@ -689,8 +581,6 @@ modifications:
   parentName: Föroreningar
   name: Buller
   level: 3
-
-
 
 
 - action: UPDATE
@@ -718,8 +608,6 @@ modifications:
   level: 4
 
 
-
-
 - action: ADD
   parentCode: RYF-VHD-GUZ
   parentName: Klimatförändring
@@ -731,8 +619,6 @@ modifications:
   parentName: Klimatförändring
   name: Klimatförhandling
   level: 3
-  
-  
   
   
 - action: UPDATE
@@ -760,11 +646,6 @@ modifications:
   level: 3
 
 
-
-
-
-  
-  
 - action: ADD
   parentCode: RYF-VHD-HXU-GRV
   parentName: Vatten
@@ -782,7 +663,6 @@ modifications:
   newName: Älv & å
   
   
-  
 - action: ADD
   parentCode: RYF-VHD-HXU-GRV
   parentName: Vatten
@@ -794,15 +674,6 @@ modifications:
   parentName: Vatten
   name: Sjö
   level: 4
-
-
-
-
-
-
-
-
-
 
 - action: UPDATE
   code: RYF-WXT-QIC
@@ -844,9 +715,6 @@ modifications:
   name: Oroligheter
 
 
-
-
-
 - action: ADD
   parentCode: RYF-WXT
   parentName: Konflikter & krig # Nytt nam ovan
@@ -856,9 +724,6 @@ modifications:
 - action: INACTIVATE
   code: RYF-WXT-ABT-NHU
   name: Bombdåd
-
-
-
 
 
 - action: ADD
@@ -875,17 +740,6 @@ modifications:
   level: 2
 
 
-
-
-
-
-
-
-
-
-
-
-
 - action: UPDATE
   code: RYF-XKI-CUP-FKK
   name: Animation
@@ -898,8 +752,6 @@ modifications:
   newParentName: Film
   
 
-
-
 - action: ADD
   parentCode: RYF-XKI-CUP
   parentName: Konstformer & underhållning
@@ -907,12 +759,10 @@ modifications:
   level: 3
 
 
-
 - action: UPDATE
   code: RYF-XKI-CUP-VDP-ZEZ
   name: Traditionell dans
   newName: Folkdans
-
 
 
 - action: ADD
@@ -1013,13 +863,11 @@ modifications:
   level: 4
 
 
-
 - action: ADD
   parentCode: RYF-XKI-CUP-KAQ
   parentName: Konstutställning
   name: Vernissage
   level: 4
-
 
 
 - action: ADD
@@ -1071,12 +919,6 @@ modifications:
   level: 4
 
 
-
-
-
-
-
-
 - action: UPDATE
   code: RYF-XKI-CUP-NWA-VVW-ISA
   name: Country & blues
@@ -1117,7 +959,6 @@ modifications:
   name: Folkmusik
   newParentCode: RYF-XKI-CUP-NWA
   newParentName: Musik
-
 
 
 - action: UPDATE
@@ -1277,7 +1118,6 @@ modifications:
   level: 4
 
 
-
 - action: UPDATE
   code: RYF-XKI-CUP-NCO
   name: Visuella konstformer
@@ -1331,21 +1171,6 @@ modifications:
   name: Minoritetsspråk
   level: 4
   
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 - action: MOVE
   code: RYF-CUW-JAY
@@ -1371,11 +1196,6 @@ modifications:
   newName: Terrorism
 
 
-
-
-
-
-
 - action: UPDATE
   code: RYF-XKI-BUS-PXU
   name: Influencers
@@ -1387,7 +1207,6 @@ modifications:
   name: Influerare # Nytt namn ovan
   newParentCode: RYF-XKI-BUS-RXO
   newParentName: Sociala medier
-  
   
   
 - action: INACTIVATE
@@ -1405,7 +1224,6 @@ modifications:
 - action: INACTIVATE
   code: RYF-XKI-BUS-TVB-VLL
   name: TV-recensioner
-
 
 
 - action: UPDATE
@@ -1463,10 +1281,6 @@ modifications:
   newParentName: TV # nytt namn ovan
   
 
-
-
-
-
 - action: ADD
   parentCode: RYF-XKI-BUS-TVB
   parentName: Journalistik
@@ -1479,17 +1293,12 @@ modifications:
   name: Pressfrihet
   level: 4
   
-  
 
 - action: ADD
   parentCode: YF-XKI-BUS
   parentName: Medier
   name: Källkritik
   level: 4
-  
-  
-  
-  
   
   
 - action: UPDATE
@@ -1504,17 +1313,10 @@ modifications:
   newParentName: Medier
   
   
-  
 - action: INACTIVATE
   code: RYF-XKI-BUS-EIU
   name: Programledare
   
- 
-  
-
-
-
-
 
 - action: UPDATE
   code: RYF-TKT-BOI-KPY
@@ -1531,7 +1333,6 @@ modifications:
   parentName: Bakning & bakverk
   name: Kakor
   level: 3
-
 
 
 - action: INACTIVATE
@@ -1556,7 +1357,6 @@ modifications:
   name: Oktoberöl
 
 
-
 - action: INACTIVATE
   code: RYF-TKT-ZCD-KIK-KQH
   name: Mineralvatten
@@ -1576,7 +1376,6 @@ modifications:
 - action: INACTIVATE
   code: RYF-TKT-ZCD-KIK
   name: Övrig dryck
-  
   
   
 - action: UPDATE
@@ -1619,9 +1418,6 @@ modifications:
   newParentName: Föreningsliv & frivilligverksamhet # nytt namn ovan
   
   
-  
-  
-  
 - action: INACTIVATE
   code: RYF-TKT-CPL-BVS
   name: Stenfrukter
@@ -1639,8 +1435,6 @@ modifications:
   name: Citrusfrukter
   
   
-  
-  
 - action: INACTIVATE
   code: RYF-TKT-NAU-FLC
   name: Choklad
@@ -1648,8 +1442,6 @@ modifications:
 - action: INACTIVATE
   code: RYF-TKT-NAU-IZV
   name: Lösviktsgodis
-  
-  
   
   
 - action: UPDATE
@@ -1679,16 +1471,9 @@ modifications:
   code: RYF-TKT-AGB-IAV-OWU
   name: Byggmaterial för hemmet
   
-  
 - action: INACTIVATE
   code: RYF-TKT-AGB-IAV-PZZ
   name: Bygnadstekniker
-  
-  
-  
-  
-  
-  
   
   
 - action: UPDATE
@@ -1744,7 +1529,6 @@ modifications:
   newParentName: Bygga & fixa # Nytt namn ovan
 
 
-  
 - action: UPDATE
   code: RYF-TKT-AGB-NVR-WII
   name: Måla & färga
@@ -1767,20 +1551,12 @@ modifications:
   newParentCode: RYF-TKT-AGB-IAV
   newParentName: Bygga & fixa # Nytt namn ovan
   
-  
-  
-  
-  
+
 - action: ADD
   parentCode: RYF-TKT-AGB
   parentName: Hem
   name: Smarta hem
   level: 3
-  
-  
-  
-  
-  
   
   
 - action: MOVE
@@ -1820,17 +1596,11 @@ modifications:
   name: Fixa & dona
   
   
-  
-  
-  
-  
 - action: ADD
   parentCode: RYF-TKT-AGB
   parentName: Hem
   name: Hemelektronik
   level: 3
-  
-  
   
  
 - action: UPDATE
@@ -1847,11 +1617,6 @@ modifications:
 - action: INACTIVATE
   code: RYF-TKT-AGB-BGD-XRO-PSW
   name: Ljuslyktor
-
-  
-
-
-
 
 
 - action: MOVE
@@ -1982,7 +1747,6 @@ modifications:
   name: Inredningstrender
 
 
-
 - action: UPDATE
   code: RYF-TKT-AGB-BGD-MCI-HCH
   name: Dunkuddar
@@ -2035,14 +1799,10 @@ modifications:
   level: 3
 
 
-
-
 - action: UPDATE
   code: RYF-TKT-HFD-TAX
   name: Fotograferande
   newName: Fotografering
-
-
 
 
 - action: ADD
@@ -2091,7 +1851,6 @@ modifications:
   newName: Virkning
 
 
-
 - action: UPDATE
   code: RYF-TKT-HFD-DXE-JDU
   name: Korsord & pysselspel
@@ -2109,21 +1868,11 @@ modifications:
   newParentCode: RYF-TKT-HFD
   newParentName: Hobby
 
-
-
-
-
-
-
-
 - action: UPDATE
   code: RYF-TKT-KBC
   name: Hus- & boendetyper
   newName: Bostad
   
-  
-
-
 - action: UPDATE
   code: RYF-TKT-KBC-JDH
   name: Rad- och parhus
@@ -2159,9 +1908,6 @@ modifications:
   newParentName: Hem
   
   
-  
-  
-  
 - action: UPDATE
   code: RYF-TKT-GTX-NKU-BJE-UZF
   name: Armband & länkar
@@ -2171,7 +1917,6 @@ modifications:
   code: RYF-TKT-GTX-NKU-BJE-MAY
   name: Klockor & ur
   newName: Klockor
-  
   
   
 - action: UPDATE
@@ -2233,8 +1978,6 @@ modifications:
   level: 5
   
   
-  
-  
 - action: INACTIVATE
   code: RYF-TKT-GTX-NKU-ZTW-IEL
   name: Spetstyger
@@ -2246,8 +1989,6 @@ modifications:
 - action: INACTIVATE
   code: RYF-TKT-GTX-NKU-ZTW
   name: Klädtyger
-
-
 
 
 - action: ADD
@@ -2269,8 +2010,6 @@ modifications:
   name: Sommarklänningar
 
 
-
-
 - action: INACTIVATE
   code: RYF-CUW-RBU-LMA-NLN
   name: Bebiskläder
@@ -2286,19 +2025,12 @@ modifications:
   newParentName: Mode & styling
 
 
-
-
-
-
-
-
 - action: UPDATE
   code: RYF-TKT-GTX-NKU-GVR
   name: Modetrender & modetyper
   newName: Modetrender
 
-  
-  
+
 - action: INACTIVATE
   code: RYF-TKT-GTX-NKU-FDW-ZSP
   name: Deodorant
@@ -2310,7 +2042,6 @@ modifications:
 - action: INACTIVATE
   code: RYF-TKT-GTX-NKU-FDW-SSU
   name: Rakvatten
-  
   
   
 - action: INACTIVATE
@@ -2326,8 +2057,6 @@ modifications:
   parentName: Skor
   name: Stövlar
   level: 5
-  
-  
   
   
 - action: ADD
@@ -2354,9 +2083,7 @@ modifications:
   name: Nagellack
   level: 5
   
-  
-  
-  
+
 - action: UPDATE
   code: RYF-TKT-GTX-NKU-UOY
   name: Stilar
@@ -2375,11 +2102,9 @@ modifications:
   name: Vintagestil
 
   
-  
 - action: INACTIVATE
   code: RYF-TKT-GTX-NKU-RRW-SLV
   name: Handväskor
-  
   
   
 - action: UPDATE
@@ -2403,7 +2128,6 @@ modifications:
   code: RYF-TKT-GTX-NKU-QOV-KWG
   name: Nagellack
 
-
   
 - action: UPDATE
   code: RYF-TKT-GTX-NKU-EXJ
@@ -2413,8 +2137,6 @@ modifications:
 - action: INACTIVATE
   code: RYF-TKT-GTX-NKU-EXJ-FPT
   name: Klädvård
-  
-  
   
   
 - action: UPDATE
@@ -2430,13 +2152,10 @@ modifications:
   description: Spel vars utgång beror på slumpen. Lotterier, kortspel, tärningsspel, och bingo. På kasinon spelas typiska hasardspel vars utgång inte beror de spelandes skicklighet.
   
   
-  
-  
 - action: INACTIVATE
   code: RYF-TKT-JCK-MKF-RTF
   name: Nordafrikansk mat
 
-  
 - action: ADD
   parentCode: RYF-TKT-JCK
   parentName: Mat
@@ -2479,7 +2198,6 @@ modifications:
   name: Inläggningar
   
   
-  
 - action: UPDATE
   code: RYF-TKT-JCK-TEX-YAQ
   name: Rökning
@@ -2502,8 +2220,6 @@ modifications:
   name: Övriga tillagningstekniker
 
 
-
-
 - action: UPDATE
   code: RYF-TKT-JCK-ZYE
   name: Övrig medelhavsmat
@@ -2514,20 +2230,6 @@ modifications:
   code: RYF-TKT-JCK-SDQ
   name: Övrig sydamerikansk mat
   newName: Sydamerikansk mat
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 - action: INACTIVATE
@@ -2541,9 +2243,6 @@ modifications:
 - action: INACTIVATE
   code: RYF-AKM-TGS-QGV-BSS
   name: Översvämning
-
-
-
 
 
 - action: UPDATE
@@ -2622,8 +2321,6 @@ modifications:
   level: 4
 
 
-
-
 - action: ADD
   parentCode: RYF-EOI-DLM-BEP
   parentName: Geologi
@@ -2653,11 +2350,6 @@ modifications:
 - action: INACTIVATE
   code: RYF-EOI-DOE-QRZ
   name: Medicinsk forskning
-
-
-
-
-
 
 
 - action: ADD
@@ -2862,8 +2554,6 @@ modifications:
   newParentName: Resa
 
 
-
-
 - action: ADD
   parentCode: RYF-TKT-XHP
   parentName: Träning & hälsa
@@ -2896,15 +2586,6 @@ modifications:
 - action: INACTIVATE
   code: RYF-TKT-XHP-MHN
   name: Övriga träningsformer
-
-
-
-
-
-
-
-
-
 
 
 - action: MOVE
@@ -3063,16 +2744,6 @@ modifications:
   newName: Sportkörning
 
 
-
-
-
-
-
-
-
-
-
-
 - action: ADD
   parentCode: RYF-ZEI-QVY
   parentName: Lön & förmån
@@ -3154,8 +2825,6 @@ modifications:
   level: 3
 
 
-
-
 - action: ADD
   parentCode: RYF-IXA-QED
   parentName: Samhällsekonomi
@@ -3229,14 +2898,6 @@ modifications:
   name: Nöjesparker
 
 
-
-
-
-
-
-
-
-
 - action: MOVE
   code: RYF-CUW-USY
   name: Bråk & osämja
@@ -3276,7 +2937,6 @@ modifications:
   name: Fertilitetsbehandling
   newParentCode: RYF-CUW-GIV
   newParentName: Familj # Nytt namn ovan
-
 
 - action: INACTIVATE
   code: RYF-CUW-GIV-CWF-TOL-NXR
@@ -3452,8 +3112,6 @@ modifications:
 - action: INACTIVATE
   code: RYF-CUW-ARJ
   name: Självkänsla & självförtroende
-
-
 
 
 - action: UPDATE
@@ -3659,10 +3317,6 @@ modifications:
   newParentName: Personligt
 
 
-
-
-
-
 - action: UPDATE
   code: RYF-HPT-PFF-YBM
   name: HBTQ-personer
@@ -3673,27 +3327,6 @@ modifications:
   name: Hbtqi # Nytt namn ovan
   newParentCode: RYF-CUW
   newParentName: Personligt
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 - action: UPDATE
@@ -3774,17 +3407,11 @@ modifications:
   name: Sekt
 
 
-
-
-
-
-
 - action: ADD
   parentCode: RYF-YDR
   parentName: Skola & utbildning
   name: Skolbibliotek
   level: 2
-
 
 # Inkl barn
 - action: MOVE
@@ -3876,27 +3503,6 @@ modifications:
   level: 2
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 - action: UPDATE
   code: RYF-KNI-VTI
   name: Extrema organisationer
@@ -3971,14 +3577,11 @@ modifications:
   code: RYF-KNI-SZU
   name: Kungahuset
 
-
 - action: MOVE
   code: RYF-KNI-MRR-URH
   name: Medborgarförslag
   newParentCode: RYF-KNI
   newParentName: Politik
-
-
 
 - action: INACTIVATE
   code: RYF-KNI-RLW-HER-HTC
@@ -4060,7 +3663,6 @@ modifications:
   name: Vinster i välfärden
   newParentCode: RYF-KNI-XNS-WZY-SEB
   newParentName: Privatisering
-
 
 
 - action: INACTIVATE
@@ -4190,7 +3792,6 @@ modifications:
   newParentName: Politik
 
 
-
 - action: INACTIVATE
   code: RYF-KNI-XNS-TVM-YQF
   name: Livsmedelsregler
@@ -4206,8 +3807,6 @@ modifications:
   name: Reglering # Nytt namn ovan
   newParentCode: RYF-KNI
   newParentName: Politik
-
-
 
 
 - action: UPDATE
@@ -4286,7 +3885,6 @@ modifications:
   newParentName: Politik
 
 
-
 - action: UPDATE
   code: RYF-KNI-XNS-SWE-OTW
   name: Offentliga upphandlingar
@@ -4309,7 +3907,6 @@ modifications:
   name: Vapenpolitik
 
 
-
 - action: INACTIVATE
   code: RYF-KNI-XNS-KVO-RXE
   name: Privat sjukvård
@@ -4319,7 +3916,6 @@ modifications:
   code: RYF-KNI-XNS-KVO-MPS
   name: Sjukförsäkring
   newName: Socialförsäkringspolitik
-
 
 
 - action: INACTIVATE
@@ -4339,7 +3935,6 @@ modifications:
   name: Skattepolitik
   newParentCode: RYF-KNI
   newParentName: Politik
-
 
 
 - action: ADD
@@ -4463,9 +4058,6 @@ modifications:
   level: 3
 
 
-
-
-
 - action: INACTIVATE
   code: RYF-KNI-EPV-ACB
   name: Politiska debatter
@@ -4477,7 +4069,6 @@ modifications:
 - action: INACTIVATE
   code: RYF-KNI-EPV-JAT
   name: Politiska utvecklingen
-
 
 
 - action: UPDATE
@@ -4553,37 +4144,6 @@ modifications:
 - action: INACTIVATE
   code: RYF-KNI-MRR-EIU
   name: Rösta i val
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 - action: UPDATE
@@ -4807,10 +4367,6 @@ modifications:
   name: Kränkande beteende
 
 
-
-
-
-
 - action: UPDATE
   code: RYF-HPT-XRQ-YUY
   name: Socialtjänst
@@ -4821,7 +4377,6 @@ modifications:
   name: Socialt
   newParentCode: RYF-HPT
   newParentName: Samhälle # Nytt namn ovan
-
 
 
 - action: MOVE
@@ -4845,10 +4400,6 @@ modifications:
 - action: INACTIVATE
   code: RYF-HPT-THK
   name: Sociala problem
-
-
-
-
 
 
 # Uppsamlingsheat
@@ -4981,4 +4532,3 @@ modifications:
   parentName: Välfärd & bidragsfrågor
   name: Familjehem
   level: 3
-

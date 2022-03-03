@@ -1,13 +1,21 @@
 modifications:
+- action: MOVE
+  code: RYF-VHD-OAY-DLT-XUZ
+  name: Rovdjur
+  newParentCode: RYF-VHD-OAY-DLT-XXXX # ID för Vilda djur i 20220224143000-1.yml 
+  newParentName: Vilda djur # Ny ovan
+
+
+
 - action: ADD
-  parentCode: RYF-WHZ-XXX # ID för Vind ovan
+  parentCode: RYF-WHZ-XXX # ID för Vind i 20220224143000-1.yml 
   parentName: Vind
   name: Orkan
   description: En storm med orkanstyrka har en vindhastighet på minst 32,7 m/s
   level: 3
   
 - action: ADD
-  parentCode: RYF-WHZ-XXX # ID för Vind ovan
+  parentCode: RYF-WHZ-XXX # ID för Vind i 20220224143000-1.yml 
   parentName: Vind
   name: Storm
   description: Storm kallas vinden både på land och till sjöss, när vindhastigheten är stor. Ibland används benämningen "storm" specifikt för vindstyrka mellan 24,5 och 28,4 meter per sekund. När vindstyrkan är 20,8–24,4 m/s kallas vinden halv storm, och vid vindstyrka 28,5–32,6 m/s benämns vinden svår storm
