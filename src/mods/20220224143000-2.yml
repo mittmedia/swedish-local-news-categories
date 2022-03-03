@@ -14,7 +14,6 @@ modifications:
   level: 3
   
 
-  
 - action: ADD
   parentCode: RYF-XXXX # ID för kungligt i 20220224143000-1.yml 
   parentName: Kungligt
@@ -100,11 +99,6 @@ modifications:
   level: 2
 
 
-
-
-
-
-
 - action: ADD
   parentCode: RYF-WUU-XXXX # ID för Vårdyrken i 20220224143000-1.yml 
   parentName: Vårdyrken # Ny post ovan
@@ -122,11 +116,6 @@ modifications:
   parentName: Vårdyrken # Ny post ovan
   name: Läkare
   level: 3
-
-
-
-
-
 
 
 - action: ADD
@@ -160,8 +149,6 @@ modifications:
   level: 5
 
 
-  
-  
 - action: ADD
   parentCode: RYF-VHD-GUZ-SYG-XXX # ID för Växthusgas i 20220224143000-1.yml 
   parentName: Växthusgas # ny post ovan
@@ -181,14 +168,13 @@ modifications:
   level: 5
 
 
-  
 - action: ADD
   parentCode: RYF-VHD-HXU-XXXX # ID För Naturfenomen i 20220224143000-1.yml 
   parentName: Naturfenomen # Nytt namn ovan
   name: Norrsken
   level: 4
 
-  
+
   # OBS! move i 20220224143000-1.yml först.
 - action: INACTIVATE
   code: RYF-VHD-HXU-ICY
@@ -197,13 +183,6 @@ modifications:
 - action: INACTIVATE
   code: RYF-VHD-HXU-OEC
   name: Energiresurser
-  
-  
-
-
-
-
-
 
 
 - action: ADD
@@ -211,8 +190,6 @@ modifications:
   parentName: Militär utrustning
   name: Militära vapen
   level: 3
-
-
 
 
 - action: ADD
@@ -234,12 +211,6 @@ modifications:
   level: 3
 
 
-
-
-
-
-
-
 - action: ADD
   parentCode: RYF-XKI-CUP-XBM-XXX # ID för Bio i 20220224143000-1.yml 
   parentName: Bio
@@ -253,9 +224,6 @@ modifications:
   level: 5
 
 
-
-
-
 - action: ADD
   parentCode: RYF-TKT-AGB-IAV-XXX # Id för Renovering i 20220224143000-1.yml 
   parentName: Renovering # Ny post ovan
@@ -263,16 +231,10 @@ modifications:
   level: 5
   
 
-
-
-
 # Invänta move i 20220224143000-1.yml 
 - action: INACTIVATE
   code: RYF-TKT-OUV-SMF
   name: Restyper
-
-
-
 
 
 - action: MOVE
@@ -287,7 +249,6 @@ modifications:
   name: Socialmedicin
   level: 4
   description: Socialmedicin är en tvärvetenskaplig gren av medicinen som handlar om människors hälsa och sjukdom i samspel med det omgivande samhället
-
 
 
 - action: ADD
@@ -310,18 +271,12 @@ modifications:
   level: 5
 
 
-
-
-
-
 # Efter move i 20220224143000-1.yml
 - action: INACTIVATE
   code: RYF-QPR-QHP
   name: Idrottsmedicin
 
 
-
-  
 - action: ADD
   parentCode: RYF-ZEI-CZS-XXXX # Nytt id för sjukskrivning i 20220224143000-1.yml
   parentName: Sjukskrivning
@@ -335,17 +290,11 @@ modifications:
   level: 4
 
 
-
-
-
-
-
 - action: MOVE
   code: RYF-CUW-GIV-CWF-TOL-LCI
   name: Ivf-behandling
   newParentCode: RYF-CUW-GIV-XXXX # ID För Fertilitetsbehandling i 20220224143000-1.yml
   newParentName: Fertilitetsbehandling
-
 
 
 # Inkl barn men ändringar i 20220224143000-1.yml först
@@ -364,18 +313,11 @@ modifications:
   description: Ofrivilligt celibat är tillståndet hos en vuxen person som inte har någon kärleksrelation eller har haft samlag med någon
 
 
-
 - action: ADD
   parentCode: RYF-CUW-XXXX # Nytt ID För Hbtqi i 20220224143000-1.yml
   parentName: Hbtqi # Nytt namn ovan
   name: Könsidentitet
   level: 3
-
-
-
-
-
-
 
 
 - action: ADD
@@ -422,15 +364,6 @@ modifications:
   level: 3
 
 
-
-
-
-
-
-
-
-
-
 # OBS Move i 20220224143000-1.yml först
 - action: INACTIVATE
   code: RYF-KNI-RLW
@@ -465,12 +398,10 @@ modifications:
   newParentName: Politik
 
 
-
 # OBS! Ovanstående ändringar först
 - action: INACTIVATE
   code: RYF-KNI-XNS
   name: Politiska frågor
-
 
 
 - action: MOVE
@@ -498,31 +429,10 @@ modifications:
   level: 3
 
 
-
 # OBS! Ovanstående move innan
 - action: INACTIVATE
   code: RYF-KNI-EPV-PIO
   name: Politiskt system
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 - action: ADD

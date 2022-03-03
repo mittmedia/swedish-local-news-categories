@@ -7,11 +7,6 @@ modifications:
   level: 3
   
 
-
-
-
-
-
 - action: MOVE
   code: RYF-WXT-ABT-QYW
   name: Biologiska vapen
@@ -25,19 +20,12 @@ modifications:
   level: 4
 
 
-
-
-
-# Inkl barn. OBS! Ovanstående move innan.
+# Inkl barn. OBS! Move i 20220224143000-1.yml och  i 20220224143000-2.yml först
 - action: MOVE
   code: RYF-KNI-XNS-WZY
   name: Ekonomisk politik
   newParentCode: RYF-KNI
   newParentName: Politik
-
-
-
-
 
 
 - action: ADD
@@ -54,15 +42,12 @@ modifications:
   level: 4
 
 
-
 # Obs! Ovanstående move innan.
 - action: MOVE
   code: RYF-KNI-XNS-KVO
   name: Sjukvårdspolitik
   newParentCode: RYF-KNI
   newParentName: Politik
-
-
 
 
 # OBS! Ovanstående ändringar innan
