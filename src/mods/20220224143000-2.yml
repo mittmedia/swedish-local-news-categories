@@ -1,4 +1,64 @@
 modifications:
+- action: ADD
+  parentCode: RYF-WXT-XXXX # ID för Militär utrustning i 20220224143000-1.yml 
+  parentName: Militär utrustning
+  name: Militära vapen
+  level: 3
+
+
+
+
+- action: ADD
+  parentCode: RYF-WXT-XXXX # ID för Försvar ovan i 20220224143000-1.yml 
+  parentName: Försvar # ny post ovan
+  name: Säkerhet
+  level: 3
+
+- action: ADD
+  parentCode: RYF-WXT-XXXX # ID för Försvar ovan i 20220224143000-1.yml 
+  parentName: Försvar # ny post ovan
+  name: Militär utbildning
+  level: 3
+
+- action: ADD
+  parentCode: RYF-WXT-XXXX # ID för Försvar ovan i 20220224143000-1.yml 
+  parentName: Försvar # ny post ovan
+  name: Militärtjänst
+  level: 3
+
+
+
+
+
+
+
+
+- action: ADD
+  parentCode: RYF-XKI-CUP-XBM-XXX # ID för Bio i 20220224143000-1.yml 
+  parentName: Bio
+  name: Biopremiär
+  level: 5
+
+- action: ADD
+  parentCode: RYF-XKI-CUP-NCO-XXXX # ID för Gatukonst i 20220224143000-1.yml  
+  parentName: Gatukonst
+  name: Graffiti
+  level: 5
+
+
+
+
+
+- action: ADD
+  parentCode: RYF-TKT-AGB-IAV-XXX # Id för Renovering i 20220224143000-1.yml 
+  parentName: Renovering # Ny post ovan
+  name: Badrumsrenovering
+  level: 5
+  
+
+
+
+
 # Invänta move i 20220224143000-1.yml 
 - action: INACTIVATE
   code: RYF-TKT-OUV-SMF
