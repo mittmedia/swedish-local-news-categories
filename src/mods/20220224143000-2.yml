@@ -1,4 +1,100 @@
 modifications:
+
+
+# OBS Move i 20220224143000-1.yml först
+- action: INACTIVATE
+  code: RYF-KNI-RLW
+  name: Myndigheter
+
+# Inkl barn. Move i 20220224143000-1.yml först
+- action: MOVE
+  code: RYF-KNI-XNS-WZY-SEB
+  name: Privatisering
+  newParentCode: RYF-KNI
+  newParentName: Politik
+
+
+# Obs! Move i 20220224143000-1.yml först
+- action: MOVE
+  code: RYF-KNI-XNS-SWE-VMT
+  name: Välfärdspolitik # Nytt namn ovan
+  newParentCode: RYF-KNI
+  newParentName: Politik
+
+# Obs! Move i 20220224143000-1.yml först
+- action: INACTIVATE
+  code: RYF-KNI-XNS-SWE
+  name: Samhällspolitik
+
+
+# Obs! Move i 20220224143000-1.yml först
+- action: MOVE
+  code: RYF-KNI-XNS-KVO-MPS
+  name: Socialförsäkringspolitik # Nytt namn ovan
+  newParentCode: RYF-KNI
+  newParentName: Politik
+
+
+
+# OBS! Ovanstående ändringar först
+- action: INACTIVATE
+  code: RYF-KNI-XNS
+  name: Politiska frågor
+
+
+
+- action: MOVE
+  code: RYF-KNI-EPV-PIO-PCQ
+  name: Demokrati
+  newParentCode: RYF-KNI-XXX # ID för Statsskick i 20220224143000-1.yml
+  newParentName: Statsskick
+
+- action: MOVE
+  code: RYF-KNI-EPV-PIO-PNL
+  name: Diktatur
+  newParentCode: RYF-KNI-XXX # ID för Statsskick i 20220224143000-1.yml
+  newParentName: Statsskick
+
+- action: ADD
+  parentCode: RRYF-KNI-XXX # ID för Statsskick i 20220224143000-1.yml
+  parentName: Statsskick
+  name: Monarki
+  level: 3
+
+- action: ADD
+  parentCode: RRYF-KNI-XXX # ID för Statsskick i 20220224143000-1.yml
+  parentName: Statsskick
+  name: Republik
+  level: 3
+
+
+
+# OBS! Ovanstående move innan
+- action: INACTIVATE
+  code: RYF-KNI-EPV-PIO
+  name: Politiskt system
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 - action: ADD
   parentCode: RYF-HPT-XXXX # ID för Internationellt bistånd i 20220224143000-1.yml
   parentName: Internationellt bistånd

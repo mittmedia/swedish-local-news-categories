@@ -1,6 +1,20 @@
 modifications:
 
 
+
+
+# Inkl barn. OBS! Ovanstående move innan.
+- action: MOVE
+  code: RYF-KNI-XNS-WZY
+  name: Ekonomisk politik
+  newParentCode: RYF-KNI
+  newParentName: Politik
+
+
+
+
+
+
 - action: ADD
   parentCode: RYF-HPT-XXXX-XXXX # ID för Socialt och Droger i 20220224143000-1.yml och  i 20220224143000-2.yml
   parentName: Droger # Ny post ovan
@@ -14,3 +28,19 @@ modifications:
   name: Vapen
   level: 4
 
+
+
+# Obs! Ovanstående move innan.
+- action: MOVE
+  code: RYF-KNI-XNS-KVO
+  name: Sjukvårdspolitik
+  newParentCode: RYF-KNI
+  newParentName: Politik
+
+
+
+
+# OBS! Ovanstående ändringar innan
+- action: INACTIVATE
+  code: RYF-KNI-EPV
+  name: Politiska processen

@@ -1,4 +1,704 @@
 modifications:
+
+
+
+
+
+
+
+
+
+
+
+- action: UPDATE
+  code: RYF-KNI-VTI
+  name: Extrema organisationer
+  newName: Politisk extremism
+
+- action: ADD
+  parentCode: RYF-KNI-VTI
+  parentName: Politisk extremism # Nytt namn ovan
+  name: Högerextremism
+  level: 3
+
+- action: ADD
+  parentCode: RYF-KNI-VTI
+  parentName: Politisk extremism # Nytt namn ovan
+  name: Religiös extremism
+  level: 3
+
+- action: ADD
+  parentCode: RYF-KNI-VTI
+  parentName: Politisk extremism # Nytt namn ovan
+  name: Vänsterextremism
+  level: 3
+
+
+- action: ADD
+  parentCode: RYF-KNI
+  parentName: Politik
+  name: Förtroendevalda
+  level: 2
+
+- action: ADD
+  parentCode: RYF-KNI-ZIS
+  parentName: Grundlagar & grundläggande rättigheter
+  name: Regeringsformen
+  level: 3
+
+- action: ADD
+  parentCode: RYF-KNI-ZIS
+  parentName: Grundlagar & grundläggande rättigheter
+  name: Riksdagsordningen
+  level: 3
+
+- action: ADD
+  parentCode: RYF-KNI-ZIS
+  parentName: Grundlagar & grundläggande rättigheter
+  name: Successionsordningen
+  level: 3
+
+
+# Inkl barn
+- action: MOVE
+  code: RYF-KNI-SQH-LCX
+  name: Diplomati
+  newParentCode: RYF-KNI-ZDF
+  newParentName: Utrikespolitik
+
+- action: MOVE
+  code: RYF-KNI-SQH-LBP
+  name: Ekonomiska sanktioner
+  newParentCode: RYF-KNI-ZDF
+  newParentName: Utrikespolitik
+
+- action: INACTIVATE
+  code: RYF-KNI-SQH-DKK
+  name: Flyktingfrågan globalt
+
+- action: INACTIVATE
+  code: RYF-KNI-SQH-WCF
+  name: Internationella organisationer
+
+- action: INACTIVATE
+  code: RYF-KNI-SZU
+  name: Kungahuset
+
+
+- action: MOVE
+  code: RYF-KNI-MRR-URH
+  name: Medborgarförslag
+  newParentCode: RYF-KNI
+  newParentName: Politik
+
+
+
+- action: INACTIVATE
+  code: RYF-KNI-RLW-HER-HTC
+  name: Offentliga tjänstemän
+
+- action: INACTIVATE
+  code: RYF-KNI-RLW-HER-XLI
+  name: Offentliganställda
+
+- action: INACTIVATE
+  code: RYF-KNI-RLW-HER-VNR
+  name: Samhällstjänst & allmännytta
+
+- action: UPDATE
+  code: RYF-KNI-RLW-HER
+  name: Myndighetsarbete
+  newName: Myndighetsutövning
+
+- action: MOVE
+  code: RYF-KNI-RLW-HER
+  name: Myndighetsutövning # Nytt namn ovan
+  newParentCode: RYF-KNI
+  newParentName: Politik
+
+- action: INACTIVATE
+  code: RYF-KNI-RLW-QNY
+  name: Departement
+
+- action: INACTIVATE
+  code: RYF-KNI-RLW-EZD
+  name: Lokala myndigheter
+
+- action: INACTIVATE
+  code: RYF-KNI-RLW-ZQN
+  name: Ministrar
+
+- action: INACTIVATE
+  code: RYF-KNI-RLW-LKZ
+  name: Regionala myndigheter
+
+- action: INACTIVATE
+  code: RYF-KNI-RLW-IQL
+  name: Riksrättsförfarande
+
+- action: INACTIVATE
+  code: RYF-KNI-RLW-PGY
+  name: Statsöverhuvud
+
+- action: INACTIVATE
+  code: RYF-KNI-RLW-PGC
+  name: Tillsynsmyndigheter
+
+- action: INACTIVATE
+  code: RYF-KNI-RLW-PZE
+  name: Verkställande statsmakt
+
+
+- action: ADD
+  parentCode: RYF-KNI
+  parentName: Politik
+  name: Politiska fångar
+  level: 2
+
+
+- action: UPDATE
+  code: RYF-KNI-XNS-WZY-ZFI
+  name: Statsbudget & budgetarbete
+  newName: Budget
+
+# Inkl barn
+- action: MOVE
+  code: RYF-KNI-XNS-WZY-ZFI
+  name: Budget # Nytt namn ovan
+  newParentCode: RYF-KNI
+  newParentName: Politik
+
+- action: MOVE
+  code: RYF-KNI-XNS-SWE-VMT-ZKQ
+  name: Vinster i välfärden
+  newParentCode: RYF-KNI-XNS-WZY-SEB
+  newParentName: Privatisering
+
+
+
+- action: INACTIVATE
+  code: RYF-KNI-XNS-TXA-KEC
+  name: Kärnkraftspolitik
+
+- action: MOVE
+  code: RYF-KNI-XNS-TXA
+  name: Energipolitik
+  newParentCode: RYF-KNI
+  newParentName: Politik
+
+
+- action: UPDATE
+  code: RYF-KNI-XNS-JVN
+  name: Flyktingpolitik & migrationspolitik
+  newName: Flyktingpolitik
+
+- action: MOVE
+  code: RYF-KNI-XNS-JVN-LCG
+  name: Gränskontroller
+  newParentCode: RYF-HPT-ZSS
+  newParentName: Samhällen
+
+- action: MOVE
+  code: RYF-KNI-XNS-JVN
+  name: Flyktingpolitik # Nytt namn ovan
+  newParentCode: RYF-KNI
+  newParentName: Politik
+
+
+- action: UPDATE
+  code: RYF-KNI-XNS-TDS
+  name: Försvars- & säkerhetspolitik
+  newName: Försvarspolitik
+
+- action: MOVE
+  code: RYF-KNI-XNS-TDS
+  name: Försvarspolitik # Nytt namn ovan
+  newParentCode: RYF-KNI
+  newParentName: Politik
+
+
+- action: UPDATE
+  code: RYF-KNI-XNS-PHE
+  name: Indrottspolitik
+  newName: Idrottspolitik
+
+- action: MOVE
+  code: RYF-KNI-XNS-PHE
+  name: Idrottspolitik # Nytt namn ovan
+  newParentCode: RYF-KNI
+  newParentName: Politik
+
+
+- action: UPDATE
+  code: RYF-KNI-XNS-CFE
+  name: Infrastrukturfrågor
+  newName: Infrastrukturpolitik
+
+- action: MOVE
+  code: RYF-KNI-XNS-CFE
+  name: Infrastrukturpolitik # Nytt namn ovan
+  newParentCode: RYF-KNI
+  newParentName: Politik
+
+- action: MOVE
+  code: RYF-KNI-XNS-FYA
+  name: Kommunpolitik
+  newParentCode: RYF-KNI
+  newParentName: Politik
+
+- action: MOVE
+  code: RYF-KNI-XNS-CHY
+  name: Kulturpolitik
+  newParentCode: RYF-KNI
+  newParentName: Politik
+
+- action: MOVE
+  code: RYF-KNI-XNS-YQW
+  name: Landsbygdspolitik
+  newParentCode: RYF-KNI
+  newParentName: Politik
+
+
+- action: INACTIVATE
+  code: RYF-KNI-XNS-ELZ-DIN
+  name: Bilförbud
+
+- action: INACTIVATE
+  code: RYF-KNI-XNS-ELZ-XSP
+  name: Dieselförbud
+ 
+- action: INACTIVATE
+  code: RYF-KNI-XNS-ELZ-GES
+  name: Miljöbilspremie
+ 
+- action: INACTIVATE
+  code: RYF-KNI-XNS-ELZ-KCI
+  name: Miljözoner
+ 
+- action: INACTIVATE
+  code: RYF-KNI-XNS-ELZ-PXQ
+  name: Vägtullar
+ 
+- action: UPDATE
+  code: RYF-KNI-XNS-ELZ
+  name: Miljö- & klimatpolitik
+  newName: Klimatpolitik
+
+- action: MOVE
+  code: RYF-KNI-XNS-ELZ
+  name: Klimatpolitik # Nytt namn ovan
+  newParentCode: RYF-KNI
+  newParentName: Politik
+  
+
+- action: UPDATE
+  code: RYF-KNI-XNS-FQO
+  name: Regions- & landstingsfrågor
+  newName: Regionpolitik
+
+- action: MOVE
+  code: RYF-KNI-XNS-FQO
+  name: Regionpolitik # Nytt namn ovan
+  newParentCode: RYF-KNI
+  newParentName: Politik
+
+
+
+- action: INACTIVATE
+  code: RYF-KNI-XNS-TVM-YQF
+  name: Livsmedelsregler
+
+
+- action: UPDATE
+  code: RYF-KNI-XNS-TVM
+  name: Regleringar
+  newName: Reglering
+
+- action: MOVE
+  code: RYF-KNI-XNS-TVM
+  name: Reglering # Nytt namn ovan
+  newParentCode: RYF-KNI
+  newParentName: Politik
+
+
+
+
+- action: UPDATE
+  code: RYF-KNI-XNS-SWE-TCB
+  name: Barn & ungdomsfrågor
+  newName: Barn- & ungdomspolitik
+
+- action: MOVE
+  code: RYF-KNI-XNS-SWE-TCB
+  name: Barn- & ungdomspolitik # Nytt namn ovan
+  newParentCode: RYF-KNI
+  newParentName: Politik
+
+
+- action: UPDATE
+  code: RYF-KNI-XNS-SWE-ROA
+  name: Bostads- & stadsplaneringsfrågor
+  newName: Bostadspolitik
+
+- action: MOVE
+  code: RYF-KNI-XNS-SWE-ROA-EMY
+  name: Bostadsbrist
+  newParentCode: RYF-HPT-ZSS-WRT
+  newParentName: Bostadsmarknad
+
+- action: INACTIVATE
+  code: RYF-KNI-XNS-SWE-ROA-DSR
+  name: Smarta städer
+
+- action: MOVE
+  code: RYF-KNI-XNS-SWE-ROA
+  name: Bostadspolitik # Nytt namn ovan
+  newParentCode: RYF-KNI
+  newParentName: Politik
+
+
+- action: UPDATE
+  code: RYF-KNI-XNS-SWE-HXR
+  name: Datasäkerhetsfrågor
+  newName: Datasäkerhetspolitik
+
+- action: MOVE
+  code: RYF-KNI-XNS-SWE-HXR
+  name: Datasäkerhetspolitik # Nytt namn ovan
+  newParentCode: RYF-KNI
+  newParentName: Politik
+
+
+- action: MOVE
+  code: RYF-KNI-XNS-SWE-OWE
+  name: Integrationspolitik
+  newParentCode: RYF-KNI
+  newParentName: Politik
+
+- action: UPDATE
+  code: RYF-KNI-XNS-SWE-ILT
+  name: Integritetsfrågor & personuppgifter
+  newName: Integritetspolitik
+
+- action: MOVE
+  code: RYF-KNI-XNS-SWE-ILT
+  name: Integritetspolitik # Nytt namn ovan
+  newParentCode: RYF-KNI
+  newParentName: Politik
+
+
+- action: UPDATE
+  code: RYF-KNI-XNS-SWE-CAC
+  name: Minoritetsfrågor
+  newName: Minoritetspolitik
+
+- action: MOVE
+  code: RYF-KNI-XNS-SWE-CAC
+  name: Minoritetspolitik # Nytt namn ovan
+  newParentCode: RYF-KNI
+  newParentName: Politik
+
+
+
+- action: UPDATE
+  code: RYF-KNI-XNS-SWE-OTW
+  name: Offentliga upphandlingar
+  newName: Offentlig upphandling
+
+- action: MOVE
+  code: RYF-KNI-XNS-SWE-OTW
+  name: Offentlig upphandling # Nytt namn ovan
+  newParentCode: RYF-HPT-ZSS
+  newParentName: Samhällen
+
+- action: UPDATE
+  code: RYF-KNI-XNS-SWE-VMT
+  name: Pension & välfärdspolitik
+  newName: Välfärdspolitik
+
+
+- action: INACTIVATE
+  code: RYF-KNI-XNS-SWE-PEU
+  name: Vapenpolitik
+
+
+
+- action: INACTIVATE
+  code: RYF-KNI-XNS-KVO-RXE
+  name: Privat sjukvård
+
+
+- action: UPDATE
+  code: RYF-KNI-XNS-KVO-MPS
+  name: Sjukförsäkring
+  newName: Socialförsäkringspolitik
+
+
+
+- action: INACTIVATE
+  code: RYF-KNI-XNS-HIC-QQO
+  name: Drivmedelsskatt
+
+- action: INACTIVATE
+  code: RYF-KNI-XNS-HIC-JCZ
+  name: Fordonsskatt
+
+- action: INACTIVATE
+  code: RYF-KNI-XNS-HIC-JZM
+  name: Inkomstskatt
+
+- action: MOVE
+  code: RYF-KNI-XNS-HIC
+  name: Skattepolitik
+  newParentCode: RYF-KNI
+  newParentName: Politik
+
+
+
+- action: ADD
+  parentCode: RYF-KNI
+  parentName: Politik
+  name: Digitaliseringspolitik
+  level: 2
+
+- action: ADD
+  parentCode: RYF-KNI
+  parentName: Politik
+  name: Familjepolitik
+  level: 2
+
+- action: ADD
+  parentCode: RYF-KNI
+  parentName: Politik
+  name: Fördelningspolitik
+  level: 2
+
+- action: ADD
+  parentCode: RYF-KNI
+  parentName: Politik
+  name: Klimatpolitik
+  level: 2
+
+- action: ADD
+  parentCode: RYF-KNI
+  parentName: Politik
+  name: Kriminalpolitik
+  level: 2
+
+- action: ADD
+  parentCode: RYF-KNI
+  parentName: Politik
+  name: Migrationspolitik
+  level: 2
+
+- action: ADD
+  parentCode: RYF-KNI
+  parentName: Politik
+  name: Miljöpolitik
+  level: 2
+
+- action: ADD
+  parentCode: RYF-KNI
+  parentName: Politik
+  name: Narkotikapolitik
+  level: 2
+
+- action: ADD
+  parentCode: RYF-KNI
+  parentName: Politik
+  name: Pensionspolitik
+  level: 2
+
+- action: ADD
+  parentCode: RYF-KNI
+  parentName: Politik
+  name: Socialpolitik
+  level: 2
+
+- action: ADD
+  parentCode: RYF-KNI
+  parentName: Politik
+  name: Statsskick
+  level: 2
+
+- action: ADD
+  parentCode: RYF-KNI
+  parentName: Politik
+  name: Säkerhetspolitik
+  level: 2
+
+- action: ADD
+  parentCode: RYF-KNI-QXU
+  parentName: Politiska ideologier
+  name: Anarkism
+  level: 3
+
+- action: ADD
+  parentCode: RYF-KNI-QXU
+  parentName: Politiska ideologier
+  name: Feminism
+  level: 3
+
+- action: ADD
+  parentCode: RYF-KNI-QXU
+  parentName: Politiska ideologier
+  name: Gröna ideologier
+  level: 3
+
+- action: ADD
+  parentCode: RYF-KNI-QXU
+  parentName: Politiska ideologier
+  name: Konservatism
+  level: 3
+
+- action: ADD
+  parentCode: RYF-KNI-QXU
+  parentName: Politiska ideologier
+  name: Kristdemokrati
+  level: 3
+
+- action: ADD
+  parentCode: RYF-KNI-QXU
+  parentName: Politiska ideologier
+  name: Liberalism
+  level: 3
+
+- action: ADD
+  parentCode: RYF-KNI-QXU
+  parentName: Politiska ideologier
+  name: Nationalism
+  level: 3
+
+- action: ADD
+  parentCode: RYF-KNI-QXU
+  parentName: Politiska ideologier
+  name: Socialism
+  level: 3
+
+
+
+
+
+- action: INACTIVATE
+  code: RYF-KNI-EPV-ACB
+  name: Politiska debatter
+
+- action: INACTIVATE
+  code: RYF-KNI-EPV-AQV
+  name: Politiska partier och rörelser
+
+- action: INACTIVATE
+  code: RYF-KNI-EPV-JAT
+  name: Politiska utvecklingen
+
+
+
+- action: UPDATE
+  code: RYF-KNI-NPJ
+  name: Regeringsfrågor
+  newName: Proposition
+
+- action: INACTIVATE
+  code: RYF-KNI-NPJ-BSC
+  name: Författning
+
+
+- action: UPDATE
+  code: RYF-KNI-CLN
+  name: Riksdagsfrågor
+  newName: Motioner
+
+- action: INACTIVATE
+  code: RYF-KNI-CLN-QLS
+  name: Konstitutionella frågor
+
+
+- action: ADD
+  parentCode: RYF-KNI-ZDF
+  parentName: Utrikespolitik
+  name: Biståndspolitik
+  level: 3
+
+- action: ADD
+  parentCode: RYF-KNI-ZDF
+  parentName: Utrikespolitik
+  name: Utrikeshandelspolitik
+  level: 3
+
+
+- action: INACTIVATE
+  code: RYF-KNI-ZDF-IGS-MTC
+  name: Primärval
+
+- action: INACTIVATE
+  code: RYF-KNI-ZDF-IGS-ZBV
+  name: Val i USA
+
+- action: INACTIVATE
+  code: RYF-KNI-ZDF-IGS
+  name: Amerikansk politik
+
+- action: INACTIVATE
+  code: RYF-KNI-ZDF-IBY
+  name: Nationella val
+
+
+- action: UPDATE
+  code: RYF-KNI-MRR-NUJ
+  name: Kommunval
+  newName: Kommunalval
+
+- action: INACTIVATE
+  code: RYF-KNI-MRR-VDE
+  name: Lokalval
+
+- action: UPDATE
+  code: RYF-KNI-MRR-YSA-CQL
+  name: EU-val
+  newName: EU-val
+  description: Val till Europaparlamentet
+
+- action: UPDATE
+  code: RYF-KNI-MRR-EUF
+  name: Regionval & landstingsval
+  newName: Regionval
+
+- action: INACTIVATE
+  code: RYF-KNI-MRR-EIU
+  name: Rösta i val
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 - action: UPDATE
   code: RYF-HPT
   name: Samhälle & välfärd
