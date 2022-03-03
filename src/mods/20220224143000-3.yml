@@ -1,4 +1,15 @@
 modifications:
+- action: ADD
+  parentCode: RYF-XXXX-XXXX # ID för kungligt ovan och ID för Regale i 20220224143000-1.yml och  i 20220224143000-2.yml
+  parentName: Kungligt
+  name: Riksregalier
+  description: Riksregalier är olika typer av symboler och tecken som används för att utmärka en bärares rang, ämbete eller funktion
+  level: 3
+  
+
+
+
+
 
 
 - action: MOVE

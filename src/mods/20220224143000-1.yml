@@ -1,5 +1,564 @@
 modifications:
 - action: UPDATE
+  code: RYF-WHZ-WOM
+  name: Extremväder
+  newName: Extremväder
+  description: Extremväder: Klimatextremer kan definieras utifrån att de förekommer sällan eller utifrån att de påverkar samhälle och miljö på ett kännbart sätt
+
+- action: ADD
+  parentCode: RYF-WHZ
+  parentName: Väder
+  name: Kyla
+  description: Kyla kan beskrivas som låg temperatur för årstiden, alternativt temperaturer under fryspunkten 0 grader Celcius.
+  level: 2
+  
+- action: ADD
+  parentCode: RYF-WHZ
+  parentName: Väder
+  name: Regn
+  description: Regn är nederbörd som endast består av flytande vatten.
+  level: 2
+  
+- action: ADD
+  parentCode: RYF-WHZ
+  parentName: Väder
+  name: Snö
+  description: Snö är nederbörd i form av iskristaller, enstaka eller sammanfogade, som faller från ett moln men kan även referera till snö som ligger på marken
+  level: 2
+  
+- action: ADD
+  parentCode: RYF-WHZ
+  parentName: Väder
+  name: Torka
+  description: Torka är en ihållande period med reducerad vattentillgång i jämförelse med normalt
+  level: 2
+  
+- action: ADD
+  parentCode: RYF-WHZ
+  parentName: Väder
+  name: Vind
+  description: Vind är flödet av luft i atmosfären
+  level: 2
+
+- action: ADD
+  parentCode: RYF-WHZ
+  parentName: Väder
+  name: Värme
+  description: Värmebölja är den allmänna beteckningen inom meteorologin på perioder med för årstiden ovanligt varmt väder
+  level: 2
+  
+- action: ADD
+  parentCode: RYF-WHZ
+  parentName: Väder
+  name: Översvämning
+  description: Översvämning innebär att ett markområde som vanligtvis är torrt, tillfälligt eller permanent, sätts under vatten, ofta som följd av händelser utanför människans omedelbara kontroll som exempelvis vid kraftigt regn
+  level: 2
+  
+
+
+
+
+
+
+
+
+
+
+- action: ADD
+  parentCode: RYF
+  parentName: Nyhetskategorier
+  name: Kungligt
+  level: 1
+
+
+
+
+
+
+- action: ADD
+  parentCode: RYF-WUU-QNB-LKJ-BIB
+  parentName: Receptbelagda mediciner
+  name: Antibiotika
+  level: 5
+  
+  # Inkl barn
+- action: MOVE
+  code: RYF-HPT-PPR-LQJ-DBB
+  name: Dödshjälp
+  newParentCode: RYF-WUU
+  newParentName: Hälsa & sjukvård
+
+
+- action: MOVE
+  code: RYF-WUU-WXG-YQX
+  name: Djursjukdomar
+  newParentCode: RYF-EOI-DLM-FKB-XGL
+  newParentName: Zoologi
+
+- action: MOVE
+  code: RYF-WUU-WXG-XZJ
+  name: Växtsjukdomar
+  newParentCode: RYF-EOI-DLM-FKB-GQI
+  newParentName: Botanik
+  
+- action: INACTIVATE
+  code: RYF-WUU-WXG
+  name: Icke mänskliga sjukdomar
+  
+- action: UPDATE
+  code: RYF-WUU-JZK
+  name: Sjukdomar & tillstånd
+  newName: Sjukdomar, tillstånd och diagnoser
+  
+
+
+
+
+
+
+- action: MOVE
+  code: RYF-WUU-JZK-DQP-SDZ
+  name: Sharlakansfeber
+  newParentCode: RYF-WUU-JZK
+  newParentName: Sjukdomar, tillstånd och diagnoser # Nytt namn ovan
+
+- action: MOVE
+  code: RYF-WUU-JZK-DQP-SHO
+  name: Krupp
+  newParentCode: RYF-WUU-JZK
+  newParentName: Sjukdomar, tillstånd och diagnoser # Nytt namn ovan
+  
+- action: MOVE
+  code: RYF-WUU-JZK-DQP-ZFO
+  name: Höftledsluxation
+  newParentCode: RYF-WUU-JZK
+  newParentName: Sjukdomar, tillstånd och diagnoser # Nytt namn ovan
+
+- action: INACTIVATE
+  code: RYF-WUU-JZK-DQP
+  name: Barnsjukdomar & åkommor
+  
+  
+  
+- action: MOVE
+  code: RYF-WUU-JZK-SNV
+  name: Hosta
+  newParentCode: RYF-WUU-JZK-TZR
+  newParentName: Luftvägssjukdomar
+  
+  
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+- action: UPDATE
+  code: RYF-WUU-JZK-JUK
+  name: Bett, stick & löss
+  newName: Bett & stick
+
+- action: INACTIVATE
+  code: RYF-WUU-JZK-JUK-AUF
+  name: Insektsbett
+
+
+
+
+
+
+- action: MOVE
+  code: RYF-WUU-JZK-YIA-WNC
+  name: Malignt melanom
+  newParentCode: RYF-WUU-JZK-YIA-WMP
+  newParentName: Hudcancer
+
+
+
+
+
+
+  # TODO: Ändra description
+- action: ADD
+  parentCode: RYF-WUU-JZK
+  parentName: Sjukdomar, tillstånd och diagnoser # Nytt namn ovan
+  name: Ehec
+  description: EHEC (Enterohemorragisk Escherichia coli), är en stam av bakteriearten Escherichia coli som är en bidragande orsak till matförgiftning.
+  level: 3
+
+
+
+  
+  
+- action: UPDATE
+  code: RYF-WUU-JZK-AOD
+  name: Erektil dysfunktion
+  newName: Impotens
+
+
+
+
+- action: ADD
+  parentCode: RYF-WUU-JZK-BBN
+  parentName: Övervikt
+  name: Fetma
+  level: 4
+
+
+
+
+- action: ADD
+  parentCode: RYF-WUU-JZK
+  parentName: Sjukdomar, tillstånd och diagnoser # Nytt namn ovan
+  name: Smittskydd
+  level: 3
+
+
+
+
+
+- action: INACTIVATE
+  code: RYF-WUU-SUX-SFB
+  name: Omsorg
+
+
+
+- action: ADD
+  parentCode: RYF-WUU-SUX-APJ
+  parentName: Specialistvård
+  name: Fysioterapi
+  description: Fysioterapi (även kallat sjukgymnastik) innefattar undersökning och behandling med syfte att bedöma, bota, förebygga eller lindra sjukdomar, främst sådana som manifesterar sig i rörelse- och stödjeorganen det vill säga muskler, leder, skelett och nerver
+  level: 4
+
+
+- action: ADD
+  parentCode: RYF-WUU-SUX-APJ
+  parentName: Specialistvård
+  name: Palliativ vård
+  level: 4
+
+
+
+
+
+- action: UPDATE
+  code: RYF-WUU-SUX-MEF
+  name: Äldreomsorg (Sjukvård)
+  newName: Äldreomsorg
+
+- action: MOVE
+  code: RYF-HPT-ZSS-HAB
+  name: Äldreomsorg
+  newParentCode: RYF-HPT-XRQ
+  newParentName: Välfärd & bidragsfrågor
+
+
+
+
+- action: ADD
+  parentCode: RYF-WUU-BNJ
+  parentName: Vårdinrättningar
+  name: Privata vårdgivare
+  level: 3
+
+- action: ADD
+  parentCode: RYF-WUU-BNJ
+  parentName: Vårdinrättningar
+  name: Hälsocentral
+  description: En vårdcentral kan också kallas husläkarmottagning, familjeläkarmottagning, hälsocentral, hälsovårdscentral eller distriktsläkarmottagning. Det är nästan alltid på vårdcentralen du ska söka vård när du är sjuk eller har något besvär.
+  level: 3
+
+
+
+
+- action: ADD
+  parentCode: RYF-WUU
+  parentName: Hälsa & sjukvård
+  name: Vårdyrken
+  level: 2
+
+
+  
+- action: MOVE
+  code: RYF-WUU-JZK-AOA-JDH
+  name: Mollusker
+  newParentCode: RYF-WUU-JZK-XAW
+  newParentName: Hudsjukdomar
+  
+  
+  
+- action: MOVE
+  code: RYF-WUU-JZK-NKB-OSL
+  name: Solbränna
+  newParentCode: RYF-WUU-JZK-AOA
+  newParentName: Hudutslag & prickar
+  
+- action: MOVE
+  code: RYF-WUU-JZK-NKB-PPX
+  name: Soleksem
+  newParentCode: RYF-WUU-JZK-AOA
+  newParentName: Hudutslag & prickar
+  
+- action: MOVE
+  code: RYF-WUU-JZK-NKB-VUU
+  name: Brännskador
+  newParentCode: RYF-WUU-JZK-AOA
+  newParentName: Hudutslag & prickar
+  
+- action: UPDATE
+  code: RYF-WUU-JZK-AOA
+  name: Hudutslag & prickar
+  newName: Hudutslag
+  
+  
+- action: MOVE
+  code: RYF-WUU-JZK-DRQ
+  name: Träningsvärk
+  newParentCode: RYF-TKT-XHP
+  newParentName: Träning & hälsa
+  
+- action: UPDATE
+  code: RYF-WUU-JZK-TAC
+  name: Funktionsnedsättningar
+  newName: Funktionsvariation
+
+- action: ADD
+  parentCode: RYF-WUU-JZK-TAC
+  parentName: Funktionsnedsättningar # Nytt namn ovan
+  name: Stamning
+  level: 3
+  
+- action: MOVE
+  code: RYF-WUU-JZK-BZQ
+  name: Mens & PMS
+  newParentCode: RYF-TKT-XHP
+  newParentName: Träning & hälsa
+
+- action: MOVE
+  code: RYF-WUU-JZK-YSP-XQT
+  name: Stress
+  newParentCode: RYF-TKT-XHP
+  newParentName: Träning & hälsa
+
+
+  
+
+
+
+
+
+
+
+
+
+
+- action: UPDATE
+  code: RYF-VHD-ZKU
+  name: Bevarande av miljö
+  newName: Miljö
+  description: Med miljö kan menas omgivning eller omgivande förhållanden. Ordet används särskilt när det är fråga om samspelet mellan omgivningen och däri verkande system, djur, växter eller andra organismer. 
+  
+- action: ADD
+  parentCode: RYF-VHD-ZKU
+  parentName: Miljö # nytt namn ovan
+  name: Biologisk mångfald
+  level: 3
+  
+
+
+- action: UPDATE
+  code: RYF-VHD-ZKU-BLX
+  name: Hållbarhetsarbete
+  newName: Hållbarhet
+ 
+ 
+- action: ADD
+  parentCode: RYF-VHD-ZKU-BLX
+  parentName: Hållbarhet # nytt namn ovan
+  name: Matsvinn
+  level: 4
+  
+ 
+- action: ADD
+  parentCode: RYF-VHD-ZKU
+  parentName: Miljö # nytt namn ovan
+  name: Naturvård
+  level: 3
+
+
+- action: ADD
+  parentCode: RYF-VHD-ZKU
+  parentName: Miljö # nytt namn ovan
+  name: Övergödning
+  level: 3
+
+
+
+
+- action: ADD
+  parentCode: RYF-VHD-OAY-DLT
+  parentName: Djur
+  name: Vilda djur
+  level: 4
+
+- action: INACTIVATE
+  code: RYF-VHD-OAY-DLT-XUZ-MGE
+  name: Varg
+  
+- action: INACTIVATE
+  code: RYF-VHD-OAY-DLT-XUZ-TXW
+  name: Kungsörn
+  
+- action: INACTIVATE
+  code: RYF-VHD-OAY-DLT-XUZ-UVR
+  name: Lodjur
+  
+- action: INACTIVATE
+  code: RYF-VHD-OAY-DLT-XUZ-WEH
+  name: Björn
+  
+- action: INACTIVATE
+  code: RYF-VHD-OAY-DLT-XUZ-XOM
+  name: Järv
+
+- action: MOVE
+  code: RYF-VHD-OAY-DLT-XUZ
+  name: Rovdjur
+  newParentCode: RYF-VHD-OAY-DLT-XXXX # Ny ovan
+  newParentName: Vilda djur # Ny ovan
+
+
+
+- action: INACTIVATE
+  code: RYF-VHD-OAY-VCS
+  name: Hotade arter
+
+
+
+- action: ADD
+  parentCode: RYF-VHD-IFE
+  parentName: Föroreningar
+  name: Buller
+  level: 3
+
+
+
+
+- action: UPDATE
+  code: RYF-VHD-GUZ
+  name: Klimatförändringar
+  newName: Klimatförändring
+ 
+- action: ADD
+  parentCode: RYF-VHD-GUZ-SYG
+  parentName: Global uppvärmning
+  name: Klimateffekt
+  level: 4
+
+
+- action: ADD
+  parentCode: RYF-VHD-GUZ-SYG
+  parentName: Global uppvärmning
+  name: Klimatpåverkan
+  level: 4
+  
+- action: ADD
+  parentCode: RYF-VHD-GUZ-SYG
+  parentName: Global uppvärmning
+  name: Växthusgas
+  level: 4
+
+
+
+
+- action: ADD
+  parentCode: RYF-VHD-GUZ
+  parentName: Klimatförändring
+  name: Klimatanpassning
+  level: 3
+  
+- action: ADD
+  parentCode: RYF-VHD-GUZ
+  parentName: Klimatförändring
+  name: Klimatförhandling
+  level: 3
+  
+  
+  
+  
+- action: UPDATE
+  code: RYF-VHD-HXU
+  name: Naturresurser
+  newName: Natur
+  
+  # Inkl barn
+- action: MOVE
+  code: RYF-VHD-HXU-ICY-YMU
+  name: Skog
+  newParentCode: RYF-VHD-HXU
+  newParentName: Natur # Nytt namn ovan
+  
+- action: MOVE
+  code: RYF-VHD-HXU-ICY-HOR
+  name: Berg
+  newParentCode: RYF-VHD-HXU
+  newParentName: Natur # Nytt namn ovan
+  
+- action: ADD
+  parentCode: RYF-VHD-HXU
+  parentName: Natur # Nytt namn ovan
+  name: Naturfenomen
+  level: 3
+
+
+
+
+
+  
+  
+- action: ADD
+  parentCode: RYF-VHD-HXU-GRV
+  parentName: Vatten
+  name: Dricksvatten
+  level: 4
+ 
+- action: UPDATE
+  code: RYF-VHD-HXU-GRV-IGS
+  name: Våtmarker
+  newName: Våtmark
+  
+- action: UPDATE
+  code: RYF-VHD-HXU-GRV-VWZ
+  name: Älvar & åar
+  newName: Älv & å
+  
+  
+  
+- action: ADD
+  parentCode: RYF-VHD-HXU-GRV
+  parentName: Vatten
+  name: Algblomning
+  level: 4
+  
+- action: ADD
+  parentCode: RYF-VHD-HXU-GRV
+  parentName: Vatten
+  name: Sjö
+  level: 4
+
+
+
+
+
+
+
+
+
+
+- action: UPDATE
   code: RYF-WXT-QIC
   name: Krigs- & politiska fångar
   newName: Krigsfångar
