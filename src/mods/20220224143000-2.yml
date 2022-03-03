@@ -1,4 +1,93 @@
 modifications:
+- action: MOVE
+  code: RYF-CUW-GIV-CWF-TOL-LCI
+  name: Ivf-behandling
+  newParentCode: RYF-CUW-GIV-XXXX # ID För Fertilitetsbehandling i 20220224143000-1.yml
+  newParentName: Fertilitetsbehandling
+
+
+
+# Inkl barn men ändringar i 20220224143000-1.yml först
+- action: MOVE
+  code: RYF-CUW-RBU
+  name: Föräldraskap # Nytt namn ovan
+  newParentCode: RYF-CUW-GIV
+  newParentName: Familj # Nytt namn ovan
+
+
+- action: ADD
+  parentCode: RYF-CUW-EHM-XXX # Nytt ID För ensamhet i 20220224143000-1.yml
+  parentName: Ensamhet
+  name: Incel
+  level: 4
+  description: Ofrivilligt celibat är tillståndet hos en vuxen person som inte har någon kärleksrelation eller har haft samlag med någon
+
+
+
+- action: ADD
+  parentCode: RYF-CUW-XXXX # Nytt ID För Hbtqi i 20220224143000-1.yml
+  parentName: Hbtqi # Nytt namn ovan
+  name: Könsidentitet
+  level: 3
+
+
+
+
+
+
+
+
+- action: ADD
+  parentCode: RYF-YDR-XXXX # Id för Val av skola i 20220224143000-1.yml
+  parentName: Val av skola # Ny post ovan
+  name: Skolkö
+  level: 3
+
+- action: ADD
+  parentCode: RYF-YDR-XXXX # Id för Val av skola i 20220224143000-1.yml
+  parentName: Val av skola # Ny post ovan
+  name: Skolpeng
+  level: 3
+
+
+- action: ADD
+  parentCode: RYF-YDR-XXXX # ID för skollov i 20220224143000-1.yml
+  parentName: Skollov # Ny post ovan
+  name: Jullov
+  level: 3
+
+- action: ADD
+  parentCode: RYF-YDR-XXXX # ID för skollov i 20220224143000-1.yml
+  parentName: Skollov # Ny post ovan
+  name: Läslov
+  level: 3
+
+- action: ADD
+  parentCode: RYF-YDR-XXXX # ID för skollov i 20220224143000-1.yml
+  parentName: Skollov # Ny post ovan
+  name: Påsklov
+  level: 3
+
+- action: ADD
+  parentCode: RYF-YDR-XXXX # ID för skollov i 20220224143000-1.yml
+  parentName: Skollov # Ny post ovan
+  name: Sommarlov
+  level: 3
+
+- action: ADD
+  parentCode: RYF-YDR-XXXX # ID för skollov i 20220224143000-1.yml
+  parentName: Skollov # Ny post ovan
+  name: Sportlov
+  level: 3
+
+
+
+
+
+
+
+
+
 
 
 # OBS Move i 20220224143000-1.yml först
