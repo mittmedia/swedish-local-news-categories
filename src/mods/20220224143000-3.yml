@@ -1,24 +1,11 @@
 modifications:
 - action: ADD
-  parentCode: RYF-XXXX-XXXX # ID för kungligt ovan och ID för Regale i 20220224143000-1.yml och  i 20220224143000-2.yml
-  parentName: Kungligt
+  parentCode: RYF-VOS-UYS # ID för kungligt ovan och ID för Regale i 20220224143000-1.yml och  i 20220224143000-2.yml
+  parentName: Regale
   name: Riksregalier
   description: Riksregalier är olika typer av symboler och tecken som används för att utmärka en bärares rang, ämbete eller funktion
   level: 3
   
-
-- action: MOVE
-  code: RYF-WXT-ABT-QYW
-  name: Biologiska vapen
-  newParentCode: RYF-WXT-XXXX-XXXX # ID för Militär utrustning och Militära vapen i 20220224143000-1.yml och  i 20220224143000-2.yml
-  newParentName: Militära vapen
-  
-- action: ADD
-  parentCode: RYF-WXT-XXXX-XXXX # ID för Militär utrustning och Militära vapen i 20220224143000-1.yml och  i 20220224143000-2.yml
-  parentName: Militära vapen
-  name: Kärnvapen
-  level: 4
-
 
 # Inkl barn. OBS! Move i 20220224143000-1.yml och  i 20220224143000-2.yml först
 - action: MOVE
@@ -29,14 +16,14 @@ modifications:
 
 
 - action: ADD
-  parentCode: RYF-HPT-XXXX-XXXX # ID för Socialt och Droger i 20220224143000-1.yml och  i 20220224143000-2.yml
+  parentCode: RYF-HPT-AOD-EMI # ID för Socialt och Droger i 20220224143000-1.yml och  i 20220224143000-2.yml
   parentName: Droger # Ny post ovan
   name: Narkotika
   level: 4
 
 
 - action: ADD
-  parentCode: RYF-HPT-XXXX-XXXX # ID för Socialt och Kriminalitet i 20220224143000-1.yml och  i 20220224143000-2.yml
+  parentCode: RYF-HPT-AOD-QIB # ID för Socialt och Kriminalitet i 20220224143000-1.yml och  i 20220224143000-2.yml
   parentName: Kriminalitet # Ny post ovan
   name: Vapen
   level: 4
@@ -54,3 +41,8 @@ modifications:
 - action: INACTIVATE
   code: RYF-KNI-EPV
   name: Politiska processen
+
+# OBS! Ovanstående ändringar först
+- action: INACTIVATE
+  code: RYF-KNI-XNS
+  name: Politiska frågor

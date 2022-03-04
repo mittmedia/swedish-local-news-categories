@@ -1087,6 +1087,7 @@ categories:
   replaces: RYF-HPT-PFF-YBM
   status: ACTIVE
 - code: RYF-CUW-BKQ-HXD
+  description: ''
   level: 3
   name: Könsidentitet
   status: ACTIVE
@@ -1183,6 +1184,7 @@ categories:
   replaces: RYF-CUW-DNF-CXI
   status: ACTIVE
 - code: RYF-CUW-EHM-LBG-TRS
+  description: ''
   level: 4
   name: Incel
   status: ACTIVE
@@ -2020,6 +2022,7 @@ categories:
   name: Medicin
   status: ACTIVE
 - code: RYF-EOI-DLM-CRG-RNM
+  description: ''
   level: 4
   name: Socialmedicin
   status: ACTIVE
@@ -2040,6 +2043,7 @@ categories:
   name: Rymden
   status: ACTIVE
 - code: RYF-EOI-DLM-DAF-NMI-TWX
+  description: ''
   level: 5
   name: Ufo
   status: ACTIVE
@@ -2075,10 +2079,12 @@ categories:
   name: Människan
   status: ACTIVE
 - code: RYF-EOI-DLM-FKB-MJF-KOV
+  description: ''
   level: 5
   name: Människans utveckling
   status: ACTIVE
 - code: RYF-EOI-DLM-FKB-MJF-ZMV
+  description: ''
   level: 5
   name: Hjärnan
   status: ACTIVE
@@ -2385,8 +2391,14 @@ categories:
   replaces: RYF-HPT-TPU-WBO
   status: ACTIVE
 - code: RYF-HPT-AOD-EMI
+  description: ''
   level: 3
   name: Droger
+  status: ACTIVE
+- code: RYF-HPT-AOD-EMI-GDQ
+  description: ''
+  level: 4
+  name: Narkotika
   status: ACTIVE
 - code: RYF-HPT-AOD-FNA
   description: ''
@@ -2413,10 +2425,17 @@ categories:
   replaces: RYF-HPT-TPU-XFH
   status: ACTIVE
 - code: RYF-HPT-AOD-QIB
+  description: ''
   level: 3
   name: Kriminalitet
   status: ACTIVE
+- code: RYF-HPT-AOD-QIB-LIB
+  description: ''
+  level: 4
+  name: Vapen
+  status: ACTIVE
 - code: RYF-HPT-AOD-REJ
+  description: ''
   level: 3
   name: Segregation
   status: ACTIVE
@@ -2426,6 +2445,7 @@ categories:
   name: Internationellt bistånd
   status: ACTIVE
 - code: RYF-HPT-CQJ-WXW
+  description: ''
   level: 3
   name: Biståndsarbete
   status: ACTIVE
@@ -2450,22 +2470,27 @@ categories:
   name: Energislag
   status: ACTIVE
 - code: RYF-HPT-KCW-BLP
+  description: ''
   level: 3
   name: Vågkraft
   status: ACTIVE
 - code: RYF-HPT-KCW-COQ
+  description: ''
   level: 3
   name: Vattenkraft
   status: ACTIVE
 - code: RYF-HPT-KCW-HGD
+  description: ''
   level: 3
   name: Kärnkraft
   status: ACTIVE
 - code: RYF-HPT-KCW-HZQ
+  description: ''
   level: 3
   name: Biobränsle
   status: ACTIVE
 - code: RYF-HPT-KCW-KNX
+  description: ''
   level: 3
   name: Naturgas
   status: ACTIVE
@@ -2476,30 +2501,37 @@ categories:
   replaces: RYF-VHD-ZKU-IYS
   status: ACTIVE
 - code: RYF-HPT-KCW-MFI
+  description: ''
   level: 3
   name: Kolkraft
   status: ACTIVE
 - code: RYF-HPT-KCW-QPQ
+  description: ''
   level: 3
   name: Vindkraft
   status: ACTIVE
 - code: RYF-HPT-KCW-SMC
+  description: ''
   level: 3
   name: Brännolja
   status: ACTIVE
 - code: RYF-HPT-KCW-TML
+  description: ''
   level: 3
   name: Energieffektivisering
   status: ACTIVE
 - code: RYF-HPT-KCW-UJC
+  description: ''
   level: 3
   name: Fjärrvärme
   status: ACTIVE
 - code: RYF-HPT-KCW-VEW
+  description: ''
   level: 3
   name: Geotermisk energi
   status: ACTIVE
 - code: RYF-HPT-KCW-WKX
+  description: ''
   level: 3
   name: Solenergi
   status: ACTIVE
@@ -5727,6 +5759,7 @@ categories:
   name: Export
   status: ACTIVE
 - code: RYF-IXA-QED-GEE-NFO
+  description: ''
   level: 4
   name: Vapenexport
   status: ACTIVE
@@ -6024,7 +6057,7 @@ categories:
   level: 2
   name: Politiska processen
   replaces: RYF-KNI-OHT
-  status: ACTIVE
+  status: INACTIVE
 - code: RYF-KNI-EPV-ACB
   description: ''
   level: 3
@@ -6074,6 +6107,12 @@ categories:
   level: 2
   name: Bostadspolitik
   replaces: RYF-KNI-XNS-SWE-ROA
+  status: ACTIVE
+- code: RYF-KNI-FVL
+  description: ''
+  level: 2
+  name: Sjukvårdspolitik
+  replaces: RYF-KNI-XNS-KVO
   status: ACTIVE
 - code: RYF-KNI-FZH
   description: Till exempel anslag till kulturella föreningar och sällskap
@@ -6304,6 +6343,24 @@ categories:
   description: ''
   level: 2
   name: Digitaliseringspolitik
+  status: ACTIVE
+- code: RYF-KNI-PAE
+  description: ''
+  level: 2
+  name: Ekonomisk politik
+  replaces: RYF-KNI-XNS-WZY
+  status: ACTIVE
+- code: RYF-KNI-PAE-FGD
+  description: ''
+  level: 3
+  name: Statligt ägda företag
+  replaces: RYF-KNI-XNS-WZY-FGD
+  status: ACTIVE
+- code: RYF-KNI-PAE-NMW
+  description: Statens övertagande av privata företag eller tillgångar, som till exempel fastigheter
+  level: 3
+  name: Förstatligande
+  replaces: RYF-KNI-XNS-WZY-NMW
   status: ACTIVE
 - code: RYF-KNI-PXN
   description: Till exempel anslag till vägar, internetanslutning eller elnät
@@ -6643,10 +6700,12 @@ categories:
   replaces: RYF-KNI-EPV-PIO-PNL
   status: ACTIVE
 - code: RYF-KNI-UES-KMU
+  description: ''
   level: 3
   name: Republik
   status: ACTIVE
 - code: RYF-KNI-UES-OIR
+  description: ''
   level: 3
   name: Monarki
   status: ACTIVE
@@ -6726,7 +6785,7 @@ categories:
   description: ''
   level: 2
   name: Politiska frågor
-  status: ACTIVE
+  status: INACTIVE
 - code: RYF-KNI-XNS-CFE
   description: Till exempel anslag till vägar, internetanslutning eller elnät
   level: 3
@@ -6819,7 +6878,8 @@ categories:
   description: ''
   level: 3
   name: Sjukvårdspolitik
-  status: ACTIVE
+  replacedBy: RYF-KNI-FVL
+  status: INACTIVE
 - code: RYF-KNI-XNS-KVO-MPS
   description: Skydd som täcker utgifterna för en person som är för sjuk för att arbeta
   level: 4
@@ -6956,17 +7016,20 @@ categories:
   description: ''
   level: 3
   name: Ekonomisk politik
-  status: ACTIVE
+  replacedBy: RYF-KNI-PAE
+  status: INACTIVE
 - code: RYF-KNI-XNS-WZY-FGD
   description: ''
   level: 4
   name: Statligt ägda företag
-  status: ACTIVE
+  replacedBy: RYF-KNI-PAE-FGD
+  status: INACTIVE
 - code: RYF-KNI-XNS-WZY-NMW
   description: Statens övertagande av privata företag eller tillgångar, som till exempel fastigheter
   level: 4
   name: Förstatligande
-  status: ACTIVE
+  replacedBy: RYF-KNI-PAE-NMW
+  status: INACTIVE
 - code: RYF-KNI-XNS-WZY-SEB
   description: ''
   level: 4
@@ -12371,6 +12434,7 @@ categories:
   replaces: RYF-TKT-AGB-NVR-AIR
   status: INACTIVE
 - code: RYF-TKT-AGB-IAV-SDP-GBL
+  description: ''
   level: 5
   name: Badrumsrenovering
   status: ACTIVE
@@ -15770,14 +15834,17 @@ categories:
   name: Växthusgas
   status: ACTIVE
 - code: RYF-VHD-GUZ-SYG-LCS-BDT
+  description: ''
   level: 5
   name: Lustgasutsläpp
   status: ACTIVE
 - code: RYF-VHD-GUZ-SYG-LCS-ITS
+  description: ''
   level: 5
   name: Metangasutsläpp
   status: ACTIVE
 - code: RYF-VHD-GUZ-SYG-LCS-VYJ
+  description: ''
   level: 5
   name: Koldioxidutsläpp
   status: ACTIVE
@@ -15792,22 +15859,27 @@ categories:
   name: Klimateffekt
   status: ACTIVE
 - code: RYF-VHD-GUZ-SYG-ZTO-HTA
+  description: ''
   level: 5
   name: Havsnivåhöjning
   status: ACTIVE
 - code: RYF-VHD-GUZ-SYG-ZTO-KYC
+  description: ''
   level: 5
   name: Issmältning
   status: ACTIVE
 - code: RYF-VHD-GUZ-SYG-ZTO-LRS
+  description: ''
   level: 5
   name: Glaciärsmältning
   status: ACTIVE
 - code: RYF-VHD-GUZ-SYG-ZTO-OST
+  description: ''
   level: 5
   name: Extremväder
   status: ACTIVE
 - code: RYF-VHD-GUZ-SYG-ZTO-PIS
+  description: ''
   level: 5
   name: Minskad havsis
   status: ACTIVE
@@ -15925,6 +15997,7 @@ categories:
   name: Naturfenomen
   status: ACTIVE
 - code: RYF-VHD-HXU-UUZ-RUR
+  description: ''
   level: 4
   name: Norrsken
   status: ACTIVE
@@ -16127,50 +16200,67 @@ categories:
   name: Kungligt
   status: ACTIVE
 - code: RYF-VOS-CWQ
+  description: ''
   level: 2
   name: Ordnar och medaljer
   status: ACTIVE
 - code: RYF-VOS-GVN
+  description: ''
   level: 2
   name: Rojalism
   status: ACTIVE
 - code: RYF-VOS-IFU
+  description: ''
   level: 2
   name: Konungadöme
   status: ACTIVE
 - code: RYF-VOS-ISG
+  description: ''
   level: 2
   name: Emirat
   status: ACTIVE
 - code: RYF-VOS-MEV
+  description: ''
   level: 2
   name: Tronföljd
   status: ACTIVE
 - code: RYF-VOS-NGD
+  description: ''
   level: 2
   name: Furstendöme
   status: ACTIVE
 - code: RYF-VOS-NXM
+  description: ''
   level: 2
   name: Sultanat
   status: ACTIVE
 - code: RYF-VOS-PBP
+  description: ''
   level: 2
   name: Konselj
   status: ACTIVE
 - code: RYF-VOS-TMX
+  description: ''
   level: 2
   name: Kejsardöme
   status: ACTIVE
 - code: RYF-VOS-TXX
+  description: ''
   level: 2
   name: Monark
   status: ACTIVE
 - code: RYF-VOS-UYS
+  description: ''
   level: 2
   name: Regale
   status: ACTIVE
+- code: RYF-VOS-UYS-STY
+  description: ''
+  level: 3
+  name: Riksregalier
+  status: ACTIVE
 - code: RYF-VOS-XDR
+  description: ''
   level: 2
   name: Kröning
   status: ACTIVE
@@ -16190,10 +16280,12 @@ categories:
   name: Vind
   status: ACTIVE
 - code: RYF-WHZ-EZN-RNN
+  description: ''
   level: 3
   name: Storm
   status: ACTIVE
 - code: RYF-WHZ-EZN-RTP
+  description: ''
   level: 3
   name: Orkan
   status: ACTIVE
@@ -17172,14 +17264,17 @@ categories:
   name: Vårdyrken
   status: ACTIVE
 - code: RYF-WUU-SKS-ESX
+  description: ''
   level: 3
   name: Sjuksköterska
   status: ACTIVE
 - code: RYF-WUU-SKS-LJA
+  description: ''
   level: 3
   name: Undersköterska
   status: ACTIVE
 - code: RYF-WUU-SKS-TBY
+  description: ''
   level: 3
   name: Läkare
   status: ACTIVE
@@ -17432,7 +17527,8 @@ categories:
   description: Vapen som baseras på levande organismer. Ofta varianter av sjukdomar som mjältbrand eller smittkoppor. Biologiska vapen räknas som massförstörelsevapen
   level: 3
   name: Biologiska vapen
-  status: ACTIVE
+  replacedBy: RYF-WXT-YLS-TZD-TBO
+  status: INACTIVE
 - code: RYF-WXT-AOH
   description: Störtandet av en etablerad regering genom en organiserad grupp, ofta militären eller ett politiskt parti
   level: 2
@@ -17654,14 +17750,17 @@ categories:
   name: Försvar
   status: ACTIVE
 - code: RYF-WXT-XYT-ABA
+  description: ''
   level: 3
   name: Militär utbildning
   status: ACTIVE
 - code: RYF-WXT-XYT-GCD
+  description: ''
   level: 3
   name: Säkerhet
   status: ACTIVE
 - code: RYF-WXT-XYT-XUB
+  description: ''
   level: 3
   name: Militärtjänst
   status: ACTIVE
@@ -17674,6 +17773,21 @@ categories:
   description: ''
   level: 2
   name: Militär utrustning
+  status: ACTIVE
+- code: RYF-WXT-YLS-TZD
+  description: ''
+  level: 3
+  name: Militära vapen
+  status: ACTIVE
+- code: RYF-WXT-YLS-TZD-GCJ
+  level: 4
+  name: Kärnvapen
+  status: ACTIVE
+- code: RYF-WXT-YLS-TZD-TBO
+  description: Vapen som baseras på levande organismer. Ofta varianter av sjukdomar som mjältbrand eller smittkoppor. Biologiska vapen räknas som massförstörelsevapen
+  level: 4
+  name: Biologiska vapen
+  replaces: RYF-WXT-ABT-QYW
   status: ACTIVE
 - code: RYF-XKI
   description: ''
@@ -18061,6 +18175,7 @@ categories:
   name: Gatukonst
   status: ACTIVE
 - code: RYF-XKI-CUP-NCO-KZJ-YVF
+  description: ''
   level: 5
   name: Graffiti
   status: ACTIVE
@@ -18494,6 +18609,7 @@ categories:
   name: Bio
   status: ACTIVE
 - code: RYF-XKI-CUP-XBM-BXZ-AMC
+  description: ''
   level: 5
   name: Biopremiär
   status: ACTIVE
@@ -19590,22 +19706,27 @@ categories:
   name: Skollov
   status: ACTIVE
 - code: RYF-YDR-CRS-HCS
+  description: ''
   level: 3
   name: Jullov
   status: ACTIVE
 - code: RYF-YDR-CRS-JHH
+  description: ''
   level: 3
   name: Sportlov
   status: ACTIVE
 - code: RYF-YDR-CRS-KLL
+  description: ''
   level: 3
   name: Påsklov
   status: ACTIVE
 - code: RYF-YDR-CRS-VOT
+  description: ''
   level: 3
   name: Sommarlov
   status: ACTIVE
 - code: RYF-YDR-CRS-XZL
+  description: ''
   level: 3
   name: Läslov
   status: ACTIVE
@@ -19805,10 +19926,12 @@ categories:
   name: Val av skola
   status: ACTIVE
 - code: RYF-YDR-UZP-JHH
+  description: ''
   level: 3
   name: Skolpeng
   status: ACTIVE
 - code: RYF-YDR-UZP-MLH
+  description: ''
   level: 3
   name: Skolkö
   status: ACTIVE
@@ -20022,6 +20145,7 @@ categories:
   replaces: RYF-ZEI-ICY
   status: ACTIVE
 - code: RYF-ZEI-CZS-QQK-VPX
+  description: ''
   level: 4
   name: Sjukpenning
   status: ACTIVE
