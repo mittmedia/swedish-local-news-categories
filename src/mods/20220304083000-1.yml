@@ -1,0 +1,216 @@
+modifications:
+- action: ADD
+  parentCode: RYF-ZEI-CZS-XXXX # Nytt id för sjukskrivning i 20220224143000-1.yml
+  parentName: Sjukskrivning
+  name: Karensavdrag
+  level: 4
+
+- action: ADD
+  parentCode: RYF-BIZ-WZJ-RPI-XPC
+  parentName: Skattebrott
+  name: Svartjobb
+  level: 5
+
+- action: ADD
+  parentCode: RYF-IXA-CVI-MAB
+  parentName: Aktier
+  name: Insynshandel
+  level: 4
+
+- action: ADD
+  parentCode: RYF-IXA-KEV
+  parentName: Näringsliv
+  name: Försäljning
+  level: 3
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-TOY-XXXX # ID på Fastighetsaffär i 20220224143000-1.yml
+  parentName: Fastighetsaffär # Nytt namn i 20220224143000-1.yml
+  name: Tomträtt
+  level: 5
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-TOY-XXXX # ID på Fastighetsaffär i 20220224143000-1.yml
+  parentName: Fastighetsaffär # Nytt namn  i 20220224143000-1.yml
+  name: Tomträttsavgäld
+  level: 5
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-TOY
+  parentName: Fastighet # Nytt namn i 20220224143000-1.yml
+  name: Fastighetsmäklare
+  level: 4
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-TOY
+  parentName: Fastighet # Nytt namn i 20220224143000-1.yml
+  name: Fastighetsvärdering
+  level: 4
+
+- action: UPDATE
+  code: RYF-IXA-KEV-TOY-CSZ
+  name: Fastighetsuthyrning
+  newName: Uthyrning
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-TOY
+  parentName: Fastighet # Nytt namn i 20220224143000-1.yml
+  name: Industri
+  level: 4
+  
+- action: ADD
+  parentCode: RYF-IXA-KEV-TOY
+  parentName: Fastighet # Nytt namn i 20220224143000-1.yml
+  name: Lager
+  level: 4
+  
+- action: ADD
+  parentCode: RYF-IXA-KEV-TOY
+  parentName: Fastighet # Nytt namn i 20220224143000-1.yml
+  name: Samhällsfastighet
+  level: 4
+
+- action: UPDATE
+  code: RYF-IXA-KEV-IRW
+  name: Byggnadsbranschen
+  newName: Byggnation
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-IRW
+  parentName: Byggnation # Nytt namn ovan
+  name: Anläggning
+  level: 4
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-IRW
+  parentName: Byggnation # Nytt namn ovan
+  name: Byggfusk
+  level: 4
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-IRW
+  parentName: Byggnation # Nytt namn ovan
+  name: Byggprojekt
+  level: 4
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-IRW
+  parentName: Byggnation # Nytt namn ovan
+  name: Byggregler
+  level: 4
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-IRW
+  parentName: Byggnation # Nytt namn ovan
+  name: Industriellt byggande
+  level: 4
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-IRW
+  parentName: Byggnation # Nytt namn ovan
+  name: Plan- & bygglagen, PBL
+  level: 4
+
+- action: ADD
+  parentCode: RYF-IXA-KEV
+  parentName: Näringsliv
+  name: Inköp
+  level: 3
+
+- action: ADD
+  parentCode: RYF-IXA-KEV
+  parentName: Näringsliv
+  name: Kontrakt & avtal
+  level: 3
+
+- action: ADD
+  parentCode: RYF-IXA-KEV
+  parentName: Näringsliv
+  name: Monopol
+  level: 3
+
+- action: UPDATE
+  code: RYF-IXA-QED-LBK
+  name: Upphandlingar
+  newName: Upphandling
+
+- action: MOVE
+  code: RYF-IXA-QED-LBK
+  name: Upphandling # Nytt namn ovan
+  newParentCode: RYF-IXA-KEV
+  newParentName: Näringsliv
+
+- action: ADD
+  parentCode: RYF-IXA-AOE
+  parentName: Privatekonomi
+  name: Hyresförhandling
+  level: 3
+
+- action: MOVE
+  code: RYF-WXT-XXXX-XXXX # ID för Militär utrustning i 20220224143000-1.yml 
+  name: Militära vapen # Nytt namn i 20220224143000-1.yml 
+  newParentCode: RYF-WXT
+  newParentName: Konflikter & krig # Nytt namn i 20220224143000-1.yml 
+
+- action: ADD
+  parentCode: RYF-XKI-CUP-NCO
+  parentName: Konst # Nytt namn från 20220224143000-1.yml 
+  name: Non-fungible token, NTF
+  level: 4
+
+- action: ADD
+  parentCode: RYF-XRZ
+  parentName: Trafik, kommunikation & fordon
+  name: Motor
+  level: 2
+
+- action: INACTIVATE
+  code: RYF-AKM-QGJ-PIH
+  name: Byggnadsolycka
+
+- action: ADD
+  parentCode: RYF-HPT
+  parentName: Samhälle
+  name: Hatbrott
+  level: 2
+
+- action: ADD
+  parentCode: RYF-HPT
+  parentName: Samhälle
+  name: Egendom
+  level: 2
+
+- action: ADD
+  parentCode: RYF-HPT-ZSS-HAB
+  parentName: Stadsmiljö
+  name: Stadsplanering
+  level: 4
+
+- action: ADD
+  parentCode: RYF-HPT-ZSS-WTL
+  parentName: Samhällsplanering
+  name: Exploatering
+  level: 4
+
+- action: ADD
+  parentCode: RYF-HPT-ZSS-WTL
+  parentName: Samhällsplanering
+  name: Markanvisning
+  level: 4
+
+- action: ADD
+  parentCode: RYF-HPT
+  parentName: Samhälle
+  name: Social hållbarhet
+  level: 2
+
+- action: ADD
+  parentCode: RYF-EOI-GLR
+  parentName: Samhällsvetenskaper
+  name: Kriminologi
+  level: 3
+
+
+
+
+

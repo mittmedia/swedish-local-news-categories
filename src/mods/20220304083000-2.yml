@@ -1,0 +1,71 @@
+modifications:
+- action: ADD
+  parentCode: RYF-IXA-KEV-TOY-XXXX # ID för Samhällsfastighet i 20220304083000-1.yml
+  parentName: Samhällsfastighet # Nytt namn i 20220304083000-1.yml
+  name: Anpassad bostad
+  level: 5
+
+- action: UPDATE
+  code: RYF-QPR-ICL
+  name: Sportarenor
+  newName: Arena & sporthall
+
+- action: MOVE
+  code: RYF-IXA-LSL
+  name: Arena & sporthall # Nytt namn ovan
+  newParentCode: RYF-IXA-KEV-TOY-XXXX # ID för Samhällsfastighet i 20220304083000-1.yml
+  newParentName: Samhällsfastighet # Nytt namn i 20220304083000-1.yml
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-TOY-XXXX # ID för Samhällsfastighet i 20220304083000-1.yml
+  parentName: Samhällsfastighet # Nytt namn i 20220304083000-1.yml
+  name: Myndighetsbyggnad
+  level: 5
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-TOY-XXXX # ID för Samhällsfastighet i 20220304083000-1.yml
+  parentName: Samhällsfastighet # Nytt namn i 20220304083000-1.yml
+  name: Omsorgsfastighet
+  level: 5
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-TOY-XXXX # ID för Samhällsfastighet i 20220304083000-1.yml
+  parentName: Samhällsfastighet # Nytt namn i 20220304083000-1.yml
+  name: Simhall
+  level: 5
+
+- action: MOVE
+  code: RYF-HPT-ZSS-XXXX # Nytt id i 20220224143000-1.yml
+  name: Offentlig upphandling # Nytt namn i 20220224143000-1.yml
+  newParentCode: RYF-IXA-KEV-XXXX # Nytt ID i 20220304083000-1.yml
+  newParentName: Upphandling # Ny post i 20220304083000-1.yml
+
+- action: UPDATE
+  code: RYF-WXT-XXXX # ID för Militära vapen i 20220304083000-1.yml
+  name: Militära vapen
+  newName: Vapen
+
+- action: ADD
+  parentCode: RYF-HPT-XXXX # ID för Hatbrott i 20220304083000-1.yml 
+  parentName: Hatbrott
+  name: Antisemitism
+  level: 3
+
+- action: MOVE
+  code: RYF-HPT-XAO-GAX-XXXX # Nytt id i 20220224143000-1.yml
+  name: Islamofobi # Nytt namn i 20220224143000-1.yml
+  newParentCode: RYF-HPT-XXXX # ID för Hatbrott i 20220304083000-1.yml 
+  newParentName: Hatbrott # Ny post ovan
+
+- action: ADD
+  parentCode: RYF-HPT-XXXX # ID för Egendom i 20220304083000-1.yml 
+  parentName: Egendom
+  name: Äganderätt
+  level: 3
+
+- action: MOVE
+  code: RYF-HPT-XXXX # Nytt id i 20220224143000-1.yml 
+  name: Lotteri, bingo och turspel # Nytt namn i 20220224143000-1.yml 
+  newParentCode: RYF-TKT-HFD
+  newParentName: Hobby
+
