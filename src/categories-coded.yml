@@ -4506,7 +4506,7 @@ categories:
   level: 3
   name: Lobbyverksamhet
   replaces: RYF-IXA-LSL
-  status: ACTIVE
+  status: INACTIVE
 - code: RYF-IXA-KEV-MQY
   description: Tillverkning av alkoholdrycker
   level: 3
@@ -17818,6 +17818,7 @@ categories:
   name: Militära vapen
   status: ACTIVE
 - code: RYF-WXT-YLS-TZD-GCJ
+  description: ''
   level: 4
   name: Kärnvapen
   status: ACTIVE
