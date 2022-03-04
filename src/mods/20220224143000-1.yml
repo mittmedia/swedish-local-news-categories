@@ -2200,10 +2200,6 @@ modifications:
     name: Reseskildring
     level: 3
 
-  - action: INACTIVATE
-    code: RYF-TKT-OUV-CFU
-    name: Boende på resmål
-
   - action: ADD
     parentCode: RYF-TKT-OUV
     parentName: Resa
@@ -2611,12 +2607,6 @@ modifications:
     code: RYF-IXA-KEV-RQL-WBC
     name: Internethandel & postorder
     newName: E-handel
-
-  - action: MOVE
-    code: RYF-IXA-LSL
-    name: Lobbyverksamhet
-    newParentCode: RYF-IXA-KEV
-    newParentName: Näringsliv
 
   - action: ADD
     parentCode: RYF-IXA-KEV
