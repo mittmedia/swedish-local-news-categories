@@ -798,12 +798,6 @@ modifications:
   - action: ADD
     parentCode: RYF-XKI-CUP-XBM
     parentName: Film
-    name: Bio
-    level: 4
-
-  - action: ADD
-    parentCode: RYF-XKI-CUP-XBM
-    parentName: Film
     name: Skådespelare
     level: 4
 
@@ -4141,6 +4135,18 @@ modifications:
     name: Yrkeskriminella
     newParentCode: RYF-BIZ-WZJ
     newParentName: Brottslighet
+  
+  - action: MOVE
+    code: RYF-HPT-THK-RYE
+    name: Missbruk
+    newParentCode: RYF-HPT-XRQ-FPB
+    newParentName: Socialtjänst
+
+  - action: MOVE
+    code: RYF-HPT-THK-OIW
+    name: Prostitution
+    newParentCode: RYF-HPT-XRQ-FPB
+    newParentName: Socialtjänst
 
   - action: INACTIVATE
     code: RYF-HPT-THK

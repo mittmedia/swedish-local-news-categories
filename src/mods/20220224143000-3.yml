@@ -49,8 +49,18 @@ modifications:
   newParentCode: RYF-KNI
   newParentName: Politik
 
-
 # OBS! Ovanstående ändringar innan
 - action: INACTIVATE
   code: RYF-KNI-EPV
   name: Politiska processen
+
+# OBS! Ovanstående ändringar först
+- action: INACTIVATE
+  code: RYF-KNI-XNS
+  name: Politiska frågor
+
+- action: ADD
+  parentCode: RYF-WXT-YLS # ID för Militär utrustning i 20220224143000-1.yml 
+  parentName: Militär utrustning
+  name: Militära vapen
+  level: 3

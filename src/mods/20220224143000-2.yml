@@ -75,7 +75,7 @@ modifications:
   parentCode: RYF-XXXX # ID för kungligt i 20220224143000-1.yml 
   parentName: Kungligt
   name: Ordnar och medaljer
-  description: Orden: En orden är en civil eller militär utmärkelse som bärs offentligt och har stadgar och en "organisation med mästare och kapitel". Medalj: Bland de svenska belöningsmedaljer som utdelas av monarken ingår bland annat ordensmedaljer och tapperhetsmedaljer
+  description: En orden är en civil eller militär utmärkelse som bärs offentligt och har stadgar och en "organisation med mästare och kapitel". Bland de svenska belöningsmedaljer som utdelas av monarken ingår bland annat ordensmedaljer och tapperhetsmedaljer
   level: 2
 
 - action: ADD
@@ -192,14 +192,6 @@ modifications:
   code: RYF-VHD-HXU-OEC
   name: Energiresurser
 
-
-- action: ADD
-  parentCode: RYF-WXT-XXXX # ID för Militär utrustning i 20220224143000-1.yml 
-  parentName: Militär utrustning
-  name: Militära vapen
-  level: 3
-
-
 - action: ADD
   parentCode: RYF-WXT-XXXX # ID för Försvar ovan i 20220224143000-1.yml 
   parentName: Försvar # ny post ovan
@@ -300,7 +292,7 @@ modifications:
 
 - action: MOVE
   code: RYF-CUW-GIV-CWF-TOL-LCI
-  name: Ivf-behandling
+  name: IVF-behandling
   newParentCode: RYF-CUW-GIV-XXXX # ID För Fertilitetsbehandling i 20220224143000-1.yml
   newParentName: Fertilitetsbehandling
 
@@ -404,13 +396,6 @@ modifications:
   name: Socialförsäkringspolitik # Nytt namn ovan
   newParentCode: RYF-KNI
   newParentName: Politik
-
-
-# OBS! Ovanstående ändringar först
-- action: INACTIVATE
-  code: RYF-KNI-XNS
-  name: Politiska frågor
-
 
 - action: MOVE
   code: RYF-KNI-EPV-PIO-PCQ
@@ -531,19 +516,6 @@ modifications:
 - action: INACTIVATE
   code: RYF-HPT-ZSS
   name: Samhällen
-
-- action: MOVE
-  code: RYF-HPT-THK-RYE
-  name: Missbruk
-  newParentCode: RYF-HPT-XXXX # ID för Socialt i 20220224143000-1.yml
-  newParentName: Socialt # Ny post ovan
-
-- action: MOVE
-  code: RYF-HPT-THK-OIW
-  name: Prostitution
-  newParentCode: RYF-HPT-XXXX # ID för Socialt i 20220224143000-1.yml
-  newParentName: Socialt # Ny post ovan
-
 
 - action: MOVE
   code: RYF-HPT-TPU-WBO
