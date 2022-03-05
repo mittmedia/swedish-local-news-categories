@@ -521,41 +521,41 @@ modifications:
   code: RYF-HPT-TPU-WBO
   name: Fattigdom
   newParentCode: RYF-HPT-XXXX # ID för Socialt i 20220224143000-1.yml
-  newParentName: Socialt # Ny post ovan
+  newParentName: Sociala problem # Ny post ovan
 
 - action: MOVE
   code: RYF-HPT-TPU-ECJ
   name: Hemlöshet
   newParentCode: RYF-HPT-XXXX # ID för Socialt i 20220224143000-1.yml
-  newParentName: Socialt # Ny post ovan
+  newParentName: Sociala problem # Ny post ovan
 
 - action: MOVE
   code: RYF-HPT-TPU-PQN
   name: Tiggeri
   newParentCode: RYF-HPT-XXXX # ID för Socialt i 20220224143000-1.yml
-  newParentName: Socialt # Ny post ovan
+  newParentName: Sociala problem # Ny post ovan
   
 - action: MOVE
   code: RYF-HPT-TPU-XFH
   name: Utanförskap
   newParentCode: RYF-HPT-XXXX # ID för Socialt i 20220224143000-1.yml
-  newParentName: Socialt # Ny post ovan
+  newParentName: Sociala problem # Ny post ovan
 
 - action: ADD
   parentCode: RYF-HPT-XXXX # ID för Socialt i 20220224143000-1.yml
-  parentName: Socialt # Ny post ovan
+  parentName: Sociala problem # Ny post ovan
   name: Droger
   level: 3
 
 - action: ADD
   parentCode: RYF-HPT-XXXX # ID för Socialt i 20220224143000-1.yml
-  parentName: Socialt # Ny post ovan
+  parentName: Sociala problem # Ny post ovan
   name: Kriminalitet
   level: 3
 
 - action: ADD
   parentCode: RYF-HPT-XXXX # ID för Socialt i 20220224143000-1.yml
-  parentName: Socialt # Ny post ovan
+  parentName: Sociala problem # Ny post ovan
   name: Segregation
   level: 3
 
