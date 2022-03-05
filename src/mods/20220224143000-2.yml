@@ -559,33 +559,30 @@ modifications:
   name: Segregation
   level: 3
 
+- action: UPDATE
+  code: RYF-TKT-AGB-IAV-XXX # nytt id från tidigare körning 
+  name: Måla & färga
+  newName: Målning
 
-  - action: UPDATE
-    code: RYF-TKT-AGB-IAV-XXX # nytt id från tidigare körning 
-    name: Måla & färga
-    newName: Målning
+- action: MOVE
+  code: RYF-TKT-AGB-IAV-XXX # nytt id från tidigare körning 
+  name: Målning # Nytt namn ovan
+  newParentCode: RYF-TKT-AGB-IAV
+  newParentName: Bygga & fixa # Nytt namn ovan
 
-  - action: MOVE
-    code: RYF-TKT-AGB-IAV-XXX # nytt id från tidigare körning 
-    name: Målning # Nytt namn ovan
-    newParentCode: RYF-TKT-AGB-IAV
-    newParentName: Bygga & fixa # Nytt namn ovan
+- action: UPDATE
+  code: RYF-TKT-AGB-IAV-XXX # nytt id från tidigare körning 
+  name: Tapetsera
+  newName: Tapetsering
 
-  - action: UPDATE
-    code: RYF-TKT-AGB-IAV-XXX # nytt id från tidigare körning 
-    name: Tapetsera
-    newName: Tapetsering
+- action: MOVE
+  code: RYF-TKT-AGB-IAV-XXX # nytt id från tidigare körning 
+  name: Tapetsering # Nytt namn ovan
+  newParentCode: RYF-TKT-AGB-IAV
+  newParentName: Bygga & fixa # Nytt namn ovan
 
-  - action: MOVE
-    code: RYF-TKT-AGB-IAV-XXX # nytt id från tidigare körning 
-    name: Tapetsering # Nytt namn ovan
-    newParentCode: RYF-TKT-AGB-IAV
-    newParentName: Bygga & fixa # Nytt namn ovan
-
-  - action: MOVE
-    code: RYF-HPT-XXX-XXX
-    name: Lagfart
-    newParentCode: RYF-IXA-KEV-TOY-XXX
-    newParentName: Fastighetsaffär # Nytt namn ovan
-
-
+- action: MOVE
+  code: RYF-HPT-XXX-XXX
+  name: Lagfart
+  newParentCode: RYF-IXA-KEV-TOY-XXX
+  newParentName: Fastighetsaffär # Nytt namn ovan
