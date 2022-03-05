@@ -291,7 +291,7 @@ modifications:
 
 
 - action: MOVE
-  code: RYF-CUW-GIV-CWF-TOL-LCI
+  code: RYF-CUW-GIV-GMY-LCI
   name: IVF-behandling
   newParentCode: RYF-CUW-GIV-GYS # ID För Fertilitetsbehandling i 20220224143000-1.yml
   newParentName: Fertilitetsbehandling

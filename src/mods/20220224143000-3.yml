@@ -1,6 +1,6 @@
 modifications:
 - action: ADD
-  parentCode: RYF-XXXX-XXXX # ID för kungligt ovan och ID för Regale i 20220224143000-1.yml och  i 20220224143000-2.yml
+  parentCode: RYF-NIM-PRJ # ID för kungligt ovan och ID för Regale i 20220224143000-1.yml och  i 20220224143000-2.yml
   parentName: Regale
   name: Riksregalier
   description: Riksregalier är olika typer av symboler och tecken som används för att utmärka en bärares rang, ämbete eller funktion
@@ -15,14 +15,14 @@ modifications:
 
 
 - action: ADD
-  parentCode: RYF-HPT-XXXX-XXXX # ID för Socialt och Droger i 20220224143000-1.yml och  i 20220224143000-2.yml
+  parentCode: RYF-HPT-TVG-SKG # ID för Socialt och Droger i 20220224143000-1.yml och  i 20220224143000-2.yml
   parentName: Droger # Ny post ovan
   name: Narkotika
   level: 4
 
 
 - action: ADD
-  parentCode: RYF-HPT-XXXX-XXXX # ID för Socialt och Kriminalitet i 20220224143000-1.yml och  i 20220224143000-2.yml
+  parentCode: RYF-HPT-TVG-XDN # ID för Socialt och Kriminalitet i 20220224143000-1.yml och  i 20220224143000-2.yml
   parentName: Kriminalitet # Ny post ovan
   name: Vapen
   level: 4
