@@ -1,0 +1,4268 @@
+modifications:
+  - action: INACTIVATE
+    code: RYF-IXA-KEV-OTN
+    name: Fastighets- & byggnadsindustri
+
+  - action: UPDATE
+    code: RYF-BIZ
+    name: Brott & straff
+    newName: Brott, lag och rätt
+
+  - action: UPDATE
+    code: RYF-BIZ-RER-ZDY
+    name: Frihetsberövande
+    newName: Omhändertagande
+
+  - action: MOVE
+    code: RYF-BIZ-RER-ZDY
+    name: Omhändertagande # Nytt namn ovan
+    newParentCode: RYF-BIZ
+    newParentName: Brott, lag och rätt # Nytt namn ovan
+
+  - action: MOVE
+    code: RYF-BIZ-RER-QSE-DXR
+    name: Saknad person
+    newParentCode: RYF-BIZ
+    newParentName: Brott, lag och rätt # Nytt namn ovan
+
+  - action: ADD
+    parentCode: RYF-BIZ-RER
+    parentName: Brottsbekämpning
+    name: Gripande
+    level: 3
+
+  - action: MOVE
+    code: RYF-BIZ-RER-QSE-DAS-BYT
+    name: Hastighetskameror
+    newParentCode: RYF-BIZ-RER
+    newParentName: Brottsbekämpning
+
+  - action: MOVE
+    code: RYF-BIZ-RER-QSE-DAS-NGX
+    name: Kameraövervakning
+    newParentCode: RYF-BIZ-RER
+    newParentName: Brottsbekämpning
+
+  - action: MOVE
+    code: RYF-BIZ-RER-QSE-DAS-SWN
+    name: Telefonavlyssning
+    newParentCode: RYF-BIZ-RER
+    newParentName: Brottsbekämpning
+
+  - action: INACTIVATE
+    code: RYF-BIZ-RER-QSE-DAS
+    name: Tvångsmedel
+
+  - action: INACTIVATE
+    code: RYF-BIZ-RER-QSE
+    name: Polisiärt arbete
+
+  - action: MOVE
+    code: RYF-BIZ-RER-TSI-PHV
+    name: Informationsverksamhet & spionage
+    newParentCode: RYF-BIZ-WZJ
+    newParentName: Brottslighet
+
+  - action: INACTIVATE
+    code: RYF-BIZ-RER-TSI
+    name: Säkerhetspolisen
+
+  - action: UPDATE
+    code: RYF-BIZ-WZJ-IQH
+    name: Allmänfarliga brott
+    newName: Allmänfarligt brott
+
+  - action: UPDATE
+    code: RYF-BIZ-WZJ-RPI
+    name: Bedrägerier & ekobrott
+    newName: Bedrägeri & ekobrott
+
+  - action: INACTIVATE
+    code: RYF-BIZ-WZJ-RPI-AEK
+    name: Avtalsbrott
+
+  - action: INACTIVATE
+    code: RYF-BIZ-WZJ-RPI-UBX-BGP
+    name: Vägpirater
+
+  - action: UPDATE
+    code: RYF-BIZ-WZJ-OFE-HYB
+    name: Utsläppsskandal & utsläppsfusk
+    newName: Läckage & utsläpp
+
+  - action: INACTIVATE
+    code: RYF-BIZ-WZJ-GNO-UHT
+    name: Ringa stöld
+
+  - action: UPDATE
+    code: RYF-BIZ-WZJ-USP
+    name: Terrorism
+    newName: Terroristbrott
+
+  - action: INACTIVATE
+    code: RYF-BIZ-WZJ-USP-MKM
+    name: Biologisk terrorism
+
+  - action: ADD
+    parentCode: RYF-BIZ-WZJ-KVS
+    parentName: Våldsbrott
+    name: Mordförsök
+    level: 4
+
+  - action: INACTIVATE
+    code: RYF-BIZ-WZJ-KVS-HDW
+    name: Skolskjutning
+
+  - action: MOVE
+    code: RYF-BIZ-XSV-JTA-YUA-XSE
+    name: Frikännande
+    newParentCode: RYF-BIZ-XSV
+    newParentName: Rättsprocessen
+
+  - action: ADD
+    parentCode: RYF-BIZ-XSV-JIV
+    parentName: Förundersökning
+    name: Häktning
+    level: 4
+
+  - action: INACTIVATE
+    code: RYF-BIZ-XSV-LCF-YJV
+    name: Internationell domstol
+
+  - action: UPDATE
+    code: RYF-BIZ-XSV-BII
+    name: Straff
+    newName: Påföljd
+
+  - action: INACTIVATE
+    code: RYF-BIZ-XSV-BII-MKF
+    name: Dödsstraff
+
+  - action: INACTIVATE
+    code: RYF-BIZ-XSV-JTA-YUA-ACX
+    name: Tvistemål
+
+  - action: INACTIVATE
+    code: RYF-BIZ-XSV-JTA-YUA-FQB
+    name: Svarande
+
+  - action: INACTIVATE
+    code: RYF-BIZ-XSV-JTA-YUA-GMD
+    name: Vittne
+
+  - action: INACTIVATE
+    code: RYF-BIZ-XSV-JTA-YUA-IFR
+    name: Domstolsförberedelser
+
+  - action: MOVE
+    code: RYF-BIZ-XSV-JTA-YUA
+    name: Rättegång
+    newParentCode: RYF-BIZ-XSV
+    newParentName: Rättsprocessen
+
+  - action: INACTIVATE
+    code: RYF-BIZ-XSV-JTA-APZ
+    name: Domstol
+
+  - action: INACTIVATE
+    code: RYF-BIZ-XSV-JTA-TQC
+    name: Domstolspersonal
+
+  - action: INACTIVATE
+    code: RYF-BIZ-XSV-JTA-WUJ
+    name: Domare
+
+  - action: UPDATE
+    code: RYF-BIZ-XSV-JTA-ZUJ
+    name: Överklagande av dom
+    newName: Överklagan
+
+  - action: MOVE
+    code: RYF-BIZ-XSV-JTA-ZUJ
+    name: Överklagan # Nytt namn ovan
+    newParentCode: RYF-BIZ-XSV
+    newParentName: Rättsprocessen
+
+  - action: INACTIVATE
+    code: RYF-BIZ-XSV-JTA
+    name: Straffrätt
+
+  - action: INACTIVATE
+    code: RYF-BIZ-XSV-XBV
+    name: Övriga rättsärenden
+
+  - action: ADD
+    parentCode: RYF-BIZ
+    parentName: Brott, lag och rätt
+    name: Juridik
+    level: 2
+
+  - action: ADD
+    parentCode: RYF-BIZ-RER
+    parentName: Brottsbekämpning
+    name: Anhållan
+    level: 3
+
+  - action: UPDATE
+    code: RYF-WHZ-WOM
+    name: Extremväder
+    newName: Extremväder
+    description: Klimatextremer kan definieras utifrån att de förekommer sällan eller utifrån att de påverkar samhälle och miljö på ett kännbart sätt
+
+  - action: ADD
+    parentCode: RYF-WHZ
+    parentName: Väder
+    name: Kyla
+    description: Kyla kan beskrivas som låg temperatur för årstiden, alternativt temperaturer under fryspunkten 0 grader Celcius.
+    level: 2
+
+  - action: ADD
+    parentCode: RYF-WHZ
+    parentName: Väder
+    name: Regn
+    description: Regn är nederbörd som endast består av flytande vatten.
+    level: 2
+
+  - action: ADD
+    parentCode: RYF-WHZ
+    parentName: Väder
+    name: Snö
+    description: Snö är nederbörd i form av iskristaller, enstaka eller sammanfogade, som faller från ett moln men kan även referera till snö som ligger på marken
+    level: 2
+
+  - action: ADD
+    parentCode: RYF-WHZ
+    parentName: Väder
+    name: Torka
+    description: Torka är en ihållande period med reducerad vattentillgång i jämförelse med normalt
+    level: 2
+
+  - action: ADD
+    parentCode: RYF-WHZ
+    parentName: Väder
+    name: Vind
+    description: Vind är flödet av luft i atmosfären
+    level: 2
+
+  - action: ADD
+    parentCode: RYF-WHZ
+    parentName: Väder
+    name: Värme
+    description: Värmebölja är den allmänna beteckningen inom meteorologin på perioder med för årstiden ovanligt varmt väder
+    level: 2
+
+  - action: ADD
+    parentCode: RYF-WHZ
+    parentName: Väder
+    name: Översvämning
+    description: Översvämning innebär att ett markområde som vanligtvis är torrt, tillfälligt eller permanent, sätts under vatten, ofta som följd av händelser utanför människans omedelbara kontroll som exempelvis vid kraftigt regn
+    level: 2
+
+  - action: ADD
+    parentCode: RYF
+    parentName: Nyhetskategorier
+    name: Kungligt
+    level: 1
+
+  - action: ADD
+    parentCode: RYF-WUU-QNB-LKJ-BIB
+    parentName: Receptbelagda mediciner
+    name: Antibiotika
+    level: 5
+
+    # Inkl barn
+  - action: MOVE
+    code: RYF-HPT-PPR-LQJ-DBB
+    name: Dödshjälp
+    newParentCode: RYF-WUU
+    newParentName: Hälsa & sjukvård
+
+  - action: MOVE
+    code: RYF-WUU-WXG-YQX
+    name: Djursjukdomar
+    newParentCode: RYF-EOI-DLM-FKB-XGL
+    newParentName: Zoologi
+
+  - action: MOVE
+    code: RYF-WUU-WXG-XZJ
+    name: Växtsjukdomar
+    newParentCode: RYF-EOI-DLM-FKB-GQI
+    newParentName: Botanik
+
+  - action: INACTIVATE
+    code: RYF-WUU-WXG
+    name: Icke mänskliga sjukdomar
+
+  - action: UPDATE
+    code: RYF-WUU-JZK
+    name: Sjukdomar & tillstånd
+    newName: Sjukdomar, tillstånd och diagnoser
+
+  - action: MOVE
+    code: RYF-WUU-JZK-DQP-SDZ
+    name: Sharlakansfeber
+    newParentCode: RYF-WUU-JZK
+    newParentName: Sjukdomar, tillstånd och diagnoser # Nytt namn ovan
+
+  - action: MOVE
+    code: RYF-WUU-JZK-DQP-SHO
+    name: Krupp
+    newParentCode: RYF-WUU-JZK
+    newParentName: Sjukdomar, tillstånd och diagnoser # Nytt namn ovan
+
+  - action: MOVE
+    code: RYF-WUU-JZK-DQP-ZFO
+    name: Höftledsluxation
+    newParentCode: RYF-WUU-JZK
+    newParentName: Sjukdomar, tillstånd och diagnoser # Nytt namn ovan
+
+  - action: INACTIVATE
+    code: RYF-WUU-JZK-DQP
+    name: Barnsjukdomar & åkommor
+
+  - action: MOVE
+    code: RYF-WUU-JZK-SNV
+    name: Hosta
+    newParentCode: RYF-WUU-JZK-TZR
+    newParentName: Luftvägssjukdomar
+
+  - action: UPDATE
+    code: RYF-WUU-JZK-JUK
+    name: Bett, stick & löss
+    newName: Bett & stick
+
+  - action: INACTIVATE
+    code: RYF-WUU-JZK-JUK-AUF
+    name: Insektsbett
+
+  - action: MOVE
+    code: RYF-WUU-JZK-YIA-WNC
+    name: Malignt melanom
+    newParentCode: RYF-WUU-JZK-YIA-WMP
+    newParentName: Hudcancer
+
+    # TODO: Ändra description
+  - action: ADD
+    parentCode: RYF-WUU-JZK
+    parentName: Sjukdomar, tillstånd och diagnoser # Nytt namn ovan
+    name: Ehec
+    description: EHEC (Enterohemorragisk Escherichia coli), är en stam av bakteriearten Escherichia coli som är en bidragande orsak till matförgiftning.
+    level: 3
+
+  - action: UPDATE
+    code: RYF-WUU-JZK-AOD
+    name: Erektil dysfunktion
+    newName: Impotens
+
+  - action: ADD
+    parentCode: RYF-WUU-JZK-BBN
+    parentName: Övervikt
+    name: Fetma
+    level: 4
+
+  - action: ADD
+    parentCode: RYF-WUU-JZK
+    parentName: Sjukdomar, tillstånd och diagnoser # Nytt namn ovan
+    name: Smittskydd
+    level: 3
+
+  - action: INACTIVATE
+    code: RYF-WUU-SUX-SFB
+    name: Omsorg
+
+  - action: ADD
+    parentCode: RYF-WUU-SUX-APJ
+    parentName: Specialistvård
+    name: Fysioterapi
+    description: Fysioterapi (även kallat sjukgymnastik) innefattar undersökning och behandling med syfte att bedöma, bota, förebygga eller lindra sjukdomar, främst sådana som manifesterar sig i rörelse- och stödjeorganen det vill säga muskler, leder, skelett och nerver
+    level: 4
+
+  - action: ADD
+    parentCode: RYF-WUU-SUX-APJ
+    parentName: Specialistvård
+    name: Palliativ vård
+    level: 4
+
+  - action: UPDATE
+    code: RYF-WUU-SUX-MEF
+    name: Äldreomsorg (Sjukvård)
+    newName: Äldreomsorg
+
+  - action: MOVE
+    code: RYF-WUU-SUX-MEF
+    name: Äldreomsorg
+    newParentCode: RYF-HPT-XRQ
+    newParentName: Välfärd & bidragsfrågor
+
+  - action: ADD
+    parentCode: RYF-WUU-BNJ
+    parentName: Vårdinrättningar
+    name: Privata vårdgivare
+    level: 3
+
+  - action: ADD
+    parentCode: RYF-WUU-BNJ
+    parentName: Vårdinrättningar
+    name: Hälsocentral
+    description: En vårdcentral kan också kallas husläkarmottagning, familjeläkarmottagning, hälsocentral, hälsovårdscentral eller distriktsläkarmottagning. Det är nästan alltid på vårdcentralen du ska söka vård när du är sjuk eller har något besvär.
+    level: 3
+
+  - action: ADD
+    parentCode: RYF-WUU
+    parentName: Hälsa & sjukvård
+    name: Vårdyrken
+    level: 2
+
+  - action: MOVE
+    code: RYF-WUU-JZK-AOA-JDH
+    name: Mollusker
+    newParentCode: RYF-WUU-JZK-XAW
+    newParentName: Hudsjukdomar
+
+  - action: MOVE
+    code: RYF-WUU-JZK-NKB-OSL
+    name: Solbränna
+    newParentCode: RYF-WUU-JZK-AOA
+    newParentName: Hudutslag & prickar
+
+  - action: MOVE
+    code: RYF-WUU-JZK-NKB-PPX
+    name: Soleksem
+    newParentCode: RYF-WUU-JZK-AOA
+    newParentName: Hudutslag & prickar
+
+  - action: MOVE
+    code: RYF-WUU-JZK-NKB-VUU
+    name: Brännskador
+    newParentCode: RYF-WUU-JZK-AOA
+    newParentName: Hudutslag & prickar
+
+  - action: UPDATE
+    code: RYF-WUU-JZK-AOA
+    name: Hudutslag & prickar
+    newName: Hudutslag
+
+  - action: MOVE
+    code: RYF-WUU-JZK-DRQ
+    name: Träningsvärk
+    newParentCode: RYF-TKT-XHP
+    newParentName: Träning & hälsa
+
+  - action: UPDATE
+    code: RYF-WUU-JZK-TAC
+    name: Funktionsnedsättningar
+    newName: Funktionsvariation
+
+  - action: ADD
+    parentCode: RYF-WUU-JZK-TAC
+    parentName: Funktionsvariation # Nytt namn ovan
+    name: Stamning
+    level: 3
+
+  - action: MOVE
+    code: RYF-WUU-JZK-BZQ
+    name: Mens & PMS
+    newParentCode: RYF-TKT-XHP
+    newParentName: Träning & hälsa
+
+  - action: MOVE
+    code: RYF-WUU-JZK-YSP-XQT
+    name: Stress
+    newParentCode: RYF-TKT-XHP
+    newParentName: Träning & hälsa
+
+  - action: UPDATE
+    code: RYF-VHD-ZKU
+    name: Bevarande av miljö
+    newName: Miljö
+    description: Med miljö kan menas omgivning eller omgivande förhållanden. Ordet används särskilt när det är fråga om samspelet mellan omgivningen och däri verkande system, djur, växter eller andra organismer.
+
+  - action: ADD
+    parentCode: RYF-VHD-ZKU
+    parentName: Miljö # nytt namn ovan
+    name: Biologisk mångfald
+    level: 3
+
+  - action: UPDATE
+    code: RYF-VHD-ZKU-BLX
+    name: Hållbarhetsarbete
+    newName: Hållbarhet
+
+  - action: ADD
+    parentCode: RYF-VHD-ZKU-BLX
+    parentName: Hållbarhet # nytt namn ovan
+    name: Matsvinn
+    level: 4
+
+  - action: ADD
+    parentCode: RYF-VHD-ZKU
+    parentName: Miljö # nytt namn ovan
+    name: Naturvård
+    level: 3
+
+  - action: ADD
+    parentCode: RYF-VHD-ZKU
+    parentName: Miljö # nytt namn ovan
+    name: Övergödning
+    level: 3
+
+  - action: ADD
+    parentCode: RYF-VHD-OAY-DLT
+    parentName: Djur
+    name: Vilda djur
+    level: 4
+
+  - action: INACTIVATE
+    code: RYF-VHD-OAY-DLT-XUZ-MGE
+    name: Varg
+
+  - action: INACTIVATE
+    code: RYF-VHD-OAY-DLT-XUZ-TXW
+    name: Kungsörn
+
+  - action: INACTIVATE
+    code: RYF-VHD-OAY-DLT-XUZ-UVR
+    name: Lodjur
+
+  - action: INACTIVATE
+    code: RYF-VHD-OAY-DLT-XUZ-WEH
+    name: Björn
+
+  - action: INACTIVATE
+    code: RYF-VHD-OAY-DLT-XUZ-XOM
+    name: Järv
+
+  - action: INACTIVATE
+    code: RYF-VHD-OAY-VCS
+    name: Hotade arter
+
+  - action: ADD
+    parentCode: RYF-VHD-IFE
+    parentName: Föroreningar
+    name: Buller
+    level: 3
+
+  - action: UPDATE
+    code: RYF-VHD-GUZ
+    name: Klimatförändringar
+    newName: Klimatförändring
+
+  - action: ADD
+    parentCode: RYF-VHD-GUZ-SYG
+    parentName: Global uppvärmning
+    name: Klimateffekt
+    level: 4
+
+  - action: ADD
+    parentCode: RYF-VHD-GUZ-SYG
+    parentName: Global uppvärmning
+    name: Klimatpåverkan
+    level: 4
+
+  - action: ADD
+    parentCode: RYF-VHD-GUZ-SYG
+    parentName: Global uppvärmning
+    name: Växthusgas
+    level: 4
+
+  - action: ADD
+    parentCode: RYF-VHD-GUZ
+    parentName: Klimatförändring
+    name: Klimatanpassning
+    level: 3
+
+  - action: ADD
+    parentCode: RYF-VHD-GUZ
+    parentName: Klimatförändring
+    name: Klimatförhandling
+    level: 3
+
+  - action: UPDATE
+    code: RYF-VHD-HXU
+    name: Naturresurser
+    newName: Natur
+
+    # Inkl barn
+  - action: MOVE
+    code: RYF-VHD-HXU-ICY-YMU
+    name: Skog
+    newParentCode: RYF-VHD-HXU
+    newParentName: Natur # Nytt namn ovan
+
+  - action: MOVE
+    code: RYF-VHD-HXU-ICY-HOR
+    name: Berg
+    newParentCode: RYF-VHD-HXU
+    newParentName: Natur # Nytt namn ovan
+
+  - action: ADD
+    parentCode: RYF-VHD-HXU
+    parentName: Natur # Nytt namn ovan
+    name: Naturfenomen
+    level: 3
+
+  - action: ADD
+    parentCode: RYF-VHD-HXU-GRV
+    parentName: Vatten
+    name: Dricksvatten
+    level: 4
+
+  - action: UPDATE
+    code: RYF-VHD-HXU-GRV-IGS
+    name: Våtmarker
+    newName: Våtmark
+
+  - action: UPDATE
+    code: RYF-VHD-HXU-GRV-VWZ
+    name: Älvar & åar
+    newName: Älv & å
+
+  - action: ADD
+    parentCode: RYF-VHD-HXU-GRV
+    parentName: Vatten
+    name: Algblomning
+    level: 4
+
+  - action: ADD
+    parentCode: RYF-VHD-HXU-GRV
+    parentName: Vatten
+    name: Sjö
+    level: 4
+
+  - action: UPDATE
+    code: RYF-WXT-QIC
+    name: Krigs- & politiska fångar
+    newName: Krigsfångar
+
+  - action: MOVE
+    code: RYF-WXT-QIC
+    name: Krigsfångar
+    newParentCode: RYF-WXT-HGG
+    newParentName: Krig
+
+  - action: UPDATE
+    code: RYF-WXT
+    name: Konflikter, krig & terrorism
+    newName: Konflikter & krig
+
+  - action: MOVE
+    code: RYF-WXT-BND-IBC
+    name: Upplopp
+    newParentCode: RYF-WXT
+    newParentName: Konflikter & krig # Nytt nam ovan
+
+  - action: MOVE
+    code: RYF-WXT-BND-IMS
+    name: Revolutioner
+    newParentCode: RYF-WXT
+    newParentName: Konflikter & krig # Nytt nam ovan
+
+  - action: MOVE
+    code: RYF-WXT-BND-JKN
+    name: Uppror
+    newParentCode: RYF-WXT
+    newParentName: Konflikter & krig # Nytt nam ovan
+
+  - action: INACTIVATE
+    code: RYF-WXT-BND
+    name: Oroligheter
+
+  - action: ADD
+    parentCode: RYF-WXT
+    parentName: Konflikter & krig # Nytt nam ovan
+    name: Religiös konflikt
+    level: 2
+
+  - action: INACTIVATE
+    code: RYF-WXT-ABT-NHU
+    name: Bombdåd
+
+  - action: ADD
+    parentCode: RYF-WXT
+    parentName: Konflikter & krig # Nytt namn ovan
+    name: Militär utrustning
+    level: 2
+
+  - action: ADD
+    parentCode: RYF-WXT
+    parentName: Konflikter & krig # Nytt namn ovan
+    name: Försvar
+    level: 2
+
+  - action: UPDATE
+    code: RYF-XKI-CUP-FKK
+    name: Animation
+    newName: Animerad film
+
+  - action: MOVE
+    code: RYF-XKI-CUP-FKK
+    name: Animerad film # Nytt namn ovan
+    newParentCode: RYF-XKI-CUP-XBM
+    newParentName: Film
+
+  - action: ADD
+    parentCode: RYF-XKI-CUP
+    parentName: Konstformer & underhållning
+    name: Cirkus
+    level: 3
+
+  - action: UPDATE
+    code: RYF-XKI-CUP-VDP-ZEZ
+    name: Traditionell dans
+    newName: Folkdans
+
+  - action: ADD
+    parentCode: RYF-XKI-CUP-XBM
+    parentName: Film
+    name: Barnfilm
+    level: 4
+
+  - action: ADD
+    parentCode: RYF-XKI-CUP-XBM
+    parentName: Film
+    name: Bio
+    level: 4
+
+  - action: ADD
+    parentCode: RYF-XKI-CUP-XBM
+    parentName: Film
+    name: Actionfilm
+    level: 4
+
+  - action: ADD
+    parentCode: RYF-XKI-CUP-XBM
+    parentName: Film
+    name: Familjefilm
+    level: 4
+
+  - action: ADD
+    parentCode: RYF-XKI-CUP-XBM
+    parentName: Film
+    name: Dokumentärfilm
+    level: 4
+
+  - action: ADD
+    parentCode: RYF-XKI-CUP-XBM
+    parentName: Film
+    name: Dramafilm
+    level: 4
+
+  - action: ADD
+    parentCode: RYF-XKI-CUP-XBM
+    parentName: Film
+    name: Fantasyfilm
+    level: 4
+
+  - action: ADD
+    parentCode: RYF-XKI-CUP-XBM
+    parentName: Film
+    name: Independentfilm
+    level: 4
+
+  - action: ADD
+    parentCode: RYF-XKI-CUP-XBM
+    parentName: Film
+    name: Kriminalfilm
+    level: 4
+
+  - action: ADD
+    parentCode: RYF-XKI-CUP-XBM
+    parentName: Film
+    name: Musikalfilm
+    level: 4
+
+  - action: ADD
+    parentCode: RYF-XKI-CUP-XBM
+    parentName: Film
+    name: Romantisk film
+    level: 4
+
+  - action: ADD
+    parentCode: RYF-XKI-CUP-XBM
+    parentName: Film
+    name: Science-fictionfilm
+    level: 4
+
+  - action: ADD
+    parentCode: RYF-XKI-CUP-XBM
+    parentName: Film
+    name: Skräckfilm
+    level: 4
+
+  - action: ADD
+    parentCode: RYF-XKI-CUP-XBM
+    parentName: Film
+    name: Thrillerfilm
+    level: 4
+
+  - action: ADD
+    parentCode: RYF-XKI-CUP-XBM
+    parentName: Film
+    name: Skådespelare
+    level: 4
+
+  - action: ADD
+    parentCode: RYF-XKI-CUP-KAQ
+    parentName: Konstutställning
+    name: Vernissage
+    level: 4
+
+  - action: ADD
+    parentCode: RYF-XKI-CUP-EDZ
+    parentName: Litteratur
+    name: Bokbranschen
+    level: 4
+
+  - action: ADD
+    parentCode: RYF-XKI-CUP-EDZ
+    parentName: Litteratur
+    name: Deckare
+    level: 4
+
+  - action: ADD
+    parentCode: RYF-XKI-CUP-EDZ
+    parentName: Litteratur
+    name: Fantasyböcker
+    level: 4
+
+  - action: ADD
+    parentCode: RYF-XKI-CUP-EDZ
+    parentName: Litteratur
+    name: Ljudböcker
+    level: 4
+
+  - action: ADD
+    parentCode: RYF-XKI-CUP-EDZ
+    parentName: Litteratur
+    name: Reportageböcker
+    level: 4
+
+  - action: ADD
+    parentCode: RYF-XKI-CUP-EDZ
+    parentName: Litteratur
+    name: Science-fictionlitteratur
+    level: 4
+
+  - action: ADD
+    parentCode: RYF-XKI-CUP-EDZ
+    parentName: Litteratur
+    name: Skräcklitteratur
+    level: 4
+
+  - action: ADD
+    parentCode: RYF-XKI-CUP-EDZ
+    parentName: Litteratur
+    name: Ungdomsböcker
+    level: 4
+
+  - action: UPDATE
+    code: RYF-XKI-CUP-NWA-VVW-ISA
+    name: Country & blues
+    newName: Blues
+
+  - action: MOVE
+    code: RYF-XKI-CUP-NWA-VVW-ISA
+    name: Blues # Nytt nann ovan
+    newParentCode: RYF-XKI-CUP-NWA
+    newParentName: Musik
+
+  - action: ADD
+    parentCode: RYF-XKI-CUP-NWA
+    parentName: Musik
+    name: Country
+    level: 4
+
+  - action: MOVE
+    code: RYF-XKI-CUP-NWA-VVW-BJY
+    name: Dansband
+    newParentCode: RYF-XKI-CUP-NWA
+    newParentName: Musik
+
+  - action: MOVE
+    code: RYF-XKI-CUP-NWA-VVW-RCJ
+    name: Disco
+    newParentCode: RYF-XKI-CUP-NWA
+    newParentName: Musik
+
+  - action: MOVE
+    code: RYF-XKI-CUP-NWA-VVW-XSC
+    name: Electronic Dance Music (EDM)
+    newParentCode: RYF-XKI-CUP-NWA
+    newParentName: Musik
+
+  - action: MOVE
+    code: RYF-XKI-CUP-NWA-VVW-CRI
+    name: Folkmusik
+    newParentCode: RYF-XKI-CUP-NWA
+    newParentName: Musik
+
+  - action: UPDATE
+    code: RYF-XKI-CUP-NWA-VVW-XGJ
+    name: Hiphop & RNB
+    newName: Hiphop
+
+  - action: MOVE
+    code: RYF-XKI-CUP-NWA-VVW-XGJ
+    name: Hiphop # Nytt namn ovan
+    newParentCode: RYF-XKI-CUP-NWA
+    newParentName: Musik
+
+  - action: ADD
+    parentCode: RYF-XKI-CUP-NWA
+    parentName: Musik
+    name: Rhythm & blues
+    level: 4
+
+  - action: MOVE
+    code: RYF-XKI-CUP-NWA-VVW-QSI
+    name: Jazz
+    newParentCode: RYF-XKI-CUP-NWA
+    newParentName: Musik
+
+  - action: MOVE
+    code: RYF-XKI-CUP-NWA-VVW-OFH
+    name: Klassisk musik
+    newParentCode: RYF-XKI-CUP-NWA
+    newParentName: Musik
+
+  - action: UPDATE
+    code: RYF-XKI-CUP-NWA-VVW-LYB
+    name: Metal
+    newName: Hårdrock
+
+  - action: MOVE
+    code: RYF-XKI-CUP-NWA-VVW-LYB
+    name: Hårdrock # Nytt namn ovan
+    newParentCode: RYF-XKI-CUP-NWA
+    newParentName: Musik
+
+  - action: MOVE
+    code: RYF-XKI-CUP-NWA-VVW-NQX
+    name: Pop
+    newParentCode: RYF-XKI-CUP-NWA
+    newParentName: Musik
+
+  - action: ADD
+    parentCode: RYF-XKI-CUP-NWA
+    parentName: Musik
+    name: Punk
+    level: 4
+
+  - action: MOVE
+    code: RYF-XKI-CUP-NWA-VVW-ZJU
+    name: Rock
+    newParentCode: RYF-XKI-CUP-NWA
+    newParentName: Musik
+
+  - action: MOVE
+    code: RYF-XKI-CUP-NWA-VVW-AJQ
+    name: Techno
+    newParentCode: RYF-XKI-CUP-NWA
+    newParentName: Musik
+
+  - action: INACTIVATE
+    code: RYF-XKI-CUP-NWA-VVW
+    name: Musikgenre
+
+  - action: UPDATE
+    code: RYF-XKI-CUP-NWA-ESM
+    name: Musikunderhållningsevenemang
+    newName: Musikevenemang
+
+  - action: INACTIVATE
+    code: RYF-XKI-CUP-NWA-RRT-IIE
+    name: Julsånger
+
+  - action: INACTIVATE
+    code: RYF-XKI-CUP-NWA-RRT-LFL
+    name: Folkvisor
+
+  - action: INACTIVATE
+    code: RYF-XKI-CUP-NWA-RRT-UXS
+    name: Snapsvisor
+
+  - action: INACTIVATE
+    code: RYF-XKI-CUP-CSJ-DMB
+    name: Komiker
+
+  - action: INACTIVATE
+    code: RYF-XKI-CUP-CSJ-UBB
+    name: TV-sportprofiler
+
+  - action: INACTIVATE
+    code: RYF-XKI-CUP-CSJ-VRN
+    name: Artister
+
+  - action: INACTIVATE
+    code: RYF-XKI-CUP-CSJ-YUR
+    name: Gage & löner
+
+  - action: INACTIVATE
+    code: RYF-XKI-CUP-CSJ-YVI
+    name: Skådespelare
+
+  - action: INACTIVATE
+    code: RYF-XKI-CUP-CSJ-ZFE
+    name: Kungligheter
+
+  - action: INACTIVATE
+    code: RYF-XKI-CUP-CSJ
+    name: Nöjespersonligheter
+
+  - action: UPDATE
+    code: RYF-XKI-CUP-QZP
+    name: Teater & musikal
+    newName: Scen
+
+  - action: MOVE
+    code: RYF-XKI-CUP-QZP-TCH-JMH
+    name: Musikal
+    newParentCode: RYF-XKI-CUP-QZP
+    newParentName: Scen # Nytt namn ovan
+
+  - action: MOVE
+    code: RYF-XKI-CUP-QZP-TCH-LEP
+    name: Operett
+    newParentCode: RYF-XKI-CUP-QZP
+    newParentName: Scen # Nytt namn ovan
+
+  - action: INACTIVATE
+    code: RYF-XKI-CUP-QZP-TCH
+    name: Musikteater
+
+  - action: MOVE
+    code: RYF-XKI-CUP-MYQ
+    name: Opera
+    newParentCode: RYF-XKI-CUP-QZP
+    newParentName: Scen # Nytt namn ovan
+
+  - action: INACTIVATE
+    code: RYF-XKI-CUP-DEC
+    name: Uteliv
+
+  - action: INACTIVATE
+    code: RYF-XKI-CUP-NCO-FAE-MUM
+    name: Fotomodeller
+
+  - action: ADD
+    parentCode: RYF-XKI-CUP-NCO
+    parentName: Visuella konstformer
+    name: Gatukonst
+    level: 4
+
+  - action: UPDATE
+    code: RYF-XKI-CUP-NCO
+    name: Visuella konstformer
+    newName: Konst
+
+  - action: INACTIVATE
+    code: RYF-XKI-CUP-SVM-GFZ
+    name: Galor & pristävlingar
+
+  - action: INACTIVATE
+    code: RYF-XKI-CUP-SVM-PPC
+    name: Skönhetstävlingar
+
+  - action: INACTIVATE
+    code: RYF-XKI-CUP-SVM
+    name: Övriga underhållningsevenemang
+
+  - action: UPDATE
+    code: RYF-XKI-HSG-JZB
+    name: Bibliotek & museum
+    newName: Bibliotek
+
+  - action: ADD
+    parentCode: RYF-XKI-HSG
+    parentName: Kultur
+    name: Museum
+    level: 3
+
+  - action: INACTIVATE
+    code: RYF-XKI-HSG-QQE
+    name: Kulturell fest eller händelse
+
+  - action: INACTIVATE
+    code: RYF-XKI-HSG-MBC-AZW
+    name: Slott
+
+  - action: INACTIVATE
+    code: RYF-XKI-HSG-MBC
+    name: Kulturella byggnader
+
+  - action: INACTIVATE
+    code: RYF-XKI-HSG-QMO
+    name: Seder & traditioner
+
+  - action: ADD
+    parentCode: RYF-XKI-HSG-MOF
+    parentName: Språk
+    name: Minoritetsspråk
+    level: 4
+
+  - action: MOVE
+    code: RYF-CUW-JAY
+    name: Karriär
+    newParentCode: RYF-ZEI
+    newParentName: Arbetsmarknad
+
+  - action: ADD
+    parentCode: RYF-BIZ-WZJ
+    parentName: Brottslighet
+    name: Hedersbrott
+    level: 3
+
+  - action: ADD
+    parentCode: RYF-IXA-KEV-MCZ
+    parentName: Mediemarknaden
+    name: Presstöd
+    level: 4
+
+  - action: UPDATE
+    code: RYF-WXT-ABT
+    name: Terroristattentat
+    newName: Terrorism
+
+  - action: UPDATE
+    code: RYF-XKI-BUS-PXU
+    name: Influencers
+    newName: Influerare
+    decription: Även influencers, trendsättande person som masskommunicerar genom sociala medier
+
+  - action: MOVE
+    code: RYF-XKI-BUS-PXU
+    name: Influerare # Nytt namn ovan
+    newParentCode: RYF-XKI-BUS-RXO
+    newParentName: Sociala medier
+
+  - action: INACTIVATE
+    code: RYF-XKI-BUS-TVB-LVT
+    name: Filmrecensioner
+
+  - action: INACTIVATE
+    code: RYF-XKI-BUS-TVB-AWP
+    name: Kulturjournalistik
+
+  - action: INACTIVATE
+    code: RYF-XKI-BUS-TVB-ESF
+    name: Musikrecensioner
+
+  - action: INACTIVATE
+    code: RYF-XKI-BUS-TVB-VLL
+    name: Tv-recensioner
+
+  - action: UPDATE
+    code: RYF-XKI-BUS-IFX
+    name: Tv-serier
+    newName: TV
+    decription: Television är ett system inom telekommunikation för att på avstånd skicka ljud och tvådimensionella rörliga bilder till en mottagare
+
+  - action: MOVE
+    code: RYF-XKI-BUS-TVB-EUD
+    name: Nyhetsprogram
+    newParentCode: RYF-XKI-BUS-IFX
+    newParentName: TV # nytt namn ovan
+
+  - action: MOVE
+    code: RYF-XKI-BUS-NXX
+    name: Reality-tv
+    newParentCode: RYF-XKI-BUS-IFX
+    newParentName: TV # nytt namn ovan
+
+  - action: MOVE
+    code: RYF-XKI-BUS-NYP-XRY
+    name: Barnprogram
+    newParentCode: RYF-XKI-BUS-IFX
+    newParentName: TV # nytt namn ovan
+
+  - action: MOVE
+    code: RYF-XKI-BUS-NYP-DHC
+    name: Frågesportsprogram
+    newParentCode: RYF-XKI-BUS-IFX
+    newParentName: TV # nytt namn ovan
+
+  - action: MOVE
+    code: RYF-XKI-BUS-NYP-JOY
+    name: Inredningsprogram
+    newParentCode: RYF-XKI-BUS-IFX
+    newParentName: TV # nytt namn ovan
+
+  - action: MOVE
+    code: RYF-XKI-BUS-NYP-XCX
+    name: Matlagningsprogram
+    newParentCode: RYF-XKI-BUS-IFX
+    newParentName: TV # nytt namn ovan
+
+  - action: MOVE
+    code: RYF-XKI-BUS-NYP-FPW
+    name: Talkshow
+    newParentCode: RYF-XKI-BUS-IFX
+    newParentName: TV # nytt namn ovan
+
+  - action: MOVE
+    code: RYF-XKI-BUS-NYP
+    name: Underhållningsprogram
+    newParentCode: RYF-XKI-BUS-IFX
+    newParentName: TV # nytt namn ovan
+
+  - action: ADD
+    parentCode: RYF-XKI-BUS-TVB
+    parentName: Journalistik
+    name: Pressetik
+    level: 4
+
+  - action: ADD
+    parentCode: RYF-XKI-BUS-TVB
+    parentName: Journalistik
+    name: Pressfrihet
+    level: 4
+
+  - action: ADD
+    parentCode: YF-XKI-BUS
+    parentName: Medier
+    name: Källkritik
+    level: 4
+
+  - action: UPDATE
+    code: RYF-IXA-KEV-MCZ-FDE
+    name: Podcastindustri
+    newName: Poddar
+
+  - action: MOVE
+    code: RYF-IXA-KEV-MCZ-FDE
+    name: Poddar # nytt namn ovan
+    newParentCode: RYF-XKI-BUS
+    newParentName: Medier
+
+  - action: INACTIVATE
+    code: RYF-XKI-BUS-EIU
+    name: Programledare
+
+  - action: UPDATE
+    code: RYF-TKT-BOI-KPY
+    name: Bröd & matbröd
+    newName: Matbröd
+
+  - action: UPDATE
+    code: RYF-TKT-BOI-DKU
+    name: Kakor & bullar
+    newName: Bullar
+
+  - action: ADD
+    parentCode: RYF-TKT-BOI
+    parentName: Bakning & bakverk
+    name: Kakor
+    level: 3
+
+  - action: INACTIVATE
+    code: RYF-TKT-ZCD-BWR-XKY
+    name: Fördrinkar
+
+  - action: INACTIVATE
+    code: RYF-TKT-ZCD-BWR-QAA
+    name: Nyårsdrinkar
+
+  - action: INACTIVATE
+    code: RYF-TKT-ZCD-ZLW-HBZ
+    name: Julöl
+
+  - action: INACTIVATE
+    code: RYF-TKT-ZCD-ZLW-TPP
+    name: Påsköl
+
+  - action: INACTIVATE
+    code: RYF-TKT-ZCD-ZLW-XFJ
+    name: Oktoberöl
+
+  - action: INACTIVATE
+    code: RYF-TKT-ZCD-KIK-KQH
+    name: Mineralvatten
+
+  - action: INACTIVATE
+    code: RYF-TKT-ZCD-KIK-QTR
+    name: Saft
+
+  - action: INACTIVATE
+    code: RYF-TKT-ZCD-KIK-SOB
+    name: Läsk
+
+  - action: INACTIVATE
+    code: RYF-TKT-ZCD-KIK-TSM
+    name: Lemonad
+
+  - action: INACTIVATE
+    code: RYF-TKT-ZCD-KIK
+    name: Övrig dryck
+
+  - action: UPDATE
+    code: RYF-TKT-KXM-ZBA-FSG
+    name: Cykelentusiasm
+    newName: Cykling
+
+  - action: INACTIVATE
+    code: RYF-TKT-KXM-ZBA-FSG-VZS
+    name: Cyklar
+
+  - action: INACTIVATE
+    code: RYF-TKT-KXM-ZBA-JUH
+    name: Dykning & surfing
+
+  - action: UPDATE
+    code: RYF-TKT-KXM-ZBA-GYJ
+    name: Fiske
+    newName: Sportfiske
+
+  - action: ADD
+    parentCode: RYF-TKT-KXM-ZBA
+    parentName: Friluftsliv
+    name: Simning
+    level: 4
+
+  - action: INACTIVATE
+    code: RYF-TKT-KXM-ZBA-JPY
+    name: Vildmarksliv
+
+  - action: UPDATE
+    code: RYF-TKT-KXM-DFM
+    name: Föreningsliv
+    newName: Föreningsliv & frivilligverksamhet
+
+  - action: MOVE
+    code: RYF-HPT-XRQ-MLN
+    name: Välgörenhet
+    newParentCode: RYF-TKT-KXM-DFM
+    newParentName: Föreningsliv & frivilligverksamhet # nytt namn ovan
+
+  - action: INACTIVATE
+    code: RYF-TKT-CPL-BVS
+    name: Stenfrukter
+
+  - action: INACTIVATE
+    code: RYF-TKT-CPL-GFB
+    name: Kryddor & örter
+
+  - action: INACTIVATE
+    code: RYF-TKT-CPL-KFV
+    name: Ärtor & bönor
+
+  - action: INACTIVATE
+    code: RYF-TKT-CPL-RFB
+    name: Citrusfrukter
+
+  - action: INACTIVATE
+    code: RYF-TKT-NAU-FLC
+    name: Choklad
+
+  - action: INACTIVATE
+    code: RYF-TKT-NAU-IZV
+    name: Lösviktsgodis
+
+  - action: UPDATE
+    code: RYF-TKT-AGB-IAV
+    name: Bygga & snickra
+    newName: Bygga & fixa
+
+  - action: INACTIVATE
+    code: RYF-TKT-AGB-IAV-DOA
+    name: Bygga hus
+
+  - action: INACTIVATE
+    code: RYF-TKT-AGB-IAV-OWU-INL
+    name: Trätyper
+
+  - action: INACTIVATE
+    code: RYF-TKT-AGB-IAV-OWU-QNC
+    name: Mässing
+
+  - action: INACTIVATE
+    code: RYF-TKT-AGB-IAV-OWU-WLK
+    name: Betong
+
+  - action: INACTIVATE
+    code: RYF-TKT-AGB-IAV-OWU
+    name: Byggmaterial för hemmet
+
+  - action: INACTIVATE
+    code: RYF-TKT-AGB-IAV-PZZ
+    name: Bygnadstekniker
+
+  - action: UPDATE
+    code: RYF-TKT-AGB-NVR
+    name: Renovera
+    newName: Renovering
+
+  - action: INACTIVATE
+    code: RYF-TKT-AGB-NVR-SOY
+    name: Byggfusk
+
+  - action: INACTIVATE
+    code: RYF-TKT-AGB-NVR-APY
+    name: Fasadrenovering
+
+  - action: INACTIVATE
+    code: RYF-TKT-AGB-NVR-TKG-IJE
+    name: Betongväggar
+
+  - action: INACTIVATE
+    code: RYF-TKT-AGB-NVR-TKG-AOP
+    name: Gipsväggar
+
+  - action: INACTIVATE
+    code: RYF-TKT-AGB-NVR-TKG-BCT
+    name: Träpaneler
+
+  - action: INACTIVATE
+    code: RYF-TKT-AGB-NVR-TKG
+    name: Golv, väggar & tak
+
+  - action: INACTIVATE
+    code: RYF-TKT-AGB-NVR-JMX-VKT
+    name: Diskbänkar
+
+  - action: INACTIVATE
+    code: RYF-TKT-AGB-NVR-JMX-IQD
+    name: Köksluckor
+
+  - action: INACTIVATE
+    code: RYF-TKT-AGB-NVR-JMX-TNR
+    name: Köksöar
+
+  - action: INACTIVATE
+    code: RYF-TKT-AGB-NVR-JMX-DEF
+    name: Spisar
+
+    # Inkl alla barn
+  - action: MOVE
+    code: RYF-TKT-AGB-NVR
+    name: Renovering # nytt namn ovan
+    newParentCode: RYF-TKT-AGB-IAV
+    newParentName: Bygga & fixa # Nytt namn ovan
+
+  - action: ADD
+    parentCode: RYF-TKT-AGB
+    parentName: Hem
+    name: Smarta hem
+    level: 3
+
+  - action: MOVE
+    code: RYF-TKT-AGB-GCB-UTM
+    name: Pynta & piffa
+    newParentCode: RYF-TKT-AGB
+    newParentName: Hem
+
+  - action: UPDATE
+    code: RYF-TKT-AGB-GCB-CUN
+    name: Tvätta & diska
+    newName: Städa, tvätta & diska
+
+  - action: MOVE
+    code: RYF-TKT-AGB-GCB-CUN
+    name: Städa, tvätta & diska # Nytt namn ovan
+    newParentCode: RYF-TKT-AGB
+    newParentName: Hem
+
+  - action: UPDATE
+    code: RYF-TKT-AGB-GCB-EWV
+    name: Återbruka
+    newName: Återbruk
+
+  - action: MOVE
+    code: RYF-TKT-AGB-GCB-EWV
+    name: Återbruk
+    newParentCode: RYF-TKT-AGB
+    newParentName: Hem
+
+  - action: INACTIVATE
+    code: RYF-TKT-AGB-GCB-KXS
+    name: Städa
+
+  - action: INACTIVATE
+    code: RYF-TKT-AGB-GCB
+    name: Fixa & dona
+
+  - action: ADD
+    parentCode: RYF-TKT-AGB
+    parentName: Hem
+    name: Hemelektronik
+    level: 3
+
+  - action: UPDATE
+    code: RYF-TKT-AGB-BGD-XRO
+    name: Belysning & lampor
+    newName: Belysning
+
+  - action: ADD
+    parentCode: RYF-TKT-AGB-BGD-XRO
+    parentName: Belysning # Nytt namn ovan
+    name: Innebelysning
+    level: 5
+
+  - action: INACTIVATE
+    code: RYF-TKT-AGB-BGD-XRO-PSW
+    name: Ljuslyktor
+
+  - action: MOVE
+    code: RYF-TKT-AGB-BGD-LMT-LNC
+    name: 50-talsstil
+    newParentCode: RYF-TKT-AGB-BGD
+    newParentName: Heminredning
+
+  - action: MOVE
+    code: RYF-TKT-AGB-BGD-LMT-EGA
+    name: 70-talsstil
+    newParentCode: RYF-TKT-AGB-BGD
+    newParentName: Heminredning
+
+  - action: UPDATE
+    code: RYF-TKT-AGB-BGD-LMT-ZBH
+    name: ADD England
+    newName: New England-stil
+
+  - action: MOVE
+    code: RYF-TKT-AGB-BGD-LMT-ZBH
+    name: New England-stil
+    newParentCode: RYF-TKT-AGB-BGD
+    newParentName: Heminredning
+
+  - action: MOVE
+    code: RYF-TKT-AGB-BGD-LMT-GZT
+    name: Allmogestil
+    newParentCode: RYF-TKT-AGB-BGD
+    newParentName: Heminredning
+
+  - action: MOVE
+    code: RYF-TKT-AGB-BGD-LMT-XPF
+    name: Art deco
+    newParentCode: RYF-TKT-AGB-BGD
+    newParentName: Heminredning
+
+  - action: INACTIVATE
+    code: RYF-TKT-AGB-BGD-LMT-ZNA
+    name: Funkis
+
+  - action: MOVE
+    code: RYF-TKT-AGB-BGD-LMT-FBG
+    name: Industriell stil
+    newParentCode: RYF-TKT-AGB-BGD
+    newParentName: Heminredning
+
+  - action: MOVE
+    code: RYF-TKT-AGB-BGD-LMT-XGY
+    name: Jugend
+    newParentCode: RYF-TKT-AGB-BGD
+    newParentName: Heminredning
+
+  - action: MOVE
+    code: RYF-TKT-AGB-BGD-LMT-VVX
+    name: Lantlig stil
+    newParentCode: RYF-TKT-AGB-BGD
+    newParentName: Heminredning
+
+  - action: MOVE
+    code: RYF-TKT-AGB-BGD-LMT-KXA
+    name: Marin stil
+    newParentCode: RYF-TKT-AGB-BGD
+    newParentName: Heminredning
+
+  - action: MOVE
+    code: RYF-TKT-AGB-BGD-LMT-MCA
+    name: Minimalistisk stil
+    newParentCode: RYF-TKT-AGB-BGD
+    newParentName: Heminredning
+
+  - action: MOVE
+    code: RYF-TKT-AGB-BGD-LMT-TVT
+    name: Modern stil
+    newParentCode: RYF-TKT-AGB-BGD
+    newParentName: Heminredning
+
+  - action: MOVE
+    code: RYF-TKT-AGB-BGD-LMT-OZI
+    name: Orientalisk stil
+    newParentCode: RYF-TKT-AGB-BGD
+    newParentName: Heminredning
+
+  - action: MOVE
+    code: RYF-TKT-AGB-BGD-LMT-QHY
+    name: Retro
+    newParentCode: RYF-TKT-AGB-BGD
+    newParentName: Heminredning
+
+  - action: MOVE
+    code: RYF-TKT-AGB-BGD-LMT-DDT
+    name: Rokokostil
+    newParentCode: RYF-TKT-AGB-BGD
+    newParentName: Heminredning
+
+  - action: MOVE
+    code: RYF-TKT-AGB-BGD-LMT-RAT
+    name: Rustik stil
+    newParentCode: RYF-TKT-AGB-BGD
+    newParentName: Heminredning
+
+  - action: MOVE
+    code: RYF-TKT-AGB-BGD-LMT-GIU
+    name: Shabby chic
+    newParentCode: RYF-TKT-AGB-BGD
+    newParentName: Heminredning
+
+  - action: MOVE
+    code: RYF-TKT-AGB-BGD-LMT-LBT
+    name: Vintage
+    newParentCode: RYF-TKT-AGB-BGD
+    newParentName: Heminredning
+
+  - action: INACTIVATE
+    code: RYF-TKT-AGB-BGD-LMT-DTK
+    name: Medeltidsstil
+
+  - action: INACTIVATE
+    code: RYF-TKT-AGB-BGD-LMT-ZGC
+    name: Sekelskiftesstil
+
+  - action: INACTIVATE
+    code: RYF-TKT-AGB-BGD-LMT
+    name: Inredningsstilar
+
+  - action: INACTIVATE
+    code: RYF-TKT-AGB-BGD-UEO
+    name: Inredningstrender
+
+  - action: UPDATE
+    code: RYF-TKT-AGB-BGD-MCI-HCH
+    name: Dunkuddar
+    newName: Sovkuddar
+
+  - action: UPDATE
+    code: RYF-TKT-AGB-BGD-MCI-ZZD
+    name: Soffkuddar
+    newName: Prydnadskuddar
+
+  - action: UPDATE
+    code: RYF-TKT-AGB-BGD-FQY
+    name: Rumstyper att inreda
+    newName: Rum
+
+  - action: INACTIVATE
+    code: RYF-TKT-AGB-BGD-FQY-HKA
+    name: Jordkällare
+
+  - action: INACTIVATE
+    code: RYF-TKT-AGB-BGD-FQY-VDB
+    name: Lekstuga
+
+  - action: INACTIVATE
+    code: RYF-TKT-AGB-BGD-FQY-VWP
+    name: Trappa & Trapphus
+
+  - action: INACTIVATE
+    code: RYF-TKT-AGB-BGD-PSI
+    name: Skulpturer & konst
+
+  - action: INACTIVATE
+    code: RYF-TKT-AGB-BGD-HPJ
+    name: Svensk inredningsdesign
+
+  - action: UPDATE
+    code: RYF-TKT-AGB-BGD-IOS-HPK
+    name: Terass
+    newName: Terrass
+
+  - action: INACTIVATE
+    code: RYF-TKT-AGB-BGD-IOS-BLX
+    name: Trall
+
+  - action: ADD
+    parentCode: RYF-TKT-BOI
+    parentName: Bakning & bakverk
+    name: Kakor
+    level: 3
+
+  - action: UPDATE
+    code: RYF-TKT-HFD-TAX
+    name: Fotograferande
+    newName: Fotografering
+
+  - action: ADD
+    parentCode: RYF-TKT-HFD-BVJ
+    parentName: Hantverk
+    name: Brodering
+    level: 4
+
+  - action: ADD
+    parentCode: RYF-TKT-HFD-BVJ
+    parentName: Hantverk
+    name: Slöjdning
+    level: 4
+
+  - action: ADD
+    parentCode: RYF-TKT-HFD-BVJ
+    parentName: Hantverk
+    name: Smide
+    level: 4
+
+  - action: ADD
+    parentCode: RYF-TKT-HFD-BVJ
+    parentName: Hantverk
+    name: Sömnad
+    level: 4
+
+  - action: ADD
+    parentCode: RYF-TKT-HFD-BVJ
+    parentName: Hantverk
+    name: Vävning
+    level: 4
+
+  - action: UPDATE
+    code: RYF-TKT-HFD-BVJ-TFN
+    name: Knyppla
+    newName: Knyppling
+
+  - action: UPDATE
+    code: RYF-TKT-HFD-BVJ-NBC
+    name: Sticka
+    newName: Stickning
+
+  - action: UPDATE
+    code: RYF-TKT-HFD-BVJ-BLH
+    name: Virka
+    newName: Virkning
+
+  - action: UPDATE
+    code: RYF-TKT-HFD-DXE-JDU
+    name: Korsord & pysselspel
+    newName: Korsord
+
+  - action: MOVE
+    code: RYF-TKT-HFD-DXE-JDU
+    name: Korsord # Nytt namn ovan
+    newParentCode: RYF-TKT-HFD
+    newParentName: Hobby
+
+  - action: MOVE
+    code: RYF-TKT-HFD-DXE-WWB
+    name: Pussel
+    newParentCode: RYF-TKT-HFD
+    newParentName: Hobby
+
+  - action: UPDATE
+    code: RYF-TKT-KBC-JDH
+    name: Radhus & parhus
+    newName: Radhus
+
+  - action: ADD
+    parentCode: RYF-TKT-KBC
+    parentName: Bostad # Nytt namn ovan
+    name: Parhus
+    level: 3
+
+  - action: UPDATE
+    code: RYF-TKT-KBC-BTK
+    name: Villa & hus
+    newName: Villa
+
+  - action: INACTIVATE
+    code: RYF-TKT-KBC-BTK-WFO
+    name: Stenhus
+
+  - action: INACTIVATE
+    code: RYF-TKT-KBC-BTK-DJI
+    name: Trähus
+
+  - action: MOVE
+    code: RYF-TKT-FKW
+    name: Köksredskap & köksutrustning
+    newParentCode: RYF-TKT-AGB
+    newParentName: Hem
+
+  - action: UPDATE
+    code: RYF-TKT-GTX-NKU-BJE-UZF
+    name: Armband & länkar
+    newName: Armband
+
+  - action: UPDATE
+    code: RYF-TKT-GTX-NKU-BJE-MAY
+    name: Klockor & ur
+    newName: Klockor
+
+  - action: UPDATE
+    code: RYF-TKT-GTX-NKU-KLC
+    name: Shorts & byxor
+    newName: Byxor
+
+  - action: ADD
+    parentCode: RYF-TKT-GTX-NKU-KLC
+    parentName: Byxor # Nytt namn ovan
+    name: Chinos
+    level: 5
+
+  - action: INACTIVATE
+    code: RYF-TKT-GTX-NKU-RIU-MHI
+    name: Pastell
+
+  - action: UPDATE
+    code: RYF-TKT-GTX-NKU-ILV
+    name: Jackor, kappor & rockar
+    newName: Ytterkläder
+
+  - action: INACTIVATE
+    code: RYF-TKT-GTX-NKU-ILV-TEM
+    name: Höstjackor
+
+  - action: INACTIVATE
+    code: RYF-TKT-GTX-NKU-ILV-MBN
+    name: Vinterjackor
+
+  - action: INACTIVATE
+    code: RYF-TKT-GTX-NKU-ILV-MPY
+    name: Vårkappor
+
+  - action: INACTIVATE
+    code: RYF-TKT-GTX-NKU-ILV-IDL
+    name: Vårjackor
+
+  - action: INACTIVATE
+    code: RYF-TKT-GTX-NKU-ILV-QOY
+    name: Höstkappor
+
+  - action: ADD
+    parentCode: RYF-TKT-GTX-NKU-ILV
+    parentName: Ytterkläder # Nytt namn ovan
+    name: Jackor
+    level: 5
+
+  - action: ADD
+    parentCode: RYF-TKT-GTX-NKU-ILV
+    parentName: Ytterkläder # Nytt namn ovan
+    name: Kappor
+    level: 5
+
+  - action: ADD
+    parentCode: RYF-TKT-GTX-NKU-ILV
+    parentName: Ytterkläder # Nytt namn ovan
+    name: Rockar
+    level: 5
+
+  - action: INACTIVATE
+    code: RYF-TKT-GTX-NKU-ZTW-IEL
+    name: Spetstyger
+
+  - action: INACTIVATE
+    code: RYF-TKT-GTX-NKU-ZTW-XKR
+    name: Stickade kläder
+
+  - action: INACTIVATE
+    code: RYF-TKT-GTX-NKU-ZTW
+    name: Klädtyger
+
+  - action: ADD
+    parentCode: RYF-TKT-GTX-NKU
+    parentName: Mode & styling
+    name: Klädvård
+    level: 4
+
+  - action: INACTIVATE
+    code: RYF-TKT-GTX-NKU-TZG-LON
+    name: Långklänningar
+
+  - action: INACTIVATE
+    code: RYF-TKT-GTX-NKU-TZG-QDM
+    name: Nyårsklänningar
+
+  - action: INACTIVATE
+    code: RYF-TKT-GTX-NKU-TZG-RMD
+    name: Sommarklänningar
+
+  - action: INACTIVATE
+    code: RYF-CUW-RBU-LMA-NLN
+    name: Bebiskläder
+
+  - action: INACTIVATE
+    code: RYF-CUW-RBU-LMA-ODI
+    name: Skalkläder
+
+  - action: MOVE
+    code: RYF-CUW-RBU-LMA
+    name: Barnkläder
+    newParentCode: RYF-TKT-GTX-NKU
+    newParentName: Mode & styling
+
+  - action: UPDATE
+    code: RYF-TKT-GTX-NKU-GVR
+    name: Modetrender & modetyper
+    newName: Modetrender
+
+  - action: INACTIVATE
+    code: RYF-TKT-GTX-NKU-FDW-ZSP
+    name: Deodorant
+
+  - action: INACTIVATE
+    code: RYF-TKT-GTX-NKU-FDW-ASU
+    name: Eau de toilette
+
+  - action: INACTIVATE
+    code: RYF-TKT-GTX-NKU-FDW-SSU
+    name: Rakvatten
+
+  - action: INACTIVATE
+    code: RYF-TKT-GTX-NKU-BII-JGQ
+    name: Höstskor
+
+  - action: INACTIVATE
+    code: RYF-TKT-GTX-NKU-BII-YTJ
+    name: Sommarskor
+
+  - action: ADD
+    parentCode: RYF-TKT-GTX-NKU-BII
+    parentName: Skor
+    name: Stövlar
+    level: 5
+
+  - action: ADD
+    parentCode: RYF-TKT-GTX-NKU-BIH
+    parentName: Smink & make up
+    name: Läppbalsam
+    level: 5
+
+  - action: ADD
+    parentCode: RYF-TKT-GTX-NKU-BIH
+    parentName: Smink & make up
+    name: Läppglans
+    level: 5
+
+  - action: ADD
+    parentCode: RYF-TKT-GTX-NKU-BIH
+    parentName: Smink & make up
+    name: Läppstift
+    level: 5
+
+  - action: ADD
+    parentCode: RYF-TKT-GTX-NKU-BIH
+    parentName: Smink & make up
+    name: Nagellack
+    level: 5
+
+  - action: UPDATE
+    code: RYF-TKT-GTX-NKU-UOY
+    name: Stilar
+    newName: Modestilar
+
+  - action: INACTIVATE
+    code: RYF-TKT-GTX-NKU-UOY-ATZ
+    name: Kontorsstil
+
+  - action: INACTIVATE
+    code: RYF-TKT-GTX-NKU-UOY-XSJ
+    name: Street
+
+  - action: INACTIVATE
+    code: RYF-TKT-GTX-NKU-UOY-PKU
+    name: Vintagestil
+
+  - action: INACTIVATE
+    code: RYF-TKT-GTX-NKU-RRW-SLV
+    name: Handväskor
+
+  - action: UPDATE
+    code: RYF-TKT-GTX-NKU-QOV
+    name: Övrig kosmetika & behandlingar
+    newName: Kosmetika behandlingar
+
+  - action: INACTIVATE
+    code: RYF-TKT-GTX-NKU-QOV-RWF
+    name: Läppbalsam
+
+  - action: INACTIVATE
+    code: RYF-TKT-GTX-NKU-QOV-RAV
+    name: Läppglans
+
+  - action: INACTIVATE
+    code: RYF-TKT-GTX-NKU-QOV-YDU
+    name: Läppstift
+
+  - action: INACTIVATE
+    code: RYF-TKT-GTX-NKU-QOV-KWG
+    name: Nagellack
+
+  - action: UPDATE
+    code: RYF-TKT-GTX-NKU-EXJ
+    name: Övriga kläder & klädprodukter
+    newName: Klädprodukter
+
+  - action: INACTIVATE
+    code: RYF-TKT-GTX-NKU-EXJ-FPT
+    name: Klädvård
+
+  - action: UPDATE
+    code: RYF-TKT-RJN
+    name: Lotto & bingo
+    newName: Lotteri, bingo och turspel
+
+  - action: MOVE
+    code: RYF-TKT-RJN
+    name: Lotteri, bingo och turspel # Nytt namn ovan
+    newParentCode: RYF-TKT-HFD
+    newParentName: Hobby
+    description: Spel vars utgång beror på slumpen. Lotterier, kortspel, tärningsspel, och bingo. På kasinon spelas typiska hasardspel vars utgång inte beror de spelandes skicklighet.
+
+  - action: INACTIVATE
+    code: RYF-TKT-JCK-MKF-RTF
+    name: Nordafrikansk mat
+
+  - action: ADD
+    parentCode: RYF-TKT-JCK
+    parentName: Mat
+    name: Fermenterad mat
+    level: 3
+
+  - action: ADD
+    parentCode: RYF-TKT-JCK
+    parentName: Mat
+    name: Inlagd mat
+    level: 3
+
+  - action: UPDATE
+    code: RYF-TKT-JCK-HCA
+    name: Kött & styckningsdetaljer
+    newName: Kött
+
+  - action: UPDATE
+    code: RYF-TKT-JCK-QCJ
+    name: Mat under fest, högtid & helg
+    newName: Festmat
+
+  - action: MOVE
+    code: RYF-TKT-JCK-QCJ-UFT
+    name: Tapas
+    newParentCode: RYF-TKT-JCK-LLO
+    newParentName: Spansk mat
+
+  - action: INACTIVATE
+    code: RYF-TKT-JCK-NNK
+    name: Övriga mattillbehör
+
+  - action: INACTIVATE
+    code: RYF-TKT-JCK-TEX-PMK
+    name: Fermentering
+
+  - action: INACTIVATE
+    code: RYF-TKT-JCK-TEX-YHX
+    name: Inläggningar
+
+  - action: UPDATE
+    code: RYF-TKT-JCK-TEX-YAQ
+    name: Rökning
+    newName: Rökt mat
+
+  - action: MOVE
+    code: RYF-TKT-JCK-TEX-YAQ
+    name: Rökt mat
+    newParentCode: RYF-TKT-JCK
+    newParentName: Mat
+
+  - action: MOVE
+    code: RYF-TKT-JCK-TEX-DHV
+    name: Safta & sylta
+    newParentCode: RYF-TKT-JCK
+    newParentName: Mat
+
+  - action: INACTIVATE
+    code: RYF-TKT-JCK-TEX
+    name: Övriga tillagningstekniker
+
+  - action: UPDATE
+    code: RYF-TKT-JCK-ZYE
+    name: Övrig medelhavsmat
+    newName: Medelhavsmat
+
+  - action: UPDATE
+    code: RYF-TKT-JCK-SDQ
+    name: Övrig sydamerikansk mat
+    newName: Sydamerikansk mat
+
+  - action: INACTIVATE
+    code: RYF-AKM-TGS-QGV-NBN
+    name: Stormar & orkaner
+
+  - action: INACTIVATE
+    code: RYF-AKM-TGS-QGV-PGK
+    name: Väderkatastrof
+
+  - action: INACTIVATE
+    code: RYF-AKM-TGS-QGV-BSS
+    name: Översvämning
+
+  - action: UPDATE
+    code: RYF-EOI
+    name: Vetenskap & teknologi
+    newName: Vetenskap & teknik
+
+  - action: UPDATE
+    code: RYF-EOI-FZS
+    name: Biomedicinsk vetenskap
+    newName: Biomedicin
+
+  - action: MOVE
+    code: RYF-EOI-FZS-RFH
+    name: Veterinärvetenskap
+    newParentCode: RYF-EOI-DLM-FKB-XGL
+    newParentName: Zoologi
+
+  - action: ADD
+    parentCode: RYF-EOI-DLM-FKB-XGL
+    parentName: Zoologi
+    name: Djurskydd
+    level: 5
+
+  - action: ADD
+    parentCode: RYF-EOI-DLM
+    parentName: Naturvetenskap
+    name: Medicin
+    level: 3
+
+  - action: INACTIVATE
+    code: RYF-EOI-FKT
+    name: Forskningsinstitutioner
+
+  - action: MOVE
+    code: RYF-EOI-DLM-QDJ
+    name: Matematik
+    newParentCode: RYF-EOI
+    newParentName: Vetenskap & teknik # Nytt namn ovan
+
+  - action: ADD
+    parentCode: RYF-EOI-DLM
+    parentName: Naturvetenskap
+    name: Agronomi
+    level: 3
+
+  - action: ADD
+    parentCode: RYF-EOI-DLM-DAF
+    parentName: Astronomi
+    name: Rymden
+    level: 4
+
+  - action: ADD
+    parentCode: RYF-EOI-DLM-FKB-ZXC
+    parentName: Genetik
+    name: Genteknik
+    level: 5
+
+  - action: ADD
+    parentCode: RYF-EOI-DLM-FKB-ZXC
+    parentName: Genetik
+    name: Dna
+    level: 5
+
+  - action: ADD
+    parentCode: RYF-EOI-DLM-FKB
+    parentName: Biologi
+    name: Människan
+    level: 4
+
+  - action: ADD
+    parentCode: RYF-EOI-DLM-BEP
+    parentName: Geologi
+    name: Slukhål
+    level: 4
+
+  - action: INACTIVATE
+    code: RYF-EOI-DLM-GWM
+    name: Kosmologi
+
+  - action: INACTIVATE
+    code: RYF-EOI-DLM-XEB
+    name: Oceanografi
+
+  - action: UPDATE
+    code: RYF-EOI-GLR
+    name: Samhällsvetenskaper
+    newName: Samhällsvetenskap
+
+  - action: UPDATE
+    code: RYF-EOI-DOE
+    name: Vetenskaplig forskning
+    newName: Forskning
+
+  - action: INACTIVATE
+    code: RYF-EOI-DOE-QRZ
+    name: Medicinsk forskning
+
+  - action: ADD
+    parentCode: RYF-TKT-OUV-ZMR
+    parentName: Restips
+    name: Reseguide
+    level: 4
+
+  - action: ADD
+    parentCode: RYF-TKT-OUV
+    parentName: Resa
+    name: Reseskildring
+    level: 3
+
+  - action: ADD
+    parentCode: RYF-TKT-OUV
+    parentName: Resa
+    name: Sparesa
+    level: 3
+
+  - action: MOVE
+    code: RYF-TKT-OUV-SMF-KPW
+    name: Alpin- & fjällresa
+    newParentCode: RYF-TKT-OUV
+    newParentName: Resa
+
+  - action: MOVE
+    code: RYF-TKT-OUV-SMF-PFL
+    name: Bilsemester
+    newParentCode: RYF-TKT-OUV
+    newParentName: Resa
+
+  - action: MOVE
+    code: RYF-TKT-OUV-SMF-ZBB
+    name: Båtluff
+    newParentCode: RYF-TKT-OUV
+    newParentName: Resa
+
+  - action: MOVE
+    code: RYF-TKT-OUV-SMF-CUO
+    name: Campingresa
+    newParentCode: RYF-TKT-OUV
+    newParentName: Resa
+
+  - action: MOVE
+    code: RYF-TKT-OUV-SMF-NJA
+    name: Charterresa
+    newParentCode: RYF-TKT-OUV
+    newParentName: Resa
+
+  - action: MOVE
+    code: RYF-TKT-OUV-SMF-EZB
+    name: Familjeresa
+    newParentCode: RYF-TKT-OUV
+    newParentName: Resa
+
+  - action: MOVE
+    code: RYF-TKT-OUV-SMF-FUV
+    name: Friluftsresa
+    newParentCode: RYF-TKT-OUV
+    newParentName: Resa
+
+  - action: UPDATE
+    code: RYF-TKT-OUV-SMF-BJW
+    name: Fyndresa
+    newName: Sista minuten-resa
+
+  - action: MOVE
+    code: RYF-TKT-OUV-SMF-BJW
+    name: Sista minuten-resa
+    newParentCode: RYF-TKT-OUV
+    newParentName: Resa
+
+  - action: MOVE
+    code: RYF-TKT-OUV-SMF-QXV
+    name: Golfresa
+    newParentCode: RYF-TKT-OUV
+    newParentName: Resa
+
+  - action: MOVE
+    code: RYF-TKT-OUV-SMF-RTB
+    name: Gruppresa
+    newParentCode: RYF-TKT-OUV
+    newParentName: Resa
+
+  - action: MOVE
+    code: RYF-TKT-OUV-SMF-WJW
+    name: Hälsoresa
+    newParentCode: RYF-TKT-OUV
+    newParentName: Resa
+
+  - action: MOVE
+    code: RYF-TKT-OUV-SMF-MYQ
+    name: Idrottsresa
+    newParentCode: RYF-TKT-OUV
+    newParentName: Resa
+
+  - action: MOVE
+    code: RYF-TKT-OUV-SMF-ISY
+    name: Jorden runt-resa
+    newParentCode: RYF-TKT-OUV
+    newParentName: Resa
+
+  - action: MOVE
+    code: RYF-TKT-OUV-SMF-TGV
+    name: Julresa
+    newParentCode: RYF-TKT-OUV
+    newParentName: Resa
+
+  - action: MOVE
+    code: RYF-TKT-OUV-SMF-MQG
+    name: Kryssning
+    newParentCode: RYF-TKT-OUV
+    newParentName: Resa
+
+  - action: MOVE
+    code: RYF-TKT-OUV-SMF-PYW
+    name: Långresa
+    newParentCode: RYF-TKT-OUV
+    newParentName: Resa
+
+  - action: MOVE
+    code: RYF-TKT-OUV-SMF-PJO
+    name: Mat- & vinresa
+    newParentCode: RYF-TKT-OUV
+    newParentName: Resa
+
+  - action: MOVE
+    code: RYF-TKT-OUV-SMF-FKF
+    name: Paketresa
+    newParentCode: RYF-TKT-OUV
+    newParentName: Resa
+
+  - action: ADD
+    parentCode: RYF-TKT-OUV
+    parentName: Resa
+    name: Shoppingresa
+    level: 3
+
+  - action: MOVE
+    code: RYF-TKT-OUV-SMF-ZWU
+    name: Smekmånad
+    newParentCode: RYF-TKT-OUV
+    newParentName: Resa
+
+  - action: MOVE
+    code: RYF-TKT-OUV-SMF-BAZ
+    name: Sol- & badresa
+    newParentCode: RYF-TKT-OUV
+    newParentName: Resa
+
+  - action: MOVE
+    code: RYF-TKT-OUV-SMF-KNG
+    name: Sommarresa
+    newParentCode: RYF-TKT-OUV
+    newParentName: Resa
+
+  - action: ADD
+    parentCode: RYF-TKT-OUV
+    parentName: Resa
+    name: Spa-resa
+    level: 3
+
+  - action: MOVE
+    code: RYF-TKT-OUV-SMF-CDV
+    name: Sverigeresa
+    newParentCode: RYF-TKT-OUV
+    newParentName: Resa
+
+  - action: MOVE
+    code: RYF-TKT-OUV-SMF-LKV
+    name: Träningsresa
+    newParentCode: RYF-TKT-OUV
+    newParentName: Resa
+
+  - action: MOVE
+    code: RYF-TKT-OUV-SMF-RIS
+    name: Tågluff
+    newParentCode: RYF-TKT-OUV
+    newParentName: Resa
+
+  - action: MOVE
+    code: RYF-TKT-OUV-SMF-EPL
+    name: Utlandsboende
+    newParentCode: RYF-TKT-OUV
+    newParentName: Resa
+
+  - action: MOVE
+    code: RYF-TKT-OUV-SMF-LKL
+    name: Weekend-resa
+    newParentCode: RYF-TKT-OUV
+    newParentName: Resa
+
+  - action: MOVE
+    code: RYF-TKT-OUV-SMF-ITH
+    name: Äventyrsresa
+    newParentCode: RYF-TKT-OUV
+    newParentName: Resa
+
+  - action: ADD
+    parentCode: RYF-TKT-XHP
+    parentName: Träning & hälsa
+    name: Sömn
+    level: 3
+
+  - action: MOVE
+    code: RYF-TKT-XHP-MHN-XMN
+    name: Bodypump
+    newParentCode: RYF-TKT-XHP
+    newParentName: Träning & hälsa
+
+  - action: UPDATE
+    code: RYF-TKT-XHP-MHN-ETF
+    name: Cross fit
+    newName: Crossfit
+
+  - action: MOVE
+    code: RYF-TKT-XHP-MHN-ETF
+    name: Crossfit # Nytt namn ovan
+    newParentCode: RYF-TKT-XHP
+    newParentName: Träning & hälsa
+
+  - action: MOVE
+    code: RYF-TKT-XHP-MHN-YXW
+    name: Motionssimning
+    newParentCode: RYF-TKT-XHP
+    newParentName: Träning & hälsa
+
+  - action: INACTIVATE
+    code: RYF-TKT-XHP-MHN
+    name: Övriga träningsformer
+
+  - action: MOVE
+    code: RYF-QPR-QHP-OPY
+    name: Dopningskontroll
+    newParentCode: RYF-QPR
+    newParentName: Sport
+
+  - action: UPDATE
+    code: RYF-QPR-QHP-QXE
+    name: Dopning inom idrott
+    newName: Dopning
+
+  - action: MOVE
+    code: RYF-QPR-QHP-QXE
+    name: Dopning # Nytt namn ovan
+    newParentCode: RYF-QPR
+    newParentName: Sport
+
+  - action: INACTIVATE
+    code: RYF-QPR-QHP-XNK
+    name: Tillåtna läkemedel och preparat
+
+  - action: ADD
+    parentCode: RYF-QPR-HGB-APE
+    parentName: Biljard
+    name: Carambole
+    level: 4
+
+  - action: ADD
+    parentCode: RYF-QPR-HGB-APE
+    parentName: Biljard
+    name: Pool
+    level: 4
+
+  - action: MOVE
+    code: RYF-QPR-HGB-WHS
+    name: Snooker
+    newParentCode: RYF-QPR-HGB-APE
+    newParentName: Biljard
+
+  - action: ADD
+    parentCode: RYF-QPR-HGB-RQL
+    parentName: Brottning
+    name: Fristil
+    level: 4
+
+  - action: INACTIVATE
+    code: RYF-QPR-HGB-FUZ-VII
+    name: Cyklo-cross
+
+  - action: UPDATE
+    code: RYF-QPR-HGB-FUZ-UTN
+    name: Velodromcykling
+    newName: Bancykling
+
+  - action: ADD
+    parentCode: RYF-QPR-HGB-PWE
+    parentName: Friidrott
+    name: Maraton
+    level: 4
+
+  - action: UPDATE
+    code: RYF-QPR-HGB-CIS-MON
+    name: Minigolf
+    newName: Bangolf
+
+  - action: MOVE
+    code: RYF-QPR-HGB-CIS-MON
+    name: Bangolf # Nytt namn ovan
+    newParentCode: RYF-QPR-HGB
+    newParentName: Sport
+
+  - action: ADD
+    parentCode: RYF-QPR-HGB-KJR
+    parentName: Gymnastik
+    name: Truppgymnastik
+    level: 4
+
+  - action: UPDATE
+    code: RYF-QPR-HGB-UGP
+    name: Inline & skateboard
+    newName: Skateboard
+
+  - action: INACTIVATE
+    code: RYF-QPR-HGB-UGP-BFM
+    name: Skateboard
+
+  - action: MOVE
+    code: RYF-QPR-HGB-UGP-RGU
+    name: Inlinehockey
+    newParentCode: RYF-QPR-HGB
+    newParentName: Sport
+
+  - action: ADD
+    parentCode: RYF-QPR-HGB-NYM
+    parentName: Skridskoåkning
+    name: Inline
+    level: 4
+
+  - action: MOVE
+    code: RYF-QPR-HGB-MDD
+    name: Shorttrack
+    newParentCode: RYF-QPR-HGB-NYM
+    newParentName: Skridskoåkning
+
+  - action: UPDATE
+    code: RYF-QPR-HGB-NYM
+    name: Skridskoåkning
+    newName: Skridsko
+
+  - action: ADD
+    parentCode: RYF-QPR-HGB-SQQ
+    parentName: Konståkning
+    name: Isdans
+    level: 4
+
+  - action: ADD
+    parentCode: RYF-QPR-HGB-SQQ
+    parentName: Konståkning
+    name: Paråkning
+    level: 4
+
+  - action: ADD
+    parentCode: RYF-QPR-HGB-SQQ
+    parentName: Konståkning
+    name: Singelåkning
+    level: 4
+
+  - action: ADD
+    parentCode: RYF-QPR-HGB-SQQ
+    parentName: Konståkning
+    name: Synkroniserad åkning
+    level: 4
+
+  - action: ADD
+    parentCode: RYF-QPR-HGB-AIO
+    parentName: Parasport
+    name: Kälkhockey
+    level: 4
+
+  - action: UPDATE
+    code: RYF-QPR-HGB-IPS-KOW
+    name: Distans
+    newName: Distansridning
+
+  - action: UPDATE
+    code: RYF-QPR-HGB-IPS-VZU
+    name: Körning
+    newName: Sportkörning
+
+  - action: ADD
+    parentCode: RYF-ZEI-QVY
+    parentName: Lön & förmån
+    name: Inkomst
+    level: 3
+
+  - action: ADD
+    parentCode: RYF-ZEI
+    parentName: Arbetsmarknad
+    name: Arbetskraftsinvanding
+    level: 2
+
+  - action: MOVE
+    code: RYF-ZEI-ICY
+    name: Sjukskrivning
+    newParentCode: RYF-ZEI-CZS
+    newParentName: Personal- & anställning
+
+  - action: ADD
+    parentCode: RYF-BIZ-WZJ-XEY
+    parentName: Sexualbrott
+    name: Sexuellt övergrepp
+    level: 4
+
+  - action: ADD
+    parentCode: RYF-BIZ
+    parentName: Brott, lag och rätt
+    name: Rättsväsendet
+    level: 2
+
+  - action: ADD
+    parentCode: RYF-IXA-KEV-WBI
+    parentName: Finansiella resultat
+    name: Delårsrapport
+    level: 4
+
+  - action: UPDATE
+    code: RYF-IXA-KEV-RQL-WBC
+    name: Internethandel & postorder
+    newName: E-handel
+
+  - action: ADD
+    parentCode: RYF-IXA-KEV
+    parentName: Näringsliv
+    name: Organisation
+    level: 3
+
+  - action: INACTIVATE
+    code: RYF-IXA-KEV-WHS-OYE
+    name: Industriella komponenter
+
+  - action: INACTIVATE
+    code: RYF-IXA-KEV-WHS-IBU
+    name: Maskintillverkning
+
+  - action: INACTIVATE
+    code: RYF-IXA-KEV-WHS-PFN
+    name: Tung industri
+
+  - action: INACTIVATE
+    code: RYF-IXA-KEV-WHS
+    name: Tillverkning & konstruktion
+
+  - action: ADD
+    parentCode: RYF-IXA-QED
+    parentName: Samhällsekonomi
+    name: Export
+    level: 3
+
+  - action: ADD
+    parentCode: RYF-IXA-QED
+    parentName: Samhällsekonomi
+    name: Import
+    level: 3
+
+  - action: ADD
+    parentCode: RYF-IXA-QED-CPU
+    parentName: Skatter
+    name: Förmögenhetsskatt
+    level: 4
+
+  - action: ADD
+    parentCode: RYF-WUU-QNB
+    parentName: Behandlingar
+    name: Psykoterapi
+    level: 3
+
+  - action: ADD
+    parentCode: RYF-WUU-ZUM-PIA-MMW
+    parentName: Snusa
+    name: Snus
+    level: 5
+
+  - action: ADD
+    parentCode: RYF-WUU
+    parentName: Hälsa & sjukvård
+    name: Global hälsa
+    level: 5
+
+  - action: UPDATE
+    code: RYF-WUU-JZK-DGX
+    name: Allergier & överkänslighet
+    newName: Allergi
+
+  - action: ADD
+    parentCode: RYF-WUU-JZK
+    parentName: Sjukdomar, tillstånd och diagnoser
+    name: Överkänslighet
+    level: 3
+
+  - action: ADD
+    parentCode: RYF-WXT-HGG
+    parentName: Krig
+    name: Cyberkrigföring
+    level: 3
+
+  - action: MOVE
+    code: RYF-WXT-UBT-QGE
+    name: Folkmord
+    newParentCode: RYF-WXT
+    newParentName: Konflikter & krig # Nytt namn ovan
+
+  - action: ADD
+    parentCode: RYF-XKI-CUP-NWA-VVW
+    parentName: Musikgenre
+    name: Funk
+    level: 5
+
+  - action: ADD
+    parentCode: RYF-XKI-CUP-NWA-VVW
+    parentName: Musikgenre
+    name: Soul
+    level: 5
+
+  - action: INACTIVATE
+    code: RYF-XKI-CUP-EPC
+    name: Nöjesparker
+
+  - action: MOVE
+    code: RYF-CUW-USY
+    name: Bråk & osämja
+    newParentCode: RYF-CUW-EHM
+    newParentName: Kärlek & relationer
+
+  - action: UPDATE
+    code: RYF-CUW-LGT-WOF
+    name: Studentfirande
+    newName: Examen
+
+  - action: UPDATE
+    code: RYF-CUW-GIV
+    name: Familjefrågor
+    newName: Familj
+
+  - action: MOVE
+    code: RYF-CUW-GIV-CWF-SUG
+    name: Abort
+    newParentCode: RYF-CUW-GIV-CWF-TOL
+    newParentName: Graviditet
+
+  - action: MOVE
+    code: RYF-CUW-GIV-CWF-KUQ
+    name: Adoption
+    newParentCode: RYF-CUW-GIV
+    newParentName: Familj # Nytt namn ovan
+
+  - action: MOVE
+    code: RYF-CUW-GIV-CWF-ZTB
+    name: Bonusfamilj & bonusbarn
+    newParentCode: RYF-CUW-GIV
+    newParentName: Familj # Nytt namn ovan
+
+  - action: MOVE
+    code: RYF-CUW-GIV-CWF-LBN
+    name: Fertilitetsbehandling
+    newParentCode: RYF-CUW-GIV
+    newParentName: Familj # Nytt namn ovan
+
+  - action: INACTIVATE
+    code: RYF-CUW-GIV-CWF-TOL-NXR
+    name: Föda hemma
+
+  - action: INACTIVATE
+    code: RYF-CUW-GIV-CWF-TOL-XDW
+    name: Gravidberättelser
+
+  - action: INACTIVATE
+    code: RYF-CUW-GIV-CWF-TOL-KKC
+    name: Gravidkalender
+
+  - action: INACTIVATE
+    code: RYF-CUW-GIV-CWF-TOL-AWH
+    name: Kejsarsnitt
+
+  - action: INACTIVATE
+    code: RYF-CUW-GIV-CWF-TOL-BHK
+    name: Sätesförlossning
+
+  - action: MOVE
+    code: RYF-CUW-GIV-CWF-TOL-LNO
+    name: Ultraljud
+    newParentCode: RYF-WUU-QNB
+    newParentName: Behandlingar
+
+  - action: INACTIVATE
+    code: RYF-CUW-GIV-CWF-TOL-YDW
+    name: Vattnet går
+
+  - action: INACTIVATE
+    code: RYF-CUW-GIV-CWF-TOL-QRR
+    name: Ägglossning
+
+  - action: MOVE
+    code: RYF-CUW-GIV-CWF-TOL
+    name: Graviditet
+    newParentCode: RYF-CUW-GIV
+    newParentName: Familj # Nytt namn ovan
+
+  - action: MOVE
+    code: RYF-CUW-GIV-CWF-SPS
+    name: Ofrivillig barnlöshet
+    newParentCode: RYF-CUW-GIV
+    newParentName: Familj # Nytt namn ovan
+
+  - action: MOVE
+    code: RYF-CUW-GIV-CWF-HZS
+    name: Plötslig spädbarnsdöd
+    newParentCode: RYF-CUW-GIV
+    newParentName: Familj # Nytt namn ovan
+
+  - action: INACTIVATE
+    code: RYF-CUW-GIV-CWF-QZN
+    name: Sekundär infertilitet
+
+  - action: MOVE
+    code: RYF-CUW-GIV-CWF-VXO
+    name: Stjärnfamilj
+    newParentCode: RYF-CUW-GIV
+    newParentName: Familj # Nytt namn ovan
+
+  - action: MOVE
+    code: RYF-CUW-GIV-CWF-KGU
+    name: Tvillingar & flerbarnsfödsel
+    newParentCode: RYF-CUW-GIV
+    newParentName: Familj # Nytt namn ovan
+
+  - action: UPDATE
+    code: RYF-CUW-GIV-BNB
+    name: Skilsmässor
+    newName: Skilsmässa
+
+  - action: UPDATE
+    code: RYF-HPT-PFF-ZFA
+    name: Tonåringar
+    newName: Tonåring
+
+  - action: MOVE
+    code: RYF-HPT-PFF-ZFA
+    name: Tonåring # Nytt namn ovan
+    newParentCode: RYF-CUW-GIV
+    newParentName: Familj # Nytt namn ovan
+
+  - action: UPDATE
+    code: RYF-CUW-XVL-YQK
+    name: Farsdag
+    newName: Fars dag
+
+  - action: ADD
+    parentCode: RYF-CUW-XVL
+    parentName: Högtider
+    name: Eid al-fitr
+    level: 3
+    description: Eid al-fitr är det årliga fastebrytandets högtid som avslutar den muslimska fastemånaden ramadan
+
+  - action: INACTIVATE
+    code: RYF-CUW-XVL-AJJ-EJS
+    name: Julgran
+
+  - action: INACTIVATE
+    code: RYF-CUW-XVL-AJJ-LLV
+    name: Julklappar
+
+  - action: INACTIVATE
+    code: RYF-CUW-XVL-AJJ-BMF
+    name: Julpynta
+
+  - action: INACTIVATE
+    code: RYF-CUW-XVL-AJJ-MYS
+    name: Jylpyssel
+
+  - action: ADD
+    parentCode: RYF-CUW-XVL-AJJ
+    parentName: Jul
+    name: Advent
+    level: 4
+
+  - action: ADD
+    parentCode: RYF-CUW-XVL-AJJ
+    parentName: Jul
+    name: Trettondedag jul
+    level: 4
+
+  - action: UPDATE
+    code: RYF-CUW-XVL-HEF
+    name: Morsdag
+    newName: Mors dag
+
+  - action: INACTIVATE
+    code: RYF-CUW-XVL-YIQ
+    name: Pingst
+
+  - action: ADD
+    parentCode: RYF-CUW-XVL
+    parentName: Högtider
+    name: Thanksgiving
+    level: 3
+
+  - action: UPDATE
+    code: RYF-CUW-EHM
+    name: Kärlek & relationer
+    newName: Relationer
+
+  - action: ADD
+    parentCode: RYF-CUW-EHM
+    parentName: Relationer # Nytt namn ovan
+    name: Polyamori
+    level: 3
+
+  - action: MOVE
+    code: RYF-HPT-PPR-OZY
+    name: Pornografi
+    newParentCode: RYF-CUW-EHM-AEM
+    newParentName: Sex
+
+  - action: MOVE
+    code: RYF-CUW-GIV-CWF-BVA
+    name: Preventivmedel
+    newParentCode: RYF-CUW-EHM-AEM
+    newParentName: Sex
+
+  - action: INACTIVATE
+    code: RYF-CUW-IAA-JLY-SRX
+    name: Körkort
+
+  - action: INACTIVATE
+    code: RYF-CUW-ARJ
+    name: Självkänsla & självförtroende
+
+  - action: UPDATE
+    code: RYF-CUW-RBU
+    name: Småbarnsförälder
+    newName: Föräldraskap
+
+  - action: INACTIVATE
+    code: RYF-CUW-RBU-GOT-ZKB
+    name: Fotbollsskola
+
+  - action: INACTIVATE
+    code: RYF-CUW-RBU-GOT-PFC
+    name: Simskola
+
+  - action: INACTIVATE
+    code: RYF-CUW-RBU-TGE-RBD
+    name: Dockor & barbies
+
+  - action: INACTIVATE
+    code: RYF-CUW-RBU-TGE-QXR
+    name: Leksaksbilar
+
+  - action: INACTIVATE
+    code: RYF-CUW-RBU-TGE-JPQ
+    name: Sparkcyklar
+
+  - action: INACTIVATE
+    code: RYF-CUW-RBU-OZI-UKE
+    name: Skärmar & skärmtid
+
+  - action: INACTIVATE
+    code: RYF-CUW-RBU-OZI-HFE
+    name: Sätta gränser
+
+  - action: UPDATE
+    code: RYF-CUW-RBU-JJM
+    name: Bebis & småbarnsåren
+    newName: Bebis & småbarn
+
+  - action: INACTIVATE
+    code: RYF-CUW-RBU-JJM-XNX
+    name: Aggressivitet hos barn
+
+  - action: INACTIVATE
+    code: RYF-CUW-RBU-JJM-VET
+    name: Barns anknytning
+
+  - action: INACTIVATE
+    code: RYF-CUW-RBU-JJM-HRB
+    name: Barns temperament
+
+  - action: INACTIVATE
+    code: RYF-CUW-RBU-JJM-KPR-IDX
+    name: Nappar & sluta med napp
+
+  - action: INACTIVATE
+    code: RYF-CUW-RBU-JJM-KPR-HQM
+    name: Potträning & blöjfritt barn
+
+  - action: INACTIVATE
+    code: RYF-CUW-RBU-JJM-KPR-NAH
+    name: Sluta amma
+
+  - action: INACTIVATE
+    code: RYF-CUW-RBU-JJM-KPR-KFB
+    name: Vikt & längd
+
+  - action: INACTIVATE
+    code: RYF-CUW-RBU-JJM-BLQ-XCF
+    name: Babygym
+
+  - action: INACTIVATE
+    code: RYF-CUW-RBU-JJM-BLQ-FFA
+    name: Babysitter
+
+  - action: INACTIVATE
+    code: RYF-CUW-RBU-JJM-BLQ-AYL
+    name: Barnvagnar
+
+  - action: INACTIVATE
+    code: RYF-CUW-RBU-JJM-BLQ-STU
+    name: Spjälsängar
+
+  - action: INACTIVATE
+    code: RYF-CUW-RBU-JJM-BLQ
+    name: Bebisprylar & varor för barn
+
+  - action: INACTIVATE
+    code: RYF-CUW-RBU-JJM-WDC
+    name: Gnälliga barn
+
+  - action: INACTIVATE
+    code: RYF-CUW-RBU-JJM-FDN
+    name: Gråt & ledsamhet
+
+  - action: INACTIVATE
+    code: RYF-CUW-RBU-JJM-OXR
+    name: Kolik
+
+  - action: INACTIVATE
+    code: RYF-CUW-RBU-JJM-RWM-LAT
+    name: Modersmjölkersättning
+
+  - action: INACTIVATE
+    code: RYF-CUW-RBU-JJM-MTS
+    name: Nattning
+
+  - action: INACTIVATE
+    code: RYF-CUW-RBU-JJM-UZS
+    name: Skrikande barn
+
+  - action: INACTIVATE
+    code: RYF-CUW-RBU-JJM-QWP
+    name: Sömnmetoder
+
+  - action: INACTIVATE
+    code: RYF-CUW-RBU-JJM-GOV
+    name: Trots
+
+  - action: INACTIVATE
+    code: RYF-CUW-RBU-JJM-HDI
+    name: Tänders utveckling
+
+  - action: ADD
+    parentCode: RYF-CUW
+    parentName: Personligt
+    name: Särbegåvning
+    level: 2
+
+  - action: ADD
+    parentCode: RYF-CUW-MHX
+    parentName: Temadagar
+    name: Internationella kvinnodagen
+    level: 3
+
+  - action: INACTIVATE
+    code: RYF-CUW-MHX-LJL
+    name: Thanksgivning
+
+  - action: MOVE
+    code: RYF-CUW-DNF-CXI
+    name: Ensamhet
+    newParentCode: RYF-CUW-EHM
+    newParentName: Relationer # Nytt namn ovan
+
+  - action: INACTIVATE
+    code: RYF-CUW-DNF-BPT
+    name: Relation till föräldrar
+
+  - action: INACTIVATE
+    code: RYF-CUW-DNF-VJZ
+    name: Relation till vuxna barn
+
+  - action: UPDATE
+    code: RYF-CUW-DNF
+    name: Vänskap & relationer
+    newName: Vänskap
+
+  - action: MOVE
+    code: RYF-CUW-DNF
+    name: Vänskap # nytt namn ovan
+    newParentCode: RYF-CUW-EHM
+    newParentName: Relationer # Nytt namn ovan
+
+  - action: INACTIVATE
+    code: RYF-CUW-JCL
+    name: Växter
+
+  - action: ADD
+    parentCode: RYF-CUW-AEM
+    parentName: Åldrande
+    name: Klimakterie
+    level: 4
+
+  - action: MOVE
+    code: RYF-HPT-PFF-KWE
+    name: Pensionärer
+    newParentCode: RYF-CUW-AEM
+    newParentName: Åldrande
+
+  - action: UPDATE
+    code: RYF-KNI-XNS-SWE-PHD-ING
+    name: Feminism & genus
+    newName: Genus
+
+  - action: MOVE
+    code: RYF-KNI-XNS-SWE-PHD-ING
+    name: Genus # Nytt namn ovan
+    newParentCode: RYF-CUW
+    newParentName: Personligt
+
+  - action: UPDATE
+    code: RYF-HPT-PFF-YBM
+    name: HBTQ-personer
+    newName: Hbtqi
+
+  - action: MOVE
+    code: RYF-HPT-PFF-YBM
+    name: Hbtqi # Nytt namn ovan
+    newParentCode: RYF-CUW
+    newParentName: Personligt
+
+  - action: UPDATE
+    code: RYF-ITV-ZFQ
+    name: Dialog mellan religioner
+    newName: Ekumenik
+
+  - action: INACTIVATE
+    code: RYF-ITV-JHQ
+    name: Religiösa institutioner
+
+  - action: INACTIVATE
+    code: RYF-ITV-LTK
+    name: Religiösa konflikter
+
+  - action: ADD
+    parentCode: RYF-ITV
+    parentName: Religion & tro
+    name: Religiös utbildning
+    level: 2
+
+  - action: ADD
+    parentCode: RYF-ITV-LPR-UQT
+    parentName: Islam
+    name: Ahmadiyya
+    level: 4
+
+  - action: ADD
+    parentCode: RYF-ITV-LPR-UQT
+    parentName: Islam
+    name: Islamisk fundamentalism
+    level: 4
+
+  - action: ADD
+    parentCode: RYF-ITV-LPR-UQT
+    parentName: Islam
+    name: Salafism
+    level: 4
+
+  - action: ADD
+    parentCode: RYF-ITV-LPR-UQT
+    parentName: Islam
+    name: Shia
+    level: 4
+
+  - action: ADD
+    parentCode: RYF-ITV-LPR-UQT
+    parentName: Islam
+    name: Sufism
+    level: 4
+
+  - action: ADD
+    parentCode: RYF-ITV-LPR-UQT
+    parentName: Islam
+    name: Sunni
+    level: 4
+
+  - action: ADD
+    parentCode: RYF-ITV-LPR-BCK
+    parentName: Kristendom
+    name: Katolska kyrkan
+    level: 4
+
+  - action: ADD
+    parentCode: RYF-ITV-LPR-BCK
+    parentName: Kristendom
+    name: Ortodoxa kyrkan
+    level: 4
+
+  - action: ADD
+    parentCode: RYF-ITV-LPR-BCK
+    parentName: Kristendom
+    name: Protestantiska kyrkan
+    level: 4
+
+  - action: INACTIVATE
+    code: RYF-ITV-LPR-HEW
+    name: Sekt
+
+  - action: ADD
+    parentCode: RYF-YDR
+    parentName: Skola & utbildning
+    name: Skolbibliotek
+    level: 2
+
+  # Inkl barn
+  - action: MOVE
+    code: RYF-YDR-MHH-DJZ
+    name: Förskola
+    newParentCode: RYF-YDR
+    newParentName: Skola & utbildning
+
+  # Inkl barn
+  - action: MOVE
+    code: RYF-YDR-MHH-IRE
+    name: Grundskola
+    newParentCode: RYF-YDR
+    newParentName: Skola & utbildning
+
+  # Inkl barn
+  - action: MOVE
+    code: RYF-YDR-MHH-LKU
+    name: Gymnasieskola
+    newParentCode: RYF-YDR
+    newParentName: Skola & utbildning
+
+  - action: MOVE
+    code: RYF-YDR-MHH-UAD-JTM
+    name: Folkhögskola
+    newParentCode: RYF-YDR
+    newParentName: Skola & utbildning
+
+  - action: MOVE
+    code: RYF-YDR-MHH-UAD-FEL
+    name: Högskola
+    newParentCode: RYF-YDR
+    newParentName: Skola & utbildning
+
+  - action: MOVE
+    code: RYF-YDR-MHH-UAD-VTV
+    name: Universitet
+    newParentCode: RYF-YDR
+    newParentName: Skola & utbildning
+
+  - action: MOVE
+    code: RYF-YDR-MHH-UAD-PEA
+    name: Vuxenutbildning
+    newParentCode: RYF-YDR
+    newParentName: Skola & utbildning
+
+  - action: MOVE
+    code: RYF-YDR-MHH-UAD-LVQ
+    name: Yrkesutbildning
+    newParentCode: RYF-YDR
+    newParentName: Skola & utbildning
+
+  - action: ADD
+    parentCode: RYF-YDR-MQP
+    parentName: Friskola
+    name: Religiös friskola
+    level: 3
+
+  - action: INACTIVATE
+    code: RYF-YDR-UOJ
+    name: Religiös utbildning
+
+  - action: UPDATE
+    code: RYF-HPT-XRQ-HQH
+    name: Skolskjutsar
+    newName: Skolskjuts
+
+  - action: MOVE
+    code: RYF-HPT-XRQ-HQH
+    name: Skolskjuts # Nytt namn ovan
+    newParentCode: RYF-YDR
+    newParentName: Skola & utbildning
+
+  - action: ADD
+    parentCode: RYF-YDR
+    parentName: Skola & utbildning
+    name: Val av skola
+    level: 2
+
+  - action: UPDATE
+    code: RYF-YDR-WXH
+    name: Undervisning & lärande
+    newName: Undervisning
+
+  - action: ADD
+    parentCode: RYF-YDR
+    parentName: Skola & utbildning
+    name: Skollov
+    level: 2
+
+  - action: UPDATE
+    code: RYF-KNI-VTI
+    name: Extrema organisationer
+    newName: Politisk extremism
+
+  - action: ADD
+    parentCode: RYF-KNI-VTI
+    parentName: Politisk extremism # Nytt namn ovan
+    name: Högerextremism
+    level: 3
+
+  - action: ADD
+    parentCode: RYF-KNI-VTI
+    parentName: Politisk extremism # Nytt namn ovan
+    name: Religiös extremism
+    level: 3
+
+  - action: ADD
+    parentCode: RYF-KNI-VTI
+    parentName: Politisk extremism # Nytt namn ovan
+    name: Vänsterextremism
+    level: 3
+
+  - action: ADD
+    parentCode: RYF-KNI
+    parentName: Politik
+    name: Förtroendevalda
+    level: 2
+
+  - action: ADD
+    parentCode: RYF-KNI-ZIS
+    parentName: Grundlagar & grundläggande rättigheter
+    name: Regeringsformen
+    level: 3
+
+  - action: ADD
+    parentCode: RYF-KNI-ZIS
+    parentName: Grundlagar & grundläggande rättigheter
+    name: Riksdagsordningen
+    level: 3
+
+  - action: ADD
+    parentCode: RYF-KNI-ZIS
+    parentName: Grundlagar & grundläggande rättigheter
+    name: Successionsordningen
+    level: 3
+
+  # Inkl barn
+  - action: MOVE
+    code: RYF-KNI-SQH-LCX
+    name: Diplomati
+    newParentCode: RYF-KNI-ZDF
+    newParentName: Utrikespolitik
+
+  - action: MOVE
+    code: RYF-KNI-SQH-LBP
+    name: Ekonomiska sanktioner
+    newParentCode: RYF-KNI-ZDF
+    newParentName: Utrikespolitik
+
+  - action: INACTIVATE
+    code: RYF-KNI-SQH-DKK
+    name: Flyktingfrågan globalt
+
+  - action: INACTIVATE
+    code: RYF-KNI-SQH-WCF
+    name: Internationella organisationer
+
+  - action: INACTIVATE
+    code: RYF-KNI-SZU
+    name: Kungahuset
+
+  - action: MOVE
+    code: RYF-KNI-MRR-URH
+    name: Medborgarförslag
+    newParentCode: RYF-KNI
+    newParentName: Politik
+
+  - action: INACTIVATE
+    code: RYF-KNI-RLW-HER-HTC
+    name: Offentliga tjänstemän
+
+  - action: INACTIVATE
+    code: RYF-KNI-RLW-HER-XLI
+    name: Offentliganställda
+
+  - action: INACTIVATE
+    code: RYF-KNI-RLW-HER-VNR
+    name: Samhällstjänst & allmännytta
+
+  - action: UPDATE
+    code: RYF-KNI-RLW-HER
+    name: Myndighetsarbete
+    newName: Myndighetsutövning
+
+  - action: MOVE
+    code: RYF-KNI-RLW-HER
+    name: Myndighetsutövning # Nytt namn ovan
+    newParentCode: RYF-KNI
+    newParentName: Politik
+
+  - action: INACTIVATE
+    code: RYF-KNI-RLW-QNY
+    name: Departement
+
+  - action: INACTIVATE
+    code: RYF-KNI-RLW-EZD
+    name: Lokala myndigheter
+
+  - action: INACTIVATE
+    code: RYF-KNI-RLW-ZQN
+    name: Ministrar
+
+  - action: INACTIVATE
+    code: RYF-KNI-RLW-LKZ
+    name: Regionala myndigheter
+
+  - action: INACTIVATE
+    code: RYF-KNI-RLW-IQL
+    name: Riksrättsförfarande
+
+  - action: INACTIVATE
+    code: RYF-KNI-RLW-PGY
+    name: Statsöverhuvud
+
+  - action: INACTIVATE
+    code: RYF-KNI-RLW-PGC
+    name: Tillsynsmyndigheter
+
+  - action: INACTIVATE
+    code: RYF-KNI-RLW-PZE
+    name: Verkställande statsmakt
+
+  - action: ADD
+    parentCode: RYF-KNI
+    parentName: Politik
+    name: Politiska fångar
+    level: 2
+
+  - action: UPDATE
+    code: RYF-KNI-XNS-WZY-ZFI
+    name: Statsbudget & budgetarbete
+    newName: Budget
+
+  # Inkl barn
+  - action: MOVE
+    code: RYF-KNI-XNS-WZY-ZFI
+    name: Budget # Nytt namn ovan
+    newParentCode: RYF-KNI
+    newParentName: Politik
+
+  - action: MOVE
+    code: RYF-KNI-XNS-SWE-VMT-ZKQ
+    name: Vinster i välfärden
+    newParentCode: RYF-KNI-XNS-WZY-SEB
+    newParentName: Privatisering
+
+  - action: INACTIVATE
+    code: RYF-KNI-XNS-TXA-KEC
+    name: Kärnkraftspolitik
+
+  - action: MOVE
+    code: RYF-KNI-XNS-TXA
+    name: Energipolitik
+    newParentCode: RYF-KNI
+    newParentName: Politik
+
+  - action: UPDATE
+    code: RYF-KNI-XNS-JVN
+    name: Flyktingpolitik & migrationspolitik
+    newName: Flyktingpolitik
+
+  - action: MOVE
+    code: RYF-KNI-XNS-JVN-LCG
+    name: Gränskontroller
+    newParentCode: RYF-HPT-ZSS
+    newParentName: Samhällen
+
+  - action: MOVE
+    code: RYF-KNI-XNS-JVN
+    name: Flyktingpolitik # Nytt namn ovan
+    newParentCode: RYF-KNI
+    newParentName: Politik
+
+  - action: UPDATE
+    code: RYF-KNI-XNS-TDS
+    name: Försvars- & säkerhetspolitik
+    newName: Försvarspolitik
+
+  - action: MOVE
+    code: RYF-KNI-XNS-TDS
+    name: Försvarspolitik # Nytt namn ovan
+    newParentCode: RYF-KNI
+    newParentName: Politik
+
+  - action: UPDATE
+    code: RYF-KNI-XNS-PHE
+    name: Indrottspolitik
+    newName: Idrottspolitik
+
+  - action: MOVE
+    code: RYF-KNI-XNS-PHE
+    name: Idrottspolitik # Nytt namn ovan
+    newParentCode: RYF-KNI
+    newParentName: Politik
+
+  - action: UPDATE
+    code: RYF-KNI-XNS-CFE
+    name: Infrastrukturfrågor
+    newName: Infrastrukturpolitik
+
+  - action: MOVE
+    code: RYF-KNI-XNS-CFE
+    name: Infrastrukturpolitik # Nytt namn ovan
+    newParentCode: RYF-KNI
+    newParentName: Politik
+
+  - action: MOVE
+    code: RYF-KNI-XNS-FYA
+    name: Kommunpolitik
+    newParentCode: RYF-KNI
+    newParentName: Politik
+
+  - action: MOVE
+    code: RYF-KNI-XNS-CHY
+    name: Kulturpolitik
+    newParentCode: RYF-KNI
+    newParentName: Politik
+
+  - action: MOVE
+    code: RYF-KNI-XNS-YQW
+    name: Landsbygdspolitik
+    newParentCode: RYF-KNI
+    newParentName: Politik
+
+  - action: INACTIVATE
+    code: RYF-KNI-XNS-ELZ-DIN
+    name: Bilförbud
+
+  - action: INACTIVATE
+    code: RYF-KNI-XNS-ELZ-XSP
+    name: Dieselförbud
+
+  - action: INACTIVATE
+    code: RYF-KNI-XNS-ELZ-GES
+    name: Miljöbilspremie
+
+  - action: INACTIVATE
+    code: RYF-KNI-XNS-ELZ-KCI
+    name: MIljözoner
+
+  - action: INACTIVATE
+    code: RYF-KNI-XNS-ELZ-PXQ
+    name: Vägtullar
+
+  - action: UPDATE
+    code: RYF-KNI-XNS-ELZ
+    name: Miljö- & klimatpolitik
+    newName: Klimatpolitik
+
+  - action: MOVE
+    code: RYF-KNI-XNS-ELZ
+    name: Klimatpolitik # Nytt namn ovan
+    newParentCode: RYF-KNI
+    newParentName: Politik
+
+  - action: UPDATE
+    code: RYF-KNI-XNS-FQO
+    name: Regions- & landstingsfrågor
+    newName: Regionpolitik
+
+  - action: MOVE
+    code: RYF-KNI-XNS-FQO
+    name: Regionpolitik # Nytt namn ovan
+    newParentCode: RYF-KNI
+    newParentName: Politik
+
+  - action: INACTIVATE
+    code: RYF-KNI-XNS-TVM-YQF
+    name: Livsmedelsregler
+
+  - action: UPDATE
+    code: RYF-KNI-XNS-TVM
+    name: Regleringar
+    newName: Reglering
+
+  - action: MOVE
+    code: RYF-KNI-XNS-TVM
+    name: Reglering # Nytt namn ovan
+    newParentCode: RYF-KNI
+    newParentName: Politik
+
+  - action: UPDATE
+    code: RYF-KNI-XNS-SWE-TCB
+    name: Barn & ungdomsfrågor
+    newName: Barn- & ungdomspolitik
+
+  - action: MOVE
+    code: RYF-KNI-XNS-SWE-TCB
+    name: Barn- & ungdomspolitik # Nytt namn ovan
+    newParentCode: RYF-KNI
+    newParentName: Politik
+
+  - action: UPDATE
+    code: RYF-KNI-XNS-SWE-ROA
+    name: Bostads- & stadsplaneringsfrågor
+    newName: Bostadspolitik
+
+  - action: MOVE
+    code: RYF-KNI-XNS-SWE-ROA-EMY
+    name: Bostadsbrist
+    newParentCode: RYF-HPT-ZSS-WRT
+    newParentName: Bostadsmarknad
+
+  - action: INACTIVATE
+    code: RYF-KNI-XNS-SWE-ROA-DSR
+    name: Smarta städer
+
+  - action: MOVE
+    code: RYF-KNI-XNS-SWE-ROA
+    name: Bostadspolitik # Nytt namn ovan
+    newParentCode: RYF-KNI
+    newParentName: Politik
+
+  - action: UPDATE
+    code: RYF-KNI-XNS-SWE-HXR
+    name: Datasäkerhetsfrågor
+    newName: Datasäkerhetspolitik
+
+  - action: MOVE
+    code: RYF-KNI-XNS-SWE-HXR
+    name: Datasäkerhetspolitik # Nytt namn ovan
+    newParentCode: RYF-KNI
+    newParentName: Politik
+
+  - action: MOVE
+    code: RYF-KNI-XNS-SWE-OWE
+    name: Integrationspolitik
+    newParentCode: RYF-KNI
+    newParentName: Politik
+
+  - action: UPDATE
+    code: RYF-KNI-XNS-SWE-ILT
+    name: Integritetsfrågor & personuppgifter
+    newName: Integritetspolitik
+
+  - action: MOVE
+    code: RYF-KNI-XNS-SWE-ILT
+    name: Integritetspolitik # Nytt namn ovan
+    newParentCode: RYF-KNI
+    newParentName: Politik
+
+  - action: UPDATE
+    code: RYF-KNI-XNS-SWE-CAC
+    name: Minoritetsfrågor
+    newName: Minoritetspolitik
+
+  - action: MOVE
+    code: RYF-KNI-XNS-SWE-CAC
+    name: Minoritetspolitik # Nytt namn ovan
+    newParentCode: RYF-KNI
+    newParentName: Politik
+
+  - action: UPDATE
+    code: RYF-KNI-XNS-SWE-OTW
+    name: Offentliga upphandlingar
+    newName: Offentlig upphandling
+
+  - action: MOVE
+    code: RYF-KNI-XNS-SWE-OTW
+    name: Offentlig upphandling # Nytt namn ovan
+    newParentCode: RYF-HPT-ZSS
+    newParentName: Samhällen
+
+  - action: UPDATE
+    code: RYF-KNI-XNS-SWE-VMT
+    name: Pension & välfärdspolitik
+    newName: Välfärdspolitik
+
+  - action: INACTIVATE
+    code: RYF-KNI-XNS-SWE-PEU
+    name: Vapenpolitik
+
+  - action: INACTIVATE
+    code: RYF-KNI-XNS-KVO-RXE
+    name: Privat sjukvård
+
+  - action: UPDATE
+    code: RYF-KNI-XNS-KVO-MPS
+    name: Sjukförsäkring
+    newName: Socialförsäkringspolitik
+
+  - action: INACTIVATE
+    code: RYF-KNI-XNS-HIC-QQO
+    name: Drivmedelsskatt
+
+  - action: INACTIVATE
+    code: RYF-KNI-XNS-HIC-JCZ
+    name: Fordonsskatt
+
+  - action: INACTIVATE
+    code: RYF-KNI-XNS-HIC-JZM
+    name: Inkomstskatt
+
+  - action: MOVE
+    code: RYF-KNI-XNS-HIC
+    name: Skattepolitik
+    newParentCode: RYF-KNI
+    newParentName: Politik
+
+  - action: ADD
+    parentCode: RYF-KNI
+    parentName: Politik
+    name: Digitaliseringspolitik
+    level: 2
+
+  - action: ADD
+    parentCode: RYF-KNI
+    parentName: Politik
+    name: Familjepolitik
+    level: 2
+
+  - action: ADD
+    parentCode: RYF-KNI
+    parentName: Politik
+    name: Fördelningspolitik
+    level: 2
+
+  - action: ADD
+    parentCode: RYF-KNI
+    parentName: Politik
+    name: Klimatpolitik
+    level: 2
+
+  - action: ADD
+    parentCode: RYF-KNI
+    parentName: Politik
+    name: Kriminalpolitik
+    level: 2
+
+  - action: ADD
+    parentCode: RYF-KNI
+    parentName: Politik
+    name: Migrationspolitik
+    level: 2
+
+  - action: ADD
+    parentCode: RYF-KNI
+    parentName: Politik
+    name: Miljöpolitik
+    level: 2
+
+  - action: ADD
+    parentCode: RYF-KNI
+    parentName: Politik
+    name: Narkotikapolitik
+    level: 2
+
+  - action: ADD
+    parentCode: RYF-KNI
+    parentName: Politik
+    name: Pensionspolitik
+    level: 2
+
+  - action: ADD
+    parentCode: RYF-KNI
+    parentName: Politik
+    name: Socialpolitik
+    level: 2
+
+  - action: ADD
+    parentCode: RYF-KNI
+    parentName: Politik
+    name: Statsskick
+    level: 2
+
+  - action: ADD
+    parentCode: RYF-KNI
+    parentName: Politik
+    name: Säkerhetspolitik
+    level: 2
+
+  - action: ADD
+    parentCode: RYF-KNI-QXU
+    parentName: Politiska ideologier
+    name: Anarkism
+    level: 3
+
+  - action: ADD
+    parentCode: RYF-KNI-QXU
+    parentName: Politiska ideologier
+    name: Feminism
+    level: 3
+
+  - action: ADD
+    parentCode: RYF-KNI-QXU
+    parentName: Politiska ideologier
+    name: Gröna ideologier
+    level: 3
+
+  - action: ADD
+    parentCode: RYF-KNI-QXU
+    parentName: Politiska ideologier
+    name: Konservatism
+    level: 3
+
+  - action: ADD
+    parentCode: RYF-KNI-QXU
+    parentName: Politiska ideologier
+    name: Kristdemokrati
+    level: 3
+
+  - action: ADD
+    parentCode: RYF-KNI-QXU
+    parentName: Politiska ideologier
+    name: Liberalism
+    level: 3
+
+  - action: ADD
+    parentCode: RYF-KNI-QXU
+    parentName: Politiska ideologier
+    name: Nationalism
+    level: 3
+
+  - action: ADD
+    parentCode: RYF-KNI-QXU
+    parentName: Politiska ideologier
+    name: Socialism
+    level: 3
+
+  - action: INACTIVATE
+    code: RYF-KNI-EPV-ACB
+    name: Politiska debatter
+
+  - action: INACTIVATE
+    code: RYF-KNI-EPV-AQV
+    name: Politiska partier och rörelser
+
+  - action: INACTIVATE
+    code: RYF-KNI-EPV-JAT
+    name: Politiska utvecklingen
+
+  - action: UPDATE
+    code: RYF-KNI-NPJ
+    name: Regeringsfrågor
+    newName: Proposition
+
+  - action: INACTIVATE
+    code: RYF-KNI-NPJ-BSC
+    name: Författning
+
+  - action: UPDATE
+    code: RYF-KNI-CLN
+    name: Riksdagsfrågor
+    newName: Motioner
+
+  - action: INACTIVATE
+    code: RYF-KNI-CLN-QLS
+    name: Konstitutionella frågor
+
+  - action: ADD
+    parentCode: RYF-KNI-ZDF
+    parentName: Utrikespolitik
+    name: Biståndspolitik
+    level: 3
+
+  - action: ADD
+    parentCode: RYF-KNI-ZDF
+    parentName: Utrikespolitik
+    name: Utrikeshandelspolitik
+    level: 3
+
+  - action: INACTIVATE
+    code: RYF-KNI-ZDF-IGS-MTC
+    name: Primärval
+
+  - action: INACTIVATE
+    code: RYF-KNI-ZDF-IGS-ZBV
+    name: Val i USA
+
+  - action: INACTIVATE
+    code: RYF-KNI-ZDF-IGS
+    name: Amerikansk politik
+
+  - action: INACTIVATE
+    code: RYF-KNI-ZDF-IBY
+    name: Nationella val
+
+  - action: UPDATE
+    code: RYF-KNI-MRR-NUJ
+    name: Kommunval
+    newName: Kommunalval
+
+  - action: INACTIVATE
+    code: RYF-KNI-MRR-VDE
+    name: Lokalval
+
+  - action: UPDATE
+    code: RYF-KNI-MRR-YSA-CQL
+    name: EU-val
+    newName: EU-val
+    description: Val till Europaparlamentet
+
+  - action: UPDATE
+    code: RYF-KNI-MRR-EUF
+    name: Regionval & landstingsval
+    newName: Regionval
+
+  - action: INACTIVATE
+    code: RYF-KNI-MRR-EIU
+    name: Rösta i val
+
+  - action: UPDATE
+    code: RYF-HPT
+    name: Samhälle & välfärd
+    newName: Samhälle
+
+  - action: ADD
+    parentCode: RYF-HPT
+    parentName: Samhälle # Nytt namn ovan
+    name: Internationellt bistånd
+    level: 2
+
+  - action: ADD
+    parentCode: RYF-HPT-XAO
+    parentName: Diskriminering
+    name: Anitisemitism
+    level: 3
+
+  - action: ADD
+    parentCode: RYF-HPT
+    parentName: Samhälle # Nytt namn ovan
+    name: Energislag
+    level: 2
+
+  - action: ADD
+    parentCode: RYF-HPT-YGE-EWJ
+    parentName: Internet
+    name: Bredband
+    level: 4
+
+  - action: ADD
+    parentCode: RYF-HPT-YGE-EWJ
+    parentName: Internet
+    name: Datalagring
+    level: 4
+
+  - action: ADD
+    parentCode: RYF-HPT-YGE-EWJ
+    parentName: Internet
+    name: It-säkerhet
+    level: 4
+
+  - action: ADD
+    parentCode: RYF-HPT-YGE-EWJ
+    parentName: Internet
+    name: Fildelning
+    level: 4
+
+  - action: ADD
+    parentCode: RYF-HPT-YGE
+    parentName: Infrastruktur
+    name: Telenät
+    level: 3
+
+  - action: INACTIVATE
+    code: RYF-HPT-YGE-EIH
+    name: Tunnelbanenät
+
+  - action: ADD
+    parentCode: RYF-HPT-YGE-GCZ
+    parentName: Vattennät
+    name: Vatten & avlopp
+    level: 4
+
+  - action: ADD
+    parentCode: RYF-HPT
+    parentName: Samhälle # Nytt namn ovan
+    name: Integration
+    level: 2
+
+  - action: UPDATE
+    code: RYF-HPT-PPR
+    name: Moraliska frågor & sociala värderingar
+    newName: Moral & etik
+
+  - action: ADD
+    parentCode: RYF-HPT-PPR
+    parentName: Moral & etik # Nytt namn ovan
+    name: Hederskultur
+    level: 3
+
+  - action: ADD
+    parentCode: RYF-HPT-PPR
+    parentName: Moral & etik # Nytt namn ovan
+    name: Mobbning
+    level: 3
+
+  - action: INACTIVATE
+    code: RYF-HPT-PPR-RNR
+    name: Sexuellt beteende
+
+  - action: UPDATE
+    code: RYF-HPT-PFF-QXE
+    name: Nationell eller etnisk minoritet
+    newName: Minoritet
+
+  - action: INACTIVATE
+    code: RYF-HPT-PFF-LJW
+    name: Spädbarn
+
+  - action: INACTIVATE
+    code: RYF-HPT-PFF-JYB
+    name: Vuxna
+
+  - action: ADD
+    parentCode: RYF-HPT
+    parentName: Samhälle # Nytt namn ovan
+    name: Asylinvandring
+    level: 2
+
+  - action: MOVE
+    code: RYF-HPT-ZSS-LAJ
+    name: Byggnader
+    newParentCode: RYF-HPT
+    newParentName: Samhälle # Nytt namn ovan
+
+  # Inkl barn
+  - action: MOVE
+    code: RYF-HPT-ZSS-WRT
+    name: Bostadsmarknad
+    newParentCode: RYF-HPT
+    newParentName: Samhälle # Nytt namn ovan
+
+  - action: MOVE
+    code: RYF-HPT-ZSS-WTL-JLR
+    name: Detaljplan
+    newParentCode: RYF-HPT-ZSS-HAB
+    newParentName: Stadsmiljö
+
+  - action: MOVE
+    code: RYF-HPT-ZSS-WTL-XPE
+    name: Stadsbyggnad
+    newParentCode: RYF-HPT-ZSS-HAB
+    newParentName: Stadsmiljö
+
+  - action: ADD
+    parentCode: RYF-HPT
+    parentName: Samhälle # Nytt namn ovan
+    name: Civilsamhälle
+    level: 2
+
+  - action: ADD
+    parentCode: RYF-HPT
+    parentName: Samhälle # Nytt namn ovan
+    name: Glesbygd
+    level: 2
+
+  - action: ADD
+    parentCode: RYF-HPT
+    parentName: Samhälle # Nytt namn ovan
+    name: Krisberedskap
+    level: 2
+
+  - action: ADD
+    parentCode: RYF-HPT
+    parentName: Samhälle # Nytt namn ovan
+    name: Landsbygd
+    level: 2
+
+  - action: MOVE
+    code: RYF-HPT-ZSS-HAB
+    name: Stadsmiljö
+    newParentCode: RYF-HPT
+    newParentName: Samhälle # Nytt namn ovan
+
+  - action: MOVE
+    code: RYF-HPT-ZSS-WTL
+    name: Samhällsplanering
+    newParentCode: RYF-HPT
+    newParentName: Samhälle # Nytt namn ovan
+
+  - action: UPDATE
+    code: RYF-HPT-XRQ
+    name: Välfärd & bidragsfrågor
+    newName: Välfärd
+
+  - action: ADD
+    parentCode: RYF-HPT-XRQ
+    parentName: Välfärd # Nytt namn ovan
+    name: Familjehem
+    level: 3
+
+  - action: INACTIVATE
+    code: RYF-HPT-XRQ-BFV
+    name: Arbetslöshetsförsäkring
+
+  - action: UPDATE
+    code: RYF-HPT-XRQ-YUY
+    name: Föräldraledighet
+    newName: Föräldraförsäkring
+
+  - action: ADD
+    parentCode: RYF-HPT-XRQ-YUY
+    parentName: Föräldraförsäkring # Nytt namn ovan
+    name: Föräldraledighet
+    level: 4
+
+  - action: INACTIVATE
+    code: RYF-HPT-XRQ-DXC
+    name: Långtids- & äldrevård
+
+  - action: INACTIVATE
+    code: RYF-HPT-XRQ-YNP
+    name: Socialt skyddsnät
+
+  - action: INACTIVATE
+    code: RYF-HPT-THK-MAE
+    name: Kränkande beteende
+
+  - action: MOVE
+    code: RYF-HPT-THK-TPB
+    name: Ungdomsbrottslighet
+    newParentCode: RYF-BIZ-WZJ
+    newParentName: Brottslighet
+
+  - action: UPDATE
+    code: RYF-HPT-THK-RGK-VHY
+    name: MC-gäng
+    newName: Gängkriminalitet
+
+  # Inkl barn
+  - action: MOVE
+    code: RYF-HPT-THK-RGK
+    name: Yrkeskriminella
+    newParentCode: RYF-BIZ-WZJ
+    newParentName: Brottslighet
+  
+  - action: MOVE
+    code: RYF-HPT-THK-RYE
+    name: Missbruk
+    newParentCode: RYF-HPT-XRQ-FPB
+    newParentName: Socialtjänst
+
+  - action: MOVE
+    code: RYF-HPT-THK-OIW
+    name: Prostitution
+    newParentCode: RYF-HPT-XRQ-FPB
+    newParentName: Socialtjänst
+
+  - action: INACTIVATE
+    code: RYF-HPT-THK
+    name: Sociala problem
+
+  - action: UPDATE
+    code: RYF-HPT-XRQ-FPB
+    name: Socialtjänst
+    newName: Sociala problem
+
+  - action: MOVE
+    code: RYF-HPT-XRQ-FPB
+    name: Sociala problem
+    newParentCode: RYF-HPT
+    newParentName: Samhälle # Nytt namn ovan
+
+  # Uppsamlingsheat
+  - action: ADD
+    parentCode: RYF-BIZ-WZJ
+    parentName: Brottslighet
+    name: Välfärdsbrott
+    level: 3
+
+  - action: ADD
+    parentCode: RYF-BIZ
+    parentName: Brott, lag och rätt
+    name: Lagstiftning
+    level: 2
+
+  - action: UPDATE
+    code: RYF-IXA-KEV-BCO
+    name: Företagsförvärv
+    newName: Förvärv
+
+  - action: UPDATE
+    code: RYF-IXA-KEV-TOY
+    name: Fastighetsbranschen
+    newName: Fastighet
+
+  - action: ADD
+    parentCode: RYF-IXA-KEV-TOY
+    parentName: Fastighet # Nytt namn ovan
+    name: Fastighetsaffär
+    level: 4
+
+  - action: UPDATE
+    code: RYF-IXA-KEV-TOY-XLK
+    name: Kontorsförvaltning
+    newName: Kontor
+
+  - action: ADD
+    parentCode: RYF-IXA-KEV-IRW
+    parentName: Byggnadsbranschen
+    name: Byggnadsmaterial
+    level: 4
+
+  - action: ADD
+    parentCode: RYF-TKT-ZCD
+    parentName: Dryck
+    name: Alkohol
+    level: 3
+
+  - action: ADD
+    parentCode: RYF-TKT-ZCD
+    parentName: Dryck
+    name: Sommarvin
+    level: 3
+
+  - action: ADD
+    parentCode: RYF-TKT-ZCD-ZLW
+    parentName: Öl
+    name: Öltips
+    level: 4
+
+  - action: UPDATE
+    code: RYF-TKT-JCK-PRL
+    name: Mat för allergiker
+    newName: Specialkost
+
+  - action: UPDATE
+    code: RYF-AKM-AUE-CYE
+    name: Fordonsbrand
+    newName: Bilbrand
+
+  - action: INACTIVATE
+    code: RYF-CUW-RBU-EDA
+    name: Tonårsförälder
+
+  - action: ADD
+    parentCode: RYF-KNI-ZIS-IUN
+    parentName: Yttrandefrihet & tryckfrihet
+    name: Offentlighetsprincipen
+    level: 4
+
+  - action: ADD
+    parentCode: RYF-KNI
+    parentName: Politik
+    name: Opinionsmätning
+    level: 2
+
+  - action: ADD
+    parentCode: RYF-HPT-XAO-GAX
+    parentName: Religiös diskriminering
+    name: Islamofobi
+    level: 4
+
+  - action: ADD
+    parentCode: RYF-HPT
+    parentName: Samhälle
+    name: Filantropi
+    level: 2
+
+  - action: UPDATE
+    code: RYF-KNI-XNS-SWE-PHD
+    name: Jämställdhetsfrågor
+    newName: Jämställdhet
+
+  # Inkl barn
+  - action: MOVE
+    code: RYF-KNI-XNS-SWE-PHD
+    name: Jämställdhet # Ny post
+    newParentCode: RYF-HPT
+    newParentName: Samhälle
+
+  - action: ADD
+    parentCode: RYF-HPT-XRQ
+    parentName: Välfärd
+    name: Familjehem
+    level: 3
