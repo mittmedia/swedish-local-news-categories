@@ -1,6 +1,6 @@
 modifications:
 - action: ADD
-  parentCode: RYF-ZEI-CZS-XXXX # Nytt id för sjukskrivning i 20220224143000-1.yml
+  parentCode: RYF-ZEI-CZS-FIE # Nytt id för sjukskrivning i 20220224143000-1.yml
   parentName: Sjukskrivning
   name: Karensavdrag
   level: 4
@@ -24,13 +24,13 @@ modifications:
   level: 3
 
 - action: ADD
-  parentCode: RYF-IXA-KEV-TOY-XXXX # ID på Fastighetsaffär i 20220224143000-1.yml
+  parentCode: RYF-IXA-KEV-TOY-XRP # ID på Fastighetsaffär i 20220224143000-1.yml
   parentName: Fastighetsaffär # Nytt namn i 20220224143000-1.yml
   name: Tomträtt
   level: 5
 
 - action: ADD
-  parentCode: RYF-IXA-KEV-TOY-XXXX # ID på Fastighetsaffär i 20220224143000-1.yml
+  parentCode: RYF-IXA-KEV-TOY-XRP # ID på Fastighetsaffär i 20220224143000-1.yml
   parentName: Fastighetsaffär # Nytt namn  i 20220224143000-1.yml
   name: Tomträttsavgäld
   level: 5
@@ -146,6 +146,7 @@ modifications:
   name: Hyresförhandling
   level: 3
 
+# OBS! TODO: Kolla denna i categories-coded.yml.
 - action: MOVE
   code: RYF-WXT-XXXX-XXXX # ID för Militär utrustning i 20220224143000-1.yml 
   name: Militära vapen # Nytt namn i 20220224143000-1.yml 

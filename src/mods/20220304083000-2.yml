@@ -34,6 +34,7 @@ modifications:
   name: Simhall
   level: 5
 
+# OBS! offentlig upphandling är inaktiverad i encoded.
 - action: MOVE
   code: RYF-HPT-ZSS-XXXX # Nytt id i 20220224143000-1.yml
   name: Offentlig upphandling # Nytt namn i 20220224143000-1.yml
@@ -63,6 +64,7 @@ modifications:
   name: Äganderätt
   level: 3
 
+# Denna är redan flyttad i encoded
 - action: MOVE
   code: RYF-HPT-XXXX # Nytt id i 20220224143000-1.yml 
   name: Lotteri, bingo och turspel # Nytt namn i 20220224143000-1.yml 
