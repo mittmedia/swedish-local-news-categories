@@ -1,0 +1,12 @@
+modifications:
+- action: MOVE
+  newParentCode: RYF-WXT-KJS-LUM # ID för Militär utrustning och Militära vapen i 20220224143000-1.yml och  i 20220224143000-2.yml
+  newParentName: Militära vapen
+  code: RYF-WXT-ABT-QYW
+  name: Biologiska vapen
+  
+- action: ADD
+  parentCode: RYF-WXT-KJS-LUM # ID för Militär utrustning och Militära vapen i 20220224143000-1.yml och  i 20220224143000-2.yml
+  parentName: Militära vapen
+  name: Kärnvapen
+  level: 4
