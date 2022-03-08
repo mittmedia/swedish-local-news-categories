@@ -570,3 +570,8 @@ modifications:
   name: Skolsystemet
 
 
+- action: UPDATE
+  code: RYF-HPT-XAO-GDX
+  name: Diskriminering av funktionsnedsatta
+  newName: Diskriminering av funktionsvarierad
+
