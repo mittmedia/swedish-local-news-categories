@@ -146,13 +146,6 @@ modifications:
   name: Hyresförhandling
   level: 3
 
-# OBS! TODO: Kolla denna i categories-coded.yml.
-- action: MOVE
-  code: RYF-WXT-XXXX-XXXX # ID för Militär utrustning i 20220224143000-1.yml 
-  name: Militära vapen # Nytt namn i 20220224143000-1.yml 
-  newParentCode: RYF-WXT
-  newParentName: Konflikter & krig # Nytt namn i 20220224143000-1.yml 
-
 - action: ADD
   parentCode: RYF-XKI-CUP-NCO
   parentName: Konst # Nytt namn från 20220224143000-1.yml 
@@ -211,7 +204,369 @@ modifications:
   name: Kriminologi
   level: 3
 
+- action: ADD
+  parentCode: RYF-HPT-XXXX # ID för Hatbrott i 20220304083000-1.yml 
+  parentName: Hatbrott
+  name: Antisemitism
+  level: 3
 
 
+# Ändringar 2022-03-08
+
+- action: INACTIVATE
+  code: RYF-BIZ-WZJ-QQL-VHY
+  name: Gängkriminalitet
+
+- action: INACTIVATE
+  code: RYF-IXA-KEV-DOS
+  name: Avfallshantering & återvinning
+
+- action: MOVE
+  code: RYF-IXA-CVI-TXG
+  name: Investering
+  newParentCode: RYF-IXA-KEV
+  newParentName: Näringsliv
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-IRW
+  parentName: Byggnation # Nytt namn ovan
+  name: Byggfel
+  level: 4
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-IRW
+  parentName: Byggnation # Nytt namn ovan
+  name: Byggrätt
+  level: 4
+
+- action: INACTIVATE
+  code: RYF-IXA-KEV-COM
+  name: Byggnadsmaterial
+
+- action: INACTIVATE
+  code: RYF-IXA-KEV-XZV-QLV
+  name: Organisk kemi
+
+- action: MOVE
+  code: RYF-IXA-KEV-VSA-CJI-EBR
+  name: Djurhållning
+  newParentCode: RYF-IXA-KEV-VSA
+  newParentName: Naturbruk
+
+- action: INACTIVATE
+  code: RYF-IXA-KEV-DTA-UME
+  name: Produktionsstopp
+
+
+- action: MOVE
+  code: RYF-IXA-QED-BLG-IKK
+  name: Bruttonationalprodukt
+  newParentCode: RYF-IXA-QED
+  newParentName: Samhällsekonomi
+
+- action: MOVE
+  code: RYF-IXA-QED-BLG-AHX
+  name: Lagerstatus
+  newParentCode: RYF-IXA-QED
+  newParentName: Samhällsekonomi
+
+- action: MOVE
+  code: RYF-IXA-QED-BLG-VCU
+  name: Industriproduktion
+  newParentCode: RYF-IXA-QED 
+  newParentName: Samhällsekonomi
+
+- action: INACTIVATE
+  code: RYF-IXA-QED-BLG-RBR
+  name: Produktivitet
+
+- action: INACTIVATE
+  code: RYF-WUU-JZK-HZI
+  name: Fetma
+
+- action: MOVE
+  code: RYF-WUU-JZK-OQI
+  name: Fobier & rädslor
+  newParentCode: RYF-WUU-JZK-YSP
+  newParentName: Psykisk ohälsa
+
+- action: INACTIVATE
+  code: RYF-WUU-JZK-PCI-ZLG
+  name: Njurbäckeninflammation
+
+# Inkl barn
+- action: MOVE
+  code: RYF-WUU-JZK-WIT-GUK
+  name: Diabetes
+  newParentCode: RYF-WUU-JZK
+  newParentName: Sjukdomar, tillstånd och diagnoser
+
+- action: ADD
+  parentCode: RYF-WUU-JZK-YSP
+  parentName: Psykisk ohälsa
+  name: Borderline
+  level: 4
+
+- action: UPDATE
+  code: RYF-WUU-JZK-YSP-MMM
+  name: Sömn- & sovstörningar
+  newName: Sömnstörning
+
+- action: INACTIVATE
+  code: RYF-WUU-JZK-FBC-FEB-KRB
+  name: Gonorré
+
+- action: INACTIVATE
+  code: RYF-WUU-JZK-FBC-FEB-YOK
+  name: Herpes i underlivet
+
+- action: INACTIVATE
+  code: RYF-WUU-JZK-FBC-FEB-TYT
+  name: Klamydia
+
+- action: INACTIVATE
+  code: RYF-WUU-JZK-FBC-FEB-RND
+  name: Syfilis
+
+- action: UPDATE
+  code: RYF-WUU-JZK-FBC-FRI-WCA
+  name: Övriga förkylningsvirus
+  newName: Förkylning
+
+- action: ADD
+  parentCode: RYF-WUU-JZK-FBC-FRI
+  parentName: Virussjukdomar
+  name: Ebolafeber
+  level: 5
+
+- action: ADD
+  parentCode: RYF-WUU-JZK-FBC-FRI
+  parentName: Virussjukdomar
+  name: Mässling
+  level: 5
+
+- action: ADD
+  parentCode: RYF-WUU-JZK-FBC-FRI
+  parentName: Virussjukdomar
+  name: Svininfluensa
+  level: 5
+
+- action: INACTIVATE
+  code: RYF-WUU-JZK-NKB
+  name: Solrelaterade sjukdomar & åkommor
+
+- action: UPDATE
+  code: RYF-WUU-SUX-APJ-VGZ-GWG
+  name: Prematur & prematurvård
+  newName: Prematurvård
+
+- action: MOVE
+  code: RYF-WXT-DTF-QYO
+  name: Minröjning & röjning av krigsmateriel
+  newParentCode: RYF-WXT
+  newParentName: Konflikter & krig
+
+- action: MOVE
+  code: RYF-WXT-DTF-UWH
+  name: Nedrustning av vapen
+  newParentCode: RYF-WXT
+  newParentName: Konflikter & krig
+
+- action: ADD
+  parentCode: RYF-XKI-CUP-NWA
+  parentName: Musik
+  name: K-Pop
+  level: 4
+
+- action: MOVE
+  code: RYF-XKI-CUP-NWA-VVW-VZL
+  name: Soul
+  newParentCode: RYF-XKI-CUP-NWA
+  newParentName: Musik
+ 
+- action: INACTIVATE
+  code: RYF-TKT-AGB-IAV-XMI-GYW
+  name: Kakel & klinker
+
+
+- action: MOVE
+  code: RYF-TKT-AGB-BGD-IOS-RYM
+  name: Altan
+  newParentCode: RYF-TKT-AGB
+  newParentName: Hem
+
+- action: MOVE
+  code: RYF-TKT-AGB-BGD-IOS-GXU
+  name: Balong
+  newParentCode: RYF-TKT-AGB
+  newParentName: Hem
+
+- action: MOVE
+  code: RYF-TKT-AGB-BGD-IOS-QIY
+  name: Kolonilott
+  newParentCode: RYF-TKT-AGB
+  newParentName: Hem
+
+- action: MOVE
+  code: RYF-TKT-AGB-BGD-IOS-WTD
+  name: Lusthus
+  newParentCode: RYF-TKT-AGB
+  newParentName: Hem
+
+- action: MOVE
+  code: RYF-TKT-AGB-BGD-IOS-GTW
+  name: Pergola
+  newParentCode: RYF-TKT-AGB
+  newParentName: Hem
+
+- action: MOVE
+  code: RYF-TKT-AGB-BGD-IOS-HPK
+  name: Terass
+  newParentCode: RYF-TKT-AGB
+  newParentName: Hem
+
+- action: MOVE
+  code: RYF-TKT-AGB-BGD-IOS-IIF
+  name: Trädäck
+  newParentCode: RYF-TKT-AGB
+  newParentName: Hem
+
+- action: MOVE
+  code: RYF-TKT-AGB-BGD-IOS-GBG
+  name: Uteplats
+  newParentCode: RYF-TKT-AGB
+  newParentName: Hem
+
+- action: MOVE
+  code: RYF-TKT-AGB-BGD-IOS-DUP
+  name: Uterum
+  newParentCode: RYF-TKT-AGB
+  newParentName: Hem
+
+# Inkl barn
+- action: MOVE
+  code: RYF-TKT-AGB-BGD-ZRR
+  name: Vitvaror
+  newParentCode: RYF-TKT-AGB
+  newParentName: Hem
+
+- action: ADD
+  parentCode: RYF-TKT-GTX-NKU
+  parentName: Mode & styling
+  name: Shorts
+  level: 4
+
+- action: INACTIVATE
+  code: RYF-TKT-GTX-NKU-UOY
+  name: Modestilar
+
+
+- action: MOVE
+  code: RYF-TKT-GTX-NKU-EXJ-OPE
+  name: Basgarderob
+  newParentCode: RYF-TKT-GTX-NKU
+  newParentName: Mode & styling
+
+- action: MOVE
+  code: RYF-TKT-GTX-NKU-EXJ-DTO
+  name: Byxdressar
+  newParentCode: RYF-TKT-GTX-NKU
+  newParentName: Mode & styling
+
+- action: MOVE
+  code: RYF-TKT-GTX-NKU-EXJ-WAV
+  name: Couture
+  newParentCode: RYF-TKT-GTX-NKU
+  newParentName: Mode & styling
+
+- action: INACTIVATE
+  code: RYF-TKT-GTX-NKU-EXJ-OFI
+  name: Kollektioner & årstider
+
+- action: MOVE
+  code: RYF-TKT-GTX-NKU-EXJ-OIG
+  name: Kostymer
+  newParentCode: RYF-TKT-GTX-NKU
+  newParentName: Mode & styling
+
+- action: MOVE
+  code: RYF-TKT-GTX-NKU-EXJ-JSG
+  name: Träningskläder
+  newParentCode: RYF-TKT-GTX-NKU
+  newParentName: Mode & styling
+
+- action: UPDATE
+  code: RYF-TKT-GTX-ASQ-NZK
+  name: Reor & klipp
+  newName: Rea och klipp
+
+- action: MOVE
+  code: RYF-CUW-GIV-CWF-PXE
+  name: Ensamstående förälder
+  newParentCode: RYF-CUW-GIV
+  newParentName: Familj
+
+- action: MOVE
+  code: RYF-HPT-PFF-EUU
+  name: Barn
+  newParentCode: RYF-CUW-GIV
+  newParentName: Familj
+
+- action: MOVE
+  code: RYF-HPT-PFF-QXE
+  name: Minoritet
+  newParentCode: RYF-HPT
+  newParentName: Samhälle
+
+- action: INACTIVATE
+  code: RYF-HPT-PFF-ZMQ
+  name: Kön
+
+- action: INACTIVATE
+  code: RYF-CUW-MHX-JKD
+  name: Kladdkakans dag
+
+- action: INACTIVATE
+  code: RYF-KNI-TTC
+  name: Budgetar & budgetering
+
+- action: INACTIVATE
+  code: RYF-KNI-MYP
+  name: Icke-statliga organisationer
+
+- action: INACTIVATE
+  code: RYF-KNI-XSW
+  name: Bostadspolitik
+
+- action: ADD
+  parentCode: RYF-KNI
+  parentName: Politik
+  name: Statsbesök
+  level: 2
+
+- action: ADD
+  parentCode: RYF-HPT
+  parentName: Samhälle
+  name: Hatbrott
+  level: 2
+
+- action: INACTIVATE
+  code: RYF-HPT-YGE-AMQ
+  name: Avfalls- och sophantering
+
+- action: ADD
+  parentCode: RYF-HPT
+  parentName: Samhälle
+  name: Social hållbarhet
+  level: 2
+
+- action: INACTIVATE
+  code: RYF-HPT-TPU
+  name: Sociala situationer
+
+# Inkl barn
+- action: INACTIVATE
+  code: RYF-YDR-MHH
+  name: Skolsystemet
 
 

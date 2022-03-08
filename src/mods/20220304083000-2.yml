@@ -34,13 +34,6 @@ modifications:
   name: Simhall
   level: 5
 
-# OBS! offentlig upphandling är inaktiverad i encoded.
-- action: MOVE
-  code: RYF-HPT-ZSS-XXXX # Nytt id i 20220224143000-1.yml
-  name: Offentlig upphandling # Nytt namn i 20220224143000-1.yml
-  newParentCode: RYF-IXA-KEV-XXXX # Nytt ID i 20220304083000-1.yml
-  newParentName: Upphandling # Ny post i 20220304083000-1.yml
-
 - action: UPDATE
   code: RYF-WXT-XXXX # ID för Militära vapen i 20220304083000-1.yml
   name: Militära vapen
@@ -64,10 +57,69 @@ modifications:
   name: Äganderätt
   level: 3
 
-# Denna är redan flyttad i encoded
+- action: ADD
+  parentCode: RYF-IXA-KEV-XXXX # Nytt ID i 20220304083000-1.yml
+  parentName: Upphandling # Ny post i 20220304083000-1.yml
+  name: Offentlig upphandling
+  level: 3
+
+- action: INACTIVATE
+  code: RYF-IXA-KEV-VSA-CJI
+  name: Djuruppfödning
+
+- action: INACTIVATE
+  code: RYF-IXA-QED-BLG
+  name: Ekonomiska indikatorer
+
+- action: INACTIVATE
+  code: RYF-WUU-JZK-WIT
+  name: Kroniska sjukdomar
+
 - action: MOVE
-  code: RYF-HPT-XXXX # Nytt id i 20220224143000-1.yml 
-  name: Lotteri, bingo och turspel # Nytt namn i 20220224143000-1.yml 
-  newParentCode: RYF-TKT-HFD
-  newParentName: Hobby
+  code: RYF-WUU-JZK-FBC-BSI
+  name: Epidemi
+  newParentCode: RYF-WUU-JZK
+  newParentName: Sjukdomar, tillstånd och diagnoser
+
+- action: MOVE
+  code: RYF-WUU-JZK-FBC-FEB
+  name: Könssjukdomar
+  newParentCode: RYF-WUU-JZK
+  newParentName: Sjukdomar, tillstånd och diagnoser
+
+- action: MOVE
+  code: RYF-WUU-JZK-FBC-ORU
+  name: Pandemi
+  newParentCode: RYF-WUU-JZK
+  newParentName: Sjukdomar, tillstånd och diagnoser
+
+- action: MOVE
+  code: RYF-WUU-JZK-FBC-FRI
+  name: Virussjukdomar
+  newParentCode: RYF-WUU-JZK
+  newParentName: Sjukdomar, tillstånd och diagnoser
+
+- action: INACTIVATE
+  code: RYF-TKT-AGB-BGD-IOS
+  name: Utomhusmiljö
+
+- action: INACTIVATE
+  code: RYF-TKT-GTX-NKU-EXJ
+  name: Klädprodukter
+
+- action: INACTIVATE
+  code: RYF-HPT-PFF
+  name: Människogrupper
+
+- action: ADD
+  parentCode: RYF-HPT-XXX # ID från -1-fil
+  parentName: Hatbrott
+  name: Antisemitism
+  level: 3
+
+- action: MOVE
+  code: RYF-HPT-XAO-GAX-QFP
+  name: Islamofobi
+  newParentCode: RYF-HPT-XXX # ID från -1-fil
+  newParentName: Hatbrott
 
