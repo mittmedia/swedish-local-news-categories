@@ -575,3 +575,10 @@ modifications:
   name: Diskriminering av funktionsnedsatta
   newName: Diskriminering av funktionsvarierad
 
+- action: INACTIVATE
+  code: RYF-IXA-KEV-IFB
+  name: Mineraler & metaller
+
+- action: INACTIVATE
+  code: RYF-WUU-SUX-CJL-VSJ
+  name: Privata vårdcentraler
