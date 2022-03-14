@@ -12558,7 +12558,7 @@ categories:
   replacedBy: RYF-TKT-AGB-IAV-HHL
   replaces: RYF-TKT-AGB-NVR-WII
   status: INACTIVE
-- code: RYF-TKT-AGB-NIG
+- code: RYF-TKT-AGB-NVR
   description: ''
   level: 3
   name: Renovering
