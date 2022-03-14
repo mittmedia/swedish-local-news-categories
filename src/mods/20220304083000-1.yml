@@ -204,13 +204,6 @@ modifications:
   name: Kriminologi
   level: 3
 
-- action: ADD
-  parentCode: RYF-HPT-XXXX # ID för Hatbrott i 20220304083000-1.yml 
-  parentName: Hatbrott
-  name: Antisemitism
-  level: 3
-
-
 # Ändringar 2022-03-08
 
 - action: INACTIVATE
@@ -397,7 +390,7 @@ modifications:
 
 - action: MOVE
   code: RYF-TKT-AGB-BGD-IOS-GXU
-  name: Balong
+  name: Balkong
   newParentCode: RYF-TKT-AGB
   newParentName: Hem
 
@@ -542,12 +535,6 @@ modifications:
   parentCode: RYF-KNI
   parentName: Politik
   name: Statsbesök
-  level: 2
-
-- action: ADD
-  parentCode: RYF-HPT
-  parentName: Samhälle
-  name: Hatbrott
   level: 2
 
 - action: INACTIVATE
