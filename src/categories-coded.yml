@@ -2634,6 +2634,12 @@ categories:
   level: 3
   name: Hederskultur
   status: ACTIVE
+- code: RYF-HPT-QQW
+  description: ''
+  level: 2
+  name: Gränskontroller
+  replaces: RYF-KNI-XNS-JVN-LCG
+  status: ACTIVE
 - code: RYF-HPT-SQQ
   description: ''
   level: 2
@@ -5829,6 +5835,12 @@ categories:
   level: 3
   name: Upphandlingar
   status: ACTIVE
+- code: RYF-IXA-QED-LBK-QTX
+  description: ''
+  level: 4
+  name: Offentlig upphandling
+  replaces: RYF-KNI-XNS-SWE-OTW
+  status: ACTIVE
 - code: RYF-IXA-QED-LBV
   description: ''
   level: 3
@@ -6853,7 +6865,8 @@ categories:
   description: ''
   level: 4
   name: Gränskontroller
-  status: ACTIVE
+  replacedBy: RYF-HPT-QQW
+  status: INACTIVE
 - code: RYF-KNI-XNS-KVO
   description: ''
   level: 3
@@ -6904,7 +6917,8 @@ categories:
   description: ''
   level: 4
   name: Offentlig upphandling
-  status: ACTIVE
+  replacedBy: RYF-IXA-QED-LBK-QTX
+  status: INACTIVE
 - code: RYF-KNI-XNS-SWE-OWE
   description: ''
   level: 4
@@ -17718,6 +17732,7 @@ categories:
   replaces: RYF-WXT-ABT-QYW
   status: ACTIVE
 - code: RYF-WXT-KJS-LUM-ZHN
+  description: ''
   level: 4
   name: Kärnvapen
   status: ACTIVE
