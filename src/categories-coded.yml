@@ -3248,18 +3248,6 @@ categories:
   name: Arkitektur
   replacedBy: RYF-HPT-MKL-UDN
   status: INACTIVE
-- code: RYF-HPT-ZSS-LRX
-  description: ''
-  level: 3
-  name: Offentlig upphandling
-  replaces: RYF-KNI-XNS-SWE-OTW
-  status: INACTIVE
-- code: RYF-HPT-ZSS-WNX
-  description: ''
-  level: 3
-  name: Gränskontroller
-  replaces: RYF-KNI-XNS-JVN-LCG
-  status: INACTIVE
 - code: RYF-HPT-ZSS-WRT
   description: ''
   level: 3
@@ -6865,8 +6853,7 @@ categories:
   description: ''
   level: 4
   name: Gränskontroller
-  replacedBy: RYF-HPT-ZSS-WNX
-  status: INACTIVE
+  status: ACTIVE
 - code: RYF-KNI-XNS-KVO
   description: ''
   level: 3
@@ -6917,8 +6904,7 @@ categories:
   description: ''
   level: 4
   name: Offentlig upphandling
-  replacedBy: RYF-HPT-ZSS-LRX
-  status: INACTIVE
+  status: ACTIVE
 - code: RYF-KNI-XNS-SWE-OWE
   description: ''
   level: 4
