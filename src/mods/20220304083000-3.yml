@@ -2,3 +2,7 @@ modifications:
 - action: INACTIVATE
   code: RYF-WUU-JZK-FBC
   name: Smittsamma sjukdomar
+
+- action: INACTIVATE
+  code: RYF-IXA-KEV-BEL-LPY
+  name: IT-säkerhet
