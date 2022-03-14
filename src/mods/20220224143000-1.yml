@@ -3461,12 +3461,6 @@ modifications:
     newName: Flyktingpolitik
 
   - action: MOVE
-    code: RYF-KNI-XNS-JVN-LCG
-    name: Gränskontroller
-    newParentCode: RYF-HPT-ZSS
-    newParentName: Samhällen
-
-  - action: MOVE
     code: RYF-KNI-XNS-JVN
     name: Flyktingpolitik # Nytt namn ovan
     newParentCode: RYF-KNI
@@ -3655,12 +3649,6 @@ modifications:
     code: RYF-KNI-XNS-SWE-OTW
     name: Offentliga upphandlingar
     newName: Offentlig upphandling
-
-  - action: MOVE
-    code: RYF-KNI-XNS-SWE-OTW
-    name: Offentlig upphandling # Nytt namn ovan
-    newParentCode: RYF-HPT-ZSS
-    newParentName: Samhällen
 
   - action: UPDATE
     code: RYF-KNI-XNS-SWE-VMT

@@ -1,0 +1,12 @@
+modifications:
+- action: MOVE
+  code: RYF-KNI-XNS-JVN-LCG
+  name: Gränskontroller
+  newParentCode: RYF-HPT
+  newParentName: Samhälle
+
+- action: MOVE
+  code: RYF-KNI-XNS-SWE-OTW
+  name: Offentlig upphandling
+  newParentCode: RYF-IXA-QED-LBK
+  newParentName: Upphandling
