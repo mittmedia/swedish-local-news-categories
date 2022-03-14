@@ -12558,7 +12558,44 @@ categories:
   level: 3
   name: Smarta hem
   status: ACTIVE
-- code: RYF-TKT-AGB-NVR
+- code: RYF-TKT-AGB-IAV-XMI
+  description: ''
+  level: 4
+  name: Renovering
+  replaces: RYF-TKT-AGB-NVR
+  status: ACTIVE
+- code: RYF-TKT-AGB-IAV-XMI-AIR
+  description: ''
+  level: 5
+  name: Tapetsering
+  replacedBy: RYF-TKT-AGB-IAV-WPD
+  replaces: RYF-TKT-AGB-NVR-AIR
+  status: INACTIVE
+- code: RYF-TKT-AGB-IAV-XMI-GYW
+  description: ''
+  level: 5
+  name: Kakel & klinker
+  replaces: RYF-TKT-AGB-NVR-GYW
+  status: ACTIVE
+- code: RYF-TKT-AGB-IAV-XMI-JMX
+  description: ''
+  level: 5
+  name: Köksrenovering
+  replaces: RYF-TKT-AGB-NVR-JMX
+  status: ACTIVE
+- code: RYF-TKT-AGB-IAV-XMI-NMD
+  description: ''
+  level: 5
+  name: Badrumsrenovering
+  status: ACTIVE
+- code: RYF-TKT-AGB-IAV-XMI-WII
+  description: ''
+  level: 5
+  name: Målning
+  replacedBy: RYF-TKT-AGB-IAV-HHL
+  replaces: RYF-TKT-AGB-NVR-WII
+  status: INACTIVE
+- code: RYF-TKT-AGB-NIG
   description: ''
   level: 3
   name: Renovering
@@ -17732,7 +17769,6 @@ categories:
   replaces: RYF-WXT-ABT-QYW
   status: ACTIVE
 - code: RYF-WXT-KJS-LUM-ZHN
-  description: ''
   level: 4
   name: Kärnvapen
   status: ACTIVE
