@@ -200,7 +200,7 @@ modifications:
 
 - action: ADD
   parentCode: RYF-EOI-GLR
-  parentName: Samhällsvetenskaper
+  parentName: Samhällsvetenskap
   name: Kriminologi
   level: 3
 
@@ -414,7 +414,7 @@ modifications:
 
 - action: MOVE
   code: RYF-TKT-AGB-BGD-IOS-HPK
-  name: Terass
+  name: Terrass
   newParentCode: RYF-TKT-AGB
   newParentName: Hem
 
