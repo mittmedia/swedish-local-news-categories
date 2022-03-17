@@ -1,0 +1,23 @@
+modifications:
+- action: INACTIVATE
+  code: RYF-WUU-JZK-FBC
+  name: Smittsamma sjukdomar
+
+- action: INACTIVATE
+  code: RYF-IXA-KEV-BEL-LPY
+  name: IT-säkerhet
+
+- action: INACTIVATE
+  code: RYF-HPT-TVG-XDN-QCR
+  name: Vapen
+
+- action: UPDATE
+  code: RYF-WXT-KJS-LUM
+  name: Militära vapen
+  newName: Vapen
+
+- action: MOVE
+  code: RYF-WXT-KJS-LUM
+  name: Vapen
+  newParentCode: RYF-WXT
+  newParentName: Konflikter & krig

@@ -1,0 +1,102 @@
+modifications:
+- action: ADD
+  parentCode: RYF-IXA-KEV-TOY-GGM # ID för Samhällsfastighet i 20220304083000-1.yml
+  parentName: Samhällsfastighet # Nytt namn i 20220304083000-1.yml
+  name: Anpassad bostad
+  level: 5
+
+- action: UPDATE
+  code: RYF-QPR-ICL
+  name: Sportarenor
+  newName: Arena & sporthall
+
+- action: MOVE
+  code: RYF-QPR-ICL
+  name: Arena & sporthall # Nytt namn ovan
+  newParentCode: RYF-IXA-KEV-TOY-GGM # ID för Samhällsfastighet i 20220304083000-1.yml
+  newParentName: Samhällsfastighet # Nytt namn i 20220304083000-1.yml
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-TOY-GGM # ID för Samhällsfastighet i 20220304083000-1.yml
+  parentName: Samhällsfastighet # Nytt namn i 20220304083000-1.yml
+  name: Myndighetsbyggnad
+  level: 5
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-TOY-GGM # ID för Samhällsfastighet i 20220304083000-1.yml
+  parentName: Samhällsfastighet # Nytt namn i 20220304083000-1.yml
+  name: Omsorgsfastighet
+  level: 5
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-TOY-GGM # ID för Samhällsfastighet i 20220304083000-1.yml
+  parentName: Samhällsfastighet # Nytt namn i 20220304083000-1.yml
+  name: Simhall
+  level: 5
+
+- action: ADD
+  parentCode: RYF-HPT-WYD # ID för Hatbrott i 20220304083000-1.yml 
+  parentName: Hatbrott
+  name: Antisemitism
+  level: 3
+
+- action: ADD
+  parentCode: RYF-HPT-ENQ # ID för Egendom i 20220304083000-1.yml 
+  parentName: Egendom
+  name: Äganderätt
+  level: 3
+
+- action: INACTIVATE
+  code: RYF-IXA-KEV-VSA-CJI
+  name: Djuruppfödning
+
+- action: INACTIVATE
+  code: RYF-IXA-QED-BLG
+  name: Ekonomiska indikatorer
+
+- action: INACTIVATE
+  code: RYF-WUU-JZK-WIT
+  name: Kroniska sjukdomar
+
+- action: MOVE
+  code: RYF-WUU-JZK-FBC-BSI
+  name: Epidemi
+  newParentCode: RYF-WUU-JZK
+  newParentName: Sjukdomar, tillstånd och diagnoser
+
+- action: MOVE
+  code: RYF-WUU-JZK-FBC-FEB
+  name: Könssjukdomar
+  newParentCode: RYF-WUU-JZK
+  newParentName: Sjukdomar, tillstånd och diagnoser
+
+- action: MOVE
+  code: RYF-WUU-JZK-FBC-ORU
+  name: Pandemi
+  newParentCode: RYF-WUU-JZK
+  newParentName: Sjukdomar, tillstånd och diagnoser
+
+- action: MOVE
+  code: RYF-WUU-JZK-FBC-FRI
+  name: Virussjukdomar
+  newParentCode: RYF-WUU-JZK
+  newParentName: Sjukdomar, tillstånd och diagnoser
+
+- action: INACTIVATE
+  code: RYF-TKT-AGB-BGD-IOS
+  name: Utomhusmiljö
+
+- action: INACTIVATE
+  code: RYF-TKT-GTX-NKU-EXJ
+  name: Klädprodukter
+
+- action: INACTIVATE
+  code: RYF-HPT-PFF
+  name: Människogrupper
+
+- action: MOVE
+  code: RYF-HPT-XAO-GAX-QFP 
+  name: Islamofobi
+  newParentCode: RYF-HPT-WYD # ID från -1-fil
+  newParentName: Hatbrott
+
