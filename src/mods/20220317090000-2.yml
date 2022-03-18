@@ -63,10 +63,31 @@ modifications:
   newParentCode: RYF-HPT-XXXX # Id för invandting i -1-filen
   newParentName: Invandring
 
-
-
 - action: ADD
   parentCode: RYF-HPT-TVG-XXX # ID för Mobbning i -1-filen
   parentName: Mobbning
   name: Nätmobbning
   level: 4
+
+- action: MOVE
+  code: RYF-HPT-WYD-JMZ
+  name: Antisemitism
+  newParentCode: RYF-HPT-XAO-XXXX # ID För Etnisk diskriminering i -1-filen
+  newParentName: Etnisk diskriminering
+
+- action: MOVE
+  code: RYF-HPT-XAO-OHC
+  name: Rasism
+  newParentCode: RYF-HPT-XAO-XXXX # ID För Etnisk diskriminering i -1-filen
+  newParentName: Etnisk diskriminering
+
+- action: MOVE
+  code: RYF-HPT-WYD-DUT
+  name: Islamofobi
+  newParentCode: RYF-HPT-XAO-GAX
+  newParentName: Religiös diskriminering
+
+
+
+
+
