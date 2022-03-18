@@ -678,4 +678,13 @@ modifications:
   name: Vinterväder
   level: 2
 
+- action: UPDATE
+  code: RYF-HPT-QQW
+  name: Gränskontroller
+  newName: Gränskontroll
 
+- action: MOVE
+  code: RYF-HPT-QQW
+  name: Gränskontroll # Nytt namn ovan
+  newParentCode: RYF-BIZ
+  newParentName: Brott, lag och rätt
