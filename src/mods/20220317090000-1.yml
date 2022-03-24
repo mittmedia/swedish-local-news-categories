@@ -682,15 +682,3 @@ modifications:
   name: Gränskontroll # Nytt namn ovan
   newParentCode: RYF-BIZ
   newParentName: Brott, lag och rätt
-
-
-
-- action: ADD
-  parentCode: RYF-IXA-KEV-IRW
-  parentName: Byggnation
-  name: Bygglov
-  level: 4
-
-- action: INACTIVATE
-  code: RYF-XKI-CUP-NCO-BTS
-  name: Arkitektur

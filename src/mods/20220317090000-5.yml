@@ -1,0 +1,10 @@
+modifications:
+- action: ADD
+  parentCode: RYF-IXA-KEV-IRW
+  parentName: Byggnation
+  name: Bygglov
+  level: 4
+
+- action: INACTIVATE
+  code: RYF-XKI-CUP-NCO-BTS
+  name: Arkitektur
