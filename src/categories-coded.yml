@@ -2842,7 +2842,7 @@ categories:
   description: ''
   level: 2
   name: Social hållbarhet
-  status: ACTIVE
+  status: INACTIVE
 - code: RYF-HPT-SQQ
   description: ''
   level: 2
@@ -4740,6 +4740,7 @@ categories:
   name: Byggregler
   status: ACTIVE
 - code: RYF-IXA-KEV-IRW-QZR
+  description: ''
   level: 4
   name: Bygglov
   status: ACTIVE
