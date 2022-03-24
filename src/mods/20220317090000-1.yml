@@ -1,0 +1,684 @@
+modifications:
+- action: ADD
+  parentCode: RYF-ZEI
+  parentName: Arbetsmarknad
+  name: Arbete
+  level: 2
+
+- action: ADD
+  parentCode: RYF-ZEI-CZS
+  parentName: Personal- & anställning
+  name: Bemanning
+  level: 3
+
+- action: ADD
+  parentCode: RYF-ZEI-CZS
+  parentName: Personal- & anställning
+  name: Kompetensförsörjning
+  level: 3
+
+- action: ADD
+  parentCode: RYF-BIZ-WZJ
+  parentName: Brottslighet
+  name: Brottsoffer
+  level: 3
+
+- action: UPDATE
+  code: RYF-BIZ-WZJ-NXU
+  name: Informationsverksamhet & spionage
+  newName: Spionage
+
+- action: ADD
+  parentCode: RYF-BIZ-XYS
+  parentName: Lagstiftning
+  name: EU-direktiv
+  level: 3
+
+- action: ADD
+  parentCode: RYF-BIZ-XYS
+  parentName: Lagstiftning
+  name: Hälso- & sjukvårdslagen
+  level: 3
+
+- action: ADD
+  parentCode: RYF-BIZ-XYS
+  parentName: Lagstiftning
+  name: Kommunallagen
+  level: 3
+
+- action: ADD
+  parentCode: RYF-BIZ-XYS
+  parentName: Lagstiftning
+  name: Lagen om stöd och service till vissa funktionshindrade, LSS
+  level: 3
+
+- action: ADD
+  parentCode: RYF-BIZ-XYS
+  parentName: Lagstiftning
+  name: Miljörätt
+  level: 3
+
+- action: ADD
+  parentCode: RYF-BIZ-XYS
+  parentName: Lagstiftning
+  name: Radio- & Tv-lagen
+  level: 3
+
+- action: ADD
+  parentCode: RYF-BIZ-XYS
+  parentName: Lagstiftning
+  name: Socialtjänstlagen
+  level: 3
+
+- action: UPDATE
+  code: RYF-IXA-CVI-OHN
+  name: Valutor
+  newName: Valutamarknad
+
+- action: ADD
+  parentCode: RYF-IXA-KEV
+  parentName: Näringsliv
+  name: Apoteksmarknaden
+  level: 3
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-UBU-ZZD
+  parentName: Drivmedelindustri
+  name: Fossila bränslen
+  level: 5
+
+- action: UPDATE
+  code: RYF-IXA-KEV-UZJ
+  name: Fritids- & sportartiklar
+  newName: Fritids- & sportbranschen
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-BEL
+  parentName: Techbranschen
+  name: Big data
+  level: 4
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-BEL
+  parentName: Techbranschen
+  name: Cookies
+  level: 4
+
+- action: ADD
+  parentCode: RYF-IXA-KEV
+  parentName: Näringsliv
+  name: Kommunala bolag
+  level: 3
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-RQL
+  parentName: Handel
+  name: Gränshandel
+  level: 4
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-RQL
+  parentName: Handel
+  name: Miljömärkning
+  level: 4
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-RQL-MGE
+  parentName: Livsmedelshandel
+  name: Matfusk
+  level: 5
+
+- action: UPDATE
+  code: RYF-IXA-KEV-MCZ-NYJ
+  name: Filmindustri
+  newName: Filmbranschen
+
+- action: UPDATE
+  code: RYF-IXA-KEV-MCZ-HBL
+  name: Förlagsindustri
+  newName: Förslagsbranschen
+
+- action: UPDATE
+  code: RYF-IXA-KEV-MCZ-HMX
+  name: Musikindustri
+  newName: Musikbranschen
+
+- action: UPDATE
+  code: RYF-IXA-KEV-MCZ-QMG
+  name: Radioindustri
+  newName: Radiobranschen
+
+- action: UPDATE
+  code: RYF-IXA-KEV-MCZ-DUV
+  name: Streaming-industri
+  newName: Streamingtjänster
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-MCZ-LRX
+  parentName: Reklam & Pr
+  name: Annonsmarknad
+  level: 5
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-MCZ-LRX
+  parentName: Reklam & Pr
+  name: Utomhusreklam
+  level: 5
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-VSA-GTD
+  parentName: Jordbruk
+  name: Bekämpningsmedel
+  level: 5
+
+- action: UPDATE
+  code: RYF-IXA-KEV-RFJ
+  name: Restaurang & catering
+  newName: Restaurang & gastronomi
+
+- action: ADD
+  parentCode: RYF-IXA-KEV
+  parentName: Näringsliv
+  name: Statliga bolag
+  level: 3
+
+- action: ADD
+  parentCode: RYF-IXA-AOE
+  parentName: Privatekonomi
+  name: Arvsrätt
+  level: 3
+
+- action: ADD
+  parentCode: RYF-IXA-QED
+  parentName: Samhällsekonomi
+  name: Delningsekonomi
+  level: 3
+
+- action: ADD
+  parentCode: RYF-IXA-QED
+  parentName: Samhällsekonomi
+  name: Inkomstklyfta
+  level: 3
+
+- action: ADD
+  parentCode: RYF-IXA-QED-JUO
+  parentName: Ränta
+  name: Minusränta
+  level: 4
+
+- action: ADD
+  parentCode: RYF-IXA-QED-CPU
+  parentName: Skatter
+  name: Fastighetsskatt
+  level: 4
+
+- action: ADD
+  parentCode: RYF-IXA-AOE
+  parentName: Privatekonomi
+  name: Hyresrätt & hyra
+  level: 3
+
+- action: ADD
+  parentCode: RYF-WUU-SUX
+  parentName: Vård
+  name: Patient
+  level: 3
+
+- action: ADD
+  parentCode: RYF-WUU-SUX
+  parentName: Vård
+  name: Vårdval
+  level: 3
+
+- action: UPDATE
+  code: RYF-WUU-BNJ-XZK
+  name: Hälsocentral
+  newName: Vårdcentral
+
+- action: INACTIVATE
+  code: RYF-VHD-ZKU-SBV
+  name: Energibesparing
+
+- action: ADD
+  parentCode: RYF-VHD-IFE
+  parentName: Föroreningar
+  name: Miljögift
+  level: 3
+
+- action: ADD
+  parentCode: RYF-VHD-IFE
+  parentName: Föroreningar
+  name: Miljöförstörning
+  level: 3
+
+- action: ADD
+  parentCode: RYF-VHD-GUZ-SYG-UKI
+  parentName: Växthusgas
+  name: Utsläppshandel
+  level: 5
+
+- action: MOVE
+  code: RYF-VHD-OAY-DLT
+  name: Djur
+  newParentCode: RYF-VHD-HXU
+  newParentName: Natur
+
+- action: UPDATE
+  code: RYF-VHD-HXU
+  name: Natur
+  newName: Djur & natur
+
+- action: UPDATE
+  code: RYF-XKI-CUP-EDZ-QKB
+  name: Drama
+  newName: Dramatik
+
+- action: ADD
+  parentCode: RYF-XKI-CUP-NWA
+  parentName: Musik
+  name: Skivor
+  level: 4
+
+- action: MOVE
+  code: RYF-TKT-YUF
+  name: Tilltugg & snacks
+  newParentCode: RYF-TKT-JCK
+  newParentName: Mat
+
+- action: MOVE
+  code: RYF-TKT-UAN-APO
+  name: Loppis & auktion
+  newParentCode: RYF-TKT-GTX-ASQ
+  newParentName: Shopping
+  
+- action: MOVE
+  code: RYF-CUW-MHX-RMM
+  name: Black friday
+  newParentCode: RYF-TKT-GTX-ASQ
+  newParentName: Shopping
+
+- action: MOVE
+  code: RYF-HPT-ONC
+  name: Krisberedskap
+  newParentCode: RYF-AKM
+  newParentName: Olyckor & katastrofer
+
+- action: MOVE
+  code: RYF-WHZ-PDY
+  name: Översvämning
+  newParentCode: RYF-AKM
+  newParentName: Olyckor & katastrofer
+
+- action: MOVE
+  code: RYF-HPT-PPR-LQJ
+  name: Döden
+  newParentCode: RYF-CUW
+  newParentName: Personligt
+
+- action: MOVE
+  code: RYF-HPT-PPR-YZV
+  name: Hederskultur
+  newParentCode: RYF-HPT
+  newParentName: Samhälle
+
+- action: MOVE
+  code: RYF-HPT-PPR-YPG
+  name: Mobbning
+  newParentCode: RYF-HPT-TVG
+  newParentName: Sociala problem
+
+- action: INACTIVATE
+  code: RYF-HPT-PPR-CWB
+  name: Etik
+
+- action: ADD
+  parentCode: RYF-CUW
+  parentName: Personligt
+  name: Personlig integritet
+  level: 2
+
+- action: ADD
+  parentCode: RYF-CUW
+  parentName: Personligt
+  name: Ungdom
+  level: 2
+
+- action: ADD
+  parentCode: RYF-KNI-FQB
+  parentName: Budget
+  name: Utjämningssystemet
+  level: 3
+
+- action: ADD
+  parentCode: RYF-KNI-IYZ
+  parentName: Förtroendevalda
+  name: Arvode
+  level: 3
+
+- action: ADD
+  parentCode: RYF-KNI-IYZ
+  parentName: Förtroendevalda
+  name: Fritidspolitiker
+  level: 3
+
+- action: ADD
+  parentCode: RYF-KNI-IYZ
+  parentName: Förtroendevalda
+  name: Heltidspolitiker
+  level: 3
+
+- action: ADD
+  parentCode: RYF-KNI
+  parentName: Politik
+  name: Forskningspolitik
+  level: 2
+
+- action: ADD
+  parentCode: RYF-KNI-XBE
+  parentName: Kommunpolitik
+  name: Kommunal ekonomi
+  level: 3
+
+- action: ADD
+  parentCode: RYF-KNI
+  parentName: Politik
+  name: Mediepolitik
+  level: 2
+
+- action: ADD
+  parentCode: RYF-KNI-QXU
+  parentName: Politiska ideologier
+  name: Populism
+  level: 3
+
+- action: INACTIVATE
+  code: RYF-KNI-KZM
+  name: Politisk påverkan
+
+- action: UPDATE
+  code: RYF-HPT-NLP
+  name: Energislag
+  newName: Energi
+
+- action: ADD
+  parentCode: RYF-HPT-NLP
+  parentName: Energi # nytt namn ovan
+  name: Energiförbrukning
+  level: 3
+
+- action: ADD
+  parentCode: RYF-XKI-BUS-RXO
+  parentName: Sociala medier
+  name: Näthat
+  level: 4
+
+- action: ADD
+  parentCode: RYF-HPT-YGE-EWJ
+  parentName: Internet
+  name: Virtuell verklighet, Vr
+  level: 4
+
+- action: ADD
+  parentCode: RYF-HPT
+  parentName: Samhälle
+  name: Invandring
+  level: 2
+
+- action: UPDATE
+  code: RYF-TKT-GTX-ASQ
+  name: Shopping
+  newName: Konsumtion
+
+- action: ADD
+  parentCode: RYF-TKT-GTX-ASQ
+  parentName: Konsumtion # Nytt namn ovan
+  name: Shopping
+  level: 4
+
+- action: ADD
+  parentCode: RYF-TKT-GTX-ASQ
+  parentName: Konsumtion # Nytt namn ovan
+  name: Lyxkonsumtion
+  level: 4
+
+- action: ADD
+  parentCode: RYF-HPT-GZD
+  parentName: Samhällsplanering
+  name: Strandskydd
+  level: 3
+
+- action: MOVE
+  code: RYF-HPT-ZSS-WTL-BVP
+  name: Markanvisning
+  newParentCode: RYF-HPT-GZD
+  newParentName: Samhällsplanering
+
+- action: MOVE
+  code: RYF-HPT-ZSS-WTL-JLX
+  name: Exploatering
+  newParentCode: RYF-HPT-GZD
+  newParentName: Samhällsplanering
+
+- action: UPDATE
+  code: RYF-IXA-KEV-DVU
+  name: Casino- & spelmarknaden
+  newName: Kasino- & spelmarknaden
+
+- action: INACTIVATE
+  code: RYF-IXA-KEV-DVU-EYT
+  name: Onlinebetting
+
+- action: UPDATE
+  code: RYF-IXA-KEV-DVU-YHN
+  name: Onlinecasinon
+  newName: Nätkasino
+
+
+- action: INACTIVATE
+  code: RYF-IXA-KEV-UBU-NLX
+  name: Kolkraftindustri
+
+- action: INACTIVATE
+  code: RYF-IXA-KEV-UBU-XCR
+  name: Kärnkraftindustri
+
+- action: INACTIVATE
+  code: RYF-IXA-KEV-UBU-SOG
+  name: Olje- och gasindustri
+
+- action: INACTIVATE
+  code: RYF-IXA-KEV-UBU-FLQ
+  name: Solenergiindustri
+
+- action: INACTIVATE
+  code: RYF-IXA-KEV-UBU-YEW
+  name: Vattenkraftindustri
+
+- action: INACTIVATE
+  code: RYF-IXA-KEV-UBU-KPP
+  name: Vindkraftindustri
+
+- action: MOVE
+  code: RYF-WUU-JZK-TAC-GJP
+  name: ADD
+  newParentCode: RYF-WUU-JZK
+  newParentName: Sjukdomar, tillstånd och diagnoser
+
+- action: MOVE
+  code: RYF-WUU-JZK-TAC-RFH
+  name: ADHD
+  newParentCode: RYF-WUU-JZK
+  newParentName: Sjukdomar, tillstånd och diagnoser
+
+- action: INACTIVATE
+  code: RYF-WUU-JZK-TAC-ZNL
+  name: Aspergers
+
+- action: UPDATE
+  code: RYF-WUU-JZK-TAC-IRN
+  name: Autism
+  newName: Autismspektrumtillstånd, AST
+
+- action: MOVE
+  code: RYF-WUU-JZK-TAC-IRN
+  name: Autismspektrumtillstånd, AST # Nytt namn ovan
+  newParentCode: RYF-WUU-JZK
+  newParentName: Sjukdomar, tillstånd och diagnoser
+
+- action: MOVE
+  code: RYF-WUU-JZK-TAC-AGT
+  name: Downs syndrom
+  newParentCode: RYF-WUU-JZK
+  newParentName: Sjukdomar, tillstånd och diagnoser
+
+- action: MOVE
+  code: RYF-WUU-JZK-TAC-BQK
+  name: Hörselnedsättning
+  newParentCode: RYF-WUU-JZK
+  newParentName: Sjukdomar, tillstånd och diagnoser
+
+- action: MOVE
+  code: RYF-WUU-JZK-TAC-UKV
+  name: Stamning
+  newParentCode: RYF-WUU-JZK
+  newParentName: Sjukdomar, tillstånd och diagnoser
+
+- action: MOVE
+  code: RYF-WUU-JZK-TAC-YLZ
+  name: Synnedsättning
+  newParentCode: RYF-WUU-JZK
+  newParentName: Sjukdomar, tillstånd och diagnoser
+
+- action: UPDATE
+  code: RYF-XKI-CUP-XBM-GXV
+  name: Science-fictionfilm
+  newName: Science fiction-film
+
+- action: UPDATE
+  code: RYF-XKI-CUP-EDZ-CHP
+  name: Science-fictionlitteratur
+  newName: Science fiction-litteratur
+
+- action: ADD
+  parentCode: RYF-HPT-XAO
+  parentName: Diskriminering
+  name: Etnisk diskriminering
+  level: 3
+
+- action: ADD
+  parentCode: RYF-HPT-XAO-JSW
+  parentName: Könsdiskriminering
+  name: Homofobi
+  level: 4
+
+- action: ADD
+  parentCode: RYF-HPT-XAO-JSW
+  parentName: Könsdiskriminering
+  name: Transfobi
+  level: 4
+
+- action: ADD
+  parentCode: RYF-HPT-XAO
+  parentName: Diskriminering
+  name: Diskriminering utifrån sexuell läggning
+  level: 3
+
+- action: ADD
+  parentCode: RYF-HPT
+  parentName: Samhälle
+  name: Främlingsfientlighet
+  level: 2
+
+- action: ADD
+  parentCode: RYF-YDR
+  parentName: Skola & utbildning
+  name: Högskoleprov
+  level: 2
+
+- action: ADD
+  parentCode: RYF-QPR
+  parentName: Sport
+  name: Barn- & ungdomsidrott
+  level: 2
+
+- action: ADD
+  parentCode: RYF-QPR-HGB-MII
+  parentName: Basket
+  name: NBA
+  level: 4
+
+- action: ADD
+  parentCode: RYF-QPR-HGB-DEN
+  parentName: Fotboll
+  name: Conference League
+  level: 4
+
+- action: ADD
+  parentCode: RYF-QPR-HGB-DEN
+  parentName: Fotboll
+  name: Europa League
+  level: 4
+
+# Inkl barn
+- action: INACTIVATE
+  code: RYF-QPR-HGB-DEN-HEP
+  name: Fotbollslandslaget
+
+- action: ADD
+  parentCode: RYF-QPR-HGB-DEN
+  parentName: Fotboll
+  name: UEFA Nations League
+  level: 4
+
+- action: ADD
+  parentCode: RYF-QPR-HGB-BQN
+  parentName: Ishockey
+  name: Champions Hockey League
+  level: 4
+
+- action: ADD
+  parentCode: RYF-XRZ
+  parentName: Trafik, kommunikation & fordon
+  name: Biltrafik
+  level: 2
+
+- action: ADD
+  parentCode: RYF-XRZ-GGI
+  parentName: Flygtrafik
+  name: Drönare
+  level: 3
+
+- action: ADD
+  parentCode: RYF-WHZ
+  parentName: Väder
+  name: Höstväder
+  level: 2
+
+- action: ADD
+  parentCode: RYF-WHZ
+  parentName: Väder
+  name: Sommarväder
+  level: 2
+
+- action: ADD
+  parentCode: RYF-WHZ
+  parentName: Väder
+  name: Vårväder
+  level: 2
+
+- action: ADD
+  parentCode: RYF-WHZ
+  parentName: Väder
+  name: Vinterväder
+  level: 2
+
+- action: UPDATE
+  code: RYF-HPT-QQW
+  name: Gränskontroller
+  newName: Gränskontroll
+
+- action: MOVE
+  code: RYF-HPT-QQW
+  name: Gränskontroll # Nytt namn ovan
+  newParentCode: RYF-BIZ
+  newParentName: Brott, lag och rätt
