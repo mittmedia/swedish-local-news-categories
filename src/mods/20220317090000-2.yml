@@ -1,6 +1,6 @@
 modifications:
 - action: ADD
-  parentCode: RYF-IXA-KEV-XXXX # ID från Kommunala bolag i -1-filen.
+  parentCode: RYF-IXA-KEV-JWG # ID från Kommunala bolag i -1-filen.
   parentName: Kommunala bolag
   name: Allmännytta
   level: 4
@@ -10,24 +10,24 @@ modifications:
 - action: MOVE
   code: RYF-TKT-KBC-YAR-YAE
   name: Andrahandsuthyrning
-  newParentCode: RYF-IXA-AOE-XXXX # ID För Hyresrätt & hyra
+  newParentCode: RYF-IXA-AOE-BUE # ID För Hyresrätt & hyra
   newParentName: Hyresrätt & hyra
 
 - action: MOVE
   code: RYF-TKT-KBC-YAR-YWY
   name: Svartkontrakt
-  newParentCode: RYF-IXA-KEV-XXXX  # ID För Hyresrätt & hyra
+  newParentCode: RYF-IXA-AOE-BUE  # ID För Hyresrätt & hyra
   newParentName: Hyresrätt & hyra
 
 - action: MOVE
   code: RYF-IXA-AOE-GLK
   name: Hyresförhandling
-  newParentCode: RYF-IXA-KEV-XXXX  # ID För Hyresrätt & hyra
+  newParentCode: RYF-IXA-AOE-BUE  # ID För Hyresrätt & hyra
   newParentName: Hyresrätt & hyra
 
 
 - action: ADD
-  parentCode: RYF-WUU-SUX-XXXX # ID för patient i -1-filen.
+  parentCode: RYF-WUU-SUX-IGS # ID för patient i -1-filen.
   parentName: Patient
   name: Patientsäkerhet
   level: 4
@@ -39,7 +39,7 @@ modifications:
   newParentName: Personligt
 
 - action: ADD
-  parentCode: RYF-KNI-IYZ-XXX # ID för Heltidspolitiker i -1-filen
+  parentCode: RYF-KNI-IYZ-RQZ # ID för Heltidspolitiker i -1-filen
   parentName: Heltidspolitiker
   name: Kommunalråd
   level: 4
@@ -48,23 +48,23 @@ modifications:
 - action: MOVE
   code: RYF-ZEI-ZTC
   name: Arbetskraftsinvanding
-  newParentCode: RYF-HPT-XXXX # Id för invandting i -1-filen
+  newParentCode: RYF-HPT-QGV # Id för invandting i -1-filen
   newParentName: Invandring
 
 - action: MOVE
   code: RYF-HPT-NKU
   name: Asylinvandring
-  newParentCode: RYF-HPT-XXXX # Id för invandting i -1-filen
+  newParentCode: RYF-HPT-QGV # Id för invandting i -1-filen
   newParentName: Invandring
 
 - action: MOVE
   code: RYF-HPT-LTK
   name: Integration
-  newParentCode: RYF-HPT-XXXX # Id för invandting i -1-filen
+  newParentCode: RYF-HPT-QGV # Id för invandting i -1-filen
   newParentName: Invandring
 
 - action: ADD
-  parentCode: RYF-HPT-TVG-XXX # ID för Mobbning i -1-filen
+  parentCode: RYF-HPT-TVG-YNS # ID för Mobbning i -1-filen
   parentName: Mobbning
   name: Nätmobbning
   level: 4
@@ -72,13 +72,13 @@ modifications:
 - action: MOVE
   code: RYF-HPT-WYD-JMZ
   name: Antisemitism
-  newParentCode: RYF-HPT-XAO-XXXX # ID För Etnisk diskriminering i -1-filen
+  newParentCode: RYF-HPT-XAO-FRU # ID För Etnisk diskriminering i -1-filen
   newParentName: Etnisk diskriminering
 
 - action: MOVE
   code: RYF-HPT-XAO-OHC
   name: Rasism
-  newParentCode: RYF-HPT-XAO-XXXX # ID För Etnisk diskriminering i -1-filen
+  newParentCode: RYF-HPT-XAO-FRU # ID För Etnisk diskriminering i -1-filen
   newParentName: Etnisk diskriminering
 
 - action: MOVE

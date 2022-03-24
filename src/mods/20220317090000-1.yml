@@ -447,17 +447,17 @@ modifications:
   name: Strandskydd
   level: 3
 
-- action: ADD
-  parentCode: RYF-HPT-GZD
-  parentName: Samhällsplanering
-  name: Exploatering
-  level: 3
-
-- action: ADD
-  parentCode: RYF-HPT-GZD
-  parentName: Samhällsplanering
+- action: MOVE
+  code: RYF-HPT-ZSS-WTL-BVP
   name: Markanvisning
-  level: 3
+  newParentCode: RYF-HPT-GZD
+  newParentName: Samhällsplanering
+
+- action: MOVE
+  code: RYF-HPT-ZSS-WTL-JLX
+  name: Exploatering
+  newParentCode: RYF-HPT-GZD
+  newParentName: Samhällsplanering
 
 - action: UPDATE
   code: RYF-IXA-KEV-DVU
@@ -646,12 +646,6 @@ modifications:
   parentCode: RYF-XRZ-GGI
   parentName: Flygtrafik
   name: Drönare
-  level: 3
-
-- action: ADD
-  parentCode: RYF-XRZ-TEE
-  parentName: Vattenskoter
-  name: Sjöfart
   level: 3
 
 - action: ADD
