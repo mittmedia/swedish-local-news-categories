@@ -4739,6 +4739,10 @@ categories:
   level: 4
   name: Byggregler
   status: ACTIVE
+- code: RYF-IXA-KEV-IRW-QZR
+  level: 4
+  name: Bygglov
+  status: ACTIVE
 - code: RYF-IXA-KEV-IRW-QZV
   description: ''
   level: 4
@@ -19457,7 +19461,7 @@ categories:
   level: 4
   name: Arkitektur
   replaces: RYF-XKI-IUV
-  status: ACTIVE
+  status: INACTIVE
 - code: RYF-XKI-CUP-NCO-DAV
   description: ''
   level: 4
@@ -20861,6 +20865,7 @@ categories:
   replaces: RYF-HPT-YGE-GUI-YMN
   status: ACTIVE
 - code: RYF-XRZ-TEE-CAO
+  description: ''
   level: 3
   name: Vattenskoter
   status: ACTIVE
