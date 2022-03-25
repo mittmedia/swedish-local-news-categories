@@ -174,7 +174,7 @@ categories:
   description: ''
   level: 3
   name: Torka
-  status: ACTIVE
+  status: INACTIVE
 - code: RYF-AKM-TGS-SHO
   description: ''
   level: 3
@@ -1540,7 +1540,7 @@ categories:
   level: 5
   name: Barns utveckling
   replaces: RYF-CUW-RBU-JJM-KPR
-  status: ACTIVE
+  status: INACTIVE
 - code: RYF-CUW-GIV-UVB-JJM-OPB
   description: ''
   level: 5
@@ -6623,7 +6623,7 @@ categories:
   description: ''
   level: 2
   name: Klimatpolitik
-  status: ACTIVE
+  status: INACTIVE
 - code: RYF-KNI-CJV
   description: Använd för nyheter om integrationsåtgärder. Till exempel växande utanförskap, satsningar på SFI
   level: 2
@@ -7294,7 +7294,7 @@ categories:
   description: ''
   level: 2
   name: Internationella relationer
-  status: ACTIVE
+  status: INACTIVE
 - code: RYF-KNI-SQH-DKK
   description: Människor som söker skydd i ett annat land för att undslippa förföljelse och misär
   level: 3
@@ -12464,7 +12464,7 @@ categories:
   description: ''
   level: 2
   name: Idrottsorganisationer
-  status: ACTIVE
+  status: INACTIVE
 - code: RYF-QPR-OTI
   description: Användning av otillåtna preparat för att höja prestationsförmåga, och frågor relaterade till det
   level: 2
@@ -15787,7 +15787,7 @@ categories:
   description: ''
   level: 3
   name: Sparesa
-  status: ACTIVE
+  status: INACTIVE
 - code: RYF-TKT-OUV-FOQ
   description: ''
   level: 3
@@ -19929,7 +19929,7 @@ categories:
   description: ''
   level: 4
   name: Skådespelare
-  status: ACTIVE
+  status: INACTIVE
 - code: RYF-XKI-CUP-XBM-FOB
   description: ''
   level: 4
@@ -21401,12 +21401,13 @@ categories:
   description: ''
   level: 2
   name: Nyanställning
-  status: ACTIVE
+  status: INACTIVE
 - code: RYF-ZEI-AGF-NLP
   description: ''
   level: 3
   name: Rekrytering
-  status: ACTIVE
+  replacedBy: RYF-ZEI-CZS-JZU-JMM
+  status: INACTIVE
 - code: RYF-ZEI-AGF-QIL
   description: ''
   level: 3
@@ -21559,6 +21560,12 @@ categories:
   description: ''
   level: 3
   name: Nyanställning
+  status: ACTIVE
+- code: RYF-ZEI-CZS-JZU-JMM
+  description: ''
+  level: 4
+  name: Rekrytering
+  replaces: RYF-ZEI-AGF-NLP
   status: ACTIVE
 - code: RYF-ZEI-CZS-SAF
   description: ''
