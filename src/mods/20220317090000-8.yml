@@ -1,0 +1,40 @@
+modifications:
+- action: INACTIVATE
+  code: RYF-XKI-CUP-XBM-FDM
+  name: Skådespelare
+
+- action: INACTIVATE
+  code: RYF-TKT-OUV-FCP
+  name: Sparesa
+
+- action: INACTIVATE
+  code: RYF-AKM-TGS-QLP
+  name: Torka
+
+- action: INACTIVATE
+  code: RYF-CUW-GIV-UVB-JJM-KPR
+  name: Barns utveckling
+
+- action: INACTIVATE
+  code: RYF-KNI-SQH
+  name: Internationella relationer
+
+- action: INACTIVATE
+  code: RYF-KNI-BVV
+  name: Klimatpolitik
+
+- action: INACTIVATE
+  code: RYF-QPR-MPD
+  name: Idrottsorganisationer
+
+- action: MOVE
+  parentCode: RYF-ZEI-CZS-JZU
+  newParentName: Nyanställning
+  code: RYF-ZEI-AGF-NLP
+  name: Rekrytering
+  level: 3
+
+- action: INACTIVATE
+  code: RYF-ZEI-AGF
+  name: Nyanställning
+  
