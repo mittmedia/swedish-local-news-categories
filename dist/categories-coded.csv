@@ -1,0 +1,1643 @@
+code,description,level,name,status
+RYF,Rotobjektet för svenska lokalnyheters kategoriträd,0,Lokala nyhetskategorier,ACTIVE
+RYF-AKM,Händelser som resulterar i skador på levande varelser eller skador på egendom,1,Olyckor & katastrofer,ACTIVE
+RYF-AKM-AUE,Alla former av skadliga bränder. Till exempel villabränder. Ej majbrasa eller liknande,2,Brand,ACTIVE
+RYF-AKM-AUE-CYE,,3,Fordonsbrand,ACTIVE
+RYF-AKM-AUE-GXF,,3,Industribrand,ACTIVE
+RYF-AKM-AUE-MPZ,,3,Brand i byggnad,ACTIVE
+RYF-AKM-AUE-MRU,,3,Skogsbrand,ACTIVE
+RYF-AKM-AUE-ZZI,,3,Gräsbrand,ACTIVE
+RYF-AKM-QGJ,"Alla typer av olyckor, till exempel trafikolyckor, arbetsplatsolyckor, utsläpp eller explosioner",2,Olyckor,ACTIVE
+RYF-AKM-QGJ-CCP,,3,Industriolycka,ACTIVE
+RYF-AKM-QGJ-EMV,,3,Järnvägsolycka,ACTIVE
+RYF-AKM-QGJ-KRH,,3,Viltolycka,ACTIVE
+RYF-AKM-QGJ-KUV,,3,Trafikolycka,ACTIVE
+RYF-AKM-QGJ-PIH,,3,Byggnadsolycka,ACTIVE
+RYF-AKM-QGJ-SMW,,3,Arbetsplatsolycka,ACTIVE
+RYF-AKM-QGJ-SRF,3,Drunkning,ACTIVE
+RYF-AKM-QGJ-TBS,,3,Sjöfartsolycka,ACTIVE
+RYF-AKM-QGJ-TMT,,3,Explosionsolycka,ACTIVE
+RYF-AKM-TGS,Allvarlig händelse där samhället inte står rustat att ta hand om konsekvenserna. Till exempel svält eller naturkatastrofer,2,Katastrof,ACTIVE
+RYF-AKM-TGS-QGV,,3,Naturkatastrofer,ACTIVE
+RYF-AKM-TGS-SHO,,3,Svält,ACTIVE
+RYF-AKM-TYE,"Planering för åtgärder för att ta itu med plötsliga, oförutsedda händelser",2,Beredskapsplanering,ACTIVE
+RYF-AKM-WDC,Arbetet med att undsätta personer eller samhällen i behov av hjälp efter en katastrof,2,Katastrofhjälp,ACTIVE
+RYF-BIZ,,1,Brott & straff,ACTIVE
+RYF-BIZ-GCG,,2,Polisiärt arbete,ACTIVE
+RYF-BIZ-GCG-JSV,,3,Förundersökning,RYF-BIZ-XSV-JIV,INACTIVE
+RYF-BIZ-GCG-JSV-DXW,,4,Åtal,RYF-BIZ-XSV-JIV-DXW,INACTIVE
+RYF-BIZ-GCG-JSV-TFL,,4,Nedlagd förundersöking,RYF-BIZ-XSV-JIV-TFL,INACTIVE
+RYF-BIZ-GCG-NCM,"Gripande, anhållan, häktning eller liknande",3,Frihetsberövande,RYF-BIZ-XSV-XDC,INACTIVE
+RYF-BIZ-LHX,,2,Säkerhetspolisen,ACTIVE
+RYF-BIZ-LHX-PHV,,3,Informationsverksamhet & spionage,ACTIVE
+RYF-BIZ-WZJ,,2,Brottslighet,ACTIVE
+RYF-BIZ-WZJ-COP,,3,Vållande till annans död,ACTIVE
+RYF-BIZ-WZJ-CXJ,,3,Kapning av fordon,RYF-BIZ-WZJ-GNO-HHO,INACTIVE
+RYF-BIZ-WZJ-DCA,,3,Djurskyddsbrott,ACTIVE
+RYF-BIZ-WZJ-DFJ,,3,Dråp,RYF-BIZ-WZJ-KVS-EPT,INACTIVE
+RYF-BIZ-WZJ-DRD,,3,Mord,RYF-BIZ-WZJ-KVS-KTU,INACTIVE
+RYF-BIZ-WZJ-ELD,,3,Trafikbrott,ACTIVE
+RYF-BIZ-WZJ-ELD-ASC,,4,Drograttfylleri,ACTIVE
+RYF-BIZ-WZJ-ELD-GUK,,4,Olovlig körning,ACTIVE
+RYF-BIZ-WZJ-ELD-JGD,,4,Vårdslöshet i trafik,ACTIVE
+RYF-BIZ-WZJ-ELD-QEG,,4,Rattfylleri,ACTIVE
+RYF-BIZ-WZJ-GNO,,3,Stölder & inbrott,ACTIVE
+RYF-BIZ-WZJ-GNO-BUL,,4,Stöld,ACTIVE
+RYF-BIZ-WZJ-GNO-EBC,,4,Inbrott,ACTIVE
+RYF-BIZ-WZJ-GNO-HHO,,4,Tillgrepp av fortskaffningsmedel,RYF-BIZ-WZJ-CXJ,ACTIVE
+RYF-BIZ-WZJ-GNO-JXB,,4,Rån,RYF-BIZ-WZJ-KVS-LGW,ACTIVE
+RYF-BIZ-WZJ-GNO-UHT,,4,Ringa stöld,ACTIVE
+RYF-BIZ-WZJ-GSD,När it-teknik används för att begå brott. Brotten i sig kan vara av vilken brottstyp som helst,3,IT-brott,ACTIVE
+RYF-BIZ-WZJ-III,,3,Smugglingsbrott,ACTIVE
+RYF-BIZ-WZJ-IQH,,3,Allmänfarliga brott,ACTIVE
+RYF-BIZ-WZJ-IQH-CUG,,4,Mordbrand,RYF-BIZ-WZJ-TEY,ACTIVE
+RYF-BIZ-WZJ-IQH-NRO,,4,Spridande av gift eller smitta,ACTIVE
+RYF-BIZ-WZJ-IQH-RSY,,4,Sabotage,ACTIVE
+RYF-BIZ-WZJ-IQH-THQ,,4,Allmänfarlig vårdslöshet,ACTIVE
+RYF-BIZ-WZJ-IQH-TXV,,4,Allmänfarlig ödeläggelse,ACTIVE
+RYF-BIZ-WZJ-JDU,Person som missbrukar offentlig makt för privat vinning,3,Korruption,ACTIVE
+RYF-BIZ-WZJ-JDU-PWS,,4,Mutbrott,ACTIVE
+RYF-BIZ-WZJ-JDU-VIQ,,4,Trolöshet mot huvudman,ACTIVE
+RYF-BIZ-WZJ-KLS,,3,Häleri,ACTIVE
+RYF-BIZ-WZJ-KVS,,3,Våldsbrott,ACTIVE
+RYF-BIZ-WZJ-KVS-AJP,,4,Misshandel,RYF-BIZ-WZJ-KVS-MQG,ACTIVE
+RYF-BIZ-WZJ-KVS-EPT,,4,Dråp,RYF-BIZ-WZJ-DFJ,ACTIVE
+RYF-BIZ-WZJ-KVS-KTU,,4,Mord,RYF-BIZ-WZJ-DRD,ACTIVE
+RYF-BIZ-WZJ-KVS-LGW,,4,Rån,RYF-BIZ-WZJ-GNO-JXB,INACTIVE
+RYF-BIZ-WZJ-KVS-MQG,,4,Misshandel,RYF-BIZ-WZJ-KVS-AJP,INACTIVE
+RYF-BIZ-WZJ-KVS-NTL,,4,Våld i nära relationer,ACTIVE
+RYF-BIZ-WZJ-MZM,"Brott som begåtts under krig eller väpnad konflikt, vanligtvis mot civila",3,Krigsbrott,ACTIVE
+RYF-BIZ-WZJ-NVZ,,3,Vapenbrott,ACTIVE
+RYF-BIZ-WZJ-OFE,,3,Miljöbrott,ACTIVE
+RYF-BIZ-WZJ-OFE-MXU,,4,Jaktbrott,ACTIVE
+RYF-BIZ-WZJ-OFE-RFG,,4,Artskyddsbrott,ACTIVE
+RYF-BIZ-WZJ-OUB,,3,Kidnappning,ACTIVE
+RYF-BIZ-WZJ-PQY,Brott som begås av ligor eller kriminella grupper,3,Organiserad brottslighet,ACTIVE
+RYF-BIZ-WZJ-PQY-DCE,"Modern form av slaveri, ofta relaterat till prostitution, hushållsarbete, eller fabriksarbete",4,Människohandel,RYF-HPT-THK-DPO,ACTIVE
+RYF-BIZ-WZJ-RPI,,3,Bedrägerier & ekobrott,ACTIVE
+RYF-BIZ-WZJ-RPI-AEK,,4,Avtalsbrott,ACTIVE
+RYF-BIZ-WZJ-RPI-AFY,Handel med aktier av person med tillgång till intern information som inte offentliggjorts,4,Insiderhandel,ACTIVE
+RYF-BIZ-WZJ-RPI-ASA,,4,Förskingring,INACTIVE
+RYF-BIZ-WZJ-RPI-EBO,,4,Bokföringsbrott,INACTIVE
+RYF-BIZ-WZJ-RPI-JKK,,4,Insiderhandel,INACTIVE
+RYF-BIZ-WZJ-RPI-NKB,,4,Bokföringsbrott,ACTIVE
+RYF-BIZ-WZJ-RPI-RAV,,4,Skattebrott,INACTIVE
+RYF-BIZ-WZJ-RPI-SVU,,4,Avtalsbrott,INACTIVE
+RYF-BIZ-WZJ-RPI-UBX,,4,Bedrägeri,RYF-BIZ-WZJ-TUQ,ACTIVE
+RYF-BIZ-WZJ-RPI-WUP,,4,Bedrägeri,INACTIVE
+RYF-BIZ-WZJ-RPI-XPC,,4,Skattebrott,ACTIVE
+RYF-BIZ-WZJ-RPI-XVO,,4,Förskingring,ACTIVE
+RYF-BIZ-WZJ-RXJ,Alla typer av brott som rör narkotika,3,Narkotikabrott,ACTIVE
+RYF-BIZ-WZJ-SVK,,3,Hot & trakasserier,ACTIVE
+RYF-BIZ-WZJ-SVK-EPV,,4,Olaga hot,ACTIVE
+RYF-BIZ-WZJ-SVK-XSF,,4,Hot mot tjänsteman,ACTIVE
+RYF-BIZ-WZJ-SVK-YBM,,4,Ofredande,ACTIVE
+RYF-BIZ-WZJ-SVK-ZJY,,4,Utpressning,ACTIVE
+RYF-BIZ-WZJ-TEY,,3,Anlagd brand,RYF-BIZ-WZJ-IQH-CUG,INACTIVE
+RYF-BIZ-WZJ-TUQ,,3,Bedrägeri,RYF-BIZ-WZJ-RPI-UBX,INACTIVE
+RYF-BIZ-WZJ-TZC,,3,Skadegörelse,ACTIVE
+RYF-BIZ-WZJ-ULE,,3,Stämpling,ACTIVE
+RYF-BIZ-WZJ-USP,Våld eller förstörelse för att med hjälp av rädsla uppnå politiska eller ideologiska mål,3,Terrorism,ACTIVE
+RYF-BIZ-WZJ-XEY,,3,Sexualbrott,ACTIVE
+RYF-BIZ-WZJ-XEY-EXA,,4,Sexuellt ofredande,ACTIVE
+RYF-BIZ-WZJ-XEY-FOH,,4,Våldtäkt,ACTIVE
+RYF-BIZ-WZJ-XEY-MWO,,4,Sexualbrott mot barn,ACTIVE
+RYF-BIZ-XSV,,2,Rättsprocessen,ACTIVE
+RYF-BIZ-XSV-BII,,3,Straff,ACTIVE
+RYF-BIZ-XSV-BII-EAX,,4,Rättspsykiatrisk vård,ACTIVE
+RYF-BIZ-XSV-BII-FTR,Brottspåföljd för ett brott där påföljden inte bedöms kunna stanna vid böter,4,Villkorlig dom,ACTIVE
+RYF-BIZ-XSV-BII-HDU,,4,Böter,ACTIVE
+RYF-BIZ-XSV-BII-KLB,,4,Fängelse,ACTIVE
+RYF-BIZ-XSV-JIV,,3,Förundersökning,RYF-BIZ-GCG-JSV,ACTIVE
+RYF-BIZ-XSV-JIV-DXW,,4,Åtal,RYF-BIZ-GCG-JSV-DXW,ACTIVE
+RYF-BIZ-XSV-JIV-TFL,,4,Nedlagd förundersökning,RYF-BIZ-GCG-JSV-TFL,ACTIVE
+RYF-BIZ-XSV-JTA,,3,Straffrätt,ACTIVE
+RYF-BIZ-XSV-JTA-YUA,,4,Rättegång,ACTIVE
+RYF-BIZ-XSV-JTA-ZUJ,"När dom inte accepteras av den som dömts, av åklagaren eller brottsoffer",4,Överklagande av dom,ACTIVE
+RYF-BIZ-XSV-JUZ,Handlägger mål som främst rör tvister mellan enskilda personer och myndigheter,3,Förvaltningsrätt,ACTIVE
+RYF-BIZ-XSV-JUZ-BQY,,4,Myndighetsrelaterat mål,ACTIVE
+RYF-BIZ-XSV-JUZ-SJC,,4,Personrelaterat mål,ACTIVE
+RYF-BIZ-XSV-LCF,"Lagar som omfattas av alla nationer, till exempel Genèvekonventionen, International Law of the Seas och liknande",3,Internationell rätt,ACTIVE
+RYF-BIZ-XSV-LCF-KVX,Lagenlig överlåtelse av brottslingar eller misstänkta mellan länder,4,Utlämning av brottsling,ACTIVE
+RYF-BIZ-XSV-RSI,,3,Frikännande,ACTIVE
+RYF-BIZ-XSV-XBV,Juridiska frågor som regleras utanför domstol,3,Övriga rättsärenden,ACTIVE
+RYF-BIZ-XSV-XDC,"Gripande, anhållan, häktning eller liknande",3,Frihetsberövande,RYF-BIZ-GCG-NCM,ACTIVE
+RYF-CUW,"Artiklar om individer, grupper, djur, växter eller andra föremål med fokus på känslomässiga aspekter",1,Personligt,ACTIVE
+RYF-CUW-AEJ,"Känslomässiga berättelser om djur, eller om djurs roll för människan",2,Husdjur,ACTIVE
+RYF-CUW-GIV,"Frågor som rör familjen som institution, till exempel äktenskap, adoption och skilsmässor",2,Familjefrågor,ACTIVE
+RYF-CUW-GIV-BNB,,3,Skilsmässor,ACTIVE
+RYF-CUW-GIV-CWF,"Medvetna beslut och insatser som rör reproduktion, till exempel preventivmedel eller IVF-behandling",3,Familjeplanering,ACTIVE
+RYF-CUW-GIV-CWF-BVA,,4,Preventivmedel,ACTIVE
+RYF-CUW-GIV-CWF-LBN,"Till exempel provrörsbefruktning, IVF",4,Fertilitetsbehandling,ACTIVE
+RYF-CUW-GIV-CWF-SUG,,4,Abort,ACTIVE
+RYF-CUW-GIV-RLJ,,3,Adoption,ACTIVE
+RYF-CUW-IAA,"Artiklar om en prestation, att man åstadkommit något speciellt eller uppnått milstole till exempel",2,Prestationer,ACTIVE
+RYF-CUW-IAA-JLY,Inriktat på om man fått pris eller utmärkselse,3,Priser & utmärkelser,ACTIVE
+RYF-CUW-JCL,Artiklar om växter med fokus på känslomässiga aspekter,2,Växter,ACTIVE
+RYF-CUW-LGT,"Artiklar om speciella tillfällen, ceremonier och händelser",2,Ceremonier & händelser,ACTIVE
+RYF-CUW-LGT-CIG,,3,Födelsedag,ACTIVE
+RYF-CUW-LGT-DXM,,3,Nyfödd,ACTIVE
+RYF-CUW-LGT-FPF,,3,Jubilar,ACTIVE
+RYF-CUW-LGT-NCW,,3,Dop,ACTIVE
+RYF-CUW-LGT-NLW,,3,Bröllop,ACTIVE
+RYF-CUW-LGT-NSR,,3,Begravning,ACTIVE
+RYF-CUW-LGT-PLA,,3,Dödsfall,ACTIVE
+RYF-CUW-LGT-WOF,,3,Studentfirande,ACTIVE
+RYF-CUW-XVL,Artiklar som rör kalendariska högtider,2,Högtider,ACTIVE
+RYF-CUW-XVL-AJJ,,3,Jul,ACTIVE
+RYF-CUW-XVL-DIS,,3,Nationaldagen,ACTIVE
+RYF-CUW-XVL-DPU,,3,Halloween,ACTIVE
+RYF-CUW-XVL-EPD,,3,Valborg,ACTIVE
+RYF-CUW-XVL-FOK,,3,Lucia,ACTIVE
+RYF-CUW-XVL-HEF,,3,Morsdag,ACTIVE
+RYF-CUW-XVL-IEM,,3,Påsk,ACTIVE
+RYF-CUW-XVL-JXY,,3,Allhelgona,ACTIVE
+RYF-CUW-XVL-JZT,,3,Midsommar,ACTIVE
+RYF-CUW-XVL-NYB,,3,Ramadan,ACTIVE
+RYF-CUW-XVL-OEZ,,3,Yom kippur,ACTIVE
+RYF-CUW-XVL-PKH,,3,Nyår,ACTIVE
+RYF-CUW-XVL-YIQ,,3,Pingst,ACTIVE
+RYF-CUW-XVL-YQK,,3,Farsdag,ACTIVE
+RYF-EOI,,1,Vetenskap & teknologi,ACTIVE
+RYF-EOI-DLM,,2,Naturvetenskap,ACTIVE
+RYF-EOI-DLM-BEP,,3,Geologi,ACTIVE
+RYF-EOI-DLM-BUZ,,3,Fysik,ACTIVE
+RYF-EOI-DLM-CMJ,,3,Hortikultur,ACTIVE
+RYF-EOI-DLM-DAF,,3,Astronomi,ACTIVE
+RYF-EOI-DLM-FKB,,3,Biologi,ACTIVE
+RYF-EOI-DLM-FKB-GQI,,4,Botanik,ACTIVE
+RYF-EOI-DLM-FKB-IZB,,4,Paleontologi,ACTIVE
+RYF-EOI-DLM-FKB-KWU,,4,Fysiologi,ACTIVE
+RYF-EOI-DLM-FKB-XGL,,4,Zoologi,ACTIVE
+RYF-EOI-DLM-FKB-ZXC,,4,Genetik,ACTIVE
+RYF-EOI-DLM-GWM,,3,Kosmologi,ACTIVE
+RYF-EOI-DLM-QDJ,,3,Matematik,ACTIVE
+RYF-EOI-DLM-VZS,,3,Marinvetenskap,ACTIVE
+RYF-EOI-DLM-XTK,,3,Kemi,ACTIVE
+RYF-EOI-DLM-ZEC,,3,Meteorologi,ACTIVE
+RYF-EOI-DOE,,2,Akademisk forskning,ACTIVE
+RYF-EOI-DOE-DIH,,3,Vetenskaplig expedition,ACTIVE
+RYF-EOI-DOE-DIH-CMF,,4,Rymdresor,ACTIVE
+RYF-EOI-DOE-MJL,,3,Vetenskaplig rapport,ACTIVE
+RYF-EOI-DOE-QRZ,,3,Medicinsk forskning,ACTIVE
+RYF-EOI-FZS,,2,Biomedicinsk vetenskap,ACTIVE
+RYF-EOI-FZS-LQG,,3,Farmakologi,ACTIVE
+RYF-EOI-FZS-RFH,,3,Veterinärvetenskap,ACTIVE
+RYF-EOI-GJM,,2,Teknik & ingenjörskonst,ACTIVE
+RYF-EOI-GJM-ABY,,3,Identifieringsteknik & biometri,ACTIVE
+RYF-EOI-GJM-FGZ,,3,Forskning om atomer,ACTIVE
+RYF-EOI-GJM-FGZ-EXG,,4,Nanoteknologi,ACTIVE
+RYF-EOI-GJM-ICE,,3,IT & datavetenskap,ACTIVE
+RYF-EOI-GJM-OLW,,3,Elektronik,ACTIVE
+RYF-EOI-GJM-QLA,,3,Jordbruksteknik,ACTIVE
+RYF-EOI-GJM-SXI,,3,Materialvetenskap,ACTIVE
+RYF-EOI-GJM-VAT,,3,Flyg- & rymdteknik,ACTIVE
+RYF-EOI-GJM-VAT-TNN,,4,Raketforskning,ACTIVE
+RYF-EOI-GLR,,2,Samhällsvetenskaper,ACTIVE
+RYF-EOI-GLR-FWR,,3,Psykologi,ACTIVE
+RYF-EOI-GLR-GUK,,3,Filosofi,ACTIVE
+RYF-EOI-GLR-IUZ,,3,Antropologi,ACTIVE
+RYF-EOI-GLR-JHA,,3,Historia,ACTIVE
+RYF-EOI-GLR-JJO,,3,Sociologi,ACTIVE
+RYF-EOI-GLR-KDA,,3,Juridik,ACTIVE
+RYF-EOI-GLR-LDH,,3,Lingvistik,ACTIVE
+RYF-EOI-GLR-MVZ,,3,Arkeologi,ACTIVE
+RYF-EOI-GLR-PPU,,3,Geografi,ACTIVE
+RYF-EOI-GLR-QGJ,,3,Statsvetenskap,ACTIVE
+RYF-EOI-GLR-UEI,,3,Informationsvetenskap,ACTIVE
+RYF-EOI-TKR,,2,Maskinteknik,ACTIVE
+RYF-HPT,"Artiklar som rör samhällsfrågor som till exempel välfärden, olika människogrupper och sociala problem",1,Samhälle & välfärd,ACTIVE
+RYF-HPT-ECD,"Vetenskapen om en befolknings fördelning, storlek och sammansättning",2,Demografi,ACTIVE
+RYF-HPT-ECD-NOG,Artiklar som rör befolkningens utveckling över tid,3,Befolkningsutveckling,ACTIVE
+RYF-HPT-PFF,Frågor om specifika grupperingar av liknande människor,2,Människogrupper,ACTIVE
+RYF-HPT-PFF-EUU,,3,Barn,ACTIVE
+RYF-HPT-PFF-JYB,,3,Vuxna,ACTIVE
+RYF-HPT-PFF-KWE,,3,Pensionärer,ACTIVE
+RYF-HPT-PFF-LJW,,3,Spädbarn,ACTIVE
+RYF-HPT-PFF-QXE,,3,Nationell eller etnisk minoritet,ACTIVE
+RYF-HPT-PFF-YBM,,3,HBTQ-personer,ACTIVE
+RYF-HPT-PFF-ZFA,,3,Tonåringar,ACTIVE
+RYF-HPT-PFF-ZMQ,,3,Kön,ACTIVE
+RYF-HPT-PPR,"Frågor som rör moraliska frågor, eller frågor som är svåra att prata om",2,Moraliska frågor & tabubelagda ämnen,ACTIVE
+RYF-HPT-PPR-CWB,Frågor som rör vad som är socialt accepterat och inte,3,Etik,ACTIVE
+RYF-HPT-PPR-LQJ,,3,Döden,ACTIVE
+RYF-HPT-PPR-LQJ-DBB,,4,Dödshjälp,ACTIVE
+RYF-HPT-PPR-LQJ-RVU,,4,Självmord,ACTIVE
+RYF-HPT-PPR-OZY,,3,Pornografi,ACTIVE
+RYF-HPT-PPR-RNR,Frågor kring olika sexuella beteenden och böjelser,3,Sexuellt beteende,ACTIVE
+RYF-HPT-THK,Olika typer av problem som kännetecknas av de går ut över en persons omgivning,2,Sociala problem,ACTIVE
+RYF-HPT-THK-DPO,"Modern form av slaveri, ofta relaterat till prostitution, hushållsarbete, eller fabriksarbete",3,Människohandel,RYF-BIZ-WZJ-PQY-DCE,INACTIVE
+RYF-HPT-THK-IIG,,3,Fattigdom,ACTIVE
+RYF-HPT-THK-KAW,,3,Hemlöshet,ACTIVE
+RYF-HPT-THK-KFS,"Personer som är arbetsoförmögna, antingen fysiskt, känslomässigt eller psykiskt",3,Utanförskap,ACTIVE
+RYF-HPT-THK-OIW,,3,Prostitution,ACTIVE
+RYF-HPT-THK-RGK,"Personer som finansierar sin livsstil, ofta missbruk, med att begå brott",3,Yrkeskriminella,ACTIVE
+RYF-HPT-THK-RYE,,3,Missbruk,ACTIVE
+RYF-HPT-THK-TPB,,3,Ungdomsbrottslighet,ACTIVE
+RYF-HPT-XAO,Att göra skillnad på människor på grund av något som inte bygger på meriter eller talanger,2,Diskriminering,ACTIVE
+RYF-HPT-XAO-EWJ,,3,Åldersdiskriminering,ACTIVE
+RYF-HPT-XAO-GAX,,3,Religiös diskriminering,ACTIVE
+RYF-HPT-XAO-GDX,,3,Diskriminering av funktionsnedsatta,ACTIVE
+RYF-HPT-XAO-JSW,,3,Könsdiskriminering,ACTIVE
+RYF-HPT-XAO-OHC,,3,Rasism,ACTIVE
+RYF-HPT-XRQ,"Frågor som rör välfärdssamhället och den hjälp samhället kan ge människor som behöver mat, boende med mera",2,Välfärd & bidragsfrågor,ACTIVE
+RYF-HPT-XRQ-DXC,Omfattande sjukvård på grund av allvarlig sjukdom eller funktionshinder till exempel på grund av ålder,3,Långtids- & äldrevård,ACTIVE
+RYF-HPT-XRQ-HQH,,3,Skolskjutsar,ACTIVE
+RYF-HPT-XRQ-KWB,Pengar individer kan få av myndigheter för att täcka basala behov,3,Bidrag,ACTIVE
+RYF-HPT-XRQ-MLN,Att skänka pengar till organisation eller person för en specifik orsak,3,Välgörenhet,ACTIVE
+RYF-HPT-XRQ-UFA,,3,Barnomsorg,ACTIVE
+RYF-HPT-XRQ-YNP,Frågor som rör personers sociala nätverk som kan verka stöttande för en person med sociala problem,3,Socialt skyddsnät,ACTIVE
+RYF-HPT-YGE,,2,Infrastruktur,ACTIVE
+RYF-HPT-YGE-AAD,,3,Kollektivtrafik,ACTIVE
+RYF-HPT-YGE-EWJ,,3,Internet,ACTIVE
+RYF-HPT-YGE-FAZ,,3,Parkering,ACTIVE
+RYF-HPT-YGE-GCZ,,3,Vattennät,ACTIVE
+RYF-HPT-YGE-GUI,,3,Trafikpåverkan,ACTIVE
+RYF-HPT-YGE-GUI-AZI,,4,Tåg,ACTIVE
+RYF-HPT-YGE-GUI-EHJ,,4,Väg,ACTIVE
+RYF-HPT-YGE-GUI-JGK,,4,Flyg,ACTIVE
+RYF-HPT-YGE-GUI-YMN,,4,Sjöfart,ACTIVE
+RYF-HPT-YGE-KEG,,3,Telenät,ACTIVE
+RYF-HPT-YGE-MOZ,,3,Tågnät,ACTIVE
+RYF-HPT-YGE-USH,,3,Vägnät,ACTIVE
+RYF-HPT-YGE-WRY,,3,Elnät,ACTIVE
+RYF-HPT-ZSS,"Grupp av människor som hålls samman av geografiska, administrativa eller sociala relationer",2,Samhällen,ACTIVE
+RYF-HPT-ZSS-FKI,,3,Detaljplan,RYF-HPT-ZSS-WTL-JLR,INACTIVE
+RYF-HPT-ZSS-HAB,,3,Stadsmiljö,ACTIVE
+RYF-HPT-ZSS-WTL,,3,Samhällsplanering,ACTIVE
+RYF-HPT-ZSS-WTL-JLR,,4,Detaljplan,RYF-HPT-ZSS-FKI,ACTIVE
+RYF-HPT-ZSS-WTL-WIC,,4,Översiktsplan,RYF-HPT-ZSS-XII,ACTIVE
+RYF-HPT-ZSS-XII,,3,Översiktsplan,RYF-HPT-ZSS-WTL-WIC,INACTIVE
+RYF-ITV,,1,Religion & tro,ACTIVE
+RYF-ITV-IQC,"Anläggning där en grupp kan utföra sina religiösa riter, till exempel moské, kyrka, hus eller tält",2,Religiösa byggnader,ACTIVE
+RYF-ITV-LPR,,2,Religiösa åskådningar,ACTIVE
+RYF-ITV-LPR-BCK,,3,Kristendom,ACTIVE
+RYF-ITV-LPR-COP,"Samlingsnamnet för en rad indiska sedvänjor, religiösa föreställningar och filosofiska koncept",3,Hinduism,ACTIVE
+RYF-ITV-LPR-DOR,"Dyrkan av naturliga element som eld, vatten, träd och berg",3,Naturreligion,ACTIVE
+RYF-ITV-LPR-GBL,,3,Judendom,ACTIVE
+RYF-ITV-LPR-HEW,,3,Sekt,ACTIVE
+RYF-ITV-LPR-MFH,Asiatisk religion grundad av Buddha 500-talet till 300-talet f.Kr. i Indien,3,Buddhism,ACTIVE
+RYF-ITV-LPR-UQT,,3,Islam,ACTIVE
+RYF-ITV-LTK,Konflikter som involverar religiösa skillnader,2,Religiösa konflikter,ACTIVE
+RYF-ITV-QAK,"Nyheter om en religiös händelse, men inte en festival eller semester",2,Religiösa händelser,ACTIVE
+RYF-ITV-QAK-VBF,"Etablerade religiösa ritualer som till exempel gudstjänst, begravning och vigsel",3,Religiösa ritualer,ACTIVE
+RYF-ITV-WPR,,2,Religiösa texter,ACTIVE
+RYF-ITV-WPR-MFF,Islams heliga skrift,3,Koranen,ACTIVE
+RYF-ITV-WPR-SYY,Heliga skrifter av kristendomen som består av gamla och nya testamentet,3,Bibeln,ACTIVE
+RYF-ITV-WPR-XCD,"Helig skrift som ligger till grund för judisk, messiansk och hebreisk tro. Innehåller bland annat Torah",3,Tanach,ACTIVE
+RYF-ITV-ZFQ,Varje form av kommunikation mellan religioner,2,Dialog mellan religioner,ACTIVE
+RYF-IXA,,1,"Ekonomi, näringsliv & finans",ACTIVE
+RYF-IXA-CVI,,2,Börser & handelsmarknader,ACTIVE
+RYF-IXA-CVI-CCS,,3,Fonder,ACTIVE
+RYF-IXA-CVI-FUJ,,3,Råvarumarknad,ACTIVE
+RYF-IXA-CVI-MAB,,3,Aktiehandel,ACTIVE
+RYF-IXA-CVI-ODE,,3,Värdepapper,ACTIVE
+RYF-IXA-CVI-OHN,,3,Valutamarknad,ACTIVE
+RYF-IXA-CVI-VCE,,3,Obligationer,ACTIVE
+RYF-IXA-KEV,,2,Näringsliv,ACTIVE
+RYF-IXA-KEV-BEL,,3,IT & datateknik,ACTIVE
+RYF-IXA-KEV-BEL-BJH,,4,Hårdvara,ACTIVE
+RYF-IXA-KEV-BEL-HDC,,4,Mjukvara & programvara,ACTIVE
+RYF-IXA-KEV-BEL-LPY,,4,Datasäkerhet,ACTIVE
+RYF-IXA-KEV-BEL-MRI,Hårdvara och mjukvara som gör det möjligt för markbaserade enheter att skicka signaler till varandra via en satellit i omloppsbana,4,Satellitteknik,ACTIVE
+RYF-IXA-KEV-BEL-MZV,,4,Kretskort & datorkomponenter,ACTIVE
+RYF-IXA-KEV-BEL-OCZ,,4,Telekommunikationsutrustning,ACTIVE
+RYF-IXA-KEV-BEL-TMN,,4,Telekommunikationstjänster & trådlös teknik,ACTIVE
+RYF-IXA-KEV-BEL-YKX,,4,Datornätverkstjänster,ACTIVE
+RYF-IXA-KEV-CKN,"Produktion, prospektering och raffinering av malm i metaller, ofta från gruvor",3,Gruvnäring,ACTIVE
+RYF-IXA-KEV-DOS,Verksamheter inom avfallshantering och begränsning av föroreningar,3,Avfallshantering & bekämpning av föroreningar,ACTIVE
+RYF-IXA-KEV-OTN,,3,Fastighets- & byggnadsindustri,ACTIVE
+RYF-IXA-KEV-OTN-GCM,Köp och försäljning av fastigheter av alla typer,4,Fastighetsaffärer,RYF-IXA-QED-QAS,INACTIVE
+RYF-IXA-KEV-OTN-KAZ,,4,Jordbruksfastigheter,ACTIVE
+RYF-IXA-KEV-OTN-MNM,,4,Markpriser,ACTIVE
+RYF-IXA-KEV-OTN-OYA,,4,Bostadspriser,RYF-IXA-QED-UGD-FRC,INACTIVE
+RYF-IXA-KEV-OTN-RBK,Återställa egenskaper eller strukturer till ett tidigare bättre tillstånd,4,Renovering & restaurering,ACTIVE
+RYF-IXA-KEV-OTN-TSA,,4,Husbyggnad,ACTIVE
+RYF-IXA-KEV-OTN-WNQ,,4,Stadsbyggnad,ACTIVE
+RYF-IXA-KEV-OTN-ZWU,,4,Infrastrukturbyggnad,ACTIVE
+RYF-IXA-KEV-RFJ,,3,Restaurang & catering,ACTIVE
+RYF-IXA-KEV-RFJ-ABR,,4,Kafé,ACTIVE
+RYF-IXA-KEV-RFJ-IDT,Ett företag där drycker tillagas och serveras till allmänheten för konsumtion på plats,4,Bar,ACTIVE
+RYF-IXA-KEV-RFJ-KXI,Ett företag där måltider tillagas och serveras till allmänheten,4,Restaurang,ACTIVE
+RYF-IXA-KEV-RQL,,3,Konsumtions- & dagligvaror,ACTIVE
+RYF-IXA-KEV-RQL-AOK,,4,Elektronisk handel,ACTIVE
+RYF-IXA-KEV-RQL-BET,,4,Lyxvaror,ACTIVE
+RYF-IXA-KEV-RQL-FAF,,4,Grossister,ACTIVE
+RYF-IXA-KEV-RQL-IDW,,4,Detaljhandel,ACTIVE
+RYF-IXA-KEV-RQL-LYC,,4,Specialbutiker,ACTIVE
+RYF-IXA-KEV-RQL-MGE,,4,Livsmedel,ACTIVE
+RYF-IXA-KEV-RQL-ORT,,4,Dryck,INACTIVE
+RYF-IXA-KEV-RQL-QQF,"Till exempel tändare, pennor, pappersvaror, porslin, klockor eller glasögon",4,Förbrukningsvaror,ACTIVE
+RYF-IXA-KEV-RQL-WBC,Objekt som beställs och levereras per post,4,Internethandel & postorder,ACTIVE
+RYF-IXA-KEV-RQL-WDB,,4,Leksakshandel,ACTIVE
+RYF-IXA-KEV-RQL-XNY,,4,Kläder,ACTIVE
+RYF-IXA-KEV-SXR,,3,Reklam & PR,ACTIVE
+RYF-IXA-KEV-UBU,,3,"Energi, naturtillgångar & elproduktion",ACTIVE
+RYF-IXA-KEV-UBU-EUP,Exempelvis jordvärme och bergvärme,4,Geotermisk energi,ACTIVE
+RYF-IXA-KEV-UBU-FLQ,,4,Solenergi,ACTIVE
+RYF-IXA-KEV-UBU-FVR,Nyheter om till exempel höjning av bensinpriser eller nedläggning av bensinmackar,4,Bensin,ACTIVE
+RYF-IXA-KEV-UBU-KHX,Energi som inte framställs av fossila bränslen,4,Biobränslen,ACTIVE
+RYF-IXA-KEV-UBU-KPP,,4,Vindkraft,ACTIVE
+RYF-IXA-KEV-UBU-NLX,,4,Kolkraft,ACTIVE
+RYF-IXA-KEV-UBU-OAX,,4,Naturgas,ACTIVE
+RYF-IXA-KEV-UBU-SOG,"Nyheter om till exempel gasprospekt, oljehamnar och oljeborrning",4,Olja & gas,ACTIVE
+RYF-IXA-KEV-UBU-XCR,,4,Kärnkraft,ACTIVE
+RYF-IXA-KEV-UBU-YEW,,4,Vattenkraft,ACTIVE
+RYF-IXA-KEV-UBU-ZZD,,4,Dieselbränsle,ACTIVE
+RYF-IXA-KEV-VKR,,3,Privat- & företagstjänster,ACTIVE
+RYF-IXA-KEV-VKR-APV,"Leverantörer av expertkunskap inom ett brett spektrum av områden, vanligtvis tillfälligt",4,Konsulttjänster,ACTIVE
+RYF-IXA-KEV-VKR-DTQ,En tjänst som försöker bestämma vad folk vill köpa,4,Marknadsundersökningar,ACTIVE
+RYF-IXA-KEV-VKR-ILG,,4,Bröllopstjänster,ACTIVE
+RYF-IXA-KEV-VKR-IRK,Företag som tillhandahåller städning och liknande tjänster för hem och företag,4,Fastighetsskötsel,ACTIVE
+RYF-IXA-KEV-VKR-KGD,,4,Bud- & transporttjänster,ACTIVE
+RYF-IXA-KEV-VKR-KHT,Försäljning per budgivning,4,Auktionstjänster,ACTIVE
+RYF-IXA-KEV-VKR-LRI,"Tjänster för lagring, överföring, mottagning och leverans av pengar",4,Banktjänster,ACTIVE
+RYF-IXA-KEV-VKR-MFC,Tjänster som erbjuder balansräkning av budget samt riktigheten av finansiella rapporter,4,Bokföring & revision,ACTIVE
+RYF-IXA-KEV-VKR-MVU,En tjänst som hjälper människor att hitta jobb och företag att hitta arbetare,4,Bemanningsföretag,ACTIVE
+RYF-IXA-KEV-VKR-ODH,,4,Försäkringar,ACTIVE
+RYF-IXA-KEV-VKR-OHX,,4,Uthyrning,ACTIVE
+RYF-IXA-KEV-VKR-SKJ,"Konsument tjänst som är immateriell, till exempel skönhetsvård eller frisör",4,Servicetjänster,ACTIVE
+RYF-IXA-KEV-VKR-SQL,Företag som tillhandahåller tjänster för omhändertagande av de döda,4,Begravningsbyråer & krematorier,ACTIVE
+RYF-IXA-KEV-VKR-UDU,Advokater och andra som hjälper företag och privatpersoner navigera lagarna,4,Juridiska tjänster,ACTIVE
+RYF-IXA-KEV-VRA,Verksamheten för att omvandla råvaror till användbara produkter,3,Processade tjänster & produkter,ACTIVE
+RYF-IXA-KEV-VRA-BLM,,4,Livsmedelsindustrin,ACTIVE
+RYF-IXA-KEV-VRA-BOL,"Odling, produktion och försäljning av tobaksvaror",4,Tobak,ACTIVE
+RYF-IXA-KEV-VRA-CHD,,4,Dryckestillverkning utan alkohol,ACTIVE
+RYF-IXA-KEV-VRA-CXF,,4,Papper & förpackningsartiklar,ACTIVE
+RYF-IXA-KEV-VRA-HUR,,4,Textiltillverkning,ACTIVE
+RYF-IXA-KEV-VRA-JBZ,Tillverkning av alkoholdrycker,4,Destillering & bryggeriverksamhet för alkoholhaltiga drycker,ACTIVE
+RYF-IXA-KEV-VRA-PLF,Tillverkning av virke och annat material för byggnader,4,Byggnadsmaterial,ACTIVE
+RYF-IXA-KEV-VRA-XAL,"Tillverkning av möbler, tapeter, färger och tyger för inredning",4,Möbel- & hemindredningstillverkning,ACTIVE
+RYF-IXA-KEV-VRA-YWU,"Produktion av gummibaserat material för handskar, skyddsbeläggningar, slangar och liknande",4,Gummiprodukter,ACTIVE
+RYF-IXA-KEV-VSA,,3,Naturbruk,ACTIVE
+RYF-IXA-KEV-VSA-CJI,,4,Djuruppfödning,ACTIVE
+RYF-IXA-KEV-VSA-GTD,,4,Jordbruk,ACTIVE
+RYF-IXA-KEV-VSA-HIL,,4,Vinodling,ACTIVE
+RYF-IXA-KEV-VSA-MEC,,4,Skogsbruk,ACTIVE
+RYF-IXA-KEV-VSA-NQV,,4,Fiskerinäring,ACTIVE
+RYF-IXA-KEV-VXX,Medlen för att komma från en plats till en annan utan att gå,3,Transporter,ACTIVE
+RYF-IXA-KEV-VXX-IMZ,"Processen för att ta sig till och från arbetet, bland annat transportmöjligheter, resenätverk, samåkning",4,Pendling,ACTIVE
+RYF-IXA-KEV-VXX-SAU,Verksamheten för att transportera personer eller gods på järnväg,4,Järnvägstransporter,ACTIVE
+RYF-IXA-KEV-VXX-TBB,"Kommersiella transporter av människor eller gods via båtar, fartyg och vatten",4,Sjötransporter,ACTIVE
+RYF-IXA-KEV-VXX-TWI,Flygplan och flygplatsverksamhet,4,Flygtransporter,ACTIVE
+RYF-IXA-KEV-VXX-YRQ,Verksamheten att transportera gods med lastbil och motorvägar,4,Vägtransporter,ACTIVE
+RYF-IXA-KEV-WHS,,3,Tillverkning & konstruktion,ACTIVE
+RYF-IXA-KEV-WHS-IBU,,4,Maskintillverkning,ACTIVE
+RYF-IXA-KEV-WHS-LHJ,,4,Elektriska apparater,ACTIVE
+RYF-IXA-KEV-WHS-NFQ,Företag som monterar eller tillverkar komponenter för flygplan och rymdskepp,4,Flygtillverkning,ACTIVE
+RYF-IXA-KEV-WHS-NZM,,4,Försvarsmaterial,ACTIVE
+RYF-IXA-KEV-WHS-OJI,Företag som producerar komponenter för bilar,4,Fordonsutrustning,ACTIVE
+RYF-IXA-KEV-WHS-OYE,"Tillverkarna av mekaniska, elektriska, elektroniska artiklar som behövs vid tillverkningen av andra objekt",4,Industriella komponenter,ACTIVE
+RYF-IXA-KEV-WHS-PFN,"Tillverkare av kranar, bulldozers och liknande för användning i större byggprojekt",4,Tung industri,ACTIVE
+RYF-IXA-KEV-WHS-WKF,,4,Varvsindustri,ACTIVE
+RYF-IXA-KEV-WHS-ZIB,,4,Fordonstillverkning,ACTIVE
+RYF-IXA-KEV-XZV,,3,Kemisk industri,ACTIVE
+RYF-IXA-KEV-XZV-BUG,,4,Syntetiska & plastkemikalier,ACTIVE
+RYF-IXA-KEV-XZV-GAD,,4,Bioteknik,ACTIVE
+RYF-IXA-KEV-XZV-JLY,,4,Gödningsmedel,ACTIVE
+RYF-IXA-KEV-XZV-LIU,Metallurgisk industri,4,Mineraler & metaller,ACTIVE
+RYF-IXA-KEV-XZV-PYI,,4,Läkemedelsproduktion,ACTIVE
+RYF-IXA-KEV-XZV-QLV,,4,Organisk kemi,ACTIVE
+RYF-IXA-KEV-XZV-QRS,,4,Hälsa & skönhetsprodukter,ACTIVE
+RYF-IXA-KEV-YII,,3,Turism & besöksnäring,ACTIVE
+RYF-IXA-KEV-YII-BPJ,,4,Kasino & spel,ACTIVE
+RYF-IXA-KEV-YII-NFS,Verksamhet i form av mat och husrum för resenärer,4,Hotell & logi,ACTIVE
+RYF-IXA-KEV-YII-VZZ,Tillverkning av varor för fritidsaktiviteter,4,Fritids- & sportartiklar,ACTIVE
+RYF-IXA-LHV,,2,Företagande,ACTIVE
+RYF-IXA-LHV-DFG,,3,Egenföretagande,ACTIVE
+RYF-IXA-LHV-FFA,"Alla typer av etableringar av nya företag, oavsett bransch",3,Nyetableringar,ACTIVE
+RYF-IXA-LHV-GNH,,3,Bolagsstyre,ACTIVE
+RYF-IXA-LHV-GNH-BDA,,4,Ny produkt eller tjänst,ACTIVE
+RYF-IXA-LHV-GNH-GOH,Två eller flera företag som bildar ett nytt bolag genom uppköp eller förvärv,4,Fusion eller förvärv,ACTIVE
+RYF-IXA-LHV-GNH-IDB,Utnämningar till eller förändringar i styrelsen för ett företag,4,Styrelse,ACTIVE
+RYF-IXA-LHV-GNH-MGG,Kontrakt avseende kommersiell verksamhet,4,Affärsavtal,ACTIVE
+RYF-IXA-LHV-GNH-UUS,,4,"Patent, upphovsrätt & varumärke",ACTIVE
+RYF-IXA-LHV-GNH-WDE,Skapandet av nya företag som knoppades av från befintliga företag,4,Dotterbolag,ACTIVE
+RYF-IXA-LHV-GNH-YDU,Två eller fler företag som kommer överens om en satsning,4,Företagsgemensamma satsningar,ACTIVE
+RYF-IXA-LHV-GNH-YVJ,Ett beslut av ett företag att ta tillbaka eller reparera en defekt produkt,4,Produktåterkallelse,ACTIVE
+RYF-IXA-LHV-QOI,,3,Företagsekonomi,ACTIVE
+RYF-IXA-LHV-QOI-CBI,,4,Årsredovisning,ACTIVE
+RYF-IXA-LHV-QOI-DXR,,4,Årsmöten & stämmor,ACTIVE
+RYF-IXA-LHV-QOI-FMD,"Meddelanden om aktieägarnas faktiska utdelning, använd också för vinstvarning",4,Aktieutdelning,ACTIVE
+RYF-IXA-LHV-QOI-KOK,Nya erbjudanden av eget kapital inklusive börsintroduktioner,4,Nyemmissioner,ACTIVE
+RYF-IXA-LHV-QOI-NBA,,4,Redovisning & revision,ACTIVE
+RYF-IXA-LHV-QOI-RJL,,4,Kommentarer & ekonomisk analys,ACTIVE
+RYF-IXA-LHV-QOI-TDN,Nyheter om faktiska konkurs anmälningar,4,Konkurser,ACTIVE
+RYF-IXA-LHV-QOI-UBS,Använd för rapport om företags ekonomiska resultat,4,Resultat,ACTIVE
+RYF-IXA-LHV-QOI-ZML,,4,Omstrukturering & rekapitalisering,ACTIVE
+RYF-IXA-QED,Artikel i en allmän karaktär om handel och ekonomi,2,Ekonomi,ACTIVE
+RYF-IXA-QED-CPE,"Använd för investeringar i råvaror, värdepapper, valutor eller andra spekulativa instrument",3,Investeringar,ACTIVE
+RYF-IXA-QED-CQI,,3,Pengar & penningpolitik,ACTIVE
+RYF-IXA-QED-CZR,,3,Import,ACTIVE
+RYF-IXA-QED-EVV,Motsatsen till inflation,3,Deflation,ACTIVE
+RYF-IXA-QED-GWF,,3,Bolån,ACTIVE
+RYF-IXA-QED-HZF,"Frågor som rör pensionen, till exempel pensionsålder, förtidspension med mera",3,Pension,RYF-ZEI-IVG,ACTIVE
+RYF-IXA-QED-IJC,,3,Moms,ACTIVE
+RYF-IXA-QED-JUO,,3,Ränta,ACTIVE
+RYF-IXA-QED-KZN,,3,Krediter & skulder,ACTIVE
+RYF-IXA-QED-LIJ,,3,Budgetar & budgetering,ACTIVE
+RYF-IXA-QED-LSP,Stigande priser,3,Inflation,ACTIVE
+RYF-IXA-QED-LXS,,3,Valutor,ACTIVE
+RYF-IXA-QED-MVF,,3,Högkonjunktur,ACTIVE
+RYF-IXA-QED-NNA,,3,Statsskuld,ACTIVE
+RYF-IXA-QED-PEG,,3,Marknadspriser,ACTIVE
+RYF-IXA-QED-QAS,Köp och försäljning av fastigheter av alla typer,3,Fastighetsaffärer,RYF-IXA-KEV-OTN-GCM,ACTIVE
+RYF-IXA-QED-RHY,,3,Export,ACTIVE
+RYF-IXA-QED-SLZ,,3,Tillväxtmarknad,ACTIVE
+RYF-IXA-QED-TPZ,Handel med varor och tjänster mellan länder,3,Internationell handel,ACTIVE
+RYF-IXA-QED-UGD,,3,Privatekonomi,ACTIVE
+RYF-IXA-QED-UGD-FRC,,4,Bostadspriser,RYF-IXA-KEV-OTN-OYA,ACTIVE
+RYF-IXA-QED-VZV,,3,Ekonomisk tillväxt,ACTIVE
+RYF-IXA-QED-WGO,,3,Bistånd,ACTIVE
+RYF-IXA-QED-YXM,,3,Lågkonjunktur,ACTIVE
+RYF-KNI,,1,Politik,ACTIVE
+RYF-KNI-BII,Konflikt mellan partier som leder till att parlamentets uppdrag inte kan utövas,2,Parlamentarisk kris,ACTIVE
+RYF-KNI-MRR,,2,Val,ACTIVE
+RYF-KNI-MRR-ANM,,3,Kyrkoval,ACTIVE
+RYF-KNI-MRR-EIU,Använd för nyheter som rör själva röstandet. Till exempel att färre taktikröstar eller om en röstlokal är hotad,3,Rösta i val,ACTIVE
+RYF-KNI-MRR-EUF,,3,Regionval & landstingsval,ACTIVE
+RYF-KNI-MRR-GKP,,3,Valsystem,ACTIVE
+RYF-KNI-MRR-MAL,,3,Riksdagsval,ACTIVE
+RYF-KNI-MRR-NUJ,,3,Kommunval,ACTIVE
+RYF-KNI-MRR-OCZ,,3,EU-val,ACTIVE
+RYF-KNI-MRR-QSD,"Använd när till exempel ett parti annonserat ut sina kandidater, eller om en kandidat förlorat partiets förtroende",3,Politiska kandidater,ACTIVE
+RYF-KNI-MRR-URH,Politiska förslag som inte grundas på styrets egna utredningar,3,Medborgarförslag,ACTIVE
+RYF-KNI-MRR-YYH,Använd för politiska beslut som fattas av en direkt omröstning hos samtliga röstberättigade medborgare,3,Folkomröstning,ACTIVE
+RYF-KNI-MRR-ZUW,"Använd för till exempel en ny kampanjstrategi inom sociala medier, kampanjskyltar",3,Politiska kampanjer,ACTIVE
+RYF-KNI-OHT,,2,Politiska processen,ACTIVE
+RYF-KNI-OHT-ACB,,3,Politiska debatter,ACTIVE
+RYF-KNI-OHT-JAT,,3,Politiska utvecklingen,ACTIVE
+RYF-KNI-OHT-PIO,System utformad för att ge order till regeringen,3,Politiskt system,ACTIVE
+RYF-KNI-OHT-PIO-PCQ,En regering som väljs av folket med mandat att utöva folkets vilja inom ramarna av mänskliga rättigheter,4,Demokrati,ACTIVE
+RYF-KNI-OHT-PIO-PNL,En regering som inte valts av folket och är fria att bedriva politik som främjar regeringens intressen,4,Diktatur,ACTIVE
+RYF-KNI-OHT-UZG,Försök från icke-statliga organisationer att påverka lagstiftning genom främst verbal övertalning,3,Lobbyverksamhet,ACTIVE
+RYF-KNI-RLW,Organisationer som utövar styret i ett land,2,Myndigheter,ACTIVE
+RYF-KNI-RLW-HER,,3,Myndighetsarbete,ACTIVE
+RYF-KNI-RLW-HER-HTC,,4,Offentliga tjänstemän,ACTIVE
+RYF-KNI-RLW-HER-VNR,Obetald tjänst för samhället som civila,4,Samhällstjänst & allmännytta,ACTIVE
+RYF-KNI-RLW-HER-XLI,,4,Offentliganställda,ACTIVE
+RYF-KNI-RLW-NZZ,Använd för processer kring tjänsteman eller politiker som anklagas för att ha överträtt sitt mandat,3,Konstitutionella frågor,ACTIVE
+RYF-KNI-RLW-QAX,,3,Offentliga finanser,ACTIVE
+RYF-KNI-RLW-XJQ,"Använd för riksdagens uppdrag och utformning, nyheter om riksdagens agerande använder organisationstaggen",3,Riksdagsfrågor,ACTIVE
+RYF-KNI-RLW-YIU,,3,Försvaret,ACTIVE
+RYF-KNI-RLW-YIU-ADH,,4,Säkerhetsåtgärder (försvar),ACTIVE
+RYF-KNI-RLW-YIU-ADH-ORM,Filosofin kring att säkra en nation och dess gränser,5,Nationell säkerhet,ACTIVE
+RYF-KNI-RLW-YIU-IEY,,4,Militär utrustning,ACTIVE
+RYF-KNI-RLW-YIU-IEY-KTJ,Ett lands utrustning och arsenal för militären,5,Militära vapen,ACTIVE
+RYF-KNI-RLW-YIU-OVY,,4,Väpnade styrkor,ACTIVE
+RYF-KNI-RLW-YIU-OVY-YCC,,5,Militärtjänst,ACTIVE
+RYF-KNI-RLW-YIU-OVY-ZPH,,5,Militär utbildning,ACTIVE
+RYF-KNI-SQH,,2,Internationella relationer,ACTIVE
+RYF-KNI-SQH-DKK,Människor som söker skydd i ett annat land för att undslippa förföljelse och misär,3,Flyktingfrågan globalt,ACTIVE
+RYF-KNI-SQH-LBP,"Bestraffande åtgärder som vidtagits av ett land mot ett annat inklusive handelsrestriktioner, till exempel embargon",3,Ekonomiska sanktioner,ACTIVE
+RYF-KNI-SQH-LCX,Muntlig och skriftlig kommunikation mellan nationer för att övertala varandra utan våld,3,Diplomati,ACTIVE
+RYF-KNI-SQH-LCX-EUJ,,4,Fördrag,ACTIVE
+RYF-KNI-SQH-LCX-GQK,Möten mellan ledare och ministrar från olika länder om nationsöverskridande frågor,4,Toppmöten,ACTIVE
+RYF-KNI-WER,,2,Politisk kupp,ACTIVE
+RYF-KNI-XNS,,2,Politiska frågor,ACTIVE
+RYF-KNI-XNS-CFE,"Till exempel anslag till vägar, internetanslutning eller elnät",3,Infrastrukturfrågor,ACTIVE
+RYF-KNI-XNS-CHY,Till exempel anslag till kulturella föreningar och sällskap,3,Kulturpolitik,ACTIVE
+RYF-KNI-XNS-ELZ,Till exempel investeringar i förnybara resurser och skatt på utsläpp,3,Miljöpolitik,ACTIVE
+RYF-KNI-XNS-FQO,Används för artiklar som berör regioners och landstings styre,3,Regions- & landstingsfrågor,ACTIVE
+RYF-KNI-XNS-FYA,,3,Kommunpolitik,ACTIVE
+RYF-KNI-XNS-HIC,,3,Skattepolitik,ACTIVE
+RYF-KNI-XNS-JVN,,3,Flyktingpolitik,ACTIVE
+RYF-KNI-XNS-KVO,,3,Sjukvårdspolitik,ACTIVE
+RYF-KNI-XNS-KVO-MPS,Skydd som täcker utgifterna för en person som är för sjuk för att arbeta,4,Sjukförsäkring,ACTIVE
+RYF-KNI-XNS-KVO-RXE,Sjukvård som bedrivs på privata sjukhus och vårdcentraler,4,Privat sjukvård,ACTIVE
+RYF-KNI-XNS-SWE,,3,Samhällspolitik,ACTIVE
+RYF-KNI-XNS-SWE-CAC,Använd för nyheter om hur svenska minoriteter blir behandlade. Till exempel rättigheter för samer,4,Minoritetsfrågor,ACTIVE
+RYF-KNI-XNS-SWE-HXR,,4,Datasäkerhetsfrågor,ACTIVE
+RYF-KNI-XNS-SWE-ILT,"Använd för nyheter om integrationsåtgärder. Till exempel växande utanförskap, satsningar på SFI",4,Integritetsfrågor & personuppgifter,ACTIVE
+RYF-KNI-XNS-SWE-OTW,,4,Offentliga upphandlingar,ACTIVE
+RYF-KNI-XNS-SWE-OWE,,4,Integrationspolitik,ACTIVE
+RYF-KNI-XNS-SWE-PEU,,4,Vapenpolitik,ACTIVE
+RYF-KNI-XNS-SWE-ROA,,4,Bostads- & stadsplaneringsfrågor,ACTIVE
+RYF-KNI-XNS-SWE-VMT,,4,Pension & välfärdspolitik,ACTIVE
+RYF-KNI-XNS-TDS,Regeringens politik för att skydda nationen och gränserna,3,Försvars- & säkerhetspolitik,ACTIVE
+RYF-KNI-XNS-TVM,,3,Regleringar,ACTIVE
+RYF-KNI-XNS-TVM-YQF,Regeringens politik som rör mat och dryck,4,Livsmedelsregler,ACTIVE
+RYF-KNI-XNS-TXA,,3,Energipolitik,ACTIVE
+RYF-KNI-XNS-WZY,,3,Ekonomisk politik,ACTIVE
+RYF-KNI-XNS-WZY-FGD,,4,Statligt ägda företag,ACTIVE
+RYF-KNI-XNS-WZY-NMW,"Statens övertagande av privata företag eller tillgångar, som till exempel fastigheter",4,Förstatligande,ACTIVE
+RYF-KNI-XNS-WZY-SEB,,4,Privatisering,ACTIVE
+RYF-KNI-XNS-WZY-ZFI,Styrdokument för utgifter och investeringar ett styre skall göra under en period och hur de skall finansieras av lån eller skatt,4,Budget,ACTIVE
+RYF-KNI-XNS-YQW,,3,Landsbygdspolitik,ACTIVE
+RYF-KNI-ZIS,Använd för diskussioner om politiska debatter som rör Sveriges grundläggande lagar och rättigheter,2,Grundlagar,ACTIVE
+RYF-KNI-ZIS-CWW,Personers rätt att utöva och observera sin tro,3,Religionsfrihet,ACTIVE
+RYF-KNI-ZIS-IUN,Personers rätt att kommunicera och uttrycka åsikter och idéer,3,Yttrandefrihet & tryckfrihet,ACTIVE
+RYF-KNI-ZIS-OPA,"Universiella rättigheter som gäller för alla människor, även icke-medborgare",3,Mänskliga rättigheter,ACTIVE
+RYF-KNI-ZIS-RAZ,Enskilda medborgares rättigheter enligt civilrätten,3,Medborgerliga rättigheter,ACTIVE
+RYF-QPR,"Sport som huvudämne, både specifika sporter eller sportrelaterade ämnen som dopning och idrottsaffärer",1,Sport,ACTIVE
+RYF-QPR-DBC,"Kommersiella frågor som beror idrott, exempelvis tv-avtal, sponsoravtal, eller förvärv av klubbar",2,Sportindustri & ekonomiska affärer,ACTIVE
+RYF-QPR-FMU,"Nyheter om spelare som byter lag eller byter klubb, eller rykten om detsamma",2,Övergångar,ACTIVE
+RYF-QPR-HGB,Olika typer av sporter och även grenar inom sporter,2,Sporter,ACTIVE
+RYF-QPR-HGB-AIO,,3,Parasport,ACTIVE
+RYF-QPR-HGB-AJE,,3,Landhockey,ACTIVE
+RYF-QPR-HGB-AMC,,3,Tävlingsdans,ACTIVE
+RYF-QPR-HGB-APE,,3,Biljard,ACTIVE
+RYF-QPR-HGB-ASX,,3,Cricket,ACTIVE
+RYF-QPR-HGB-AYA,,3,Skidåkning,ACTIVE
+RYF-QPR-HGB-AYA-DTQ,,4,Puckelpist,ACTIVE
+RYF-QPR-HGB-AYA-FJD,,4,Telemark,ACTIVE
+RYF-QPR-HGB-AYA-FLN,,4,Alpint,ACTIVE
+RYF-QPR-HGB-AYA-FLN-DFJ,,5,Super-G,ACTIVE
+RYF-QPR-HGB-AYA-FLN-EHF,,5,Skicross,RYF-QPR-HGB-AYA-TUL,INACTIVE
+RYF-QPR-HGB-AYA-FLN-IKW,,5,Störtlopp,ACTIVE
+RYF-QPR-HGB-AYA-FLN-JFT,,5,Storslalom,ACTIVE
+RYF-QPR-HGB-AYA-FLN-JPK,,5,Parallellslalom,ACTIVE
+RYF-QPR-HGB-AYA-FLN-MVO,,5,Freestyle,INACTIVE
+RYF-QPR-HGB-AYA-FLN-UKT,,5,Slalom,ACTIVE
+RYF-QPR-HGB-AYA-FLN-WSB,,5,Kombination,ACTIVE
+RYF-QPR-HGB-AYA-HTF,,4,Backhoppning,ACTIVE
+RYF-QPR-HGB-AYA-LFJ,,4,Speedski,ACTIVE
+RYF-QPR-HGB-AYA-MFT,,4,Längdåkning,ACTIVE
+RYF-QPR-HGB-AYA-MFT-DOS,,5,Stafett,ACTIVE
+RYF-QPR-HGB-AYA-MFT-FUC,,5,Sprint,ACTIVE
+RYF-QPR-HGB-AYA-MFT-HRG,,5,30 & 50 km,INACTIVE
+RYF-QPR-HGB-AYA-MFT-LAB,,5,Långlopp,ACTIVE
+RYF-QPR-HGB-AYA-MFT-NUI,,5,Skiathlon,INACTIVE
+RYF-QPR-HGB-AYA-MFT-YLW,,5,10 & 15 km,INACTIVE
+RYF-QPR-HGB-AYA-MHO,,4,Freeskiing,ACTIVE
+RYF-QPR-HGB-AYA-NSB,,4,Rullskidor,ACTIVE
+RYF-QPR-HGB-AYA-TUL,,4,Skicross,RYF-QPR-HGB-AYA-FLN-EHF,ACTIVE
+RYF-QPR-HGB-BAH,,3,Volleyboll,ACTIVE
+RYF-QPR-HGB-BAH-CRB,,4,Division 1 herr,ACTIVE
+RYF-QPR-HGB-BAH-CRB-JTI,,5,Norra,ACTIVE
+RYF-QPR-HGB-BAH-CRB-KFO,,5,Södra,ACTIVE
+RYF-QPR-HGB-BAH-JUI,,4,Division 2 dam,ACTIVE
+RYF-QPR-HGB-BAH-JUI-DCL,,5,Västra,ACTIVE
+RYF-QPR-HGB-BAH-JUI-DHE,,5,Södra,ACTIVE
+RYF-QPR-HGB-BAH-JUI-GUX,,5,Mellersta västra,ACTIVE
+RYF-QPR-HGB-BAH-JUI-HYG,,5,Östra,ACTIVE
+RYF-QPR-HGB-BAH-JUI-MVL,,5,Norra,ACTIVE
+RYF-QPR-HGB-BAH-JUI-OGL,,5,Mellersta östra,ACTIVE
+RYF-QPR-HGB-BAH-KFA,,4,Elitserien dam,ACTIVE
+RYF-QPR-HGB-BAH-LUF,,4,Division 3 dam,ACTIVE
+RYF-QPR-HGB-BAH-LUF-YRO,,5,Dalarna,ACTIVE
+RYF-QPR-HGB-BAH-RMK,,4,Division 1 dam,ACTIVE
+RYF-QPR-HGB-BAH-RMK-EMR,,5,Södra,ACTIVE
+RYF-QPR-HGB-BAH-RMK-PSK,,5,Norra,ACTIVE
+RYF-QPR-HGB-BAH-UUZ,,4,Division 2 herr,ACTIVE
+RYF-QPR-HGB-BAH-UUZ-AHC,,5,Norra,ACTIVE
+RYF-QPR-HGB-BAH-UUZ-HPQ,,5,Mellersta,ACTIVE
+RYF-QPR-HGB-BAH-UUZ-YOK,,5,Södra,ACTIVE
+RYF-QPR-HGB-BAH-XQF,,4,Division 3 herr,ACTIVE
+RYF-QPR-HGB-BAH-XQF-IMB,,5,Dalarna,ACTIVE
+RYF-QPR-HGB-BAH-ZEU,,4,Elitserien herr,ACTIVE
+RYF-QPR-HGB-BBZ,,3,Fallskärmshopp,ACTIVE
+RYF-QPR-HGB-BHO,,3,Australisk fotboll,ACTIVE
+RYF-QPR-HGB-BQN,,3,Ishockey,ACTIVE
+RYF-QPR-HGB-BQN-AAK,,4,Damtvåan,ACTIVE
+RYF-QPR-HGB-BQN-AAK-YGR,,5,Södra,ACTIVE
+RYF-QPR-HGB-BQN-AAK-YRS,,5,Västra,ACTIVE
+RYF-QPR-HGB-BQN-ALW,,4,Hockeyfyran Stockholm fortsättning A,ACTIVE
+RYF-QPR-HGB-BQN-BXE,,4,SHL,ACTIVE
+RYF-QPR-HGB-BQN-CBS,,4,Tv-pucken,ACTIVE
+RYF-QPR-HGB-BQN-CEL,,4,Alltrean södra A,ACTIVE
+RYF-QPR-HGB-BQN-CWF,,4,Förkval till Play Off till SDHL,ACTIVE
+RYF-QPR-HGB-BQN-DNM,,4,Hockeyfyran Stockholm norra,ACTIVE
+RYF-QPR-HGB-BQN-EHC,,4,Division 5 herr Stockholm norra,ACTIVE
+RYF-QPR-HGB-BQN-EMJ,,4,Hockeyettan Södra vår,ACTIVE
+RYF-QPR-HGB-BQN-EMV,,4,Hockeyfyran Stockholm mellersta,ACTIVE
+RYF-QPR-HGB-BQN-EPF,,4,Hockeyfyran Göteborg A,ACTIVE
+RYF-QPR-HGB-BQN-ETF,,4,Play Off till SDHL,ACTIVE
+RYF-QPR-HGB-BQN-EWY,,4,Damettan,ACTIVE
+RYF-QPR-HGB-BQN-EWY-DZV,,5,Västra,ACTIVE
+RYF-QPR-HGB-BQN-EWY-PXE,,5,Södra,ACTIVE
+RYF-QPR-HGB-BQN-EWY-RQL,,5,Norra,ACTIVE
+RYF-QPR-HGB-BQN-EWY-YHZ,,5,Östra,ACTIVE
+RYF-QPR-HGB-BQN-FOR,,4,Hockeytrean Södra D fortsättning,ACTIVE
+RYF-QPR-HGB-BQN-FSV,,4,Hockeyfyran Stockholm fortsättning B,ACTIVE
+RYF-QPR-HGB-BQN-FYR,,4,Hockeytrean Örebro-Västmanland,ACTIVE
+RYF-QPR-HGB-BQN-GID,,4,Hockeyettan Norra vår,ACTIVE
+RYF-QPR-HGB-BQN-GIO,,4,Hockeytrean Värmland,ACTIVE
+RYF-QPR-HGB-BQN-GLW,,4,Alltrean södra B,ACTIVE
+RYF-QPR-HGB-BQN-GTT,,4,Playoff till Kvalserien Hockeyettan västra,ACTIVE
+RYF-QPR-HGB-BQN-JMG,,4,Hockeyfyran Göteborg B,ACTIVE
+RYF-QPR-HGB-BQN-KNN,,4,Hockeytvåan,ACTIVE
+RYF-QPR-HGB-BQN-KNN-FEN,,5,Västra B,ACTIVE
+RYF-QPR-HGB-BQN-KNN-IBO,,5,Södra A,ACTIVE
+RYF-QPR-HGB-BQN-KNN-IPF,,5,Västra C,ACTIVE
+RYF-QPR-HGB-BQN-KNN-JIP,,5,Östra A,ACTIVE
+RYF-QPR-HGB-BQN-KNN-NHL,,5,Norra B,ACTIVE
+RYF-QPR-HGB-BQN-KNN-PPN,,5,Västra A,ACTIVE
+RYF-QPR-HGB-BQN-KNN-SYG,,5,Norra CD,ACTIVE
+RYF-QPR-HGB-BQN-KNN-XGD,,5,Norra A,ACTIVE
+RYF-QPR-HGB-BQN-KNN-YIT,,5,Södra B,ACTIVE
+RYF-QPR-HGB-BQN-KNN-YWZ,,5,Östra B,ACTIVE
+RYF-QPR-HGB-BQN-KUR,,4,Hockeyfyran Stockholm södra,ACTIVE
+RYF-QPR-HGB-BQN-LHU,,4,Hockeytrean Södra C fortsättning,ACTIVE
+RYF-QPR-HGB-BQN-LIB,,4,Allettan södra,ACTIVE
+RYF-QPR-HGB-BQN-MAH,,4,KHL,ACTIVE
+RYF-QPR-HGB-BQN-MFF,,4,Hockeyallsvenskan,ACTIVE
+RYF-QPR-HGB-BQN-MZV,,4,Hockeyfyran Östergötland,ACTIVE
+RYF-QPR-HGB-BQN-NAK,,4,Alltvåan östra,ACTIVE
+RYF-QPR-HGB-BQN-NUD,,4,Kvalserien Hockeyettan västra,ACTIVE
+RYF-QPR-HGB-BQN-PWJ,,4,J20 Elit,INACTIVE
+RYF-QPR-HGB-BQN-PYI,,4,Hockeytrean Södra B fortsättning,ACTIVE
+RYF-QPR-HGB-BQN-PYW,,4,Hockeyettan Västra vår,ACTIVE
+RYF-QPR-HGB-BQN-QPQ,,4,J20,ACTIVE
+RYF-QPR-HGB-BQN-QPQ-EBU,,5,J20 Division 1 Västra B,ACTIVE
+RYF-QPR-HGB-BQN-QPQ-EOD,,5,J20 Superelit södra,ACTIVE
+RYF-QPR-HGB-BQN-QPQ-FKH,,5,J20 Superelit norra,ACTIVE
+RYF-QPR-HGB-BQN-QPQ-FTX,,5,J20 Elit Norra,ACTIVE
+RYF-QPR-HGB-BQN-QPQ-FUB,,5,J20 Elit Västra,ACTIVE
+RYF-QPR-HGB-BQN-QPQ-GMN,,5,Playoff till J20 Superelit,ACTIVE
+RYF-QPR-HGB-BQN-QPQ-HLA,,5,J20 Division 1 D syd fortsättning,ACTIVE
+RYF-QPR-HGB-BQN-QPQ-HPZ,,5,J20 SM-slutspel,ACTIVE
+RYF-QPR-HGB-BQN-QPQ-IEQ,,5,J20 Division 1 C syd,ACTIVE
+RYF-QPR-HGB-BQN-QPQ-KVR,,5,J20 Division 1 Östra,ACTIVE
+RYF-QPR-HGB-BQN-QPQ-KZX,,5,J20 Division 1 D syd,ACTIVE
+RYF-QPR-HGB-BQN-QPQ-LII,,5,J20 Allettan östra,ACTIVE
+RYF-QPR-HGB-BQN-QPQ-LNR,,5,J20 Division 1 Västra A,ACTIVE
+RYF-QPR-HGB-BQN-QPQ-LQP,,5,J20 Superelit Top10,ACTIVE
+RYF-QPR-HGB-BQN-QPQ-NXT,,5,J20 Division 1 B syd,ACTIVE
+RYF-QPR-HGB-BQN-QPQ-OTZ,,5,J20 Elit Södra,ACTIVE
+RYF-QPR-HGB-BQN-QPQ-PEM,,5,J20 Division 1 C syd fortsättning,ACTIVE
+RYF-QPR-HGB-BQN-QPQ-PME,,5,J20 Division 1 Östra fortsättning,ACTIVE
+RYF-QPR-HGB-BQN-QPQ-QGN,,5,J20 Juniorettan södra,ACTIVE
+RYF-QPR-HGB-BQN-QPQ-QWE,,5,J20 Division 1 A syd fortsättning,ACTIVE
+RYF-QPR-HGB-BQN-QPQ-SSD,,5,J20 Superelit fortsättning,ACTIVE
+RYF-QPR-HGB-BQN-QPQ-TWF,,5,J20 Division 1 B syd fortsättning,ACTIVE
+RYF-QPR-HGB-BQN-QPQ-WTP,,5,J20 Division 1 A syd,ACTIVE
+RYF-QPR-HGB-BQN-QPQ-ZXF,,5,J20 Elit Östra,ACTIVE
+RYF-QPR-HGB-BQN-QQP,,4,Alltvåan södra,ACTIVE
+RYF-QPR-HGB-BQN-QTS,,4,Hockeyfyran Uppland,ACTIVE
+RYF-QPR-HGB-BQN-QZY,,4,Hockeytrean Norrbotten fortsättning,ACTIVE
+RYF-QPR-HGB-BQN-RGK,,4,Division 5 herr Stockholm södra,ACTIVE
+RYF-QPR-HGB-BQN-SBJ,,4,Hockeytvåan Södra B fortsättning,ACTIVE
+RYF-QPR-HGB-BQN-SLY,,4,Allettan norra,ACTIVE
+RYF-QPR-HGB-BQN-THV,,4,Alltrean östra,ACTIVE
+RYF-QPR-HGB-BQN-TKF,,4,Hockeytrean,ACTIVE
+RYF-QPR-HGB-BQN-TKF-API,,5,Gävleborg,ACTIVE
+RYF-QPR-HGB-BQN-TKF-BOU,,5,Östra B,ACTIVE
+RYF-QPR-HGB-BQN-TKF-DBG,,5,Södra E,ACTIVE
+RYF-QPR-HGB-BQN-TKF-DYK,,5,Östra A,ACTIVE
+RYF-QPR-HGB-BQN-TKF-HEY,,5,Västerbotten,ACTIVE
+RYF-QPR-HGB-BQN-TKF-JGA,,5,Södra B,ACTIVE
+RYF-QPR-HGB-BQN-TKF-JNG,,5,Södra A,ACTIVE
+RYF-QPR-HGB-BQN-TKF-KIO,,5,Södra D,ACTIVE
+RYF-QPR-HGB-BQN-TKF-LCF,,5,Södra F,ACTIVE
+RYF-QPR-HGB-BQN-TKF-ONM,,5,Dalarna,ACTIVE
+RYF-QPR-HGB-BQN-TKF-QQQ,,5,Ångermanland,ACTIVE
+RYF-QPR-HGB-BQN-TKF-TMF,,5,Västra C,ACTIVE
+RYF-QPR-HGB-BQN-TKF-UCC,,5,Södra C,ACTIVE
+RYF-QPR-HGB-BQN-TKF-ZZJ,,5,Norrbotten,ACTIVE
+RYF-QPR-HGB-BQN-TQL,,4,Hockeyettan,ACTIVE
+RYF-QPR-HGB-BQN-TQL-DCL,,5,Norra,ACTIVE
+RYF-QPR-HGB-BQN-TQL-DHE,,5,Södra,ACTIVE
+RYF-QPR-HGB-BQN-TQL-MCK,,5,Västra,ACTIVE
+RYF-QPR-HGB-BQN-TQL-YGC,,5,Östra,ACTIVE
+RYF-QPR-HGB-BQN-TRD,,4,Hockeyfyran Uppland fortsättning,ACTIVE
+RYF-QPR-HGB-BQN-UCT,,4,Hockeytrean Västerbotten fortsättning,ACTIVE
+RYF-QPR-HGB-BQN-UOA,,4,Hockeytvåan Södra A fortsättning,ACTIVE
+RYF-QPR-HGB-BQN-UPU,,4,Förkval till Kvalserien till Hockeytvåan västra,ACTIVE
+RYF-QPR-HGB-BQN-VAS,,4,Alltvåan norra AB,ACTIVE
+RYF-QPR-HGB-BQN-VFB,,4,SDHL,ACTIVE
+RYF-QPR-HGB-BQN-VIC,,4,J20 Superelit,INACTIVE
+RYF-QPR-HGB-BQN-VLP,,4,J18,ACTIVE
+RYF-QPR-HGB-BQN-VLP-AHN,,5,J18 Allsvenskan södra,ACTIVE
+RYF-QPR-HGB-BQN-VLP-BDL,,5,J18 Ettan södra,ACTIVE
+RYF-QPR-HGB-BQN-VLP-BSQ,,5,J18 Elit östra,ACTIVE
+RYF-QPR-HGB-BQN-VLP-EXF,,5,J18 Division 1 A Syd,ACTIVE
+RYF-QPR-HGB-BQN-VLP-INY,,5,J18 Elit västra fortsättning,ACTIVE
+RYF-QPR-HGB-BQN-VLP-IPQ,,5,J18 Elit västra,ACTIVE
+RYF-QPR-HGB-BQN-VLP-IQH,,5,J18 Division 1 Östra fortsättning B,ACTIVE
+RYF-QPR-HGB-BQN-VLP-JHJ,,5,J18 Allettan östra,ACTIVE
+RYF-QPR-HGB-BQN-VLP-JSG,,5,J18 Allsvenskan norra,ACTIVE
+RYF-QPR-HGB-BQN-VLP-KAQ,,5,J18 Elit östra fortsättning,ACTIVE
+RYF-QPR-HGB-BQN-VLP-KEA,,5,J18 SM-slutspel,ACTIVE
+RYF-QPR-HGB-BQN-VLP-KVH,,5,J18 Elit södra fortsättning,ACTIVE
+RYF-QPR-HGB-BQN-VLP-OOH,,5,J18 Division 1 B Syd fortsättning,ACTIVE
+RYF-QPR-HGB-BQN-VLP-PHI,,5,J18 Elit södra,ACTIVE
+RYF-QPR-HGB-BQN-VLP-PKX,,5,J18 Division 1 B Syd,ACTIVE
+RYF-QPR-HGB-BQN-VLP-PRO,,5,J18 Division 1 Östra D,ACTIVE
+RYF-QPR-HGB-BQN-VLP-QSA,,5,J18 Division 1 C Syd,ACTIVE
+RYF-QPR-HGB-BQN-VLP-UOS,,5,J18 Elit norra,ACTIVE
+RYF-QPR-HGB-BQN-VLP-VCY,,5,J18 Division 1 A Syd fortsättning,ACTIVE
+RYF-QPR-HGB-BQN-VLP-VEB,,5,J18 Elit norra fortsättning,ACTIVE
+RYF-QPR-HGB-BQN-VLP-WMZ,,5,J18 Division 2 Västergötland,ACTIVE
+RYF-QPR-HGB-BQN-VLP-WTO,,5,J18 Division 1 Västra C,ACTIVE
+RYF-QPR-HGB-BQN-WGC,,4,J18 Elit,INACTIVE
+RYF-QPR-HGB-BQN-WOY,,4,Hockeytvåan Norra A fortsättning,ACTIVE
+RYF-QPR-HGB-BQN-YDO,,4,Hockeytrean Östra fortsättning,ACTIVE
+RYF-QPR-HGB-BQN-YPT,,4,Kälkhockey,INACTIVE
+RYF-QPR-HGB-BQN-YVU,,4,Hockeytrean Södra A fortsättning,ACTIVE
+RYF-QPR-HGB-BQN-ZBN,,4,NHL,ACTIVE
+RYF-QPR-HGB-BQN-ZJY,,4,Hockeyettan Östra vår,ACTIVE
+RYF-QPR-HGB-BQN-ZVU,,4,Hockeytvåan Norra B fortsättning,ACTIVE
+RYF-QPR-HGB-BWR,,3,Multisport,ACTIVE
+RYF-QPR-HGB-CBQ,,3,Galopp,ACTIVE
+RYF-QPR-HGB-CIS,,3,Golf,ACTIVE
+RYF-QPR-HGB-CIS-MON,,4,Minigolf,ACTIVE
+RYF-QPR-HGB-CJF,,3,Fridykning,ACTIVE
+RYF-QPR-HGB-CMW,,3,Dart,ACTIVE
+RYF-QPR-HGB-CYD,,3,Simning,ACTIVE
+RYF-QPR-HGB-CYD-AED,,4,Ryggsim,ACTIVE
+RYF-QPR-HGB-CYD-AID,,4,Bröstsim,ACTIVE
+RYF-QPR-HGB-CYD-CQJ,,4,Medley,ACTIVE
+RYF-QPR-HGB-CYD-JKT,,4,Kort bana,ACTIVE
+RYF-QPR-HGB-CYD-JMX,,4,Fjärilssim,ACTIVE
+RYF-QPR-HGB-CYD-QTV,,4,Medley stafett,ACTIVE
+RYF-QPR-HGB-CYD-TTE,,4,Maratonsimning,ACTIVE
+RYF-QPR-HGB-CYD-UWW,,4,Fristil,ACTIVE
+RYF-QPR-HGB-CYD-YVI,,4,Konstsim,ACTIVE
+RYF-QPR-HGB-DEN,,3,Fotboll,ACTIVE
+RYF-QPR-HGB-DEN-ALX,,4,Division 4 herr,ACTIVE
+RYF-QPR-HGB-DEN-ALX-AWD,,5,Norrbotten södra,ACTIVE
+RYF-QPR-HGB-DEN-ALX-DGW,,5,Jämtland & Härjedalen,ACTIVE
+RYF-QPR-HGB-DEN-ALX-DLJ,,5,Stockholm mellersta,ACTIVE
+RYF-QPR-HGB-DEN-ALX-EQM,,5,Småland södra,ACTIVE
+RYF-QPR-HGB-DEN-ALX-EZB,,5,Östergötland västra,ACTIVE
+RYF-QPR-HGB-DEN-ALX-FPX,,5,Västergötland södra,ACTIVE
+RYF-QPR-HGB-DEN-ALX-GOB,,5,Skåne sydvästra,ACTIVE
+RYF-QPR-HGB-DEN-ALX-GWJ,,5,Västergötland norra,ACTIVE
+RYF-QPR-HGB-DEN-ALX-HNZ,,5,Örebro,ACTIVE
+RYF-QPR-HGB-DEN-ALX-HPV,,5,Småland västra,ACTIVE
+RYF-QPR-HGB-DEN-ALX-HUW,,5,Västmanland,ACTIVE
+RYF-QPR-HGB-DEN-ALX-HYN,,5,Blekinge,ACTIVE
+RYF-QPR-HGB-DEN-ALX-IFO,,5,Småland östra,ACTIVE
+RYF-QPR-HGB-DEN-ALX-JJN,,5,Göteborg A,ACTIVE
+RYF-QPR-HGB-DEN-ALX-JOX,,5,Östergötland östra,ACTIVE
+RYF-QPR-HGB-DEN-ALX-LGB,,5,Västerbotten norra,ACTIVE
+RYF-QPR-HGB-DEN-ALX-LHO,,5,Gestrikland,ACTIVE
+RYF-QPR-HGB-DEN-ALX-LQH,,5,Halland,ACTIVE
+RYF-QPR-HGB-DEN-ALX-LQU,,5,Hälsingland,ACTIVE
+RYF-QPR-HGB-DEN-ALX-LTR,,5,Ångermanland,ACTIVE
+RYF-QPR-HGB-DEN-ALX-NZI,,5,Skåne östra,ACTIVE
+RYF-QPR-HGB-DEN-ALX-OEX,,5,Medelpad,ACTIVE
+RYF-QPR-HGB-DEN-ALX-OKH,,5,Värmland,ACTIVE
+RYF-QPR-HGB-DEN-ALX-OUE,,5,Västerbotten södra,ACTIVE
+RYF-QPR-HGB-DEN-ALX-PNG,,5,Uppland,ACTIVE
+RYF-QPR-HGB-DEN-ALX-PYJ,,5,Stockholm norra,ACTIVE
+RYF-QPR-HGB-DEN-ALX-RDX,,5,Göteborg B,ACTIVE
+RYF-QPR-HGB-DEN-ALX-SNL,,5,Småland norra,ACTIVE
+RYF-QPR-HGB-DEN-ALX-UNC,,5,Bohuslän & Dalsland,ACTIVE
+RYF-QPR-HGB-DEN-ALX-UNE,,5,Gotland,ACTIVE
+RYF-QPR-HGB-DEN-ALX-VCT,,5,Södermanland,ACTIVE
+RYF-QPR-HGB-DEN-ALX-VGK,,5,Skåne nordvästra,ACTIVE
+RYF-QPR-HGB-DEN-ALX-VQQ,,5,Dalarna,ACTIVE
+RYF-QPR-HGB-DEN-ALX-WGS,,5,Norrbotten norra,ACTIVE
+RYF-QPR-HGB-DEN-ALX-ZYY,,5,Stockholm södra,ACTIVE
+RYF-QPR-HGB-DEN-BBS,,4,Svenska cupen dam,ACTIVE
+RYF-QPR-HGB-DEN-BMK,,4,Division 2 dam,ACTIVE
+RYF-QPR-HGB-DEN-BMK-BIA,,5,Norra Norrland norra,ACTIVE
+RYF-QPR-HGB-DEN-BMK-EED,,5,Nordöstra Götaland,ACTIVE
+RYF-QPR-HGB-DEN-BMK-FWF,,5,Sydvästra Götaland,ACTIVE
+RYF-QPR-HGB-DEN-BMK-JGT,,5,Västra Götaland,ACTIVE
+RYF-QPR-HGB-DEN-BMK-JTC,,5,Nordvästra Götaland,ACTIVE
+RYF-QPR-HGB-DEN-BMK-JTH,,5,Sydöstra Götaland,ACTIVE
+RYF-QPR-HGB-DEN-BMK-JXC,,5,Östra Svealand,ACTIVE
+RYF-QPR-HGB-DEN-BMK-KHZ,,5,Mellersta Svealand,ACTIVE
+RYF-QPR-HGB-DEN-BMK-LHN,,5,Mellersta Götaland,ACTIVE
+RYF-QPR-HGB-DEN-BMK-MPP,,5,Södra Norrland,ACTIVE
+RYF-QPR-HGB-DEN-BMK-MVV,,5,Södra Götaland,ACTIVE
+RYF-QPR-HGB-DEN-BMK-OUJ,,5,Mellersta Norrland,ACTIVE
+RYF-QPR-HGB-DEN-BMK-PZR,,5,Västra Svealand,ACTIVE
+RYF-QPR-HGB-DEN-BMK-QOW,,5,Norra Norrland södra,ACTIVE
+RYF-QPR-HGB-DEN-BMK-YXA,,5,Norra Götaland,ACTIVE
+RYF-QPR-HGB-DEN-BUA,,4,Svenska cupen herr,ACTIVE
+RYF-QPR-HGB-DEN-CWD,,4,Division 6 herr,ACTIVE
+RYF-QPR-HGB-DEN-CWD-AIC,,5,Medelpad,ACTIVE
+RYF-QPR-HGB-DEN-CWD-ANI,,5,Halland norra,ACTIVE
+RYF-QPR-HGB-DEN-CWD-APC,,5,Jämtland & Härjedalen södra,ACTIVE
+RYF-QPR-HGB-DEN-CWD-APH,,5,Blekinge östra,ACTIVE
+RYF-QPR-HGB-DEN-CWD-ASK,,5,Värmland västra,ACTIVE
+RYF-QPR-HGB-DEN-CWD-BQU,,5,Värmland östra,ACTIVE
+RYF-QPR-HGB-DEN-CWD-BRC,,5,Skåne nordöstra,ACTIVE
+RYF-QPR-HGB-DEN-CWD-DHG,,5,Tibro,ACTIVE
+RYF-QPR-HGB-DEN-CWD-EZX,,5,Göteborg D,ACTIVE
+RYF-QPR-HGB-DEN-CWD-FBJ,,5,Dalsland,ACTIVE
+RYF-QPR-HGB-DEN-CWD-FMB,,5,Uppland södra,ACTIVE
+RYF-QPR-HGB-DEN-CWD-FSZ,,5,Ljungby,ACTIVE
+RYF-QPR-HGB-DEN-CWD-FXE,,5,Gestrikland,ACTIVE
+RYF-QPR-HGB-DEN-CWD-GNX,,5,Kalmar & Öland,ACTIVE
+RYF-QPR-HGB-DEN-CWD-GZH,,5,Skåne sydvästra B,ACTIVE
+RYF-QPR-HGB-DEN-CWD-HOW,,5,Bohuslän norra,ACTIVE
+RYF-QPR-HGB-DEN-CWD-HUG,,5,Ulricehamn,ACTIVE
+RYF-QPR-HGB-DEN-CWD-HWA,,5,Jämtland & Härjedalen norra,ACTIVE
+RYF-QPR-HGB-DEN-CWD-IAO,,5,Gotland,ACTIVE
+RYF-QPR-HGB-DEN-CWD-IAV,,5,Mariestad,ACTIVE
+RYF-QPR-HGB-DEN-CWD-JBT,,5,Skåne mellersta,ACTIVE
+RYF-QPR-HGB-DEN-CWD-JUI,,5,Blekinge västra,ACTIVE
+RYF-QPR-HGB-DEN-CWD-KAD,,5,Halland södra,ACTIVE
+RYF-QPR-HGB-DEN-CWD-KBE,,5,Stockholm A,ACTIVE
+RYF-QPR-HGB-DEN-CWD-KJZ,,5,Södermanland sydöstra,ACTIVE
+RYF-QPR-HGB-DEN-CWD-KLC,,5,Skåne sydvästra A,ACTIVE
+RYF-QPR-HGB-DEN-CWD-KTE,,5,Stockholm E,ACTIVE
+RYF-QPR-HGB-DEN-CWD-LSB,,5,Göteborg A,ACTIVE
+RYF-QPR-HGB-DEN-CWD-MNS,,5,Vimmerby,ACTIVE
+RYF-QPR-HGB-DEN-CWD-MPG,,5,Värnamo,ACTIVE
+RYF-QPR-HGB-DEN-CWD-MPI,,5,Värmland norra,ACTIVE
+RYF-QPR-HGB-DEN-CWD-MXT,,5,Dalarna norra,ACTIVE
+RYF-QPR-HGB-DEN-CWD-MYX,,5,Stockholm C,ACTIVE
+RYF-QPR-HGB-DEN-CWD-NEV,,5,Östergötland mellersta,ACTIVE
+RYF-QPR-HGB-DEN-CWD-NII,,5,Uppland östra,ACTIVE
+RYF-QPR-HGB-DEN-CWD-NYN,,5,Dalarna södra,INACTIVE
+RYF-QPR-HGB-DEN-CWD-OYR,,5,Göteborg B,ACTIVE
+RYF-QPR-HGB-DEN-CWD-PFM,,5,Eksjö,ACTIVE
+RYF-QPR-HGB-DEN-CWD-PGC,,5,Östergötland östra,ACTIVE
+RYF-QPR-HGB-DEN-CWD-PHO,,5,Växjö,ACTIVE
+RYF-QPR-HGB-DEN-CWD-PTH,,5,Lidköping,ACTIVE
+RYF-QPR-HGB-DEN-CWD-QHH,,5,Jönköping norra,ACTIVE
+RYF-QPR-HGB-DEN-CWD-QNA,,5,Stockholm F,ACTIVE
+RYF-QPR-HGB-DEN-CWD-QNJ,,5,Göteborg C,ACTIVE
+RYF-QPR-HGB-DEN-CWD-QTV,,5,Östergötland västra,ACTIVE
+RYF-QPR-HGB-DEN-CWD-QUU,,5,Södermanland nordvästra,ACTIVE
+RYF-QPR-HGB-DEN-CWD-RGA,,5,Skåne västra,ACTIVE
+RYF-QPR-HGB-DEN-CWD-RJC,,5,Bohuslän södra,ACTIVE
+RYF-QPR-HGB-DEN-CWD-RSB,,5,Örebro,ACTIVE
+RYF-QPR-HGB-DEN-CWD-RTK,,5,Uppland västra,ACTIVE
+RYF-QPR-HGB-DEN-CWD-SZX,,5,Stockholm D,ACTIVE
+RYF-QPR-HGB-DEN-CWD-TJM,,5,Borås,ACTIVE
+RYF-QPR-HGB-DEN-CWD-UDY,,5,Hälsingland västra,ACTIVE
+RYF-QPR-HGB-DEN-CWD-UIV,,5,Hälsingland östra,ACTIVE
+RYF-QPR-HGB-DEN-CWD-USC,,5,Skåne norra,ACTIVE
+RYF-QPR-HGB-DEN-CWD-UUH,,5,Emmaboda,ACTIVE
+RYF-QPR-HGB-DEN-CWD-UWN,,5,Västmanland,ACTIVE
+RYF-QPR-HGB-DEN-CWD-UWY,,5,Kinna,ACTIVE
+RYF-QPR-HGB-DEN-CWD-UZZ,,5,Skåne sydöstra,ACTIVE
+RYF-QPR-HGB-DEN-CWD-VVS,,5,Trollhättan,ACTIVE
+RYF-QPR-HGB-DEN-CWD-WPY,,5,Skåne nordvästra,ACTIVE
+RYF-QPR-HGB-DEN-CWD-XDL,,5,Oskarshamn,ACTIVE
+RYF-QPR-HGB-DEN-CWD-YFU,,5,Falköping,ACTIVE
+RYF-QPR-HGB-DEN-CWD-YWW,,5,Stockholm B,ACTIVE
+RYF-QPR-HGB-DEN-CWD-YWZ,,5,Jönköping södra,ACTIVE
+RYF-QPR-HGB-DEN-CWD-ZGZ,,5,Uppland norra,ACTIVE
+RYF-QPR-HGB-DEN-CWD-ZMV,,5,Värmland södra,ACTIVE
+RYF-QPR-HGB-DEN-CWD-ZMW,,5,Ångermanland,ACTIVE
+RYF-QPR-HGB-DEN-FXI,,4,Division 3 dam,ACTIVE
+RYF-QPR-HGB-DEN-FXI-BQU,,5,Småland sydvästra,ACTIVE
+RYF-QPR-HGB-DEN-FXI-CKJ,,5,Medelpad,ACTIVE
+RYF-QPR-HGB-DEN-FXI-DJO,,5,Gestrikland,ACTIVE
+RYF-QPR-HGB-DEN-FXI-ECA,,5,Ångermanland,ACTIVE
+RYF-QPR-HGB-DEN-FXI-FET,,5,Stockholm B,ACTIVE
+RYF-QPR-HGB-DEN-FXI-FQU,,5,Västerbotten norra,ACTIVE
+RYF-QPR-HGB-DEN-FXI-GXP,,5,Uppland,ACTIVE
+RYF-QPR-HGB-DEN-FXI-HKP,,5,Skåne nordvästra,ACTIVE
+RYF-QPR-HGB-DEN-FXI-HXU,,5,Småland nordvästra,ACTIVE
+RYF-QPR-HGB-DEN-FXI-IID,,5,Småland nordöstra,ACTIVE
+RYF-QPR-HGB-DEN-FXI-ITG,,5,Hälsingland,ACTIVE
+RYF-QPR-HGB-DEN-FXI-IYS,,5,Småland sydöstra,ACTIVE
+RYF-QPR-HGB-DEN-FXI-LMY,,5,Dalarna södra,INACTIVE
+RYF-QPR-HGB-DEN-FXI-MHC,,5,Skåne nordöstra,ACTIVE
+RYF-QPR-HGB-DEN-FXI-ODT,,5,Stockholm A,ACTIVE
+RYF-QPR-HGB-DEN-FXI-OMK,,5,Jämtland & Härjedalen,ACTIVE
+RYF-QPR-HGB-DEN-FXI-OUC,,5,Norrbotten,ACTIVE
+RYF-QPR-HGB-DEN-FXI-OYH,,5,Skåne sydöstra,ACTIVE
+RYF-QPR-HGB-DEN-FXI-PIL,,5,Västmanland & Örebro,ACTIVE
+RYF-QPR-HGB-DEN-FXI-PVU,,5,Halland,ACTIVE
+RYF-QPR-HGB-DEN-FXI-QEI,,5,Värmland,ACTIVE
+RYF-QPR-HGB-DEN-FXI-RCY,,5,Östergötland,ACTIVE
+RYF-QPR-HGB-DEN-FXI-SJV,,5,Västergötland västra,ACTIVE
+RYF-QPR-HGB-DEN-FXI-UKX,,5,Södermanland,ACTIVE
+RYF-QPR-HGB-DEN-FXI-VVX,,5,Göteborg,ACTIVE
+RYF-QPR-HGB-DEN-FXI-WJS,,5,Västergötland östra,ACTIVE
+RYF-QPR-HGB-DEN-FXI-XWB,,5,Västerbotten södra,ACTIVE
+RYF-QPR-HGB-DEN-FXI-XXJ,,5,Bohuslän & Dal,ACTIVE
+RYF-QPR-HGB-DEN-FXI-ZJV,,5,Dalarna norra,ACTIVE
+RYF-QPR-HGB-DEN-FXI-ZPG,,5,Skåne sydvästra,ACTIVE
+RYF-QPR-HGB-DEN-GAS,,4,Allsvenskan,ACTIVE
+RYF-QPR-HGB-DEN-GHJ,,4,Division 5 dam,ACTIVE
+RYF-QPR-HGB-DEN-GHJ-DTS,,5,Stockholm A,ACTIVE
+RYF-QPR-HGB-DEN-GHJ-ENB,,5,Stockholm B,ACTIVE
+RYF-QPR-HGB-DEN-GHJ-OEX,,5,Värmland,ACTIVE
+RYF-QPR-HGB-DEN-GHJ-RRX,,5,Uppland västra,ACTIVE
+RYF-QPR-HGB-DEN-GHJ-SRW,,5,Gotland,ACTIVE
+RYF-QPR-HGB-DEN-GHJ-XTF,,5,Uppland östra,ACTIVE
+RYF-QPR-HGB-DEN-GZQ,,4,Division 1 herr,ACTIVE
+RYF-QPR-HGB-DEN-GZQ-CBR,,5,Norra,ACTIVE
+RYF-QPR-HGB-DEN-GZQ-SGT,,5,Södra,ACTIVE
+RYF-QPR-HGB-DEN-HKY,,4,Division 3 herr,ACTIVE
+RYF-QPR-HGB-DEN-HKY-DTT,,5,Mellersta Götaland,ACTIVE
+RYF-QPR-HGB-DEN-HKY-EVK,,5,Södra Norrland,ACTIVE
+RYF-QPR-HGB-DEN-HKY-FFC,,5,Norra Svealand,ACTIVE
+RYF-QPR-HGB-DEN-HKY-GHA,,5,Sydöstra Götaland,ACTIVE
+RYF-QPR-HGB-DEN-HKY-JVR,,5,Nordöstra Götaland,ACTIVE
+RYF-QPR-HGB-DEN-HKY-LZN,,5,Nordvästra Götaland,ACTIVE
+RYF-QPR-HGB-DEN-HKY-NAJ,,5,Södra Götaland,ACTIVE
+RYF-QPR-HGB-DEN-HKY-OON,,5,Norra Norrland,ACTIVE
+RYF-QPR-HGB-DEN-HKY-PVU,,5,Västra Svealand,ACTIVE
+RYF-QPR-HGB-DEN-HKY-UAC,,5,Mellersta Norrland,ACTIVE
+RYF-QPR-HGB-DEN-HKY-UYS,,5,Södra Svealand,ACTIVE
+RYF-QPR-HGB-DEN-HPJ,,4,Division 7 herr,ACTIVE
+RYF-QPR-HGB-DEN-HPJ-AEY,,5,Skåne nordöstra,ACTIVE
+RYF-QPR-HGB-DEN-HPJ-AID,,5,Värmland östra,ACTIVE
+RYF-QPR-HGB-DEN-HPJ-CVL,,5,Uppland södra,ACTIVE
+RYF-QPR-HGB-DEN-HPJ-DCM,,5,Värmland nordvästra,ACTIVE
+RYF-QPR-HGB-DEN-HPJ-DFU,,5,Halland södra,ACTIVE
+RYF-QPR-HGB-DEN-HPJ-DSA,,5,Skåne västra,ACTIVE
+RYF-QPR-HGB-DEN-HPJ-DWP,,5,Södermanland västra,ACTIVE
+RYF-QPR-HGB-DEN-HPJ-FKC,,5,Södermanland sydöstra,ACTIVE
+RYF-QPR-HGB-DEN-HPJ-FLD,,5,Södermanland norra,ACTIVE
+RYF-QPR-HGB-DEN-HPJ-FQP,,5,Skåne sydvästra,ACTIVE
+RYF-QPR-HGB-DEN-HPJ-GIM,,5,Dalarna västra,ACTIVE
+RYF-QPR-HGB-DEN-HPJ-HMT,,5,Stockholm F,ACTIVE
+RYF-QPR-HGB-DEN-HPJ-HRR,,5,Halland norra,ACTIVE
+RYF-QPR-HGB-DEN-HPJ-HWL,,5,Gestrikland,ACTIVE
+RYF-QPR-HGB-DEN-HPJ-KQR,,5,Göteborg A,ACTIVE
+RYF-QPR-HGB-DEN-HPJ-KTR,,5,Örebro södra,ACTIVE
+RYF-QPR-HGB-DEN-HPJ-LDM,,5,Dalarna östra,ACTIVE
+RYF-QPR-HGB-DEN-HPJ-LYM,,5,Stockholm C,ACTIVE
+RYF-QPR-HGB-DEN-HPJ-MPW,,5,Skåne sydöstra,ACTIVE
+RYF-QPR-HGB-DEN-HPJ-MRC,,5,Skåne nordvästra,ACTIVE
+RYF-QPR-HGB-DEN-HPJ-NBC,,5,Stockholm B,ACTIVE
+RYF-QPR-HGB-DEN-HPJ-NPN,,5,Stockholm I,ACTIVE
+RYF-QPR-HGB-DEN-HPJ-NTP,,5,Örebro norra,ACTIVE
+RYF-QPR-HGB-DEN-HPJ-NUK,,5,Dalarna norra,ACTIVE
+RYF-QPR-HGB-DEN-HPJ-NUZ,,5,Stockholm E,ACTIVE
+RYF-QPR-HGB-DEN-HPJ-OFY,,5,Stockholm H,ACTIVE
+RYF-QPR-HGB-DEN-HPJ-PKY,,5,Skåne norra,ACTIVE
+RYF-QPR-HGB-DEN-HPJ-POO,,5,Stockholm A,ACTIVE
+RYF-QPR-HGB-DEN-HPJ-QOR,,5,Stockholm G,ACTIVE
+RYF-QPR-HGB-DEN-HPJ-RKO,,5,Stockholm D,ACTIVE
+RYF-QPR-HGB-DEN-HPJ-TIM,,5,Testserie,INACTIVE
+RYF-QPR-HGB-DEN-HPJ-TQX,,5,Bohuslän södra,ACTIVE
+RYF-QPR-HGB-DEN-HPJ-UQP,,5,Uppland norra,ACTIVE
+RYF-QPR-HGB-DEN-HPJ-UVK,,5,Uppland östra,ACTIVE
+RYF-QPR-HGB-DEN-HPJ-VPV,,5,Bohuslän norra,ACTIVE
+RYF-QPR-HGB-DEN-HPJ-VQO,,5,Uppland västra,ACTIVE
+RYF-QPR-HGB-DEN-HPJ-WMW,,5,Västmanland östra,ACTIVE
+RYF-QPR-HGB-DEN-HPJ-XFR,,5,Dalsland,ACTIVE
+RYF-QPR-HGB-DEN-HPJ-XNK,,5,Värmland södra,ACTIVE
+RYF-QPR-HGB-DEN-HPJ-XUV,,5,Värmland norra,ACTIVE
+RYF-QPR-HGB-DEN-HPJ-YDV,,5,Västmanland västra,ACTIVE
+RYF-QPR-HGB-DEN-HPJ-YZT,,5,Göteborg B,ACTIVE
+RYF-QPR-HGB-DEN-HPJ-ZPU,,5,Dalarna södra,INACTIVE
+RYF-QPR-HGB-DEN-HSA,,4,U21 herr,ACTIVE
+RYF-QPR-HGB-DEN-HSA-LNX,,5,Allsvenskan södra,ACTIVE
+RYF-QPR-HGB-DEN-HSA-OFL,,5,Allsvenskan norra,ACTIVE
+RYF-QPR-HGB-DEN-HSA-OXZ,,5,Superettan norra,ACTIVE
+RYF-QPR-HGB-DEN-HSA-VPD,,5,Superettan södra,ACTIVE
+RYF-QPR-HGB-DEN-IWR,,4,Svenska cupen,INACTIVE
+RYF-QPR-HGB-DEN-IWR-FYL,,5,Södra,INACTIVE
+RYF-QPR-HGB-DEN-IWR-LHU,,5,Norra,INACTIVE
+RYF-QPR-HGB-DEN-KML,,4,Svenska spel F19,ACTIVE
+RYF-QPR-HGB-DEN-LMC,,4,Elitettan,ACTIVE
+RYF-QPR-HGB-DEN-MVN,,4,Division 5 herr,ACTIVE
+RYF-QPR-HGB-DEN-MVN-AFY,,5,Västerbotten norra,ACTIVE
+RYF-QPR-HGB-DEN-MVN-BLB,,5,Västergötland mellersta,ACTIVE
+RYF-QPR-HGB-DEN-MVN-BUK,,5,Göteborg B,ACTIVE
+RYF-QPR-HGB-DEN-MVN-CKB,,5,Stockholm norra,ACTIVE
+RYF-QPR-HGB-DEN-MVN-CMG,,5,Småland nordvästra,ACTIVE
+RYF-QPR-HGB-DEN-MVN-CML,,5,Stockholm mellersta,ACTIVE
+RYF-QPR-HGB-DEN-MVN-CNW,,5,Uppland västra,ACTIVE
+RYF-QPR-HGB-DEN-MVN-DHY,,5,Bohuslän,ACTIVE
+RYF-QPR-HGB-DEN-MVN-DZE,,5,Västmanland,ACTIVE
+RYF-QPR-HGB-DEN-MVN-EJQ,,5,Hälsingland,ACTIVE
+RYF-QPR-HGB-DEN-MVN-ERL,,5,Skåne nordvästra,ACTIVE
+RYF-QPR-HGB-DEN-MVN-EVE,,5,Östergötland västra,ACTIVE
+RYF-QPR-HGB-DEN-MVN-GNT,,5,Skåne sydöstra,ACTIVE
+RYF-QPR-HGB-DEN-MVN-HEQ,,5,Ångermanland,ACTIVE
+RYF-QPR-HGB-DEN-MVN-HGH,,5,Norrbotten norra,ACTIVE
+RYF-QPR-HGB-DEN-MVN-IKH,,5,Västerbotten mellersta,ACTIVE
+RYF-QPR-HGB-DEN-MVN-IYK,,5,Småland norra,ACTIVE
+RYF-QPR-HGB-DEN-MVN-JKA,,5,Östergötland mellersta,ACTIVE
+RYF-QPR-HGB-DEN-MVN-JKZ,,5,Halland,ACTIVE
+RYF-QPR-HGB-DEN-MVN-JSF,,5,Småland södra,ACTIVE
+RYF-QPR-HGB-DEN-MVN-JTI,,5,Norrbotten mellersta,ACTIVE
+RYF-QPR-HGB-DEN-MVN-KRB,,5,Värmland östra,ACTIVE
+RYF-QPR-HGB-DEN-MVN-LJO,,5,Östergötland östra,ACTIVE
+RYF-QPR-HGB-DEN-MVN-LRF,,5,Örebro,ACTIVE
+RYF-QPR-HGB-DEN-MVN-LXP,,5,Medelpad,ACTIVE
+RYF-QPR-HGB-DEN-MVN-MCN,,5,Småland nordöstra,ACTIVE
+RYF-QPR-HGB-DEN-MVN-MQP,,5,Småland sydvästra,ACTIVE
+RYF-QPR-HGB-DEN-MVN-NKQ,,5,Norrbotten södra,ACTIVE
+RYF-QPR-HGB-DEN-MVN-OAJ,,5,Södermanland,ACTIVE
+RYF-QPR-HGB-DEN-MVN-PKX,,5,Skåne mellersta,ACTIVE
+RYF-QPR-HGB-DEN-MVN-PRW,,5,Jämtland & Härjedalen,ACTIVE
+RYF-QPR-HGB-DEN-MVN-QFO,,5,Göteborg A,ACTIVE
+RYF-QPR-HGB-DEN-MVN-SRJ,,5,Skåne sydvästra,ACTIVE
+RYF-QPR-HGB-DEN-MVN-SYB,,5,Värmland västra,ACTIVE
+RYF-QPR-HGB-DEN-MVN-UCW,,5,Småland sydöstra,ACTIVE
+RYF-QPR-HGB-DEN-MVN-VBJ,,5,Gotland,ACTIVE
+RYF-QPR-HGB-DEN-MVN-VIV,,5,Blekinge,ACTIVE
+RYF-QPR-HGB-DEN-MVN-VNV,,5,Västerbotten södra,ACTIVE
+RYF-QPR-HGB-DEN-MVN-VZZ,,5,Stockholm södra,ACTIVE
+RYF-QPR-HGB-DEN-MVN-WEC,,5,Västergötland östra,ACTIVE
+RYF-QPR-HGB-DEN-MVN-WGJ,,5,Uppland östra,ACTIVE
+RYF-QPR-HGB-DEN-MVN-XIN,,5,Skåne nordöstra,ACTIVE
+RYF-QPR-HGB-DEN-MVN-YCM,,5,Västergötland södra,ACTIVE
+RYF-QPR-HGB-DEN-MVN-YHC,,5,Västergötland västra,ACTIVE
+RYF-QPR-HGB-DEN-MVN-YPX,,5,Dalarna,ACTIVE
+RYF-QPR-HGB-DEN-MVN-YXF,,5,Gestrikland,ACTIVE
+RYF-QPR-HGB-DEN-MVN-ZTU,,5,Dalsland,ACTIVE
+RYF-QPR-HGB-DEN-MVN-ZVD,,5,Skåne västra,ACTIVE
+RYF-QPR-HGB-DEN-SZC,,4,Division 4 dam,ACTIVE
+RYF-QPR-HGB-DEN-SZC-AHZ,,5,Göteborg A,ACTIVE
+RYF-QPR-HGB-DEN-SZC-ALD,,5,Halland,ACTIVE
+RYF-QPR-HGB-DEN-SZC-CVY,,5,Dalsland & Bohuslän,ACTIVE
+RYF-QPR-HGB-DEN-SZC-DOJ,,5,Ljungby,ACTIVE
+RYF-QPR-HGB-DEN-SZC-EDW,,5,Västergötland södra,ACTIVE
+RYF-QPR-HGB-DEN-SZC-GZT,,5,Stockholm A,ACTIVE
+RYF-QPR-HGB-DEN-SZC-HRT,,5,Östergötland östra,ACTIVE
+RYF-QPR-HGB-DEN-SZC-IVA,,5,Örebro & Västmanland,ACTIVE
+RYF-QPR-HGB-DEN-SZC-IVH,,5,Gotland,ACTIVE
+RYF-QPR-HGB-DEN-SZC-JPZ,,5,Norrbotten,ACTIVE
+RYF-QPR-HGB-DEN-SZC-JUI,,5,Skåne södra,ACTIVE
+RYF-QPR-HGB-DEN-SZC-KAS,,5,Vimmerby,ACTIVE
+RYF-QPR-HGB-DEN-SZC-KKA,,5,Kalmar & Öland,ACTIVE
+RYF-QPR-HGB-DEN-SZC-LAF,,5,Växjö & Blekinge,ACTIVE
+RYF-QPR-HGB-DEN-SZC-LYF,,5,Östergötland mellersta,ACTIVE
+RYF-QPR-HGB-DEN-SZC-MTX,,5,Uppland,ACTIVE
+RYF-QPR-HGB-DEN-SZC-NAJ,,5,Stockholm B,ACTIVE
+RYF-QPR-HGB-DEN-SZC-NRG,,5,Västergötland västra,ACTIVE
+RYF-QPR-HGB-DEN-SZC-OYO,,5,Västergötland norra,ACTIVE
+RYF-QPR-HGB-DEN-SZC-PDU,,5,Ångermanland,ACTIVE
+RYF-QPR-HGB-DEN-SZC-PWD,,5,Gestrikland,ACTIVE
+RYF-QPR-HGB-DEN-SZC-RWE,,5,Skåne nordöstra,ACTIVE
+RYF-QPR-HGB-DEN-SZC-SSL,,5,Höglandet,ACTIVE
+RYF-QPR-HGB-DEN-SZC-SXA,,5,Västergötland östra,ACTIVE
+RYF-QPR-HGB-DEN-SZC-UDY,,5,Vestbo,ACTIVE
+RYF-QPR-HGB-DEN-SZC-WAA,,5,Göteborg B,ACTIVE
+RYF-QPR-HGB-DEN-SZC-WKX,,5,Värmland,ACTIVE
+RYF-QPR-HGB-DEN-SZC-ZHG,,5,Östergötland västra,ACTIVE
+RYF-QPR-HGB-DEN-SZC-ZRJ,,5,Skåne nordvästra,ACTIVE
+RYF-QPR-HGB-DEN-SZC-ZUW,,5,Södermanland,ACTIVE
+RYF-QPR-HGB-DEN-TQG,,4,Division 2 herr,ACTIVE
+RYF-QPR-HGB-DEN-TQG-HNI,,5,Södra Svealand,ACTIVE
+RYF-QPR-HGB-DEN-TQG-HVH,,5,Norra Götaland,ACTIVE
+RYF-QPR-HGB-DEN-TQG-JGN,,5,Västra Götaland,ACTIVE
+RYF-QPR-HGB-DEN-TQG-SIS,,5,Östra Götaland,ACTIVE
+RYF-QPR-HGB-DEN-TQG-XAK,,5,Norrland,ACTIVE
+RYF-QPR-HGB-DEN-TQG-XDQ,,5,Norra Svealand,ACTIVE
+RYF-QPR-HGB-DEN-UBA,,4,Division 1 dam,ACTIVE
+RYF-QPR-HGB-DEN-UBA-AAW,,5,Södra Svealand,ACTIVE
+RYF-QPR-HGB-DEN-UBA-EJY,,5,Norra Svealand,ACTIVE
+RYF-QPR-HGB-DEN-UBA-FMV,,5,Norra Götaland,ACTIVE
+RYF-QPR-HGB-DEN-UBA-NGY,,5,Södra Götaland,ACTIVE
+RYF-QPR-HGB-DEN-UBA-SOI,,5,Norrland,ACTIVE
+RYF-QPR-HGB-DEN-UBA-WUG,,5,Mellersta Götaland,ACTIVE
+RYF-QPR-HGB-DEN-WAM,,4,Superettan,ACTIVE
+RYF-QPR-HGB-DEN-XNC,,4,Damallsvenskan,ACTIVE
+RYF-QPR-HGB-DEN-YXI,,4,Division 8 herr,ACTIVE
+RYF-QPR-HGB-DEN-YXI-DOR,,5,Uppland östra,ACTIVE
+RYF-QPR-HGB-DEN-YXI-IQG,,5,Uppland västra,ACTIVE
+RYF-QPR-HGB-DEN-YXI-YII,,5,Uppland norra,ACTIVE
+RYF-QPR-HGB-DGM,,3,Bowling,ACTIVE
+RYF-QPR-HGB-DGM-FCD,,4,Division 1 dam,ACTIVE
+RYF-QPR-HGB-DGM-FGK,,4,Allsvenskan dam,ACTIVE
+RYF-QPR-HGB-DGM-GYR,,4,Division 1 herr,ACTIVE
+RYF-QPR-HGB-DGM-NDJ,,4,Elitserien dam,ACTIVE
+RYF-QPR-HGB-DGM-OAR,,4,Elitserien herr,ACTIVE
+RYF-QPR-HGB-DGM-WPW,,4,Allsvenskan herr,ACTIVE
+RYF-QPR-HGB-DKV,,3,Softball,ACTIVE
+RYF-QPR-HGB-DNB,,3,Bilsport,ACTIVE
+RYF-QPR-HGB-DNB-DJO,,4,F3000,ACTIVE
+RYF-QPR-HGB-DNB-FHE,,4,Rally,ACTIVE
+RYF-QPR-HGB-DNB-LBO,,4,Folkrace,ACTIVE
+RYF-QPR-HGB-DNB-LOH,,4,Indy Racing,ACTIVE
+RYF-QPR-HGB-DNB-PDE,,4,Formel 1,ACTIVE
+RYF-QPR-HGB-DNB-TBT,,4,Karting,ACTIVE
+RYF-QPR-HGB-DNB-UDJ,,4,Rallycross,ACTIVE
+RYF-QPR-HGB-DNB-XJL,,4,Uthållighetsrace,ACTIVE
+RYF-QPR-HGB-DYW,,3,Beachvolleyboll,ACTIVE
+RYF-QPR-HGB-DZQ,,3,Amerikansk fotboll,ACTIVE
+RYF-QPR-HGB-DZQ-KLM,,4,Division 1,ACTIVE
+RYF-QPR-HGB-DZQ-RVX,,4,Superserien,ACTIVE
+RYF-QPR-HGB-DZQ-SCB,,4,Superserien dam,ACTIVE
+RYF-QPR-HGB-DZS,,3,Lacrosse,ACTIVE
+RYF-QPR-HGB-EDX,,3,E-Sport,ACTIVE
+RYF-QPR-HGB-EOW,,3,Motorcykelsport,ACTIVE
+RYF-QPR-HGB-EOW-CBQ,,4,Speedway,ACTIVE
+RYF-QPR-HGB-EOW-CBQ-DYV,,5,Elitserien,ACTIVE
+RYF-QPR-HGB-EOW-CBQ-KYG,,5,Allsvenskan,ACTIVE
+RYF-QPR-HGB-EOW-CNP,,4,Motorcykel uthållighet,ACTIVE
+RYF-QPR-HGB-EOW-CUZ,,4,Trail,ACTIVE
+RYF-QPR-HGB-EOW-DPF,,4,Motocross,ACTIVE
+RYF-QPR-HGB-EOW-JRT,,4,Moto-GP,ACTIVE
+RYF-QPR-HGB-EOW-KGM,,4,Roadracing,ACTIVE
+RYF-QPR-HGB-EOW-MAH,,4,Sidovagn,ACTIVE
+RYF-QPR-HGB-EOW-NDA,,4,Isracing,ACTIVE
+RYF-QPR-HGB-EOW-PSO,,4,Enduro,ACTIVE
+RYF-QPR-HGB-FMU,,3,Trav,ACTIVE
+RYF-QPR-HGB-FRK,,3,Vindsurfing,ACTIVE
+RYF-QPR-HGB-FUZ,,3,Cykling,ACTIVE
+RYF-QPR-HGB-FUZ-CZT,,4,BMX,ACTIVE
+RYF-QPR-HGB-FUZ-DFH,,4,MTB,ACTIVE
+RYF-QPR-HGB-FUZ-MZG,,4,Landsvägscykling,ACTIVE
+RYF-QPR-HGB-FUZ-UTN,,4,Velodromcykling,ACTIVE
+RYF-QPR-HGB-FUZ-VII,,4,Cyklo-cross,ACTIVE
+RYF-QPR-HGB-FYT,,3,Styrkelyft,ACTIVE
+RYF-QPR-HGB-GCY,,3,Squash,ACTIVE
+RYF-QPR-HGB-GCY-DSY,,4,Elitserien herr,ACTIVE
+RYF-QPR-HGB-GCY-IAM,,4,Elitserien dam,ACTIVE
+RYF-QPR-HGB-GKR,,3,Boxning,ACTIVE
+RYF-QPR-HGB-GLR,,3,Orientering,ACTIVE
+RYF-QPR-HGB-HNS,,3,Kanot,ACTIVE
+RYF-QPR-HGB-IPS,,3,Ridsport,ACTIVE
+RYF-QPR-HGB-IPS-EBN,,4,Hästhoppning,ACTIVE
+RYF-QPR-HGB-IPS-GSO,,4,Dressyr,ACTIVE
+RYF-QPR-HGB-IPS-KOW,,4,Distans,ACTIVE
+RYF-QPR-HGB-IPS-KPS,,4,Fälttävlan,ACTIVE
+RYF-QPR-HGB-IPS-VZU,,4,Körning,ACTIVE
+RYF-QPR-HGB-IUC,,3,Baseboll,ACTIVE
+RYF-QPR-HGB-IUP,,3,Klättring,ACTIVE
+RYF-QPR-HGB-IYN,,3,Hundracing,ACTIVE
+RYF-QPR-HGB-IYN-BUL,,4,Hundspann,ACTIVE
+RYF-QPR-HGB-IYN-GRL,,4,Hundkapplöpning,ACTIVE
+RYF-QPR-HGB-JDC,,3,Bordtennis,ACTIVE
+RYF-QPR-HGB-JDC-AZB,,4,Division 1 dam,ACTIVE
+RYF-QPR-HGB-JDC-CYG,,4,Division 1 herr,ACTIVE
+RYF-QPR-HGB-JDC-IPY,,4,Pingisligan herr,ACTIVE
+RYF-QPR-HGB-JDC-MEO,,4,Superettan dam,ACTIVE
+RYF-QPR-HGB-JDC-QZF,,4,Superettan herr,ACTIVE
+RYF-QPR-HGB-JDC-SZN,,4,Division 2 herr,ACTIVE
+RYF-QPR-HGB-JDC-TQZ,,4,Pingisligan dam,ACTIVE
+RYF-QPR-HGB-JDC-VCU,,4,Division 1 dam,ACTIVE
+RYF-QPR-HGB-KJR,,3,Gymnastik,ACTIVE
+RYF-QPR-HGB-KJR-GPN,,4,Trampolin,ACTIVE
+RYF-QPR-HGB-KJR-ZBI,,4,Rytmisk gymnastik,ACTIVE
+RYF-QPR-HGB-KJR-ZFQ,,4,Artistisk gymnastik,ACTIVE
+RYF-QPR-HGB-KYI,,3,Triathlon,ACTIVE
+RYF-QPR-HGB-LHA,,3,Padel,ACTIVE
+RYF-QPR-HGB-LLE,,3,Rodel,ACTIVE
+RYF-QPR-HGB-LVW,,3,Snowboard,ACTIVE
+RYF-QPR-HGB-MDD,,3,Shorttrack,ACTIVE
+RYF-QPR-HGB-MII,,3,Basket,ACTIVE
+RYF-QPR-HGB-MII-DUB,,4,Division 2 herr,ACTIVE
+RYF-QPR-HGB-MII-FNP,,4,Superettan dam,ACTIVE
+RYF-QPR-HGB-MII-HAS,,4,Division 3 herr,ACTIVE
+RYF-QPR-HGB-MII-HEK,,4,Basketettan dam,ACTIVE
+RYF-QPR-HGB-MII-HYQ,,4,Svenska Basketligan dam,ACTIVE
+RYF-QPR-HGB-MII-ILA,,4,Division 2 dam,ACTIVE
+RYF-QPR-HGB-MII-JET,,4,Superettan herr,ACTIVE
+RYF-QPR-HGB-MII-LJL,,4,Basketligan rullstol,INACTIVE
+RYF-QPR-HGB-MII-RYG,,4,Basketettan herr,ACTIVE
+RYF-QPR-HGB-MII-SVM,,4,Svenska Basketligan herr,ACTIVE
+RYF-QPR-HGB-MII-YEF,,4,Division 4 herr,ACTIVE
+RYF-QPR-HGB-MUD,,3,Rugby,ACTIVE
+RYF-QPR-HGB-MUD-CWJ,,4,Allsvenskan dam,ACTIVE
+RYF-QPR-HGB-MUD-OEB,,4,Allsvenskan herr,ACTIVE
+RYF-QPR-HGB-MUD-YOC,,4,Division 1 herr,ACTIVE
+RYF-QPR-HGB-NOR,,3,Surfing,ACTIVE
+RYF-QPR-HGB-NUF,,3,Bridge,ACTIVE
+RYF-QPR-HGB-NWE,,3,Frisbee,ACTIVE
+RYF-QPR-HGB-NYM,,3,Skridskoåkning,ACTIVE
+RYF-QPR-HGB-OKR,,3,Tyngdlyftning,ACTIVE
+RYF-QPR-HGB-OQU,,3,Bandy,ACTIVE
+RYF-QPR-HGB-OQU-BQZ,,4,Division 1,ACTIVE
+RYF-QPR-HGB-OQU-BQZ-BQZ,,5,Södra,ACTIVE
+RYF-QPR-HGB-OQU-BQZ-COW,,5,Västra,ACTIVE
+RYF-QPR-HGB-OQU-BQZ-EBZ,,5,Övre Norrland,ACTIVE
+RYF-QPR-HGB-OQU-BQZ-EKM,,5,Nedre Norrland,ACTIVE
+RYF-QPR-HGB-OQU-BQZ-XGW,,5,Östra,ACTIVE
+RYF-QPR-HGB-OQU-EKM,,4,Division 2,ACTIVE
+RYF-QPR-HGB-OQU-EKM-CJJ,,5,Södra Norrland,ACTIVE
+RYF-QPR-HGB-OQU-EKM-FMB,,5,Stockholm,ACTIVE
+RYF-QPR-HGB-OQU-EKM-KWH,,5,Sydväst,ACTIVE
+RYF-QPR-HGB-OQU-EKM-QKO,,5,Småland & Östergötland,ACTIVE
+RYF-QPR-HGB-OQU-EKM-TAM,,5,Västergötland,ACTIVE
+RYF-QPR-HGB-OQU-GBI,,4,Svenska Cupen,ACTIVE
+RYF-QPR-HGB-OQU-HEN,,4,Allsvenskan herr,ACTIVE
+RYF-QPR-HGB-OQU-KCB,,4,Elitserien herr,ACTIVE
+RYF-QPR-HGB-OQU-LWB,,4,Elitserien dam,ACTIVE
+RYF-QPR-HGB-OQU-NMQ,,4,Allsvenskan dam,ACTIVE
+RYF-QPR-HGB-OQU-NMQ-LPY,,5,Södra,ACTIVE
+RYF-QPR-HGB-OQU-NMQ-RMS,,5,Norra,ACTIVE
+RYF-QPR-HGB-OQU-XGW,,4,Division 3,ACTIVE
+RYF-QPR-HGB-OQU-XGW-EEA,,5,Stockholm,ACTIVE
+RYF-QPR-HGB-OQU-XGW-NUZ,,5,Sydväst,ACTIVE
+RYF-QPR-HGB-PJR,,3,Handboll,ACTIVE
+RYF-QPR-HGB-PJR-AAK,,4,Allsvenskan herr,ACTIVE
+RYF-QPR-HGB-PJR-GVY,,4,Handbollsligan herr,ACTIVE
+RYF-QPR-HGB-PJR-GYJ,,4,Allsvenskan dam,ACTIVE
+RYF-QPR-HGB-PJR-IKQ,,4,Division 4 herr,ACTIVE
+RYF-QPR-HGB-PJR-IOG,,4,Division 2 herr,ACTIVE
+RYF-QPR-HGB-PJR-IOG-IVE,,5,Östra,ACTIVE
+RYF-QPR-HGB-PJR-IOG-ROO,,5,Södra,ACTIVE
+RYF-QPR-HGB-PJR-IOG-SHO,,5,Norra,ACTIVE
+RYF-QPR-HGB-PJR-IOG-WVV,,5,Västra,ACTIVE
+RYF-QPR-HGB-PJR-MCK,,4,Division 1 dam,ACTIVE
+RYF-QPR-HGB-PJR-MCK-EBR,,5,Södra,ACTIVE
+RYF-QPR-HGB-PJR-MCK-UVW,,5,Norra,ACTIVE
+RYF-QPR-HGB-PJR-NGN,,4,Division 2 dam,ACTIVE
+RYF-QPR-HGB-PJR-NGN-CBS,,5,Östsvenska norra,ACTIVE
+RYF-QPR-HGB-PJR-NGN-EWY,,5,Södra,ACTIVE
+RYF-QPR-HGB-PJR-NGN-JJX,,5,Västsvenska norra,ACTIVE
+RYF-QPR-HGB-PJR-NGN-VFB,,5,Östsvenska södra,ACTIVE
+RYF-QPR-HGB-PJR-NGN-WGC,,5,Norra,ACTIVE
+RYF-QPR-HGB-PJR-NGN-XPJ,,5,Västsvenska västra,ACTIVE
+RYF-QPR-HGB-PJR-QXN,,4,Division 3 herr,ACTIVE
+RYF-QPR-HGB-PJR-RAE,,4,SHE,ACTIVE
+RYF-QPR-HGB-PJR-RRX,,4,Division 4 dam,ACTIVE
+RYF-QPR-HGB-PJR-XPJ,,4,Division 1 herr,ACTIVE
+RYF-QPR-HGB-PJR-XPJ-KFA,,5,Södra,ACTIVE
+RYF-QPR-HGB-PJR-XPJ-UUZ,,5,Norra,ACTIVE
+RYF-QPR-HGB-PJR-ZDD,,4,Division 3 dam,ACTIVE
+RYF-QPR-HGB-PWE,,3,Friidrott,ACTIVE
+RYF-QPR-HGB-PWE-ASO,,4,Stafettlöpning,ACTIVE
+RYF-QPR-HGB-PWE-BQO,,4,Häcklöpning,ACTIVE
+RYF-QPR-HGB-PWE-DEK,,4,Längdhopp,ACTIVE
+RYF-QPR-HGB-PWE-DRY,,4,Kulstötning,ACTIVE
+RYF-QPR-HGB-PWE-ISZ,,4,Sjukamp,ACTIVE
+RYF-QPR-HGB-PWE-JQQ,,4,Slägga,ACTIVE
+RYF-QPR-HGB-PWE-KRH,,4,Långdistanslöpning,ACTIVE
+RYF-QPR-HGB-PWE-MHO,,4,Terränglöpning,ACTIVE
+RYF-QPR-HGB-PWE-NXE,,4,Spjutkastning,ACTIVE
+RYF-QPR-HGB-PWE-NZA,,4,Medeldistanslöpning,ACTIVE
+RYF-QPR-HGB-PWE-OQH,,4,Sprintlöpning,ACTIVE
+RYF-QPR-HGB-PWE-QFP,,4,Stavhopp,ACTIVE
+RYF-QPR-HGB-PWE-SLK,,4,Tresteg,ACTIVE
+RYF-QPR-HGB-PWE-SSL,,4,Diskus,ACTIVE
+RYF-QPR-HGB-PWE-TRY,,4,Höjdhopp,ACTIVE
+RYF-QPR-HGB-PWE-WGT,,4,Tiokamp,ACTIVE
+RYF-QPR-HGB-PWE-WKD,,4,Gång,ACTIVE
+RYF-QPR-HGB-PWE-WOZ,,4,Femkamp,ACTIVE
+RYF-QPR-HGB-QDT,,3,Vattenpolo,ACTIVE
+RYF-QPR-HGB-QHJ,,3,Innebandy,ACTIVE
+RYF-QPR-HGB-QHJ-CUA,,4,Allsvenskan herr,ACTIVE
+RYF-QPR-HGB-QHJ-CUA-RUU,,5,Norra,ACTIVE
+RYF-QPR-HGB-QHJ-CUA-UWY,,5,Södra,ACTIVE
+RYF-QPR-HGB-QHJ-DAU,,4,Division 3 dam,ACTIVE
+RYF-QPR-HGB-QHJ-DAU-BSS,,5,Uppland,ACTIVE
+RYF-QPR-HGB-QHJ-DAU-DHN,,5,Värmland,ACTIVE
+RYF-QPR-HGB-QHJ-DAU-GUI,,5,Västsvenska,ACTIVE
+RYF-QPR-HGB-QHJ-DAU-SIO,,5,Stockholm södra,ACTIVE
+RYF-QPR-HGB-QHJ-DAU-YZK,,5,Stockholm norra,ACTIVE
+RYF-QPR-HGB-QHJ-GAO,,4,Division 6 herr,ACTIVE
+RYF-QPR-HGB-QHJ-HBV,,4,Allsvenskan dam,ACTIVE
+RYF-QPR-HGB-QHJ-HBV-BNT,,5,Norra,ACTIVE
+RYF-QPR-HGB-QHJ-HBV-HCU,,5,Västra,ACTIVE
+RYF-QPR-HGB-QHJ-HBV-KXR,,5,Östra,ACTIVE
+RYF-QPR-HGB-QHJ-HBV-QOG,,5,Södra,ACTIVE
+RYF-QPR-HGB-QHJ-NYU,,4,Division 5 herr,ACTIVE
+RYF-QPR-HGB-QHJ-OTJ,,4,Division 2 herr,ACTIVE
+RYF-QPR-HGB-QHJ-OTJ-EDH,,5,Halland höst,ACTIVE
+RYF-QPR-HGB-QHJ-OTJ-EYU,,5,Västernorrland,ACTIVE
+RYF-QPR-HGB-QHJ-OTJ-GQY,,5,Småland,ACTIVE
+RYF-QPR-HGB-QHJ-OTJ-GZK,,5,GUD,ACTIVE
+RYF-QPR-HGB-QHJ-OTJ-KCD,,5,Södermanland,ACTIVE
+RYF-QPR-HGB-QHJ-OTJ-KJU,,5,Stockholm,ACTIVE
+RYF-QPR-HGB-QHJ-OTJ-NEB,,5,Värmland,ACTIVE
+RYF-QPR-HGB-QHJ-OTJ-NNO,,5,Västergötland,ACTIVE
+RYF-QPR-HGB-QHJ-OTJ-QUD,,5,Skåne,ACTIVE
+RYF-QPR-HGB-QHJ-OTJ-RYC,,5,Norrbotten,ACTIVE
+RYF-QPR-HGB-QHJ-OTJ-UGO,,5,Västmanland & Örebro,ACTIVE
+RYF-QPR-HGB-QHJ-OTJ-UQN,,5,Västerbotten norra,ACTIVE
+RYF-QPR-HGB-QHJ-OTJ-WND,,5,Västerbotten södra,ACTIVE
+RYF-QPR-HGB-QHJ-OTJ-ZDX,,5,Göteborg,ACTIVE
+RYF-QPR-HGB-QHJ-OTJ-ZOA,,5,Östergötland,ACTIVE
+RYF-QPR-HGB-QHJ-RVU,,4,Superligan dam,ACTIVE
+RYF-QPR-HGB-QHJ-SSA,,4,Division 2 dam,ACTIVE
+RYF-QPR-HGB-QHJ-SSA-AAK,,5,Uppland B,ACTIVE
+RYF-QPR-HGB-QHJ-SSA-CBS,,5,Skåne norra,ACTIVE
+RYF-QPR-HGB-QHJ-SSA-EWY,,5,Småland norra,ACTIVE
+RYF-QPR-HGB-QHJ-SSA-GVY,,5,Uppland A,ACTIVE
+RYF-QPR-HGB-QHJ-SSA-JJX,,5,Stockholm södra,ACTIVE
+RYF-QPR-HGB-QHJ-SSA-MVK,,5,Småland södra,ACTIVE
+RYF-QPR-HGB-QHJ-SSA-PWJ,,5,Göteborg,ACTIVE
+RYF-QPR-HGB-QHJ-SSA-QHE,,5,Stockholm norra,ACTIVE
+RYF-QPR-HGB-QHJ-SSA-RAE,,5,Västmanland & Örebro,ACTIVE
+RYF-QPR-HGB-QHJ-SSA-THY,,5,Södermanland,ACTIVE
+RYF-QPR-HGB-QHJ-SSA-VFB,,5,Skåne södra,ACTIVE
+RYF-QPR-HGB-QHJ-SSA-VIC,,5,Dalarna & Gäst,ACTIVE
+RYF-QPR-HGB-QHJ-SSA-WGC,,5,Östergötland,ACTIVE
+RYF-QPR-HGB-QHJ-SSA-XPJ,,5,Värmland,ACTIVE
+RYF-QPR-HGB-QHJ-UVW,,4,Division 1 dam,ACTIVE
+RYF-QPR-HGB-QHJ-UVW-DZV,,5,Skåne,ACTIVE
+RYF-QPR-HGB-QHJ-UVW-ELF,,5,Västergötland,ACTIVE
+RYF-QPR-HGB-QHJ-UVW-OIP,,5,Småland,ACTIVE
+RYF-QPR-HGB-QHJ-UVW-OJH,,5,Halland höst,ACTIVE
+RYF-QPR-HGB-QHJ-UVW-ONM,,5,Västerbotten,ACTIVE
+RYF-QPR-HGB-QHJ-UVW-PXE,,5,Region Svealand,ACTIVE
+RYF-QPR-HGB-QHJ-UVW-QOX,,5,Västernorrland,ACTIVE
+RYF-QPR-HGB-QHJ-UVW-RQL,,5,Norrbotten,ACTIVE
+RYF-QPR-HGB-QHJ-UVW-UZA,,5,Göteborg,ACTIVE
+RYF-QPR-HGB-QHJ-UVW-WCQ,,5,Stockholm,ACTIVE
+RYF-QPR-HGB-QHJ-UVW-WKR,,5,GUD,ACTIVE
+RYF-QPR-HGB-QHJ-UVW-YHZ,,5,Österg & Söderman,ACTIVE
+RYF-QPR-HGB-QHJ-WBL,,4,Division 4 herr,ACTIVE
+RYF-QPR-HGB-QHJ-XFL,,4,Division 3 herr,ACTIVE
+RYF-QPR-HGB-QHJ-XFL-DAX,,5,Södermanland,ACTIVE
+RYF-QPR-HGB-QHJ-XFL-ESW,,5,Småland östra,ACTIVE
+RYF-QPR-HGB-QHJ-XFL-EYU,,5,Gästrikland & Dalarna,ACTIVE
+RYF-QPR-HGB-QHJ-XFL-GCR,,5,Småland västra,ACTIVE
+RYF-QPR-HGB-QHJ-XFL-KOW,,5,Västergötland,ACTIVE
+RYF-QPR-HGB-QHJ-XFL-LZT,,5,Hälsingland,ACTIVE
+RYF-QPR-HGB-QHJ-XFL-NGX,,5,Skåne södra,ACTIVE
+RYF-QPR-HGB-QHJ-XFL-NNO,,5,Göteborg,ACTIVE
+RYF-QPR-HGB-QHJ-XFL-PJQ,,5,Örebro,ACTIVE
+RYF-QPR-HGB-QHJ-XFL-QCL,,5,Uppland,ACTIVE
+RYF-QPR-HGB-QHJ-XFL-QLD,,5,Skåne norra,ACTIVE
+RYF-QPR-HGB-QHJ-XFL-RQD,,5,Stockholm norra,ACTIVE
+RYF-QPR-HGB-QHJ-XFL-SCV,,5,Halland,ACTIVE
+RYF-QPR-HGB-QHJ-XFL-UKI,,5,Stockholm södra,ACTIVE
+RYF-QPR-HGB-QHJ-XFL-UKZ,,5,Östergötland,ACTIVE
+RYF-QPR-HGB-QHJ-XFL-XGD,,5,Västmanland,ACTIVE
+RYF-QPR-HGB-QHJ-XFL-XSR,,5,Norrbotten,ACTIVE
+RYF-QPR-HGB-QHJ-XFL-YLT,,5,Värmland,ACTIVE
+RYF-QPR-HGB-QHJ-XQM,,4,Superligan herr,ACTIVE
+RYF-QPR-HGB-QHJ-XSZ,,4,Division 1 herr,ACTIVE
+RYF-QPR-HGB-QHJ-XSZ-DXQ,,5,Norrland,ACTIVE
+RYF-QPR-HGB-QHJ-XSZ-IAS,,5,Mellersta Svealand,ACTIVE
+RYF-QPR-HGB-QHJ-XSZ-IPY,,5,Södra Götaland,ACTIVE
+RYF-QPR-HGB-QHJ-XSZ-QZF,,5,Västra Götaland,ACTIVE
+RYF-QPR-HGB-QHJ-XSZ-TQZ,,5,Västra Svealand,ACTIVE
+RYF-QPR-HGB-QHJ-XSZ-XJJ,,5,Östra Svealand,ACTIVE
+RYF-QPR-HGB-RQL,,3,Brottning,ACTIVE
+RYF-QPR-HGB-RQL-FCN,,4,Grekisk-romersk stil,ACTIVE
+RYF-QPR-HGB-RRM,,3,Bob,ACTIVE
+RYF-QPR-HGB-SQQ,,3,Konståkning,ACTIVE
+RYF-QPR-HGB-TAV,,3,Rodd,ACTIVE
+RYF-QPR-HGB-TJC,,3,Fäktning,ACTIVE
+RYF-QPR-HGB-TPL,,3,Modern femkamp,ACTIVE
+RYF-QPR-HGB-UGP,,3,Inline & skateboard,ACTIVE
+RYF-QPR-HGB-UGP-BFM,,4,Skateboard,ACTIVE
+RYF-QPR-HGB-UGP-RGU,,4,Inlinehockey,ACTIVE
+RYF-QPR-HGB-VBE,,3,Båtracing,ACTIVE
+RYF-QPR-HGB-VXP,,3,Skotercross,ACTIVE
+RYF-QPR-HGB-VZF,,3,Bågskytte,ACTIVE
+RYF-QPR-HGB-WHS,,3,Snooker,ACTIVE
+RYF-QPR-HGB-WVD,,3,Tennis,ACTIVE
+RYF-QPR-HGB-XNH,,3,Simhopp,ACTIVE
+RYF-QPR-HGB-XNY,,3,Skeleton,ACTIVE
+RYF-QPR-HGB-YAP,,3,Schack,ACTIVE
+RYF-QPR-HGB-YDK,,3,Sportskytte,ACTIVE
+RYF-QPR-HGB-YDK-RYW,,4,Lerduveskytte,ACTIVE
+RYF-QPR-HGB-YDK-RZJ,,4,Viltmål,ACTIVE
+RYF-QPR-HGB-YDK-SRX,,4,Pistolskytte,ACTIVE
+RYF-QPR-HGB-YDK-YNW,,4,Gevärsskytte,ACTIVE
+RYF-QPR-HGB-YFG,,3,Curling,ACTIVE
+RYF-QPR-HGB-YGB,,3,Kampsport,ACTIVE
+RYF-QPR-HGB-YGB-ALA,,4,Karate,ACTIVE
+RYF-QPR-HGB-YGB-BOQ,,4,Armbrytning,ACTIVE
+RYF-QPR-HGB-YGB-CJI,,4,Thaiboxning,ACTIVE
+RYF-QPR-HGB-YGB-EFT,,4,Jiu-Jitsu,ACTIVE
+RYF-QPR-HGB-YGB-RLR,,4,Judo,ACTIVE
+RYF-QPR-HGB-YGB-VZG,,4,MMA,ACTIVE
+RYF-QPR-HGB-YGB-XXU,,4,Taekwondo,ACTIVE
+RYF-QPR-HGB-YKG,,3,Skidskytte,ACTIVE
+RYF-QPR-HGB-YOC,,3,Futsal,ACTIVE
+RYF-QPR-HGB-YOC-OCZ,,4,Division 2 dam,ACTIVE
+RYF-QPR-HGB-YOC-OYY,,4,RFL dam,ACTIVE
+RYF-QPR-HGB-YOC-SSV,,4,Division 1 herr,ACTIVE
+RYF-QPR-HGB-YOC-TPJ,,4,Futsalligan,ACTIVE
+RYF-QPR-HGB-YSN,,3,Segling,ACTIVE
+RYF-QPR-HGB-YSN-BSD,,4,Laser standard,ACTIVE
+RYF-QPR-HGB-YSN-MMP,,4,Flerskrov,ACTIVE
+RYF-QPR-HGB-YSN-RXE,,4,Jolle,ACTIVE
+RYF-QPR-HGB-YSN-VTX,,4,Oceansegling,ACTIVE
+RYF-QPR-HGB-YSN-XMZ,,4,Kölbåt,ACTIVE
+RYF-QPR-HGB-YTM,,3,Badminton,ACTIVE
+RYF-QPR-HGB-YTM-NIM,,4,Division 1,ACTIVE
+RYF-QPR-HGB-YTM-NIM-AKE,,5,Mellan,ACTIVE
+RYF-QPR-HGB-YTM-NIM-EBD,,5,Syd,ACTIVE
+RYF-QPR-HGB-YTM-NIM-HWK,,5,Norra,ACTIVE
+RYF-QPR-HGB-YTM-REJ,,4,Svenska badmintonligan,ACTIVE
+RYF-QPR-HGB-ZCJ,,3,Vattenskidor,ACTIVE
+RYF-QPR-HGB-ZQG,,3,Skidorientering,ACTIVE
+RYF-QPR-HGB-ZUO,,3,Dragkamp,ACTIVE
+RYF-QPR-HJD,"Användning av otillåtna preparat för att höja prestationsförmåga, och frågor relaterade till det",2,Dopning inom idrott,ACTIVE
+RYF-QPR-ICL,Nyheter som berör arenor och andra faciliteter där sport utövas,2,Sportarenor,ACTIVE
+RYF-QPR-OVU,"Kan vara till exempel avstängningar, böter eller andra former av sanktioner",2,Disciplinåtgärder inom idrotten,ACTIVE
+RYF-TKT,,1,Livsstil & fritid,ACTIVE
+RYF-TKT-AGB,,2,Hem & trädgård,ACTIVE
+RYF-TKT-AGB-BGD,,3,Heminredning,ACTIVE
+RYF-TKT-AGB-NVR,,3,Renovering,ACTIVE
+RYF-TKT-AGB-OKN,,3,Trädgård,ACTIVE
+RYF-TKT-BIY,,2,Spel & dobbel,ACTIVE
+RYF-TKT-EPN,,2,Villa,ACTIVE
+RYF-TKT-ESA,Samlingsbegrepp för fritidsaktiviteter som genomförs utomhus,2,Friluftsliv,ACTIVE
+RYF-TKT-ESN,,2,Mat & dryck,ACTIVE
+RYF-TKT-ESN-JPB,,3,Dryck,ACTIVE
+RYF-TKT-ESN-QBA,,3,Mat,ACTIVE
+RYF-TKT-ESN-XAE,,3,Bakning,ACTIVE
+RYF-TKT-FGO,,2,Fiske,ACTIVE
+RYF-TKT-GSR,,2,Mode & styling,ACTIVE
+RYF-TKT-GSR-BIH,,3,Smink,ACTIVE
+RYF-TKT-GSR-BJE,,3,Accessoarer & smycken,ACTIVE
+RYF-TKT-GSR-CNN,,3,Hårmode,ACTIVE
+RYF-TKT-GSR-EXJ,,3,Kläder & skor,ACTIVE
+RYF-TKT-GSR-PSA,,3,Kroppsutsmyckning,ACTIVE
+RYF-TKT-HFA,,2,Hantverk,ACTIVE
+RYF-TKT-INK,,2,Föreningsliv,ACTIVE
+RYF-TKT-MIZ,,2,Fritidshus,ACTIVE
+RYF-TKT-MNX,,2,Bostadsrätt,ACTIVE
+RYF-TKT-MRA,,2,Motor,ACTIVE
+RYF-TKT-MRA-CMW,,3,Snöskoter,ACTIVE
+RYF-TKT-MRA-KWO,,3,Bilentusiasm,ACTIVE
+RYF-TKT-MRA-TJY,,3,MC-entusiasm,ACTIVE
+RYF-TKT-NHW,,2,Samlande,ACTIVE
+RYF-TKT-PEJ,,2,Semester,ACTIVE
+RYF-TKT-PYI,,2,Jakt,ACTIVE
+RYF-TKT-QWJ,,2,Båtliv,ACTIVE
+RYF-TKT-RRC,,2,Ridning,ACTIVE
+RYF-TKT-SPE,,2,Cykelentusiasm,ACTIVE
+RYF-TKT-VVD,,2,Spel,ACTIVE
+RYF-TKT-VVD-AKF,"Sällskapsspel är en umgängesform som vanligtvis går ut på att flera personer slår tärningar, flyttar pjäser på ett bräde eller drar kort i enlighet med spelets regler, med mål att vinna spelet. Det övergripande målet med sällskapsspel är dock att umgås och ha trevligt. Sällskapsspel omfattar inte exempelvis hasardspel, där man spelar om pengar eller egendom, eller datorspel",3,Sällskapsspel,ACTIVE
+RYF-TKT-VVD-EME,"En form av interaktiv underhållning som spelas med hjälp av till exempel en persondator, spelkonsol eller mobiltelefon",3,Datorspel,ACTIVE
+RYF-TKT-YIG,,2,Motion & hälsa,ACTIVE
+RYF-TKT-YIG-PME,,3,Styrketräning,ACTIVE
+RYF-TKT-YIG-RYB,,3,Konditionsträning,ACTIVE
+RYF-TKT-ZWD,,2,Resa,ACTIVE
+RYF-VHD,,1,Miljö,ACTIVE
+RYF-VHD-GUZ,,2,Klimatförändringar,ACTIVE
+RYF-VHD-IFE,,2,Föroreningar,ACTIVE
+RYF-VHD-IFE-EGU,,3,Avfall,ACTIVE
+RYF-VHD-IFE-FHW,"Ämnen skadliga för människor och djur. Till exempel giftgaser, strålning, kemikalier, tungmetaller och PCB",3,Farliga ämnen & strålning,ACTIVE
+RYF-VHD-IFE-FKG,,3,Miljösanering,ACTIVE
+RYF-VHD-IFE-LRF,,3,Naturföroreningar,ACTIVE
+RYF-VHD-OAY,,2,Ekologi,ACTIVE
+RYF-VHD-OAY-CBT,"Ett system av växter, djur och bakterier relaterade till varandra i sin fysikaliska eller kemiska miljö",3,Ekosystem,ACTIVE
+RYF-VHD-OAY-DLT,,3,Djur,ACTIVE
+RYF-VHD-OAY-DLT-XUZ,,4,Rovdjur,ACTIVE
+RYF-VHD-OAY-DLT-XUZ-MGE,,5,Varg,ACTIVE
+RYF-VHD-OAY-DLT-XUZ-TXW,,5,Kungsörn,ACTIVE
+RYF-VHD-OAY-DLT-XUZ-UVR,,5,Lodjur,ACTIVE
+RYF-VHD-OAY-DLT-XUZ-WEH,,5,Björn,ACTIVE
+RYF-VHD-OAY-DLT-XUZ-XOM,,5,Järv,ACTIVE
+RYF-VHD-OAY-JYG,"Icke inhemska växter, djur och andra organismer som tenderar att ta över inhemska arter",3,Invasiva arter,ACTIVE
+RYF-VHD-OAY-VCS,"Arter som riskerar att försvinna, till stor del på grund av förändringar i miljön, jakt, eller väder",3,Hotade arter,ACTIVE
+RYF-VHD-QTT,"Miljöfrågor om bland annat hav, sjöar, vattendrag och reservoarer, samt isar, glaciärer och nederbörd",2,Vatten,ACTIVE
+RYF-VHD-QTT-IGS,,3,Våtmarker,ACTIVE
+RYF-VHD-QTT-RVR,,3,Hav,ACTIVE
+RYF-VHD-QTT-VWZ,,3,Älvar & åar,ACTIVE
+RYF-VHD-ZKU,"Bevarande av ödemarker, flora och fauna, inklusive arter som hotas av utrotning",2,Bevarande av miljö,ACTIVE
+RYF-VHD-ZKU-HLP,,3,Miljöfrämjande arbete,ACTIVE
+RYF-VHD-ZKU-SBV,,3,Energibesparing,ACTIVE
+RYF-WHZ,,1,Väder,ACTIVE
+RYF-WHZ-IPU,"Numeriska fakta om vädret som temperatur, lufttryck, fuktighet och liknande",2,Väderstatistik,ACTIVE
+RYF-WHZ-LAW,Särskilda väderförhållanden såsom halofenomen och tromber,2,Väderfenomen,ACTIVE
+RYF-WHZ-MKN,Varningar till den allmänna befolkningen om kraftigt väder,2,Vädervarningar,ACTIVE
+RYF-WHZ-XTD,Förutsägelse av vädret i framtiden antingen kort eller lång sikt,2,Väderprognoser,ACTIVE
+RYF-WUU,,1,Hälsa & sjukvård,ACTIVE
+RYF-WUU-CNM,,2,Vårdyrken,INACTIVE
+RYF-WUU-CNM-BFZ,,3,Sjuksköterskor,INACTIVE
+RYF-WUU-CNM-BPE,,3,Undersköterskor,INACTIVE
+RYF-WUU-CNM-ZCQ,,3,Läkarkåren,INACTIVE
+RYF-WUU-JZK,,2,Sjukdomar & tillstånd,ACTIVE
+RYF-WUU-JZK-FBC,,3,Smittsam sjukdom,ACTIVE
+RYF-WUU-JZK-FBC-BSI,"Ett utbrott av något, vanligen sjukdomar, som sprider sig mellan människor",4,Epidemi,ACTIVE
+RYF-WUU-JZK-FBC-FRI,,4,Virussjukdomar,ACTIVE
+RYF-WUU-JZK-FBC-ORU,Epidemi som får spridning över stora delar av världen och drabbar många människor,4,Pandemi,ACTIVE
+RYF-WUU-JZK-HZI,,3,Fetma,ACTIVE
+RYF-WUU-JZK-PFT,,3,Fysisk skada,ACTIVE
+RYF-WUU-JZK-TAC,,3,Funktionshinder,ACTIVE
+RYF-WUU-JZK-WLI,,3,Missbruksvård,ACTIVE
+RYF-WUU-JZK-YIA,,3,Cancer,ACTIVE
+RYF-WUU-JZK-YMA,,3,Hjärt- & kärlsjukdomar,ACTIVE
+RYF-WUU-JZK-YSP,,3,Psykisk ohälsa,ACTIVE
+RYF-WUU-JZK-YSP-MXY,"Anorexi, bulimi, överätande och liknande sjukdomar",4,Ätstörningar,ACTIVE
+RYF-WUU-QNB,,2,Behandlingar,ACTIVE
+RYF-WUU-QNB-CIM,,3,Medicinska filosofier,ACTIVE
+RYF-WUU-QNB-CIM-CIL,,4,Traditionell kinesisk medicin,ACTIVE
+RYF-WUU-QNB-CIM-ING,"Behandling av hela människan, inklusive psykiska och sociala faktorer snarare än bara symptomen",4,Holistisk medicin,ACTIVE
+RYF-WUU-QNB-CIM-XCS,,4,Örtmedicin,ACTIVE
+RYF-WUU-QNB-LKJ,,3,Mediciner,ACTIVE
+RYF-WUU-QNB-LKJ-BIB,,4,Receptbelagda mediciner,ACTIVE
+RYF-WUU-QNB-OFX,,3,Medicinska tester,ACTIVE
+RYF-WUU-QNB-QUH,"Behandling av fysiska, psykiska eller medicinska tillstånd utan kirurgiskt ingrepp",3,Terapi,ACTIVE
+RYF-WUU-QNB-RCV,,3,Vacciner,ACTIVE
+RYF-WUU-SUX,,2,Vård,ACTIVE
+RYF-WUU-SUX-APJ,,3,Specialistvård,ACTIVE
+RYF-WUU-SUX-APJ-DZQ,,4,Akutsjukvård,ACTIVE
+RYF-WUU-SUX-APJ-EMC,,4,Obstetrik & gynekologi,ACTIVE
+RYF-WUU-SUX-APJ-FCV,,4,Kirurgi,ACTIVE
+RYF-WUU-SUX-APJ-GAB,,4,Psykiatri,ACTIVE
+RYF-WUU-SUX-APJ-ONW,,4,Allmänmedicin,ACTIVE
+RYF-WUU-SUX-APJ-RIY,,4,Ortopedi,ACTIVE
+RYF-WUU-SUX-APJ-RJV,,4,Pediatrik (barnsjukvård),ACTIVE
+RYF-WUU-SUX-APJ-VGT,"Reproduktiva tekniker som in vitro-fertilisering, IVF",4,Reproduktiv medicin,ACTIVE
+RYF-WUU-SUX-APJ-WDN,,4,Röntgen,ACTIVE
+RYF-WUU-SUX-APJ-XHQ,Läran om tumörsjukdomar. Medicinsk specialitet som fokuserar på tumörsjukdomar,4,Onkologi,ACTIVE
+RYF-WUU-SUX-APJ-ZDB,"Specialitet i åldrande och åldersrelaterade frågor, bland annat åldersrelaterade sjukdomar",4,Geriatrisk medicin,ACTIVE
+RYF-WUU-SUX-APJ-ZMA,,4,Ögonsjukvård,ACTIVE
+RYF-WUU-SUX-CJL,,3,Primärvård,ACTIVE
+RYF-WUU-SUX-CJL-VSJ,,4,Privata vårdcentraler,ACTIVE
+RYF-WUU-SUX-CQS,,3,Tandvård,ACTIVE
+RYF-WUU-SUX-MEF,,3,Äldreomsorg (Sjukvård),ACTIVE
+RYF-WUU-SUX-MRL,,3,Dietist,ACTIVE
+RYF-WUU-SUX-SFB,,3,Omsorg,ACTIVE
+RYF-WXT,,1,"Konflikter, krig & terrorism",ACTIVE
+RYF-WXT-ABT,"Våldshandling utformad för att höja rädsla hos ett folk, till exempel 11 september",2,Terroristattentat,ACTIVE
+RYF-WXT-ABT-NHU,"Användning av sprängladdningar mot människor, byggnader eller konstruktioner",3,Bombningar,ACTIVE
+RYF-WXT-ABT-QYW,Vapen som baseras på levande organismer. Ofta varianter av sjukdomar som mjältbrand eller smittkoppor. Biologiska vapen räknas som massförstörelsevapen,3,Biologiska vapen,ACTIVE
+RYF-WXT-AOH,"Störtandet av en etablerad regering genom en organiserad grupp, ofta militären eller ett politiskt parti",2,Statskupper,ACTIVE
+RYF-WXT-BND,"Missnöje bland befolkningen, vilket framgår av till exempel strejker, demonstrationer eller sabotage",2,Oroligheter,ACTIVE
+RYF-WXT-BND-ATO,En demonstration är en folkmassa som samlats för att offentligt uttrycka en opinion i en politisk eller annan fråga,3,Demonstrationer,ACTIVE
+RYF-WXT-BND-IBC,"Våldsam, destruktiv demonstration ofta involverar skada på individer och förstörelse av egendom",3,Upplopp,ACTIVE
+RYF-WXT-BND-IMS,En ofta våldsamma förändringar i ett lands statsskick genom inre krafter,3,Revolutioner,ACTIVE
+RYF-WXT-BND-JKN,Olydnad av medborgare med avsikt att störta regeringen,3,Uppror,ACTIVE
+RYF-WXT-CRN,Tvister mellan motsatta grupper som innebär användning av vapen,2,Beväpnade konflikter,ACTIVE
+RYF-WXT-CRN-BFS,Trupper som utför fredsbevarande operationer. Vanligast och mest känd är FN:s fredsbevarande styrkor,3,Fredsbevarande styrkor,ACTIVE
+RYF-WXT-CRN-GJG,"Människor, både civila och militära, saknade under eller efter fientlighet",3,Krigsoffer,ACTIVE
+RYF-WXT-CRN-NNP,Väpnade konflikter med en grupp eller land mot en annan,3,Krig,ACTIVE
+RYF-WXT-CRN-NNP-ACL,Väpnade konflikter mellan medlemmar av samma nation eller geografisk region,4,Inbördeskrig,ACTIVE
+RYF-WXT-CRN-NNP-KLE,Krigsförbrytelser utgörs av grova brott mot internationella humanitära rättsnormer som begås under väpnade konflikter,4,Krigsförbrytelse,ACTIVE
+RYF-WXT-CRN-QLT,Att ta över kontrollen i ett land eller en region med militära styrkor,3,Militär ockupation,ACTIVE
+RYF-WXT-CRN-VOL,"Anti-statliga åtgärder av hemliga grupper med hit-and-run tekniker eller sabotage, kidnappning och liknande",3,Gerillakrig,ACTIVE
+RYF-WXT-DTF,"Alla åtgärder för att återuppbygga samhälle, ekonomi och politiska system i ett område som drabbats av ett krig",2,Återuppbyggnad efter krig,ACTIVE
+RYF-WXT-DTF-QYO,Avlägsnande eller neutralisering av ammunition såsom landminor som återstår efter ett krig eller väpnade konflikter,3,Minröjning,ACTIVE
+RYF-WXT-DTF-UWH,Avskaffande eller minska vapen,3,Nedrustning av vapen,ACTIVE
+RYF-WXT-OJB,Åtgärder för att avsluta ett krig eller konflikt,2,Fredsprocess,ACTIVE
+RYF-WXT-OJB-LCQ,Disposition för att uppnå fred,3,Fredsplan,ACTIVE
+RYF-WXT-OJB-XGZ,Diskussioner mellan de stridande parterna på olika formella nivåer,3,Fredssamtal,ACTIVE
+RYF-WXT-QIC,"Människor fångade och fängslade på grund av sociala konflikter, politisk aktivitet under krig eller väpnad konflikt",2,Krigs- & politiska fångar,ACTIVE
+RYF-WXT-UBT,Dödande av många människor vid ett och samma tillfälle,2,Massakrer,ACTIVE
+RYF-WXT-UBT-QGE,"Avsiktliga och systematiska handlingar i syfte att helt eller delvis förinta en etnisk, religiös eller nationell grupp",3,Folkmord,ACTIVE
+RYF-XKI,,1,Kultur & nöje,ACTIVE
+RYF-XKI-BUS,,2,Medier,ACTIVE
+RYF-XKI-BUS-IFX,"Till exempel ""Tre Kronor"", ""Bonusfamiljen""",3,Tv-serier,ACTIVE
+RYF-XKI-BUS-NXX,"Till exempel ""Big Brother"", ""Gift vid första ögonkastet""",3,Reality-tv,ACTIVE
+RYF-XKI-BUS-NYP,"Till exempel ""På Spåret"", ""Quizza med P3""",3,Underhållningsprogram,ACTIVE
+RYF-XKI-BUS-PXU,Trendsättande personer som masskommunicerar med bland annat sociala medier,3,Influencers,ACTIVE
+RYF-XKI-BUS-RWA,Program som sänds av radiostationer,3,Radio,ACTIVE
+RYF-XKI-BUS-RXO,,3,Sociala medier,RYF-XKI-KHV,ACTIVE
+RYF-XKI-BUS-SBN,,3,Tidningar,RYF-XKI-FSW,ACTIVE
+RYF-XKI-BUS-TVB,,3,Journalistik,RYF-XKI-RDA,ACTIVE
+RYF-XKI-CDA,Om artikeln handlar om animerad konst. Till exempel tecknad eller datoranimerad film,2,Animation,ACTIVE
+RYF-XKI-DEG,"Används för historia om kultur. Till exempel återblick på kulturprofils arbete, hur en musikgenre uppstod",2,Kulturhistoria,ACTIVE
+RYF-XKI-FEY,,2,Musik,ACTIVE
+RYF-XKI-FEY-VVW,,3,Musikgenre,ACTIVE
+RYF-XKI-FEY-VVW-BJY,,4,Dansband,ACTIVE
+RYF-XKI-FEY-VVW-CRI,,4,Folkmusik,ACTIVE
+RYF-XKI-FEY-VVW-ISA,Traditionella musikgenrer med rötter från den amerikanska södern,4,Country & blues,ACTIVE
+RYF-XKI-FEY-VVW-LYB,,4,Metal,ACTIVE
+RYF-XKI-FEY-VVW-NQX,,4,Pop,ACTIVE
+RYF-XKI-FEY-VVW-OFH,Musik som följer klassiska strukturer rytm och harmoni,4,Klassisk musik,ACTIVE
+RYF-XKI-FEY-VVW-OYZ,,4,Barnkultur,RYF-XKI-KKX,INACTIVE
+RYF-XKI-FEY-VVW-QSI,,4,Jazz,ACTIVE
+RYF-XKI-FEY-VVW-XGJ,,4,Hiphop & RNB,ACTIVE
+RYF-XKI-FEY-VVW-XSC,,4,Electronic Dance Music (EDM),ACTIVE
+RYF-XKI-FEY-VVW-ZJU,,4,Rock,ACTIVE
+RYF-XKI-FEY-XYE,,3,Musikinstrument,ACTIVE
+RYF-XKI-FSW,,2,Tidningar,RYF-XKI-BUS-SBN,INACTIVE
+RYF-XKI-FXL,"Till exempel konserter, spelturneringar",2,Underhållningsevenemang,ACTIVE
+RYF-XKI-GJH,,2,Teater & musikal,ACTIVE
+RYF-XKI-GJH-DLL,Dramaföreställningar som är en satir över något som hänt under det gångna året,3,Revy,ACTIVE
+RYF-XKI-GJH-LNA,,3,Teater,ACTIVE
+RYF-XKI-GJH-TCH,,3,Musikteater,ACTIVE
+RYF-XKI-GJH-TCH-JMH,,4,Musikal,ACTIVE
+RYF-XKI-GJH-TCH-LEP,,4,Operett,ACTIVE
+RYF-XKI-HLO,"Till exempel nyheter om nattklubbar, krogar eller vimmel",2,Uteliv,ACTIVE
+RYF-XKI-IHA,"Till exempel diskussioner om när man skall slänga ut julgranen, hur man bör hälsa på främlingar",2,Seder & traditioner,ACTIVE
+RYF-XKI-ISL,"Alla typer av händelser med en viss kulturell bakgrund, inte nödvändigtvis knuten till en fast tillfälle eller datum",2,Kulturell fest eller händelse,ACTIVE
+RYF-XKI-IUV,"Används till artiklar om arkitektur. Till exempel arkitekturtävlingar, åsikter om byggnaders utseende",2,Arkitektur,ACTIVE
+RYF-XKI-JIJ,,2,Film,ACTIVE
+RYF-XKI-JUJ,,2,Opera,ACTIVE
+RYF-XKI-KHV,,2,Sociala medier,RYF-XKI-BUS-RXO,INACTIVE
+RYF-XKI-KKX,,2,Barnkultur,RYF-XKI-FEY-VVW-OYZ,ACTIVE
+RYF-XKI-LNE,,2,Visuella konstformer,ACTIVE
+RYF-XKI-LNE-FAE,,3,Fotografi,ACTIVE
+RYF-XKI-LNE-QWZ,,3,Konsthantverk,ACTIVE
+RYF-XKI-LNE-QWZ-GLQ,,4,Träsnide,ACTIVE
+RYF-XKI-LNE-QWZ-TVO,,4,Smide,ACTIVE
+RYF-XKI-LNE-QWZ-VTV,,4,Textil,ACTIVE
+RYF-XKI-LNE-SNR,"Konstruktioner i keramik, sten, trä, metall eller andra fasta material i konstsyfte",3,Skulptur,ACTIVE
+RYF-XKI-LNE-THR,,3,Grafik,ACTIVE
+RYF-XKI-LNE-UZQ,,3,Måleri,ACTIVE
+RYF-XKI-LNE-VPL,,3,Teckning,ACTIVE
+RYF-XKI-PGP,"Använd för reportage om språk. Till exempel att kommunen stödjer ett nytt språk, språkhistoria",2,Språk,ACTIVE
+RYF-XKI-RDA,,2,Journalistik,RYF-XKI-BUS-TVB,INACTIVE
+RYF-XKI-SFU,,2,Bibliotek & museum,ACTIVE
+RYF-XKI-TMS,"Till exempel ""Bamse"", ""Fantomen"" och ""Nemi""",2,Tecknade serier,ACTIVE
+RYF-XKI-VME,,2,Ståuppkomik,ACTIVE
+RYF-XKI-WEG,,2,Dans,ACTIVE
+RYF-XKI-WEG-GZH,En teaterdansstil med fri stil snarare än formella gester,3,Modern dans,ACTIVE
+RYF-XKI-WEG-NLU,"En klassisk dansform baserad på formella gester, steg och ställningar",3,Balett,ACTIVE
+RYF-XKI-WEG-ZEZ,En typ av dans vanligtvis som en social aktivitet. Omfattar ceremoniell och folkdans,3,Traditionell dans,ACTIVE
+RYF-XKI-YBJ,"Till exempel Höga Kustenområdet, fornlämningar",2,Kulturarv,ACTIVE
+RYF-XKI-YFJ,,2,Litteratur,ACTIVE
+RYF-XKI-YFJ-HKG,,3,Poesi,ACTIVE
+RYF-XKI-YFJ-XZQ,"Litteratur som inte nödvändigtvis behöver baseras på fakta. Till exempel ""Harry Potter"" och ""Arn""",3,Skönlitteratur,ACTIVE
+RYF-XKI-YFJ-ZBW,Litteratur med fakta för att lära sig mer om ett ämne. Till exempel matematikböcker,3,Facklitteratur,ACTIVE
+RYF-YDR,,1,Skola & utbildning,ACTIVE
+RYF-YDR-BOB,"En typ av skola som inte administreras av lokala, regionala eller nationella myndigheter. Privatskolan förbehåller sig rätten att välja de elever som tas in på skolan och finansieras genom avgifter snarare än offentlig finansiering",2,Privatskola,ACTIVE
+RYF-YDR-CXG,,2,Lärarkåren,ACTIVE
+RYF-YDR-MHH,,2,Skolsystemet,ACTIVE
+RYF-YDR-MHH-DJZ,Verksamhet med barnomsorg och utbildning för barn åren innan den egentliga skolgången,3,Förskola,ACTIVE
+RYF-YDR-MHH-IRE,"Skolformen där elever lär sig grundläggande kunskaper, bland annat läsande och räknelära",3,Grundskola,ACTIVE
+RYF-YDR-MHH-LKU,En avgiftsfri och frivillig sekundärutbildning i Sverige för ungdomar som har gått ut grundskolan,3,Gymnasieskola,ACTIVE
+RYF-YDR-MHH-UAD,,3,Vidareutbildning,ACTIVE
+RYF-YDR-MHH-UAD-FEL,,4,Högskola,ACTIVE
+RYF-YDR-MHH-UAD-JTM,,4,Folkhögskola,ACTIVE
+RYF-YDR-MHH-UAD-LVQ,,4,Yrkesutbildning,ACTIVE
+RYF-YDR-MHH-UAD-PEA,,4,Vuxenutbildning,ACTIVE
+RYF-YDR-MHH-UAD-VTV,Universitet är ett högre lärosäte med forskning och utbildning. Till exempel Mittuniversitetet och Uppsala universitet,4,Universitet,ACTIVE
+RYF-YDR-MQP,"En skola som inte drivs av offentliga sektorn, men som huvudsakligen finansieras av skattemedel",2,Friskola,ACTIVE
+RYF-YDR-UER,En kommunal skola är öppen för alla och ingår i det offentliga skolväsendet i Sverige,2,Kommunal skola,ACTIVE
+RYF-YDR-WXH,,2,Undervisning & lärande,ACTIVE
+RYF-YDR-WXH-BQF,,3,Läroplan,ACTIVE
+RYF-YDR-WXH-EDS,,3,Betyg,ACTIVE
+RYF-YDR-WXH-KSV,En mätning av elevers prestation,3,Prov,ACTIVE
+RYF-YDR-YJA,"Driftsform mellan privat och offentligt för skolor, fritidshem och förskolor",2,Föräldrakooperativ,ACTIVE
+RYF-ZEI,"Sociala aspekter, lagar, regler och förhållanden som påverkar sysselsättning och arbetslöshet",1,Arbetsmarknad,ACTIVE
+RYF-ZEI-CLV,"De regler och lagar som reglerar en anställning, till exempel MBL",2,Anställningsförhållanden,ACTIVE
+RYF-ZEI-CLV-AGH,,3,Löner & förmåner,ACTIVE
+RYF-ZEI-CLV-PSL,Skillnader i uppfattning om till exempel arbetsförhållanden eller löner,3,Konflikter,ACTIVE
+RYF-ZEI-CLV-PSL-DLO,Arbetstagares yttersta stridsåtgärd vid arbetskonflikter,4,Strejk,ACTIVE
+RYF-ZEI-CLV-QGD,Vanligtvis skriftliga avtal som täcker en specifik klass av arbetare och deras anställnignsvillkor,3,Kollektivavtal,ACTIVE
+RYF-ZEI-CLV-QGD-AMA,,4,Avtalsfrågor (löner),ACTIVE
+RYF-ZEI-CLV-QGD-FZM,,4,Avtalsfrågor (arbetsregler),ACTIVE
+RYF-ZEI-CLV-QGD-IEB,,4,Avtalsfrågor (sjukvård),INACTIVE
+RYF-ZEI-IVG,"Frågor som rör pensionen, till exempel pensionsålder, förtidspension med mera",2,Pension,RYF-IXA-QED-HZF,INACTIVE
+RYF-ZEI-QWT,,2,Arbetslöshet,ACTIVE
+RYF-ZEI-QWT-FSK,,3,Arbetslöshetsersättning,ACTIVE
+RYF-ZEI-QWT-IIW,,3,Uppsägningar,ACTIVE
+RYF-ZEI-QWT-QJQ,Att ändra inriktning på sitt arbetsliv genom utbildning till något annat än man ägnat sig åt tidigare,3,Omskolning,ACTIVE
+RYF-ZEI-RYD,"Lagar som styr anställningsförhållanden, arbetsrätt, arbetsmiljö, arbetstagarinflytande och arbetsmarknadsreglering",2,Arbetslagstiftningen,ACTIVE
+RYF-ZEI-RYD-YZX,Regler och rutiner för att garantera arbetstagarnas hälsa,3,Arbetsmiljöfrågor,ACTIVE
+RYF-ZEI-YYF,Kompletterande utbildning för att förbättra nuvarande kompetens,2,Kompetensutveckling,ACTIVE
