@@ -1,0 +1,6 @@
+modifications:
+- action: MOVE
+  code: RYF-IXA-KEV-RQL-MGE
+  name: Livsmedelshandel
+  newParentCode: RYF-IXA-KEV-RQL-QQF
+  newParentName: Dagligvaror

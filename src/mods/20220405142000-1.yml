@@ -1,0 +1,207 @@
+modifications:
+- action: ADD
+  parentCode: RYF-ZEI
+  parentName: Arbetsmarknad
+  name: Distansarbete
+  level: 2
+
+- action: UPDATE
+  code: RYF-BIZ-WZJ-JDU
+  name: Korruption
+  newName: Korruption
+  description: Person som missbrukar offentlig makt för privat vinning. Motverkas med antikorruption.
+
+- action: ADD
+  parentCode: RYF-BIZ-WZJ
+  parentName: Brottslighet
+  name: Skottlossning
+  level: 3
+
+- action: ADD
+  parentCode: RYF-BIZ
+  parentName: Brott, lag och rätt
+  name: Förtal
+  level: 2
+
+- action: ADD
+  parentCode: RYF-BIZ
+  parentName: Brott, lag och rätt
+  name: Säkerhet
+  level: 2
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-IRW
+  parentName: Byggnation
+  name: Ombyggnad
+  level: 4
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-WBI
+  parentName: Finansiella resultat
+  name: Hållbarhetsredovisning
+  level: 4
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-RQL
+  parentName: Handel
+  name: Butik
+  level: 4
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-RQL
+  parentName: Handel
+  name: Franchise
+  level: 4
+
+- action: MOVE
+  code: RYF-IXA-KEV-RQL-MGE-ICQ
+  name: Matfusk
+  newParentCode: RYF-IXA-KEV-RQL-QQF
+  newParentName: Dagligvaror
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-RQL-QQF
+  parentName: Dagligvaror
+  name: Livsmedel
+  level: 5
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-XZV
+  parentName: Kemisk industri
+  name: Kemikalier
+  level: 4
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-XZV
+  parentName: Kemisk industri
+  name: Plast
+  level: 4
+
+- action: ADD
+  parentCode: RYF-IXA-KEV
+  parentName: Näringsliv
+  name: Leverantör
+  level: 3
+
+- action: ADD
+  parentCode: RYF-IXA-KEV
+  parentName: Näringsliv
+  name: Nedläggning
+  level: 3
+
+- action: ADD
+  parentCode: RYF-IXA-QED
+  parentName: Samhällsekonomi
+  name: Ekonomisk hållbarhet
+  level: 3
+
+- action: ADD
+  parentCode: RYF-IXA-QED
+  parentName: Samhällsekonomi
+  name: Index
+  level: 3
+
+- action: UPDATE
+  code: RYF-IXA-QED-CPU
+  name: Skatter
+  newName: Skatt
+
+- action: ADD
+  parentCode: RYF-WUU-QNB
+  parentName: Behandlingar
+  name: Första hjälpen
+  level: 3
+
+- action: UPDATE
+  code: RYF-VHD-GUZ
+  name: Klimatförändring
+  newName: Klimat
+
+- action: ADD
+  parentCode: RYF-VHD-GUZ
+  parentName: Klimat # Nytt namn
+  name: Klimatförändring
+  level: 3
+
+- action: UPDATE
+  code: RYF-VHD-IFE-RMK
+  name: Miljöförstörning
+  newName: Miljöförstöring
+
+- action: MOVE
+  code: RYF-VHD-ZKU-OXB
+  name: Biologisk mångfald
+  newParentCode: RYF-VHD-HXU
+  newParentName: Djur & natur
+
+- action: MOVE
+  code: RYF-VHD-ZKU-KIT
+  name: Nationalparker & naturreservat
+  newParentCode: RYF-VHD-HXU
+  newParentName: Djur & natur
+
+- action: MOVE
+  code: RYF-VHD-ZKU-NHV
+  name: Naturvård
+  newParentCode: RYF-VHD-HXU
+  newParentName: Djur & natur
+
+- action: INACTIVATE
+  code: RYF-WXT-UUC-VDS
+  name: Säkerhet
+
+- action: UPDATE
+  code: RYF-XKI-CUP-NCO-LTB
+  name: Non-fungible token, NTF
+  newName: Non-fungible token, NFT
+
+- action: ADD
+  parentCode: RYF-CUW
+  parentName: Personligt
+  name: Pubertet
+  level: 2
+
+- action: ADD
+  parentCode: RYF-KNI
+  parentName: Politik
+  name: Näringspolitik
+  level: 2
+
+- action: ADD
+  parentCode: RYF-HPT
+  parentName: Samhälle
+  name: Certifiering & standard
+  level: 2
+
+- action: ADD
+  parentCode: RYF-HPT
+  parentName: Samhälle
+  name: Idéburen sektor
+  level: 2
+  description: Idéburen sektor är ett begrepp för att beskriva den tredje sektor som befinner sig mellan offentlig sektor och privat sektor.
+
+- action: ADD
+  parentCode: RYF-HPT
+  parentName: Samhälle
+  name: Mångfald
+  level: 2
+
+- action: ADD
+  parentCode: RYF-HPT-XRQ
+  parentName: Välfärd
+  name: Försörjningsstöd
+  level: 3
+
+- action: ADD
+  parentCode: RYF-QPR
+  parentName: Sport
+  name: Matchfixning
+  level: 2
+
+- action: MOVE
+  code: RYF-XRZ-UNI
+  name: Motorproblem
+  newParentCode: RYF-XRZ-QWV
+  newParentName: Motor
+
+
