@@ -204,4 +204,6 @@ modifications:
   newParentCode: RYF-XRZ-QWV
   newParentName: Motor
 
-
+- action: INACTIVATE
+  code: RYF-HPT-YGE-FAZ
+  name: Parkering
