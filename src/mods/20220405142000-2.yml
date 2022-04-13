@@ -4,3 +4,8 @@ modifications:
   name: Livsmedelshandel
   newParentCode: RYF-IXA-KEV-RQL-QQF
   newParentName: Dagligvaror
+
+- action: UPDATE
+  code: RYF-ZEI-QBA
+  name: Arbete
+  newName: Arbetsmarknad

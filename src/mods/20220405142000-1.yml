@@ -66,6 +66,12 @@ modifications:
   level: 5
 
 - action: ADD
+  parentCode: RYF-IXA-KEV-RQL-QQF
+  parentName: Dagligvaror
+  name: Lokalproducerat livsmedel
+  level: 5
+
+- action: ADD
   parentCode: RYF-IXA-KEV-XZV
   parentName: Kemisk industri
   name: Kemikalier
@@ -207,3 +213,85 @@ modifications:
 - action: INACTIVATE
   code: RYF-HPT-YGE-FAZ
   name: Parkering
+
+- action: UPDATE
+  code: RYF-ZEI
+  name: Arbetsmarknad
+  newName: Arbete
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-RFJ
+  parentName: Restaurang & gastronomi
+  name: Kafé & konditori
+  level: 4
+
+- action: ADD
+  parentCode: RYF-IXA-KEV
+  parentName: Näringsliv
+  name: Rennäring
+  level: 3
+
+- action: UPDATE
+  code: RYF-XKI-BUS
+  name: Medier
+  newName: Media
+
+- action: ADD
+  parentCode: RYF-TKT-ZCD
+  parentName: Dryck
+  name: Kaffe
+  level: 3
+
+- action: ADD
+  parentCode: RYF-TKT-ZCD
+  parentName: Dryck
+  name: Te
+  level: 3
+
+- action: INACTIVATE
+  code: RYF-TKT-ZCD-ONA
+  name: Varma drycker
+
+- action: ADD
+  parentCode: RYF-KNI
+  parentName: Politik
+  name: Utbildningspolitik
+  level: 2
+
+- action: ADD
+  parentCode: RYF-HPT-YGE-WRY
+  parentName: Elnät
+  name: Strömavbrott
+  level: 4
+
+- action: ADD
+  parentCode: RYF-HPT-YGE-EWJ
+  parentName: Internet
+  name: Internet of things, IOT
+  level: 4
+
+- action: ADD
+  parentCode: RYF-HPT-XRQ-UFA
+  parentName: Barnomsorg
+  name: Pedagogisk omsorg
+  level: 4
+  description: Familjedaghem
+
+- action: ADD
+  parentCode: RYF-YDR
+  parentName: Internet
+  name: Skola & utbildning
+  level: 2
+
+- action: ADD
+  parentCode: RYF-XRZ
+  parentName: Trafik, kommunikation & fordon
+  name: Trafiksäkerhet
+  level: 2
+
+- action: UPDATE
+  code: RYF-XRZ-OOW-MNK
+  name: A-traktor & Epa-traktor
+  newName: A-traktor
+  description: A-traktor är ett motordrivet fordon som består av en ombyggd bil med maxhastighet 30 km/h. Numera används A-traktorn, som ofta kallas Epatraktor, främst  av ungdomar innan de får ta körkort för personbil
+
