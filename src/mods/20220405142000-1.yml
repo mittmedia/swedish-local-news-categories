@@ -295,3 +295,32 @@ modifications:
   newName: A-traktor
   description: A-traktor är ett motordrivet fordon som består av en ombyggd bil med maxhastighet 30 km/h. Numera används A-traktorn, som ofta kallas Epatraktor, främst  av ungdomar innan de får ta körkort för personbil
 
+- action: ADD
+  parentCode: RYF-WUU-JZK-VRS-OQO
+  parentName: Coronavirus
+  name: Covid-19
+  level: 5
+
+- action: ADD
+  parentCode: RYF-WUU-SUX-IGS
+  parentName: Patient
+  name: Vårdskada
+  level: 4
+
+- action: ADD
+  parentCode: RYF-HPT-JLE
+  parentName: Internationellt bistånd
+  name: Hjälpsändning
+  level: 3
+
+- action: ADD
+  parentCode: RYF-XRZ
+  parentName: Trafik, kommunikation & fordon
+  name: Trafik
+  level: 2
+
+- action: ADD
+  parentCode: RYF-XRZ
+  parentName: Trafik, kommunikation & fordon
+  name: Vägarbete
+  level: 2
