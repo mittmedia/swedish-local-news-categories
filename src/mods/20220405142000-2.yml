@@ -9,3 +9,73 @@ modifications:
   code: RYF-ZEI-QBA
   name: Arbete
   newName: Arbetsmarknad
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-RQL-XXX # Betalning från -1
+  parentName: Betalning
+  name: Betallösning
+  level: 5
+
+- action: INACTIVATE
+  code: RYF-IXA-KEV-MCZ-HLJ
+  name: Dagstidningar & magasin
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-XXX # ID från -1
+  parentName: Marknadsföring # Nytt namn från -1
+  name: Kommunikation
+  level: 4
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-XXX # ID från -1
+  parentName: Marknadsföring # Nytt namn från -1
+  name: Sponsring
+  level: 4
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-XXX # ID från -1
+  parentName: Marknadsföring # Nytt namn från -1
+  name: Varumärkesstrategi
+  level: 4
+
+- action: ADD
+  parentCode: RYF-WUU-QNB-XXX # ID från -1
+  parentName: Bild- & funktionsmedicin
+  name: Ekg
+  level: 4
+
+- action: MOVE
+  code: RYF-WUU-SUX-APJ-WDN
+  name: Röntgen
+  newParentCode: RYF-WUU-QNB-XXX # ID från -1
+  newParentName: Bild- & funktionsmedicin
+
+- action: ADD
+  parentCode: RYF-WUU-XXX  # ID från -1
+  parentName: Kvinnohälsa
+  name: Mödrahälsovård
+  level: 3
+
+- action: ADD
+  parentCode: RYF-WUU-JZK-XXX  # ID från -1
+  parentName: Ledsjukdom
+  name: Artros
+  level: 4
+
+- action: ADD
+  parentCode: RYF-WUU-JZK-XXX  # ID från -1
+  parentName: Ledsjukdom
+  name: Reumatism
+  level: 4
+
+- action: MOVE
+  code: RYF-WUU-JZK-VRS
+  name: Virussjukdom # Nytt namn från -1
+  newParentCode: RYF-WUU-JZK-QTH
+  newParentName: Infektionssjukdomar
+
+- action: UPDATE
+  code: RYF-XRZ
+  name: Trafik, kommunikation & fordon
+  newName: Trafik & fordon
+

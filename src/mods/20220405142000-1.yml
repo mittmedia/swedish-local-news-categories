@@ -296,10 +296,10 @@ modifications:
   description: A-traktor är ett motordrivet fordon som består av en ombyggd bil med maxhastighet 30 km/h. Numera används A-traktorn, som ofta kallas Epatraktor, främst  av ungdomar innan de får ta körkort för personbil
 
 - action: ADD
-  parentCode: RYF-WUU-JZK-VRS-OQO
-  parentName: Coronavirus
+  parentCode: RYF-WUU-JZK-VRS
+  parentName: Virussjukdomar
   name: Covid-19
-  level: 5
+  level: 4
 
 - action: ADD
   parentCode: RYF-WUU-SUX-IGS
@@ -324,3 +324,197 @@ modifications:
   parentName: Trafik, kommunikation & fordon
   name: Vägarbete
   level: 2
+
+- action: ADD
+  parentCode: RYF-IXA-KEV
+  parentName: Näringsliv
+  name: Affärsutveckling
+  level: 3
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-RQL
+  parentName: Handel
+  name: Betalning
+  level: 4
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-RQL
+  parentName: Handel
+  name: Cityhandel
+  level: 4
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-RQL
+  parentName: Handel
+  name: Handelsområde
+  level: 4
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-RQL
+  parentName: Handel
+  name: Kundlojalitet
+  level: 4
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-RQL
+  parentName: Handel
+  name: Kundmöte
+  level: 4
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-RQL
+  parentName: Handel
+  name: Köpupplevelse
+  level: 4
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-RQL
+  parentName: Handel
+  name: Marknadstrend
+  level: 4
+
+- action: UPDATE
+  code: RYF-HPT-UYY-YQC
+  name: Köpcentrum & gallerior
+  newName: Köpcentrum & galleria
+
+- action: MOVE
+  code: RYF-HPT-UYY-YQC
+  name: Köpcentrum & galleria # Nytt namn ovan
+  newParentCode: RYF-IXA-KEV-RQL
+  newParentName: Handel
+
+- action: MOVE
+  code: RYF-IXA-KEV-MCZ-HLJ-MBC
+  name: Nyhetsmedier
+  newParentCode: RYF-IXA-KEV-MCZ
+  newParentName: Mediemarknaden
+  
+- action: MOVE
+  code: RYF-IXA-KEV-MCZ-HLJ-AHG
+  name: Tidskrifter
+  newParentCode: RYF-IXA-KEV-MCZ
+  newParentName: Mediemarknaden
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-MCZ
+  parentName: Mediemarknaden
+  name: Dagspress
+  level: 4
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-MCZ
+  parentName: Mediemarknaden
+  name: Kvällspress
+  level: 4
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-MCZ
+  parentName: Mediemarknaden
+  name: Prenumeration
+  level: 4
+
+- action: UPDATE
+  code: RYF-IXA-KEV-MCZ-LRX
+  name: Reklam & Pr
+  newName: Marknadsföring
+
+- action: MOVE
+  code: RYF-IXA-KEV-MCZ-LRX
+  name: Marknadsföring # Nytt namn ovan
+  newParentCode: RYF-IXA-KEV
+  newParentName: Näringsliv
+
+- action: ADD
+  parentCode: RYF-WUU-QNB
+  parentName: Behandlingar
+  name: Ambulanssjukvård
+  level: 3
+
+- action: ADD
+  parentCode: RYF-WUU-QNB
+  parentName: Behandlingar
+  name: Bild- & funktionsmedicin
+  level: 3
+
+- action: ADD
+  parentCode: RYF-WUU
+  parentName: Hälsa & sjukvård
+  name: Kvinnohälsa
+  level: 2
+
+- action: ADD
+  parentCode: RYF-WUU
+  parentName: Hälsa & sjukvård
+  name: Omvårdnad
+  level: 2
+
+- action: ADD
+  parentCode: RYF-WUU-JZK-YMA
+  parentName: Hjärt- & kärlsjukdomar
+  name: Förmaksflimmer
+  level: 4
+
+- action: MOVE
+  code: RYF-WUU-JZK-YMA-PDK
+  name: Stroke
+  newParentCode: RYF-WUU-JZK-IDJ
+  newParentName: Neurologiska sjukdomar
+
+- action: ADD
+  parentCode: RYF-WUU-JZK
+  parentName: Sjukdomar, tillstånd och diagnoser
+  name: Ledsjukdom
+  level: 3
+
+- action: ADD
+  parentCode: RYF-WUU-JZK
+  parentName: Sjukdomar, tillstånd och diagnoser
+  name: Muskelsjukdom
+  level: 3
+
+- action: UPDATE
+  code: RYF-WUU-JZK-IDJ
+  name: Neurologiska sjukdomar
+  newName: Neurologisk sjukdom
+
+- action: UPDATE
+  code: RYF-WUU-JZK-WPF
+  name: Sharlakansfeber
+  newName: Scharlakansfeber
+
+- action: ADD
+  parentCode: RYF-WUU-JZK
+  parentName: Sjukdomar, tillstånd och diagnoser
+  name: Skelettsjukdom
+  level: 3
+
+- action: UPDATE
+  code: RYF-WUU-JZK-VRS
+  name: Virussjukdomar
+  newName: Virussjukdom
+
+- action: UPDATE
+  code: RYF-WUU-SUX-APJ-ZDB
+  name: Geriatrisk medicin
+  newName: Geriatrik
+
+- action: UPDATE
+  code: RYF-WUU-QNB-LKJ
+  name: Mediciner
+  newName: Läkemedel
+
+- action: UPDATE
+  code: RYF-WUU-QNB-LKJ-BIB
+  name: Receptbelagda mediciner
+  newName: Receptbelagt läkemedel
+
+- action: UPDATE
+  code: RYF-WUU-QNB-LKJ-LSD
+  name: Smärtlindrande medicin & behandling
+  newName: Smärtlindrande läkemedel
+
+- action: UPDATE
+  code: RYF-WUU-QNB-RCV
+  name: Vacciner
+  newName: Vaccin
