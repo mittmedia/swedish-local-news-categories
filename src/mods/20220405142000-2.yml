@@ -35,7 +35,13 @@ modifications:
 - action: ADD
   parentCode: RYF-IXA-KEV-XXX # ID från -1
   parentName: Marknadsföring # Nytt namn från -1
-  name: Varumärkesstrategi
+  name: Greenwashing
+  level: 4
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-XXX # ID från -1
+  parentName: Marknadsföring # Nytt namn från -1
+  name: Kampanj
   level: 4
 
 - action: ADD
@@ -78,4 +84,40 @@ modifications:
   code: RYF-XRZ
   name: Trafik, kommunikation & fordon
   newName: Trafik & fordon
+
+- action: ADD
+  parentCode: RYF-ZEI-CZS-XXX  # ID från -1
+  parentName: Arbetstid
+  name: Schemaläggning
+  level: 4
+
+- action: ADD
+  parentCode: RYF-ZEI-CZS-XXX  # ID från -1
+  parentName: Arbetstid
+  name: Övertid
+  level: 4
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-RQL-XXX  # ID från -1
+  parentName: Butik
+  name: Butikskoncept
+  level: 5
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-RQL-XXX  # ID från -1
+  parentName: Butik
+  name: Obemannade butiker
+  level: 5
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-RQL
+  parentName: Handel
+  name: Kundklubb
+  level: 4
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-RQL
+  parentName: Handel
+  name: Lågprishandel
+  level: 4
 

@@ -518,3 +518,182 @@ modifications:
   code: RYF-WUU-QNB-RCV
   name: Vacciner
   newName: Vaccin
+
+- action: ADD
+  parentCode: RYF-ZEI-RYD-YZX
+  parentName: Arbetsmiljö
+  name: Arbetsmiljöbrott
+  level: 4
+
+- action: ADD
+  parentCode: RYF-ZEI-CZS
+  parentName: Personal- & anställning
+  name: Arbetstid
+  level: 3
+
+- action: UPDATE
+  code: RYF-IXA-KEV-MCZ-LRX-AKK
+  name: Innehållsreklam
+  newName: Content marketing
+
+- action: UPDATE
+  code: RYF-IXA-KEV-MCZ-LRX-ZPE
+  name: Datamarknadsföring
+  newName: Performance marketing
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-CBT
+  parentName: Strategi
+  name: Varumärkesstrategi
+  level: 4
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-CBT
+  parentName: Strategi
+  name: Kommunikationsstrategi
+  level: 4
+
+- action: UPDATE
+  code: RYF-IXA-KEV-RSE
+  name: Nyetableringar
+  newName: Nyetablering
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-EST
+  parentName: Innovation
+  name: Patent
+  level: 4
+
+- action: ADD
+  parentCode: RYF-BIZ-XYS
+  parentName: Lagstiftning
+  name: Upphovsrätt
+  level: 3
+
+- action: UPDATE
+  code: RYF-IXA-KEV-OXW
+  name: Patent, upphovsrätt & varumärke
+  newName: Varumärke
+
+- action: ADD
+  parentCode: RYF-IXA-QED
+  parentName: Samhällsekonomi
+  name: Hälsoekonomi
+  level: 3
+
+- action: ADD
+  parentCode: RYF-WUU-QNB
+  parentName: Behandlingar
+  name: Kemoterapi
+  level: 3
+
+- action: ADD
+  parentCode: RYF-WUU-QNB
+  parentName: Behandlingar
+  name: Strålbehandling
+  level: 3
+
+- action: ADD
+  parentCode: RYF-WUU
+  parentName: Behandlingar
+  name: Hälsa & sjukvård
+  level: 2
+
+- action: ADD
+  parentCode: RYF-WUU-JZK-YIA
+  parentName: Cancer
+  name: Sköldkörtelcancer
+  level: 4
+
+- action: UPDATE
+  code: RYF-WUU-JZK-PFT-EYR
+  name: Förlossningsskador
+  newName: Förlossningsskada
+
+- action: MOVE
+  code: RYF-WUU-JZK-PFT-EYR
+  name: Förlossningsskada # nytt namn ovan
+  newParentCode: RYF-WUU-JZK-LPE
+  newParentName: Gravidåkommor
+
+- action: MOVE
+  code: RYF-WUU-JZK-PFT-YTO
+  name: Förslitningsskada
+  newParentCode: RYF-WUU-JZK
+  newParentName: Sjukdomar, tillstånd och diagnoser
+
+- action: MOVE
+  code: RYF-WUU-JZK-PFT-MKR
+  name: Idrottsskada
+  newParentCode: RYF-WUU-JZK
+  newParentName: Sjukdomar, tillstånd och diagnoser
+
+- action: MOVE
+  code: RYF-WUU-JZK-PFT-TTZ
+  name: Värk & Smärta
+  newParentCode: RYF-WUU-JZK
+  newParentName: Sjukdomar, tillstånd och diagnoser
+
+- action: ADD
+  parentCode: RYF-WUU-SUX-IGS
+  parentName: Patient
+  name: Patientsekretess
+  level: 4
+
+- action: ADD
+  parentCode: RYF-WUU-SUX-APJ
+  parentName: Specialistvård
+  name: Endokrinologi
+  level: 4
+
+- action: ADD
+  parentCode: RYF-WUU-SUX-APJ
+  parentName: Specialistvård
+  name: Urologi
+  level: 4
+
+- action: ADD
+  parentCode: RYF-WUU-SUX-APJ-FCV
+  parentName: Kirurgi
+  name: Fetmakirurgi
+  level: 5
+
+- action: ADD
+  parentCode: RYF-WUU-SUX-APJ-FCV
+  parentName: Kirurgi
+  name: Neurokirurgi
+  level: 5
+
+- action: ADD
+  parentCode: RYF-WUU-SUX-APJ-FCV
+  parentName: Kirurgi
+  name: Thoraxkirurgi
+  level: 5
+
+- action: UPDATE
+  code: RYF-XKI-BUS-IGO
+  name: Poddar
+  newName: Podcast
+
+- action: UPDATE
+  code: RYF-TKT-KXM-DFM
+  name: Föreningsliv & frivilligverksamhet
+  newName: Frivilligverksamhet
+
+- action: ADD
+  parentCode: RYF-TKT-KXM-DFM
+  parentName: Frivilligverksamhet # Nytt namn ovan
+  name: Föreningsliv
+  level: 4
+
+- action: UPDATE
+  code: RYF-CUW-GIV-UVB-TGE
+  name: Barnlekar & leksaker
+  newName: Lek & leksaker
+
+- action: MOVE
+  code: RYF-CUW-GIV-UVB-TGE
+  name: Lek & leksaker
+  newParentCode: RYF-CUW-GIV-CLO
+  newParentName: Barn
+
