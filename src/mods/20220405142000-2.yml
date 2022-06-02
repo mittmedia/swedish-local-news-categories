@@ -112,12 +112,36 @@ modifications:
 - action: ADD
   parentCode: RYF-IXA-KEV-RQL
   parentName: Handel
-  name: Kundklubb
-  level: 4
-
-- action: ADD
-  parentCode: RYF-IXA-KEV-RQL
-  parentName: Handel
   name: Lågprishandel
   level: 4
 
+- action: ADD
+  parentCode: RYF-IXA-KEV-RQL-XXXX # ID från -1
+  parentName: Kund
+  name: Kundklubb
+  level: 5
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-RQL-XXXX # ID från -1
+  parentName: Kund
+  name: Kundlojalitet
+  level: 5
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-RQL-XXXX # ID från -1
+  parentName: Kund
+  name: Kundmöte
+  level: 5
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-RQL-XXXX # ID från -1
+  parentName: Kund
+  name: Kundbeteende
+  level: 5
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-RQL-XXXX # ID från -1
+  parentName: Kund
+  name: Kundrelation
+  level: 5
+  

@@ -352,13 +352,13 @@ modifications:
 - action: ADD
   parentCode: RYF-IXA-KEV-RQL
   parentName: Handel
-  name: Kundlojalitet
+  name: Kund
   level: 4
 
 - action: ADD
   parentCode: RYF-IXA-KEV-RQL
   parentName: Handel
-  name: Kundmöte
+  name: Pop up-store
   level: 4
 
 - action: ADD
@@ -697,3 +697,82 @@ modifications:
   newParentCode: RYF-CUW-GIV-CLO
   newParentName: Barn
 
+- action: ADD
+  parentCode: RYF-ZEI-CZS-JZU
+  parentName: Nyanställning
+  name: Utnämning
+  level: 4
+
+- action: INACTIVATE
+  code: RYF-BIZ-CRQ
+  name: Juridik
+
+- action: ADD
+  parentCode: RYF-BIZ-XSV
+  parentName: Rättsprocessen
+  name: Skiljedom
+  level: 3
+
+- action: ADD
+  parentCode: RYF-BIZ-XSV
+  parentName: Rättsprocessen
+  name: Tvistemål
+  level: 3
+
+- action: ADD
+  parentCode: RYF-IXA-CVI-MAB
+  parentName: Aktier
+  name: Onoterat bolag
+  level: 4
+
+- action: UPDATE
+  code: RYF-IXA-KEV-UBU-WTN
+  name: Elproduktion & distribution
+  newName: Elöverföring
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-TOY-FDT
+  parentName: Fastighetsförvaltning
+  name: Proptech
+  level: 5
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-TOY-CSZ
+  parentName: Uthyrning
+  name: Korttidsuthyrning
+  level: 5
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-TOY-GGM
+  parentName: Samhällsfastighet
+  name: Försvarsfastighet
+  level: 5
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-CYO
+  parentName: Logistik
+  name: Spedition
+  level: 4
+
+- action: ADD
+  parentCode: RYF-IXA-QED
+  parentName: Samhällsekonomi
+  name: Prisstatistik
+  level: 3
+
+- action: UPDATE
+  code: RYF-XKI-CUP-NCO-DAV
+  name: Design
+  newName: Formgivning
+
+- action: ADD
+  parentCode: RYF-HPT-SQQ
+  parentName: Bostadsmarknad
+  name: Bostadsbestånd
+  level: 3
+
+- action: ADD
+  parentCode: RYF-HPT-NLP-IGT
+  parentName: Solenergi
+  name: Solceller
+  level: 4
