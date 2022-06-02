@@ -727,7 +727,7 @@ modifications:
 
 - action: UPDATE
   code: RYF-IXA-KEV-UBU-WTN
-  name: Elproduktion & distribution
+  name: Elproduktion & distrubition # Ska vara så här...
   newName: Elöverföring
 
 - action: ADD
