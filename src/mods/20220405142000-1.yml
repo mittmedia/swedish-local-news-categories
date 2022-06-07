@@ -776,3 +776,7 @@ modifications:
   parentName: Solenergi
   name: Solceller
   level: 4
+
+- action: INACTIVATE
+  code: RYF-TKT-JCK-QCJ-IBZ
+  name: Festmat
