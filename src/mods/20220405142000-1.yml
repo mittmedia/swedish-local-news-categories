@@ -703,6 +703,12 @@ modifications:
   name: Utnämning
   level: 4
 
+- action: ADD
+  parentCode: RYF-ZEI-CZS-JZU
+  parentName: Förordnande
+  name: Utnämning
+  level: 4
+
 - action: INACTIVATE
   code: RYF-BIZ-CRQ
   name: Juridik
@@ -780,3 +786,22 @@ modifications:
 - action: INACTIVATE
   code: RYF-TKT-JCK-QCJ-IBZ
   name: Festmat
+
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-IRW
+  parentName: Byggnation
+  name: Bostadsbyggande
+  level: 4
+
+- action: ADD
+  parentCode: RYF-HPT-XRQ
+  parentName: Välfärd
+  name: Hem för vård eller boende, HVB-hem
+  level: 4
+
+- action: ADD
+  parentCode: RYF-HPT-XRQ-NEE
+  parentName: Äldreomsorg
+  name: Äldreboende
+  level: 4
