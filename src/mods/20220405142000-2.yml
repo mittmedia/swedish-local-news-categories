@@ -11,7 +11,7 @@ modifications:
   newName: Arbetsmarknad
 
 - action: ADD
-  parentCode: RYF-IXA-KEV-RQL-XXX # Betalning från -1
+  parentCode: RYF-IXA-KEV-RQL-AUU # Betalning från -1
   parentName: Betalning
   name: Betallösning
   level: 5
@@ -21,31 +21,31 @@ modifications:
   name: Dagstidningar & magasin
 
 - action: ADD
-  parentCode: RYF-IXA-KEV-XXX # ID från -1
+  parentCode: RYF-IXA-KEV-OFN # ID från -1
   parentName: Marknadsföring # Nytt namn från -1
   name: Kommunikation
   level: 4
 
 - action: ADD
-  parentCode: RYF-IXA-KEV-XXX # ID från -1
+  parentCode: RYF-IXA-KEV-OFN # ID från -1
   parentName: Marknadsföring # Nytt namn från -1
   name: Sponsring
   level: 4
 
 - action: ADD
-  parentCode: RYF-IXA-KEV-XXX # ID från -1
+  parentCode: RYF-IXA-KEV-OFN # ID från -1
   parentName: Marknadsföring # Nytt namn från -1
   name: Greenwashing
   level: 4
 
 - action: ADD
-  parentCode: RYF-IXA-KEV-XXX # ID från -1
+  parentCode: RYF-IXA-KEV-OFN # ID från -1
   parentName: Marknadsföring # Nytt namn från -1
   name: Kampanj
   level: 4
 
 - action: ADD
-  parentCode: RYF-WUU-QNB-XXX # ID från -1
+  parentCode: RYF-WUU-QNB-PGP # ID från -1
   parentName: Bild- & funktionsmedicin
   name: Ekg
   level: 4
@@ -53,23 +53,23 @@ modifications:
 - action: MOVE
   code: RYF-WUU-SUX-APJ-WDN
   name: Röntgen
-  newParentCode: RYF-WUU-QNB-XXX # ID från -1
+  newParentCode: RYF-WUU-QNB-PGP # ID från -1
   newParentName: Bild- & funktionsmedicin
 
 - action: ADD
-  parentCode: RYF-WUU-XXX  # ID från -1
+  parentCode: RYF-WUU-YYH  # ID från -1
   parentName: Kvinnohälsa
   name: Mödrahälsovård
   level: 3
 
 - action: ADD
-  parentCode: RYF-WUU-JZK-XXX  # ID från -1
+  parentCode: RYF-WUU-JZK-LIP  # ID från -1
   parentName: Ledsjukdom
   name: Artros
   level: 4
 
 - action: ADD
-  parentCode: RYF-WUU-JZK-XXX  # ID från -1
+  parentCode: RYF-WUU-JZK-LIP  # ID från -1
   parentName: Ledsjukdom
   name: Reumatism
   level: 4
@@ -86,25 +86,25 @@ modifications:
   newName: Trafik & fordon
 
 - action: ADD
-  parentCode: RYF-ZEI-CZS-XXX  # ID från -1
+  parentCode: RYF-ZEI-CZS-XBS  # ID från -1
   parentName: Arbetstid
   name: Schemaläggning
   level: 4
 
 - action: ADD
-  parentCode: RYF-ZEI-CZS-XXX  # ID från -1
+  parentCode: RYF-ZEI-CZS-XBS  # ID från -1
   parentName: Arbetstid
   name: Övertid
   level: 4
 
 - action: ADD
-  parentCode: RYF-IXA-KEV-RQL-XXX  # ID från -1
+  parentCode: RYF-IXA-KEV-RQL-VDC  # ID från -1
   parentName: Butik
   name: Butikskoncept
   level: 5
 
 - action: ADD
-  parentCode: RYF-IXA-KEV-RQL-XXX  # ID från -1
+  parentCode: RYF-IXA-KEV-RQL-VDC  # ID från -1
   parentName: Butik
   name: Obemannade butiker
   level: 5
@@ -116,32 +116,32 @@ modifications:
   level: 4
 
 - action: ADD
-  parentCode: RYF-IXA-KEV-RQL-XXXX # ID från -1
+  parentCode: RYF-IXA-KEV-RQL-BVO # ID från -1
   parentName: Kund
   name: Kundklubb
   level: 5
 
 - action: ADD
-  parentCode: RYF-IXA-KEV-RQL-XXXX # ID från -1
+  parentCode: RYF-IXA-KEV-RQL-BVO # ID från -1
   parentName: Kund
   name: Kundlojalitet
   level: 5
 
 - action: ADD
-  parentCode: RYF-IXA-KEV-RQL-XXXX # ID från -1
+  parentCode: RYF-IXA-KEV-RQL-BVO # ID från -1
   parentName: Kund
   name: Kundmöte
   level: 5
 
 - action: ADD
-  parentCode: RYF-IXA-KEV-RQL-XXXX # ID från -1
+  parentCode: RYF-IXA-KEV-RQL-BVO # ID från -1
   parentName: Kund
   name: Kundbeteende
   level: 5
 
 - action: ADD
-  parentCode: RYF-IXA-KEV-RQL-XXXX # ID från -1
+  parentCode: RYF-IXA-KEV-RQL-BVO # ID från -1
   parentName: Kund
   name: Kundrelation
   level: 5
-  
+
