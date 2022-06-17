@@ -57,6 +57,14 @@
             "status": "ACTIVE"
         },
         {
+            "code": "RYF-AKM-JXU",
+            "description": "",
+            "level": 2,
+            "name": "Krisberedskap",
+            "replaces": "RYF-HPT-ONC",
+            "status": "ACTIVE"
+        },
+        {
             "code": "RYF-AKM-QGJ",
             "description": "Alla typer av olyckor, till exempel trafikolyckor, arbetsplatsolyckor, utsläpp eller explosioner",
             "level": 2,
@@ -236,7 +244,7 @@
             "description": "",
             "level": 3,
             "name": "Torka",
-            "status": "ACTIVE"
+            "status": "INACTIVE"
         },
         {
             "code": "RYF-AKM-TGS-SHO",
@@ -260,6 +268,14 @@
             "status": "ACTIVE"
         },
         {
+            "code": "RYF-AKM-XCN",
+            "description": "",
+            "level": 2,
+            "name": "Översvämning",
+            "replaces": "RYF-WHZ-PDY",
+            "status": "ACTIVE"
+        },
+        {
             "code": "RYF-BIZ",
             "description": "",
             "level": 1,
@@ -271,6 +287,13 @@
             "description": "",
             "level": 2,
             "name": "Juridik",
+            "status": "INACTIVE"
+        },
+        {
+            "code": "RYF-BIZ-ECI",
+            "description": "",
+            "level": 2,
+            "name": "Säkerhet",
             "status": "ACTIVE"
         },
         {
@@ -278,6 +301,14 @@
             "description": "",
             "level": 2,
             "name": "Rättsväsendet",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-BIZ-EUH",
+            "description": "",
+            "level": 2,
+            "name": "Gränskontroll",
+            "replaces": "RYF-HPT-QQW",
             "status": "ACTIVE"
         },
         {
@@ -475,6 +506,13 @@
             "description": "",
             "level": 2,
             "name": "Brottslighet",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-BIZ-WZJ-BJO",
+            "description": "",
+            "level": 3,
+            "name": "Skottlossning",
             "status": "ACTIVE"
         },
         {
@@ -801,7 +839,7 @@
             "code": "RYF-BIZ-WZJ-NXU",
             "description": "",
             "level": 3,
-            "name": "Informationsverksamhet & spionage",
+            "name": "Spionage",
             "replaces": "RYF-BIZ-RER-TSI-PHV",
             "status": "ACTIVE"
         },
@@ -1128,6 +1166,13 @@
             "status": "ACTIVE"
         },
         {
+            "code": "RYF-BIZ-WZJ-VNP",
+            "description": "",
+            "level": 3,
+            "name": "Brottsoffer",
+            "status": "ACTIVE"
+        },
+        {
             "code": "RYF-BIZ-WZJ-XEY",
             "description": "",
             "level": 3,
@@ -1160,6 +1205,21 @@
             "description": "",
             "level": 4,
             "name": "Sexuellt övergrepp",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-BIZ-WZJ-ZPL",
+            "description": "",
+            "level": 3,
+            "name": "Hatbrott",
+            "replaces": "RYF-HPT-WYD",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-BIZ-XQN",
+            "description": "",
+            "level": 2,
+            "name": "Förtal",
             "status": "ACTIVE"
         },
         {
@@ -1380,6 +1440,13 @@
             "status": "INACTIVE"
         },
         {
+            "code": "RYF-BIZ-XSV-MPP",
+            "description": "",
+            "level": 3,
+            "name": "Skiljedom",
+            "status": "ACTIVE"
+        },
+        {
             "code": "RYF-BIZ-XSV-QGB",
             "description": "",
             "level": 3,
@@ -1425,6 +1492,13 @@
             "status": "ACTIVE"
         },
         {
+            "code": "RYF-BIZ-XSV-UVM",
+            "description": "",
+            "level": 3,
+            "name": "Tvistemål",
+            "status": "ACTIVE"
+        },
+        {
             "code": "RYF-BIZ-XSV-WOE",
             "description": "När dom inte accepteras av den som dömts, av åklagaren eller brottsoffer",
             "level": 3,
@@ -1453,6 +1527,62 @@
             "description": "",
             "level": 2,
             "name": "Lagstiftning",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-BIZ-XYS-DQN",
+            "description": "",
+            "level": 3,
+            "name": "Radio- & Tv-lagen",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-BIZ-XYS-ECE",
+            "description": "",
+            "level": 3,
+            "name": "EU-direktiv",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-BIZ-XYS-HFQ",
+            "description": "",
+            "level": 3,
+            "name": "Upphovsrätt",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-BIZ-XYS-LGU",
+            "description": "",
+            "level": 3,
+            "name": "Socialtjänstlagen",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-BIZ-XYS-LHM",
+            "description": "",
+            "level": 3,
+            "name": "Miljörätt",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-BIZ-XYS-VPO",
+            "description": "",
+            "level": 3,
+            "name": "Lagen om stöd och service till vissa funktionshindrade, LSS",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-BIZ-XYS-VYW",
+            "description": "",
+            "level": 3,
+            "name": "Hälso- & sjukvårdslagen",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-BIZ-XYS-YOM",
+            "description": "",
+            "level": 3,
+            "name": "Kommunallagen",
             "status": "ACTIVE"
         },
         {
@@ -1497,6 +1627,13 @@
             "level": 2,
             "name": "Självkänsla & självförtroende",
             "status": "INACTIVE"
+        },
+        {
+            "code": "RYF-CUW-AZU",
+            "description": "",
+            "level": 2,
+            "name": "Ungdom",
+            "status": "ACTIVE"
         },
         {
             "code": "RYF-CUW-BEY",
@@ -1654,6 +1791,13 @@
             "status": "ACTIVE"
         },
         {
+            "code": "RYF-CUW-EII",
+            "description": "",
+            "level": 2,
+            "name": "Pubertet",
+            "status": "ACTIVE"
+        },
+        {
             "code": "RYF-CUW-GIV",
             "description": "Frågor som rör familjen som institution, till exempel äktenskap, adoption och skilsmässor",
             "level": 2,
@@ -1673,6 +1817,14 @@
             "level": 3,
             "name": "Barn",
             "replaces": "RYF-HPT-PFF-EUU",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-CUW-GIV-CLO-FCF",
+            "description": "",
+            "level": 4,
+            "name": "Lek & leksaker",
+            "replaces": "RYF-CUW-GIV-UVB-TGE",
             "status": "ACTIVE"
         },
         {
@@ -2019,7 +2171,7 @@
             "level": 5,
             "name": "Barns utveckling",
             "replaces": "RYF-CUW-RBU-JJM-KPR",
-            "status": "ACTIVE"
+            "status": "INACTIVE"
         },
         {
             "code": "RYF-CUW-GIV-UVB-JJM-OPB",
@@ -2049,9 +2201,10 @@
             "code": "RYF-CUW-GIV-UVB-TGE",
             "description": "",
             "level": 4,
-            "name": "Barnlekar & leksaker",
+            "name": "Lek & leksaker",
+            "replacedBy": "RYF-CUW-GIV-CLO-FCF",
             "replaces": "RYF-CUW-RBU-TGE",
-            "status": "ACTIVE"
+            "status": "INACTIVE"
         },
         {
             "code": "RYF-CUW-GIV-XHD",
@@ -2235,13 +2388,21 @@
             "description": "",
             "level": 3,
             "name": "Black friday",
-            "status": "ACTIVE"
+            "replacedBy": "RYF-TKT-GTX-ASQ-WIA",
+            "status": "INACTIVE"
         },
         {
             "code": "RYF-CUW-MHX-ZRB",
             "description": "",
             "level": 3,
             "name": "Fettisdagen",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-CUW-NIZ",
+            "description": "",
+            "level": 2,
+            "name": "Personlig integritet",
             "status": "ACTIVE"
         },
         {
@@ -2546,6 +2707,30 @@
             "description": "",
             "level": 3,
             "name": "Könsidentitet",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-CUW-TZS",
+            "description": "",
+            "level": 2,
+            "name": "Döden",
+            "replaces": "RYF-HPT-PPR-LQJ",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-CUW-TZS-RVU",
+            "description": "",
+            "level": 3,
+            "name": "Självmord",
+            "replaces": "RYF-HPT-PPR-LQJ-RVU",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-CUW-UIJ",
+            "description": "Frågor som rör moraliska frågor, eller frågor som är svåra att prata om",
+            "level": 2,
+            "name": "Moral & etik",
+            "replaces": "RYF-HPT-PPR",
             "status": "ACTIVE"
         },
         {
@@ -3296,6 +3481,21 @@
             "status": "ACTIVE"
         },
         {
+            "code": "RYF-HPT-ACG",
+            "description": "",
+            "level": 2,
+            "name": "Idéburen sektor",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-HPT-CPK",
+            "description": "",
+            "level": 2,
+            "name": "Hederskultur",
+            "replaces": "RYF-HPT-PPR-YZV",
+            "status": "ACTIVE"
+        },
+        {
             "code": "RYF-HPT-DCM",
             "description": "",
             "level": 2,
@@ -3353,6 +3553,29 @@
             "status": "ACTIVE"
         },
         {
+            "code": "RYF-HPT-GZD-CHK",
+            "description": "",
+            "level": 3,
+            "name": "Strandskydd",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-HPT-GZD-MXX",
+            "description": "",
+            "level": 3,
+            "name": "Markanvisning",
+            "replaces": "RYF-HPT-ZSS-WTL-BVP",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-HPT-GZD-VID",
+            "description": "",
+            "level": 3,
+            "name": "Exploatering",
+            "replaces": "RYF-HPT-ZSS-WTL-JLX",
+            "status": "ACTIVE"
+        },
+        {
             "code": "RYF-HPT-GZD-WIC",
             "description": "",
             "level": 3,
@@ -3375,6 +3598,20 @@
             "status": "ACTIVE"
         },
         {
+            "code": "RYF-HPT-JLE-WTM",
+            "description": "",
+            "level": 3,
+            "name": "Hjälpsändning",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-HPT-JSC",
+            "description": "",
+            "level": 2,
+            "name": "Främlingsfientlighet",
+            "status": "ACTIVE"
+        },
+        {
             "code": "RYF-HPT-KDK",
             "description": "",
             "level": 2,
@@ -3394,7 +3631,8 @@
             "description": "",
             "level": 2,
             "name": "Integration",
-            "status": "ACTIVE"
+            "replacedBy": "RYF-HPT-QGV-MKA",
+            "status": "INACTIVE"
         },
         {
             "code": "RYF-HPT-MKL",
@@ -3417,13 +3655,14 @@
             "description": "",
             "level": 2,
             "name": "Asylinvandring",
-            "status": "ACTIVE"
+            "replacedBy": "RYF-HPT-QGV-ULT",
+            "status": "INACTIVE"
         },
         {
             "code": "RYF-HPT-NLP",
             "description": "",
             "level": 2,
-            "name": "Energislag",
+            "name": "Energi",
             "status": "ACTIVE"
         },
         {
@@ -3442,10 +3681,24 @@
             "status": "ACTIVE"
         },
         {
+            "code": "RYF-HPT-NLP-GRJ",
+            "description": "",
+            "level": 3,
+            "name": "Energiförbrukning",
+            "status": "ACTIVE"
+        },
+        {
             "code": "RYF-HPT-NLP-IGT",
             "description": "",
             "level": 3,
             "name": "Solenergi",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-HPT-NLP-IGT-TRQ",
+            "description": "",
+            "level": 4,
+            "name": "Solceller",
             "status": "ACTIVE"
         },
         {
@@ -3544,7 +3797,8 @@
             "description": "",
             "level": 2,
             "name": "Krisberedskap",
-            "status": "ACTIVE"
+            "replacedBy": "RYF-AKM-JXU",
+            "status": "INACTIVE"
         },
         {
             "code": "RYF-HPT-PFF",
@@ -3619,21 +3873,23 @@
             "description": "Frågor som rör moraliska frågor, eller frågor som är svåra att prata om",
             "level": 2,
             "name": "Moral & etik",
-            "status": "ACTIVE"
+            "replacedBy": "RYF-CUW-UIJ",
+            "status": "INACTIVE"
         },
         {
             "code": "RYF-HPT-PPR-CWB",
             "description": "Frågor som rör vad som är socialt accepterat och inte",
             "level": 3,
             "name": "Etik",
-            "status": "ACTIVE"
+            "status": "INACTIVE"
         },
         {
             "code": "RYF-HPT-PPR-LQJ",
             "description": "",
             "level": 3,
             "name": "Döden",
-            "status": "ACTIVE"
+            "replacedBy": "RYF-CUW-TZS",
+            "status": "INACTIVE"
         },
         {
             "code": "RYF-HPT-PPR-LQJ-DBB",
@@ -3656,7 +3912,8 @@
             "description": "",
             "level": 4,
             "name": "Självmord",
-            "status": "ACTIVE"
+            "replacedBy": "RYF-CUW-TZS-RVU",
+            "status": "INACTIVE"
         },
         {
             "code": "RYF-HPT-PPR-OZY",
@@ -3678,29 +3935,63 @@
             "description": "",
             "level": 3,
             "name": "Mobbning",
-            "status": "ACTIVE"
+            "replacedBy": "RYF-HPT-TVG-YNS",
+            "status": "INACTIVE"
         },
         {
             "code": "RYF-HPT-PPR-YZV",
             "description": "",
             "level": 3,
             "name": "Hederskultur",
+            "replacedBy": "RYF-HPT-CPK",
+            "status": "INACTIVE"
+        },
+        {
+            "code": "RYF-HPT-QGV",
+            "description": "",
+            "level": 2,
+            "name": "Invandring",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-HPT-QGV-FQE",
+            "description": "",
+            "level": 3,
+            "name": "Arbetskraftsinvanding",
+            "replaces": "RYF-ZEI-ZTC",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-HPT-QGV-MKA",
+            "description": "",
+            "level": 3,
+            "name": "Integration",
+            "replaces": "RYF-HPT-LTK",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-HPT-QGV-ULT",
+            "description": "",
+            "level": 3,
+            "name": "Asylinvandring",
+            "replaces": "RYF-HPT-NKU",
             "status": "ACTIVE"
         },
         {
             "code": "RYF-HPT-QQW",
             "description": "",
             "level": 2,
-            "name": "Gränskontroller",
+            "name": "Gränskontroll",
+            "replacedBy": "RYF-BIZ-EUH",
             "replaces": "RYF-KNI-XNS-JVN-LCG",
-            "status": "ACTIVE"
+            "status": "INACTIVE"
         },
         {
             "code": "RYF-HPT-SHC",
             "description": "",
             "level": 2,
             "name": "Social hållbarhet",
-            "status": "ACTIVE"
+            "status": "INACTIVE"
         },
         {
             "code": "RYF-HPT-SQQ",
@@ -3725,6 +4016,13 @@
             "level": 3,
             "name": "Bostadsbrist",
             "replaces": "RYF-HPT-ZSS-WRT-LIU",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-HPT-SQQ-TBK",
+            "description": "",
+            "level": 3,
+            "name": "Bostadsbestånd",
             "status": "ACTIVE"
         },
         {
@@ -3947,6 +4245,21 @@
             "status": "ACTIVE"
         },
         {
+            "code": "RYF-HPT-TVG-YNS",
+            "description": "",
+            "level": 3,
+            "name": "Mobbning",
+            "replaces": "RYF-HPT-PPR-YPG",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-HPT-TVG-YNS-WKB",
+            "description": "",
+            "level": 4,
+            "name": "Nätmobbning",
+            "status": "ACTIVE"
+        },
+        {
             "code": "RYF-HPT-UBZ",
             "description": "",
             "level": 2,
@@ -3998,8 +4311,16 @@
             "code": "RYF-HPT-UYY-YQC",
             "description": "",
             "level": 3,
-            "name": "Köpcentrum & gallerior",
+            "name": "Köpcentrum & galleria",
+            "replacedBy": "RYF-IXA-KEV-RQL-XIL",
             "replaces": "RYF-HPT-ZSS-HAB-YQC",
+            "status": "INACTIVE"
+        },
+        {
+            "code": "RYF-HPT-VKF",
+            "description": "",
+            "level": 2,
+            "name": "Certifiering & standard",
             "status": "ACTIVE"
         },
         {
@@ -4007,21 +4328,31 @@
             "description": "",
             "level": 2,
             "name": "Hatbrott",
-            "status": "ACTIVE"
+            "replacedBy": "RYF-BIZ-WZJ-ZPL",
+            "status": "INACTIVE"
         },
         {
             "code": "RYF-HPT-WYD-DUT",
             "description": "",
             "level": 3,
             "name": "Islamofobi",
+            "replacedBy": "RYF-HPT-XAO-GAX-QFD",
             "replaces": "RYF-HPT-XAO-GAX-QFP",
-            "status": "ACTIVE"
+            "status": "INACTIVE"
         },
         {
             "code": "RYF-HPT-WYD-JMZ",
             "description": "",
             "level": 3,
             "name": "Antisemitism",
+            "replacedBy": "RYF-HPT-XAO-FRU-IZH",
+            "status": "INACTIVE"
+        },
+        {
+            "code": "RYF-HPT-WYF",
+            "description": "",
+            "level": 2,
+            "name": "Mångfald",
             "status": "ACTIVE"
         },
         {
@@ -4039,10 +4370,41 @@
             "status": "ACTIVE"
         },
         {
+            "code": "RYF-HPT-XAO-FRU",
+            "description": "",
+            "level": 3,
+            "name": "Etnisk diskriminering",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-HPT-XAO-FRU-IZH",
+            "description": "",
+            "level": 4,
+            "name": "Antisemitism",
+            "replaces": "RYF-HPT-WYD-JMZ",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-HPT-XAO-FRU-JTP",
+            "description": "",
+            "level": 4,
+            "name": "Rasism",
+            "replaces": "RYF-HPT-XAO-OHC",
+            "status": "ACTIVE"
+        },
+        {
             "code": "RYF-HPT-XAO-GAX",
             "description": "",
             "level": 3,
             "name": "Religiös diskriminering",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-HPT-XAO-GAX-QFD",
+            "description": "",
+            "level": 4,
+            "name": "Islamofobi",
+            "replaces": "RYF-HPT-WYD-DUT",
             "status": "ACTIVE"
         },
         {
@@ -4065,7 +4427,7 @@
             "description": "",
             "level": 3,
             "name": "Anitisemitism",
-            "status": "ACTIVE"
+            "status": "INACTIVE"
         },
         {
             "code": "RYF-HPT-XAO-JSW",
@@ -4075,11 +4437,33 @@
             "status": "ACTIVE"
         },
         {
+            "code": "RYF-HPT-XAO-JSW-VVX",
+            "description": "",
+            "level": 4,
+            "name": "Homofobi",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-HPT-XAO-JSW-VZX",
+            "description": "",
+            "level": 4,
+            "name": "Transfobi",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-HPT-XAO-MWV",
+            "description": "",
+            "level": 3,
+            "name": "Diskriminering utifrån sexuell läggning",
+            "status": "ACTIVE"
+        },
+        {
             "code": "RYF-HPT-XAO-OHC",
             "description": "",
             "level": 3,
             "name": "Rasism",
-            "status": "ACTIVE"
+            "replacedBy": "RYF-HPT-XAO-FRU-JTP",
+            "status": "INACTIVE"
         },
         {
             "code": "RYF-HPT-XRQ",
@@ -4100,6 +4484,13 @@
             "description": "",
             "level": 3,
             "name": "Familjehem",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-HPT-XRQ-DQU",
+            "description": "",
+            "level": 3,
+            "name": "Försörjningsstöd",
             "status": "ACTIVE"
         },
         {
@@ -4181,6 +4572,13 @@
             "status": "ACTIVE"
         },
         {
+            "code": "RYF-HPT-XRQ-NEE-WEF",
+            "description": "",
+            "level": 4,
+            "name": "Äldreboende",
+            "status": "ACTIVE"
+        },
+        {
             "code": "RYF-HPT-XRQ-ORV",
             "description": "",
             "level": 3,
@@ -4199,6 +4597,13 @@
             "description": "",
             "level": 4,
             "name": "Vård av barn (Vab)",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-HPT-XRQ-UFA-RDG",
+            "description": "",
+            "level": 4,
+            "name": "Pedagogisk omsorg",
             "status": "ACTIVE"
         },
         {
@@ -4234,6 +4639,13 @@
             "description": "",
             "level": 4,
             "name": "Föräldraledighet",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-HPT-XRQ-ZVT",
+            "description": "",
+            "level": 3,
+            "name": "Hem för vård eller boende, HVB-hem",
             "status": "ACTIVE"
         },
         {
@@ -4280,6 +4692,27 @@
             "status": "ACTIVE"
         },
         {
+            "code": "RYF-HPT-YGE-EWJ-HVP",
+            "description": "",
+            "level": 4,
+            "name": "Virtuell verklighet, Vr",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-HPT-YGE-EWJ-NCW",
+            "description": "",
+            "level": 4,
+            "name": "Skola & utbildning",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-HPT-YGE-EWJ-OPG",
+            "description": "",
+            "level": 4,
+            "name": "Internet of things, IOT",
+            "status": "ACTIVE"
+        },
+        {
             "code": "RYF-HPT-YGE-EWJ-RYJ",
             "description": "",
             "level": 4,
@@ -4313,7 +4746,7 @@
             "description": "",
             "level": 3,
             "name": "Parkering",
-            "status": "ACTIVE"
+            "status": "INACTIVE"
         },
         {
             "code": "RYF-HPT-YGE-GCZ",
@@ -4459,6 +4892,13 @@
             "description": "",
             "level": 3,
             "name": "Elnät",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-HPT-YGE-WRY-FEF",
+            "description": "",
+            "level": 4,
+            "name": "Strömavbrott",
             "status": "ACTIVE"
         },
         {
@@ -4611,7 +5051,8 @@
             "description": "",
             "level": 4,
             "name": "Markanvisning",
-            "status": "ACTIVE"
+            "replacedBy": "RYF-HPT-GZD-MXX",
+            "status": "INACTIVE"
         },
         {
             "code": "RYF-HPT-ZSS-WTL-JLR",
@@ -4627,7 +5068,8 @@
             "description": "",
             "level": 4,
             "name": "Exploatering",
-            "status": "ACTIVE"
+            "replacedBy": "RYF-HPT-GZD-VID",
+            "status": "INACTIVE"
         },
         {
             "code": "RYF-HPT-ZSS-WTL-WIC",
@@ -4958,6 +5400,37 @@
             "status": "ACTIVE"
         },
         {
+            "code": "RYF-IXA-AOE-BUE",
+            "description": "",
+            "level": 3,
+            "name": "Hyresrätt & hyra",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-IXA-AOE-BUE-FFR",
+            "description": "",
+            "level": 4,
+            "name": "Andrahandsuthyrning",
+            "replaces": "RYF-TKT-KBC-YAR-YAE",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-IXA-AOE-BUE-IEP",
+            "description": "",
+            "level": 4,
+            "name": "Svartkontrakt",
+            "replaces": "RYF-TKT-KBC-YAR-YWY",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-IXA-AOE-BUE-XOM",
+            "description": "",
+            "level": 4,
+            "name": "Hyresförhandling",
+            "replaces": "RYF-IXA-AOE-GLK",
+            "status": "ACTIVE"
+        },
+        {
             "code": "RYF-IXA-AOE-CYP",
             "description": "",
             "level": 3,
@@ -5085,7 +5558,8 @@
             "description": "",
             "level": 3,
             "name": "Hyresförhandling",
-            "status": "ACTIVE"
+            "replacedBy": "RYF-IXA-AOE-BUE-XOM",
+            "status": "INACTIVE"
         },
         {
             "code": "RYF-IXA-AOE-KPB",
@@ -5162,6 +5636,13 @@
             "level": 5,
             "name": "Båtförsäkring",
             "replaces": "RYF-IXA-KEV-VKR-ODH-OJZ",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-IXA-AOE-MIS",
+            "description": "",
+            "level": 3,
+            "name": "Arvsrätt",
             "status": "ACTIVE"
         },
         {
@@ -5362,6 +5843,13 @@
             "status": "ACTIVE"
         },
         {
+            "code": "RYF-IXA-CVI-MAB-UCK",
+            "description": "",
+            "level": 4,
+            "name": "Onoterat bolag",
+            "status": "ACTIVE"
+        },
+        {
             "code": "RYF-IXA-CVI-MAB-UCN",
             "description": "",
             "level": 4,
@@ -5379,7 +5867,7 @@
             "code": "RYF-IXA-CVI-OHN",
             "description": "",
             "level": 3,
-            "name": "Valutor",
+            "name": "Valutamarknad",
             "status": "ACTIVE"
         },
         {
@@ -5784,6 +6272,13 @@
             "status": "INACTIVE"
         },
         {
+            "code": "RYF-IXA-KEV-BEL-FPU",
+            "description": "",
+            "level": 4,
+            "name": "Cookies",
+            "status": "ACTIVE"
+        },
+        {
             "code": "RYF-IXA-KEV-BEL-HDC",
             "description": "",
             "level": 4,
@@ -5817,6 +6312,13 @@
             "level": 4,
             "name": "Telekommunikationsutrustning",
             "status": "INACTIVE"
+        },
+        {
+            "code": "RYF-IXA-KEV-BEL-ONE",
+            "description": "",
+            "level": 4,
+            "name": "Big data",
+            "status": "ACTIVE"
         },
         {
             "code": "RYF-IXA-KEV-BEL-RNR",
@@ -5876,6 +6378,20 @@
             "description": "",
             "level": 3,
             "name": "Strategi",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-IXA-KEV-CBT-KUN",
+            "description": "",
+            "level": 4,
+            "name": "Kommunikationsstrategi",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-IXA-KEV-CBT-MUR",
+            "description": "",
+            "level": 4,
+            "name": "Varumärkesstrategi",
             "status": "ACTIVE"
         },
         {
@@ -5941,6 +6457,13 @@
             "status": "ACTIVE"
         },
         {
+            "code": "RYF-IXA-KEV-CYO-UHW",
+            "description": "",
+            "level": 4,
+            "name": "Spedition",
+            "status": "ACTIVE"
+        },
+        {
             "code": "RYF-IXA-KEV-CYO-URX",
             "description": "Flygplan och flygplatsverksamhet",
             "level": 4,
@@ -5975,7 +6498,7 @@
             "code": "RYF-IXA-KEV-DVU",
             "description": "",
             "level": 3,
-            "name": "Casino- & spelmarknaden",
+            "name": "Kasino- & spelmarknaden",
             "replaces": "RYF-IXA-KEV-YII-BPJ",
             "status": "ACTIVE"
         },
@@ -5984,13 +6507,13 @@
             "description": "",
             "level": 4,
             "name": "Onlinebetting",
-            "status": "ACTIVE"
+            "status": "INACTIVE"
         },
         {
             "code": "RYF-IXA-KEV-DVU-YHN",
             "description": "",
             "level": 4,
-            "name": "Onlinecasinon",
+            "name": "Nätkasino",
             "status": "ACTIVE"
         },
         {
@@ -5998,6 +6521,13 @@
             "description": "",
             "level": 3,
             "name": "Innovation",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-IXA-KEV-EST-RTT",
+            "description": "",
+            "level": 4,
+            "name": "Patent",
             "status": "ACTIVE"
         },
         {
@@ -6013,6 +6543,13 @@
             "description": "",
             "level": 3,
             "name": "Kontrakt & avtal",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-IXA-KEV-FMJ",
+            "description": "",
+            "level": 3,
+            "name": "Nedläggning",
             "status": "ACTIVE"
         },
         {
@@ -6100,6 +6637,20 @@
             "status": "INACTIVE"
         },
         {
+            "code": "RYF-IXA-KEV-IGS",
+            "description": "",
+            "level": 3,
+            "name": "Affärsutveckling",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-IXA-KEV-IIB",
+            "description": "",
+            "level": 3,
+            "name": "Rennäring",
+            "status": "ACTIVE"
+        },
+        {
             "code": "RYF-IXA-KEV-IRW",
             "description": "",
             "level": 3,
@@ -6136,6 +6687,13 @@
             "status": "ACTIVE"
         },
         {
+            "code": "RYF-IXA-KEV-IRW-JSE",
+            "description": "",
+            "level": 4,
+            "name": "Bostadsbyggande",
+            "status": "ACTIVE"
+        },
+        {
             "code": "RYF-IXA-KEV-IRW-KSZ",
             "description": "",
             "level": 4,
@@ -6147,6 +6705,20 @@
             "description": "",
             "level": 4,
             "name": "Byggregler",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-IXA-KEV-IRW-OXR",
+            "description": "",
+            "level": 4,
+            "name": "Ombyggnad",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-IXA-KEV-IRW-QZR",
+            "description": "",
+            "level": 4,
+            "name": "Bygglov",
             "status": "ACTIVE"
         },
         {
@@ -6190,6 +6762,20 @@
             "level": 3,
             "name": "Nyemmission",
             "replaces": "RYF-IXA-ECZ-KOK",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-IXA-KEV-JWG",
+            "description": "",
+            "level": 3,
+            "name": "Kommunala bolag",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-IXA-KEV-JWG-CLA",
+            "description": "",
+            "level": 4,
+            "name": "Allmännytta",
             "status": "ACTIVE"
         },
         {
@@ -6237,10 +6823,32 @@
             "status": "ACTIVE"
         },
         {
+            "code": "RYF-IXA-KEV-MCZ-BIG",
+            "description": "",
+            "level": 4,
+            "name": "Tidskrifter",
+            "replaces": "RYF-IXA-KEV-MCZ-HLJ-AHG",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-IXA-KEV-MCZ-BIL",
+            "description": "",
+            "level": 4,
+            "name": "Prenumeration",
+            "status": "ACTIVE"
+        },
+        {
             "code": "RYF-IXA-KEV-MCZ-DUV",
             "description": "",
             "level": 4,
-            "name": "Streaming-industri",
+            "name": "Streamingtjänster",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-IXA-KEV-MCZ-EVC",
+            "description": "",
+            "level": 4,
+            "name": "Kvällspress",
             "status": "ACTIVE"
         },
         {
@@ -6250,6 +6858,13 @@
             "name": "Poddar",
             "replacedBy": "RYF-XKI-BUS-IGO",
             "status": "INACTIVE"
+        },
+        {
+            "code": "RYF-IXA-KEV-MCZ-FGU",
+            "description": "",
+            "level": 4,
+            "name": "Dagspress",
+            "status": "ACTIVE"
         },
         {
             "code": "RYF-IXA-KEV-MCZ-FGZ",
@@ -6262,7 +6877,7 @@
             "code": "RYF-IXA-KEV-MCZ-HBL",
             "description": "",
             "level": 4,
-            "name": "Förlagsindustri",
+            "name": "Förslagsbranschen",
             "status": "ACTIVE"
         },
         {
@@ -6270,71 +6885,95 @@
             "description": "",
             "level": 4,
             "name": "Dagstidningar & magasin",
-            "status": "ACTIVE"
+            "status": "INACTIVE"
         },
         {
             "code": "RYF-IXA-KEV-MCZ-HLJ-AHG",
             "description": "",
             "level": 5,
             "name": "Tidskrifter",
-            "status": "ACTIVE"
+            "replacedBy": "RYF-IXA-KEV-MCZ-BIG",
+            "status": "INACTIVE"
         },
         {
             "code": "RYF-IXA-KEV-MCZ-HLJ-MBC",
             "description": "",
             "level": 5,
             "name": "Nyhetsmedier",
-            "status": "ACTIVE"
+            "replacedBy": "RYF-IXA-KEV-MCZ-NHQ",
+            "status": "INACTIVE"
         },
         {
             "code": "RYF-IXA-KEV-MCZ-HMX",
             "description": "",
             "level": 4,
-            "name": "Musikindustri",
+            "name": "Musikbranschen",
             "status": "ACTIVE"
         },
         {
             "code": "RYF-IXA-KEV-MCZ-LRX",
             "description": "",
             "level": 4,
-            "name": "Reklam & Pr",
+            "name": "Marknadsföring",
+            "replacedBy": "RYF-IXA-KEV-OFN",
             "replaces": "RYF-IXA-KEV-SXR",
-            "status": "ACTIVE"
+            "status": "INACTIVE"
         },
         {
             "code": "RYF-IXA-KEV-MCZ-LRX-AKK",
             "description": "",
             "level": 5,
-            "name": "Innehållsreklam",
-            "status": "ACTIVE"
+            "name": "Content marketing",
+            "replacedBy": "RYF-IXA-KEV-OFN-AKK",
+            "status": "INACTIVE"
         },
         {
             "code": "RYF-IXA-KEV-MCZ-LRX-GNN",
             "description": "",
             "level": 5,
             "name": "Evenemang",
-            "status": "ACTIVE"
+            "replacedBy": "RYF-IXA-KEV-OFN-GNN",
+            "status": "INACTIVE"
+        },
+        {
+            "code": "RYF-IXA-KEV-MCZ-LRX-IRF",
+            "description": "",
+            "level": 5,
+            "name": "Utomhusreklam",
+            "replacedBy": "RYF-IXA-KEV-OFN-IRF",
+            "status": "INACTIVE"
         },
         {
             "code": "RYF-IXA-KEV-MCZ-LRX-RQA",
             "description": "",
             "level": 5,
             "name": "Reklam",
-            "status": "ACTIVE"
+            "replacedBy": "RYF-IXA-KEV-OFN-RQA",
+            "status": "INACTIVE"
         },
         {
             "code": "RYF-IXA-KEV-MCZ-LRX-XRJ",
             "description": "",
             "level": 5,
             "name": "Pr",
-            "status": "ACTIVE"
+            "replacedBy": "RYF-IXA-KEV-OFN-XRJ",
+            "status": "INACTIVE"
         },
         {
             "code": "RYF-IXA-KEV-MCZ-LRX-ZPE",
             "description": "",
             "level": 5,
-            "name": "Datamarknadsföring",
-            "status": "ACTIVE"
+            "name": "Performance marketing",
+            "replacedBy": "RYF-IXA-KEV-OFN-ZPE",
+            "status": "INACTIVE"
+        },
+        {
+            "code": "RYF-IXA-KEV-MCZ-LRX-ZSB",
+            "description": "",
+            "level": 5,
+            "name": "Annonsmarknad",
+            "replacedBy": "RYF-IXA-KEV-OFN-ZSB",
+            "status": "INACTIVE"
         },
         {
             "code": "RYF-IXA-KEV-MCZ-MYU",
@@ -6344,17 +6983,25 @@
             "status": "INACTIVE"
         },
         {
+            "code": "RYF-IXA-KEV-MCZ-NHQ",
+            "description": "",
+            "level": 4,
+            "name": "Nyhetsmedier",
+            "replaces": "RYF-IXA-KEV-MCZ-HLJ-MBC",
+            "status": "ACTIVE"
+        },
+        {
             "code": "RYF-IXA-KEV-MCZ-NYJ",
             "description": "",
             "level": 4,
-            "name": "Filmindustri",
+            "name": "Filmbranschen",
             "status": "ACTIVE"
         },
         {
             "code": "RYF-IXA-KEV-MCZ-QMG",
             "description": "",
             "level": 4,
-            "name": "Radioindustri",
+            "name": "Radiobranschen",
             "status": "ACTIVE"
         },
         {
@@ -6421,6 +7068,94 @@
             "level": 3,
             "name": "Möbel- & hemindredningstillverkning",
             "replaces": "RYF-IXA-KEV-VRA-XAL",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-IXA-KEV-OFN",
+            "description": "",
+            "level": 3,
+            "name": "Marknadsföring",
+            "replaces": "RYF-IXA-KEV-MCZ-LRX",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-IXA-KEV-OFN-AKK",
+            "description": "",
+            "level": 4,
+            "name": "Innehållsreklam",
+            "replaces": "RYF-IXA-KEV-MCZ-LRX-AKK",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-IXA-KEV-OFN-GNN",
+            "description": "",
+            "level": 4,
+            "name": "Evenemang",
+            "replaces": "RYF-IXA-KEV-MCZ-LRX-GNN",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-IXA-KEV-OFN-IBM",
+            "level": 4,
+            "name": "Sponsring",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-IXA-KEV-OFN-IRF",
+            "description": "",
+            "level": 4,
+            "name": "Utomhusreklam",
+            "replaces": "RYF-IXA-KEV-MCZ-LRX-IRF",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-IXA-KEV-OFN-KJG",
+            "level": 4,
+            "name": "Kampanj",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-IXA-KEV-OFN-REG",
+            "level": 4,
+            "name": "Kommunikation",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-IXA-KEV-OFN-RGF",
+            "level": 4,
+            "name": "Greenwashing",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-IXA-KEV-OFN-RQA",
+            "description": "",
+            "level": 4,
+            "name": "Reklam",
+            "replaces": "RYF-IXA-KEV-MCZ-LRX-RQA",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-IXA-KEV-OFN-XRJ",
+            "description": "",
+            "level": 4,
+            "name": "Pr",
+            "replaces": "RYF-IXA-KEV-MCZ-LRX-XRJ",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-IXA-KEV-OFN-ZPE",
+            "description": "",
+            "level": 4,
+            "name": "Datamarknadsföring",
+            "replaces": "RYF-IXA-KEV-MCZ-LRX-ZPE",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-IXA-KEV-OFN-ZSB",
+            "description": "",
+            "level": 4,
+            "name": "Annonsmarknad",
+            "replaces": "RYF-IXA-KEV-MCZ-LRX-ZSB",
             "status": "ACTIVE"
         },
         {
@@ -6511,7 +7246,7 @@
             "code": "RYF-IXA-KEV-OXW",
             "description": "",
             "level": 3,
-            "name": "Patent, upphovsrätt & varumärke",
+            "name": "Varumärke",
             "replaces": "RYF-IXA-ECZ-NVH-GNH-UUS",
             "status": "ACTIVE"
         },
@@ -6558,7 +7293,7 @@
             "code": "RYF-IXA-KEV-RFJ",
             "description": "",
             "level": 3,
-            "name": "Restaurang & catering",
+            "name": "Restaurang & gastronomi",
             "status": "ACTIVE"
         },
         {
@@ -6590,6 +7325,13 @@
             "status": "INACTIVE"
         },
         {
+            "code": "RYF-IXA-KEV-RFJ-UIC",
+            "description": "",
+            "level": 4,
+            "name": "Kafé & konditori",
+            "status": "ACTIVE"
+        },
+        {
             "code": "RYF-IXA-KEV-RQL",
             "description": "",
             "level": 3,
@@ -6604,6 +7346,19 @@
             "status": "INACTIVE"
         },
         {
+            "code": "RYF-IXA-KEV-RQL-AUU",
+            "description": "",
+            "level": 4,
+            "name": "Betalning",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-IXA-KEV-RQL-AUU-CLJ",
+            "level": 5,
+            "name": "Betallösning",
+            "status": "ACTIVE"
+        },
+        {
             "code": "RYF-IXA-KEV-RQL-BET",
             "description": "",
             "level": 4,
@@ -6611,10 +7366,74 @@
             "status": "ACTIVE"
         },
         {
+            "code": "RYF-IXA-KEV-RQL-BVO",
+            "description": "",
+            "level": 4,
+            "name": "Kund",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-IXA-KEV-RQL-BVO-CNZ",
+            "level": 5,
+            "name": "Kundrelation",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-IXA-KEV-RQL-BVO-GQN",
+            "level": 5,
+            "name": "Kundbeteende",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-IXA-KEV-RQL-BVO-LKZ",
+            "level": 5,
+            "name": "Kundmöte",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-IXA-KEV-RQL-BVO-PIW",
+            "level": 5,
+            "name": "Kundlojalitet",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-IXA-KEV-RQL-BVO-QPN",
+            "level": 5,
+            "name": "Kundklubb",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-IXA-KEV-RQL-COT",
+            "level": 4,
+            "name": "Lågprishandel",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-IXA-KEV-RQL-EYS",
+            "description": "",
+            "level": 4,
+            "name": "Cityhandel",
+            "status": "ACTIVE"
+        },
+        {
             "code": "RYF-IXA-KEV-RQL-FAF",
             "description": "",
             "level": 4,
             "name": "Partihandel",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-IXA-KEV-RQL-HMR",
+            "description": "",
+            "level": 4,
+            "name": "Marknadstrend",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-IXA-KEV-RQL-HQI",
+            "description": "",
+            "level": 4,
+            "name": "Miljömärkning",
             "status": "ACTIVE"
         },
         {
@@ -6636,7 +7455,16 @@
             "description": "",
             "level": 4,
             "name": "Livsmedelshandel",
-            "status": "ACTIVE"
+            "replacedBy": "RYF-IXA-KEV-RQL-QQF-JJV",
+            "status": "INACTIVE"
+        },
+        {
+            "code": "RYF-IXA-KEV-RQL-MGE-ICQ",
+            "description": "",
+            "level": 5,
+            "name": "Matfusk",
+            "replacedBy": "RYF-IXA-KEV-RQL-QQF-MJQ",
+            "status": "INACTIVE"
         },
         {
             "code": "RYF-IXA-KEV-RQL-ORT",
@@ -6646,10 +7474,94 @@
             "status": "INACTIVE"
         },
         {
+            "code": "RYF-IXA-KEV-RQL-PGU",
+            "description": "",
+            "level": 4,
+            "name": "Köpupplevelse",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-IXA-KEV-RQL-PMR",
+            "description": "",
+            "level": 4,
+            "name": "Gränshandel",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-IXA-KEV-RQL-QAX",
+            "description": "",
+            "level": 4,
+            "name": "Pop up-store",
+            "status": "ACTIVE"
+        },
+        {
             "code": "RYF-IXA-KEV-RQL-QQF",
             "description": "Till exempel tändare, pennor, pappersvaror, porslin, klockor eller glasögon",
             "level": 4,
             "name": "Dagligvaror",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-IXA-KEV-RQL-QQF-JJV",
+            "description": "",
+            "level": 5,
+            "name": "Livsmedelshandel",
+            "replaces": "RYF-IXA-KEV-RQL-MGE",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-IXA-KEV-RQL-QQF-KWI",
+            "description": "",
+            "level": 5,
+            "name": "Livsmedel",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-IXA-KEV-RQL-QQF-MHU",
+            "description": "",
+            "level": 5,
+            "name": "Lokalproducerat livsmedel",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-IXA-KEV-RQL-QQF-MJQ",
+            "description": "",
+            "level": 5,
+            "name": "Matfusk",
+            "replaces": "RYF-IXA-KEV-RQL-MGE-ICQ",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-IXA-KEV-RQL-TCU",
+            "description": "",
+            "level": 4,
+            "name": "Handelsområde",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-IXA-KEV-RQL-VDC",
+            "description": "",
+            "level": 4,
+            "name": "Butik",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-IXA-KEV-RQL-VDC-LGZ",
+            "level": 5,
+            "name": "Obemannade butiker",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-IXA-KEV-RQL-VDC-QDK",
+            "level": 5,
+            "name": "Butikskoncept",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-IXA-KEV-RQL-VOQ",
+            "description": "",
+            "level": 4,
+            "name": "Franchise",
             "status": "ACTIVE"
         },
         {
@@ -6667,6 +7579,14 @@
             "status": "INACTIVE"
         },
         {
+            "code": "RYF-IXA-KEV-RQL-XIL",
+            "description": "",
+            "level": 4,
+            "name": "Köpcentrum & galleria",
+            "replaces": "RYF-HPT-UYY-YQC",
+            "status": "ACTIVE"
+        },
+        {
             "code": "RYF-IXA-KEV-RQL-XNY",
             "description": "",
             "level": 4,
@@ -6677,7 +7597,7 @@
             "code": "RYF-IXA-KEV-RSE",
             "description": "",
             "level": 3,
-            "name": "Nyetableringar",
+            "name": "Nyetablering",
             "status": "ACTIVE"
         },
         {
@@ -6685,6 +7605,13 @@
             "description": "",
             "level": 3,
             "name": "Cirkulär ekonomi",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-IXA-KEV-SFO",
+            "description": "",
+            "level": 3,
+            "name": "Statliga bolag",
             "status": "ACTIVE"
         },
         {
@@ -6718,10 +7645,24 @@
             "status": "ACTIVE"
         },
         {
+            "code": "RYF-IXA-KEV-TOY-CSZ-NZN",
+            "description": "",
+            "level": 5,
+            "name": "Korttidsuthyrning",
+            "status": "ACTIVE"
+        },
+        {
             "code": "RYF-IXA-KEV-TOY-FDT",
             "description": "",
             "level": 4,
             "name": "Fastighetsförvaltning",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-IXA-KEV-TOY-FDT-UEN",
+            "description": "",
+            "level": 5,
+            "name": "Proptech",
             "status": "ACTIVE"
         },
         {
@@ -6751,6 +7692,13 @@
             "level": 5,
             "name": "Arena & sporthall",
             "replaces": "RYF-QPR-ICL",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-IXA-KEV-TOY-GGM-GOS",
+            "description": "",
+            "level": 5,
+            "name": "Försvarsfastighet",
             "status": "ACTIVE"
         },
         {
@@ -6872,7 +7820,7 @@
             "description": "",
             "level": 4,
             "name": "Solenergiindustri",
-            "status": "ACTIVE"
+            "status": "INACTIVE"
         },
         {
             "code": "RYF-IXA-KEV-UBU-FVR",
@@ -6893,14 +7841,14 @@
             "description": "",
             "level": 4,
             "name": "Vindkraftindustri",
-            "status": "ACTIVE"
+            "status": "INACTIVE"
         },
         {
             "code": "RYF-IXA-KEV-UBU-NLX",
             "description": "",
             "level": 4,
             "name": "Kolkraftindustri",
-            "status": "ACTIVE"
+            "status": "INACTIVE"
         },
         {
             "code": "RYF-IXA-KEV-UBU-OAX",
@@ -6921,7 +7869,7 @@
             "description": "Nyheter om till exempel gasprospekt, oljehamnar och oljeborrning",
             "level": 4,
             "name": "Olje- och gasindustri",
-            "status": "ACTIVE"
+            "status": "INACTIVE"
         },
         {
             "code": "RYF-IXA-KEV-UBU-URP",
@@ -6934,7 +7882,7 @@
             "code": "RYF-IXA-KEV-UBU-WTN",
             "description": "",
             "level": 4,
-            "name": "Elproduktion & distrubition",
+            "name": "Elöverföring",
             "status": "ACTIVE"
         },
         {
@@ -6942,20 +7890,27 @@
             "description": "",
             "level": 4,
             "name": "Kärnkraftindustri",
-            "status": "ACTIVE"
+            "status": "INACTIVE"
         },
         {
             "code": "RYF-IXA-KEV-UBU-YEW",
             "description": "",
             "level": 4,
             "name": "Vattenkraftindustri",
-            "status": "ACTIVE"
+            "status": "INACTIVE"
         },
         {
             "code": "RYF-IXA-KEV-UBU-ZZD",
             "description": "",
             "level": 4,
             "name": "Drivmedelindustri",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-IXA-KEV-UBU-ZZD-LCU",
+            "description": "",
+            "level": 5,
+            "name": "Fossila bränslen",
             "status": "ACTIVE"
         },
         {
@@ -6969,7 +7924,7 @@
             "code": "RYF-IXA-KEV-UZJ",
             "description": "Tillverkning av varor för fritidsaktiviteter",
             "level": 3,
-            "name": "Fritids- & sportartiklar",
+            "name": "Fritids- & sportbranschen",
             "replaces": "RYF-IXA-KEV-YII-VZZ",
             "status": "ACTIVE"
         },
@@ -7327,6 +8282,13 @@
             "status": "ACTIVE"
         },
         {
+            "code": "RYF-IXA-KEV-VSA-GTD-UBO",
+            "description": "",
+            "level": 5,
+            "name": "Bekämpningsmedel",
+            "status": "ACTIVE"
+        },
+        {
             "code": "RYF-IXA-KEV-VSA-HIL",
             "description": "",
             "level": 4,
@@ -7408,6 +8370,13 @@
             "level": 3,
             "name": "Finansiella resultat",
             "replaces": "RYF-IXA-ECZ-UBS",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-IXA-KEV-WBI-BIW",
+            "description": "",
+            "level": 4,
+            "name": "Hållbarhetsredovisning",
             "status": "ACTIVE"
         },
         {
@@ -7674,6 +8643,13 @@
             "status": "ACTIVE"
         },
         {
+            "code": "RYF-IXA-KEV-XGJ",
+            "description": "",
+            "level": 3,
+            "name": "Leverantör",
+            "status": "ACTIVE"
+        },
+        {
             "code": "RYF-IXA-KEV-XZV",
             "description": "",
             "level": 3,
@@ -7701,6 +8677,13 @@
             "name": "Djurförsök",
             "replacedBy": "RYF-EOI-DOE-XYB",
             "status": "INACTIVE"
+        },
+        {
+            "code": "RYF-IXA-KEV-XZV-IJV",
+            "description": "",
+            "level": 4,
+            "name": "Kemikalier",
+            "status": "ACTIVE"
         },
         {
             "code": "RYF-IXA-KEV-XZV-JLY",
@@ -7737,6 +8720,13 @@
             "level": 4,
             "name": "Hälsa & skönhetsprodukter",
             "status": "INACTIVE"
+        },
+        {
+            "code": "RYF-IXA-KEV-XZV-UVR",
+            "description": "",
+            "level": 4,
+            "name": "Plast",
+            "status": "ACTIVE"
         },
         {
             "code": "RYF-IXA-KEV-YII",
@@ -7824,6 +8814,13 @@
             "description": "",
             "level": 3,
             "name": "Bankbranschen",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-IXA-KEV-ZYO",
+            "description": "",
+            "level": 3,
+            "name": "Apoteksmarknaden",
             "status": "ACTIVE"
         },
         {
@@ -8111,7 +9108,7 @@
             "code": "RYF-IXA-QED-CPU",
             "description": "",
             "level": 3,
-            "name": "Skatter",
+            "name": "Skatt",
             "status": "ACTIVE"
         },
         {
@@ -8155,6 +9152,13 @@
             "description": "",
             "level": 4,
             "name": "Drivmedelsskatt",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-IXA-QED-CPU-KAX",
+            "description": "",
+            "level": 4,
+            "name": "Fastighetsskatt",
             "status": "ACTIVE"
         },
         {
@@ -8242,6 +9246,13 @@
             "status": "ACTIVE"
         },
         {
+            "code": "RYF-IXA-QED-ETB",
+            "description": "",
+            "level": 3,
+            "name": "Ekonomisk hållbarhet",
+            "status": "ACTIVE"
+        },
+        {
             "code": "RYF-IXA-QED-EVV",
             "description": "Motsatsen till inflation",
             "level": 3,
@@ -8253,6 +9264,13 @@
             "description": "",
             "level": 3,
             "name": "Elpriser",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-IXA-QED-GUQ",
+            "description": "",
+            "level": 3,
+            "name": "Hälsoekonomi",
             "status": "ACTIVE"
         },
         {
@@ -8276,6 +9294,13 @@
             "description": "",
             "level": 3,
             "name": "Import",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-IXA-QED-HPQ",
+            "description": "",
+            "level": 3,
+            "name": "Index",
             "status": "ACTIVE"
         },
         {
@@ -8303,6 +9328,13 @@
             "status": "INACTIVE"
         },
         {
+            "code": "RYF-IXA-QED-IUQ",
+            "description": "",
+            "level": 3,
+            "name": "Prisstatistik",
+            "status": "ACTIVE"
+        },
+        {
             "code": "RYF-IXA-QED-JUO",
             "description": "",
             "level": 3,
@@ -8310,10 +9342,24 @@
             "status": "ACTIVE"
         },
         {
+            "code": "RYF-IXA-QED-JUO-VCE",
+            "description": "",
+            "level": 4,
+            "name": "Minusränta",
+            "status": "ACTIVE"
+        },
+        {
             "code": "RYF-IXA-QED-JUO-WLQ",
             "description": "",
             "level": 4,
             "name": "Styrränta",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-IXA-QED-KCO",
+            "description": "",
+            "level": 3,
+            "name": "Delningsekonomi",
             "status": "ACTIVE"
         },
         {
@@ -8549,6 +9595,13 @@
             "status": "INACTIVE"
         },
         {
+            "code": "RYF-IXA-QED-WDT",
+            "description": "",
+            "level": 3,
+            "name": "Inkomstklyfta",
+            "status": "ACTIVE"
+        },
+        {
             "code": "RYF-IXA-QED-WGO",
             "description": "",
             "level": 3,
@@ -8620,7 +9673,7 @@
             "description": "",
             "level": 2,
             "name": "Klimatpolitik",
-            "status": "ACTIVE"
+            "status": "INACTIVE"
         },
         {
             "code": "RYF-KNI-CJV",
@@ -8666,6 +9719,13 @@
             "description": "",
             "level": 2,
             "name": "Pensionspolitik",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-KNI-DZX",
+            "description": "",
+            "level": 2,
+            "name": "Näringspolitik",
             "status": "ACTIVE"
         },
         {
@@ -8767,6 +9827,13 @@
             "status": "ACTIVE"
         },
         {
+            "code": "RYF-KNI-FQB-IXN",
+            "description": "",
+            "level": 3,
+            "name": "Utjämningssystemet",
+            "status": "ACTIVE"
+        },
+        {
             "code": "RYF-KNI-FQB-PID",
             "description": "",
             "level": 3,
@@ -8798,6 +9865,13 @@
             "status": "ACTIVE"
         },
         {
+            "code": "RYF-KNI-HXB",
+            "description": "",
+            "level": 2,
+            "name": "Forskningspolitik",
+            "status": "ACTIVE"
+        },
+        {
             "code": "RYF-KNI-IDP",
             "description": "Politiska förslag som inte grundas på styrets egna utredningar",
             "level": 2,
@@ -8810,6 +9884,34 @@
             "description": "",
             "level": 2,
             "name": "Förtroendevalda",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-KNI-IYZ-BKW",
+            "description": "",
+            "level": 3,
+            "name": "Arvode",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-KNI-IYZ-RQZ",
+            "description": "",
+            "level": 3,
+            "name": "Heltidspolitiker",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-KNI-IYZ-RQZ-LXZ",
+            "description": "",
+            "level": 4,
+            "name": "Kommunalråd",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-KNI-IYZ-RXS",
+            "description": "",
+            "level": 3,
+            "name": "Fritidspolitiker",
             "status": "ACTIVE"
         },
         {
@@ -8855,7 +9957,7 @@
             "description": "",
             "level": 2,
             "name": "Politisk påverkan",
-            "status": "ACTIVE"
+            "status": "INACTIVE"
         },
         {
             "code": "RYF-KNI-KZM-KAV",
@@ -8863,7 +9965,7 @@
             "level": 3,
             "name": "Lobbyverksamhet",
             "replaces": "RYF-KNI-EPV-UZG",
-            "status": "ACTIVE"
+            "status": "INACTIVE"
         },
         {
             "code": "RYF-KNI-KZM-UAJ",
@@ -8871,14 +9973,14 @@
             "level": 3,
             "name": "Politiska kampanjer",
             "replaces": "RYF-KNI-MRR-ZUW",
-            "status": "ACTIVE"
+            "status": "INACTIVE"
         },
         {
             "code": "RYF-KNI-KZM-UAJ-IKT",
             "description": "",
             "level": 4,
             "name": "Valkampanjer",
-            "status": "ACTIVE"
+            "status": "INACTIVE"
         },
         {
             "code": "RYF-KNI-MRR",
@@ -9120,6 +10222,13 @@
             "status": "ACTIVE"
         },
         {
+            "code": "RYF-KNI-PEM",
+            "description": "",
+            "level": 2,
+            "name": "Mediepolitik",
+            "status": "ACTIVE"
+        },
+        {
             "code": "RYF-KNI-QAF",
             "description": "",
             "level": 2,
@@ -9154,6 +10263,13 @@
             "description": "",
             "level": 2,
             "name": "Politiska ideologier",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-KNI-QXU-BNP",
+            "description": "",
+            "level": 3,
+            "name": "Populism",
             "status": "ACTIVE"
         },
         {
@@ -9477,7 +10593,7 @@
             "description": "",
             "level": 2,
             "name": "Internationella relationer",
-            "status": "ACTIVE"
+            "status": "INACTIVE"
         },
         {
             "code": "RYF-KNI-SQH-DKK",
@@ -9531,6 +10647,13 @@
             "level": 2,
             "name": "Kungahuset",
             "status": "INACTIVE"
+        },
+        {
+            "code": "RYF-KNI-TGB",
+            "description": "",
+            "level": 2,
+            "name": "Utbildningspolitik",
+            "status": "ACTIVE"
         },
         {
             "code": "RYF-KNI-TTC",
@@ -9649,6 +10772,13 @@
             "level": 2,
             "name": "Kommunpolitik",
             "replaces": "RYF-KNI-XNS-FYA",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-KNI-XBE-AHH",
+            "description": "",
+            "level": 3,
+            "name": "Kommunal ekonomi",
             "status": "ACTIVE"
         },
         {
@@ -10368,6 +11498,13 @@
             "level": 2,
             "name": "Dopningskontroll",
             "replaces": "RYF-QPR-QHP-OPY",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-QPR-EJE",
+            "description": "",
+            "level": 2,
+            "name": "Matchfixning",
             "status": "ACTIVE"
         },
         {
@@ -11802,6 +12939,13 @@
             "status": "ACTIVE"
         },
         {
+            "code": "RYF-QPR-HGB-BQN-ZTJ",
+            "description": "",
+            "level": 4,
+            "name": "Champions Hockey League",
+            "status": "ACTIVE"
+        },
+        {
             "code": "RYF-QPR-HGB-BQN-ZVU",
             "description": "",
             "level": 4,
@@ -13109,21 +14253,21 @@
             "description": "",
             "level": 4,
             "name": "Fotbollslandslaget",
-            "status": "ACTIVE"
+            "status": "INACTIVE"
         },
         {
             "code": "RYF-QPR-HGB-DEN-HEP-ALL",
             "description": "",
             "level": 5,
             "name": "Herrlandslaget i fotboll",
-            "status": "ACTIVE"
+            "status": "INACTIVE"
         },
         {
             "code": "RYF-QPR-HGB-DEN-HEP-IPZ",
             "description": "",
             "level": 5,
             "name": "Damlandslaget i fotboll",
-            "status": "ACTIVE"
+            "status": "INACTIVE"
         },
         {
             "code": "RYF-QPR-HGB-DEN-HKY",
@@ -13606,6 +14750,13 @@
             "description": "",
             "level": 4,
             "name": "Svenska spel F19",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-QPR-HGB-DEN-LEU",
+            "description": "",
+            "level": 4,
+            "name": "Europa League",
             "status": "ACTIVE"
         },
         {
@@ -14288,6 +15439,20 @@
             "status": "ACTIVE"
         },
         {
+            "code": "RYF-QPR-HGB-DEN-UXB",
+            "description": "",
+            "level": 4,
+            "name": "UEFA Nations League",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-QPR-HGB-DEN-VKZ",
+            "description": "",
+            "level": 4,
+            "name": "Conference League",
+            "status": "ACTIVE"
+        },
+        {
             "code": "RYF-QPR-HGB-DEN-WAM",
             "description": "",
             "level": 4,
@@ -14923,6 +16088,13 @@
             "description": "",
             "level": 4,
             "name": "Division 2 herr",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-QPR-HGB-MII-FIO",
+            "description": "",
+            "level": 4,
+            "name": "NBA",
             "status": "ACTIVE"
         },
         {
@@ -16645,7 +17817,7 @@
             "description": "",
             "level": 2,
             "name": "Idrottsorganisationer",
-            "status": "ACTIVE"
+            "status": "INACTIVE"
         },
         {
             "code": "RYF-QPR-OTI",
@@ -16705,6 +17877,13 @@
             "description": "",
             "level": 2,
             "name": "Huliganism & Idrottsvåld",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-QPR-VQK",
+            "description": "",
+            "level": 2,
+            "name": "Barn- & ungdomsidrott",
             "status": "ACTIVE"
         },
         {
@@ -18261,7 +19440,7 @@
             "code": "RYF-TKT-GTX-ASQ",
             "description": "",
             "level": 3,
-            "name": "Shopping",
+            "name": "Konsumtion",
             "status": "ACTIVE"
         },
         {
@@ -18272,10 +19451,56 @@
             "status": "ACTIVE"
         },
         {
+            "code": "RYF-TKT-GTX-ASQ-ORI",
+            "description": "",
+            "level": 4,
+            "name": "Loppis & auktion",
+            "replaces": "RYF-TKT-UAN-APO",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-TKT-GTX-ASQ-ORI-IXT",
+            "description": "",
+            "level": 5,
+            "name": "Second hand",
+            "replaces": "RYF-TKT-UAN-APO-IXT",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-TKT-GTX-ASQ-ORI-TGD",
+            "description": "",
+            "level": 5,
+            "name": "Antikviteter",
+            "replaces": "RYF-TKT-UAN-APO-TGD",
+            "status": "ACTIVE"
+        },
+        {
             "code": "RYF-TKT-GTX-ASQ-PFO",
             "description": "",
             "level": 4,
             "name": "Julhandel",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-TKT-GTX-ASQ-URZ",
+            "description": "",
+            "level": 4,
+            "name": "Lyxkonsumtion",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-TKT-GTX-ASQ-WIA",
+            "description": "",
+            "level": 4,
+            "name": "Black friday",
+            "replaces": "RYF-CUW-MHX-RMM",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-TKT-GTX-ASQ-XGS",
+            "description": "",
+            "level": 4,
+            "name": "Shopping",
             "status": "ACTIVE"
         },
         {
@@ -19521,6 +20746,38 @@
             "status": "ACTIVE"
         },
         {
+            "code": "RYF-TKT-JCK-DIM",
+            "description": "",
+            "level": 3,
+            "name": "Tilltugg & snacks",
+            "replaces": "RYF-TKT-YUF",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-TKT-JCK-DIM-HEO",
+            "description": "",
+            "level": 4,
+            "name": "Chips",
+            "replaces": "RYF-TKT-YUF-HEO",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-TKT-JCK-DIM-LEH",
+            "description": "",
+            "level": 4,
+            "name": "Nötter",
+            "replaces": "RYF-TKT-YUF-LEH",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-TKT-JCK-DIM-PRV",
+            "description": "",
+            "level": 4,
+            "name": "Popcorn",
+            "replaces": "RYF-TKT-YUF-PRV",
+            "status": "ACTIVE"
+        },
+        {
             "code": "RYF-TKT-JCK-DRW",
             "description": "",
             "level": 3,
@@ -19904,7 +21161,7 @@
             "description": "",
             "level": 4,
             "name": "Festmat",
-            "status": "ACTIVE"
+            "status": "INACTIVE"
         },
         {
             "code": "RYF-TKT-JCK-QCJ-NOM",
@@ -20331,14 +21588,16 @@
             "description": "",
             "level": 4,
             "name": "Andrahandsuthyrning",
-            "status": "ACTIVE"
+            "replacedBy": "RYF-IXA-AOE-BUE-FFR",
+            "status": "INACTIVE"
         },
         {
             "code": "RYF-TKT-KBC-YAR-YWY",
             "description": "",
             "level": 4,
             "name": "Svartkontrakt",
-            "status": "ACTIVE"
+            "replacedBy": "RYF-IXA-AOE-BUE-IEP",
+            "status": "INACTIVE"
         },
         {
             "code": "RYF-TKT-KXM",
@@ -20351,8 +21610,15 @@
             "code": "RYF-TKT-KXM-DFM",
             "description": "",
             "level": 3,
-            "name": "Föreningsliv & frivilligverksamhet",
+            "name": "Frivilligverksamhet",
             "replaces": "RYF-TKT-INK",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-TKT-KXM-DFM-MSG",
+            "description": "",
+            "level": 4,
+            "name": "Föreningsliv",
             "status": "ACTIVE"
         },
         {
@@ -21117,7 +22383,7 @@
             "description": "",
             "level": 3,
             "name": "Sparesa",
-            "status": "ACTIVE"
+            "status": "INACTIVE"
         },
         {
             "code": "RYF-TKT-OUV-FOQ",
@@ -21681,21 +22947,24 @@
             "description": "",
             "level": 3,
             "name": "Loppis & auktion",
-            "status": "ACTIVE"
+            "replacedBy": "RYF-TKT-GTX-ASQ-ORI",
+            "status": "INACTIVE"
         },
         {
             "code": "RYF-TKT-UAN-APO-IXT",
             "description": "",
             "level": 4,
             "name": "Second hand",
-            "status": "ACTIVE"
+            "replacedBy": "RYF-TKT-GTX-ASQ-ORI-IXT",
+            "status": "INACTIVE"
         },
         {
             "code": "RYF-TKT-UAN-APO-TGD",
             "description": "",
             "level": 4,
             "name": "Antikviteter",
-            "status": "ACTIVE"
+            "replacedBy": "RYF-TKT-GTX-ASQ-ORI-TGD",
+            "status": "INACTIVE"
         },
         {
             "code": "RYF-TKT-UAN-EWO",
@@ -22091,28 +23360,32 @@
             "description": "",
             "level": 2,
             "name": "Tilltugg & snacks",
-            "status": "ACTIVE"
+            "replacedBy": "RYF-TKT-JCK-DIM",
+            "status": "INACTIVE"
         },
         {
             "code": "RYF-TKT-YUF-HEO",
             "description": "",
             "level": 3,
             "name": "Chips",
-            "status": "ACTIVE"
+            "replacedBy": "RYF-TKT-JCK-DIM-HEO",
+            "status": "INACTIVE"
         },
         {
             "code": "RYF-TKT-YUF-LEH",
             "description": "",
             "level": 3,
             "name": "Nötter",
-            "status": "ACTIVE"
+            "replacedBy": "RYF-TKT-JCK-DIM-LEH",
+            "status": "INACTIVE"
         },
         {
             "code": "RYF-TKT-YUF-PRV",
             "description": "",
             "level": 3,
             "name": "Popcorn",
-            "status": "ACTIVE"
+            "replacedBy": "RYF-TKT-JCK-DIM-PRV",
+            "status": "INACTIVE"
         },
         {
             "code": "RYF-TKT-ZCD",
@@ -22169,6 +23442,13 @@
             "description": "",
             "level": 4,
             "name": "Välkomstdrinkar",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-TKT-ZCD-DIN",
+            "description": "",
+            "level": 3,
+            "name": "Te",
             "status": "ACTIVE"
         },
         {
@@ -22274,7 +23554,7 @@
             "description": "",
             "level": 3,
             "name": "Varma drycker",
-            "status": "ACTIVE"
+            "status": "INACTIVE"
         },
         {
             "code": "RYF-TKT-ZCD-OYP",
@@ -22330,6 +23610,13 @@
             "description": "",
             "level": 3,
             "name": "Alkoholfritt vin",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-TKT-ZCD-XEJ",
+            "description": "",
+            "level": 3,
+            "name": "Kaffe",
             "status": "ACTIVE"
         },
         {
@@ -22512,6 +23799,13 @@
             "code": "RYF-VHD-GUZ",
             "description": "",
             "level": 2,
+            "name": "Klimat",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-VHD-GUZ-LKC",
+            "description": "",
+            "level": 3,
             "name": "Klimatförändring",
             "status": "ACTIVE"
         },
@@ -22600,6 +23894,13 @@
             "status": "ACTIVE"
         },
         {
+            "code": "RYF-VHD-GUZ-SYG-UKI-ROY",
+            "description": "",
+            "level": 5,
+            "name": "Utsläppshandel",
+            "status": "ACTIVE"
+        },
+        {
             "code": "RYF-VHD-GUZ-SYG-UKI-TFP",
             "description": "",
             "level": 5,
@@ -22617,7 +23918,7 @@
             "code": "RYF-VHD-HXU",
             "description": "",
             "level": 2,
-            "name": "Natur",
+            "name": "Djur & natur",
             "status": "ACTIVE"
         },
         {
@@ -22729,6 +24030,38 @@
             "status": "INACTIVE"
         },
         {
+            "code": "RYF-VHD-HXU-IEO",
+            "description": "",
+            "level": 3,
+            "name": "Biologisk mångfald",
+            "replaces": "RYF-VHD-ZKU-OXB",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-VHD-HXU-KWD",
+            "description": "",
+            "level": 3,
+            "name": "Djur",
+            "replaces": "RYF-VHD-OAY-DLT",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-VHD-HXU-KWD-GNM",
+            "description": "",
+            "level": 4,
+            "name": "Vilda djur",
+            "replaces": "RYF-VHD-OAY-DLT-GNM",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-VHD-HXU-KWD-GNM-XKE",
+            "description": "",
+            "level": 5,
+            "name": "Rovdjur",
+            "replaces": "RYF-VHD-OAY-DLT-GNM-XKE",
+            "status": "ACTIVE"
+        },
+        {
             "code": "RYF-VHD-HXU-NQI",
             "description": "",
             "level": 3,
@@ -22782,6 +24115,22 @@
             "status": "ACTIVE"
         },
         {
+            "code": "RYF-VHD-HXU-XFY",
+            "description": "",
+            "level": 3,
+            "name": "Nationalparker & naturreservat",
+            "replaces": "RYF-VHD-ZKU-KIT",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-VHD-HXU-ZGT",
+            "description": "",
+            "level": 3,
+            "name": "Naturvård",
+            "replaces": "RYF-VHD-ZKU-NHV",
+            "status": "ACTIVE"
+        },
+        {
             "code": "RYF-VHD-IFE",
             "description": "",
             "level": 2,
@@ -22817,6 +24166,20 @@
             "status": "ACTIVE"
         },
         {
+            "code": "RYF-VHD-IFE-OWJ",
+            "description": "",
+            "level": 3,
+            "name": "Miljögift",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-VHD-IFE-RMK",
+            "description": "",
+            "level": 3,
+            "name": "Miljöförstöring",
+            "status": "ACTIVE"
+        },
+        {
             "code": "RYF-VHD-IFE-VHR",
             "description": "",
             "level": 3,
@@ -22849,22 +24212,25 @@
             "description": "",
             "level": 3,
             "name": "Djur",
-            "status": "ACTIVE"
+            "replacedBy": "RYF-VHD-HXU-KWD",
+            "status": "INACTIVE"
         },
         {
             "code": "RYF-VHD-OAY-DLT-GNM",
             "description": "",
             "level": 4,
             "name": "Vilda djur",
-            "status": "ACTIVE"
+            "replacedBy": "RYF-VHD-HXU-KWD-GNM",
+            "status": "INACTIVE"
         },
         {
             "code": "RYF-VHD-OAY-DLT-GNM-XKE",
             "description": "",
             "level": 5,
             "name": "Rovdjur",
+            "replacedBy": "RYF-VHD-HXU-KWD-GNM-XKE",
             "replaces": "RYF-VHD-OAY-DLT-XUZ",
-            "status": "ACTIVE"
+            "status": "INACTIVE"
         },
         {
             "code": "RYF-VHD-OAY-DLT-XUZ",
@@ -23010,28 +24376,31 @@
             "description": "",
             "level": 3,
             "name": "Nationalparker & naturreservat",
-            "status": "ACTIVE"
+            "replacedBy": "RYF-VHD-HXU-XFY",
+            "status": "INACTIVE"
         },
         {
             "code": "RYF-VHD-ZKU-NHV",
             "description": "",
             "level": 3,
             "name": "Naturvård",
-            "status": "ACTIVE"
+            "replacedBy": "RYF-VHD-HXU-ZGT",
+            "status": "INACTIVE"
         },
         {
             "code": "RYF-VHD-ZKU-OXB",
             "description": "",
             "level": 3,
             "name": "Biologisk mångfald",
-            "status": "ACTIVE"
+            "replacedBy": "RYF-VHD-HXU-IEO",
+            "status": "INACTIVE"
         },
         {
             "code": "RYF-VHD-ZKU-SBV",
             "description": "",
             "level": 3,
             "name": "Energibesparing",
-            "status": "ACTIVE"
+            "status": "INACTIVE"
         },
         {
             "code": "RYF-VHD-ZKU-SNO",
@@ -23059,6 +24428,13 @@
             "description": "",
             "level": 2,
             "name": "Värme",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-WHZ-IAQ",
+            "description": "",
+            "level": 2,
+            "name": "Vinterväder",
             "status": "ACTIVE"
         },
         {
@@ -23104,10 +24480,25 @@
             "status": "ACTIVE"
         },
         {
+            "code": "RYF-WHZ-NGS",
+            "description": "",
+            "level": 2,
+            "name": "Höstväder",
+            "status": "ACTIVE"
+        },
+        {
             "code": "RYF-WHZ-PDY",
             "description": "",
             "level": 2,
             "name": "Översvämning",
+            "replacedBy": "RYF-AKM-XCN",
+            "status": "INACTIVE"
+        },
+        {
+            "code": "RYF-WHZ-SWF",
+            "description": "",
+            "level": 2,
+            "name": "Vårväder",
             "status": "ACTIVE"
         },
         {
@@ -23115,6 +24506,13 @@
             "description": "",
             "level": 2,
             "name": "Torka",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-WHZ-WEA",
+            "description": "",
+            "level": 2,
+            "name": "Sommarväder",
             "status": "ACTIVE"
         },
         {
@@ -23177,7 +24575,7 @@
             "code": "RYF-WUU-BNJ-XZK",
             "description": "",
             "level": 3,
-            "name": "Hälsocentral",
+            "name": "Vårdcentral",
             "status": "ACTIVE"
         },
         {
@@ -23276,6 +24674,14 @@
             "status": "ACTIVE"
         },
         {
+            "code": "RYF-WUU-JZK-AOE",
+            "description": "",
+            "level": 3,
+            "name": "Stamning",
+            "replaces": "RYF-WUU-JZK-TAC-UKV",
+            "status": "ACTIVE"
+        },
+        {
             "code": "RYF-WUU-JZK-AZJ",
             "description": "",
             "level": 3,
@@ -23295,6 +24701,13 @@
             "description": "",
             "level": 4,
             "name": "Fetma",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-WUU-JZK-BLX",
+            "description": "",
+            "level": 3,
+            "name": "Skelettsjukdom",
             "status": "ACTIVE"
         },
         {
@@ -23371,6 +24784,14 @@
             "level": 3,
             "name": "Pandemi",
             "replaces": "RYF-WUU-JZK-FBC-ORU",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-WUU-JZK-EOS",
+            "description": "",
+            "level": 3,
+            "name": "Förslitningsskada",
+            "replaces": "RYF-WUU-JZK-PFT-YTO",
             "status": "ACTIVE"
         },
         {
@@ -23582,6 +25003,30 @@
             "status": "ACTIVE"
         },
         {
+            "code": "RYF-WUU-JZK-GWT",
+            "description": "",
+            "level": 3,
+            "name": "Hörselnedsättning",
+            "replaces": "RYF-WUU-JZK-TAC-BQK",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-WUU-JZK-GWT-RQA",
+            "description": "",
+            "level": 4,
+            "name": "Tinnitus",
+            "replaces": "RYF-WUU-JZK-TAC-BQK-RQA",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-WUU-JZK-GWT-WTV",
+            "description": "",
+            "level": 4,
+            "name": "Dövhet",
+            "replaces": "RYF-WUU-JZK-TAC-BQK-WTV",
+            "status": "ACTIVE"
+        },
+        {
             "code": "RYF-WUU-JZK-HEP",
             "description": "",
             "level": 3,
@@ -23600,7 +25045,15 @@
             "code": "RYF-WUU-JZK-IDJ",
             "description": "",
             "level": 3,
-            "name": "Neurologiska sjukdomar",
+            "name": "Neurologisk sjukdom",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-WUU-JZK-IDJ-QDA",
+            "description": "",
+            "level": 4,
+            "name": "Stroke",
+            "replaces": "RYF-WUU-JZK-YMA-PDK",
             "status": "ACTIVE"
         },
         {
@@ -23688,6 +25141,32 @@
             "status": "ACTIVE"
         },
         {
+            "code": "RYF-WUU-JZK-JUV",
+            "description": "",
+            "level": 3,
+            "name": "Muskelsjukdom",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-WUU-JZK-LIP",
+            "description": "",
+            "level": 3,
+            "name": "Ledsjukdom",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-WUU-JZK-LIP-VYN",
+            "level": 4,
+            "name": "Artros",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-WUU-JZK-LIP-XJE",
+            "level": 4,
+            "name": "Reumatism",
+            "status": "ACTIVE"
+        },
+        {
             "code": "RYF-WUU-JZK-LPE",
             "description": "",
             "level": 3,
@@ -23706,6 +25185,14 @@
             "description": "",
             "level": 4,
             "name": "Värkar",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-WUU-JZK-LPE-NDM",
+            "description": "",
+            "level": 4,
+            "name": "Förlossningsskada",
+            "replaces": "RYF-WUU-JZK-PFT-EYR",
             "status": "ACTIVE"
         },
         {
@@ -23850,28 +25337,40 @@
             "code": "RYF-WUU-JZK-PFT-EYR",
             "description": "",
             "level": 4,
-            "name": "Förlossningsskador",
-            "status": "ACTIVE"
+            "name": "Förlossningsskada",
+            "replacedBy": "RYF-WUU-JZK-LPE-NDM",
+            "status": "INACTIVE"
         },
         {
             "code": "RYF-WUU-JZK-PFT-MKR",
             "description": "",
             "level": 4,
             "name": "Idrottsskada",
-            "status": "ACTIVE"
+            "replacedBy": "RYF-WUU-JZK-VMY",
+            "status": "INACTIVE"
         },
         {
             "code": "RYF-WUU-JZK-PFT-TTZ",
             "description": "",
             "level": 4,
             "name": "Värk & Smärta",
-            "status": "ACTIVE"
+            "replacedBy": "RYF-WUU-JZK-TBI",
+            "status": "INACTIVE"
         },
         {
             "code": "RYF-WUU-JZK-PFT-YTO",
             "description": "",
             "level": 4,
             "name": "Förslitningsskada",
+            "replacedBy": "RYF-WUU-JZK-EOS",
+            "status": "INACTIVE"
+        },
+        {
+            "code": "RYF-WUU-JZK-PJN",
+            "description": "",
+            "level": 3,
+            "name": "Autismspektrumtillstånd, AST",
+            "replaces": "RYF-WUU-JZK-TAC-IRN",
             "status": "ACTIVE"
         },
         {
@@ -23900,6 +25399,142 @@
             "description": "",
             "level": 4,
             "name": "Pest",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-WUU-JZK-QTH-KEE",
+            "description": "",
+            "level": 4,
+            "name": "Virussjukdom",
+            "replaces": "RYF-WUU-JZK-VRS",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-WUU-JZK-QTH-KEE-BGM",
+            "description": "",
+            "level": 5,
+            "name": "Influensa",
+            "replaces": "RYF-WUU-JZK-VRS-BGM",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-WUU-JZK-QTH-KEE-CAW",
+            "description": "",
+            "level": 5,
+            "name": "Körtelfeber",
+            "replaces": "RYF-WUU-JZK-VRS-CAW",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-WUU-JZK-QTH-KEE-FDZ",
+            "description": "",
+            "level": 5,
+            "name": "Höstblåsor",
+            "replaces": "RYF-WUU-JZK-VRS-FDZ",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-WUU-JZK-QTH-KEE-IDW",
+            "description": "",
+            "level": 5,
+            "name": "Svininfluensa",
+            "replaces": "RYF-WUU-JZK-VRS-IDW",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-WUU-JZK-QTH-KEE-JRF",
+            "description": "",
+            "level": 5,
+            "name": "Retrovirus",
+            "replaces": "RYF-WUU-JZK-VRS-JRF",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-WUU-JZK-QTH-KEE-LSF",
+            "description": "",
+            "level": 5,
+            "name": "Vattkoppor",
+            "replaces": "RYF-WUU-JZK-VRS-LSF",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-WUU-JZK-QTH-KEE-MCH",
+            "description": "",
+            "level": 5,
+            "name": "Vinterkräksjuka",
+            "replaces": "RYF-WUU-JZK-VRS-MCH",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-WUU-JZK-QTH-KEE-MGS",
+            "description": "",
+            "level": 5,
+            "name": "Röda hund",
+            "replaces": "RYF-WUU-JZK-VRS-MGS",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-WUU-JZK-QTH-KEE-OQO",
+            "description": "",
+            "level": 5,
+            "name": "Coronavirus",
+            "replaces": "RYF-WUU-JZK-VRS-OQO",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-WUU-JZK-QTH-KEE-PMG",
+            "description": "",
+            "level": 5,
+            "name": "Femte sjukan",
+            "replaces": "RYF-WUU-JZK-VRS-PMG",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-WUU-JZK-QTH-KEE-PNE",
+            "description": "",
+            "level": 5,
+            "name": "RS-virus",
+            "replaces": "RYF-WUU-JZK-VRS-PNE",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-WUU-JZK-QTH-KEE-RMN",
+            "description": "",
+            "level": 5,
+            "name": "Covid-19",
+            "replaces": "RYF-WUU-JZK-VRS-RMN",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-WUU-JZK-QTH-KEE-UZW",
+            "description": "",
+            "level": 5,
+            "name": "Hiv & aids",
+            "replaces": "RYF-WUU-JZK-VRS-UZW",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-WUU-JZK-QTH-KEE-WCA",
+            "description": "",
+            "level": 5,
+            "name": "Förkylning",
+            "replaces": "RYF-WUU-JZK-VRS-WCA",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-WUU-JZK-QTH-KEE-XNW",
+            "description": "",
+            "level": 5,
+            "name": "Ebolafeber",
+            "replaces": "RYF-WUU-JZK-VRS-XNW",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-WUU-JZK-QTH-KEE-YGA",
+            "description": "",
+            "level": 5,
+            "name": "Mässling",
+            "replaces": "RYF-WUU-JZK-VRS-YGA",
             "status": "ACTIVE"
         },
         {
@@ -23945,6 +25580,14 @@
             "level": 4,
             "name": "Typ 1-diabetes",
             "replaces": "RYF-WUU-JZK-WIT-GUK-DDY",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-WUU-JZK-RDY",
+            "description": "",
+            "level": 3,
+            "name": "ADHD",
+            "replaces": "RYF-WUU-JZK-TAC-RFH",
             "status": "ACTIVE"
         },
         {
@@ -24003,90 +25646,110 @@
             "description": "",
             "level": 4,
             "name": "Downs syndrom",
-            "status": "ACTIVE"
+            "replacedBy": "RYF-WUU-JZK-VWV",
+            "status": "INACTIVE"
         },
         {
             "code": "RYF-WUU-JZK-TAC-BQK",
             "description": "",
             "level": 4,
             "name": "Hörselnedsättning",
-            "status": "ACTIVE"
+            "replacedBy": "RYF-WUU-JZK-GWT",
+            "status": "INACTIVE"
         },
         {
             "code": "RYF-WUU-JZK-TAC-BQK-RQA",
             "description": "",
             "level": 5,
             "name": "Tinnitus",
-            "status": "ACTIVE"
+            "replacedBy": "RYF-WUU-JZK-GWT-RQA",
+            "status": "INACTIVE"
         },
         {
             "code": "RYF-WUU-JZK-TAC-BQK-WTV",
             "description": "",
             "level": 5,
             "name": "Dövhet",
-            "status": "ACTIVE"
+            "replacedBy": "RYF-WUU-JZK-GWT-WTV",
+            "status": "INACTIVE"
         },
         {
             "code": "RYF-WUU-JZK-TAC-GJP",
             "description": "",
             "level": 4,
             "name": "ADD",
-            "status": "ACTIVE"
+            "replacedBy": "RYF-WUU-JZK-YIC",
+            "status": "INACTIVE"
         },
         {
             "code": "RYF-WUU-JZK-TAC-IRN",
             "description": "",
             "level": 4,
-            "name": "Autism",
-            "status": "ACTIVE"
+            "name": "Autismspektrumtillstånd, AST",
+            "replacedBy": "RYF-WUU-JZK-PJN",
+            "status": "INACTIVE"
         },
         {
             "code": "RYF-WUU-JZK-TAC-RFH",
             "description": "",
             "level": 4,
             "name": "ADHD",
-            "status": "ACTIVE"
+            "replacedBy": "RYF-WUU-JZK-RDY",
+            "status": "INACTIVE"
         },
         {
             "code": "RYF-WUU-JZK-TAC-UKV",
             "description": "",
             "level": 4,
             "name": "Stamning",
-            "status": "ACTIVE"
+            "replacedBy": "RYF-WUU-JZK-AOE",
+            "status": "INACTIVE"
         },
         {
             "code": "RYF-WUU-JZK-TAC-YLZ",
             "description": "",
             "level": 4,
             "name": "Synnedsättning",
-            "status": "ACTIVE"
+            "replacedBy": "RYF-WUU-JZK-ZAG",
+            "status": "INACTIVE"
         },
         {
             "code": "RYF-WUU-JZK-TAC-YLZ-KGB",
             "description": "",
             "level": 5,
             "name": "Glasögon & linser",
-            "status": "ACTIVE"
+            "replacedBy": "RYF-WUU-JZK-ZAG-KGB",
+            "status": "INACTIVE"
         },
         {
             "code": "RYF-WUU-JZK-TAC-YLZ-MUS",
             "description": "",
             "level": 5,
             "name": "Blindhet",
-            "status": "ACTIVE"
+            "replacedBy": "RYF-WUU-JZK-ZAG-MUS",
+            "status": "INACTIVE"
         },
         {
             "code": "RYF-WUU-JZK-TAC-YLZ-YOV",
             "description": "",
             "level": 5,
             "name": "Synundersökning",
-            "status": "ACTIVE"
+            "replacedBy": "RYF-WUU-JZK-ZAG-YOV",
+            "status": "INACTIVE"
         },
         {
             "code": "RYF-WUU-JZK-TAC-ZNL",
             "description": "",
             "level": 4,
             "name": "Aspergers",
+            "status": "INACTIVE"
+        },
+        {
+            "code": "RYF-WUU-JZK-TBI",
+            "description": "",
+            "level": 3,
+            "name": "Värk & Smärta",
+            "replaces": "RYF-WUU-JZK-PFT-TTZ",
             "status": "ACTIVE"
         },
         {
@@ -24119,131 +25782,171 @@
             "status": "ACTIVE"
         },
         {
+            "code": "RYF-WUU-JZK-VMY",
+            "description": "",
+            "level": 3,
+            "name": "Idrottsskada",
+            "replaces": "RYF-WUU-JZK-PFT-MKR",
+            "status": "ACTIVE"
+        },
+        {
             "code": "RYF-WUU-JZK-VRS",
             "description": "",
             "level": 3,
-            "name": "Virussjukdomar",
+            "name": "Virussjukdom",
+            "replacedBy": "RYF-WUU-JZK-QTH-KEE",
             "replaces": "RYF-WUU-JZK-FBC-FRI",
-            "status": "ACTIVE"
+            "status": "INACTIVE"
         },
         {
             "code": "RYF-WUU-JZK-VRS-BGM",
             "description": "",
             "level": 4,
             "name": "Influensa",
+            "replacedBy": "RYF-WUU-JZK-QTH-KEE-BGM",
             "replaces": "RYF-WUU-JZK-FBC-FRI-BGM",
-            "status": "ACTIVE"
+            "status": "INACTIVE"
         },
         {
             "code": "RYF-WUU-JZK-VRS-CAW",
             "description": "",
             "level": 4,
             "name": "Körtelfeber",
+            "replacedBy": "RYF-WUU-JZK-QTH-KEE-CAW",
             "replaces": "RYF-WUU-JZK-FBC-FRI-CAW",
-            "status": "ACTIVE"
+            "status": "INACTIVE"
         },
         {
             "code": "RYF-WUU-JZK-VRS-FDZ",
             "description": "",
             "level": 4,
             "name": "Höstblåsor",
+            "replacedBy": "RYF-WUU-JZK-QTH-KEE-FDZ",
             "replaces": "RYF-WUU-JZK-FBC-FRI-FDZ",
-            "status": "ACTIVE"
+            "status": "INACTIVE"
         },
         {
             "code": "RYF-WUU-JZK-VRS-IDW",
             "description": "",
             "level": 4,
             "name": "Svininfluensa",
+            "replacedBy": "RYF-WUU-JZK-QTH-KEE-IDW",
             "replaces": "RYF-WUU-JZK-FBC-FRI-IDW",
-            "status": "ACTIVE"
+            "status": "INACTIVE"
         },
         {
             "code": "RYF-WUU-JZK-VRS-JRF",
             "description": "",
             "level": 4,
             "name": "Retrovirus",
+            "replacedBy": "RYF-WUU-JZK-QTH-KEE-JRF",
             "replaces": "RYF-WUU-JZK-FBC-FRI-JRF",
-            "status": "ACTIVE"
+            "status": "INACTIVE"
         },
         {
             "code": "RYF-WUU-JZK-VRS-LSF",
             "description": "",
             "level": 4,
             "name": "Vattkoppor",
+            "replacedBy": "RYF-WUU-JZK-QTH-KEE-LSF",
             "replaces": "RYF-WUU-JZK-FBC-FRI-LSF",
-            "status": "ACTIVE"
+            "status": "INACTIVE"
         },
         {
             "code": "RYF-WUU-JZK-VRS-MCH",
             "description": "",
             "level": 4,
             "name": "Vinterkräksjuka",
+            "replacedBy": "RYF-WUU-JZK-QTH-KEE-MCH",
             "replaces": "RYF-WUU-JZK-FBC-FRI-MCH",
-            "status": "ACTIVE"
+            "status": "INACTIVE"
         },
         {
             "code": "RYF-WUU-JZK-VRS-MGS",
             "description": "",
             "level": 4,
             "name": "Röda hund",
+            "replacedBy": "RYF-WUU-JZK-QTH-KEE-MGS",
             "replaces": "RYF-WUU-JZK-FBC-FRI-MGS",
-            "status": "ACTIVE"
+            "status": "INACTIVE"
         },
         {
             "code": "RYF-WUU-JZK-VRS-OQO",
             "description": "",
             "level": 4,
             "name": "Coronavirus",
+            "replacedBy": "RYF-WUU-JZK-QTH-KEE-OQO",
             "replaces": "RYF-WUU-JZK-FBC-FRI-OQO",
-            "status": "ACTIVE"
+            "status": "INACTIVE"
         },
         {
             "code": "RYF-WUU-JZK-VRS-PMG",
             "description": "",
             "level": 4,
             "name": "Femte sjukan",
+            "replacedBy": "RYF-WUU-JZK-QTH-KEE-PMG",
             "replaces": "RYF-WUU-JZK-FBC-FRI-PMG",
-            "status": "ACTIVE"
+            "status": "INACTIVE"
         },
         {
             "code": "RYF-WUU-JZK-VRS-PNE",
             "description": "",
             "level": 4,
             "name": "RS-virus",
+            "replacedBy": "RYF-WUU-JZK-QTH-KEE-PNE",
             "replaces": "RYF-WUU-JZK-FBC-FRI-PNE",
-            "status": "ACTIVE"
+            "status": "INACTIVE"
+        },
+        {
+            "code": "RYF-WUU-JZK-VRS-RMN",
+            "description": "",
+            "level": 4,
+            "name": "Covid-19",
+            "replacedBy": "RYF-WUU-JZK-QTH-KEE-RMN",
+            "status": "INACTIVE"
         },
         {
             "code": "RYF-WUU-JZK-VRS-UZW",
             "description": "",
             "level": 4,
             "name": "Hiv & aids",
+            "replacedBy": "RYF-WUU-JZK-QTH-KEE-UZW",
             "replaces": "RYF-WUU-JZK-FBC-FRI-UZW",
-            "status": "ACTIVE"
+            "status": "INACTIVE"
         },
         {
             "code": "RYF-WUU-JZK-VRS-WCA",
             "description": "",
             "level": 4,
             "name": "Förkylning",
+            "replacedBy": "RYF-WUU-JZK-QTH-KEE-WCA",
             "replaces": "RYF-WUU-JZK-FBC-FRI-WCA",
-            "status": "ACTIVE"
+            "status": "INACTIVE"
         },
         {
             "code": "RYF-WUU-JZK-VRS-XNW",
             "description": "",
             "level": 4,
             "name": "Ebolafeber",
+            "replacedBy": "RYF-WUU-JZK-QTH-KEE-XNW",
             "replaces": "RYF-WUU-JZK-FBC-FRI-XNW",
-            "status": "ACTIVE"
+            "status": "INACTIVE"
         },
         {
             "code": "RYF-WUU-JZK-VRS-YGA",
             "description": "",
             "level": 4,
             "name": "Mässling",
+            "replacedBy": "RYF-WUU-JZK-QTH-KEE-YGA",
             "replaces": "RYF-WUU-JZK-FBC-FRI-YGA",
+            "status": "INACTIVE"
+        },
+        {
+            "code": "RYF-WUU-JZK-VWV",
+            "description": "",
+            "level": 3,
+            "name": "Downs syndrom",
+            "replaces": "RYF-WUU-JZK-TAC-AGT",
             "status": "ACTIVE"
         },
         {
@@ -24289,7 +25992,7 @@
             "code": "RYF-WUU-JZK-WPF",
             "description": "",
             "level": 3,
-            "name": "Sharlakansfeber",
+            "name": "Scharlakansfeber",
             "replaces": "RYF-WUU-JZK-DQP-SDZ",
             "status": "ACTIVE"
         },
@@ -24372,6 +26075,13 @@
             "status": "ACTIVE"
         },
         {
+            "code": "RYF-WUU-JZK-YIA-PBA",
+            "description": "",
+            "level": 4,
+            "name": "Sköldkörtelcancer",
+            "status": "ACTIVE"
+        },
+        {
             "code": "RYF-WUU-JZK-YIA-RXN",
             "description": "",
             "level": 4,
@@ -24402,6 +26112,14 @@
             "status": "INACTIVE"
         },
         {
+            "code": "RYF-WUU-JZK-YIC",
+            "description": "",
+            "level": 3,
+            "name": "ADD",
+            "replaces": "RYF-WUU-JZK-TAC-GJP",
+            "status": "ACTIVE"
+        },
+        {
             "code": "RYF-WUU-JZK-YMA",
             "description": "",
             "level": 3,
@@ -24416,11 +26134,19 @@
             "status": "ACTIVE"
         },
         {
+            "code": "RYF-WUU-JZK-YMA-KRO",
+            "description": "",
+            "level": 4,
+            "name": "Förmaksflimmer",
+            "status": "ACTIVE"
+        },
+        {
             "code": "RYF-WUU-JZK-YMA-PDK",
             "description": "",
             "level": 4,
             "name": "Stroke",
-            "status": "ACTIVE"
+            "replacedBy": "RYF-WUU-JZK-IDJ-QDA",
+            "status": "INACTIVE"
         },
         {
             "code": "RYF-WUU-JZK-YSP",
@@ -24530,6 +26256,38 @@
             "status": "ACTIVE"
         },
         {
+            "code": "RYF-WUU-JZK-ZAG",
+            "description": "",
+            "level": 3,
+            "name": "Synnedsättning",
+            "replaces": "RYF-WUU-JZK-TAC-YLZ",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-WUU-JZK-ZAG-KGB",
+            "description": "",
+            "level": 4,
+            "name": "Glasögon & linser",
+            "replaces": "RYF-WUU-JZK-TAC-YLZ-KGB",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-WUU-JZK-ZAG-MUS",
+            "description": "",
+            "level": 4,
+            "name": "Blindhet",
+            "replaces": "RYF-WUU-JZK-TAC-YLZ-MUS",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-WUU-JZK-ZAG-YOV",
+            "description": "",
+            "level": 4,
+            "name": "Synundersökning",
+            "replaces": "RYF-WUU-JZK-TAC-YLZ-YOV",
+            "status": "ACTIVE"
+        },
+        {
             "code": "RYF-WUU-MBA",
             "description": "",
             "level": 2,
@@ -24562,6 +26320,13 @@
             "description": "",
             "level": 2,
             "name": "Behandlingar",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-WUU-QNB-AOE",
+            "description": "",
+            "level": 3,
+            "name": "Hälsa & sjukvård",
             "status": "ACTIVE"
         },
         {
@@ -24618,14 +26383,14 @@
             "code": "RYF-WUU-QNB-LKJ",
             "description": "",
             "level": 3,
-            "name": "Mediciner",
+            "name": "Läkemedel",
             "status": "ACTIVE"
         },
         {
             "code": "RYF-WUU-QNB-LKJ-BIB",
             "description": "",
             "level": 4,
-            "name": "Receptbelagda mediciner",
+            "name": "Receptbelagt läkemedel",
             "status": "ACTIVE"
         },
         {
@@ -24639,7 +26404,14 @@
             "code": "RYF-WUU-QNB-LKJ-LSD",
             "description": "",
             "level": 4,
-            "name": "Smärtlindrande medicin & behandling",
+            "name": "Smärtlindrande läkemedel",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-WUU-QNB-MHH",
+            "description": "",
+            "level": 3,
+            "name": "Ambulanssjukvård",
             "status": "ACTIVE"
         },
         {
@@ -24650,6 +26422,27 @@
             "status": "ACTIVE"
         },
         {
+            "code": "RYF-WUU-QNB-PGP",
+            "description": "",
+            "level": 3,
+            "name": "Bild- & funktionsmedicin",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-WUU-QNB-PGP-IEG",
+            "level": 4,
+            "name": "Ekg",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-WUU-QNB-PGP-OZE",
+            "description": "",
+            "level": 4,
+            "name": "Röntgen",
+            "replaces": "RYF-WUU-SUX-APJ-WDN",
+            "status": "ACTIVE"
+        },
+        {
             "code": "RYF-WUU-QNB-QUH",
             "description": "Behandling av fysiska, psykiska eller medicinska tillstånd utan kirurgiskt ingrepp",
             "level": 3,
@@ -24657,10 +26450,17 @@
             "status": "ACTIVE"
         },
         {
+            "code": "RYF-WUU-QNB-QYK",
+            "description": "",
+            "level": 3,
+            "name": "Strålbehandling",
+            "status": "ACTIVE"
+        },
+        {
             "code": "RYF-WUU-QNB-RCV",
             "description": "",
             "level": 3,
-            "name": "Vacciner",
+            "name": "Vaccin",
             "status": "ACTIVE"
         },
         {
@@ -24668,6 +26468,13 @@
             "description": "",
             "level": 3,
             "name": "Vitaminer & mineraler",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-WUU-QNB-VTU",
+            "description": "",
+            "level": 3,
+            "name": "Första hjälpen",
             "status": "ACTIVE"
         },
         {
@@ -24683,6 +26490,13 @@
             "description": "",
             "level": 3,
             "name": "Kosttillskott & näring",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-WUU-QNB-ZUT",
+            "description": "",
+            "level": 3,
+            "name": "Kemoterapi",
             "status": "ACTIVE"
         },
         {
@@ -24730,6 +26544,13 @@
             "status": "ACTIVE"
         },
         {
+            "code": "RYF-WUU-SUX-APJ-CFT",
+            "description": "",
+            "level": 4,
+            "name": "Urologi",
+            "status": "ACTIVE"
+        },
+        {
             "code": "RYF-WUU-SUX-APJ-DZQ",
             "description": "",
             "level": 4,
@@ -24765,10 +26586,31 @@
             "status": "ACTIVE"
         },
         {
+            "code": "RYF-WUU-SUX-APJ-FCV-NDF",
+            "description": "",
+            "level": 5,
+            "name": "Neurokirurgi",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-WUU-SUX-APJ-FCV-NEL",
+            "description": "",
+            "level": 5,
+            "name": "Thoraxkirurgi",
+            "status": "ACTIVE"
+        },
+        {
             "code": "RYF-WUU-SUX-APJ-FCV-SYD",
             "description": "",
             "level": 5,
             "name": "Transplantation",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-WUU-SUX-APJ-FCV-TKG",
+            "description": "",
+            "level": 5,
+            "name": "Fetmakirurgi",
             "status": "ACTIVE"
         },
         {
@@ -24797,6 +26639,13 @@
             "description": "",
             "level": 4,
             "name": "Allmänmedicin",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-WUU-SUX-APJ-QXO",
+            "description": "",
+            "level": 4,
+            "name": "Endokrinologi",
             "status": "ACTIVE"
         },
         {
@@ -24846,7 +26695,8 @@
             "description": "",
             "level": 4,
             "name": "Röntgen",
-            "status": "ACTIVE"
+            "replacedBy": "RYF-WUU-QNB-PGP-OZE",
+            "status": "INACTIVE"
         },
         {
             "code": "RYF-WUU-SUX-APJ-XHQ",
@@ -24859,7 +26709,7 @@
             "code": "RYF-WUU-SUX-APJ-ZDB",
             "description": "Specialitet i åldrande och åldersrelaterade frågor, bland annat åldersrelaterade sjukdomar",
             "level": 4,
-            "name": "Geriatrisk medicin",
+            "name": "Geriatrik",
             "status": "ACTIVE"
         },
         {
@@ -24891,6 +26741,34 @@
             "status": "ACTIVE"
         },
         {
+            "code": "RYF-WUU-SUX-IGS",
+            "description": "",
+            "level": 3,
+            "name": "Patient",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-WUU-SUX-IGS-ANP",
+            "description": "",
+            "level": 4,
+            "name": "Patientsäkerhet",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-WUU-SUX-IGS-IJB",
+            "description": "",
+            "level": 4,
+            "name": "Vårdskada",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-WUU-SUX-IGS-YIZ",
+            "description": "",
+            "level": 4,
+            "name": "Patientsekretess",
+            "status": "ACTIVE"
+        },
+        {
             "code": "RYF-WUU-SUX-MEF",
             "description": "",
             "level": 3,
@@ -24906,11 +26784,25 @@
             "status": "ACTIVE"
         },
         {
+            "code": "RYF-WUU-SUX-QRU",
+            "description": "",
+            "level": 3,
+            "name": "Vårdval",
+            "status": "ACTIVE"
+        },
+        {
             "code": "RYF-WUU-SUX-SFB",
             "description": "",
             "level": 3,
             "name": "Omsorg",
             "status": "INACTIVE"
+        },
+        {
+            "code": "RYF-WUU-WDK",
+            "description": "",
+            "level": 2,
+            "name": "Omvårdnad",
+            "status": "ACTIVE"
         },
         {
             "code": "RYF-WUU-WXG",
@@ -24934,6 +26826,19 @@
             "name": "Djursjukdomar",
             "replacedBy": "RYF-EOI-DLM-FKB-XGL-QSV",
             "status": "INACTIVE"
+        },
+        {
+            "code": "RYF-WUU-YYH",
+            "description": "",
+            "level": 2,
+            "name": "Kvinnohälsa",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-WUU-YYH-SYF",
+            "level": 3,
+            "name": "Mödrahälsovård",
+            "status": "ACTIVE"
         },
         {
             "code": "RYF-WUU-ZUM",
@@ -25417,7 +27322,7 @@
             "description": "",
             "level": 3,
             "name": "Säkerhet",
-            "status": "ACTIVE"
+            "status": "INACTIVE"
         },
         {
             "code": "RYF-WXT-YEM",
@@ -25445,7 +27350,7 @@
             "code": "RYF-XKI-BUS",
             "description": "",
             "level": 2,
-            "name": "Medier",
+            "name": "Media",
             "status": "ACTIVE"
         },
         {
@@ -25530,7 +27435,7 @@
             "code": "RYF-XKI-BUS-IGO",
             "description": "",
             "level": 3,
-            "name": "Poddar",
+            "name": "Podcast",
             "replaces": "RYF-IXA-KEV-MCZ-FDE",
             "status": "ACTIVE"
         },
@@ -25626,6 +27531,13 @@
             "level": 4,
             "name": "Influerare",
             "replaces": "RYF-XKI-BUS-PXU",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-XKI-BUS-RXO-VUJ",
+            "description": "",
+            "level": 4,
+            "name": "Näthat",
             "status": "ACTIVE"
         },
         {
@@ -25785,7 +27697,7 @@
             "code": "RYF-XKI-CUP-EDZ-CHP",
             "description": "",
             "level": 4,
-            "name": "Science-fictionlitteratur",
+            "name": "Science fiction-litteratur",
             "status": "ACTIVE"
         },
         {
@@ -25835,7 +27747,7 @@
             "code": "RYF-XKI-CUP-EDZ-QKB",
             "description": "",
             "level": 4,
-            "name": "Drama",
+            "name": "Dramatik",
             "status": "ACTIVE"
         },
         {
@@ -25928,13 +27840,13 @@
             "level": 4,
             "name": "Arkitektur",
             "replaces": "RYF-XKI-IUV",
-            "status": "ACTIVE"
+            "status": "INACTIVE"
         },
         {
             "code": "RYF-XKI-CUP-NCO-DAV",
             "description": "",
             "level": 4,
-            "name": "Design",
+            "name": "Formgivning",
             "status": "ACTIVE"
         },
         {
@@ -25970,7 +27882,7 @@
             "code": "RYF-XKI-CUP-NCO-LTB",
             "description": "",
             "level": 4,
-            "name": "Non-fungible token, NTF",
+            "name": "Non-fungible token, NFT",
             "status": "ACTIVE"
         },
         {
@@ -26086,6 +27998,13 @@
             "description": "",
             "level": 5,
             "name": "Musikfestival",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-XKI-CUP-NWA-EUO",
+            "description": "",
+            "level": 4,
+            "name": "Skivor",
             "status": "ACTIVE"
         },
         {
@@ -26548,7 +28467,7 @@
             "description": "",
             "level": 4,
             "name": "Skådespelare",
-            "status": "ACTIVE"
+            "status": "INACTIVE"
         },
         {
             "code": "RYF-XKI-CUP-XBM-FOB",
@@ -26568,7 +28487,7 @@
             "code": "RYF-XKI-CUP-XBM-GXV",
             "description": "",
             "level": 4,
-            "name": "Science-fictionfilm",
+            "name": "Science fiction-film",
             "status": "ACTIVE"
         },
         {
@@ -27206,7 +29125,7 @@
             "code": "RYF-XRZ",
             "description": "",
             "level": 1,
-            "name": "Trafik, kommunikation & fordon",
+            "name": "Trafik & fordon",
             "status": "ACTIVE"
         },
         {
@@ -27265,6 +29184,13 @@
             "status": "ACTIVE"
         },
         {
+            "code": "RYF-XRZ-CKD",
+            "description": "",
+            "level": 2,
+            "name": "Vägarbete",
+            "status": "ACTIVE"
+        },
+        {
             "code": "RYF-XRZ-DND",
             "description": "",
             "level": 2,
@@ -27295,6 +29221,13 @@
             "status": "ACTIVE"
         },
         {
+            "code": "RYF-XRZ-GGI-EOB",
+            "description": "",
+            "level": 3,
+            "name": "Drönare",
+            "status": "ACTIVE"
+        },
+        {
             "code": "RYF-XRZ-GGI-HGK",
             "description": "",
             "level": 3,
@@ -27313,6 +29246,13 @@
             "description": "",
             "level": 3,
             "name": "Utrikesflyg",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-XRZ-HGX",
+            "description": "",
+            "level": 2,
+            "name": "Trafiksäkerhet",
             "status": "ACTIVE"
         },
         {
@@ -27720,7 +29660,7 @@
             "code": "RYF-XRZ-OOW-MNK",
             "description": "",
             "level": 3,
-            "name": "A-traktor & Epa-traktor",
+            "name": "A-traktor",
             "replaces": "RYF-TKT-MRA-YUY-MNK",
             "status": "ACTIVE"
         },
@@ -27756,6 +29696,13 @@
             "status": "ACTIVE"
         },
         {
+            "code": "RYF-XRZ-QGR",
+            "description": "",
+            "level": 2,
+            "name": "Trafik",
+            "status": "ACTIVE"
+        },
+        {
             "code": "RYF-XRZ-QUQ",
             "description": "",
             "level": 2,
@@ -27768,6 +29715,21 @@
             "description": "",
             "level": 2,
             "name": "Motor",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-XRZ-QWV-YJC",
+            "description": "",
+            "level": 3,
+            "name": "Motorproblem",
+            "replaces": "RYF-XRZ-UNI",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-XRZ-SSN",
+            "description": "",
+            "level": 2,
+            "name": "Biltrafik",
             "status": "ACTIVE"
         },
         {
@@ -27791,6 +29753,13 @@
             "level": 2,
             "name": "Sjöfart",
             "replaces": "RYF-HPT-YGE-GUI-YMN",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-XRZ-TEE-CAO",
+            "description": "",
+            "level": 3,
+            "name": "Vattenskoter",
             "status": "ACTIVE"
         },
         {
@@ -27838,8 +29807,9 @@
             "description": "",
             "level": 2,
             "name": "Motorproblem",
+            "replacedBy": "RYF-XRZ-QWV-YJC",
             "replaces": "RYF-TKT-MRA-OPE",
-            "status": "ACTIVE"
+            "status": "INACTIVE"
         },
         {
             "code": "RYF-XRZ-UXH",
@@ -28393,6 +30363,13 @@
             "status": "ACTIVE"
         },
         {
+            "code": "RYF-YDR-SXS",
+            "description": "",
+            "level": 2,
+            "name": "Högskoleprov",
+            "status": "ACTIVE"
+        },
+        {
             "code": "RYF-YDR-TIQ",
             "description": "",
             "level": 2,
@@ -28498,7 +30475,7 @@
             "code": "RYF-ZEI",
             "description": "Sociala aspekter, lagar, regler och förhållanden som påverkar sysselsättning och arbetslöshet",
             "level": 1,
-            "name": "Arbetsmarknad",
+            "name": "Arbete",
             "status": "ACTIVE"
         },
         {
@@ -28506,14 +30483,15 @@
             "description": "",
             "level": 2,
             "name": "Nyanställning",
-            "status": "ACTIVE"
+            "status": "INACTIVE"
         },
         {
             "code": "RYF-ZEI-AGF-NLP",
             "description": "",
             "level": 3,
             "name": "Rekrytering",
-            "status": "ACTIVE"
+            "replacedBy": "RYF-ZEI-CZS-JZU-JMM",
+            "status": "INACTIVE"
         },
         {
             "code": "RYF-ZEI-AGF-QIL",
@@ -28723,11 +30701,59 @@
             "status": "ACTIVE"
         },
         {
+            "code": "RYF-ZEI-CZS-JZU-ADK",
+            "description": "",
+            "level": 4,
+            "name": "Förordnande",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-ZEI-CZS-JZU-JMM",
+            "description": "",
+            "level": 4,
+            "name": "Rekrytering",
+            "replaces": "RYF-ZEI-AGF-NLP",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-ZEI-CZS-SAF",
+            "description": "",
+            "level": 3,
+            "name": "Kompetensförsörjning",
+            "status": "ACTIVE"
+        },
+        {
             "code": "RYF-ZEI-CZS-WIC",
             "description": "Kompletterande utbildning för att förbättra nuvarande kompetens",
             "level": 3,
             "name": "Kompetensutveckling",
             "replaces": "RYF-ZEI-YYF",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-ZEI-CZS-WLH",
+            "description": "",
+            "level": 3,
+            "name": "Bemanning",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-ZEI-CZS-XBS",
+            "description": "",
+            "level": 3,
+            "name": "Arbetstid",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-ZEI-CZS-XBS-LXX",
+            "level": 4,
+            "name": "Övertid",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-ZEI-CZS-XBS-YYF",
+            "level": 4,
+            "name": "Schemaläggning",
             "status": "ACTIVE"
         },
         {
@@ -28842,6 +30868,13 @@
             "status": "ACTIVE"
         },
         {
+            "code": "RYF-ZEI-QBA",
+            "description": "",
+            "level": 2,
+            "name": "Arbetsmarknad",
+            "status": "ACTIVE"
+        },
+        {
             "code": "RYF-ZEI-QVY",
             "description": "",
             "level": 2,
@@ -28908,11 +30941,25 @@
             "status": "ACTIVE"
         },
         {
+            "code": "RYF-ZEI-RYD-YZX-NAP",
+            "description": "",
+            "level": 4,
+            "name": "Arbetsmiljöbrott",
+            "status": "ACTIVE"
+        },
+        {
             "code": "RYF-ZEI-SID",
             "description": "",
             "level": 2,
             "name": "Yrken",
             "replaces": "RYF-ZEI-CLV-BLS",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-ZEI-UOK",
+            "description": "",
+            "level": 2,
+            "name": "Distansarbete",
             "status": "ACTIVE"
         },
         {
@@ -28944,7 +30991,8 @@
             "description": "",
             "level": 2,
             "name": "Arbetskraftsinvanding",
-            "status": "ACTIVE"
+            "replacedBy": "RYF-HPT-QGV-FQE",
+            "status": "INACTIVE"
         }
     ],
     "version": "4.1.0"
