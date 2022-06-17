@@ -700,13 +700,7 @@ modifications:
 - action: ADD
   parentCode: RYF-ZEI-CZS-JZU
   parentName: Nyanställning
-  name: Utnämning
-  level: 4
-
-- action: ADD
-  parentCode: RYF-ZEI-CZS-JZU
-  parentName: Förordnande
-  name: Utnämning
+  name: Förordnande
   level: 4
 
 - action: INACTIVATE
