@@ -1,0 +1,39 @@
+modifications:
+
+- action: MOVE
+  code: RYF-IXA-KEV-RQL-XIL
+  name: Köpcentrum & galleria
+  newParentCode: RYF-HPT-UYY
+  newParentName: Stadsmiljö
+
+- action: ADD
+  parentCode: RYF-XKI-BUS-IFX
+  parentName: TV
+  name: TV-serie
+  level: 4
+
+- action: ADD
+  parentCode: RYF-TKT-AGB-BGD
+  parentName: Heminredning
+  name: Compact living
+  level: 4
+
+- action: INACTIVATE
+  code: RYF-TKT-AGB-BGD-UQY
+  name: Inredningsdesign & inspiration
+
+- action: ADD
+  parentCode: RYF-YDR
+  parentName: Skola & utbildning
+  name: Pedagogik
+  level: 2
+
+- action: UPDATE
+  code: RYF-EOI-DOE-GTI
+  name: Upptäckter & uppfinningar
+  newName: Vetenskaplig upptäckt
+
+- action: UPDATE
+  code: RYF-IXA-KEV-MCZ-QTV
+  name: Tv-industri
+  newName: TV-branschen

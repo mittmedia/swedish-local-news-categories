@@ -2332,7 +2332,7 @@ categories:
 - code: RYF-EOI-DOE-GTI
   description: ''
   level: 3
-  name: Upptäckter & uppfinningar
+  name: Vetenskaplig upptäckt
   status: ACTIVE
 - code: RYF-EOI-DOE-MJL
   description: ''
@@ -3109,6 +3109,12 @@ categories:
   level: 2
   name: Stadsmiljö
   replaces: RYF-HPT-ZSS-HAB
+  status: ACTIVE
+- code: RYF-HPT-UYY-EKI
+  description: ''
+  level: 3
+  name: Köpcentrum & galleria
+  replaces: RYF-IXA-KEV-RQL-XIL
   status: ACTIVE
 - code: RYF-HPT-UYY-INU
   description: ''
@@ -5112,7 +5118,7 @@ categories:
 - code: RYF-IXA-KEV-MCZ-QTV
   description: ''
   level: 4
-  name: Tv-industri
+  name: TV-branschen
   status: ACTIVE
 - code: RYF-IXA-KEV-MCZ-UFQ
   description: ''
@@ -5176,6 +5182,7 @@ categories:
   replaces: RYF-IXA-KEV-MCZ-LRX-GNN
   status: ACTIVE
 - code: RYF-IXA-KEV-OFN-IBM
+  description: ''
   level: 4
   name: Sponsring
   status: ACTIVE
@@ -5186,14 +5193,17 @@ categories:
   replaces: RYF-IXA-KEV-MCZ-LRX-IRF
   status: ACTIVE
 - code: RYF-IXA-KEV-OFN-KJG
+  description: ''
   level: 4
   name: Kampanj
   status: ACTIVE
 - code: RYF-IXA-KEV-OFN-REG
+  description: ''
   level: 4
   name: Kommunikation
   status: ACTIVE
 - code: RYF-IXA-KEV-OFN-RGF
+  description: ''
   level: 4
   name: Greenwashing
   status: ACTIVE
@@ -5364,6 +5374,7 @@ categories:
   name: Betalning
   status: ACTIVE
 - code: RYF-IXA-KEV-RQL-AUU-CLJ
+  description: ''
   level: 5
   name: Betallösning
   status: ACTIVE
@@ -5378,26 +5389,32 @@ categories:
   name: Kund
   status: ACTIVE
 - code: RYF-IXA-KEV-RQL-BVO-CNZ
+  description: ''
   level: 5
   name: Kundrelation
   status: ACTIVE
 - code: RYF-IXA-KEV-RQL-BVO-GQN
+  description: ''
   level: 5
   name: Kundbeteende
   status: ACTIVE
 - code: RYF-IXA-KEV-RQL-BVO-LKZ
+  description: ''
   level: 5
   name: Kundmöte
   status: ACTIVE
 - code: RYF-IXA-KEV-RQL-BVO-PIW
+  description: ''
   level: 5
   name: Kundlojalitet
   status: ACTIVE
 - code: RYF-IXA-KEV-RQL-BVO-QPN
+  description: ''
   level: 5
   name: Kundklubb
   status: ACTIVE
 - code: RYF-IXA-KEV-RQL-COT
+  description: ''
   level: 4
   name: Lågprishandel
   status: ACTIVE
@@ -5501,10 +5518,12 @@ categories:
   name: Butik
   status: ACTIVE
 - code: RYF-IXA-KEV-RQL-VDC-LGZ
+  description: ''
   level: 5
   name: Obemannade butiker
   status: ACTIVE
 - code: RYF-IXA-KEV-RQL-VDC-QDK
+  description: ''
   level: 5
   name: Butikskoncept
   status: ACTIVE
@@ -5527,8 +5546,9 @@ categories:
   description: ''
   level: 4
   name: Köpcentrum & galleria
+  replacedBy: RYF-HPT-UYY-EKI
   replaces: RYF-HPT-UYY-YQC
-  status: ACTIVE
+  status: INACTIVE
 - code: RYF-IXA-KEV-RQL-XNY
   description: ''
   level: 4
@@ -13424,6 +13444,10 @@ categories:
   name: Lantlig stil
   replaces: RYF-TKT-AGB-BGD-LMT-VVX
   status: ACTIVE
+- code: RYF-TKT-AGB-BGD-QYL
+  level: 4
+  name: Compact living
+  status: ACTIVE
 - code: RYF-TKT-AGB-BGD-QZB
   description: ''
   level: 4
@@ -13475,7 +13499,7 @@ categories:
   description: ''
   level: 4
   name: Inredningsdesign & inspiration
-  status: ACTIVE
+  status: INACTIVE
 - code: RYF-TKT-AGB-BGD-VIN
   description: ''
   level: 4
@@ -18262,10 +18286,12 @@ categories:
   name: Ledsjukdom
   status: ACTIVE
 - code: RYF-WUU-JZK-LIP-VYN
+  description: ''
   level: 4
   name: Artros
   status: ACTIVE
 - code: RYF-WUU-JZK-LIP-XJE
+  description: ''
   level: 4
   name: Reumatism
   status: ACTIVE
@@ -19200,6 +19226,7 @@ categories:
   name: Bild- & funktionsmedicin
   status: ACTIVE
 - code: RYF-WUU-QNB-PGP-IEG
+  description: ''
   level: 4
   name: Ekg
   status: ACTIVE
@@ -19492,6 +19519,7 @@ categories:
   name: Kvinnohälsa
   status: ACTIVE
 - code: RYF-WUU-YYH-SYF
+  description: ''
   level: 3
   name: Mödrahälsovård
   status: ACTIVE
@@ -19893,6 +19921,10 @@ categories:
   level: 4
   name: Barnprogram
   replaces: RYF-XKI-BUS-NYP-XRY
+  status: ACTIVE
+- code: RYF-XKI-BUS-IFX-JVI
+  level: 4
+  name: TV-serie
   status: ACTIVE
 - code: RYF-XKI-BUS-IFX-LAR
   description: Till exempel "Big Brother", "Gift vid första ögonkastet"
@@ -22103,6 +22135,10 @@ categories:
   name: Gymnasieskola
   replaces: RYF-YDR-MHH-LKU
   status: ACTIVE
+- code: RYF-YDR-QSS
+  level: 2
+  name: Pedagogik
+  status: ACTIVE
 - code: RYF-YDR-SXS
   description: ''
   level: 2
@@ -22384,10 +22420,12 @@ categories:
   name: Arbetstid
   status: ACTIVE
 - code: RYF-ZEI-CZS-XBS-LXX
+  description: ''
   level: 4
   name: Övertid
   status: ACTIVE
 - code: RYF-ZEI-CZS-XBS-YYF
+  description: ''
   level: 4
   name: Schemaläggning
   status: ACTIVE
