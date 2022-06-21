@@ -3114,8 +3114,9 @@ categories:
   description: ''
   level: 3
   name: Köpcentrum & galleria
+  replacedBy: RYF-IXA-KEV-RQL-ZQL
   replaces: RYF-IXA-KEV-RQL-XIL
-  status: ACTIVE
+  status: INACTIVE
 - code: RYF-HPT-UYY-INU
   description: ''
   level: 3
@@ -3578,7 +3579,7 @@ categories:
   description: ''
   level: 3
   name: Telenät
-  status: ACTIVE
+  status: INACTIVE
 - code: RYF-HPT-YGE-YSF
   description: ''
   level: 3
@@ -5554,6 +5555,12 @@ categories:
   level: 4
   name: Klädhandel
   status: INACTIVE
+- code: RYF-IXA-KEV-RQL-ZQL
+  description: ''
+  level: 4
+  name: Köpcentrum & galleria
+  replaces: RYF-HPT-UYY-EKI
+  status: ACTIVE
 - code: RYF-IXA-KEV-RSE
   description: ''
   level: 3
@@ -13445,6 +13452,7 @@ categories:
   replaces: RYF-TKT-AGB-BGD-LMT-VVX
   status: ACTIVE
 - code: RYF-TKT-AGB-BGD-QYL
+  description: ''
   level: 4
   name: Compact living
   status: ACTIVE
@@ -17868,6 +17876,10 @@ categories:
   level: 3
   name: Privata vårdgivare
   status: ACTIVE
+- code: RYF-WUU-CGN
+  level: 2
+  name: Medicinteknik
+  status: ACTIVE
 - code: RYF-WUU-CNM
   description: ''
   level: 2
@@ -19923,6 +19935,7 @@ categories:
   replaces: RYF-XKI-BUS-NYP-XRY
   status: ACTIVE
 - code: RYF-XKI-BUS-IFX-JVI
+  description: ''
   level: 4
   name: TV-serie
   status: ACTIVE
@@ -22136,6 +22149,7 @@ categories:
   replaces: RYF-YDR-MHH-LKU
   status: ACTIVE
 - code: RYF-YDR-QSS
+  description: ''
   level: 2
   name: Pedagogik
   status: ACTIVE
