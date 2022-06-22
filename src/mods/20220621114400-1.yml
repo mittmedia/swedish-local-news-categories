@@ -1,0 +1,17 @@
+modifications:
+
+- action: MOVE
+  code: RYF-HPT-UYY-EKI
+  name: Köpcentrum & galleria
+  newParentCode: RYF-IXA-KEV-RQL
+  newParentName: Handel
+
+- action: ADD
+  parentCode: RYF-WUU
+  parentName: Hälsa & sjukvård
+  name: Medicinteknik
+  level: 2
+
+- action: INACTIVATE
+  code: RYF-HPT-YGE-YLZ
+  name: Telenät
