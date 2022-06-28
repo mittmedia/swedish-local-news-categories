@@ -4493,7 +4493,7 @@
             "description": "",
             "level": 3,
             "name": "Familjehem",
-            "status": "ACTIVE"
+            "status": "INACTIVE"
         },
         {
             "code": "RYF-HPT-XRQ-DQU",
@@ -4712,7 +4712,7 @@
             "description": "",
             "level": 4,
             "name": "Skola & utbildning",
-            "status": "ACTIVE"
+            "status": "INACTIVE"
         },
         {
             "code": "RYF-HPT-YGE-EWJ-OPG",
@@ -5447,6 +5447,14 @@
             "status": "ACTIVE"
         },
         {
+            "code": "RYF-IXA-AOE-CYP-APK",
+            "description": "",
+            "level": 4,
+            "name": "Blankolån",
+            "replaces": "RYF-IXA-AOE-CYP-SBF-IRO",
+            "status": "ACTIVE"
+        },
+        {
             "code": "RYF-IXA-AOE-CYP-LRH",
             "description": "",
             "level": 4,
@@ -5458,21 +5466,23 @@
             "description": "",
             "level": 4,
             "name": "Privatlån",
-            "status": "ACTIVE"
+            "status": "INACTIVE"
         },
         {
             "code": "RYF-IXA-AOE-CYP-SBF-IRO",
             "description": "",
             "level": 5,
             "name": "Blankolån",
-            "status": "ACTIVE"
+            "replacedBy": "RYF-IXA-AOE-CYP-APK",
+            "status": "INACTIVE"
         },
         {
             "code": "RYF-IXA-AOE-CYP-SBF-QNT",
             "description": "",
             "level": 5,
             "name": "Sms-lån",
-            "status": "ACTIVE"
+            "replacedBy": "RYF-IXA-AOE-CYP-YDR",
+            "status": "INACTIVE"
         },
         {
             "code": "RYF-IXA-AOE-CYP-TSE",
@@ -5502,6 +5512,14 @@
             "description": "",
             "level": 5,
             "name": "Bolåneränta",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-IXA-AOE-CYP-YDR",
+            "description": "",
+            "level": 4,
+            "name": "Sms-lån",
+            "replaces": "RYF-IXA-AOE-CYP-SBF-QNT",
             "status": "ACTIVE"
         },
         {
@@ -9481,7 +9499,7 @@
             "description": "",
             "level": 3,
             "name": "Konjunktur",
-            "status": "ACTIVE"
+            "status": "INACTIVE"
         },
         {
             "code": "RYF-IXA-QED-MVF",
@@ -19263,7 +19281,7 @@
             "description": "",
             "level": 3,
             "name": "Kakor",
-            "status": "ACTIVE"
+            "status": "INACTIVE"
         },
         {
             "code": "RYF-TKT-BOI-KPY",
@@ -19781,7 +19799,7 @@
             "description": "",
             "level": 5,
             "name": "Glasögon & linser",
-            "status": "ACTIVE"
+            "status": "INACTIVE"
         },
         {
             "code": "RYF-TKT-GTX-NKU-BJE-GYV",
@@ -24565,7 +24583,7 @@
             "description": "",
             "level": 2,
             "name": "Extremväder",
-            "status": "ACTIVE"
+            "status": "INACTIVE"
         },
         {
             "code": "RYF-WHZ-XTD",
@@ -24625,6 +24643,7 @@
         },
         {
             "code": "RYF-WUU-CGN",
+            "description": "",
             "level": 2,
             "name": "Medicinteknik",
             "status": "ACTIVE"
