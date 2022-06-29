@@ -1,0 +1,37 @@
+modifications:
+
+- action: INACTIVATE
+  code: RYF-IXA-QED-MNF
+  name: Konjunktur
+
+- action: INACTIVATE
+  code: RYF-TKT-BOI-JXD
+  name: Kakor
+
+- action: INACTIVATE
+  code: RYF-HPT-YGE-EWJ-NCW
+  name: Skola & utbildning
+
+- action: INACTIVATE
+  code: RYF-HPT-XRQ-DJB
+  name: Familjehem
+
+- action: INACTIVATE
+  code: RYF-WHZ-WOM
+  name: Extremväder
+
+- action: INACTIVATE
+  code: RYF-TKT-GTX-NKU-BJE-BJH
+  name: Glasögon & linser
+
+- action: MOVE
+  code: RYF-IXA-AOE-CYP-SBF-IRO
+  name: Blankolån
+  newParentCode: RYF-IXA-AOE-CYP
+  newParentName: Privatlån
+
+- action: MOVE
+  code: RYF-IXA-AOE-CYP-SBF-QNT
+  name: Sms-lån
+  newParentCode: RYF-IXA-AOE-CYP
+  newParentName: Privatlån
