@@ -1,0 +1,142 @@
+modifications:
+- action: ADD
+  parentCode: RYF-IXA-KEV-IRW-TYN
+  parentName: Anläggning
+  name: Markarbete
+  level: 5
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-IRW
+  parentName: Byggnation
+  name: Byggteknik
+  level: 4
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-RQL-VDC
+  parentName: Butik
+  name: Hybridbutik
+  level: 5
+
+- action: ADD
+  parentCode: RYF-IXA-KEV
+  parentName: Näringsliv
+  name: Konkurrens
+  level: 3
+  
+- action: ADD
+  parentCode: RYF-IXA-KEV
+  parentName: Näringsliv
+  name: Produktivitet
+  level: 3
+
+- action: UPDATE
+  code: RYF-IXA-KEV-JOH
+  name: Nyemmission
+  newName: Nyemission
+
+- action: ADD
+  parentCode: RYF-IXA-QED
+  parentName: Samhällsekonomi
+  name: Tillväxt
+  level: 3
+
+- action: ADD
+  parentCode: RYF-WUU-QNB
+  parentName: Behandlingar
+  name: Idrottsmedicin
+  level: 3
+
+- action: ADD
+  parentCode: RYF-WUU-SUX
+  parentName: Vård
+  name: Digital vård
+  level: 3
+
+- action: ADD
+  parentCode: RYF-WUU-SUX-APJ
+  parentName: Specialistvård
+  name: Intensivvård
+  level: 4
+
+- action: UPDATE
+  code: RYF-WUU-BNJ-YTT
+  name: Privata vårdgivare
+  newName: Privat sjukvård
+
+- action: ADD
+  parentCode: RYF-VHD-HXU
+  parentName: Djur & natur
+  name: Naturskydd
+  level: 3
+
+- action: ADD
+  parentCode: RYF-VHD-GUZ
+  parentName: Klimat
+  name: Klimatmål
+  level: 3
+
+- action: ADD
+  parentCode: RYF-TKT-XHP
+  parentName: Träning & hälsa
+  name: Parkour
+  level: 3
+
+- action: ADD
+  parentCode: RYF-CUW-LGT
+  parentName: Ceremonier & händelser
+  name: Konfirmation
+  level: 3
+
+- action: ADD
+  parentCode: RYF-CUW
+  parentName: Personligt
+  name: Släktforskning
+  level: 2
+
+- action: ADD
+  parentCode: RYF-QPR-HGB-DEN-TQG
+  parentName: Division 2 herr
+  name: Södra Götaland
+  level: 5
+
+- action: ADD
+  parentCode: RYF-QPR-HGB-DEN-CWD
+  parentName: Division 6 herr
+  name: Skåne nordöstra A
+  level: 5
+
+- action: ADD
+  parentCode: RYF-QPR-HGB-DEN-CWD
+  parentName: Division 6 herr
+  name: Skåne nordöstra B
+  level: 5
+
+- action: ADD
+  parentCode: RYF-XRZ
+  parentName: Trafik & fordon
+  name: Cykelväg
+  level: 2
+
+- action: UPDATE
+  code: RYF-WUU-JZK-JUK-THW-PYV
+  name: TBE
+  newName: TBE
+  description: Tick-borne encephalitis. Fästingburen hjärninflammation.
+
+- action: UPDATE
+  code: RYF-WUU-JZK-IDJ-SFS
+  name: ALS
+  newName: ALS
+  description: Amyotrofisk lateral skleros
+
+- action: UPDATE
+  code: RYF-WUU-JZK-IDJ-UOQ
+  name: CP
+  newName: CP
+  description: Cerebral pares
+
+- action: UPDATE
+  code: RYF-WUU-JZK-IDJ-RHH
+  name: MS
+  newName: MS
+  description: Multipel skleros
