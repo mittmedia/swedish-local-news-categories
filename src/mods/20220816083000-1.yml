@@ -140,3 +140,9 @@ modifications:
   name: MS
   newName: MS
   description: Multipel skleros
+
+- action: MOVE
+  code: RYF-HPT-ZSS-HAB-FQJ
+  name: Stadsplanering
+  newParentCode: RYF-HPT-UYY
+  newParentName: Stadsmiljö
