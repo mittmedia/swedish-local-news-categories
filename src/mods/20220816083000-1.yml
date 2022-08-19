@@ -146,3 +146,15 @@ modifications:
   name: Stadsplanering
   newParentCode: RYF-HPT-UYY
   newParentName: Stadsmiljö
+
+- action: MOVE
+  code: RYF-WUU-CNM-QBE
+  name: Barnmorskor
+  newParentCode: RYF-WUU-MBA
+  newParentName: Vårdyrken
+
+- action: MOVE
+  code: RYF-XKI-CUP-NWA-VVW-WTE
+  name: Funk
+  newParentCode: RYF-XKI-CUP-NWA
+  newParentName: Musik
