@@ -3,9 +3,3 @@ modifications:
   code: RYF-EOI-GJM-DZK
   name: Väg- & vattenbyggnadsteknik
   newName: Väg- & vattenbyggnad
-
-- action: MOVE
-  code: RYF-EOI-GJM-DZK
-  name: Väg- & vattenbyggnad # Nytt namn ovan
-  newParentCode: RYF-IXA-KEV-IRW-XXXX # ID från -1
-  newParentName: Byggteknik
