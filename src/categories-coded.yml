@@ -48,7 +48,7 @@ categories:
 - code: RYF-AKM-QGJ
   description: Alla typer av olyckor, till exempel trafikolyckor, arbetsplatsolyckor, utsläpp eller explosioner
   level: 2
-  name: Olyckor
+  name: Olycka
   status: ACTIVE
 - code: RYF-AKM-QGJ-APU
   description: ''
@@ -94,6 +94,10 @@ categories:
   description: ''
   level: 4
   name: Olycksstatistik
+  status: ACTIVE
+- code: RYF-AKM-QGJ-KVD
+  level: 3
+  name: Dödsolycka
   status: ACTIVE
 - code: RYF-AKM-QGJ-PIH
   description: ''
@@ -385,6 +389,10 @@ categories:
   name: Kapning av fordon
   replacedBy: RYF-BIZ-WZJ-GNO-HHO
   status: INACTIVE
+- code: RYF-BIZ-WZJ-DAI
+  level: 3
+  name: Sabotage mot blåljusverksamhet
+  status: ACTIVE
 - code: RYF-BIZ-WZJ-DCA
   description: ''
   level: 3
@@ -595,6 +603,10 @@ categories:
   description: ''
   level: 4
   name: Våld i nära relationer
+  status: ACTIVE
+- code: RYF-BIZ-WZJ-KVS-ZCK
+  level: 4
+  name: Våld mot tjänsteman
   status: ACTIVE
 - code: RYF-BIZ-WZJ-MZM
   description: Brott som begåtts under krig eller väpnad konflikt, vanligtvis mot civila
@@ -2911,6 +2923,10 @@ categories:
   level: 2
   name: Social hållbarhet
   status: INACTIVE
+- code: RYF-HPT-SNO
+  level: 2
+  name: Globalisering
+  status: ACTIVE
 - code: RYF-HPT-SQQ
   description: ''
   level: 2
@@ -4921,6 +4937,10 @@ categories:
   level: 4
   name: Byggrätt
   status: ACTIVE
+- code: RYF-IXA-KEV-IRW-IPG
+  level: 4
+  name: Byggnadsvård
+  status: ACTIVE
 - code: RYF-IXA-KEV-IRW-JSE
   description: ''
   level: 4
@@ -5566,6 +5586,10 @@ categories:
   name: Matfusk
   replaces: RYF-IXA-KEV-RQL-MGE-ICQ
   status: ACTIVE
+- code: RYF-IXA-KEV-RQL-QQF-XIH
+  level: 5
+  name: Matpris
+  status: ACTIVE
 - code: RYF-IXA-KEV-RQL-TCU
   description: ''
   level: 4
@@ -5711,6 +5735,10 @@ categories:
   description: ''
   level: 5
   name: Simhall
+  status: ACTIVE
+- code: RYF-IXA-KEV-TOY-HJM
+  level: 4
+  name: Skyddsrum
   status: ACTIVE
 - code: RYF-IXA-KEV-TOY-JIQ
   description: ''
@@ -17405,6 +17433,10 @@ categories:
   level: 3
   name: Klimatförändring
   status: ACTIVE
+- code: RYF-VHD-GUZ-LKC-ISM
+  level: 4
+  name: Klimatbudget
+  status: ACTIVE
 - code: RYF-VHD-GUZ-MPU
   description: ''
   level: 3
@@ -17654,6 +17686,14 @@ categories:
   description: ''
   level: 3
   name: Avfall
+  status: ACTIVE
+- code: RYF-VHD-IFE-EGU-BQG
+  level: 4
+  name: Deponi
+  status: ACTIVE
+- code: RYF-VHD-IFE-EGU-ONK
+  level: 4
+  name: Avfallsförbränning
   status: ACTIVE
 - code: RYF-VHD-IFE-FHW
   description: Ämnen skadliga för människor och djur. Till exempel giftgaser, strålning, kemikalier, tungmetaller och PCB
@@ -21664,6 +21704,14 @@ categories:
   level: 4
   name: Vätgasbil
   replaces: RYF-TKT-MRA-JUA-XKH-FTH
+  status: ACTIVE
+- code: RYF-XRZ-ITR-XKH-RWW
+  level: 4
+  name: Laddinfrastruktur
+  status: ACTIVE
+- code: RYF-XRZ-ITR-XKH-USC
+  level: 4
+  name: Elbilsladdare
   status: ACTIVE
 - code: RYF-XRZ-ITR-XNP
   description: ''
