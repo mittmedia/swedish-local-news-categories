@@ -2307,6 +2307,13 @@
             "status": "ACTIVE"
         },
         {
+            "code": "RYF-CUW-LGT-NFH",
+            "description": "",
+            "level": 3,
+            "name": "Konfirmation",
+            "status": "ACTIVE"
+        },
+        {
             "code": "RYF-CUW-LGT-NLW",
             "description": "",
             "level": 3,
@@ -2740,6 +2747,13 @@
             "name": "Bråk & osämja",
             "replacedBy": "RYF-CUW-EHM-UKW",
             "status": "INACTIVE"
+        },
+        {
+            "code": "RYF-CUW-XOH",
+            "description": "",
+            "level": 2,
+            "name": "Släktforskning",
+            "status": "ACTIVE"
         },
         {
             "code": "RYF-CUW-XVL",
@@ -3292,8 +3306,9 @@
             "code": "RYF-EOI-GJM-DZK",
             "description": "",
             "level": 3,
-            "name": "Väg- & vattenbyggnadsteknik",
-            "status": "ACTIVE"
+            "name": "Väg- & vattenbyggnad",
+            "replacedBy": "RYF-IXA-KEV-IRW-PII-NPO",
+            "status": "INACTIVE"
         },
         {
             "code": "RYF-EOI-GJM-FGZ",
@@ -4285,6 +4300,14 @@
             "status": "INACTIVE"
         },
         {
+            "code": "RYF-HPT-UYY-IAR",
+            "description": "",
+            "level": 3,
+            "name": "Stadsplanering",
+            "replaces": "RYF-HPT-ZSS-HAB-FQJ",
+            "status": "ACTIVE"
+        },
+        {
             "code": "RYF-HPT-UYY-INU",
             "description": "",
             "level": 3,
@@ -4952,7 +4975,8 @@
             "description": "",
             "level": 4,
             "name": "Stadsplanering",
-            "status": "ACTIVE"
+            "replacedBy": "RYF-HPT-UYY-IAR",
+            "status": "INACTIVE"
         },
         {
             "code": "RYF-HPT-ZSS-HAB-INU",
@@ -6588,6 +6612,13 @@
             "status": "ACTIVE"
         },
         {
+            "code": "RYF-IXA-KEV-GQX",
+            "description": "",
+            "level": 3,
+            "name": "Konkurrens",
+            "status": "ACTIVE"
+        },
+        {
             "code": "RYF-IXA-KEV-GZI",
             "description": "",
             "level": 3,
@@ -6742,6 +6773,21 @@
             "status": "ACTIVE"
         },
         {
+            "code": "RYF-IXA-KEV-IRW-PII",
+            "description": "",
+            "level": 4,
+            "name": "Byggteknik",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-IXA-KEV-IRW-PII-NPO",
+            "description": "",
+            "level": 5,
+            "name": "Väg- & vattenbyggnad",
+            "replaces": "RYF-EOI-GJM-DZK",
+            "status": "ACTIVE"
+        },
+        {
             "code": "RYF-IXA-KEV-IRW-QZR",
             "description": "",
             "level": 4,
@@ -6770,6 +6816,13 @@
             "status": "ACTIVE"
         },
         {
+            "code": "RYF-IXA-KEV-IRW-TYN-HPX",
+            "description": "",
+            "level": 5,
+            "name": "Markarbete",
+            "status": "ACTIVE"
+        },
+        {
             "code": "RYF-IXA-KEV-IRW-WCU",
             "description": "",
             "level": 4,
@@ -6787,7 +6840,7 @@
             "code": "RYF-IXA-KEV-JOH",
             "description": "Nya erbjudanden av eget kapital inklusive börsintroduktioner",
             "level": 3,
-            "name": "Nyemmission",
+            "name": "Nyemission",
             "replaces": "RYF-IXA-ECZ-KOK",
             "status": "ACTIVE"
         },
@@ -7321,6 +7374,13 @@
             "status": "ACTIVE"
         },
         {
+            "code": "RYF-IXA-KEV-RBQ",
+            "description": "",
+            "level": 3,
+            "name": "Produktivitet",
+            "status": "ACTIVE"
+        },
+        {
             "code": "RYF-IXA-KEV-RFJ",
             "description": "",
             "level": 3,
@@ -7595,6 +7655,13 @@
             "description": "",
             "level": 5,
             "name": "Butikskoncept",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-IXA-KEV-RQL-VDC-ZNA",
+            "description": "",
+            "level": 5,
+            "name": "Hybridbutik",
             "status": "ACTIVE"
         },
         {
@@ -9521,6 +9588,13 @@
             "description": "",
             "level": 3,
             "name": "Statsskuld",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-IXA-QED-OID",
+            "description": "",
+            "level": 3,
+            "name": "Tillväxt",
             "status": "ACTIVE"
         },
         {
@@ -13675,6 +13749,13 @@
             "status": "ACTIVE"
         },
         {
+            "code": "RYF-QPR-HGB-DEN-CWD-JKQ",
+            "description": "",
+            "level": 5,
+            "name": "Skåne nordöstra B",
+            "status": "ACTIVE"
+        },
+        {
             "code": "RYF-QPR-HGB-DEN-CWD-JUI",
             "description": "",
             "level": 5,
@@ -13854,6 +13935,13 @@
             "description": "",
             "level": 5,
             "name": "Skåne västra",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-QPR-HGB-DEN-CWD-RIY",
+            "description": "",
+            "level": 5,
+            "name": "Skåne nordöstra A",
             "status": "ACTIVE"
         },
         {
@@ -15415,6 +15503,13 @@
             "description": "",
             "level": 5,
             "name": "Västra Götaland",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-QPR-HGB-DEN-TQG-QBZ",
+            "description": "",
+            "level": 5,
+            "name": "Södra Götaland",
             "status": "ACTIVE"
         },
         {
@@ -23388,6 +23483,13 @@
             "status": "ACTIVE"
         },
         {
+            "code": "RYF-TKT-XHP-ZWC",
+            "description": "",
+            "level": 3,
+            "name": "Parkour",
+            "status": "ACTIVE"
+        },
+        {
             "code": "RYF-TKT-YIG",
             "description": "",
             "level": 2,
@@ -23859,6 +23961,13 @@
             "status": "ACTIVE"
         },
         {
+            "code": "RYF-VHD-GUZ-HCO",
+            "description": "",
+            "level": 3,
+            "name": "Klimatmål",
+            "status": "ACTIVE"
+        },
+        {
             "code": "RYF-VHD-GUZ-LKC",
             "description": "",
             "level": 3,
@@ -24091,6 +24200,13 @@
             "level": 3,
             "name": "Biologisk mångfald",
             "replaces": "RYF-VHD-ZKU-OXB",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-VHD-HXU-KVF",
+            "description": "",
+            "level": 3,
+            "name": "Naturskydd",
             "status": "ACTIVE"
         },
         {
@@ -24638,7 +24754,7 @@
             "code": "RYF-WUU-BNJ-YTT",
             "description": "",
             "level": 3,
-            "name": "Privata vårdgivare",
+            "name": "Privat sjukvård",
             "status": "ACTIVE"
         },
         {
@@ -24674,7 +24790,8 @@
             "description": "",
             "level": 3,
             "name": "Barnmorskor",
-            "status": "ACTIVE"
+            "replacedBy": "RYF-WUU-MBA-MZT",
+            "status": "INACTIVE"
         },
         {
             "code": "RYF-WUU-CNM-ZCQ",
@@ -26381,6 +26498,14 @@
             "status": "ACTIVE"
         },
         {
+            "code": "RYF-WUU-MBA-MZT",
+            "description": "",
+            "level": 3,
+            "name": "Barnmorskor",
+            "replaces": "RYF-WUU-CNM-QBE",
+            "status": "ACTIVE"
+        },
+        {
             "code": "RYF-WUU-QNB",
             "description": "",
             "level": 2,
@@ -26392,7 +26517,7 @@
             "description": "",
             "level": 3,
             "name": "Hälsa & sjukvård",
-            "status": "ACTIVE"
+            "status": "INACTIVE"
         },
         {
             "code": "RYF-WUU-QNB-ATY",
@@ -26427,6 +26552,13 @@
             "description": "",
             "level": 4,
             "name": "Örtmedicin",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-WUU-QNB-COR",
+            "description": "",
+            "level": 3,
+            "name": "Idrottsmedicin",
             "status": "ACTIVE"
         },
         {
@@ -26729,6 +26861,13 @@
             "status": "ACTIVE"
         },
         {
+            "code": "RYF-WUU-SUX-APJ-TZB",
+            "description": "",
+            "level": 4,
+            "name": "Intensivvård",
+            "status": "ACTIVE"
+        },
+        {
             "code": "RYF-WUU-SUX-APJ-VGT",
             "description": "Reproduktiva tekniker som in vitro-fertilisering, IVF",
             "level": 4,
@@ -26804,6 +26943,13 @@
             "description": "",
             "level": 3,
             "name": "Tandvård",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-WUU-SUX-ELT",
+            "description": "",
+            "level": 3,
+            "name": "Digital vård",
             "status": "ACTIVE"
         },
         {
@@ -28333,7 +28479,8 @@
             "description": "",
             "level": 5,
             "name": "Funk",
-            "status": "ACTIVE"
+            "replacedBy": "RYF-XKI-CUP-NWA-YBE",
+            "status": "INACTIVE"
         },
         {
             "code": "RYF-XKI-CUP-NWA-VVW-XGJ",
@@ -28368,6 +28515,14 @@
             "level": 4,
             "name": "Musikinstrument",
             "replaces": "RYF-XKI-FEY-XYE",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-XKI-CUP-NWA-YBE",
+            "description": "",
+            "level": 4,
+            "name": "Funk",
+            "replaces": "RYF-XKI-CUP-NWA-VVW-WTE",
             "status": "ACTIVE"
         },
         {
@@ -29866,6 +30021,13 @@
             "level": 2,
             "name": "Biltest",
             "replaces": "RYF-TKT-MRA-IQM",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-XRZ-TMQ",
+            "description": "",
+            "level": 2,
+            "name": "Cykelväg",
             "status": "ACTIVE"
         },
         {
