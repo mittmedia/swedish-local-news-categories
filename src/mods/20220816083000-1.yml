@@ -234,4 +234,8 @@ modifications:
   name: Laddinfrastruktur
   level: 4
 
-
+- action: ADD
+  parentCode: RYF-VHD-IFE-EGU
+  parentName: Avfall
+  name: Avfallsförbränning
+  level: 4
