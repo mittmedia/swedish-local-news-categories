@@ -4,3 +4,188 @@ modifications:
   parentName: Division 3 dam
   name: Skåne
   level: 5
+
+- action: ADD
+  parentCode: RYF-BIZ-WZJ
+  parentName: Brottslighet
+  name: Barnfridsbrott
+  level: 3
+
+- action: ADD
+  parentCode: RYF-BIZ-WZJ
+  parentName: Brottslighet
+  name: Grov fridskränkning
+  level: 3
+
+- action: ADD
+  parentCode: RYF-BIZ-WZJ
+  parentName: Brottslighet
+  name: Grov kvinnofridskränkning
+  level: 3
+
+- action: ADD
+  parentCode: RYF-BIZ-WZJ
+  parentName: Brottslighet
+  name: Hemfridsbrott
+  level: 3
+
+- action: ADD
+  parentCode: RYF-BIZ-WZJ
+  parentName: Brottslighet
+  name: Olaga intrång
+  level: 3
+
+- action: UPDATE
+  code: RYF-BIZ-XYS
+  name: Lagstiftning
+  newName: Lager och regler
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-RQL-VDC
+  parentName: Butik
+  name: Butiksexponering
+  level: 5
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-RQL-VDC
+  parentName: Butik
+  name: Charkavdelning
+  level: 5
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-RQL-VDC
+  parentName: Butik
+  name: Delikatessavdelning
+  level: 5
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-RQL-VDC
+  parentName: Butik
+  name: Kassalinje
+  level: 5
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-RQL-VDC
+  parentName: Butik
+  name: Kolonialavdelning
+  level: 5
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-RQL-VDC
+  parentName: Butik
+  name: Mejeriavdelning
+  level: 5
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-RQL-VDC
+  parentName: Butik
+  name: Specialavdelning
+  level: 5
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-RQL
+  parentName: Handel
+  name: Outlet
+  level: 4
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-RQL
+  parentName: Handel
+  name: Återkallad produkt
+  level: 4
+
+- action: UPDATE
+  code: RYF-IXA-KEV-XGJ
+  name: Leverantör
+  newName: Leverans
+
+- action: ADD
+  parentCode: RYF-IXA-KEV
+  parentName: Näringsliv
+  name: Prisförädnring
+  level: 3
+
+- action: ADD
+  parentCode: RYF-IXA-KEV
+  parentName: Näringsliv
+  name: Verkstadsindustri
+  level: 3
+
+- action: MOVE
+  code: RYF-IXA-AOE-FAJ-FIX
+  name: Skuldsanering
+  newParentCode: RYF-IXA-AOE
+  newParentName: Privatekonomi
+
+- action: ADD
+  parentCode: RYF-IXA-QED-HPQ
+  parentName: Index
+  name: Konsumentprisindex, KPI
+  level: 4
+
+- action: UPDATE
+  code: RYF-WUU-QNB-OFX
+  name: Medicinska tester
+  newName: Medicinskt test
+
+- action: MOVE
+  code: RYF-TKT-UAN-YAW
+  name: Skadedjur
+  newParentCode: RYF-VHD-HXU-KWD
+  newParentName: Djur
+
+- action: ADD
+  parentCode: RYF-VHD-HXU
+  parentName: Djur & natur
+  name: Natur
+  level: 3
+
+- action: ADD
+  parentCode: RYF-VHD-ZKU-HUY
+  parentName: Återvinning
+  name: Pant
+  level: 4
+
+- action: UPDATE
+  code: RYF-WXT-ENL
+  name: Nedrustning av vapen
+  newName: Nedrustning
+
+- action: UPDATE
+  code: RYF-XKI-CUP-NWA-UGM
+  name: Rhythm & blues
+  newName: Rhythm and blues
+
+- action: ADD
+  parentCode: RYF-TKT-JCK
+  parentName: Mat
+  name: Färdigmat
+  level: 3
+
+- action: ADD
+  parentCode: RYF-AKM-AUE
+  parentName: Brand
+  name: Brandskydd
+  level: 3
+
+- action: ADD
+  parentCode: RYF-AKM-QGJ
+  parentName: Olycka
+  name: Olyckstillbud
+  level: 3
+
+- action: ADD
+  parentCode: RYF-KNI
+  parentName: Politik
+  name: Partipolitik
+  level: 2
+
+- action: ADD
+  parentCode: RYF-HPT-XRQ-UFA
+  parentName: Barnomsorg
+  name: Fritids
+  level: 4
+
+- action: INACTIVATE
+  code: RYF-XRZ-WZC
+  name: Laddstolpe

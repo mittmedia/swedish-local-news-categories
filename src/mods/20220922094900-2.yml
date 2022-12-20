@@ -1,0 +1,13 @@
+modifications:
+- action: MOVE
+  code: RYF-IXA-AOE-FAJ
+  name: Skuldsättning
+  newParentCode: RYF-IXA
+  newParentName: Ekonomi, näringsliv & finans
+
+- action: ADD
+  parentCode: RYF-VHD-HXU-XXXX # ID från -1
+  parentName: Natur
+  name: Nyckelbiotop
+  level: 4
+
