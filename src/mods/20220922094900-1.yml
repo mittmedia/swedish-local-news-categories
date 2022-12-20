@@ -189,3 +189,26 @@ modifications:
 - action: INACTIVATE
   code: RYF-XRZ-WZC
   name: Laddstolpe
+
+- action: UPDATE
+  code: RYF-WUU-QNB
+  name: Behandlingar
+  newName: Behandling
+
+- action: UPDATE
+  code: RYF-WUU-BNJ
+  name: Vårdinrättningar
+  newName: Vårdinrättning
+
+- action: UPDATE
+  code: RYF-WUU-QNB-CIM-XCS
+  name: Örtmedicin
+  newName: Alternativmedicin
+
+- action: INACTIVATE
+  code: RYF-WUU-QNB-CIM-ING
+  name: Holistisk medicin
+
+- action: INACTIVATE
+  code: RYF-WUU-QNB-CIM-CIL
+  name: Traditionell kinesisk medicin
