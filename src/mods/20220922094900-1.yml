@@ -102,7 +102,7 @@ modifications:
 - action: ADD
   parentCode: RYF-IXA-KEV
   parentName: Näringsliv
-  name: Prisförädnring
+  name: Prisförändring
   level: 3
 
 - action: ADD
