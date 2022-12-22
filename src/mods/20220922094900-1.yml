@@ -212,3 +212,9 @@ modifications:
 - action: INACTIVATE
   code: RYF-WUU-QNB-CIM-CIL
   name: Traditionell kinesisk medicin
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-TOY-XLK
+  parentName: Kontor
+  name: Coworking
+  level: 5
