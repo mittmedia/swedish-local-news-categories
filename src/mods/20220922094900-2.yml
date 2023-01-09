@@ -11,3 +11,7 @@ modifications:
   name: Nyckelbiotop
   level: 4
 
+- action: INACTIVATE
+  code: RYF-QPR-HGB-AYA
+  name: Skidåkning
+  
