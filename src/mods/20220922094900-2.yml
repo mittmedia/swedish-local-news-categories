@@ -40,3 +40,9 @@ modifications:
   name: Telemark
   newParentCode: RYF-QPR-HGB-XXX # ID från -1
   newParentName: Alpint
+
+- action: MOVE
+  code: RYF-QPR-HGB-AYA-NSB
+  name: Rullskidor
+  newParentCode: RYF-QPR-HGB-XXX # ID från -1
+  newParentName: Längdåkning
