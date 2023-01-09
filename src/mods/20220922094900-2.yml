@@ -11,7 +11,32 @@ modifications:
   name: Nyckelbiotop
   level: 4
 
-- action: INACTIVATE
-  code: RYF-QPR-HGB-AYA
-  name: Skidåkning
-  
+- action: MOVE
+  code: RYF-QPR-HGB-AYA-MHO
+  name: Freeskiing
+  newParentCode: RYF-QPR-HGB-XXX # ID från -1
+  newParentName: Alpint
+
+- action: MOVE
+  code: RYF-QPR-HGB-AYA-DTQ
+  name: Puckelpist
+  newParentCode: RYF-QPR-HGB-XXX # ID från -1
+  newParentName: Alpint
+
+-  action: MOVE
+  code: RYF-QPR-HGB-AYA-TUL
+  name: Skicross
+  newParentCode: RYF-QPR-HGB-XXX # ID från -1
+  newParentName: Alpint
+
+- action: MOVE
+  code: RYF-QPR-HGB-AYA-LFJ
+  name: Speedski
+  newParentCode: RYF-QPR-HGB-XXX # ID från -1
+  newParentName: Alpint
+
+- action: MOVE
+  code: RYF-QPR-HGB-AYA-FJD
+  name: Telemark
+  newParentCode: RYF-QPR-HGB-XXX # ID från -1
+  newParentName: Alpint
