@@ -242,3 +242,27 @@ modifications:
   parentName: Friluftsliv
   name: Skidåkning
   level: 5
+
+- action: ADD
+  parentCode: RYF-WUU-JZK-YIA-WMP
+  parentName: Hudcancer
+  name: Basaliom, Basalcellscancer
+  level: 5
+
+- action: ADD
+  parentCode: RYF-WUU-JZK-QTH-KEE
+  parentName: Virussjukdom
+  name: Zikavirus
+  level: 5
+
+- action: ADD
+  parentCode: RYF-WUU-JZK-YIA
+  parentName: Cancer
+  name: Magsäckscancer
+  level: 4
+
+- action: ADD
+  parentCode: RYF-WUU-JZK-QTH
+  parentName: Infektionssjukdomar
+  name: ESBL, Extended Spectrum Beta-Lactamase
+  level: 4
