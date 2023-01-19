@@ -46,3 +46,9 @@ modifications:
   name: Rullskidor
   newParentCode: RYF-QPR-HGB-XXX # ID från -1
   newParentName: Längdåkning
+
+- action: ADD
+  parentCode: RYF-WUU-JZK-XXX # ID från -1
+  parentName: Ögonsjukdom
+  name: Glaukom, Grön starr
+  level: 4
