@@ -1,0 +1,7 @@
+modifications:
+
+- action: ADD
+  parentCode: RYF-AKM-QGJ
+  parentName: Olycka # nytt namn ovan
+  name: Dödsolycka
+  level: 3

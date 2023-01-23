@@ -1,0 +1,73 @@
+modifications:
+
+- action: ADD
+  parentCode: RYF-BIZ-WZJ
+  parentName: Brottslighet
+  name: Sabotage mot blåljusverksamhet
+  level: 3
+
+- action: ADD
+  parentCode: RYF-BIZ-WZJ-KVS
+  parentName: Våldsbrott
+  name: Våld mot tjänsteman
+  level: 4
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-IRW
+  parentName: Byggnation
+  name: Byggnadsvård
+  level: 4
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-TOY
+  parentName: Fastighet
+  name: Skyddsrum
+  level: 4
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-RQL-QQF
+  parentName: Dagligvaror
+  name: Matpris
+  level: 5
+
+- action: ADD
+  parentCode: RYF-VHD-IFE-EGU
+  parentName: Avfall
+  name: Deponi
+  level: 4
+
+- action: ADD
+  parentCode: RYF-VHD-GUZ-LKC
+  parentName: Klimatförändring
+  name: Klimatbudget
+  level: 4
+
+- action: UPDATE
+  code: RYF-AKM-QGJ
+  name: Olyckor
+  newName: Olycka
+
+- action: ADD
+  parentCode: RYF-HPT
+  parentName: Samhälle
+  name: Globalisering
+  level: 2
+
+- action: ADD
+  parentCode: RYF-XRZ-ITR-XKH
+  parentName: Elbil
+  name: Elbilsladdare
+  level: 4
+
+- action: ADD
+  parentCode: RYF-XRZ-ITR-XKH
+  parentName: Elbil
+  name: Laddinfrastruktur
+  level: 4
+
+- action: ADD
+  parentCode: RYF-VHD-IFE-EGU
+  parentName: Avfall
+  name: Avfallsförbränning
+  level: 4
+  
