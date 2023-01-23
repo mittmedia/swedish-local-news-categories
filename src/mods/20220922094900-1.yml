@@ -38,7 +38,7 @@ modifications:
 - action: UPDATE
   code: RYF-BIZ-XYS
   name: Lagstiftning
-  newName: Lager och regler
+  newName: Lagar och regler
 
 - action: ADD
   parentCode: RYF-IXA-KEV-RQL-VDC
@@ -505,7 +505,7 @@ modifications:
 - action: ADD
   parentCode: RYF-WUU-JZK-QTH-KEE
   parentName: Virussjukdom
-  name: MIS-C, Multisystemiskt inflammatoriskt syndrom för barn ( Children)
+  name: MIS-C, Multisystemiskt inflammatoriskt syndrom för barn (Children)
   level: 5
 
 - action: ADD
