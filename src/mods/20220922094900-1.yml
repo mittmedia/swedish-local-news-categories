@@ -274,19 +274,19 @@ modifications:
 
 - action: ADD
   parentCode: RYF-WUU-QNB
-  parentName: Behandlingar
+  parentName: Behandling
   name: Ablation
   level: 3
 
 - action: ADD
   parentCode: RYF-WUU-QNB
-  parentName: Behandlingar
+  parentName: Behandling
   name: Immunterapi
   level: 3
 
 - action: ADD
   parentCode: RYF-WUU-QNB
-  parentName: Behandlingar
+  parentName: Behandling
   name: Precisionsmedicin
   level: 3
 
