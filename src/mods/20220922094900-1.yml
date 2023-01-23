@@ -156,11 +156,6 @@ modifications:
   name: Rhythm & blues
   newName: Rhythm and blues
 
-- action: UPDATE
-  code: RYF-AKM-QGJ
-  name: Olyckor
-  newName: Olycka
-
 - action: ADD
   parentCode: RYF-TKT-JCK
   parentName: Mat
