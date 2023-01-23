@@ -52,3 +52,9 @@ modifications:
   parentName: Ögonsjukdom
   name: Glaukom, Grön starr
   level: 4
+
+- action: ADD
+  parentCode: RYF-AKM-QGJ
+  parentName: Olycka # renamed from Olyckor in -1
+  name: Olyckstillbud
+  level: 3

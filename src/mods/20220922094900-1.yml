@@ -156,6 +156,11 @@ modifications:
   name: Rhythm & blues
   newName: Rhythm and blues
 
+- action: UPDATE
+  code: RYF-AKM-QGJ
+  name: Olyckor
+  newName: Olycka
+
 - action: ADD
   parentCode: RYF-TKT-JCK
   parentName: Mat
@@ -166,12 +171,6 @@ modifications:
   parentCode: RYF-AKM-AUE
   parentName: Brand
   name: Brandskydd
-  level: 3
-
-- action: ADD
-  parentCode: RYF-AKM-QGJ
-  parentName: Olycka
-  name: Olyckstillbud
   level: 3
 
 - action: ADD
