@@ -23,7 +23,7 @@ modifications:
   newParentCode: RYF-QPR-HGB-XXX # ID från -1
   newParentName: Alpint
 
--  action: MOVE
+- action: MOVE
   code: RYF-QPR-HGB-AYA-TUL
   name: Skicross
   newParentCode: RYF-QPR-HGB-XXX # ID från -1
