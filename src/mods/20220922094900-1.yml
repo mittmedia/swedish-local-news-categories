@@ -1,0 +1,773 @@
+modifications:
+- action: ADD
+  parentCode: RYF-QPR-HGB-QHJ-DAU
+  parentName: Division 3 dam
+  name: Skåne
+  level: 5
+
+- action: ADD
+  parentCode: RYF-BIZ-WZJ
+  parentName: Brottslighet
+  name: Barnfridsbrott
+  level: 3
+
+- action: ADD
+  parentCode: RYF-BIZ-WZJ
+  parentName: Brottslighet
+  name: Grov fridskränkning
+  level: 3
+
+- action: ADD
+  parentCode: RYF-BIZ-WZJ
+  parentName: Brottslighet
+  name: Grov kvinnofridskränkning
+  level: 3
+
+- action: ADD
+  parentCode: RYF-BIZ-WZJ
+  parentName: Brottslighet
+  name: Hemfridsbrott
+  level: 3
+
+- action: ADD
+  parentCode: RYF-BIZ-WZJ
+  parentName: Brottslighet
+  name: Olaga intrång
+  level: 3
+
+- action: UPDATE
+  code: RYF-BIZ-XYS
+  name: Lagstiftning
+  newName: Lagar och regler
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-RQL-VDC
+  parentName: Butik
+  name: Butiksexponering
+  level: 5
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-RQL-VDC
+  parentName: Butik
+  name: Charkavdelning
+  level: 5
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-RQL-VDC
+  parentName: Butik
+  name: Delikatessavdelning
+  level: 5
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-RQL-VDC
+  parentName: Butik
+  name: Kassalinje
+  level: 5
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-RQL-VDC
+  parentName: Butik
+  name: Kolonialavdelning
+  level: 5
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-RQL-VDC
+  parentName: Butik
+  name: Mejeriavdelning
+  level: 5
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-RQL-VDC
+  parentName: Butik
+  name: Specialavdelning
+  level: 5
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-RQL
+  parentName: Handel
+  name: Outlet
+  level: 4
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-RQL
+  parentName: Handel
+  name: Återkallad produkt
+  level: 4
+
+- action: UPDATE
+  code: RYF-IXA-KEV-XGJ
+  name: Leverantör
+  newName: Leverans
+
+- action: ADD
+  parentCode: RYF-IXA-KEV
+  parentName: Näringsliv
+  name: Prisförändring
+  level: 3
+
+- action: ADD
+  parentCode: RYF-IXA-KEV
+  parentName: Näringsliv
+  name: Verkstadsindustri
+  level: 3
+
+- action: MOVE
+  code: RYF-IXA-AOE-FAJ-FIX
+  name: Skuldsanering
+  newParentCode: RYF-IXA-AOE
+  newParentName: Privatekonomi
+
+- action: ADD
+  parentCode: RYF-IXA-QED-HPQ
+  parentName: Index
+  name: Konsumentprisindex, KPI
+  level: 4
+
+- action: UPDATE
+  code: RYF-WUU-QNB-OFX
+  name: Medicinska tester
+  newName: Medicinskt test
+
+- action: MOVE
+  code: RYF-TKT-UAN-YAW
+  name: Skadedjur
+  newParentCode: RYF-VHD-HXU-KWD
+  newParentName: Djur
+
+- action: ADD
+  parentCode: RYF-VHD-HXU
+  parentName: Djur & natur
+  name: Natur
+  level: 3
+
+- action: ADD
+  parentCode: RYF-VHD-ZKU-HUY
+  parentName: Återvinning
+  name: Pant
+  level: 4
+
+- action: UPDATE
+  code: RYF-WXT-ENL
+  name: Nedrustning av vapen
+  newName: Nedrustning
+
+- action: UPDATE
+  code: RYF-XKI-CUP-NWA-UGM
+  name: Rhythm & blues
+  newName: Rhythm and blues
+
+- action: ADD
+  parentCode: RYF-TKT-JCK
+  parentName: Mat
+  name: Färdigmat
+  level: 3
+
+- action: ADD
+  parentCode: RYF-AKM-AUE
+  parentName: Brand
+  name: Brandskydd
+  level: 3
+
+- action: ADD
+  parentCode: RYF-KNI
+  parentName: Politik
+  name: Partipolitik
+  level: 2
+
+- action: ADD
+  parentCode: RYF-HPT-XRQ-UFA
+  parentName: Barnomsorg
+  name: Fritids
+  level: 4
+
+- action: INACTIVATE
+  code: RYF-XRZ-WZC
+  name: Laddstolpe
+
+- action: UPDATE
+  code: RYF-WUU-QNB
+  name: Behandlingar
+  newName: Behandling
+
+- action: UPDATE
+  code: RYF-WUU-BNJ
+  name: Vårdinrättningar
+  newName: Vårdinrättning
+
+- action: UPDATE
+  code: RYF-WUU-QNB-CIM-XCS
+  name: Örtmedicin
+  newName: Alternativmedicin
+
+- action: INACTIVATE
+  code: RYF-WUU-QNB-CIM-ING
+  name: Holistisk medicin
+
+- action: INACTIVATE
+  code: RYF-WUU-QNB-CIM-CIL
+  name: Traditionell kinesisk medicin
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-TOY-XLK
+  parentName: Kontor
+  name: Coworking
+  level: 5
+
+- action: MOVE
+  code: RYF-QPR-HGB-AYA-FLN
+  name: Alpint
+  newParentCode: RYF-QPR-HGB
+  newParentName: Sporter
+
+- action: MOVE
+  code: RYF-QPR-HGB-AYA-MFT
+  name: Längdåkning
+  newParentCode: RYF-QPR-HGB
+  newParentName: Sporter
+  
+- action: MOVE
+  code: RYF-QPR-HGB-AYA-HTF
+  name: Backhoppning
+  newParentCode: RYF-QPR-HGB
+  newParentName: Sporter
+
+- action: ADD
+  parentCode: RYF-TKT-KXM-ZBA
+  parentName: Friluftsliv
+  name: Skidåkning
+  level: 5
+
+- action: ADD
+  parentCode: RYF-WUU-JZK-YIA-WMP
+  parentName: Hudcancer
+  name: Basaliom, Basalcellscancer
+  level: 5
+
+- action: ADD
+  parentCode: RYF-WUU-JZK-QTH-KEE
+  parentName: Virussjukdom
+  name: Zikavirus
+  level: 5
+
+- action: ADD
+  parentCode: RYF-WUU-JZK-YIA
+  parentName: Cancer
+  name: Magsäckscancer
+  level: 4
+
+- action: ADD
+  parentCode: RYF-WUU-JZK-QTH
+  parentName: Infektionssjukdomar
+  name: ESBL, Extended Spectrum Beta-Lactamase
+  level: 4
+
+- action: ADD
+  parentCode: RYF-ZEI-CZS
+  parentName: Personal- & anställning
+  name: Kompetensväxling
+  level: 3
+
+- action: ADD
+  parentCode: RYF-WUU-QNB
+  parentName: Behandling
+  name: Ablation
+  level: 3
+
+- action: ADD
+  parentCode: RYF-WUU-QNB
+  parentName: Behandling
+  name: Immunterapi
+  level: 3
+
+- action: ADD
+  parentCode: RYF-WUU-QNB
+  parentName: Behandling
+  name: Precisionsmedicin
+  level: 3
+
+- action: ADD
+  parentCode: RYF-WUU-QNB-LKJ
+  parentName: Läkemedel
+  name: Förskrivning
+  level: 4
+
+- action: ADD
+  parentCode: RYF-WUU-QNB-ATY
+  parentName: Psykoterapi
+  name: KBT, Kognitiv beteendeterapi
+  level: 4
+
+- action: ADD
+  parentCode: RYF-WUU-JZK-DGX
+  parentName: Allergi
+  name: Matallergi
+  level: 4
+
+- action: ADD
+  parentCode: RYF-WUU-JZK
+  parentName: Sjukdomar, tillstånd och diagnoser
+  name: Anemi, Blodbrist
+  level: 3
+
+- action: ADD
+  parentCode: RYF-WUU-JZK
+  parentName: Sjukdomar, tillstånd och diagnoser
+  name: Ateroskleros, Åderförkalkning
+  level: 3
+
+
+- action: ADD
+  parentCode: RYF-WUU-JZK-YIA
+  parentName: Cancer
+  name: Barncancer
+  level: 4
+
+- action: ADD
+  parentCode: RYF-WUU-JZK-YIA
+  parentName: Cancer
+  name: Blåscancer
+  level: 4
+
+- action: ADD
+  parentCode: RYF-WUU-JZK-YIA
+  parentName: Cancer
+  name: Gliobastom
+  level: 4
+
+- action: ADD
+  parentCode: RYF-WUU-JZK-YIA
+  parentName: Cancer
+  name: Hjärntumör
+  level: 4
+
+- action: ADD
+  parentCode: RYF-WUU-JZK-YIA
+  parentName: Cancer
+  name: Hodgkins lymfom
+  level: 4
+
+- action: ADD
+  parentCode: RYF-WUU-JZK-YIA
+  parentName: Cancer
+  name: Leukemi
+  level: 4
+
+- action: ADD
+  parentCode: RYF-WUU-JZK-YIA
+  parentName: Cancer
+  name: Livmodershalscancer
+  level: 4
+
+- action: ADD
+  parentCode: RYF-WUU-JZK-YIA
+  parentName: Cancer
+  name: Lymfom
+  level: 4
+
+- action: ADD
+  parentCode: RYF-WUU-JZK-YIA
+  parentName: Cancer
+  name: Lymfödem
+  level: 4
+
+- action: ADD
+  parentCode: RYF-WUU-JZK-YIA
+  parentName: Cancer
+  name: Matstrupscancer
+  level: 4
+
+- action: ADD
+  parentCode: RYF-WUU-JZK-YIA
+  parentName: Cancer
+  name: Myelom
+  level: 4
+
+- action: ADD
+  parentCode: RYF-WUU-JZK-YIA
+  parentName: Cancer
+  name: Pankreascancer
+  level: 4
+
+- action: ADD
+  parentCode: RYF-WUU-JZK-YIA
+  parentName: Cancer
+  name: Prostatacancer
+  level: 4
+
+- action: ADD
+  parentCode: RYF-WUU-JZK-YIA
+  parentName: Cancer
+  name: Sarkom
+  level: 4
+
+- action: ADD
+  parentCode: RYF-WUU-JZK-YIA
+  parentName: Cancer
+  name: Skivepitelcancer
+  level: 4
+
+- action: ADD
+  parentCode: RYF-WUU-JZK-YIA
+  parentName: Cancer
+  name: Tarmcancer
+  level: 4
+
+- action: ADD
+  parentCode: RYF-WUU-JZK-YIA
+  parentName: Cancer
+  name: Testikelcancer
+  level: 4
+
+- action: ADD
+  parentCode: RYF-WUU-JZK-YIA
+  parentName: Cancer
+  name: Äggstockscancer
+  level: 4
+
+- action: ADD
+  parentCode: RYF-WUU-JZK-TBI
+  parentName: Värk & Smärta
+  name: Fibromyalgi
+  level: 4
+
+- action: ADD
+  parentCode: RYF-WUU-JZK
+  parentName: Sjukdomar, tillstånd och diagnoser
+  name: Hepatit
+  level: 3
+
+- action: ADD
+  parentCode: RYF-WUU-JZK-YMA
+  parentName: Hjärt- & kärlsjukdomar
+  name: Benartärsjukdom
+  level: 4
+
+- action: ADD
+  parentCode: RYF-WUU-JZK-YMA
+  parentName: Hjärt- & kärlsjukdomar
+  name: Hjärtstopp
+  level: 4
+
+- action: ADD
+  parentCode: RYF-WUU-JZK-YMA
+  parentName: Hjärt- & kärlsjukdomar
+  name: Hjärtsvikt
+  level: 4
+
+- action: ADD
+  parentCode: RYF-WUU-JZK-YMA
+  parentName: Hjärt- & kärlsjukdomar
+  name: Hypertoni
+  level: 4
+
+- action: ADD
+  parentCode: RYF-WUU-JZK-YMA
+  parentName: Hjärt- & kärlsjukdomar
+  name: Högt blodtryck
+  level: 4
+
+- action: ADD
+  parentCode: RYF-WUU-JZK-YMA
+  parentName: Hjärt- & kärlsjukdomar
+  name: Kärlkramp
+  level: 4
+
+- action: ADD
+  parentCode: RYF-WUU-JZK-YMA
+  parentName: Hjärt- & kärlsjukdomar
+  name: Takotsubo
+  level: 4
+
+- action: ADD
+  parentCode: RYF-WUU-JZK-QTH
+  parentName: Infektionssjukdomar
+  name: Malaria
+  level: 4
+
+- action: ADD
+  parentCode: RYF-WUU-JZK-QTH
+  parentName: Infektionssjukdomar
+  name: MRSA, meticillinresistenta gula stafylokocker
+  level: 4
+
+- action: ADD
+  parentCode: RYF-WUU-JZK-QTH-KEE
+  parentName: Virussjukdom
+  name: MIS-A, Multisystemiskt inflammatoriskt syndrom för vuxna (Adults)
+  level: 5
+
+- action: ADD
+  parentCode: RYF-WUU-JZK-QTH-KEE
+  parentName: Virussjukdom
+  name: MIS-C, Multisystemiskt inflammatoriskt syndrom för barn (Children)
+  level: 5
+
+- action: ADD
+  parentCode: RYF-WUU-JZK-RSJ
+  parentName: Könssjukdomar
+  name: Kondylom
+  level: 4
+
+- action: ADD
+  parentCode: RYF-WUU-JZK-RSJ
+  parentName: Könssjukdomar
+  name: Syfilis
+  level: 4
+
+- action: ADD
+  parentCode: RYF-WUU-JZK-LIP
+  parentName: Ledsjukdom
+  name: Gikt
+  level: 4
+
+- action: ADD
+  parentCode: RYF-WUU-JZK-LIP
+  parentName: Ledsjukdom
+  name: Psoriasisartrit
+  level: 4
+
+- action: ADD
+  parentCode: RYF-WUU-JZK-LIP
+  parentName: Ledsjukdom
+  name: Reumatoid artrit
+  level: 4
+
+- action: ADD
+  parentCode: RYF-WUU-JZK-RRF
+  parentName: Lungsjukdomar
+  name: Cystisk fibros
+  level: 4
+
+- action: ADD
+  parentCode: RYF-WUU-JZK-RRF
+  parentName: Lungsjukdomar
+  name: KOL
+  level: 4
+
+- action: ADD
+  parentCode: RYF-WUU-JZK-RRF
+  parentName: Lungsjukdomar
+  name: Lungemboli
+  level: 4
+
+- action: ADD
+  parentCode: RYF-WUU-JZK-FIS
+  parentName: Mag- och tarmsjukdomar
+  name: Celiaki
+  level: 4
+
+- action: ADD
+  parentCode: RYF-WUU-JZK-FIS
+  parentName: Mag- och tarmsjukdomar
+  name: Helicobacter pylori
+  level: 4
+
+- action: ADD
+  parentCode: RYF-WUU-JZK-FIS
+  parentName: Mag- och tarmsjukdomar
+  name: Hemorrojder
+  level: 4
+
+- action: ADD
+  parentCode: RYF-WUU-JZK-FIS
+  parentName: Mag- och tarmsjukdomar
+  name: IBD, Gumboro
+  level: 4
+
+- action: ADD
+  parentCode: RYF-WUU-JZK-FIS
+  parentName: Mag- och tarmsjukdomar
+  name: Inflammatorisk tarmsjukdom
+  level: 4
+
+- action: ADD
+  parentCode: RYF-WUU-JZK-FIS
+  parentName: Mag- och tarmsjukdomar
+  name: Magsår
+  level: 4
+
+- action: ADD
+  parentCode: RYF-WUU-JZK-FIS
+  parentName: Mag- och tarmsjukdomar
+  name: Ulceös colit
+  level: 4
+
+- action: ADD
+  parentCode: RYF-WUU-JZK-IDJ
+  parentName: Neurologisk sjukdom
+  name: Epilepsi
+  level: 4
+
+- action: ADD
+  parentCode: RYF-WUU-JZK-IDJ
+  parentName: Neurologisk sjukdom
+  name: Huntingtons sjukdom
+  level: 4
+
+- action: ADD
+  parentCode: RYF-WUU-JZK-IDJ
+  parentName: Neurologisk sjukdom
+  name: ME/CFS, Kroniskt trötthetssyndrom
+  level: 4
+
+- action: ADD
+  parentCode: RYF-WUU-JZK-IDJ
+  parentName: Neurologisk sjukdom
+  name: Parkinsons sjukdom
+  level: 4
+
+- action: ADD
+  parentCode: RYF-WUU-JZK-IDJ
+  parentName: Neurologisk sjukdom
+  name: Restless legs syndrome
+  level: 4
+
+- action: ADD
+  parentCode: RYF-WUU-JZK-BLX
+  parentName: Skelettsjukdom
+  name: Osteoporos, Benskörhet
+  level: 4
+
+- action: ADD
+  parentCode: RYF-WUU-JZK
+  parentName: Sjukdomar, tillstånd och diagnoser
+  name: Trycksår
+  level: 3
+
+- action: ADD
+  parentCode: RYF-WUU-JZK
+  parentName: Sjukdomar, tillstånd och diagnoser
+  name: Ögonsjukdom
+  level: 3
+
+- action: ADD
+  parentCode: RYF-WUU-SUX
+  parentName: Vård
+  name: Hemsjukvård
+  level: 3
+
+- action: ADD
+  parentCode: RYF-WUU-SUX
+  parentName: Vård
+  name: Slutenvård
+  level: 3
+
+- action: ADD
+  parentCode: RYF-WUU-SUX
+  parentName: Vård
+  name: Vårdhygien
+  level: 3
+
+- action: ADD
+  parentCode: RYF-WUU-SUX
+  parentName: Vård
+  name: Vårdplats
+  level: 3
+
+- action: ADD
+  parentCode: RYF-WUU-SUX-APJ
+  parentName: Specialistvård
+  name: Hematologi
+  level: 4
+
+- action: ADD
+  parentCode: RYF-WUU-SUX-APJ
+  parentName: Specialistvård
+  name: Högspecialicerad vård
+  level: 4
+
+- action: ADD
+  parentCode: RYF-WUU-SUX-APJ
+  parentName: Specialistvård
+  name: Internmedicin
+  level: 4
+
+- action: ADD
+  parentCode: RYF-WUU-SUX-APJ
+  parentName: Specialistvård
+  name: Njurvård
+  level: 4
+
+- action: ADD
+  parentCode: RYF-WUU-SUX-APJ
+  parentName: Specialistvård
+  name: Reumatologi
+  level: 4
+
+- action: ADD
+  parentCode: RYF-WUU-SUX-APJ-FCV
+  parentName: Kirurgi
+  name: Barn- & ungdomskirurgi
+  level: 5
+
+- action: ADD
+  parentCode: RYF-WUU-SUX-APJ-FCV
+  parentName: Kirurgi
+  name: Xenotransplantation
+  level: 5
+
+- action: ADD
+  parentCode: RYF-WUU-SUX-APJ-EMC
+  parentName: Obstetrik & gynekologi
+  name: PCOS, Polycystiskt ovariesyndrom
+  level: 5
+
+- action: ADD
+  parentCode: RYF-WUU-SUX-APJ-GAB
+  parentName: Psykiatri
+  name: Barnpsykiatri
+  level: 5
+
+- action: ADD
+  parentCode: RYF-WUU-SUX-APJ-GAB
+  parentName: Psykiatri
+  name: Äldrepsykiatri
+  level: 5
+
+- action: ADD
+  parentCode: RYF-CUW
+  parentName: Personligt
+  name: Sorg
+  level: 2
+
+- action: ADD
+  parentCode: RYF-EOI-DLM-DDW
+  parentName: Medicin
+  name: Patologi
+  level: 4
+
+
+- action: UPDATE
+  code: RYF-WUU-JZK-YIA-NQN
+  name: Tjocktarmscancer
+  newName: Tjocktarmscancer, Kolorektal cancer
+
+- action: UPDATE
+  code: RYF-WUU-JZK-FIS-MRA
+  name: IBS
+  newName: IBS, Irritabel tarm
+
+- action: UPDATE
+  code: RYF-WUU-JZK-IDJ-RHH
+  name: MS
+  newName: MS, Multipel skleros
+
+- action: UPDATE
+  code: RYF-WUU-JZK-IDJ-UOQ
+  name: CP
+  newName: CP, Cerebral pares
+
+- action: UPDATE
+  code: RYF-WUU-JZK-IDJ-SFS
+  name: ALS
+  newName: ALS, Amyotrofisk lateralskleros
+
+- action: UPDATE
+  code: RYF-WUU-JZK-BBN-OYP
+  name: Fetma
+  newName: Fetma, Obesitas
+
+- action: UPDATE
+  code: RYF-WUU-SUX-APJ-VGZ-GWG
+  name: Prematurvård
+  newName: Neonatalvård
