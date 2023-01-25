@@ -1,0 +1,9 @@
+modifications:
+- action: INACTIVATE
+  code: RYF-WUU-JZK-YIA-ZFZ
+  name: Prostatacancer
+
+- action: UPDATE
+  code: RYF-WUU-JZK-IDJ-ZMO
+  name: ME/CFS, Kroniskt trötthetssyndrom
+  newName: ME-CFS, Kroniskt trötthetssyndrom
