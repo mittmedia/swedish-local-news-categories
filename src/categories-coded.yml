@@ -18762,7 +18762,7 @@ categories:
 - code: RYF-WUU-JZK-IDJ-ZMO
   description: ''
   level: 4
-  name: ME/CFS, Kroniskt trötthetssyndrom
+  name: ME-CFS, Kroniskt trötthetssyndrom
   status: ACTIVE
 - code: RYF-WUU-JZK-IDJ-ZZX
   description: ''
@@ -19724,7 +19724,7 @@ categories:
   description: ''
   level: 4
   name: Prostatacancer
-  status: ACTIVE
+  status: INACTIVE
 - code: RYF-WUU-JZK-YIA-ZOU
   description: ''
   level: 4
