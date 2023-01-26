@@ -1,0 +1,965 @@
+modifications:
+- action: UPDATE
+  code: RYF-AKM
+  name: Olyckor & katastrofer
+  newName: Olyckor och katastrofer
+
+- action: UPDATE
+  code: RYF-BIZ-WZJ-GNO
+  name: Stölder & inbrott
+  newName: Stölder och inbrott
+
+- action: UPDATE
+  code: RYF-BIZ-WZJ-OFE-HYB
+  name: Läckage & utsläpp
+  newName: Läckage och utsläpp
+
+- action: UPDATE
+  code: RYF-BIZ-WZJ-RPI
+  name: Bedrägeri & ekobrott
+  newName: Bedrägeri och ekobrott
+
+- action: UPDATE
+  code: RYF-BIZ-WZJ-SVK
+  name: Hot & trakasserier
+  newName: Hot och trakasserier
+
+- action: UPDATE
+  code: RYF-BIZ-XYS-DQN
+  name: Radio- & Tv-lagen
+  newName: Radio- och Tv-lagen
+
+- action: UPDATE
+  code: RYF-BIZ-XYS-VYW
+  name: Hälso- & sjukvårdslagen
+  newName: Hälso- och sjukvårdslagen
+
+- action: UPDATE
+  code: RYF-CUW-EHM-AEM-FMJ
+  name: Orgasm & orgasmtips
+  newName: Orgasm och orgasmtips
+
+- action: UPDATE
+  code: RYF-CUW-EHM-UKW
+  name: Bråk & osämja
+  newName: Bråk och osämja
+
+- action: UPDATE
+  code: RYF-CUW-GIV-CLO-FCF
+  name: Lek & leksaker
+  newName: Lek och leksaker
+
+- action: UPDATE
+  code: RYF-CUW-GIV-OAP
+  name: Bonusfamilj & bonusbarn
+  newName: Bonusfamilj och bonusbarn
+
+- action: UPDATE
+  code: RYF-CUW-GIV-OHU
+  name: Tvillingar & flerbarnsfödsel
+  newName: Tvillingar och flerbarnsfödsel
+
+- action: UPDATE
+  code: RYF-CUW-GIV-UVB-JJM
+  name: Bebis & småbarn
+  newName: Bebis och småbarn
+
+- action: UPDATE
+  code: RYF-CUW-GIV-UVB-JJM-RWM
+  name: Amning & bröstmjölk
+  newName: Amning och bröstmjölk
+
+- action: UPDATE
+  code: RYF-CUW-IAA-JLY
+  name: Priser & utmärkelser
+  newName: Priser och utmärkelser
+
+- action: UPDATE
+  code: RYF-CUW-LGT
+  name: Ceremonier & händelser
+  newName: Ceremonier och händelser
+
+- action: UPDATE
+  code: RYF-CUW-LGT-MLV
+  name: Fester & kalas
+  newName: Fester och kalas
+
+- action: UPDATE
+  code: RYF-CUW-UIJ
+  name: Moral & etik
+  newName: Moral och etik
+
+- action: UPDATE
+  code: RYF-EOI
+  name: Vetenskap & teknik
+  newName: Vetenskap och teknik
+
+- action: UPDATE
+  code: RYF-EOI-GJM
+  name: Teknik & ingenjörskonst
+  newName: Teknik och ingenjörskonst
+
+- action: UPDATE
+  code: RYF-EOI-GJM-ABY
+  name: Identifieringsteknik & biometri
+  newName: Identifieringsteknik och biometri
+
+- action: UPDATE
+  code: RYF-EOI-GJM-ICE
+  name: IT & datavetenskap
+  newName: IT och datavetenskap
+
+- action: UPDATE
+  code: RYF-EOI-GJM-VAT
+  name: Flyg- & rymdteknik
+  newName: Flyg- och rymdteknik
+
+- action: UPDATE
+  code: RYF-HPT-VKF
+  name: Certifiering & standard
+  newName: Certifiering och standard
+
+- action: UPDATE
+  code: RYF-HPT-YGE-GCZ-LGD
+  name: Vatten & avlopp
+  newName: Vatten och avlopp
+
+- action: UPDATE
+  code: RYF-ITV
+  name: Religion & tro
+  newName: Religion och tro
+
+- action: UPDATE
+  code: RYF-IXA
+  name: Ekonomi, näringsliv & finans
+  newName: Ekonomi, näringsliv och finans
+
+- action: UPDATE
+  code: RYF-IXA-AOE-BUE
+  name: Hyresrätt & hyra
+  newName: Hyresrätt och hyra
+
+- action: UPDATE
+  code: RYF-IXA-AOE-CYP-TSE-SDL
+  name: Amortering & amorteringskrav
+  newName: Amortering och amorteringskrav
+
+- action: UPDATE
+  code: RYF-IXA-CVI
+  name: Börser & handelsmarknader
+  newName: Börser och handelsmarknader
+
+- action: UPDATE
+  code: RYF-IXA-KEV-ASN
+  name: Papper & förpackningsartiklar
+  newName: Papper och förpackningsartiklar
+
+- action: UPDATE
+  code: RYF-IXA-KEV-DTA
+  name: Fordonstillverkning & bilindustri
+  newName: Fordonstillverkning och bilindustri
+
+- action: UPDATE
+  code: RYF-IXA-KEV-DVU
+  name: Kasino- & spelmarknaden
+  newName: Kasino- och spelmarknaden
+
+- action: UPDATE
+  code: RYF-IXA-KEV-FKV
+  name: Kontrakt & avtal
+  newName: Kontrakt och avtal
+
+- action: UPDATE
+  code: RYF-IXA-KEV-HBV
+  name: Järn- & stålindustri
+  newName: Järn- och stålindustri
+
+- action: UPDATE
+  code: RYF-IXA-KEV-IRW-DCC
+  name: Plan- & bygglagen, PBL
+  newName: Plan- och bygglagen, PBL
+
+- action: UPDATE
+  code: RYF-IXA-KEV-IRW-EPE
+  name: Renovering & restaurering
+  newName: Renovering och restaurering
+
+- action: UPDATE
+  code: RYF-IXA-KEV-IRW-PII-NPO
+  name: Väg- & vattenbyggnad
+  newName: Väg- och vattenbyggnad
+
+- action: UPDATE
+  code: RYF-IXA-KEV-NCZ
+  name: Möbel- & hemindredningstillverkning
+  newName: Möbel- och hemindredningstillverkning
+
+- action: UPDATE
+  code: RYF-IXA-KEV-OZO
+  name: Årsmöten & stämmor
+  newName: Årsmöten och stämmor
+
+- action: UPDATE
+  code: RYF-IXA-KEV-PUM
+  name: Redovisning & revision
+  newName: Redovisning och revision
+
+- action: UPDATE
+  code: RYF-IXA-KEV-RFJ
+  name: Restaurang & gastronomi
+  newName: Restaurang och gastronomi
+
+- action: UPDATE
+  code: RYF-IXA-KEV-RFJ-UIC
+  name: Kafé & konditori
+  newName: Kafé och konditori
+
+- action: UPDATE
+  code: RYF-IXA-KEV-RQL-ZQL
+  name: Köpcentrum & galleria
+  newName: Köpcentrum och galleria
+
+- action: UPDATE
+  code: RYF-IXA-KEV-TOY-GGM-FDR
+  name: Arena & sporthall
+  newName: Arena och sporthall
+
+- action: UPDATE
+  code: RYF-IXA-KEV-UBU
+  name: Energi & elproduktion
+  newName: Energi och elproduktion
+
+- action: UPDATE
+  code: RYF-IXA-KEV-UZJ
+  name: Fritids- & sportbranschen
+  newName: Fritids- och sportbranschen
+
+- action: UPDATE
+  code: RYF-IXA-KEV-YII
+  name: Turism & besöksnäring
+  newName: Turism och besöksnäring
+
+- action: UPDATE
+  code: RYF-IXA-KEV-YII-DCK
+  name: Bed & breakfast
+  newName: Bed och breakfast
+
+- action: UPDATE
+  code: RYF-IXA-QED-CPU-PMY-HLU
+  name: Rot- & rutavdrag
+  newName: Rot- och rutavdrag
+
+- action: UPDATE
+  code: RYF-KNI-QWJ
+  name: Barn- & ungdomspolitik
+  newName: Barn- och ungdomspolitik
+
+- action: UPDATE
+  code: RYF-KNI-ZIS
+  name: Grundlagar & grundläggande rättigheter
+  newName: Grundlagar och grundläggande rättigheter
+
+- action: UPDATE
+  code: RYF-KNI-ZIS-IUN
+  name: Yttrandefrihet & tryckfrihet
+  newName: Yttrandefrihet och tryckfrihet
+
+- action: UPDATE
+  code: RYF-QPR-DBC
+  name: Sportindustri & ekonomiska affärer
+  newName: Sportindustri och ekonomiska affärer
+
+- action: UPDATE
+  code: RYF-QPR-FMU
+  name: Transfermarknad & övergångar
+  newName: Transfermarknad och övergångar
+
+- action: UPDATE
+  code: RYF-QPR-HGB-DEN-ALX-DGW
+  name: Jämtland & Härjedalen
+  newName: Jämtland och Härjedalen
+
+- action: UPDATE
+  code: RYF-QPR-HGB-DEN-ALX-UNC
+  name: Bohuslän & Dalsland
+  newName: Bohuslän och Dalsland
+
+- action: UPDATE
+  code: RYF-QPR-HGB-DEN-CWD-APC
+  name: Jämtland & Härjedalen södra
+  newName: Jämtland och Härjedalen södra
+
+- action: UPDATE
+  code: RYF-QPR-HGB-DEN-CWD-GNX
+  name: Kalmar & Öland
+  newName: Kalmar och Öland
+
+- action: UPDATE
+  code: RYF-QPR-HGB-DEN-CWD-HWA
+  name: Jämtland & Härjedalen norra
+  newName: Jämtland och Härjedalen norra
+
+- action: UPDATE
+  code: RYF-QPR-HGB-DEN-FXI-OMK
+  name: Jämtland & Härjedalen
+  newName: Jämtland och Härjedalen
+
+- action: UPDATE
+  code: RYF-QPR-HGB-DEN-FXI-PIL
+  name: Västmanland & Örebro
+  newName: Västmanland och Örebro
+
+- action: UPDATE
+  code: RYF-QPR-HGB-DEN-FXI-XXJ
+  name: Bohuslän & Dal
+  newName: Bohuslän och Dal
+
+- action: UPDATE
+  code: RYF-QPR-HGB-DEN-MVN-PRW
+  name: Jämtland & Härjedalen
+  newName: Jämtland och Härjedalen
+
+- action: UPDATE
+  code: RYF-QPR-HGB-DEN-SZC-CVY
+  name: Dalsland & Bohuslän
+  newName: Dalsland och Bohuslän
+
+- action: UPDATE
+  code: RYF-QPR-HGB-DEN-SZC-IVA
+  name: Örebro & Västmanland
+  newName: Örebro och Västmanland
+
+- action: UPDATE
+  code: RYF-QPR-HGB-DEN-SZC-KKA
+  name: Kalmar & Öland
+  newName: Kalmar och Öland
+
+- action: UPDATE
+  code: RYF-QPR-HGB-DEN-SZC-LAF
+  name: Växjö & Blekinge
+  newName: Växjö och Blekinge
+
+- action: UPDATE
+  code: RYF-QPR-HGB-OQU-EKM-QKO
+  name: Småland & Östergötland
+  newName: Småland och Östergötland
+
+- action: UPDATE
+  code: RYF-QPR-HGB-QHJ-OTJ-UGO
+  name: Västmanland & Örebro
+  newName: Västmanland och Örebro
+
+- action: UPDATE
+  code: RYF-QPR-HGB-QHJ-SSA-RAE
+  name: Västmanland & Örebro
+  newName: Västmanland och Örebro
+
+- action: UPDATE
+  code: RYF-QPR-HGB-QHJ-SSA-VIC
+  name: Dalarna & Gäst
+  newName: Dalarna och Gäst
+
+- action: UPDATE
+  code: RYF-QPR-HGB-QHJ-UVW-YHZ
+  name: Österg & Söderman
+  newName: Österg och Söderman
+
+- action: UPDATE
+  code: RYF-QPR-HGB-QHJ-XFL-EYU
+  name: Gästrikland & Dalarna
+  newName: Gästrikland och Dalarna
+
+- action: UPDATE
+  code: RYF-QPR-VIO
+  name: Huliganism & Idrottsvåld
+  newName: Huliganism och Idrottsvåld
+
+- action: UPDATE
+  code: RYF-QPR-VQK
+  name: Barn- & ungdomsidrott
+  newName: Barn- och ungdomsidrott
+
+- action: UPDATE
+  code: RYF-QPR-ZJX
+  name: Tips & odds
+  newName: Tips och odds
+
+- action: UPDATE
+  code: RYF-TKT
+  name: Livsstil & fritid
+  newName: Livsstil och fritid
+
+- action: UPDATE
+  code: RYF-TKT-AGB-ALJ
+  name: Pynta & piffa
+  newName: Pynta och piffa
+
+- action: UPDATE
+  code: RYF-TKT-AGB-BGD-FQY-ZNV
+  name: Badrum & Toalett
+  newName: Badrum och Toalett
+
+- action: UPDATE
+  code: RYF-TKT-AGB-BGD-GFF
+  name: Handdukar & sängkläder
+  newName: Handdukar och sängkläder
+
+- action: UPDATE
+  code: RYF-TKT-AGB-BGD-GFQ
+  name: Dukning & dekoration
+  newName: Dukning och dekoration
+
+- action: UPDATE
+  code: RYF-TKT-AGB-BGD-KLW
+  name: Förråd & skafferi
+  newName: Förråd och skafferi
+
+- action: UPDATE
+  code: RYF-TKT-AGB-BGD-LPY
+  name: Tavlor, affischer & posters
+  newName: Tavlor, affischer och posters
+
+- action: UPDATE
+  code: RYF-TKT-AGB-BGD-PRI
+  name: Vaser & skålar
+  newName: Vaser och skålar
+
+- action: UPDATE
+  code: RYF-TKT-AGB-BGD-PWT
+  name: Filtar & plädar
+  newName: Filtar och plädar
+
+- action: UPDATE
+  code: RYF-TKT-AGB-BGD-SYP
+  name: Mattor & textilier
+  newName: Mattor och textilier
+
+- action: UPDATE
+  code: RYF-TKT-AGB-BGD-TGY
+  name: Ute- & trädgårdsmöbler
+  newName: Ute- och trädgårdsmöbler
+
+- action: UPDATE
+  code: RYF-TKT-AGB-BGD-YTL-JZG
+  name: Sänggavlar & sängstomar
+  newName: Sänggavlar och sängstomar
+
+- action: UPDATE
+  code: RYF-TKT-AGB-IAV
+  name: Bygga & fixa
+  newName: Bygga och fixa
+
+- action: UPDATE
+  code: RYF-TKT-AGB-OVJ
+  name: Köksredskap & köksutrustning
+  newName: Köksredskap och köksutrustning
+
+- action: UPDATE
+  code: RYF-TKT-AGB-TGS
+  name: Städa, tvätta & diska
+  newName: Städa, tvätta och diska
+
+- action: UPDATE
+  code: RYF-TKT-AGB-TMD-EJJ
+  name: Spis & ugn
+  newName: Spis och ugn
+
+- action: UPDATE
+  code: RYF-TKT-AGB-TMD-JUU
+  name: Kyl & frys
+  newName: Kyl och frys
+
+- action: UPDATE
+  code: RYF-TKT-AGB-TMD-TSC
+  name: Tvättmaskin & torktumlare
+  newName: Tvättmaskin och torktumlare
+
+- action: UPDATE
+  code: RYF-TKT-BOI
+  name: Bakning & bakverk
+  newName: Bakning och bakverk
+
+- action: UPDATE
+  code: RYF-TKT-CPL
+  name: Frukt, bär & grönt
+  newName: Frukt, bär och grönt
+
+- action: UPDATE
+  code: RYF-TKT-GTX-ASQ-ORI
+  name: Loppis & auktion
+  newName: Loppis och auktion
+
+- action: UPDATE
+  code: RYF-TKT-GTX-NKU
+  name: Mode & styling
+  newName: Mode och styling
+
+- action: UPDATE
+  code: RYF-TKT-GTX-NKU-ASH
+  name: Badkläder & badmode
+  newName: Badkläder och badmode
+
+- action: UPDATE
+  code: RYF-TKT-GTX-NKU-BIH
+  name: Smink & make up
+  newName: Smink och make up
+
+- action: UPDATE
+  code: RYF-TKT-GTX-NKU-BII-FPH
+  name: Sandaler & tofflor
+  newName: Sandaler och tofflor
+
+- action: UPDATE
+  code: RYF-TKT-GTX-NKU-BJE
+  name: Accessoarer & smycken
+  newName: Accessoarer och smycken
+
+- action: UPDATE
+  code: RYF-TKT-GTX-NKU-BJE-GYV
+  name: Handskar & vantar
+  newName: Handskar och vantar
+
+- action: UPDATE
+  code: RYF-TKT-GTX-NKU-CBS
+  name: Linnen & t-shirts
+  newName: Linnen och t-shirts
+
+- action: UPDATE
+  code: RYF-TKT-GTX-NKU-CNN
+  name: Hår & hårmode
+  newName: Hår och hårmode
+
+- action: UPDATE
+  code: RYF-TKT-GTX-NKU-CNN-KOA
+  name: Frisyrer & klippning
+  newName: Frisyrer och klippning
+
+- action: UPDATE
+  code: RYF-TKT-GTX-NKU-FDW
+  name: Parfymer & dofter
+  newName: Parfymer och dofter
+
+- action: UPDATE
+  code: RYF-TKT-GTX-NKU-MQA
+  name: Solning & solprodukter
+  newName: Solning och solprodukter
+
+- action: UPDATE
+  code: RYF-TKT-GTX-NKU-RIU
+  name: Färger & mönster
+  newName: Färger och mönster
+
+- action: UPDATE
+  code: RYF-TKT-GTX-NKU-TRI
+  name: Skjortor & blusar
+  newName: Skjortor och blusar
+
+- action: UPDATE
+  code: RYF-TKT-GTX-NKU-TZG
+  name: Klänningar & kjolar
+  newName: Klänningar och kjolar
+
+- action: UPDATE
+  code: RYF-TKT-GTX-NKU-XSV
+  name: Modegalor & modeevent
+  newName: Modegalor och modeevent
+
+- action: UPDATE
+  code: RYF-TKT-GTX-NKU-XZY
+  name: Tröjor & koftor
+  newName: Tröjor och koftor
+
+- action: UPDATE
+  code: RYF-TKT-GTX-NKU-ZIV-JHU
+  name: Krämer & lotion
+  newName: Krämer och lotion
+
+- action: UPDATE
+  code: RYF-TKT-HFD-DXE-EME
+  name: Dator-, tv- & mobilspel
+  newName: Dator-, tv- och mobilspel
+
+- action: UPDATE
+  code: RYF-TKT-JCK-DIM
+  name: Tilltugg & snacks
+  newName: Tilltugg och snacks
+
+- action: UPDATE
+  code: RYF-TKT-JCK-GFL-CNX
+  name: Brunch & frukost
+  newName: Brunch och frukost
+
+- action: UPDATE
+  code: RYF-TKT-JCK-GXU-HYN
+  name: Japansk- & koreansk mat
+  newName: Japansk- och koreansk mat
+
+- action: UPDATE
+  code: RYF-TKT-JCK-HCA-CSE
+  name: Korv & chark
+  newName: Korv och chark
+
+- action: UPDATE
+  code: RYF-TKT-JCK-HCA-UOB
+  name: Kyckling & fågel
+  newName: Kyckling och fågel
+
+- action: UPDATE
+  code: RYF-TKT-JCK-HRM
+  name: Efterrätter & dessert
+  newName: Efterrätter och dessert
+
+- action: UPDATE
+  code: RYF-TKT-JCK-IRW
+  name: Huvud- & varmrätter
+  newName: Huvud- och varmrätter
+
+- action: UPDATE
+  code: RYF-TKT-JCK-IZO
+  name: Potatis & Rotfrukter
+  newName: Potatis och Rotfrukter
+
+- action: UPDATE
+  code: RYF-TKT-JCK-KIF
+  name: Marinader & dressing
+  newName: Marinader och dressing
+
+- action: UPDATE
+  code: RYF-TKT-JCK-MVK
+  name: Klassisk mat & husman
+  newName: Klassisk mat och husman
+
+- action: UPDATE
+  code: RYF-TKT-JCK-NCD
+  name: Mackor, wraps & bagles
+  newName: Mackor, wraps och bagles
+
+- action: UPDATE
+  code: RYF-TKT-JCK-OCC
+  name: Ägg & mejeri
+  newName: Ägg och mejeri
+
+- action: UPDATE
+  code: RYF-TKT-JCK-QCJ-TCO
+  name: Kräftor & Kräftskiva
+  newName: Kräftor och Kräftskiva
+
+- action: UPDATE
+  code: RYF-TKT-JCK-QDA-LKE
+  name: Texmex & tacos
+  newName: Texmex och tacos
+
+- action: UPDATE
+  code: RYF-TKT-JCK-RVC
+  name: Safta & sylta
+  newName: Safta och sylta
+
+- action: UPDATE
+  code: RYF-TKT-JCK-SOM
+  name: Fisk & fiskrätter
+  newName: Fisk och fiskrätter
+
+- action: UPDATE
+  code: RYF-TKT-JCK-TCP
+  name: Såser & röror
+  newName: Såser och röror
+
+- action: UPDATE
+  code: RYF-TKT-JCK-VAU
+  name: Barnanpassad & familjemat
+  newName: Barnanpassad och familjemat
+
+- action: UPDATE
+  code: RYF-TKT-JCK-YXX
+  name: Ris & gryn
+  newName: Ris och gryn
+
+- action: UPDATE
+  code: RYF-TKT-NAU
+  name: Godis & sötsaker
+  newName: Godis och sötsaker
+
+- action: UPDATE
+  code: RYF-TKT-OUV-FOQ
+  name: Pass & visum
+  newName: Pass och visum
+
+- action: UPDATE
+  code: RYF-TKT-OUV-IPP
+  name: Sol- & badresa
+  newName: Sol- och badresa
+
+- action: UPDATE
+  code: RYF-TKT-OUV-KGZ
+  name: Mat- & vinresa
+  newName: Mat- och vinresa
+
+- action: UPDATE
+  code: RYF-TKT-OUV-PIB
+  name: Alpin- & fjällresa
+  newName: Alpin- och fjällresa
+
+- action: UPDATE
+  code: RYF-TKT-OUV-YIP
+  name: Badplatser, stränder & pooler
+  newName: Badplatser, stränder och pooler
+
+- action: UPDATE
+  code: RYF-TKT-OUV-YIP-RUZ
+  name: Vattenland & äventyrsbad
+  newName: Vattenland och äventyrsbad
+
+- action: UPDATE
+  code: RYF-TKT-UAN-VRC
+  name: Plantera & odla
+  newName: Plantera och odla
+
+- action: UPDATE
+  code: RYF-TKT-UAN-VRC-XMU
+  name: Träd & buskar
+  newName: Träd och buskar
+
+- action: UPDATE
+  code: RYF-TKT-XHP
+  name: Träning & hälsa
+  newName: Träning och hälsa
+
+- action: UPDATE
+  code: RYF-TKT-XHP-GYU
+  name: Mens & PMS
+  newName: Mens och PMS
+
+- action: UPDATE
+  code: RYF-TKT-XHP-PME-FGD
+  name: Hantlar & vikter
+  newName: Hantlar och vikter
+
+- action: UPDATE
+  code: RYF-TKT-XHP-SGV
+  name: Spa & Bad
+  newName: Spa och Bad
+
+- action: UPDATE
+  code: RYF-TKT-XHP-WCS
+  name: Diet & bantning
+  newName: Diet och bantning
+
+- action: UPDATE
+  code: RYF-TKT-ZCD-ZHS
+  name: Mousserande vin & bubbel
+  newName: Mousserande vin och bubbel
+
+- action: UPDATE
+  code: RYF-VHD
+  name: Klimat & miljö
+  newName: Klimat och miljö
+
+- action: UPDATE
+  code: RYF-VHD-HXU
+  name: Djur & natur
+  newName: Djur och natur
+
+- action: UPDATE
+  code: RYF-VHD-HXU-GRV-VWZ
+  name: Älv & å
+  newName: Älv och å
+
+- action: UPDATE
+  code: RYF-VHD-HXU-XFY
+  name: Nationalparker & naturreservat
+  newName: Nationalparker och naturreservat
+
+- action: UPDATE
+  code: RYF-VHD-IFE-FHW
+  name: Farliga ämnen & strålning
+  newName: Farliga ämnen och strålning
+
+- action: UPDATE
+  code: RYF-WUU
+  name: Hälsa & sjukvård
+  newName: Hälsa och sjukvård
+
+- action: UPDATE
+  code: RYF-WUU-BNJ-AYT
+  name: Sjukhus & kliniker
+  newName: Sjukhus och kliniker
+
+- action: UPDATE
+  code: RYF-WUU-JZK-JUK
+  name: Bett & stick
+  newName: Bett och stick
+
+- action: UPDATE
+  code: RYF-WUU-JZK-LPE-QKM
+  name: Blödningar & flytningar
+  newName: Blödningar och flytningar
+
+- action: UPDATE
+  code: RYF-WUU-JZK-MTE
+  name: Migrän & huvudvärk
+  newName: Migrän och huvudvärk
+
+- action: UPDATE
+  code: RYF-WUU-JZK-QTH-KEE-UZW
+  name: Hiv & aids
+  newName: Hiv och aids
+
+- action: UPDATE
+  code: RYF-WUU-JZK-TBI
+  name: Värk & Smärta
+  newName: Värk och Smärta
+
+- action: UPDATE
+  code: RYF-WUU-JZK-YMA
+  name: Hjärt- & kärlsjukdomar
+  newName: Hjärt- och kärlsjukdomar
+
+- action: UPDATE
+  code: RYF-WUU-JZK-YSP-DIL
+  name: Fobier & rädslor
+  newName: Fobier och rädslor
+
+- action: UPDATE
+  code: RYF-WUU-JZK-YSP-RQZ
+  name: Ångest & oro
+  newName: Ångest och oro
+
+- action: UPDATE
+  code: RYF-WUU-JZK-ZAG-KGB
+  name: Glasögon & linser
+  newName: Glasögon och linser
+
+- action: UPDATE
+  code: RYF-WUU-QNB-PGP
+  name: Bild- & funktionsmedicin
+  newName: Bild- och funktionsmedicin
+
+- action: UPDATE
+  code: RYF-WUU-QNB-UCN
+  name: Vitaminer & mineraler
+  newName: Vitaminer och mineraler
+
+- action: UPDATE
+  code: RYF-WUU-QNB-XVD
+  name: Kosttillskott & näring
+  newName: Kosttillskott och näring
+
+- action: UPDATE
+  code: RYF-WUU-SUX-APJ-EMC
+  name: Obstetrik & gynekologi
+  newName: Obstetrik och gynekologi
+
+- action: UPDATE
+  code: RYF-WUU-SUX-APJ-FCV-LQT
+  name: Barn- & ungdomskirurgi
+  newName: Barn- och ungdomskirurgi
+
+- action: UPDATE
+  code: RYF-WUU-ZUM
+  name: Beroenden & beroendesjukdomar
+  newName: Beroenden och beroendesjukdomar
+
+- action: UPDATE
+  code: RYF-WUU-ZUM-PIA
+  name: Tobak & nikotin
+  newName: Tobak och nikotin
+
+- action: UPDATE
+  code: RYF-WXT
+  name: Konflikter & krig
+  newName: Konflikter och krig
+
+- action: UPDATE
+  code: RYF-WXT-PFT
+  name: Minröjning & röjning av krigsmateriel
+  newName: Minröjning och röjning av krigsmateriel
+
+- action: UPDATE
+  code: RYF-XKI
+  name: Kultur & nöje
+  newName: Kultur och nöje
+
+- action: UPDATE
+  code: RYF-XKI-CUP
+  name: Konstformer & underhållning
+  newName: Konstformer och underhållning
+
+- action: UPDATE
+  code: RYF-XKI-CUP-NWA-RRT
+  name: Sånger & visor
+  newName: Sånger och visor
+
+- action: UPDATE
+  code: RYF-XRZ
+  name: Trafik & fordon
+  newName: Trafik och fordon
+
+- action: UPDATE
+  code: RYF-XRZ-BQN
+  name: Bilvård & rekond
+  newName: Bilvård och rekond
+
+- action: UPDATE
+  code: RYF-XRZ-BQN-LKS
+  name: Tvätt & rengöringstillbehör
+  newName: Tvätt och rengöringstillbehör
+
+- action: UPDATE
+  code: RYF-XRZ-BQN-LKS-TOO
+  name: Svamp & trasa
+  newName: Svamp och trasa
+
+- action: UPDATE
+  code: RYF-XRZ-HYF-XZI
+  name: Bil & fordonssamlingar
+  newName: Bil och fordonssamlingar
+
+- action: UPDATE
+  code: RYF-XRZ-ITR-EHD
+  name: Tjänstebil & förmånsbil
+  newName: Tjänstebil och förmånsbil
+
+- action: UPDATE
+  code: RYF-XRZ-ITR-SEW
+  name: Husbil & husvagn
+  newName: Husbil och husvagn
+
+- action: UPDATE
+  code: RYF-XRZ-OOW
+  name: Traktor & arbetsmaskiner
+  newName: Traktor och arbetsmaskiner
+
+- action: UPDATE
+  code: RYF-XRZ-SZH
+  name: Fyrhjuling & ATV
+  newName: Fyrhjuling och ATV
+
+- action: UPDATE
+  code: RYF-XRZ-VED-JEG
+  name: Parkeringshjälp & självparkering
+  newName: Parkeringshjälp och självparkering
+
+- action: UPDATE
+  code: RYF-XRZ-YVU-ZSM
+  name: Strålkastare & lampa
+  newName: Strålkastare och lampa
+
+- action: UPDATE
+  code: RYF-YDR
+  name: Skola & utbildning
+  newName: Skola och utbildning
+
+- action: UPDATE
+  code: RYF-ZEI-CZS
+  name: Personal- & anställning
+  newName: Personal- och anställning
+
+- action: UPDATE
+  code: RYF-ZEI-CZS-JLQ-IMF
+  name: Uppsägning & varsel
+  newName: Uppsägning och varsel
+
+- action: UPDATE
+  code: RYF-ZEI-QVY
+  name: Lön & förmån
+  newName: Lön och förmån
