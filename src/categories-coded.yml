@@ -18944,6 +18944,10 @@ categories:
   name: Epidemi
   replaces: RYF-WUU-JZK-FBC-BSI
   status: ACTIVE
+- code: RYF-WUU-JZK-NZD
+  level: 3
+  name: Sepsis, Blodförgiftning
+  status: ACTIVE
 - code: RYF-WUU-JZK-OQI
   description: ''
   level: 3
@@ -19720,6 +19724,10 @@ categories:
   name: Malignt melanom
   replacedBy: RYF-WUU-JZK-YIA-WMP-WPO
   status: INACTIVE
+- code: RYF-WUU-JZK-YIA-XXG
+  level: 4
+  name: Cervixcancer
+  status: ACTIVE
 - code: RYF-WUU-JZK-YIA-ZFZ
   description: ''
   level: 4
