@@ -1,0 +1,12 @@
+modifications:
+- action: ADD
+  parentCode: RYF-WUU-JZK
+  parentName: Sjukdomar, tillstånd och diagnoser
+  name: Sepsis, Blodförgiftning
+  level: 3
+
+- action: ADD
+  parentCode: RYF-WUU-JZK-YIA
+  parentName: Cancer
+  name: Cervixcancer
+  level: 4
