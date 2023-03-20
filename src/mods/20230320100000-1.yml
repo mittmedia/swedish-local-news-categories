@@ -214,3 +214,8 @@ modifications:
   code: RYF-YDR-CXG
   name: Lärarkåren
 
+- action: ADD
+  parentCode: RYF-TKT-KXM-ZBA
+  parentName: Friluftsliv
+  name: Sportdykning
+  level: 4
