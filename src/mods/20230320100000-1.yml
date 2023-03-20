@@ -1,0 +1,216 @@
+modifications:
+- action: UPDATE
+  code: RYF-ZEI-RYD
+  name: Arbetslagstiftning
+  newName: Arbetsrätt
+
+- action: ADD
+  parentCode: RYF-ZEI-QVY
+  parentName: Lön och förmån
+  name: Löneförhandling
+  level: 3
+
+- action: INACTIVATE
+  code: RYF-BIZ-XSV-TFE-POD
+  name: Konkurrensfrågor
+
+- action: INACTIVATE
+  code: RYF-BIZ-XSV-JUZ-BQY
+  name: Myndighetsrelaterat mål
+
+- action: INACTIVATE
+  code: RYF-BIZ-XSV-JUZ-SJC
+  name: Personrelaterat mål
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-IRW
+  parentName: Byggnation
+  name: Byggnadsarbete
+  level: 4
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-IRW
+  parentName: Byggnation
+  name: Hållbart byggande
+  level: 4
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-IRW
+  parentName: Byggnation
+  name: Nybyggnation
+  level: 4
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-IRW
+  parentName: Byggnation
+  name: Värme, ventilation och sanitet, VVS
+  level: 4
+
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-TOY
+  parentName: Fastighet
+  name: Kommersiell lokal
+  level: 4
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-TOY-XLK
+  parentName: Kontor
+  name: Aktivitetsbaserade kontor
+  level: 5
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-OFN-ZSB
+  parentName: Annonsmarknad
+  name: Annonsbedrägeri
+  level: 5
+
+- action: UPDATE
+  code: RYF-IXA-KEV-OFN-ZPE
+  name: Datamarknadsföring
+  newName: Performance marketing
+
+- action: UPDATE
+  code: RYF-IXA-KEV-OFN-AKK
+  name: Innehållsreklam
+  newName: Content marketing
+
+- action: UPDATE
+  code: RYF-IXA-KEV-CYO
+  name: Logistik
+  newName: Logistik och transport
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-OLL-QTX
+  parentName: Offentlig upphandling
+  name: Direktupphandling
+  level: 5
+
+- action: UPDATE
+  code: RYF-IXA-KEV-OZO
+  name: Årsmöten och stämmor
+  newName: Årsmöte och stämma
+
+- action: ADD
+  parentCode: RYF-IXA-AOE-BUE
+  parentName: Hyresrätt och hyra
+  name: Hyreskontrakt
+  level: 4
+
+- action: INACTIVATE
+  code: RYF-IXA-AOE-CYP-TSE-YZJ
+  name: Bolåneränta
+
+- action: ADD
+  parentCode: RYF-IXA-AOE-CYP-TSE
+  parentName: Bolån
+  name: Pantbrev
+  level: 5
+
+- action: UPDATE
+  code: RYF-WUU-ZUM-PIA-MMW
+  name: Snusa
+  newName: Snusning
+
+- action: INACTIVATE
+  code: RYF-WUU-ZUM-PIA-MMW-TLU
+  name: Snus
+
+- action: INACTIVATE
+  code: RYF-WUU-JZK-PFT
+  name: Fysisk skada
+
+
+- action: UPDATE
+  code: RYF-WUU-SUX-MRL
+  name: Dietist
+  newName: Diet
+
+- action: ADD
+  parentCode: RYF-VHD-IFE-EGU
+  parentName: Avfall
+  name: Bygg- och rivningsavfall
+  level: 4
+
+- action: ADD
+  parentCode: RYF-VHD-IFE-EGU
+  parentName: Avfall
+  name: Hushållsavfall
+  level: 4
+
+- action: ADD
+  parentCode: RYF-WXT-ABT
+  parentName: Terrorism
+  name: Terrorattack
+  level: 3
+
+- action: ADD
+  parentCode: RYF-TKT-AGB-IAV
+  parentName: Bygga och fixa
+  name: Restaurering
+  level: 4
+
+- action: INACTIVATE
+  code: RYF-TKT-GTX-NKU-QOV-MSU
+  name: Ögonbryn
+
+- action: INACTIVATE
+  code: RYF-TKT-GTX-NKU-QOV-FVO
+  name: Ögonfransar
+
+- action: ADD
+  parentCode: RYF-TKT-XHP
+  parentName: Träning och hälsa
+  name: Motionslopp
+  level: 3
+
+- action: UPDATE
+  code: RYF-AKM-QGJ-SMW
+  name: Arbetsplatsolycka
+  newName: Arbetsolycka
+
+- action: INACTIVATE
+  code: RYF-ITV-QAK-VBF
+  name: Religiösa ritualer
+
+- action: INACTIVATE
+  code: RYF-ITV-QAK
+  name: Religiösa händelser
+
+- action: ADD
+  parentCode: RYF-HPT-NLP-IGT-TRQ
+  parentName: Solceller
+  name: Solpanel
+  level: 5
+
+- action: UPDATE
+  code: RYF-HPT-YGE-GCZ-LGD
+  name: Vatten och avlopp
+  newName: Vatten och avlopp, VA
+
+- action: ADD
+  parentCode: RYF-HPT
+  parentName: Samhälle
+  name: Migration
+  level: 2
+
+- action: ADD
+  parentCode: RYF-HPT-GZD
+  parentName: Samhällsplanering
+  name: Samhällsbyggnad
+  level: 3
+
+- action: UPDATE
+  code: RYF-HPT-UYY-QOC
+  name: Parker
+  newName: Park
+
+- action: UPDATE
+  code: RYF-HPT-UYY-QOC-PZL
+  name: Lekparker
+  newName: Lekpark
+
+- action: INACTIVATE
+  code: RYF-YDR-CXG
+  name: Lärarkåren
+

@@ -1,0 +1,13 @@
+modifications:
+- action: UPDATE
+  code: RYF-HPT-XXXX-XXXX # ID från 1 och 2
+  name: Arbetskraftsinvanding
+  newName: Arbetskraftsinvandring
+
+- action: ADD
+  code: RYF-HPT-XXXX-XXXX # ID från 1 och 2
+  parentName: Invandring
+  name: Nyanlända
+  level: 4
+
+
