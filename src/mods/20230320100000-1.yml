@@ -219,3 +219,15 @@ modifications:
   parentName: Friluftsliv
   name: Sportdykning
   level: 4
+
+- action: ADD
+  parentCode: RYF-HPT
+  parentName: Samhälle
+  name: Offentlig sektor
+  level: 2
+
+- action: ADD
+  parentCode: RYF-HPT
+  parentName: Samhälle
+  name: Privat sektor
+  level: 2
