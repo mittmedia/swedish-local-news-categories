@@ -1,13 +1,11 @@
 modifications:
 - action: UPDATE
-  code: RYF-HPT-XXXX-XXXX # ID från 1 och 2
+  code: RYF-HPT-PBC-PCM-FQE
   name: Arbetskraftsinvanding
   newName: Arbetskraftsinvandring
 
 - action: ADD
-  code: RYF-HPT-XXXX-XXXX # ID från 1 och 2
+  parentCode: RYF-HPT-PBC-PCM
   parentName: Invandring
   name: Nyanlända
-  level: 4
-
-
+  level: 3
