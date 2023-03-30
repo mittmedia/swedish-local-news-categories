@@ -3966,6 +3966,7 @@
         },
         {
             "code": "RYF-HPT-PBC-PCM-ISK",
+            "description": "",
             "level": 4,
             "name": "Nyanlända",
             "status": "ACTIVE"
@@ -14783,21 +14784,21 @@
             "description": "",
             "level": 4,
             "name": "Division 1 herr",
-            "status": "ACTIVE"
+            "status": "INACTIVE"
         },
         {
             "code": "RYF-QPR-HGB-DEN-GZQ-CBR",
             "description": "",
             "level": 5,
             "name": "Norra",
-            "status": "ACTIVE"
+            "status": "INACTIVE"
         },
         {
             "code": "RYF-QPR-HGB-DEN-GZQ-SGT",
             "description": "",
             "level": 5,
             "name": "Södra",
-            "status": "ACTIVE"
+            "status": "INACTIVE"
         },
         {
             "code": "RYF-QPR-HGB-DEN-HEP",
@@ -15959,20 +15960,32 @@
             "description": "",
             "level": 5,
             "name": "Södra Svealand",
-            "status": "ACTIVE"
+            "status": "INACTIVE"
         },
         {
             "code": "RYF-QPR-HGB-DEN-UBA-EJY",
             "description": "",
             "level": 5,
             "name": "Norra Svealand",
-            "status": "ACTIVE"
+            "status": "INACTIVE"
         },
         {
             "code": "RYF-QPR-HGB-DEN-UBA-FMV",
             "description": "",
             "level": 5,
             "name": "Norra Götaland",
+            "status": "INACTIVE"
+        },
+        {
+            "code": "RYF-QPR-HGB-DEN-UBA-HOE",
+            "level": 5,
+            "name": "Mellersta",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-QPR-HGB-DEN-UBA-IWZ",
+            "level": 5,
+            "name": "Södra",
             "status": "ACTIVE"
         },
         {
@@ -15980,13 +15993,19 @@
             "description": "",
             "level": 5,
             "name": "Södra Götaland",
-            "status": "ACTIVE"
+            "status": "INACTIVE"
         },
         {
             "code": "RYF-QPR-HGB-DEN-UBA-SOI",
             "description": "",
             "level": 5,
             "name": "Norrland",
+            "status": "INACTIVE"
+        },
+        {
+            "code": "RYF-QPR-HGB-DEN-UBA-TZN",
+            "level": 5,
+            "name": "Norra",
             "status": "ACTIVE"
         },
         {
@@ -15994,7 +16013,7 @@
             "description": "",
             "level": 5,
             "name": "Mellersta Götaland",
-            "status": "ACTIVE"
+            "status": "INACTIVE"
         },
         {
             "code": "RYF-QPR-HGB-DEN-UXB",
