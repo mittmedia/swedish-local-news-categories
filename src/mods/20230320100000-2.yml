@@ -1,0 +1,25 @@
+modifications:
+- action: ADD
+  parentCode: RYF-ZEI-RYD
+  parentName: Arbetsrätt
+  name: Lagen om anställningsskydd, LAS
+  level: 3
+
+- action: ADD
+  parentCode: RYF-AKM-QGJ-SMW
+  parentName: Arbetsolycka
+  name: Fallolycka
+  level: 4
+
+- action: MOVE
+  code: RYF-HPT-QGV
+  name: Invandring
+  newParentCode: RYF-HPT-PBC
+  newParentName: Migration
+
+- action: ADD
+  parentCode: RYF-HPT-PBC
+  parentName: Migration
+  name: Utvandring
+  level: 3
+

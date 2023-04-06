@@ -1,0 +1,46 @@
+modifications:
+- action: ADD
+  parentCode: RYF-QPR-HGB-DEN-UBA
+  parentName: Division 1 dam
+  name: Södra
+  level: 5
+
+- action: ADD
+  parentCode: RYF-QPR-HGB-DEN-UBA
+  parentName: Division 1 dam
+  name: Mellersta
+  level: 5
+
+- action: ADD
+  parentCode: RYF-QPR-HGB-DEN-UBA
+  parentName: Division 1 dam
+  name: Norra
+  level: 5
+
+- action: INACTIVATE
+  code: RYF-QPR-HGB-DEN-UBA-WUG
+  name: Mellersta Götaland
+
+- action: INACTIVATE
+  code: RYF-QPR-HGB-DEN-UBA-FMV
+  name: Norra Götaland
+
+- action: INACTIVATE
+  code: RYF-QPR-HGB-DEN-UBA-EJY
+  name: Norra Svealand
+
+- action: INACTIVATE
+  code: RYF-QPR-HGB-DEN-UBA-SOI
+  name: Norrland
+
+- action: INACTIVATE
+  code: RYF-QPR-HGB-DEN-UBA-NGY
+  name: Södra Götaland
+
+- action: INACTIVATE
+  code: RYF-QPR-HGB-DEN-UBA-AAW
+  name: Södra Svealand
+
+- action: INACTIVATE
+  code: RYF-QPR-HGB-DEN-GZQ
+  name: Division 1 herr
