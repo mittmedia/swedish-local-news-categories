@@ -1,0 +1,36 @@
+modifications:
+- action: ADD
+  parentCode: RYF-IXA-KEV-XXXX-XXXX # ID från -1 och -2
+  parentName: Drivmedelspris
+  name: Bensinpris
+  level: 5
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-XXXX-XXXX # ID från -1 och -2
+  parentName: Drivmedelspris
+  name: Dieselpris
+  level: 5
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-XXXX-XXXX # ID från -1
+  parentName: Fossila bränslen
+  name: Bensin
+  level: 5
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-XXXX-XXXX # ID från -1
+  parentName: Fossila bränslen
+  name: Diesel
+  level: 5
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-XXXX-XXXX # ID från -1
+  parentName: Fossila bränslen
+  name: Kol
+  level: 5
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-XXXX-XXXX # ID från -1
+  parentName: Fossila bränslen
+  name: Naturgas, fossilgas
+  level: 5
