@@ -65,6 +65,31 @@ modifications:
   level: 4
 
 - action: ADD
+  parentCode: RYF-IXA-CVI-MAB
+  parentName: Aktier
+  name: Algoritmisk handel
+  level: 4
+
+
+- action: ADD
+  parentCode: RYF-IXA-CVI-MAB
+  parentName: Aktier
+  name: Avnotering
+  level: 4
+
+- action: ADD
+  parentCode: RYF-IXA-CVI-MAB
+  parentName: Aktier
+  name: Börshandlad fond
+  level: 4
+
+- action: ADD
+  parentCode: RYF-IXA-CVI
+  parentName: Börser och handelsmarknader
+  name: Option
+  level: 3
+
+- action: ADD
   parentCode: RYF-IXA-CVI
   parentName: Börser och handelsmarknader
   name: Avkastning
@@ -92,6 +117,12 @@ modifications:
   parentCode: RYF-IXA-CVI-CCS
   parentName: Fonder
   name: Fondsparande
+  level: 4
+
+- action: ADD
+  parentCode: RYF-IXA-CVI-CCS
+  parentName: Fonder
+  name: Fondförvaltare
   level: 4
 
 - action: UPDATE
@@ -156,6 +187,18 @@ modifications:
   parentCode: RYF-IXA-CVI-FUJ
   parentName: Råvarumarknad
   name: WTI-olja
+  level: 4
+
+- action: ADD
+  parentCode: RYF-IXA-CVI-FUJ
+  parentName: Råvarumarknad
+  name: Diamant
+  level: 4
+
+- action: ADD
+  parentCode: RYF-IXA-CVI-FUJ
+  parentName: Råvarumarknad
+  name: Jordbruksråvara
   level: 4
 
 - action: ADD
@@ -444,3 +487,211 @@ modifications:
   parentName: Sjöfart
   name: Fritidsbåt
   level: 3
+
+- action: ADD
+  parentCode: RYF-ZEI-QVY
+  parentName: Lön och förmån
+  name: Löneväxling
+  level: 3
+
+- action: ADD
+  parentCode: RYF-ZEI-CZS-FIE
+  parentName: Sjukskrivning
+  name: Sjukförsäkring
+  level: 4
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-ZOC
+  parentName: Bankbranschen
+  name: Insättningsgaranti
+  level: 4
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-UBU
+  parentName: Energi och elproduktion
+  name: Elavtal
+  level: 4
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-TOY-XRP
+  parentName: Fastighetsaffär
+  name: Bostadsförsäljning
+  level: 5
+  
+- action: ADD
+  parentCode: RYF-IXA-KEV-TOY-XRP
+  parentName: Fastighetsaffär
+  name: Bostadsköp
+  level: 5
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-TOY
+  parentName: Fastighet
+  name: Taxeringsvärde
+  level: 4
+
+- action: UPDATE
+  code: RYF-IXA-KEV-WBI-ZQH
+  name: Årsredovisning
+  newName: Redovisning
+
+- action: UPDATE
+  code: RYF-IXA-KEV-VBL
+  name: Gruvnäring
+  newName: Gruvindustri
+
+- action: ADD
+  parentCode: RYF-IXA-KEV
+  parentName: Näringsliv
+  name: Investmentbolag
+  level: 3
+
+- action: UPDATE
+  code: RYF-IXA-KEV-PUM
+  name: Redovisning och revision
+  newName: Revision
+
+- action: ADD
+  parentCode: RYF-IXA-AOE-ESB
+  parentName: Bostadspriser
+  name: Boprisindikator
+  level: 4
+
+- action: UPDATE
+  code: RYF-IXA-AOE-ESB-TTI
+  name: Villapriser
+  newName: Småhuspriser
+
+- action: ADD
+  parentCode: RYF-IXA-AOE
+  parentName: Privatekonomi
+  name: Familjeekonomi
+  level: 3
+
+- action: ADD
+  parentCode: RYF-IXA-AOE-YFQ
+  parentName: Pension
+  name: Efterlevandeskydd
+  level: 4
+
+- action: ADD
+  parentCode: RYF-IXA-AOE-YFQ
+  parentName: Pension
+  name: Flytträtt
+  level: 4
+
+- action: ADD
+  parentCode: RYF-IXA-AOE-YFQ
+  parentName: Pension
+  name: Pensionsavgift
+  level: 4
+
+- action: ADD
+  parentCode: RYF-IXA-AOE-KPB-IYR
+  parentName: Personförsäkring
+  name: Grupplivförsäkring
+  level: 5
+
+- action: ADD
+  parentCode: RYF-IXA-VMF
+  parentName: Skuldsättning
+  name: Inkasso
+  level: 3
+
+- action: ADD
+  parentCode: RYF-IXA-AOE-OPN
+  parentName: Sparande
+  name: Kapitalförsäkring
+  level: 4
+
+- action: ADD
+  parentCode: RYF-IXA-QED-EKT
+  parentName: Konjunktur
+  name: Högkonjunktur
+  level: 4
+
+- action: ADD
+  parentCode: RYF-IXA-QED-EKT
+  parentName: Konjunktur
+  name: Lågkonjunktur
+  level: 4
+
+- action: ADD
+  parentCode: RYF-IXA-QED
+  parentName: Samhällsekonomi
+  name: Prisbasbelopp
+  level: 3
+
+- action: ADD
+  parentCode: RYF-IXA-QED-JUO
+  parentName: Ränta
+  name: Bunden ränta
+  level: 4
+
+- action: ADD
+  parentCode: RYF-IXA-QED-JUO
+  parentName: Ränta
+  name: Rörlig ränta
+  level: 4
+
+- action: ADD
+  parentCode: RYF-IXA-QED-CPU-KAX
+  parentName: Fastighetsskatt
+  name: Fastighetstaxering
+  level: 5
+
+- action: ADD
+  parentCode: RYF-IXA-QED-CPU
+  parentName: Skatt
+  name: Förmånsvärde
+  level: 4
+
+- action: ADD
+  parentCode: RYF-IXA-QED-CPU
+  parentName: Skatt
+  name: Pensionärsskatt
+  level: 4
+
+- action: ADD
+  parentCode: RYF-IXA-QED-CPU-PMY
+  parentName: Skatteavdrag
+  name: Jobbskatteavdrag
+  level: 5
+
+- action: ADD
+  parentCode: RYF-IXA-QED-OID
+  parentName: Tillväxt
+  name: Tillväxtmarknad
+  level: 4
+
+- action: ADD
+  parentCode: RYF-TKT-KBC
+  parentName: Bostad
+  name: Ombildning
+  level: 3
+
+- action: INACTIVATE
+  code: RYF-TKT-ZCD-QRU
+  name: Sommarvin
+
+- action: UPDATE
+  code: RYF-TKT-OUV-MLG
+  name: Weekend-resa
+  newName: Weekendresa
+
+- action: UPDATE
+  code: RYF-XRZ-ITR-SEW
+  name: Husbil och husvagn
+  newName: Husbil
+
+- action: ADD
+  parentCode: RYF-XRZ
+  parentName: Trafik och fordon
+  name: Husvagn
+  level: 2
+
+- action: ADD
+  parentCode: RYF-EOI-GLR-KDA
+  parentName: Juridik
+  name: Familjejuridik
+  level: 4

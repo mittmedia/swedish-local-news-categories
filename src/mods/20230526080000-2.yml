@@ -6,6 +6,17 @@ modifications:
   level: 5
 
 - action: ADD
+  parentCode: RYF-IXA-CVI-XXXX # ID från -1
+  parentName: Avkastning
+  name: Direktavkastning
+  level: 4
+
+  parentCode: RYF-IXA-CVI-MAB-XXXXX # ID från -1
+  parentName: Aktiehandel
+  name: Handelsstopp
+  level: 5
+
+- action: ADD
   parentCode: RYF-IXA-KEV-XXXX # ID från -1
   parentName: Drivmedelsindustri
   name: Biodrivmedel
@@ -134,4 +145,16 @@ modifications:
   parentCode: RYF-HPT-YGE-EWJ-XXXX # Från -1
   parentName: Mobilt bredband
   name: 5G
+  level: 5
+
+- action: ADD
+  parentCode: RYF-IXA-AOE-YFQ-XXXX # Från -1
+  parentName: Pensionssparande
+  name: Individuellt pensionssparande, IPS
+  level: 5
+
+- action: ADD
+  parentCode: RYF-EOI-GLR-KDA-XXXX # Från -1
+  parentName: Familjejuridik
+  name: Testamente
   level: 5
