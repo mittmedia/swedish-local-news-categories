@@ -1,43 +1,42 @@
 modifications:
 - action: ADD
-  parentCode: RYF-IXA-CVI-MAB-XXXXX # ID från -1
+  parentCode: RYF-IXA-CVI-MAB-ETQ # ID från -1
   parentName: Aktiehandel
   name: Blankning
   level: 5
 
 - action: ADD
-  parentCode: RYF-IXA-CVI-XXXX # ID från -1
+  parentCode: RYF-IXA-CVI-OSZ # ID från -1
   parentName: Avkastning
   name: Direktavkastning
   level: 4
 
 - action: ADD
-  parentCode: RYF-IXA-CVI-MAB-XXXXX # ID från -1
+  parentCode: RYF-IXA-CVI-MAB-ETQ # ID från -1
   parentName: Aktiehandel
   name: Handelsstopp
   level: 5
 
 - action: ADD
-  parentCode: RYF-IXA-KEV-XXXX # ID från -1
+  parentCode: RYF-IXA-KEV-DUC # ID från -1
   parentName: Drivmedelsindustri
   name: Biodrivmedel
   level: 4
 
 - action: ADD
-  parentCode: RYF-IXA-KEV-XXXX # ID från -1
+  parentCode: RYF-IXA-KEV-DUC # ID från -1
   parentName: Drivmedelsindustri
   name: Drivmedelspris
   level: 4
 
-
 - action: ADD
-  parentCode: RYF-IXA-AOE-XXXX # Från -1
+  parentCode: RYF-IXA-AOE-THM # Från -1
   parentName: Studiemedel
   name: Studiebidrag
   level: 4
 
 - action: ADD
-  parentCode: RYF-IXA-AOE-XXXX # Från -1
+  parentCode: RYF-IXA-AOE-THM # Från -1
   parentName: Studiemedel
   name: Studielån
   level: 4
@@ -45,7 +44,7 @@ modifications:
 - action: MOVE
   code: RYF-TKT-ZCD-VHK
   name: Alkoholfritt vin
-  newParentCode: RYF-TKT-ZCD-XXXX # Från -1
+  newParentCode: RYF-TKT-ZCD-UHV # Från -1
   newParentName: Vin
 
 - action: UPDATE
@@ -56,7 +55,7 @@ modifications:
 - action: MOVE
   code: RYF-TKT-ZCD-DPQ
   name: Dessertvin # Nytt namn ovan
-  newParentCode: RYF-TKT-ZCD-XXXX # Från -1
+  newParentCode: RYF-TKT-ZCD-UHV # Från -1
   newParentName: Vin
 
 - action: UPDATE
@@ -67,7 +66,7 @@ modifications:
 - action: MOVE
   code: RYF-TKT-ZCD-ZHS
   name: Mousserande vin # Nytt namn ovan
-  newParentCode: RYF-TKT-ZCD-XXXX # Från -1
+  newParentCode: RYF-TKT-ZCD-UHV # Från -1
   newParentName: Vin
 
 - action: UPDATE
@@ -78,7 +77,7 @@ modifications:
 - action: MOVE
   code: RYF-TKT-ZCD-EFV
   name: Naturvin # Nytt namn ovan
-  newParentCode: RYF-TKT-ZCD-XXXX # Från -1
+  newParentCode: RYF-TKT-ZCD-UHV # Från -1
   newParentName: Vin
 
 - action: UPDATE
@@ -89,7 +88,7 @@ modifications:
 - action: MOVE
   code: RYF-TKT-ZCD-QCY
   name: Rosévin # Nytt namn ovan
-  newParentCode: RYF-TKT-ZCD-XXXX # Från -1
+  newParentCode: RYF-TKT-ZCD-UHV # Från -1
   newParentName: Vin
 
 - action: UPDATE
@@ -100,13 +99,13 @@ modifications:
 - action: MOVE
   code: RYF-TKT-ZCD-BGU
   name: Rött vin # Nytt namn ovan
-  newParentCode: RYF-TKT-ZCD-XXXX # Från -1
+  newParentCode: RYF-TKT-ZCD-UHV # Från -1
   newParentName: Vin
 
 - action: MOVE
   code: RYF-TKT-ZCD-GAD
   name: Starkvin
-  newParentCode: RYF-TKT-ZCD-XXXX # Från -1
+  newParentCode: RYF-TKT-ZCD-UHV # Från -1
   newParentName: Vin
 
 - action: INACTIVATE
@@ -120,15 +119,15 @@ modifications:
 
 - action: MOVE
   code: RYF-TKT-ZCD-PZI
-  name: Vintest# Nytt namn ovan
-  newParentCode: RYF-TKT-ZCD-XXXX # Från -1
+  name: Vintest # Nytt namn ovan
+  newParentCode: RYF-TKT-ZCD-UHV # Från -1
   newParentName: Vin
 
 
 - action: MOVE
   code: RYF-TKT-ZCD-SBM
   name: Vintips
-  newParentCode: RYF-TKT-ZCD-XXXX # Från -1
+  newParentCode: RYF-TKT-ZCD-UHV # Från -1
   newParentName: Vin
 
 - action: UPDATE
@@ -139,23 +138,23 @@ modifications:
 - action: MOVE
   code: RYF-TKT-ZCD-PSM
   name: Vitt vin # Nytt namn ovan
-  newParentCode: RYF-TKT-ZCD-XXXX # Från -1
+  newParentCode: RYF-TKT-ZCD-UHV # Från -1
   newParentName: Vin
 
 - action: ADD
-  parentCode: RYF-HPT-YGE-EWJ-XXXX # Från -1
+  parentCode: RYF-HPT-YGE-EWJ-SFH # Från -1
   parentName: Mobilt bredband
   name: 5G
   level: 5
 
 - action: ADD
-  parentCode: RYF-IXA-AOE-YFQ-XXXX # Från -1
+  parentCode: RYF-IXA-AOE-YFQ-PBX # Från -1
   parentName: Pensionssparande
   name: Individuellt pensionssparande, IPS
   level: 5
 
 - action: ADD
-  parentCode: RYF-EOI-GLR-KDA-XXXX # Från -1
+  parentCode: RYF-EOI-GLR-KDA-APM # Från -1
   parentName: Familjejuridik
   name: Testamente
   level: 5
