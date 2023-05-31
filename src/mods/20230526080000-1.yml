@@ -1,0 +1,679 @@
+modifications:
+
+- action: ADD
+  parentCode: RYF-ZEI-QVY
+  parentName: Lön och förmån
+  name: Bonus
+  level: 3
+
+- action: ADD
+  parentCode: RYF-BIZ-WZJ-RPI-UBX
+  parentName: Bedrägeri
+  name: Bluffaktura
+  level: 5
+
+- action: INACTIVATE
+  code: RYF-BIZ-WZJ-GSD-RHB
+  name: Datorbedrägeri
+
+- action: ADD
+  parentCode: RYF-IXA-CVI-MAB
+  parentName: Aktier
+  name: Aktiehandel
+  level: 4
+
+- action: ADD
+  parentCode: RYF-IXA-CVI-MAB
+  parentName: Aktier
+  name: Aktiekapital
+  level: 4
+
+- action: ADD
+  parentCode: RYF-IXA-CVI-MAB
+  parentName: Aktier
+  name: Aktieköp
+  level: 4
+
+- action: ADD
+  parentCode: RYF-IXA-CVI-MAB
+  parentName: Aktier
+  name: Aktieportfölj
+  level: 4
+
+- action: ADD
+  parentCode: RYF-IXA-CVI-MAB
+  parentName: Aktier
+  name: Aktieägare
+  level: 4
+
+- action: ADD
+  parentCode: RYF-IXA-CVI-MAB
+  parentName: Aktier
+  name: Börsintroduktion
+  level: 4
+
+- action: ADD
+  parentCode: RYF-IXA-CVI-MAB
+  parentName: Aktier
+  name: Referensaktie
+  level: 4
+
+- action: ADD
+  parentCode: RYF-IXA-CVI-MAB
+  parentName: Aktier
+  name: Algoritmisk handel
+  level: 4
+
+
+- action: ADD
+  parentCode: RYF-IXA-CVI-MAB
+  parentName: Aktier
+  name: Avnotering
+  level: 4
+
+- action: ADD
+  parentCode: RYF-IXA-CVI
+  parentName: Börser och handelsmarknader
+  name: Option
+  level: 3
+
+- action: ADD
+  parentCode: RYF-IXA-CVI
+  parentName: Börser och handelsmarknader
+  name: Avkastning
+  level: 3
+
+- action: ADD
+  parentCode: RYF-IXA-CVI-CCS
+  parentName: Fonder
+  name: Fondavgift
+  level: 4
+
+- action: ADD
+  parentCode: RYF-IXA-CVI-CCS
+  parentName: Fonder
+  name: Fondförsäkring
+  level: 4
+
+- action: ADD
+  parentCode: RYF-IXA-CVI-CCS
+  parentName: Fonder
+  name: Fondhandel
+  level: 4
+
+- action: ADD
+  parentCode: RYF-IXA-CVI-CCS
+  parentName: Fonder
+  name: Fondsparande
+  level: 4
+
+- action: ADD
+  parentCode: RYF-IXA-CVI-CCS
+  parentName: Fonder
+  name: Fondförvaltare
+  level: 4
+
+- action: UPDATE
+  code: RYF-IXA-CVI-FUJ-HZE
+  name: Oljepris
+  newName: Olja
+
+- action: UPDATE
+  code: RYF-IXA-CVI-FUJ-TPK
+  name: Råvarupris
+  newName: Råvara
+
+- action: ADD
+  parentCode: RYF-IXA-CVI-FUJ
+  parentName: Råvarumarknad
+  name: Aluminium
+  level: 4
+
+- action: ADD
+  parentCode: RYF-IXA-CVI-FUJ
+  parentName: Råvarumarknad
+  name: Brentolja
+  level: 4
+
+- action: ADD
+  parentCode: RYF-IXA-CVI-FUJ
+  parentName: Råvarumarknad
+  name: Guld
+  level: 4
+
+- action: ADD
+  parentCode: RYF-IXA-CVI-FUJ
+  parentName: Råvarumarknad
+  name: Koppar
+  level: 4
+
+- action: ADD
+  parentCode: RYF-IXA-CVI-FUJ
+  parentName: Råvarumarknad
+  name: Nickel
+  level: 4
+
+- action: ADD
+  parentCode: RYF-IXA-CVI-FUJ
+  parentName: Råvarumarknad
+  name: Platina
+  level: 4
+
+- action: ADD
+  parentCode: RYF-IXA-CVI-FUJ
+  parentName: Råvarumarknad
+  name: Tenn
+  level: 4
+
+- action: ADD
+  parentCode: RYF-IXA-CVI-FUJ
+  parentName: Råvarumarknad
+  name: Zink
+  level: 4
+
+- action: ADD
+  parentCode: RYF-IXA-CVI-FUJ
+  parentName: Råvarumarknad
+  name: WTI-olja
+  level: 4
+
+- action: ADD
+  parentCode: RYF-IXA-CVI-FUJ
+  parentName: Råvarumarknad
+  name: Diamant
+  level: 4
+
+- action: ADD
+  parentCode: RYF-IXA-CVI-FUJ
+  parentName: Råvarumarknad
+  name: Jordbruksråvara
+  level: 4
+
+- action: ADD
+  parentCode: RYF-IXA-CVI
+  parentName: Börser och handelsmarknader
+  name: Vinstvarning
+  level: 3
+
+- action: UPDATE
+  code: RYF-IXA-KEV-UBU-ZZD
+  name: Drivmedelindustri
+  newName: Drivmedelsindustri
+
+- action: MOVE
+  code: RYF-IXA-KEV-UBU-ZZD
+  name: Drivmedelsindustri # nytt namn från ovan
+  newParentCode: RYF-IXA-KEV
+  newParentName: Näringsliv
+
+- action: ADD
+  parentCode: RYF-IXA-KEV
+  parentName: Näringsliv
+  name: Finansbranschen
+  level: 3
+
+- action: UPDATE
+  code: RYF-IXA-KEV-WBI-FGW
+  name: Resultatprognoser
+  newName: Resultatprognos
+
+- action: ADD
+  parentCode: RYF-IXA-KEV
+  parentName: Näringsliv
+  name: Företagslikvidation
+  level: 3
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-RQL-AUU
+  parentName: Betalning
+  name: Betalkort
+  level: 5
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-RQL-AUU
+  parentName: Betalning
+  name: Kontanter
+  level: 5
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-RQL-AUU
+  parentName: Betalning
+  name: Kreditkort
+  level: 5
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-BUB
+  parentName: Investering
+  name: Crowdfunding, gräsrotsinvestering
+  level: 4
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-CUQ
+  parentName: Lobbyverksamhet
+  name: Public affairs
+  level: 4
+
+- action: UPDATE
+  code: RYF-IXA-KEV-MCZ-HBL
+  name: Förslagsbranschen
+  newName: Förlagsbranschen
+
+- action: INACTIVATE
+  code: RYF-IXA-KEV-MCZ-UFQ
+  name: Internetmedier
+
+- action: ADD
+  parentCode: RYF-IXA-KEV
+  parentName: Näringsliv
+  name: Miljöteknik, cleantech
+  level: 3
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-CBT
+  parentName: Strategi
+  name: Affärsplan
+  level: 4
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-CBT
+  parentName: Strategi
+  name: Marknadsföringsstrategi
+  level: 4
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-BEL
+  parentName: Techbranschen
+  name: Software as a service, SAAS
+  level: 4
+
+- action: ADD
+  parentCode: RYF-IXA-AOE-YFQ
+  parentName: Pension
+  name: Pensionsförsäkring
+  level: 4
+
+- action: ADD
+  parentCode: RYF-IXA-AOE-YFQ
+  parentName: Pension
+  name: Pensionssparande
+  level: 4
+
+- action: UPDATE
+  code: RYF-IXA-AOE-CYP
+  name: Privatlån
+  newName: Lån
+
+- action: ADD
+  parentCode: RYF-IXA-AOE-CYP
+  parentName: Lån # Nytt namn från ovan
+  name: Banklån
+  level: 4
+
+- action: UPDATE
+  code: RYF-IXA-AOE-CYP-TSE-SDL
+  name: Amortering och amorteringskrav
+  newName: Amortering
+
+- action: ADD
+  parentCode: RYF-IXA-AOE-CYP-TSE
+  parentName: Bolån
+  name: Amorteringskrav
+  level: 5
+
+- action: ADD
+  parentCode: RYF-IXA-AOE-CYP-TSE
+  parentName: Bolån
+  name: Belåningsgrad
+  level: 5
+
+- action: ADD
+  parentCode: RYF-IXA-AOE-OPN
+  parentName: Sparande
+  name: Barnsparande
+  level: 4
+
+- action: ADD
+  parentCode: RYF-IXA-AOE
+  parentName: Privatekonomi
+  name: Studiemedel
+  level: 3
+
+- action: UPDATE
+  code: RYF-IXA-QED-NIJ
+  name: Bruttonationalprodukt
+  newName: Bruttonationalprodukt, BNP
+
+- action: UPDATE
+  code: RYF-IXA-QED-FFV
+  name: Elpriser
+  newName: Elpris
+
+- action: ADD
+  parentCode: RYF-IXA-QED-JUO
+  parentName: Ränta
+  name: Sparränta
+  level: 4
+
+- action: ADD
+  parentCode: RYF-IXA-QED-CPU
+  parentName: Skatt
+  name: F-skatt
+  level: 4
+
+- action: INACTIVATE
+  code: RYF-IXA-QED-CPU-MUI
+  name: Kommunalskatt
+
+- action: INACTIVATE
+  code: RYF-IXA-QED-CPU-BHH
+  name: Statlig inkomstskatt
+
+- action: UPDATE
+  code: RYF-IXA-QED-LXS
+  name: Valutor
+  newName: Valuta
+
+- action: UPDATE
+  code: RYF-IXA-QED-LXS-MFB
+  name: Kryptovalutor
+  newName: Kryptovaluta
+
+- action: ADD
+  parentCode: RYF-IXA-QED-LXS-MFB
+  parentName: Kryptovaluta # nytt namn från ovan
+  name: Blockkedja, block chain
+  level: 5
+
+- action: ADD
+  parentCode: RYF-WUU-QNB-LKJ-BIB
+  parentName: Receptbelagt läkemedel
+  name: Medicinsk cannabis
+  level: 5
+
+- action: ADD
+  parentCode: RYF-VHD-GUZ-SYG-UKI
+  parentName: Växthusgas
+  name: Koldioxidavskiljning-Carbon Capture and Storage, CCS
+  level: 5
+
+- action: ADD
+  parentCode: RYF-TKT-ZCD
+  parentName: Dryck
+  name: Vin
+  level: 3
+
+- action: ADD
+  parentCode: RYF-TKT-ZCD-ZLW
+  parentName: Öl
+  name: Alkoholfri öl
+  level: 4
+
+- action: INACTIVATE
+  code: RYF-KNI-KWL
+  name: Socialförsäkringspolitik
+
+- action: ADD
+  parentCode: RYF-HPT-YGE
+  parentName: Infrastruktur
+  name: Elektrifiering
+  level: 3
+
+- action: ADD
+  parentCode: RYF-HPT-YGE-EWJ
+  parentName: Internet
+  name: Mobilt bredband
+  level: 4
+
+- action: ADD
+  parentCode: RYF-HPT-TVG-SKG-ORW
+  parentName: Narkotika
+  name: Cannabis
+  level: 5
+
+- action: ADD
+  parentCode: RYF-HPT-XRQ
+  parentName: Välfärd
+  name: Socialförsäkring
+  level: 3
+
+- action: UPDATE
+  code: RYF-QPR-HGB-DEN-FXI-ZJV
+  name: Dalarna norra
+  newName: Dalarna
+
+- action: ADD
+  parentCode: RYF-QPR-HGB-DEN-FXI
+  parentName: Division 3 dam
+  name: Norra Skåne
+  level: 5
+
+- action: ADD
+  parentCode: RYF-XRZ
+  parentName: Trafik och fordon
+  name: Bildelning, bilpool
+  level: 2
+
+- action: UPDATE
+  code: RYF-XRZ-YFD
+  name: Fordonsuthyrning
+  newName: Biluthyrning
+
+- action: ADD
+  parentCode: RYF-XRZ-ITR
+  parentName: Personbil
+  name: Privatleasing
+  level: 3
+
+- action: ADD
+  parentCode: RYF-XRZ-TEE
+  parentName: Sjöfart
+  name: Fritidsbåt
+  level: 3
+
+- action: ADD
+  parentCode: RYF-ZEI-QVY
+  parentName: Lön och förmån
+  name: Löneväxling
+  level: 3
+
+- action: ADD
+  parentCode: RYF-ZEI-CZS-FIE
+  parentName: Sjukskrivning
+  name: Sjukförsäkring
+  level: 4
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-ZOC
+  parentName: Bankbranschen
+  name: Insättningsgaranti
+  level: 4
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-UBU
+  parentName: Energi och elproduktion
+  name: Elavtal
+  level: 4
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-TOY-XRP
+  parentName: Fastighetsaffär
+  name: Bostadsförsäljning
+  level: 5
+  
+- action: ADD
+  parentCode: RYF-IXA-KEV-TOY-XRP
+  parentName: Fastighetsaffär
+  name: Bostadsköp
+  level: 5
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-TOY
+  parentName: Fastighet
+  name: Taxeringsvärde
+  level: 4
+
+- action: UPDATE
+  code: RYF-IXA-KEV-WBI-ZQH
+  name: Årsredovisning
+  newName: Redovisning
+
+- action: UPDATE
+  code: RYF-IXA-KEV-VBL
+  name: Gruvnäring
+  newName: Gruvindustri
+
+- action: ADD
+  parentCode: RYF-IXA-KEV
+  parentName: Näringsliv
+  name: Investmentbolag
+  level: 3
+
+- action: UPDATE
+  code: RYF-IXA-KEV-PUM
+  name: Redovisning och revision
+  newName: Revision
+
+- action: ADD
+  parentCode: RYF-IXA-AOE-ESB
+  parentName: Bostadspriser
+  name: Boprisindikator
+  level: 4
+
+- action: UPDATE
+  code: RYF-IXA-AOE-ESB-TTI
+  name: Villapriser
+  newName: Småhuspriser
+
+- action: ADD
+  parentCode: RYF-IXA-AOE
+  parentName: Privatekonomi
+  name: Familjeekonomi
+  level: 3
+
+- action: ADD
+  parentCode: RYF-IXA-AOE-YFQ
+  parentName: Pension
+  name: Efterlevandeskydd
+  level: 4
+
+- action: ADD
+  parentCode: RYF-IXA-AOE-YFQ
+  parentName: Pension
+  name: Flytträtt
+  level: 4
+
+- action: ADD
+  parentCode: RYF-IXA-AOE-YFQ
+  parentName: Pension
+  name: Pensionsavgift
+  level: 4
+
+- action: ADD
+  parentCode: RYF-IXA-AOE-KPB-IYR
+  parentName: Personförsäkring
+  name: Grupplivförsäkring
+  level: 5
+
+- action: ADD
+  parentCode: RYF-IXA-VMF
+  parentName: Skuldsättning
+  name: Inkasso
+  level: 3
+
+- action: ADD
+  parentCode: RYF-IXA-AOE-OPN
+  parentName: Sparande
+  name: Kapitalförsäkring
+  level: 4
+
+- action: ADD
+  parentCode: RYF-IXA-QED-EKT
+  parentName: Konjunktur
+  name: Högkonjunktur
+  level: 4
+
+- action: ADD
+  parentCode: RYF-IXA-QED-EKT
+  parentName: Konjunktur
+  name: Lågkonjunktur
+  level: 4
+
+- action: ADD
+  parentCode: RYF-IXA-QED
+  parentName: Samhällsekonomi
+  name: Prisbasbelopp
+  level: 3
+
+- action: ADD
+  parentCode: RYF-IXA-QED-JUO
+  parentName: Ränta
+  name: Bunden ränta
+  level: 4
+
+- action: ADD
+  parentCode: RYF-IXA-QED-JUO
+  parentName: Ränta
+  name: Rörlig ränta
+  level: 4
+
+- action: ADD
+  parentCode: RYF-IXA-QED-CPU-KAX
+  parentName: Fastighetsskatt
+  name: Fastighetstaxering
+  level: 5
+
+- action: ADD
+  parentCode: RYF-IXA-QED-CPU
+  parentName: Skatt
+  name: Förmånsvärde
+  level: 4
+
+- action: ADD
+  parentCode: RYF-IXA-QED-CPU
+  parentName: Skatt
+  name: Pensionärsskatt
+  level: 4
+
+- action: ADD
+  parentCode: RYF-IXA-QED-CPU-PMY
+  parentName: Skatteavdrag
+  name: Jobbskatteavdrag
+  level: 5
+
+- action: ADD
+  parentCode: RYF-IXA-QED-OID
+  parentName: Tillväxt
+  name: Tillväxtmarknad
+  level: 4
+
+- action: ADD
+  parentCode: RYF-TKT-KBC
+  parentName: Bostad
+  name: Ombildning
+  level: 3
+
+- action: INACTIVATE
+  code: RYF-TKT-ZCD-QRU
+  name: Sommarvin
+
+- action: UPDATE
+  code: RYF-TKT-OUV-MLG
+  name: Weekend-resa
+  newName: Weekendresa
+
+- action: UPDATE
+  code: RYF-XRZ-ITR-SEW
+  name: Husbil och husvagn
+  newName: Husbil
+
+- action: ADD
+  parentCode: RYF-XRZ
+  parentName: Trafik och fordon
+  name: Husvagn
+  level: 2
+
+- action: ADD
+  parentCode: RYF-EOI-GLR-KDA
+  parentName: Juridik
+  name: Familjejuridik
+  level: 4

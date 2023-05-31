@@ -1,0 +1,15 @@
+modifications:
+- action: UPDATE
+  code: RYF-HPT-NLP-IZI
+  name: Naturgas
+  newName: Naturgas, fossilgas
+
+- action: INACTIVATE
+  code: RYF-IXA-QED-URW
+  name: Drivmedelspriser
+
+- action: MOVE
+  code: RYF-IXA-KEV-ANU
+  name: Börsnotering
+  newParentCode: RYF-IXA-CVI-MAB
+  newParentName: Aktier
