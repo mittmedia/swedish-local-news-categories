@@ -55,12 +55,6 @@ modifications:
 - action: ADD
   parentCode: RYF-IXA-CVI-MAB
   parentName: Aktier
-  name: Börsnotering
-  level: 4
-
-- action: ADD
-  parentCode: RYF-IXA-CVI-MAB
-  parentName: Aktier
   name: Referensaktie
   level: 4
 
@@ -227,12 +221,6 @@ modifications:
   parentCode: RYF-IXA-KEV
   parentName: Näringsliv
   name: Företagslikvidation
-  level: 3
-
-- action: ADD
-  parentCode: RYF-IXA-KEV
-  parentName: Näringsliv
-  name: Företagsrekonstruktion
   level: 3
 
 - action: ADD

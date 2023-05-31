@@ -11,6 +11,7 @@ modifications:
   name: Direktavkastning
   level: 4
 
+- action: ADD
   parentCode: RYF-IXA-CVI-MAB-XXXXX # ID från -1
   parentName: Aktiehandel
   name: Handelsstopp
