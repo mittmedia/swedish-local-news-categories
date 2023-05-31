@@ -78,12 +78,6 @@ modifications:
   level: 4
 
 - action: ADD
-  parentCode: RYF-IXA-CVI-MAB
-  parentName: Aktier
-  name: Börshandlad fond
-  level: 4
-
-- action: ADD
   parentCode: RYF-IXA-CVI
   parentName: Börser och handelsmarknader
   name: Option
