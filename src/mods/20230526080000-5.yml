@@ -1,0 +1,17 @@
+modifications:
+- action: ADD
+  parentCode: RYF-IXA-CVI-FUJ
+  parentName: Råvarumarknad
+  name: Silver
+  level: 4
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-TOY
+  parentName: Fastighet
+  name: Fastighetskonvertering
+  level: 4
+
+- action: UPDATE
+  code: RYF-IXA-CVI-MAB-JID
+  name: Referensaktie
+  newName: Preferensaktie

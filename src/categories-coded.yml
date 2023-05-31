@@ -4543,6 +4543,10 @@ categories:
   level: 3
   name: Råvarumarknad
   status: ACTIVE
+- code: RYF-IXA-CVI-FUJ-CKI
+  level: 4
+  name: Silver
+  status: ACTIVE
 - code: RYF-IXA-CVI-FUJ-DKN
   description: ''
   level: 4
@@ -4646,7 +4650,7 @@ categories:
 - code: RYF-IXA-CVI-MAB-JID
   description: ''
   level: 4
-  name: Referensaktie
+  name: Preferensaktie
   status: ACTIVE
 - code: RYF-IXA-CVI-MAB-KJN
   description: ''
@@ -6371,6 +6375,10 @@ categories:
   description: ''
   level: 4
   name: Taxeringsvärde
+  status: ACTIVE
+- code: RYF-IXA-KEV-TOY-TJV
+  level: 4
+  name: Fastighetskonvertering
   status: ACTIVE
 - code: RYF-IXA-KEV-TOY-VFL
   description: ''
