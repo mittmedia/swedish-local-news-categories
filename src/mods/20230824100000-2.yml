@@ -1,0 +1,92 @@
+modifications:
+- action: ADD
+  parentCode: RYF-ZEI-XXXX # ID från -1
+  parentName: Arbetsskada
+  name: Arbetsskadeförsäkring
+  level: 3
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-XXXX # ID från -1
+  parentName: Elmarknad
+  name: Elhandel
+  level: 4
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-XXXX # ID från -1
+  parentName: Försäkringsmarknad
+  name: Försäkringsförmedlare
+  level: 4
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-XXXX # ID från -1
+  parentName: Försäkringsmarknad
+  name: Cyberförsäkring
+  level: 4
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-XXXX # ID från -1
+  parentName: Försäkringsmarknad
+  name: Produktförsäkring
+  level: 4
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-XXXX # ID från -1
+  parentName: Försäkringsmarknad
+  name: Återförsäkring
+  level: 4
+
+
+- action: MOVE
+  code: RYF-HPT-YGE-YGK
+  name: Elektrifiering
+  newParentCode: RYF-HPT-XXXX # ID från -1
+  newParentName: El
+
+
+- action: MOVE
+  code: RYF-IXA-KEV-UBU-RGW
+  name: Elavtal
+  newParentCode: RYF-HPT-XXXX # ID från -1
+  newParentName: El
+
+- action: ADD
+  parentCode: RYF-HPT-NLP-XXXX # ID från -1
+  parentName: Energilagring
+  name: Batteri
+  level: 4
+
+- action: ADD
+  parentCode: RYF-HPT-NLP-XXXX # ID från -1
+  parentName: Gas
+  name: Biogas
+  level: 4
+
+- action: ADD
+  parentCode: RYF-HPT-NLP-XXXX # ID från -1
+  parentName: Gas
+  name: Vätgas
+  level: 4
+
+- action: MOVE
+  code: RYF-HPT-NLP-IZI
+  name: Naturgas, fossilgas
+  newParentCode: RYF-HPT-NLP-XXXX # ID från -1
+  newParentName: Gas
+
+- action: MOVE
+  code: RYF-IXA-KEV-DUC-ZBP
+  name: Biodrivmedel
+  newParentCode: RYF-HPT-XXXX # ID från -1
+  newParentName: Drivmedel
+
+- action: MOVE
+  code: RYF-IXA-KEV-DUC-DOM
+  name: Drivmedelspris
+  newParentCode: RYF-HPT-XXXX # ID från -1
+  newParentName: Drivmedel
+
+- action: MOVE
+  code: RYF-IXA-KEV-DUC-LCU
+  name: Fossila bränslen
+  newParentCode: RYF-HPT-XXXX # ID från -1
+  newParentName: Drivmedel
