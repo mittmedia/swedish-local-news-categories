@@ -220,3 +220,81 @@ modifications:
   level: 4
 
 
+- action: ADD
+  parentCode: RYF-IXA-KEV-VSA-MEC
+  parentName: Skogsbruk
+  name: Gallring
+  level: 5
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-VSA-MEC
+  parentName: Skogsbruk
+  name: Avverkning
+  level: 5
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-VSA-MEC
+  parentName: Skogsbruk
+  name: Blädning
+  level: 5
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-VSA-MEC
+  parentName: Skogsbruk
+  name: Bonitet
+  level: 5
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-VSA-MEC
+  parentName: Skogsbruk
+  name: Skogsplantering
+  level: 5
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-VSA-MEC
+  parentName: Skogsbruk
+  name: Gallring
+  level: 5
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-VOI
+  parentName: Skogsindustri
+  name: Massaved
+  level: 4
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-VOI
+  parentName: Skogsindustri
+  name: Sågverksindustri
+  level: 4
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-VOI
+  parentName: Skogsindustri
+  name: Massaindustri
+  level: 4
+
+- action: ADD
+  parentCode: RYF-VHD-HXU-NQI
+  parentName: Skog
+  name: Naturskog
+  level: 4
+
+- action: ADD
+  parentCode: RYF-VHD-HXU-NQI
+  parentName: Skog
+  name: Urskog
+  level: 4
+
+- action: ADD
+  parentCode: RYF-VHD-HXU-NQI
+  parentName: Skog
+  name: Fjällnära skog
+  level: 4
+
+- action: ADD
+  parentCode: RYF-VHD-HXU-NQI-CKX
+  parentName: Lövskog
+  name: Ädellövskog
+  level: 5
+  
