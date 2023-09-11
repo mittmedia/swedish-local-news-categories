@@ -251,12 +251,6 @@ modifications:
   level: 5
 
 - action: ADD
-  parentCode: RYF-IXA-KEV-VSA-MEC
-  parentName: Skogsbruk
-  name: Gallring
-  level: 5
-
-- action: ADD
   parentCode: RYF-IXA-KEV-VOI
   parentName: Skogsindustri
   name: Massaved
