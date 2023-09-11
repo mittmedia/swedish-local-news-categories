@@ -1,6 +1,6 @@
 modifications:
 - action: ADD
-  parentCode: RYF-IXA-KEV-XXXX-XXXX # ID från -1 och -2
+  parentCode: RYF-IXA-KEV-NTW-SSC # ID från -1 och -2
   parentName: Elhandel
   name: Elköpsavtal, Power Purchase Agreement, PPA
   level: 5
