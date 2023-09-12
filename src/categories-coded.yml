@@ -2792,6 +2792,12 @@ categories:
   name: Elavtal
   replaces: RYF-IXA-KEV-UBU-RGW
   status: ACTIVE
+- code: RYF-HPT-MOH-WTR
+  description: ''
+  level: 3
+  name: Elöverföring
+  replaces: RYF-IXA-KEV-UBU-WTN
+  status: ACTIVE
 - code: RYF-HPT-NKU
   description: ''
   level: 2
@@ -2868,7 +2874,7 @@ categories:
 - code: RYF-HPT-NLP-PLI
   description: ''
   level: 3
-  name: Biobränsle
+  name: Bioenergi
   status: ACTIVE
 - code: RYF-HPT-NLP-RDR
   description: ''
@@ -6037,6 +6043,7 @@ categories:
   name: Elhandel
   status: ACTIVE
 - code: RYF-IXA-KEV-NTW-SSC-XHZ
+  description: ''
   level: 5
   name: Elköpsavtal, Power Purchase Agreement, PPA
   status: ACTIVE
@@ -6716,7 +6723,7 @@ categories:
   description: ''
   level: 3
   name: Energi och elproduktion
-  status: ACTIVE
+  status: INACTIVE
 - code: RYF-IXA-KEV-UBU-AXD
   description: ''
   level: 4
@@ -6783,7 +6790,8 @@ categories:
   description: ''
   level: 4
   name: Elöverföring
-  status: ACTIVE
+  replacedBy: RYF-HPT-MOH-WTR
+  status: INACTIVE
 - code: RYF-IXA-KEV-UBU-XCR
   description: ''
   level: 4

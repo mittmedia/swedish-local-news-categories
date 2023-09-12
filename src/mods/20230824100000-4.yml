@@ -1,0 +1,15 @@
+modifications:
+- action: MOVE
+  code: RYF-IXA-KEV-UBU-WTN
+  name: Elöverföring
+  newParentCode: RYF-HPT-MOH
+  newParentName: El
+
+- action: UPDATE
+  code: RYF-HPT-NLP-PLI
+  name: Biobränsle
+  newName: Bioenergi
+
+- action: INACTIVATE
+  code: RYF-IXA-KEV-UBU
+  name: Energi och elproduktion
