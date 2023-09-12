@@ -1,0 +1,294 @@
+modifications:
+- action: ADD
+  parentCode: RYF-ZEI
+  parentName: Arbete
+  name: Arbetsskada
+  level: 2
+
+- action: ADD
+  parentCode: RYF-BIZ-WZJ-RPI-UBX
+  parentName: Bedrägeri
+  name: Försäkringsbedrägeri
+  level: 5
+
+- action: ADD
+  parentCode: RYF-BIZ-WZJ-RPI-UBX
+  parentName: Bedrägeri
+  name: Investeringsbedrägeri
+  level: 5
+
+- action: ADD
+  parentCode: RYF-BIZ-WZJ-RPI
+  parentName: Bedrägeri och ekobrott
+  name: Marknadsmanipulation
+  level: 4
+
+- action: ADD
+  parentCode: RYF-BIZ-WZJ-GSD
+  parentName: IT-brott
+  name: Ransomware
+  level: 4
+
+- action: ADD
+  parentCode: RYF-IXA-CVI-MAB-ETQ
+  parentName: Aktiehandel
+  name: Aktieförsäljning
+  level: 5
+
+- action: MOVE
+  code: RYF-IXA-CVI-MAB-DSQ
+  name: Aktieköp
+  newParentCode: RYF-IXA-CVI-MAB-ETQ
+  newParentName: Aktiehandel
+
+- action: UPDATE
+  code: RYF-IXA-CVI-MAB-NXZ
+  name: Aktietips
+  newName: Aktierekommendation
+
+- action: ADD
+  parentCode: RYF-IXA-CVI-FUJ
+  parentName: Råvarumarknad
+  name: Basmetall
+  level: 4
+
+- action: ADD
+  parentCode: RYF-IXA-CVI-FUJ
+  parentName: Råvarumarknad
+  name: Järn
+  level: 4
+
+- action: ADD
+  parentCode: RYF-IXA-CVI-FUJ
+  parentName: Råvarumarknad
+  name: Ädelmetall
+  level: 4
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-IRW-ZZC
+  parentName: Värme, ventilation och sanitet, VVS
+  name: Värmepump
+  level: 5
+
+- action: ADD
+  parentCode: RYF-IXA-KEV
+  parentName: Näringsliv
+  name: Elmarknad
+  level: 3
+
+- action: MOVE
+  code: RYF-IXA-KEV-UBU-URP
+  name: Energiindustri
+  newParentCode: RYF-IXA-KEV
+  newParentName: Näringsliv
+
+- action: ADD
+  parentCode: RYF-IXA-KEV
+  parentName: Näringsliv
+  name: Försäkringsmarknad
+  level: 3
+
+- action: ADD
+  parentCode: RYF-IXA-AOE-YFQ
+  parentName: Pension
+  name: Pensionsålder
+  level: 4
+
+- action: ADD
+  parentCode: RYF-IXA-AOE-YFQ-DJL
+  parentName: Tjänstepension
+  name: Industrin och handelns tilläggspension, ITP
+  level: 4
+
+- action: ADD
+  parentCode: RYF-IXA-AOE-KPB-IYR
+  parentName: Personförsäkring
+  name: Sjukvårdsförsäkring
+  level: 5
+
+- action: ADD
+  parentCode: RYF-IXA-AOE-KPB-IYR
+  parentName: Personförsäkring
+  name: Reseförsäkring
+  level: 5
+
+- action: UPDATE
+  code: RYF-IXA-AOE-KPB-IYR-CEY
+  name: Livsförsäkring
+  newName: Livförsäkring
+
+- action: ADD
+  parentCode: RYF-IXA-AOE-KPB-TBH
+  parentName: Sakförsäkring
+  name: Hemförsäkring
+  level: 5
+
+- action: ADD
+  parentCode: RYF-IXA-AOE-KPB-TBH
+  parentName: Sakförsäkring
+  name: Trafikförsäkring
+  level: 5
+
+- action: MOVE
+  code: RYF-IXA-AOE-XUM
+  name: Skatteåterbäring
+  newParentCode: RYF-IXA-QED-CPU
+  newParentName: Skatt
+
+- action: ADD
+  parentCode: RYF-IXA-QED-ETB
+  parentName: Ekonomisk hållbarhet
+  name: Hållbara investeringar
+  level: 4
+
+- action: ADD
+  parentCode: RYF-IXA-QED-JUO
+  parentName: Ränta
+  name: Återbäringsränta
+  level: 4
+
+- action: ADD
+  parentCode: RYF-IXA-QED-CPU
+  parentName: Skatt
+  name: Energiskatt
+  level: 4
+
+- action: ADD
+  parentCode: RYF-IXA-QED-CPU
+  parentName: Skatt
+  name: Kvarskatt
+  level: 4
+
+- action: ADD
+  parentCode: RYF-WUU-SUX
+  parentName: Vård
+  name: E-hälsa
+  level: 3
+
+- action: ADD
+  parentCode: RYF-AKM
+  parentName: Olyckor och katastrofer
+  name: Naturskador
+  level: 2
+
+- action: ADD
+  parentCode: RYF-HPT
+  parentName: Samhälle
+  name: El
+  level: 2
+
+- action: ADD
+  parentCode: RYF-HPT-NLP
+  parentName: Energi
+  name: Energilagring
+  level: 3
+
+- action: ADD
+  parentCode: RYF-HPT-NLP
+  parentName: Energi
+  name: Fusionsenergi
+  level: 3
+
+- action: ADD
+  parentCode: RYF-HPT-NLP
+  parentName: Energi
+  name: Gas
+  level: 3
+
+- action: ADD
+  parentCode: RYF-HPT-NLP-XCF
+  parentName: Kärnkraft
+  name: Småskalig modulär reaktor, SMR
+  level: 4
+
+- action: ADD
+  parentCode: RYF-HPT-NLP-WOD
+  parentName: Vindkraft
+  name: Havsbaserad vindkraft
+  level: 4
+
+- action: ADD
+  parentCode: RYF-HPT
+  parentName: Samhälle
+  name: Drivmedel
+  level: 2
+
+- action: ADD
+  parentCode: RYF-HPT-YGE-WRY
+  parentName: Elnät
+  name: Effektbrist
+  level: 4
+
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-VSA-MEC
+  parentName: Skogsbruk
+  name: Gallring
+  level: 5
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-VSA-MEC
+  parentName: Skogsbruk
+  name: Avverkning
+  level: 5
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-VSA-MEC
+  parentName: Skogsbruk
+  name: Blädning
+  level: 5
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-VSA-MEC
+  parentName: Skogsbruk
+  name: Bonitet
+  level: 5
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-VSA-MEC
+  parentName: Skogsbruk
+  name: Skogsplantering
+  level: 5
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-VOI
+  parentName: Skogsindustri
+  name: Massaved
+  level: 4
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-VOI
+  parentName: Skogsindustri
+  name: Sågverksindustri
+  level: 4
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-VOI
+  parentName: Skogsindustri
+  name: Massaindustri
+  level: 4
+
+- action: ADD
+  parentCode: RYF-VHD-HXU-NQI
+  parentName: Skog
+  name: Naturskog
+  level: 4
+
+- action: ADD
+  parentCode: RYF-VHD-HXU-NQI
+  parentName: Skog
+  name: Urskog
+  level: 4
+
+- action: ADD
+  parentCode: RYF-VHD-HXU-NQI
+  parentName: Skog
+  name: Fjällnära skog
+  level: 4
+
+- action: ADD
+  parentCode: RYF-VHD-HXU-NQI-CKX
+  parentName: Lövskog
+  name: Ädellövskog
+  level: 5
+  
