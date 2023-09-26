@@ -1,55 +1,55 @@
 modifications:
-  - action: UPDATE
+- action: UPDATE
   code: RYF-IXA-KEV-CYO
   name: Logistik och transport
   newName: Logistik
 
-  - action: UPDATE
+- action: UPDATE
   code: RYF-QPR-HGB-IUP
   name: Klättring
   newName: Klättersport
 
-  - action: INACTIVATE
+- action: INACTIVATE
   code: RYF-TKT-OUV-EJR
   name: Reseskildring
 
-  - action: ADD
+- action: ADD
   parentCode: RYF-IXA-KEV-HII
   parentName: Försäkringsmarknad
   name: Marinförsäkring
   level: 4
 
-  - action: ADD
+- action: ADD
   parentCode: RYF-IXA-KEV-HBV
   parentName: Järn- och stålindustri
   name: Fossilfritt stål
   level: 4
 
-  - action: ADD
+- action: ADD
   parentCode: RYF-IXA-KEV-VSA-MEC
   parentName: Skogsbruk
   name: Produktionsskog
   level: 5
 
-  - action: ADD
+- action: ADD
   parentCode: RYF-IXA-KEV
   parentName: Näringsliv
   name: Outsourcing
   level: 3
 
-  - action: ADD
+- action: ADD
   parentCode: RYF-HPT-NLP
   parentName: Energi
   name: Kraftvärme
   level: 3
 
-   - action: ADD
+- action: ADD
   parentCode: RYF-HPT-NLP
   parentName: Energi
   name: Bränslepelletter
   level: 3
 
-  - action: ADD
+- action: ADD
   parentCode: RYF-XRZ-ABT
   parentName: Lastbil
   name: Ellastbil
