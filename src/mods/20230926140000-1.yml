@@ -1,0 +1,7 @@
+modifications:
+  - action: MOVE
+  code: RYF-IXA-CVI-MAB-DSQ
+  name: Aktieköp
+  newParentCode: RYF-IXA-CVI-MAB-ETQ
+  newParentName: Aktiehandel
+  
