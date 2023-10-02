@@ -46,7 +46,7 @@ modifications:
 - action: ADD
   parentCode: RYF-HPT-NLP
   parentName: Energi
-  name: Bränslepelletter
+  name: Bränslepellettar
   level: 3
 
 - action: ADD
