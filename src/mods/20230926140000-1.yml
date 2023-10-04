@@ -50,6 +50,12 @@ modifications:
   level: 3
 
 - action: ADD
+  parentCode: RYF-HPT-NLP
+  parentName: Energi
+  name: Energisäkerhet
+  level: 3
+
+- action: ADD
   parentCode: RYF-XRZ-ABT
   parentName: Lastbil
   name: Ellastbil
@@ -72,6 +78,12 @@ modifications:
   parentName: Sakförsäkring
   name: Mopedförsäkring
   level: 5
+
+- action: ADD
+  parentCode: RYF-IXA-AOE-YFQ
+  parentName: Pension
+  name: Pensionsuttag
+  level: 4
 
   
 
