@@ -55,5 +55,25 @@ modifications:
   name: Ellastbil
   level: 3
 
+- action: ADD
+  parentCode: RYF-IXA-AOE-KPB-TBH
+  parentName: Sakförsäkring
+  name: Bilförsäkring
+  level: 5
+
+- action: ADD
+  parentCode: RYF-IXA-AOE-KPB-TBH
+  parentName: Sakförsäkring
+  name: Mc-försäkring
+  level: 5
+
+- action: ADD
+  parentCode: RYF-IXA-AOE-KPB-TBH
+  parentName: Sakförsäkring
+  name: Mopedförsäkring
+  level: 5
+
+  
+
   
   
