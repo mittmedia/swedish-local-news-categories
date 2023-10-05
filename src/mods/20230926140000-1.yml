@@ -9,6 +9,11 @@ modifications:
   name: Klättring
   newName: Klättersport
 
+- action: UPDATE
+  code: RYF-QPR-HGB-DNB-LOH
+  name: Indy racing
+  newName: Indycar
+
 - action: INACTIVATE
   code: RYF-TKT-OUV-EJR
   name: Reseskildring
@@ -85,7 +90,17 @@ modifications:
   name: Pensionsuttag
   level: 4
 
-  
+- action: ADD
+  parentCode: RYF-QPR-HGB
+  parentName: Sporter
+  name: Militär femkamp
+  level: 3
+
+- action: ADD
+  parentCode: RYF-QPR-HGB
+  parentName: Sporter
+  name: Boule
+  level: 3 
 
   
   
