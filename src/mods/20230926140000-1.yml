@@ -1,5 +1,10 @@
 modifications:
 - action: UPDATE
+  code: RYF-IXA-KEV-YII-DCK
+  name: Bed och breakfast
+  newName: Bed and breakfast
+  
+- action: UPDATE
   code: RYF-IXA-KEV-CYO
   name: Logistik och transport
   newName: Logistik
