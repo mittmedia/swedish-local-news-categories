@@ -3,21 +3,25 @@ modifications:
   code: RYF-IXA-KEV-YII-DCK
   name: Bed och breakfast
   newName: Bed and breakfast
+  description: Övernattning med frukost, ofta i anslutning till en privatbostad 
   
 - action: UPDATE
   code: RYF-IXA-KEV-CYO
   name: Logistik och transport
   newName: Logistik
+  description: Kontroll av materialflöden och förflyttning och övervakning av fysiskt gods från punkt A till punkt B
 
 - action: UPDATE
   code: RYF-QPR-HGB-IUP
   name: Klättring
   newName: Klättersport
+  description: Sportklättring utövas på klippor med förplacerade säkringar
 
 - action: UPDATE
   code: RYF-QPR-HGB-DNB-LOH
   name: Indy racing
   newName: Indycar
+  description: Racingsserie som körs fr allt i USA, sanktionerad av Indy Racing League
 
 - action: INACTIVATE
   code: RYF-TKT-OUV-EJR
@@ -28,84 +32,96 @@ modifications:
   parentName: Försäkringsmarknad
   name: Marinförsäkring
   level: 4
+  description: Försäkring för rederibranschen och godstransporter till sjöss
 
 - action: ADD
   parentCode: RYF-IXA-KEV-HBV
   parentName: Järn- och stålindustri
   name: Fossilfritt stål
   level: 4
+  description: Stål tillverkat utan att skapa koldioxidutsläpp och genom att använda fossilfria energikällor
 
 - action: ADD
   parentCode: RYF-IXA-KEV-VSA-MEC
   parentName: Skogsbruk
   name: Produktionsskog
   level: 5
+  description: Skog som är avsedd för kommersiell produktion av trävaror genom avverkning
 
 - action: ADD
   parentCode: RYF-IXA-KEV
   parentName: Näringsliv
   name: Outsourcing
   level: 3
+  description: Att ett företag låter en annan part (till exempel ett företag eller en organisation) sköta en eller flera processer
 
 - action: ADD
   parentCode: RYF-HPT-NLP
   parentName: Energi
   name: Kraftvärme
   level: 3
+  description: Den energiteknik som gör det möjligt att samtidigt producera elektricitet och fjärrvärme med hög verkningsgrad
 
 - action: ADD
   parentCode: RYF-HPT-NLP
   parentName: Energi
   name: Bränslepellettar
   level: 3
+  description: Bränslepelletar är ett biobränsle i pelleterad form som tillverkas ur olika biprodukter från skogs- och träförädlingsindustrin
 
 - action: ADD
   parentCode: RYF-HPT-NLP
   parentName: Energi
   name: Energisäkerhet
   level: 3
+  description: Oavbruten tillgång till energiresurser till ett överkomligt pris
 
 - action: ADD
   parentCode: RYF-XRZ-ABT
   parentName: Lastbil
   name: Ellastbil
   level: 3
+  description: Lastbil framdriven med el från ett batteri eller induktionsladdning via vägbanan
 
 - action: ADD
   parentCode: RYF-IXA-AOE-KPB-TBH
   parentName: Sakförsäkring
   name: Bilförsäkring
   level: 5
+  description: Sak- och personförsäkring för personbil
 
 - action: ADD
   parentCode: RYF-IXA-AOE-KPB-TBH
   parentName: Sakförsäkring
   name: Mc-försäkring
   level: 5
+  description: Sak- och personförsäkring för motorcykel
 
 - action: ADD
   parentCode: RYF-IXA-AOE-KPB-TBH
   parentName: Sakförsäkring
   name: Mopedförsäkring
   level: 5
+  description: Sak- och personförsäkring för moped
 
 - action: ADD
   parentCode: RYF-IXA-AOE-YFQ
   parentName: Pension
   name: Pensionsuttag
   level: 4
+  description: Utbetalning av pension från det allmänna pensionssystemet eller privat pensionssparande
 
 - action: ADD
   parentCode: RYF-QPR-HGB
   parentName: Sporter
   name: Militär femkamp
   level: 3
+  description: Sport med militär bakgrund som består av grenarna skytte, hinderbana, hindersimning, kastning och terränglöpning
 
 - action: ADD
   parentCode: RYF-QPR-HGB
   parentName: Sporter
   name: Boule
   level: 3
-
-  
+  description: Boule eller pétanque som är en variant av flera olika boulespel är ett spel och en sport, som spelas genom att kulor av stål kastas mot en liten träkula, kallad "lille"
   
