@@ -117,11 +117,3 @@ modifications:
   name: Militär femkamp
   level: 3
   description: Sport med militär bakgrund som består av grenarna skytte, hinderbana, hindersimning, kastning och terränglöpning
-
-- action: ADD
-  parentCode: RYF-QPR-HGB
-  parentName: Sporter
-  name: Boule
-  level: 3
-  description: Boule eller pétanque som är en variant av flera olika boulespel är ett spel och en sport, som spelas genom att kulor av stål kastas mot en liten träkula, kallad "lille"
-  
