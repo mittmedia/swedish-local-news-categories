@@ -85,13 +85,6 @@ modifications:
   name: Hållbarhetsteknik, cleantech
   level: 4
   description: Processer, produkter eller tjänster som minskar negativ miljöpåverkan genom energieffektiviseringar, hållbar resursanvändning eller miljöskyddsaktiviteter
-
-- action: ADD
-  parentCode: RYF-XXX
-  parentName: Techbranschen
-  name: Teknik inom kvinnohälsa, femtech
-  level: 4
-  description: Femtech är en term som används för en kategori av programvara, diagnostik, produkter och tjänster som ofta använder teknik för att fokusera på kvinnors hälsa
   
 - action: ADD
   parentCode: RYF-XXX
