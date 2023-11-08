@@ -8,8 +8,8 @@ modifications:
 - action: UPDATE
   code: RYF-IXA-KEV-CYO
   name: Logistik och transport
-  newName: Logistik
-  description: Kontroll av materialflöden och förflyttning och övervakning av fysiskt gods från punkt A till punkt B
+  newName: Logistik och transport
+  description: Kontroll av materialflöden, förflyttning och övervakning av fysiskt gods från punkt A till punkt B
 
 - action: UPDATE
   code: RYF-QPR-HGB-IUP
@@ -23,6 +23,30 @@ modifications:
   newName: Indycar
   description: Racingsserie som körs fr allt i USA, sanktionerad av Indy Racing League
 
+- action: UPDATE
+  code: RYF-XXX
+  name: Medicinteknik
+  newName: Medicinteknik, fintech
+  description: Medicintekniska produkter är produkter som används inom alla delar av hälso- och sjukvården samt för egenvård
+
+- action: UPDATE
+  code: RYF-XXX
+  name: Leveranser
+  newName: Leveranstjänster, last mile
+  description: Den sista delen av en resa som omfattar förflyttning av passagerare och varor från ett transportnav till en slutdestination
+
+- action: UPDATE
+  code: RYF-XXX
+  name: Bankbranschen
+  newName: Banker
+  description: Ett företag som framför allt ägnar sig åt att skapa nya pengar i form av krediter
+
+- action: UPDATE
+  code: RYF-XXX
+  name: Finansbranschen
+  newName: Finanssektorn
+  description: Världens finansiella infrastruktur för den interaktion som uppstår när olika aktörer köper och säljer finansiella tillgångar
+  
 - action: INACTIVATE
   code: RYF-TKT-OUV-EJR
   name: Reseskildring
@@ -33,6 +57,62 @@ modifications:
   name: Marinförsäkring
   level: 4
   description: Försäkring för rederibranschen och godstransporter till sjöss
+
+- action: ADD
+  parentCode: RYF-XXX
+  parentName: Techbranschen
+  name: Finansteknik, fintech
+  level: 4
+  description: Teknologisk innovation inom finanssektorn
+
+- action: ADD
+  parentCode: RYF-XXX
+  parentName: Techbranschen
+  name: Livsmedelsteknik, foodtech
+  level: 4
+  description: Livsmedelsteknologi är en gren av livsmedelsvetenskap som behandlar produktion, konservering, kvalitetskontroll och forskning och utveckling av livsmedelsprodukter
+
+- action: ADD
+  parentCode: RYF-XXX
+  parentName: Techbranschen
+  name: Teknik för fastighetsbranschen, proptech
+  level: 4
+  description: Proptech använder digitalisering och automatisering för att effektivisera fastighetsbranschen
+
+- action: ADD
+  parentCode: RYF-XXX
+  parentName: Techbranschen
+  name: Hållbarhetsteknik, cleantech
+  level: 4
+  description: Processer, produkter eller tjänster som minskar negativ miljöpåverkan genom energieffektiviseringar, hållbar resursanvändning eller miljöskyddsaktiviteter
+
+- action: ADD
+  parentCode: RYF-XXX
+  parentName: Techbranschen
+  name: Teknik inom kvinnohälsa, femtech
+  level: 4
+  description: Femtech är en term som används för en kategori av programvara, diagnostik, produkter och tjänster som ofta använder teknik för att fokusera på kvinnors hälsa
+  
+- action: ADD
+  parentCode: RYF-XXX
+  parentName: Kommunpolitik
+  name: Kommunstyre
+  level: 3
+  description: Förvaltning och verkställighet i en kommun
+  
+- action: ADD
+  parentCode: RYF-XXX
+  parentName: Regionpolitik
+  name: Regionstyre
+  level: 3
+  description: Förvaltning och verkställighet i en region
+  
+- action: ADD
+  parentCode: RYF-XXX
+  parentName: El
+  name: Elproduktion
+  level: 3
+  description: En process där energi från primära energikällor omvandlas till elektricitet
 
 - action: ADD
   parentCode: RYF-IXA-KEV-HBV
