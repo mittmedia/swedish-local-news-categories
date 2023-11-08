@@ -1,0 +1,18 @@
+Modifications:
+- action: MOVE
+  code: RYF-XXX
+  name: Medicinteknik, medtech
+  newParentCode: RYF-XXX
+  newParentName: Techbranschen
+  
+- action: MOVE
+  code: RYF-XXX
+  name: Leveranstjänster, last mile
+  newParentCode: RYF-XXX
+  newParentName: Logistik och transport
+
+- action: ADD
+  code: RYF-XXX
+  name: 
+
+  
