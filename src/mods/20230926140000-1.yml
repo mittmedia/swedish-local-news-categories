@@ -190,3 +190,10 @@ modifications:
   name: Militär femkamp
   level: 3
   description: Sport med militär bakgrund som består av grenarna skytte, hinderbana, hindersimning, kastning och terränglöpning
+
+- action: ADD
+  parentCode: RYF-XXX
+  parentName: Sporter
+  name: Handbollsligan dam
+  level: 4
+  description: Tidigare kallad Allsvenskan, Elitserien och Svensk handbollselit, är Sveriges högsta division i handboll för damer
