@@ -1,0 +1,7 @@
+Modifications:
+- action: ADD
+  parentCode: RYF-XXX #från -2
+  parentName: Medicinteknik,medtech
+  name: Teknik inom kvinnohälsa, femtech
+  level: 4
+  description: Femtech är en term som används för en kategori av programvara, diagnostik, produkter och tjänster som ofta använder teknik för att fokusera på kvinnors hälsa
