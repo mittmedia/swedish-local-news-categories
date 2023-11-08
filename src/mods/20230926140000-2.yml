@@ -12,5 +12,8 @@ Modifications:
   newParentName: Logistik och transport
 
 - action: ADD
-  code: RYF-XXX
-  name: 
+  parentCode: RYF-XXX
+  parentName: Banker
+  name: Nischbanker
+  level: 4
+  description: Banker som specialiserat sig enbart på vissa banktjänster eller riktar in sig på en särskild kundgrupp
