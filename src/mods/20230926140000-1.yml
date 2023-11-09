@@ -59,7 +59,7 @@ modifications:
   description: Försäkring för rederibranschen och godstransporter till sjöss
 
 - action: ADD
-  parentCode: RYF-XXX # ID saknas
+  parentCode: RYF-IXA-KEV-BEL
   parentName: Techbranschen
   name: Finansteknik, fintech
   level: 4
