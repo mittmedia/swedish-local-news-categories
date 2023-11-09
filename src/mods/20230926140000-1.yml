@@ -24,25 +24,25 @@ modifications:
   description: Racingsserie som körs fr allt i USA, sanktionerad av Indy Racing League
 
 - action: UPDATE
-  code: RYF-XXX # ID saknas
+  code: RYF-WUU-CGN
   name: Medicinteknik
   newName: Medicinteknik, fintech
   description: Medicintekniska produkter är produkter som används inom alla delar av hälso- och sjukvården samt för egenvård
 
 - action: UPDATE
-  code: RYF-XXX # ID saknas
+  code: RYF-IXA-KEV-XGJ
   name: Leveranser
   newName: Leveranstjänster, last mile
   description: Den sista delen av en resa som omfattar förflyttning av passagerare och varor från ett transportnav till en slutdestination
 
 - action: UPDATE
-  code: RYF-XXX # ID saknas
+  code: RYF-IXA-KEV-ZOC
   name: Bankbranschen
   newName: Banker
   description: Ett företag som framför allt ägnar sig åt att skapa nya pengar i form av krediter
 
 - action: UPDATE
-  code: RYF-XXX # ID saknas
+  code: RYF-IXA-KEV-UOV
   name: Finansbranschen
   newName: Finanssektorn
   description: Världens finansiella infrastruktur för den interaktion som uppstår när olika aktörer köper och säljer finansiella tillgångar
@@ -66,42 +66,42 @@ modifications:
   description: Teknologisk innovation inom finanssektorn
 
 - action: ADD
-  parentCode: RYF-XXX # ID saknas
+  parentCode: RYF-IXA-KEV-BEL
   parentName: Techbranschen
   name: Livsmedelsteknik, foodtech
   level: 4
   description: Livsmedelsteknologi är en gren av livsmedelsvetenskap som behandlar produktion, konservering, kvalitetskontroll och forskning och utveckling av livsmedelsprodukter
 
 - action: ADD
-  parentCode: RYF-XXX # ID saknas
+  parentCode: RYF-IXA-KEV-BEL
   parentName: Techbranschen
   name: Teknik för fastighetsbranschen, proptech
   level: 4
   description: Proptech använder digitalisering och automatisering för att effektivisera fastighetsbranschen
 
 - action: ADD
-  parentCode: RYF-XXX # ID saknas
+  parentCode: RYF-IXA-KEV-BEL
   parentName: Techbranschen
   name: Hållbarhetsteknik, cleantech
   level: 4
   description: Processer, produkter eller tjänster som minskar negativ miljöpåverkan genom energieffektiviseringar, hållbar resursanvändning eller miljöskyddsaktiviteter
   
 - action: ADD
-  parentCode: RYF-XXX # ID saknas
+  parentCode: RYF-KNI-XBE
   parentName: Kommunpolitik
   name: Kommunstyre
   level: 3
   description: Förvaltning och verkställighet i en kommun
   
 - action: ADD
-  parentCode: RYF-XXX # ID saknas
+  parentCode: RYF-KNI-VSB
   parentName: Regionpolitik
   name: Regionstyre
   level: 3
   description: Förvaltning och verkställighet i en region
   
 - action: ADD
-  parentCode: RYF-XXX # ID saknas
+  parentCode: RYF-HPT-MOH
   parentName: El
   name: Elproduktion
   level: 3
@@ -192,7 +192,7 @@ modifications:
   description: Sport med militär bakgrund som består av grenarna skytte, hinderbana, hindersimning, kastning och terränglöpning
 
 - action: ADD
-  parentCode: RYF-XXX # ID saknas
+  parentCode: RYF-QPR-HGB
   parentName: Sporter
   name: Handbollsligan dam
   level: 4
