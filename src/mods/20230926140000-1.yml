@@ -192,8 +192,8 @@ modifications:
   description: Sport med militär bakgrund som består av grenarna skytte, hinderbana, hindersimning, kastning och terränglöpning
 
 - action: ADD
-  parentCode: RYF-QPR-HGB
-  parentName: Sporter
+  parentCode: RYF-QPR-HGB-PJR
+  parentName: Handboll
   name: Handbollsligan dam
   level: 4
   description: Tidigare kallad Allsvenskan, Elitserien och Svensk handbollselit, är Sveriges högsta division i handboll för damer
