@@ -1,18 +1,18 @@
 Modifications:
 - action: MOVE
-  code: RYF-XXX
+  code: RYF-XXX # ID saknas
   name: Medicinteknik, medtech
   newParentCode: RYF-XXX
   newParentName: Techbranschen
   
 - action: MOVE
-  code: RYF-XXX
+  code: RYF-XXX # ID saknas
   name: Leveranstjänster, last mile
   newParentCode: RYF-XXX
   newParentName: Logistik och transport
 
 - action: ADD
-  parentCode: RYF-XXX
+  parentCode: RYF-XXX # ID saknas
   parentName: Banker
   name: Nischbanker
   level: 4
