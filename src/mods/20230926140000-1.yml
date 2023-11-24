@@ -46,10 +46,18 @@ modifications:
   name: Finansbranschen
   newName: Finanssektorn
   description: Världens finansiella infrastruktur för den interaktion som uppstår när olika aktörer köper och säljer finansiella tillgångar
-  
-- action: INACTIVATE
-  code: RYF-TKT-OUV-EJR
-  name: Reseskildring
+
+- action: UPDATE
+  code: RYF-CUW-XVL-DIS
+  name: Nationaldagen
+  newName: Nationaldag
+  description: Nationaldag är en (eller i vissa fall flera) särskild, officiell högtidsdag för en nation eller stat
+
+- action: UPDATE
+  code: RYF-QPR-HGB-CYD-UWW
+  name: Fristil
+  newName: Frisim
+  description: Frisim (fristil) är ett av simsätten inom tävlingssimning. Regeln säger att man får simma valfri stil. I praktiken används i tävlingar det snabbaste simsättet - crawl
 
 - action: ADD
   parentCode: RYF-IXA-KEV-HII
@@ -337,3 +345,13 @@ modifications:
   name: Life science
   level: 3
   description: Life science är ett tvärvetenskapligt område som bland annat omfattar forskning, hälsovård, läkemedel, medicin- och bioteknik
+
+  
+- action: INACTIVATE
+  code: RYF-TKT-OUV-EJR
+  name: Reseskildring
+
+- action: INACTIVATE
+  code: RYF-QPR-HGB-PJR-RAE
+  name: SHE
+  
