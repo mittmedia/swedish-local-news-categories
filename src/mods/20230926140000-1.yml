@@ -197,3 +197,143 @@ modifications:
   name: Handbollsligan dam
   level: 4
   description: Tidigare kallad Allsvenskan, Elitserien och Svensk handbollselit, är Sveriges högsta division i handboll för damer
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-XZV-PYI
+  parentName: Läkemedelsbranschen
+  name: Läkemedelsförsäljning
+  level: 5
+  description: Den försäljning av läkemedel som sker genom apotek och annan handel
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-XZV-PYI
+  parentName: Läkemedelsbranschen
+  name: Läkemedelstillverkning
+  level: 5
+  description: Tillverkning av läkemedel med syfte att förebygga, lindra och bota sjukdom
+
+- action: ADD
+  parentCode: RYF-WUU-QNB-LKJ
+  parentName: Läkemedel
+  name: Antibiotikaresistens
+  level: 4
+  description: En organisms motståndskraft mot antibiotika. Växande antibiotikaresistens är ett problem i sjukvården.
+
+- action: ADD
+  parentCode: RYF-WUU-QNB-LKJ
+  parentName: Läkemedel
+  name: Biosimilarier
+  level: 4
+  description: Ett biologiskt läkemedel som är mycket likt ett annat biologiskt läkemedel som redan godkänts för marknadsföring inom exempelvis EU.
+
+- action: ADD
+  parentCode: RYF-WUU-QNB-LKJ
+  parentName: Läkemedel
+  name: Generiska läkemedel
+  level: 4
+  description: Generiska läkemedel eller generika är läkemedel som innehåller samma verksamma ämne som ett originalläkemedel vilket förlorat sitt patentskydd och dokumentationsskydd
+
+- action: ADD
+  parentCode: RYF-WUU-QNB-LKJ
+  parentName: Läkemedel
+  name: Läkemedelsgodkännande
+  level: 4
+  description: En procedur som krävs för att ett läkemedel ska godkännas för användning av en tillståndsgivande myndighet
+
+- action: ADD
+  parentCode: RYF-WUU-QNB-LKJ
+  parentName: Läkemedel
+  name: Läkemedelskostnader
+  level: 4
+  description: De kostnader det allmänna har för förskrivna läkemedel
+
+- action: ADD
+  parentCode: RYF-WUU-QNB-LKJ
+  parentName: Läkemedel
+  name: Receptfria läkemedel
+  level: 4
+  description: Läkemedel som går att köpa utan recept från läkare, främst mot enklare besvär.
+
+- action: ADD
+  parentCode: RYF-WUU-QNB-LKJ-BIB
+  parentName: Receptbelagt läkemedel
+  name: Särläkemedel
+  level: 5
+  description: Särläkemedel är läkemedel för behandling av en ovanlig sjukdom.
+
+- action: ADD
+  parentCode: RYF-WUU-JZK
+  parentName: Sjukdomar, tillstånd och diagnoser
+  name: Rörelseorganens sjukdomar
+  level: 3
+  description: Sjukdomar i kroppens stödjevävnad såsom skelett, ligament, leder och muskler
+  
+- action: ADD
+  parentCode: RYF-WUU-JZK
+  parentName: Sjukdomar, tillstånd och diagnoser
+  name: Sällsynta sjukdomar
+  level: 3
+  description: En ovanlig sjukdom är en sjukdom som påverkar en liten andel av en befolkning
+
+- action: ADD
+  parentCode: RYF-VHD-HXU
+  parentName: Djur och natur
+  name: Viltvård
+  level: 3
+  description: Åtgärder som hjälper djur att överleva: exempelvis utfodring, anläggning av våtmarker och rovdjurskontroll. Viltvårdsåtgärder syftar till att producera vilt och är ofta en förutsättning för att kunna bedriva jakt
+  
+- action: ADD
+  parentCode: RYF-AKM
+  parentName: Olyckor och katastrofer
+  name: Sjönöd
+  level: 2
+  description: Då sjöfarande hotas av allvarlig fara och är i behov av omedelbar assistans
+
+- action: ADD
+  parentCode: RYF-WXT-UUC
+  parentName: Försvar
+  name: Värnplikt
+  level: 3
+  description: Värnplikt eller militärtjänst är en skyldighet att tjänstgöra i ett lands krigsmakt
+
+- action: ADD
+  parentCode: RYF-HPT-MOH
+  parentName: El
+  name: Elförsörjning
+  level: 3
+  description: Förmedling av elektrisk kraft
+
+- action: ADD
+  parentCode: RYF-HPT-MOH
+  parentName: El
+  name: Elförbrukning
+  level: 3
+  description: Den elektricitet som krävs för att driva ett system eller en apparat
+
+- action: ADD
+  parentCode: RYF-HPT
+  parentName: Samhälle
+  name: Etnisk grupp
+  level: 2
+  description: En grupp människor med samhörighet och gemensam historia
+
+- action: ADD
+  parentCode: RYF-HPT
+  parentName: Samhälle
+  name: Offentliga utgifter
+  level: 2
+  description: Det allmännas utgifter för bland annat sociala skydd, vård, skola och omsorg
+
+- action: ADD
+  parentCode: RYF-QPR-HGB
+  parentName: Sporter
+  name: Nordisk kombination
+  level: 3
+  description: En inriktning inom nordisk skidsport som består av tävlingar i backhoppning och längdåknin
+
+- action: ADD
+  parentCode: RYF-EOI-DOE
+  parentName: Forskning
+  name: Life science
+  level: 3
+  description: Life science är ett tvärvetenskapligt område som bland annat omfattar forskning, hälsovård, läkemedel, medicin- och bioteknik
