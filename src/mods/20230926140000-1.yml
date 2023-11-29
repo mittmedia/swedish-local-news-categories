@@ -353,6 +353,13 @@ modifications:
   level: 2
   description: Övervakning av fordonstrafik med syfte att göra trafiken säkrare
 
+- action: ADD
+  parentCode: RYF-BIZ-XYS
+  parentName: Lagar och regler
+  name: Allemansrätt
+  level: 2
+  description: En rätt för alla människor att färdas över privat mark i naturen, att tillfälligt uppehålla sig där och till exempel plocka bär, svamp och vissa andra växter
+
 - action: INACTIVATE
   code: RYF-TKT-OUV-EJR
   name: Reseskildring
