@@ -1,0 +1,390 @@
+modifications:
+- action: UPDATE
+  code: RYF-IXA-KEV-YII-DCK
+  name: Bed och breakfast
+  newName: Bed and breakfast
+  description: Övernattning med frukost, ofta i anslutning till en privatbostad
+
+- action: UPDATE
+  code: RYF-ZEI-CZS
+  name: Personal- och anställning
+  newName: Personal och anställning
+  description: Anställning är ett sätt att organisera arbete, där en part, "arbetsgivaren", köper den andres, "arbetstagaren eller personalen", tid mot att arbete utförs
+  
+- action: UPDATE
+  code: RYF-IXA-KEV-CYO
+  name: Logistik och transport
+  newName: Logistik och transport
+  description: Kontroll av materialflöden, förflyttning och övervakning av fysiskt gods från punkt A till punkt B
+
+- action: UPDATE
+  code: RYF-QPR-HGB-IUP
+  name: Klättring
+  newName: Klättersport
+  description: Sportklättring utövas på klippor med förplacerade säkringar
+
+- action: UPDATE
+  code: RYF-QPR-HGB-DNB-LOH
+  name: Indy racing
+  newName: Indycar
+  description: Racingsserie som körs fr allt i USA, sanktionerad av Indy Racing League
+
+- action: UPDATE
+  code: RYF-WUU-CGN
+  name: Medicinteknik
+  newName: Medicinteknik, fintech
+  description: Medicintekniska produkter är produkter som används inom alla delar av hälso- och sjukvården samt för egenvård
+
+- action: UPDATE
+  code: RYF-IXA-KEV-XGJ
+  name: Leveranser
+  newName: Leveranstjänster, last mile
+  description: Den sista delen av en resa som omfattar förflyttning av passagerare och varor från ett transportnav till en slutdestination
+
+- action: UPDATE
+  code: RYF-IXA-KEV-ZOC
+  name: Bankbranschen
+  newName: Banker
+  description: Ett företag som framför allt ägnar sig åt att skapa nya pengar i form av krediter
+
+- action: UPDATE
+  code: RYF-IXA-KEV-UOV
+  name: Finansbranschen
+  newName: Finanssektorn
+  description: Världens finansiella infrastruktur för den interaktion som uppstår när olika aktörer köper och säljer finansiella tillgångar
+
+- action: UPDATE
+  code: RYF-CUW-XVL-DIS
+  name: Nationaldagen
+  newName: Nationaldag
+  description: Nationaldag är en (eller i vissa fall flera) särskild, officiell högtidsdag för en nation eller stat
+
+- action: UPDATE
+  code: RYF-QPR-HGB-CYD-UWW
+  name: Fristil
+  newName: Frisim
+  description: Frisim (fristil) är ett av simsätten inom tävlingssimning. Regeln säger att man får simma valfri stil. I praktiken används i tävlingar det snabbaste simsättet - crawl
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-HII
+  parentName: Försäkringsmarknad
+  name: Marinförsäkring
+  level: 4
+  description: Försäkring för rederibranschen och godstransporter till sjöss
+
+- action: ADD
+  parentCode: RYF-IXA-KEV
+  parentName: Näringsliv
+  name: ESG (styrning)
+  level: 3
+  description: Environmental, social and corporate governance som på svenska motsvaras av miljöstyrning, samhällsansvar och bolagsstyrning
+
+- action: ADD
+  parentCode: RYF-IXA-KEV
+  parentName: Näringsliv
+  name: Konsumenttjänster
+  level: 3
+  description: Med konsumenttjänst syftas på en tjänst som främst erbjuds för privatpersoners bruk på fritiden, i hobbyer eller i andra aktiviteter
+  
+- action: ADD
+  parentCode: RYF-IXA-KEV-BEL
+  parentName: Techbranschen
+  name: Finansteknik, fintech
+  level: 4
+  description: Teknologisk innovation inom finanssektorn
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-BEL
+  parentName: Techbranschen
+  name: Livsmedelsteknik, foodtech
+  level: 4
+  description: Livsmedelsteknologi är en gren av livsmedelsvetenskap som behandlar produktion, konservering, kvalitetskontroll och forskning och utveckling av livsmedelsprodukter
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-BEL
+  parentName: Techbranschen
+  name: Teknik för fastighetsbranschen, proptech
+  level: 4
+  description: Proptech använder digitalisering och automatisering för att effektivisera fastighetsbranschen
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-BEL
+  parentName: Techbranschen
+  name: Hållbarhetsteknik, cleantech
+  level: 4
+  description: Processer, produkter eller tjänster som minskar negativ miljöpåverkan genom energieffektiviseringar, hållbar resursanvändning eller miljöskyddsaktiviteter
+  
+- action: ADD
+  parentCode: RYF-KNI-XBE
+  parentName: Kommunpolitik
+  name: Kommunstyre
+  level: 3
+  description: Förvaltning och verkställighet i en kommun
+  
+- action: ADD
+  parentCode: RYF-KNI-VSB
+  parentName: Regionpolitik
+  name: Regionstyre
+  level: 3
+  description: Förvaltning och verkställighet i en region
+  
+- action: ADD
+  parentCode: RYF-HPT-MOH
+  parentName: El
+  name: Elproduktion
+  level: 3
+  description: En process där energi från primära energikällor omvandlas till elektricitet
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-HBV
+  parentName: Järn- och stålindustri
+  name: Fossilfritt stål
+  level: 4
+  description: Stål tillverkat utan att skapa koldioxidutsläpp och genom att använda fossilfria energikällor
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-VSA-MEC
+  parentName: Skogsbruk
+  name: Produktionsskog
+  level: 5
+  description: Skog som är avsedd för kommersiell produktion av trävaror genom avverkning
+
+- action: ADD
+  parentCode: RYF-IXA-KEV
+  parentName: Näringsliv
+  name: Outsourcing
+  level: 3
+  description: Att ett företag låter en annan part (till exempel ett företag eller en organisation) sköta en eller flera processer
+
+- action: ADD
+  parentCode: RYF-HPT-NLP
+  parentName: Energi
+  name: Kraftvärme
+  level: 3
+  description: Den energiteknik som gör det möjligt att samtidigt producera elektricitet och fjärrvärme med hög verkningsgrad
+
+- action: ADD
+  parentCode: RYF-HPT-NLP
+  parentName: Energi
+  name: Bränslepellettar
+  level: 3
+  description: Bränslepelletar är ett biobränsle i pelleterad form som tillverkas ur olika biprodukter från skogs- och träförädlingsindustrin
+
+- action: ADD
+  parentCode: RYF-HPT-NLP
+  parentName: Energi
+  name: Energisäkerhet
+  level: 3
+  description: Oavbruten tillgång till energiresurser till ett överkomligt pris
+
+- action: ADD
+  parentCode: RYF-XRZ-ABT
+  parentName: Lastbil
+  name: Ellastbil
+  level: 3
+  description: Lastbil framdriven med el från ett batteri eller induktionsladdning via vägbanan
+
+- action: ADD
+  parentCode: RYF-IXA-AOE-KPB-TBH
+  parentName: Sakförsäkring
+  name: Bilförsäkring
+  level: 5
+  description: Sak- och personförsäkring för personbil
+
+- action: ADD
+  parentCode: RYF-IXA-AOE-KPB-TBH
+  parentName: Sakförsäkring
+  name: Mc-försäkring
+  level: 5
+  description: Sak- och personförsäkring för motorcykel
+
+- action: ADD
+  parentCode: RYF-IXA-AOE-KPB-TBH
+  parentName: Sakförsäkring
+  name: Mopedförsäkring
+  level: 5
+  description: Sak- och personförsäkring för moped
+
+- action: ADD
+  parentCode: RYF-IXA-AOE-YFQ
+  parentName: Pension
+  name: Pensionsuttag
+  level: 4
+  description: Utbetalning av pension från det allmänna pensionssystemet eller privat pensionssparande
+
+- action: ADD
+  parentCode: RYF-QPR-HGB
+  parentName: Sporter
+  name: Militär femkamp
+  level: 3
+  description: Sport med militär bakgrund som består av grenarna skytte, hinderbana, hindersimning, kastning och terränglöpning
+
+- action: ADD
+  parentCode: RYF-QPR-HGB-PJR
+  parentName: Handboll
+  name: Handbollsligan dam
+  level: 4
+  description: Tidigare kallad Allsvenskan, Elitserien och Svensk handbollselit, är Sveriges högsta division i handboll för damer
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-XZV-PYI
+  parentName: Läkemedelsbranschen
+  name: Läkemedelsförsäljning
+  level: 5
+  description: Den försäljning av läkemedel som sker genom apotek och annan handel
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-XZV-PYI
+  parentName: Läkemedelsbranschen
+  name: Läkemedelstillverkning
+  level: 5
+  description: Tillverkning av läkemedel med syfte att förebygga, lindra och bota sjukdom
+
+- action: ADD
+  parentCode: RYF-WUU-QNB-LKJ
+  parentName: Läkemedel
+  name: Antibiotikaresistens
+  level: 4
+  description: En organisms motståndskraft mot antibiotika. Växande antibiotikaresistens är ett problem i sjukvården.
+
+- action: ADD
+  parentCode: RYF-WUU-QNB-LKJ
+  parentName: Läkemedel
+  name: Biosimilarier
+  level: 4
+  description: Ett biologiskt läkemedel som är mycket likt ett annat biologiskt läkemedel som redan godkänts för marknadsföring inom exempelvis EU.
+
+- action: ADD
+  parentCode: RYF-WUU-QNB-LKJ
+  parentName: Läkemedel
+  name: Generiska läkemedel
+  level: 4
+  description: Generiska läkemedel eller generika är läkemedel som innehåller samma verksamma ämne som ett originalläkemedel vilket förlorat sitt patentskydd och dokumentationsskydd
+
+- action: ADD
+  parentCode: RYF-WUU-QNB-LKJ
+  parentName: Läkemedel
+  name: Läkemedelsgodkännande
+  level: 4
+  description: En procedur som krävs för att ett läkemedel ska godkännas för användning av en tillståndsgivande myndighet
+
+- action: ADD
+  parentCode: RYF-WUU-QNB-LKJ
+  parentName: Läkemedel
+  name: Läkemedelskostnader
+  level: 4
+  description: De kostnader det allmänna har för förskrivna läkemedel
+
+- action: ADD
+  parentCode: RYF-WUU-QNB-LKJ
+  parentName: Läkemedel
+  name: Receptfria läkemedel
+  level: 4
+  description: Läkemedel som går att köpa utan recept från läkare, främst mot enklare besvär.
+
+- action: ADD
+  parentCode: RYF-WUU-QNB-LKJ-BIB
+  parentName: Receptbelagt läkemedel
+  name: Särläkemedel
+  level: 5
+  description: Särläkemedel är läkemedel för behandling av en ovanlig sjukdom.
+
+- action: ADD
+  parentCode: RYF-WUU-JZK
+  parentName: Sjukdomar, tillstånd och diagnoser
+  name: Rörelseorganens sjukdomar
+  level: 3
+  description: Sjukdomar i kroppens stödjevävnad såsom skelett, ligament, leder och muskler
+  
+- action: ADD
+  parentCode: RYF-WUU-JZK
+  parentName: Sjukdomar, tillstånd och diagnoser
+  name: Sällsynta sjukdomar
+  level: 3
+  description: En ovanlig sjukdom är en sjukdom som påverkar en liten andel av en befolkning
+
+- action: ADD
+  parentCode: RYF-VHD-HXU
+  parentName: Djur och natur
+  name: Viltvård
+  level: 3
+  description: Åtgärder som hjälper djur att överleva: exempelvis utfodring, anläggning av våtmarker och rovdjurskontroll. Viltvårdsåtgärder syftar till att producera vilt och är ofta en förutsättning för att kunna bedriva jakt
+  
+- action: ADD
+  parentCode: RYF-AKM
+  parentName: Olyckor och katastrofer
+  name: Sjönöd
+  level: 2
+  description: Då sjöfarande hotas av allvarlig fara och är i behov av omedelbar assistans
+
+- action: ADD
+  parentCode: RYF-WXT-UUC
+  parentName: Försvar
+  name: Värnplikt
+  level: 3
+  description: Värnplikt eller militärtjänst är en skyldighet att tjänstgöra i ett lands krigsmakt
+
+- action: ADD
+  parentCode: RYF-HPT-MOH
+  parentName: El
+  name: Elförsörjning
+  level: 3
+  description: Förmedling av elektrisk kraft
+
+- action: ADD
+  parentCode: RYF-HPT-MOH
+  parentName: El
+  name: Elförbrukning
+  level: 3
+  description: Den elektricitet som krävs för att driva ett system eller en apparat
+
+- action: ADD
+  parentCode: RYF-HPT
+  parentName: Samhälle
+  name: Etnisk grupp
+  level: 2
+  description: En grupp människor med samhörighet och gemensam historia
+
+- action: ADD
+  parentCode: RYF-HPT
+  parentName: Samhälle
+  name: Offentliga utgifter
+  level: 2
+  description: Det allmännas utgifter för bland annat sociala skydd, vård, skola och omsorg
+
+- action: ADD
+  parentCode: RYF-QPR-HGB
+  parentName: Sporter
+  name: Nordisk kombination
+  level: 3
+  description: En inriktning inom nordisk skidsport som består av tävlingar i backhoppning och längdåknin
+
+- action: ADD
+  parentCode: RYF-EOI-DOE
+  parentName: Forskning
+  name: Life science
+  level: 3
+  description: Life science är ett tvärvetenskapligt område som bland annat omfattar forskning, hälsovård, läkemedel, medicin- och bioteknik
+
+- action: ADD
+  parentCode: RYF-XRZ
+  parentName: Trafik
+  name: Trafikövervakning
+  level: 2
+  description: Övervakning av fordonstrafik med syfte att göra trafiken säkrare
+
+- action: ADD
+  parentCode: RYF-BIZ-XYS
+  parentName: Lagar och regler
+  name: Allemansrätt
+  level: 2
+  description: En rätt för alla människor att färdas över privat mark i naturen, att tillfälligt uppehålla sig där och till exempel plocka bär, svamp och vissa andra växter
+
+- action: INACTIVATE
+  code: RYF-TKT-OUV-EJR
+  name: Reseskildring
+  
+- action: INACTIVATE
+  code: RYF-QPR-HGB-PJR-RAE
+  name: SHE
+  
