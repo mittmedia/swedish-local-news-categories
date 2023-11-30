@@ -32,7 +32,7 @@ modifications:
 - action: UPDATE
   code: RYF-WUU-CGN
   name: Medicinteknik
-  newName: Medicinteknik, fintech
+  newName: Medicinteknik, medtech
   description: Medicintekniska produkter är produkter som används inom alla delar av hälso- och sjukvården samt för egenvård
 
 - action: UPDATE
