@@ -308,7 +308,7 @@ modifications:
   parentName: Djur och natur
   name: Viltvård
   level: 3
-  description: Åtgärder som hjälper djur att överleva: exempelvis utfodring, anläggning av våtmarker och rovdjurskontroll. Viltvårdsåtgärder syftar till att producera vilt och är ofta en förutsättning för att kunna bedriva jakt
+  description: 'Åtgärder som hjälper djur att överleva: exempelvis utfodring, anläggning av våtmarker och rovdjurskontroll. Viltvårdsåtgärder syftar till att producera vilt och är ofta en förutsättning för att kunna bedriva jakt'
   
 - action: ADD
   parentCode: RYF-AKM
