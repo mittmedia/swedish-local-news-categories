@@ -25,7 +25,7 @@ modifications:
 
 - action: UPDATE
   code: RYF-QPR-HGB-DNB-LOH
-  name: Indy racing
+  name: Indy Racing
   newName: Indycar
   description: Racingsserie som körs fr allt i USA, sanktionerad av Indy Racing League
 
