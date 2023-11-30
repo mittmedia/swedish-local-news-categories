@@ -4,6 +4,12 @@ modifications:
   name: Bed och breakfast
   newName: Bed and breakfast
   description: Övernattning med frukost, ofta i anslutning till en privatbostad
+
+- action: UPDATE
+  code: RYF-ZEI-CZS
+  name: Personal- och anställning
+  newName: Personal och anställning
+  description: Anställning är ett sätt att organisera arbete, där en part, "arbetsgivaren", köper den andres, "arbetstagaren eller personalen", tid mot att arbete utförs
   
 - action: UPDATE
   code: RYF-IXA-KEV-CYO
@@ -66,6 +72,20 @@ modifications:
   level: 4
   description: Försäkring för rederibranschen och godstransporter till sjöss
 
+- action: ADD
+  parentCode: RYF-IXA-KEV
+  parentName: Näringsliv
+  name: ESG (styrning)
+  level: 3
+  description: Environmental, social and corporate governance som på svenska motsvaras av miljöstyrning, samhällsansvar och bolagsstyrning
+
+- action: ADD
+  parentCode: RYF-IXA-KEV
+  parentName: Näringsliv
+  name: Konsumenttjänst
+  level: 3
+  description: Med konsumenttjänst syftas på en tjänst som främst erbjuds för privatpersoners bruk på fritiden, i hobbyer eller i andra aktiviteter
+  
 - action: ADD
   parentCode: RYF-IXA-KEV-BEL
   parentName: Techbranschen
