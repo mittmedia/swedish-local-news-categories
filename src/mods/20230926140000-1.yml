@@ -82,7 +82,7 @@ modifications:
 - action: ADD
   parentCode: RYF-IXA-KEV
   parentName: Näringsliv
-  name: Konsumenttjänst
+  name: Konsumenttjänster
   level: 3
   description: Med konsumenttjänst syftas på en tjänst som främst erbjuds för privatpersoners bruk på fritiden, i hobbyer eller i andra aktiviteter
   
