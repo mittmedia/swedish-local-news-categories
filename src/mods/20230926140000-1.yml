@@ -37,7 +37,7 @@ modifications:
 
 - action: UPDATE
   code: RYF-IXA-KEV-XGJ
-  name: Leveranser
+  name: Leverans
   newName: Leveranstjänster, last mile
   description: Den sista delen av en resa som omfattar förflyttning av passagerare och varor från ett transportnav till en slutdestination
 
