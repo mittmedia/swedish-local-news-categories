@@ -1,0 +1,40 @@
+modifications:
+- action: MOVE
+  code: RYF-WUU-CGN
+  name: Medicinteknik, medtech
+  newParentCode: RYF-IXA-KEV-BEL
+  newParentName: Techbranschen
+  
+- action: MOVE
+  code: RYF-IXA-KEV-XGJ
+  name: Leveranstjänster, last mile
+  newParentCode: RYF-IXA-KEV-CYO
+  newParentName: Logistik och transport
+
+- action: ADD
+  parentCode: RYF-IXA-KEV-ZOC
+  parentName: Banker
+  name: Nischbanker
+  level: 4
+  description: Banker som specialiserat sig enbart på vissa banktjänster eller riktar in sig på en särskild kundgrupp
+
+- action: ADD
+  parentCode: RYF-WUU-QNB-LKJ-YIL #id från -1
+  parentName: Läkemedelskostnader
+  name: Högkostnadsskydd
+  level: 5
+  description: En allmän förmån som innebär att man blir skyddad från alltför höga egna utgifter för sjukvård
+
+- action: ADD
+  parentCode: RYF-WUU-JZK-JMM #id från -1
+  parentName: Sällsynta sjukdomar
+  name: Skelleftesjukan
+  level: 4
+  description: Ärftlig transtyretinamyloidos (ATTRv-amyloidos), även känd som familjär amyloidos med polyneuropati (FAP) eller Skelleftesjukan, är en ärftlig sjukdom som ger symtom från bland annat perifera nerver, hjärta, mage och tarmar, ögon samt njurar
+
+- action: ADD
+  parentCode: RYF-HPT-HZI #id från -1
+  parentName: Etnisk grupp
+  name: Finlandssvenskar
+  level: 3
+  description: Finländare med svenska som modersmål, som i Finland ofta benämns svenskspråkiga
