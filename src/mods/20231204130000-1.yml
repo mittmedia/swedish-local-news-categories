@@ -1,0 +1,49 @@
+modifications:
+- action: ADD
+  parentCode: RYF-QPR-HGB-DEN
+  parentName: Fotboll
+  name: Damtvåan
+  level: 4
+  description: Damtvåan är den tredje högsta nivån i fotboll för damer i Finland
+- action: ADD
+  parentCode: RYF-QPR-HGB-DEN
+  parentName: Fotboll
+  name: Nationella ligan
+  level: 4
+  description: Högsta serien för damfotboll i Finland
+- action: ADD
+  parentCode: RYF-QPR-HGB-DEN
+  parentName: Fotboll
+  name: Fotbollsligan
+  level: 4
+  description: Finlands högsta division i fotboll för herrar
+- action: ADD
+  parentCode: RYF-QPR-HGB-QHJ
+  parentName: Innebandy
+  name: F-ligan
+  level: 4
+  description: Högsta serien i innebandy i Finland
+- action: ADD
+  parentCode: RYF-QPR-HGB-BQN
+  parentName: Ishockey
+  name: FM-ligan
+  level: 4
+  description: Finlands högsta division i ishockey för herrar
+- action: ADD
+  parentCode: RYF-QPR-HGB-PJR
+  parentName: Handboll
+  name: FM-serien i Handboll
+  level: 4
+  description:  Finlands högsta division i handboll för damer
+- action: ADD
+  parentCode: RYF-QPR-HGB-BAH
+  parentName: Volleyboll
+  name: FM-ligan
+  level: 4
+  description:  Volleybollserie för damer
+- action: ADD
+  parentCode: RYF-YDR-EBM
+  parentName: Högskola
+  name: Yrkeshögskola
+  level: 3
+  description:  En yrkeshögskola är en utbildningsform för yrkesinriktade studier på eftergymnasial nivå

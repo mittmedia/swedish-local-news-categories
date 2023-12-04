@@ -5380,6 +5380,7 @@ categories:
   replaces: RYF-WUU-CGN
   status: ACTIVE
 - code: RYF-IXA-KEV-BEL-IYQ-QPT
+  description: ''
   level: 5
   name: Teknik inom kvinnohälsa, femtech
   status: ACTIVE
@@ -10019,6 +10020,10 @@ categories:
   level: 5
   name: Södra
   status: ACTIVE
+- code: RYF-QPR-HGB-BAH-FYD
+  level: 4
+  name: FM-ligan
+  status: ACTIVE
 - code: RYF-QPR-HGB-BAH-JUI
   description: ''
   level: 4
@@ -10353,6 +10358,10 @@ categories:
   description: ''
   level: 4
   name: Hockeyallsvenskan
+  status: ACTIVE
+- code: RYF-QPR-HGB-BQN-MGJ
+  level: 4
+  name: FM-ligan
   status: ACTIVE
 - code: RYF-QPR-HGB-BQN-MZV
   description: ''
@@ -11210,6 +11219,10 @@ categories:
   level: 4
   name: Svenska cupen herr
   status: ACTIVE
+- code: RYF-QPR-HGB-DEN-CLH
+  level: 4
+  name: Damtvåan
+  status: ACTIVE
 - code: RYF-QPR-HGB-DEN-CUG
   description: ''
   level: 4
@@ -11569,6 +11582,10 @@ categories:
   description: ''
   level: 5
   name: Ångermanland
+  status: ACTIVE
+- code: RYF-QPR-HGB-DEN-FLS
+  level: 4
+  name: Nationella ligan
   status: ACTIVE
 - code: RYF-QPR-HGB-DEN-FXI
   description: ''
@@ -12655,6 +12672,10 @@ categories:
   level: 5
   name: Mellersta Götaland
   status: INACTIVE
+- code: RYF-QPR-HGB-DEN-ULF
+  level: 4
+  name: Fotbollsligan
+  status: ACTIVE
 - code: RYF-QPR-HGB-DEN-UXB
   description: ''
   level: 4
@@ -13464,6 +13485,10 @@ categories:
   level: 5
   name: Västsvenska västra
   status: ACTIVE
+- code: RYF-QPR-HGB-PJR-PQK
+  level: 4
+  name: FM-serien i Handboll
+  status: ACTIVE
 - code: RYF-QPR-HGB-PJR-QXN
   description: ''
   level: 4
@@ -13688,6 +13713,10 @@ categories:
   description: ''
   level: 5
   name: Södra
+  status: ACTIVE
+- code: RYF-QPR-HGB-QHJ-LLQ
+  level: 4
+  name: F-ligan
   status: ACTIVE
 - code: RYF-QPR-HGB-QHJ-NYU
   description: ''
@@ -24316,6 +24345,10 @@ categories:
   level: 2
   name: Högskola
   replaces: RYF-YDR-MHH-UAD-FEL
+  status: ACTIVE
+- code: RYF-YDR-EBM-NRK
+  level: 3
+  name: Yrkeshögskola
   status: ACTIVE
 - code: RYF-YDR-ECA
   description: Skolformen där elever lär sig grundläggande kunskaper, bland annat läsande och räknelära
