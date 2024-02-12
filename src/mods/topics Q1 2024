@@ -1,1 +1,267 @@
+modifications:
+- action: ADD
+	parentCode: RYF-BIZ-WZJ
+	parentName: Brottslighet
+	name: Civil olydnad
+	level: 3
+  description: En form av aktivism som går ut på att öppet och utan våld bryta mot en lag eller vägra att följa vissa myndighetsbeslut samt att vara beredd att ta konsekvenserna av handlingen
+
+- action: ADD
+  parentCode: RYF-BIZ-WZJ
+  parentName: Brottslighet
+  name: Egenmäktigt förfarande
+  level: 3
+  description: Då annans besittning olovligen rubbas på så vis att den rättmätige ägaren hindras att använda föremålet som det är tänkt
+
+- action: ADD
+  parentCode: RYF-BIZ-WZJ
+  parentName: Brottslighet
+  name: Fornminnesbrott
+  level: 3
+  description: Ett brott mot kulturminneslagen
+
+- action: ADD
+  parentCode: RYF-BIZ-WZJ
+  parentName: Brottslighet
+  name: Hets mot folkgrupp
+  level: 3
+  description: Ett hatbrott om offentligt sprida uttalanden som hotar eller är nedlåtande mot vissa utpekade grupper av människor
+
+- action: ADD
+  parentCode: RYF-BIZ-WZJ
+  parentName: Brottslighet
+  name: Integritetsbrott
+  level: 3
+  description: När det är straffbart att sprida vissa typer av bilder eller andra uppgifter om någon annans privatliv
+
+- action: ADD
+  parentCode: RYF-BIZ-WZJ
+  parentName: Brottslighet
+  name: Olaga tvång
+  level: 3
+  description: Gärning som består i att genom misshandel eller annat våld eller genom hot om brottslig gärning tvinga någon annan att göra, tåla eller underlåta något
+
+- action: ADD
+  parentCode: RYF-BIZ-WZJ-XEY
+  parentName: Sexualbrott
+  name: Sexköpsbrott
+  level: 4
+  description: Det är straffbart att köpa tillfälliga sexuella förbindelser med ekonomiskt ersättning
+
+- action: ADD
+  parentCode: RYF-BIZ-WZJ
+  parentName: Brottslighet
+  name: Skyddande av brottsling
+  level: 3
+  description: Brottet som består i att man hjälper den som begått ett brott undkomma eller genom att undanröja bevis
+
+- action: ADD
+  parentCode: RYF-BIZ-WZJ
+  parentName: Brottslighet
+  name: Sprängdåd
+  level: 3
+  description: Attentat med sprängmedel i form av en bomb
+
+- action: ADD
+  parentCode: RYF-BIZ-WZJ
+  parentName: Brottslighet
+  name: Tvångsäktenskap
+  level: 3
+  description: Ett äktenskap som ingås trots att endera eller båda parterna inte vill det eller ett äktenskap som ingås med stor inblandning av andra än det blivande äkta paret
+
+- action: ADD
+  parentCode: RYF-BIZ-XYS
+  parentName: Lagar och regler
+  name: Lex Maria
+  level: 3
+  description: När en vårdgivare har skyldighet att till Inspektionen för vård och omsorg anmäla om en patient i samband med hälso- och sjukvård drabbats av eller utsatts för risk att drabbas av en allvarlig skada eller sjukdom
+
+- action: ADD
+  parentCode: RYF-BIZ-XYS
+  parentName: Lagar och regler
+  name: Lex Sarah
+  level: 3
+  description: En lag om att personalen måste anmäla missförhållanden inom omsorger om äldre människor eller människor med funktionsnedsättning
+
+- action: ADD
+  parentCode: RYF-BIZRYF-IXA-KEV-RQL
+  parentName: Handel
+  name: Marknad (Evenemang)
+  level: 4
+  description: Ett evenemang som främst är inriktat på handel och nöjen
+
+- action: ADD
+  parentCode: RYF-WUU-JZK
+  parentName: Sjukdomar, tillstånd och diagnoser
+  name: Hjärnskakning
+  level: 3
+  description: Ett tillstånd som uppstår vid hårdare slag mot huvudet då hjärnan krockar mot insidan av skallbenet
+
+- action: ADD
+  parentCode: RYF-WUU-JZK-FIS
+  parentName: Mag- och tarmsjukdomar
+  name: Matförgiftning
+  level: 4
+  description: Benämning för mag- och tarmsjukdomar som vållats av mikroorganismer eller gifter i födoämnen
+
+- action: ADD
+  parentCode: RYF-VHD-GUZ
+  parentName: Klimat
+  name: Klimatkompensation
+  level: 3
+  description: Strategi för att balansera hela eller delar av sin klimatpåverkan genom växthusgaskrediter
+
+- action: ADD
+  parentCode: RYF-WXT
+  parentName: Konflikter och krig
+  name: Preppning
+  level: 2
+  description: Att förbereda sig för möjliga framtida avbrott i lokal, regional, nationell eller internationell social eller politisk ordning
+
+- action: ADD
+  parentCode: RYF-XKI-CUP-NWA
+  parentName: Musik
+  name: Gospel
+  level: 4
+  description: En kyrklig musikgenre
+
+- action: ADD
+  parentCode: RYF-XKI-CUP-NWA
+  parentName: Musik
+  name: Körsång
+  level: 4
+  description: En en- eller flerstämmig ensemble med flera sångare i varje stämma
+
+- action: ADD
+  parentCode: RYF-AKM-AUE
+  parentName: Brand
+  name: Eldningsförbud
+  level: 3
+  description: Utfärdas då brandrisken i naturen är särskilt stor på grund av torka
+
+- action: ADD
+  parentCode: RYF-HPT-NLP
+  parentName: Energi
+  name: Vedeldning
+  level: 3
+  description: Förbränning av trä för att få värme
+
+- action: ADD
+  parentCode: RYF-HPT-TVG
+  parentName: Sociala problem
+  name: Nattvandring
+  level: 3
+  description: När grupper av vuxna rör sig ute på gator och torg och i miljöer där ungdomar vistas kvälls- och nattetid, i syfte att skapa en lugnare miljö
+
+- action: ADD
+  parentCode: RYF-YDR
+  parentName: Skola och utbildning
+  name: Anpassad skola
+  level: 2
+  description: En skola för de elever som inte klarar den vanliga skolan på grund av intellektuell funktionsnedsättning eller som på grund av en förvärvad hjärnskada fått en betydande och bestående begåvningsnedsättning
+
+-  action: ADD
+  parentCode: RYF-YDR
+  parentName: Skola och utbildning
+  name: Skolmat
+  level: 2
+  description: Mat, vanligen lunch men ibland också mellanmål, som serveras i en skola
+
+- action: ADD
+  parentCode: RYF-QPR-HGB-NWE
+  parentName: Frisbee
+  name: Discgolf
+  level: 4
+  description: En sport som spelas med frisbee med mål att spela en bana från början till slut med så få kast som möjligt
+
+- action: ADD
+  parentCode: RYF-QPR-HGB-PJR
+  parentName: Handboll
+  name: Beachhandboll
+  level: 4
+  description: Sandboll, är en variant av handboll som spelas i sand
+
+- action: ADD
+  parentCode: RYF-XRZ-HYF
+  parentName: Bilintresse
+  name: Street racing, Blackrace
+  level: 3
+  description: Olagliga biltävlingar som körs i trafiken (street racing) eller med tillstånd på en avstängd gata (Blackrace)
+
+- action: ADD
+  parentCode: RYF-XRZ
+  parentName: Trafik och fordon
+  name: Elcykel
+  level: 2
+  description: Trampcykel som har försetts med en elektrisk motor
+
+- action: ADD
+  parentCode: RYF-XRZ
+  parentName: Trafik och fordon
+  name: Körkort
+  level: 2
+  description: En handling som visar att man har behörighet till att köra motorfordon, terrängmotorfordon, traktor och/eller motorredskap
+
+- action: ADD
+  parentCode: RYF-XRZ
+  parentName: Trafik och fordon
+  name: Fordonsskatt
+  level: 2
+  description: En skatt för de flesta motordrivna fordon som personbilar, bussar, lastbilar, motorcyklar, traktorer för att fordonet skall få användas på allmän väg
+
+- action: ADD
+  parentCode: RYF-WHZ
+  parentName: Väder
+  name: Oväder
+  level: 2
+  description: Benämning på väderlek med kraftig nederbörd och hård vind
+
+- action: UPDATE
+  Code: RYF-IXA-KEV-GZI
+  Name: Egenföretagande
+  New name: Företagande
+  description: Driften av ett företag i egen eller annans regi
+
+- action: UPDATE
+  Code: RYF-WUU-YYH-SYF
+  Name: Mödrahälsovård
+  New name: Mödravård
+  description: Vård till mödrar som ges av en barnmorska
+
+- action: UPDATE
+  Code: RYF-CUW-LGT-FPF
+  Name: Jubilar
+  New name: Jubileum
+  description: Då man firar att det gått en viss tid, oftast ett visst antal år, sedan något hände
+
+- action: UPDATE
+  Code: RYF-QPR-HGB-IYN
+  Name: Hundracing
+  New name: Hundsport
+  description: Fritidsverksamheter med hund
+
+- action: UPDATE
+  Code: RYF-QPR-HGB-CYD
+  Name: Simning
+  New name: Simsport
+  description: Sport som utförs i vatten, oftast i en simbassäng, där det gäller att simmaren använder sig av ett eller olika simsätt för att snabbast simma en bestämd sträcka
+
+- action: UPDATE
+  Code: RYF-QPR-HGB-DKV
+  Name: Softball
+  New name: Softboll
+  description: Lagsport som spelas med boll och slagträ
+
+- action: INACTIVATE
+  Code: RYF-VHD-GUZ-SYG-QOA-YIC
+  Name: Extremväder
+
+- action: INACTIVATE
+  Code: RYF-QPR-HGB-DEN-PXP
+  Name: Nationell fotboll
+
+- action: INACTIVATE
+  Code: RYF-QPR-HGB-EOW-JRT
+  Name: Moto-GP
+
 
