@@ -1,0 +1,13 @@
+- action: ADD
+  parentCode: RYF-XRZ-XXX
+  parentName: Körkort
+  name: Förarprov
+  level: 3
+  description: Ett samlingsnamn för kunskapsprov (teorin) och körprov (uppkörning) i körkortsutbildningen i Sverige
+
+- action: ADD
+  parentCode: RYF-QPR-HGB-IYN
+  parentName: Hundsport
+  name: Agility
+  level: 4
+  description: En hundsport där hunden skall springa en hinderbana och forcera hindren i rätt följd och på rätt sätt och som vid tävlingar skall genomföras på tid
