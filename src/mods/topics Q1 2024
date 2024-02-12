@@ -1,9 +1,9 @@
 modifications:
 - action: ADD
-	parentCode: RYF-BIZ-WZJ
-	parentName: Brottslighet
-	name: Civil olydnad
-	level: 3
+  parentCode: RYF-BIZ-WZJ
+  parentName: Brottslighet
+  name: Civil olydnad
+  level: 3
   description: En form av aktivism som går ut på att öppet och utan våld bryta mot en lag eller vägra att följa vissa myndighetsbeslut samt att vara beredd att ta konsekvenserna av handlingen
 
 - action: ADD
