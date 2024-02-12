@@ -217,51 +217,51 @@ modifications:
   description: Benämning på väderlek med kraftig nederbörd och hård vind
 
 - action: UPDATE
-  Code: RYF-IXA-KEV-GZI
-  Name: Egenföretagande
-  New name: Företagande
+  code: RYF-IXA-KEV-GZI
+  name: Egenföretagande
+  new name: Företagande
   description: Driften av ett företag i egen eller annans regi
 
 - action: UPDATE
-  Code: RYF-WUU-YYH-SYF
-  Name: Mödrahälsovård
-  New name: Mödravård
+  code: RYF-WUU-YYH-SYF
+  name: Mödrahälsovård
+  new name: Mödravård
   description: Vård till mödrar som ges av en barnmorska
 
 - action: UPDATE
-  Code: RYF-CUW-LGT-FPF
-  Name: Jubilar
-  New name: Jubileum
+  code: RYF-CUW-LGT-FPF
+  name: Jubilar
+  new name: Jubileum
   description: Då man firar att det gått en viss tid, oftast ett visst antal år, sedan något hände
 
 - action: UPDATE
-  Code: RYF-QPR-HGB-IYN
-  Name: Hundracing
-  New name: Hundsport
+  code: RYF-QPR-HGB-IYN
+  name: Hundracing
+  new name: Hundsport
   description: Fritidsverksamheter med hund
 
 - action: UPDATE
-  Code: RYF-QPR-HGB-CYD
-  Name: Simning
-  New name: Simsport
+  code: RYF-QPR-HGB-CYD
+  name: Simning
+  new name: Simsport
   description: Sport som utförs i vatten, oftast i en simbassäng, där det gäller att simmaren använder sig av ett eller olika simsätt för att snabbast simma en bestämd sträcka
 
 - action: UPDATE
-  Code: RYF-QPR-HGB-DKV
-  Name: Softball
-  New name: Softboll
+  code: RYF-QPR-HGB-DKV
+  name: Softball
+  new name: Softboll
   description: Lagsport som spelas med boll och slagträ
 
 - action: INACTIVATE
-  Code: RYF-VHD-GUZ-SYG-QOA-YIC
-  Name: Extremväder
+  code: RYF-VHD-GUZ-SYG-QOA-YIC
+  name: Extremväder
 
 - action: INACTIVATE
-  Code: RYF-QPR-HGB-DEN-PXP
-  Name: Nationell fotboll
+  code: RYF-QPR-HGB-DEN-PXP
+  name: Nationell fotboll
 
 - action: INACTIVATE
-  Code: RYF-QPR-HGB-EOW-JRT
-  Name: Moto-GP
+  code: RYF-QPR-HGB-EOW-JRT
+  name: Moto-GP
 
 
