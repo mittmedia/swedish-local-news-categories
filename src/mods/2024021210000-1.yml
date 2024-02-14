@@ -30,7 +30,7 @@ modifications:
 - action: ADD
   parentCode: RYF-BIZ-WZJ
   parentName: Brottslighet
-  name: Integritetsbrott
+  name: Olaga integritetsintrång
   level: 3
   description: När det är straffbart att sprida vissa typer av bilder eller andra uppgifter om någon annans privatliv
 
@@ -216,6 +216,13 @@ modifications:
   level: 2
   description: Benämning på väderlek med kraftig nederbörd och hård vind
 
+- action: ADD
+  parentCode: RYF-CUW-LGT
+  parentName: Ceremonier och händelser
+  name: Jubileum
+  level: 3
+  description: Då man firar att det gått en viss tid, oftast ett visst antal år, sedan något hände
+
 - action: UPDATE
   code: RYF-IXA-KEV-GZI
   name: Egenföretagande
@@ -227,12 +234,6 @@ modifications:
   name: Mödrahälsovård
   new name: Mödravård
   description: Vård till mödrar som ges av en barnmorska
-
-- action: UPDATE
-  code: RYF-CUW-LGT-FPF
-  name: Jubilar
-  new name: Jubileum
-  description: Då man firar att det gått en viss tid, oftast ett visst antal år, sedan något hände
 
 - action: UPDATE
   code: RYF-QPR-HGB-IYN
@@ -252,7 +253,7 @@ modifications:
   new name: Softboll
   description: Lagsport som spelas med boll och slagträ
 
-- action: INACTIVATE
+- action: MOVE
   code: RYF-VHD-GUZ-SYG-QOA-YIC
   name: Extremväder
 
@@ -263,5 +264,9 @@ modifications:
 - action: INACTIVATE
   code: RYF-QPR-HGB-EOW-JRT
   name: Moto-GP
+
+- action: INACTIVATE
+  code: RYF-TKT-KXM-ZBA-UKC
+  name: Simning
 
 
