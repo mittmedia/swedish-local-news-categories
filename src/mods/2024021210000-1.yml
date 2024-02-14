@@ -4,7 +4,7 @@ modifications:
   parentName: Brottslighet
   name: Civil olydnad
   level: 3
-  description: En form av aktivism som går ut på att öppet och utan våld bryta mot en lag eller vägra att följa vissa myndighetsbeslut samt att vara beredd att ta konsekvenserna av handlingen
+  description: Aktivism som går ut på att utan våld bryta mot en lag eller vägra att följa myndighetsbeslut samt att vara beredd att ta konsekvenserna av handlingen
 
 - action: ADD
   parentCode: RYF-BIZ-WZJ
@@ -253,10 +253,6 @@ modifications:
   new name: Softboll
   description: Lagsport som spelas med boll och slagträ
 
-- action: MOVE
-  code: RYF-VHD-GUZ-SYG-QOA-YIC
-  name: Extremväder
-
 - action: INACTIVATE
   code: RYF-QPR-HGB-DEN-PXP
   name: Nationell fotboll
@@ -268,5 +264,6 @@ modifications:
 - action: INACTIVATE
   code: RYF-TKT-KXM-ZBA-UKC
   name: Simning
+
 
 
