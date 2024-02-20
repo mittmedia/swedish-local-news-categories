@@ -223,6 +223,259 @@ modifications:
   level: 3
   description: Då man firar att det gått en viss tid, oftast ett visst antal år, sedan något hände
 
+- action: ADD
+  parentCode: RYF-QPR-HGB
+  parentName: Sporter
+  name: Träningsmatch
+  level: 3
+  description: Träningsmatch eller vänskapsmatch är inom sportens värld ett möte mellan två lag eller idrottare, utom officiell tävlan
+
+- action: ADD
+  parentCode: RYF-QPR-HGB
+  parentName: Sporter
+  name: Landskamp
+  level: 3
+  description: Tävlingsmatch mellan två landslag
+
+- action: ADD
+  parentCode: RYF-QPR-HGB
+  parentName: Sporter
+  name: Försäsongsmatch
+  level: 3
+  description: Träningsmatch som spelas inför seriestart
+
+- action: ADD
+  parentCode: RYF-QPR-HGB-OQU-LWB
+  parentName: Elitserien dam
+  name: åttondelsfinal
+  level: 5
+  description: Kval till vidare finalspel
+  
+- action: ADD
+  parentCode: RYF-QPR-HGB-OQU-LWB
+  parentName: Elitserien dam
+  name: Kvartsfinal
+  level: 5
+  description: Kval till vidare finalspel
+
+- action: ADD
+  parentCode: RYF-QPR-HGB-OQU-LWB
+  parentName: Elitserien dam
+  name: Semifinal
+  level: 5
+  description: Kval till vidare finalspel
+
+- action: ADD
+  parentCode: RYF-QPR-HGB-OQU-LWB
+  parentName: Elitserien dam
+  name: Final
+  level: 5
+  description: Slutomgång i cupspel och utslagningsturnering
+
+- action: ADD
+  parentCode: RYF-QPR-HGB-OQU-KCB
+  parentName: Elitserien herr
+  name: åttondelsfinal
+  level: 5
+  description: Kval till vidare finalspel
+  
+- action: ADD
+  parentCode: RYF-QPR-HGB-OQU-KCB
+  parentName: Elitserien herr
+  name: Kvartsfinal
+  level: 5
+  description: Kval till vidare finalspel
+
+- action: ADD
+  parentCode: RYF-QPR-HGB-OQU-KCB
+  parentName: Elitserien herr
+  name: Semifinal
+  level: 5
+  description: Kval till vidare finalspel
+
+- action: ADD
+  parentCode: RYF-QPR-HGB-OQU-KCB
+  parentName: Elitserien herr
+  name: Final
+  level: 5
+  description: Slutomgång i cupspel och utslagningsturnering
+
+- action: ADD
+  parentCode: RYF-QPR-HGB-QHJ-RVU
+  parentName: Superligan dam
+  name: Kvartsfinal
+  level: 5
+  description: Kval till vidare finalspel
+
+- action: ADD
+  parentCode: RYF-QPR-HGB-QHJ-RVU
+  parentName: Superligan dam
+  name: Semifinal
+  level: 5
+  description: Kval till vidare finalspel
+
+- action: ADD
+  parentCode: RYF-QPR-HGB-QHJ-RVU
+  parentName: Superligan dam
+  name: Final
+  level: 5
+  description: Slutomgång i cupspel och utslagningsturnering
+
+- action: ADD
+  parentCode: RYF-QPR-HGB-QHJ-XQM
+  parentName: Superligan herr
+  name: Kvartsfinal
+  level: 5
+  description: Kval till vidare finalspel
+
+- action: ADD
+  parentCode: RYF-QPR-HGB-QHJ-XQM
+  parentName: Superligan herr
+  name: Semifinal
+  level: 5
+  description: Kval till vidare finalspel
+
+- action: ADD
+  parentCode: RYF-QPR-HGB-QHJ-XQM
+  parentName: Superligan herr
+  name: Final
+  level: 5
+  description: Slutomgång i cupspel och utslagningsturnering
+  
+- action: ADD
+  parentCode: RYF-QPR-HGB-WPT
+  parentName: Längdåkning
+  name: Sprint, klassiskt
+  level: 4
+  description: Korta skidlopp i klassisk stil
+
+- action: ADD
+  parentCode: RYF-QPR-HGB-WPT
+  parentName: Längdåkning
+  name: Masstart, klassiskt
+  level: 4
+  description: Skidlopp med gemensam start i klassisk stil
+
+- action: ADD
+  parentCode: RYF-QPR-HGB-WPT
+  parentName: Längdåkning
+  name: Masstart, fristil
+  level: 4
+  description: Skidlopp med gemensam start i fri stil
+
+- action: ADD
+  parentCode: RYF-QPR-HGB-WPT
+  parentName: Längdåkning
+  name: Distans, klassiskt
+  level: 4
+  description: Längre skidlopp i klassisk stil
+
+- action: ADD
+  parentCode: RYF-QPR-HGB-WPT
+  parentName: Längdåkning
+  name: Distans, fristil
+  level: 4
+  description: Längre skidlopp i fri stil
+
+- action: ADD
+  parentCode: RYF-QPR-HGB-WPT
+  parentName: Längdåkning
+  name: Stafett, klassiskt
+  level: 4
+  description: Lagtävling i längdåkning i klassisk stil
+
+- action: ADD
+  parentCode: RYF-QPR-HGB-YKG
+  parentName: Skidskytte
+  name: Sprint
+  level: 4
+  description: Kort skidlopp i skidskytte
+
+- action: ADD
+  parentCode: RYF-QPR-HGB-YKG
+  parentName: Skidskytte
+  name: Masstart
+  level: 4
+  description: Skidlopp i skidskytte med gemensam start
+
+- action: ADD
+  parentCode: RYF-QPR-HGB-YKG
+  parentName: Skidskytte
+  name: Stafett
+  level: 4
+  description: Lagtävling i skidskytte
+
+- action: ADD
+  parentCode: RYF-QPR-HGB-YKG
+  parentName: Skidskytte
+  name: Distans
+  level: 4
+  description: Längre skidlopp i skidskytte
+
+- action: ADD
+  parentCode: RYF-QPR-HGB-YKG
+  parentName: Skidskytte
+  name: Jaktstart
+  level: 4
+  description: Skidlopp i skidskytte med individuell start baserad på tidigare resultat
+
+- action: ADD
+  parentCode: RYF-QPR-HGB-BQN-TQL
+  parentName: Hockeyettan
+  name: Allettan södra
+  level: 5
+  description: Slutspelsserie i Hockeyettan
+
+- action: ADD
+  parentCode: RYF-QPR-HGB-BQN-TQL
+  parentName: Hockeyettan
+  name: Allettan norra
+  level: 5
+  description: Slutspelsserie i Hockeyettan
+
+- action: ADD
+  parentCode: RYF-QPR-HGB-BQN-TQL
+  parentName: Hockeyettan
+  name: Hockeyettan slutspel
+  level: 5
+  description: Slutspelsserie i Hockeyettan
+
+- action: MOVE
+  code: RYF-QPR-HGB-BQN-GID
+  name: Hockeyettan Norra vår
+  newParentCode: RYF-QPR-HGB-BQN-TQL
+  newParentName: Hockeyettan
+
+- action: MOVE
+  code: RYF-QPR-HGB-BQN-EMJ
+  name: Hockeyettan Södra vår
+  newParentCode: RYF-QPR-HGB-BQN-TQL
+  newParentName: Hockeyettan
+
+- action: MOVE
+  code: RYF-QPR-HGB-BQN-PYW
+  name: Hockeyettan Västra vår
+  newParentCode: RYF-QPR-HGB-BQN-TQL
+  newParentName: Hockeyettan
+
+- action: MOVE
+  code: RYF-QPR-HGB-BQN-ZJY
+  name: Hockeyettan Östra vår
+  newParentCode: RYF-QPR-HGB-BQN-TQL
+  newParentName: Hockeyettan
+
+- action: UPDATE
+  code: RYF-QPR-HGB-WPT-FUC
+  name: Sprint
+  new name: Sprint, fri stil
+  description: Kort skidlopp i fri stil
+
+- action: UPDATE
+  code: RYF-QPR-HGB-WPT-DOS
+  name: Stafett
+  new name: Stafett, fri stil
+  description: Lagtävling i längdåkning i fri stil
+
 - action: UPDATE
   code: RYF-IXA-KEV-GZI
   name: Egenföretagande
