@@ -18,8 +18,15 @@
   new name: SSL dam
   description: Högsta svenska damligan i innebandy
 
-  - action: UPDATE
+- action: UPDATE
   code: RYF-QPR-HGB-QHJ-XQM
   name: Superligan herr
   new name: SSL herr
   description: Högsta svenska herrligan i innebandy
+
+- action: UPDATE
+  code: RYF-QPR-HGB-WPT
+  name: Längdåkning
+  new name: Längdskidåkning
+  description: Längdåkning, längdskidåkning eller skidlöpning är skidåkning där man rör sig över snö med egen kraft, ofta i preparerade spår i varierande terräng
+
