@@ -510,25 +510,25 @@ modifications:
   code: RYF-QPR-HGB-BQN-TQL-DCL
   name: Norra
   new name: Hockeyettan norra
-  description: Division i ishockey
+  description: Division i Hockeyettan
 
 - action: UPDATE
   code: RYF-QPR-HGB-BQN-TQL-DHE
   name: Södra
   new name: Hockeyettan södra
-  description: Division i ishockey
+  description: Division i Hockeyettan
 
 - action: UPDATE
   code: RYF-QPR-HGB-BQN-TQL-MCK
   name: Västra
   new name: Hockeyettan västra
-  description: Division i ishockey
+  description: Division i Hockeyettan
 
 - action: UPDATE
   code: RYF-QPR-HGB-BQN-TQL-YGC
   name: Östra
   new name: Hockeyettan östra
-  description: Division i ishockey
+  description: Division i Hockeyettan
 
 - action: INACTIVATE
   code: RYF-QPR-HGB-DEN-PXP
