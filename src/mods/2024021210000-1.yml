@@ -440,29 +440,29 @@ modifications:
   level: 5
   description: Slutspelsserie i Hockeyettan
 
-- action: MOVE
+- action: UPDATE
   code: RYF-QPR-HGB-BQN-GID
   name: Hockeyettan Norra vår
-  newParentCode: RYF-QPR-HGB-BQN-TQL
-  newParentName: Hockeyettan
+  new name: Hockeyettan norra vår
+  description: Slutspelsserie i Hockeyettan
 
-- action: MOVE
+- action: UPDATE
   code: RYF-QPR-HGB-BQN-EMJ
   name: Hockeyettan Södra vår
-  newParentCode: RYF-QPR-HGB-BQN-TQL
-  newParentName: Hockeyettan
+  new name: Hockeyettan södra vår
+  description: Slutspelsserie i Hockeyettan
 
-- action: MOVE
+- action: UPDATE
   code: RYF-QPR-HGB-BQN-PYW
   name: Hockeyettan Västra vår
-  newParentCode: RYF-QPR-HGB-BQN-TQL
-  newParentName: Hockeyettan
+  new name: Hockeyettan västra vår
+  description: Slutspelsserie i Hockeyettan
 
-- action: MOVE
+- action: UPDATE
   code: RYF-QPR-HGB-BQN-ZJY
   name: Hockeyettan Östra vår
-  newParentCode: RYF-QPR-HGB-BQN-TQL
-  newParentName: Hockeyettan
+  new name: Hockeyettan östra vår
+  description: Slutspelsserie i Hockeyettan
 
 - action: UPDATE
   code: RYF-QPR-HGB-WPT-FUC
@@ -505,6 +505,30 @@ modifications:
   name: Softball
   new name: Softboll
   description: Lagsport som spelas med boll och slagträ
+
+- action: UPDATE
+  code: RYF-QPR-HGB-BQN-TQL-DCL
+  name: Norra
+  new name: Hockeyettan norra
+  description: Division i ishockey
+
+- action: UPDATE
+  code: RYF-QPR-HGB-BQN-TQL-DHE
+  name: Södra
+  new name: Hockeyettan södra
+  description: Division i ishockey
+
+- action: UPDATE
+  code: RYF-QPR-HGB-BQN-TQL-MCK
+  name: Västra
+  new name: Hockeyettan västra
+  description: Division i ishockey
+
+- action: UPDATE
+  code: RYF-QPR-HGB-BQN-TQL-YGC
+  name: Östra
+  new name: Hockeyettan östra
+  description: Division i ishockey
 
 - action: INACTIVATE
   code: RYF-QPR-HGB-DEN-PXP
