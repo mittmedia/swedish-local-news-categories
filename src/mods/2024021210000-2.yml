@@ -1,3 +1,29 @@
+Modifications:
+
+- action: MOVE
+  code: RYF-QPR-HGB-BQN-TQL-DCL
+  name: Hockeyettan norra 
+  newParentCode: RYF-QPR-HGB-BQN
+  description: Slutspelsserie i Hockeyettan
+
+- action: MOVE
+  code: RYF-QPR-HGB-BQN-TQL-DHE
+  name: Hockeyettan södra 
+  newParentCode: RYF-QPR-HGB-BQN
+  description: Slutspelsserie i Hockeyettan
+
+- action: MOVE
+  code: RYF-QPR-HGB-BQN-TQL-MCK
+  name: Hockeyettan västra 
+  newParentCode: RYF-QPR-HGB-BQN
+  description: Slutspelsserie i Hockeyettan
+
+- action: MOVE
+  code: RYF-QPR-HGB-BQN-TQL
+  name: Hockeyettan Östra 
+  newParentCode: RYF-QPR-HGB-BQN-TQL
+  description: Slutspelsserie i Hockeyettan
+
 - action: ADD
   parentCode: RYF-XRZ-XXX
   parentName: Körkort
