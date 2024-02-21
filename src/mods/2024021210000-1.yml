@@ -224,21 +224,21 @@ modifications:
   description: Då man firar att det gått en viss tid, oftast ett visst antal år, sedan något hände
 
 - action: ADD
-  parentCode: RYF-QPR-HGB
+  parentCode: RYF-QPR
   parentName: Sporter
   name: Träningsmatch
   level: 3
   description: Träningsmatch eller vänskapsmatch är inom sportens värld ett möte mellan två lag eller idrottare, utom officiell tävlan
 
 - action: ADD
-  parentCode: RYF-QPR-HGB
+  parentCode: RYF-QPR
   parentName: Sporter
   name: Landskamp
   level: 3
   description: Tävlingsmatch mellan två landslag
 
 - action: ADD
-  parentCode: RYF-QPR-HGB
+  parentCode: RYF-QPR
   parentName: Sporter
   name: Försäsongsmatch
   level: 3
