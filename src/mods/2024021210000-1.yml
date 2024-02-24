@@ -112,10 +112,10 @@ modifications:
   description: Strategi för att balansera hela eller delar av sin klimatpåverkan genom växthusgaskrediter
 
 - action: ADD
-  parentCode: RYF-WXT
-  parentName: Konflikter och krig
+  parentCode: RYF-AKM-JXU
+  parentName: Krisberedskap
   name: Preppning
-  level: 2
+  level: 3
   description: Att förbereda sig för möjliga framtida avbrott i lokal, regional, nationell eller internationell social eller politisk ordning
 
 - action: ADD
