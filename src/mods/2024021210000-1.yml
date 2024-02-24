@@ -495,13 +495,13 @@ modifications:
 - action: UPDATE
   code: RYF-QPR-HGB-WPT-FUC
   name: Sprint
-  new name: Sprint, fri stil
+  new name: Sprint, fristil
   description: Kort skidlopp i fri stil
 
 - action: UPDATE
   code: RYF-QPR-HGB-WPT-DOS
   name: Stafett
-  new name: Stafett, fri stil
+  new name: Stafett, fristil
   description: Lagtävling i längdåkning i fri stil
 
 - action: UPDATE
