@@ -224,6 +224,34 @@ modifications:
   description: Då man firar att det gått en viss tid, oftast ett visst antal år, sedan något hände
 
 - action: ADD
+  parentCode: RYF-WUU-QNB-LKJ
+  parentName: Läkemedel
+  name: Avancerade läkemedelsterapier (ATMP)
+  level: 4
+  description: Avancerade terapiläkemedel (eng. Advanced Therapy Medicinal Products – ATMP), baseras på celler, vävnader eller gener
+
+- action: ADD
+  parentCode: RYF-WUU-QNB-LKJ
+  parentName: Läkemedel
+  name: Farmaci
+  level: 4
+  description: Farmaci (grekiska, läkemedel) är ett yrkesområde som kopplar samman hälsovetenskaper med de kemiska vetenskaperna
+
+- action: ADD
+  parentCode: RYF-WUU
+  parentName: Hälsa och sjukvård
+  name: Hälsodata
+  level: 2
+  description: Data om enskilda personers hälsa
+
+- action: ADD
+  parentCode: RYF-EOI-DOE
+  parentName: Forskning
+  name: Klinisk forskning
+  level: 3
+  description: Klinisk forskning är en gren inom hälso- och sjukvårdsvetenskapen som bestämmer säkerheten och effektiviteten hos medicinsk utrusnting
+  
+- action: ADD
   parentCode: RYF-QPR
   parentName: Sporter
   name: Träningsmatch
@@ -530,6 +558,12 @@ modifications:
   new name: Hockeyettan östra
   description: Division i Hockeyettan
 
+- action: UPDATE
+  code: RYF-IXA-KEV-BEL-SMN
+  name: AI-teknik
+  new name: Artificiell intelligens (AI)
+  description: Förmågan hos datorprogram och robotar att efterlikna människors och andra djurs naturliga intelligens
+  
 - action: INACTIVATE
   code: RYF-QPR-HGB-DEN-PXP
   name: Nationell fotboll
