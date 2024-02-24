@@ -84,7 +84,7 @@ modifications:
   description: En lag om att personalen måste anmäla missförhållanden inom omsorger om äldre människor eller människor med funktionsnedsättning
 
 - action: ADD
-  parentCode: RYF-BIZRYF-IXA-KEV-RQL
+  parentCode: RYF-IXA-KEV-RQL
   parentName: Handel
   name: Marknad (Evenemang)
   level: 4
