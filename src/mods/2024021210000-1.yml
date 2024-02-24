@@ -253,21 +253,21 @@ modifications:
   
 - action: ADD
   parentCode: RYF-QPR
-  parentName: Sporter
+  parentName: Sport
   name: Träningsmatch
   level: 2
   description: Träningsmatch eller vänskapsmatch är inom sportens värld ett möte mellan två lag eller idrottare, utom officiell tävlan
 
 - action: ADD
   parentCode: RYF-QPR
-  parentName: Sporter
+  parentName: Sport
   name: Landskamp
   level: 2
   description: Tävlingsmatch mellan två landslag
 
 - action: ADD
   parentCode: RYF-QPR
-  parentName: Sporter
+  parentName: Sport
   name: Försäsongsmatch
   level: 2
   description: Träningsmatch som spelas inför seriestart
