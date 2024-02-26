@@ -468,6 +468,54 @@ modifications:
   level: 5
   description: Slutspelsserie i Hockeyettan
 
+- action: MOVE
+  code: RYF-QPR-HGB-DNB-DJO
+  name: F3000 
+  newParentCode: RYF-QPR-HGB-EOW
+  newParentName: Motorcykelsport
+
+- action: MOVE
+  code: RYF-QPR-HGB-DNB-LBO
+  name: Folkrace 
+  newParentCode: RYF-QPR-HGB-EOW
+  newParentName: Motorcykelsport
+
+- action: MOVE
+  code: RYF-QPR-HGB-DNB-PDE
+  name: Formel 1
+  newParentCode: RYF-QPR-HGB-EOW
+  newParentName: Motorcykelsport
+
+- action: MOVE
+  code: RYF-QPR-HGB-DNB-LOH
+  name: Indycar 
+  newParentCode: RYF-QPR-HGB-EOW
+  newParentName: Motorcykelsport
+
+- action: MOVE
+  code: RYF-QPR-HGB-DNB-TBT
+  name: Karting 
+  newParentCode: RYF-QPR-HGB-EOW
+  newParentName: Motorcykelsport
+
+- action: MOVE
+  code: RYF-QPR-HGB-DNB-FHE
+  name: Rally
+  newParentCode: RYF-QPR-HGB-EOW
+  newParentName: Motorcykelsport
+
+- action: MOVE
+  code: RYF-QPR-HGB-DNB-UDJ
+  name: Rallycross
+  newParentCode: RYF-QPR-HGB-EOW
+  newParentName: Motorcykelsport
+
+- action: MOVE
+  code: RYF-QPR-HGB-DNB-XJL
+  name: Uthållighetsrace
+  newParentCode: RYF-QPR-HGB-EOW
+  newParentName: Motorcykelsport
+
 - action: UPDATE
   code: RYF-QPR-HGB-BQN-GID
   name: Hockeyettan Norra vår
