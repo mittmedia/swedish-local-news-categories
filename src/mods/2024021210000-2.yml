@@ -1,5 +1,55 @@
 modifications:
-- action: UPDATE
-  code: RYF-QPR-HGB-DNB-XXX
+- action: MOVE
+  code: RYF-QPR-HGB-DNB-DJO
   name: F3000 
-  new name: Formel 2
+  newParentCode: RYF-QPR-HGB-EOW
+  newParentName: Motorcykelsport
+  description: Formel 2, FIA Formula Two Championship, förkortat F2 är en formelbilsklass strax under racingens huvudklass formel 1
+
+- action: MOVE
+  code: RYF-QPR-HGB-DNB-LBO
+  name: Folkrace 
+  newParentCode: RYF-QPR-HGB-EOW
+  newParentName: Motorcykelsport
+  description: Folkrace körs på banor av grus eller asfalt med täckta bilar som är typbesiktigade i Sverige. Maxhastigheten ska inte överstiga 80 km/timme
+
+- action: MOVE
+  code: RYF-QPR-HGB-DNB-PDE
+  name: Formel 1
+  newParentCode: RYF-QPR-HGB-EOW
+  newParentName: Motorcykelsport
+  description: Formel 1, förkortat F1, är tävlingar på asfalterade banor med ensitsiga formelbilar
+
+- action: MOVE
+  code: RYF-QPR-HGB-DNB-LOH
+  name: Indycar 
+  newParentCode: RYF-QPR-HGB-EOW
+  newParentName: Motorcykelsport
+  description: IndyCar är en formelbilsserie med snabba, öppna hjulfordon som tävlar på både banor i Nordamerika
+
+- action: MOVE
+  code: RYF-QPR-HGB-DNB-TBT
+  name: Karting 
+  newParentCode: RYF-QPR-HGB-EOW
+  newParentName: Motorcykelsport
+  description: Bilsport som körs på en asfaltbana, med en liten snabb specialbyggd bil
+
+- action: MOVE
+  code: RYF-QPR-HGB-DNB-FHE
+  name: Rally
+  newParentCode: RYF-QPR-HGB-EOW
+  newParentName: Motorcykelsport
+  description: Motorsportstävling som körs på längre så kallade specialsträckor, som är vanliga vägar avstängda för annan trafik, och där det gäller att ta sig från start till mål på kortast möjliga tid
+
+- action: MOVE
+  code: RYF-QPR-HGB-DNB-UDJ
+  name: Rallycross
+  newParentCode: RYF-QPR-HGB-EOW
+  newParentName: Motorcykelsport
+  description: Hastighetstävling med specialutrustade bilar på sluten bana med grus- och asfaltsunderlag
+
+- action: MOVE
+  code: RYF-QPR-HGB-DNB-XJL
+  name: Uthållighetsrace
+  newParentCode: RYF-QPR-HGB-EOW
+  newParentName: Uthållighetsrace är långvariga biltävlingar där team kör non-stop under flera timmar eller till och med dagar, som Le Mans 24-timmars och Rolex 24 at Daytona
