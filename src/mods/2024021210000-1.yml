@@ -70,6 +70,13 @@ modifications:
   description: Ett äktenskap som ingås trots att endera eller båda parterna inte vill det eller ett äktenskap som ingås med stor inblandning av andra än det blivande äkta paret
 
 - action: ADD
+  parentCode: RYF-WXT-UUC
+  parentName: Försvar
+  name: Civilförsvar
+  level: 4
+  description: Utförandet av humanitära uppgifterna för att skydda civilbefolkningen vid krig eller katastrofer
+
+- action: ADD
   parentCode: RYF-BIZ-XYS
   parentName: Lagar och regler
   name: Lex Maria
