@@ -469,6 +469,12 @@ modifications:
   description: Slutspelsserie i Hockeyettan
 
 - action: UPDATE
+  code: RYF-QPR-HGB-DNB-XXX
+  name: F3000 
+  new name: Formel 2
+  description: Formelbilsklass strax under racingens huvudklass formel 1
+
+- action: UPDATE
   code: RYF-QPR-HGB-BQN-GID
   name: Hockeyettan Norra vår
   new name: Hockeyettan norra vår
