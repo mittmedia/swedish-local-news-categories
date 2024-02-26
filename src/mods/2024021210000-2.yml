@@ -43,6 +43,12 @@ Modifications:
   description: En hundsport där hunden skall springa en hinderbana och forcera hindren i rätt följd och på rätt sätt och som vid tävlingar skall genomföras på tid
 
 - action: UPDATE
+  code: RYF-QPR-HGB-EOW
+  name: Motorcykelsport
+  new name: Motorsport
+  description: Motorsport, sport som bedrivs med motordrivna fordon som bil, motorcykel (mc), racerbåt och flygplan
+
+- action: UPDATE
   code: RYF-QPR-HGB-QHJ-RVU
   name: Superligan dam
   new name: SSL dam
@@ -59,4 +65,8 @@ Modifications:
   name: Längdåkning
   new name: Längdskidåkning
   description: Längdåkning, längdskidåkning eller skidlöpning är skidåkning där man rör sig över snö med egen kraft, ofta i preparerade spår i varierande terräng
+
+- action: INACTIVATE
+  code: RYF-QPR-HGB-DNB
+  name: Bilsport
 
