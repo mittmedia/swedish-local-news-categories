@@ -580,6 +580,10 @@ modifications:
 - action: INACTIVATE
   code: RYF-QPR-HGB-DEN-PXP
   name: Nationell fotboll
+  
+- action: INACTIVATE
+  code: RYF-QPR-HGB-DEN-FLS
+  name: Nationella ligan
 
 - action: INACTIVATE
   code: RYF-QPR-HGB-EOW-JRT
