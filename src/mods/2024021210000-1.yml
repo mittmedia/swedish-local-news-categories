@@ -576,14 +576,14 @@ modifications:
   name: AI-teknik
   new name: Artificiell intelligens (AI)
   description: Förmågan hos datorprogram och robotar att efterlikna människors och andra djurs naturliga intelligens
+
+- action: INACTIVATE
+  code: RYF-QPR-HGB-DEN-CLH
+  name: Damtvåan
   
 - action: INACTIVATE
   code: RYF-QPR-HGB-DEN-PXP
   name: Nationell fotboll
-  
-- action: INACTIVATE
-  code: RYF-QPR-HGB-DEN-FLS
-  name: Nationella ligan
 
 - action: INACTIVATE
   code: RYF-QPR-HGB-EOW-JRT
@@ -592,6 +592,28 @@ modifications:
 - action: INACTIVATE
   code: RYF-TKT-KXM-ZBA-UKC
   name: Simning
+
+- action: INACTIVATE
+  code: RYF-QPR-HGB-BQN-UPU
+  name: Förkval till Kvalserien till Hockeytvåan västra
+
+- action: INACTIVATE
+  code: RYF-QPR-HGB-BQN-CWF
+  name: Förkval till Play Off till SDHL
+
+- action: INACTIVATE
+  code: RYF-QPR-HGB-BQN-DNB
+  name: Kvalserien
+
+- action: INACTIVATE
+  code: RYF-QPR-HGB-BQN-NUD
+  name: Kvalserien Hockeyettan västra
+
+- action: INACTIVATE
+  code: RYF-QPR-HGB-BQN-GTT
+  name: Play off till Kvalserien Hockeyettan västra
+
+
 
 
 
