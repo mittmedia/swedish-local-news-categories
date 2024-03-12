@@ -475,6 +475,32 @@ modifications:
   level: 5
   description: Slutspelsserie i Hockeyettan
 
+- action: ADD
+  parentCode: RYF-IXA-KEV-VSA
+  parentName: Naturbruk
+  name: Lantbruk
+  level: 4
+  description: Växtodling och boskapsskötsel i kombination med skogsbruk
+
+- action: ADD
+  parentCode: RYF-HPT-NLP-IGT
+  parentName: Solenergi
+  name: Solel
+  level: 4
+  description: Omvandlandet av solljus till användbar elektricitet 
+
+- action: UPDATE
+  code: RYF-XRZ-ITR-YOE
+  name: Semieutonom bil
+  new name: Semiautonomt fordon
+  description: Bilar med inbyggda förarstödsystem, som adaptiv fartkontroll
+
+- action: UPDATE
+  code: RYF-XRZ-ITR-KIY
+  name: Självkörande bil
+  new name: Självkörande fordon
+  description: En självkörande bil är kapabel att avkänna dess omgivning och navigera utan mänsklig inmatning
+  
 - action: UPDATE
   code: RYF-QPR-HGB-DNB-DJO
   name: F3000 
@@ -577,6 +603,11 @@ modifications:
   new name: Artificiell intelligens (AI)
   description: Förmågan hos datorprogram och robotar att efterlikna människors och andra djurs naturliga intelligens
 
+- action: UPDATE
+  code: RYF-IXA-KEV-VSA-GTD
+  name: Jordbruk
+  description: Växtodling och boskapsskötsel
+  
 - action: INACTIVATE
   code: RYF-QPR-HGB-DEN-CLH
   name: Damtvåan
