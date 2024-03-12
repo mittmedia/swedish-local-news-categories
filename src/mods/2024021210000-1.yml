@@ -644,6 +644,18 @@ modifications:
   code: RYF-QPR-HGB-BQN-GTT
   name: Play off till Kvalserien Hockeyettan västra
 
+- action: MOVE
+  code: RYF-WXT-ZOF
+  name: Folkmord
+  newParentCode: RYF-BIZ-WZJ
+  newParentName: Brottslighet
+
+- action: MOVE
+  code: RYF-WXT-PJE-HVD
+  name: Fredsbevarande styrkor
+  newParentCode: RYF-WXT-OJB
+  newParentName: Fredsprocess
+
 
 
 
