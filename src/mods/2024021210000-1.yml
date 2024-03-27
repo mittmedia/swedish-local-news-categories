@@ -476,6 +476,48 @@ modifications:
   description: Slutspelsserie i Hockeyettan
 
 - action: ADD
+  parentCode: RYF-QPR-HGB-DEN
+  parentName: Fotboll
+  name: Elitcupen västra herr
+  level: 4
+  description: Fotbollscup
+
+- action: ADD
+  parentCode: RYF-QPR-HGB-DEN
+  parentName: Fotboll
+  name: P16 Allsvenskan mellersta herrar
+  level: 4
+  description: Fotbollsserie
+  
+- action: ADD
+  parentCode:   RYF-QPR-HGB-DEN-CWD
+  parentName: Division 6 herr
+  name: Mark
+  level: 5
+  description: Fotbollsserie
+
+- action: ADD
+  parentCode:   RYF-QPR-HGB-DEN-CWD
+  parentName: Division 6 herr
+  name: Vara
+  level: 5
+  description: Fotbollsserie
+
+- action: ADD
+  parentCode:   RYF-QPR-HGB-DEN-SZC
+  parentName: Division 4 dam
+  name: Västergötland mellersta
+  level: 5
+  description: Fotbollsserie
+
+- action: ADD
+  parentCode:   RYF-QPR-HGB-DEN-GHJ
+  parentName: Division 5 dam
+  name: Västergötland södra
+  level: 5
+  description: Fotbollsserie
+
+- action: ADD
   parentCode: RYF-IXA-KEV-VSA
   parentName: Naturbruk
   name: Lantbruk
