@@ -531,6 +531,13 @@ modifications:
   level: 4
   description: Omvandlandet av solljus till användbar elektricitet 
 
+- action: ADD
+  parentCode: RYF-QPR-HGB-DEN-HKY
+  parentName: Division 3 herr
+  name: mellersta Svealand
+  level: 5
+  description: Fotbollsserie
+
 - action: UPDATE
   code: RYF-XRZ-ITR-YOE
   name: Semieutonom bil
