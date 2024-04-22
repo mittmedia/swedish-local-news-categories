@@ -24,6 +24,11 @@ categories:
   level: 3
   name: Industribrand
   status: ACTIVE
+- code: RYF-AKM-AUE-MJD
+  description: ''
+  level: 3
+  name: Eldningsförbud
+  status: ACTIVE
 - code: RYF-AKM-AUE-MPZ
   description: ''
   level: 3
@@ -49,6 +54,11 @@ categories:
   level: 2
   name: Krisberedskap
   replaces: RYF-HPT-ONC
+  status: ACTIVE
+- code: RYF-AKM-JXU-YSJ
+  description: ''
+  level: 3
+  name: Preppning
   status: ACTIVE
 - code: RYF-AKM-MRE
   description: ''
@@ -409,6 +419,11 @@ categories:
   level: 3
   name: Vållande till annans död
   status: ACTIVE
+- code: RYF-BIZ-WZJ-CSK
+  description: ''
+  level: 3
+  name: Skyddande av brottsling
+  status: ACTIVE
 - code: RYF-BIZ-WZJ-CXJ
   description: ''
   level: 3
@@ -467,6 +482,11 @@ categories:
   level: 4
   name: Hastighetsöverträdelse
   status: ACTIVE
+- code: RYF-BIZ-WZJ-EMX
+  description: ''
+  level: 3
+  name: Olaga tvång
+  status: ACTIVE
 - code: RYF-BIZ-WZJ-GNO
   description: ''
   level: 3
@@ -524,6 +544,11 @@ categories:
   level: 4
   name: Dataintrång
   status: ACTIVE
+- code: RYF-BIZ-WZJ-GVR
+  description: ''
+  level: 3
+  name: Fornminnesbrott
+  status: ACTIVE
 - code: RYF-BIZ-WZJ-HQH
   description: ''
   level: 3
@@ -566,6 +591,12 @@ categories:
   level: 4
   name: Allmänfarlig ödeläggelse
   status: ACTIVE
+- code: RYF-BIZ-WZJ-ITE
+  description: Avsiktliga och systematiska handlingar i syfte att helt eller delvis förinta en etnisk, religiös eller nationell grupp
+  level: 3
+  name: Folkmord
+  replaces: RYF-WXT-ZOF
+  status: ACTIVE
 - code: RYF-BIZ-WZJ-JDU
   description: Person som missbrukar offentlig makt för privat vinning
   level: 3
@@ -580,6 +611,11 @@ categories:
   description: ''
   level: 4
   name: Trolöshet mot huvudman
+  status: ACTIVE
+- code: RYF-BIZ-WZJ-KBF
+  description: ''
+  level: 3
+  name: Tvångsäktenskap
   status: ACTIVE
 - code: RYF-BIZ-WZJ-KLS
   description: ''
@@ -682,6 +718,16 @@ categories:
   level: 4
   name: Artskyddsbrott
   status: ACTIVE
+- code: RYF-BIZ-WZJ-OOE
+  description: ''
+  level: 3
+  name: Egenmäktigt förfarande
+  status: ACTIVE
+- code: RYF-BIZ-WZJ-OQV
+  description: ''
+  level: 3
+  name: Olaga integritetsintrång
+  status: ACTIVE
 - code: RYF-BIZ-WZJ-OUB
   description: ''
   level: 3
@@ -702,6 +748,11 @@ categories:
   level: 4
   name: Människohandel
   replaces: RYF-HPT-THK-DPO
+  status: ACTIVE
+- code: RYF-BIZ-WZJ-PWU
+  description: ''
+  level: 3
+  name: Civil olydnad
   status: ACTIVE
 - code: RYF-BIZ-WZJ-QJO
   description: ''
@@ -888,6 +939,11 @@ categories:
   name: Bedrägeri
   replacedBy: RYF-BIZ-WZJ-RPI-UBX
   status: INACTIVE
+- code: RYF-BIZ-WZJ-TYX
+  description: ''
+  level: 3
+  name: Sprängdåd
+  status: ACTIVE
 - code: RYF-BIZ-WZJ-TZC
   description: ''
   level: 3
@@ -934,6 +990,11 @@ categories:
   level: 3
   name: Sexualbrott
   status: ACTIVE
+- code: RYF-BIZ-WZJ-XEY-CKJ
+  description: ''
+  level: 4
+  name: Sexköpsbrott
+  status: ACTIVE
 - code: RYF-BIZ-WZJ-XEY-EXA
   description: ''
   level: 4
@@ -969,6 +1030,11 @@ categories:
   level: 3
   name: Hatbrott
   replaces: RYF-HPT-WYD
+  status: ACTIVE
+- code: RYF-BIZ-WZJ-ZYJ
+  description: ''
+  level: 3
+  name: Hets mot folkgrupp
   status: ACTIVE
 - code: RYF-BIZ-XQN
   description: ''
@@ -1218,6 +1284,11 @@ categories:
   level: 3
   name: Allemansrätt
   status: ACTIVE
+- code: RYF-BIZ-XYS-JUM
+  description: ''
+  level: 3
+  name: Lex Maria
+  status: ACTIVE
 - code: RYF-BIZ-XYS-LGU
   description: ''
   level: 3
@@ -1237,6 +1308,11 @@ categories:
   description: ''
   level: 3
   name: Hälso- och sjukvårdslagen
+  status: ACTIVE
+- code: RYF-BIZ-XYS-WUM
+  description: ''
+  level: 3
+  name: Lex Sarah
   status: ACTIVE
 - code: RYF-BIZ-XYS-YOM
   description: ''
@@ -1758,6 +1834,11 @@ categories:
   description: ''
   level: 3
   name: Jubilar
+  status: ACTIVE
+- code: RYF-CUW-LGT-FSJ
+  description: ''
+  level: 3
+  name: Jubileum
   status: ACTIVE
 - code: RYF-CUW-LGT-HBG
   description: ''
@@ -2459,6 +2540,11 @@ categories:
   level: 3
   name: Vetenskaplig rapport
   status: ACTIVE
+- code: RYF-EOI-DOE-MXU
+  description: ''
+  level: 3
+  name: Klinisk forskning
+  status: ACTIVE
 - code: RYF-EOI-DOE-PMA
   description: ''
   level: 3
@@ -2890,6 +2976,11 @@ categories:
   level: 3
   name: Solenergi
   status: ACTIVE
+- code: RYF-HPT-NLP-IGT-CFL
+  description: ''
+  level: 4
+  name: Solel
+  status: ACTIVE
 - code: RYF-HPT-NLP-IGT-TRQ
   description: ''
   level: 4
@@ -2915,6 +3006,11 @@ categories:
   description: ''
   level: 3
   name: Energieffektivisering
+  status: ACTIVE
+- code: RYF-HPT-NLP-MOH
+  description: ''
+  level: 3
+  name: Vedeldning
   status: ACTIVE
 - code: RYF-HPT-NLP-MOY
   description: ''
@@ -3363,6 +3459,11 @@ categories:
   level: 3
   name: Missbruk
   replaces: RYF-HPT-XRQ-FPB-HEJ
+  status: ACTIVE
+- code: RYF-HPT-TVG-IPM
+  description: ''
+  level: 3
+  name: Nattvandring
   status: ACTIVE
 - code: RYF-HPT-TVG-RLJ
   description: ''
@@ -5422,7 +5523,7 @@ categories:
 - code: RYF-IXA-KEV-BEL-SMN
   description: ''
   level: 4
-  name: AI-teknik
+  name: Artificiell intelligens (AI)
   status: ACTIVE
 - code: RYF-IXA-KEV-BEL-TMN
   description: ''
@@ -5699,7 +5800,7 @@ categories:
 - code: RYF-IXA-KEV-GZI
   description: ''
   level: 3
-  name: Egenföretagande
+  name: Företagande
   status: ACTIVE
 - code: RYF-IXA-KEV-HBV
   description: ''
@@ -6578,6 +6679,11 @@ categories:
   level: 5
   name: Matpris
   status: ACTIVE
+- code: RYF-IXA-KEV-RQL-RBA
+  description: ''
+  level: 4
+  name: Marknad (Evenemang)
+  status: ACTIVE
 - code: RYF-IXA-KEV-RQL-TCU
   description: ''
   level: 4
@@ -7299,6 +7405,11 @@ categories:
   description: ''
   level: 4
   name: Fiskerinäring
+  status: ACTIVE
+- code: RYF-IXA-KEV-VSA-WUT
+  description: ''
+  level: 4
+  name: Lantbruk
   status: ACTIVE
 - code: RYF-IXA-KEV-VXX
   description: Medlen för att komma från en plats till en annan utan att gå
@@ -9778,10 +9889,20 @@ categories:
   level: 1
   name: Sport
   status: ACTIVE
+- code: RYF-QPR-CEG
+  description: ''
+  level: 2
+  name: Försäsongsmatch
+  status: ACTIVE
 - code: RYF-QPR-DBC
   description: Kommersiella frågor som beror idrott, exempelvis tv-avtal, sponsoravtal, eller förvärv av klubbar
   level: 2
   name: Sportindustri och ekonomiska affärer
+  status: ACTIVE
+- code: RYF-QPR-DYH
+  description: ''
+  level: 2
+  name: Landskamp
   status: ACTIVE
 - code: RYF-QPR-EHD
   description: ''
@@ -10021,6 +10142,7 @@ categories:
   name: Södra
   status: ACTIVE
 - code: RYF-QPR-HGB-BAH-FYD
+  description: ''
   level: 4
   name: FM-ligan
   status: ACTIVE
@@ -10178,12 +10300,12 @@ categories:
   description: ''
   level: 4
   name: Förkval till Play Off till SDHL
-  status: ACTIVE
+  status: INACTIVE
 - code: RYF-QPR-HGB-BQN-DNB
   description: ''
   level: 4
   name: Kvalserien
-  status: ACTIVE
+  status: INACTIVE
 - code: RYF-QPR-HGB-BQN-DNM
   description: ''
   level: 4
@@ -10197,7 +10319,7 @@ categories:
 - code: RYF-QPR-HGB-BQN-EMJ
   description: ''
   level: 4
-  name: Hockeyettan Södra vår
+  name: Hockeyettan södra vår
   status: ACTIVE
 - code: RYF-QPR-HGB-BQN-EMV
   description: ''
@@ -10213,6 +10335,12 @@ categories:
   description: ''
   level: 4
   name: Play Off till SDHL
+  status: ACTIVE
+- code: RYF-QPR-HGB-BQN-EUG
+  description: ''
+  level: 4
+  name: Hockeyettan västra
+  replaces: RYF-QPR-HGB-BQN-TQL-MCK
   status: ACTIVE
 - code: RYF-QPR-HGB-BQN-EWY
   description: ''
@@ -10257,7 +10385,7 @@ categories:
 - code: RYF-QPR-HGB-BQN-GID
   description: ''
   level: 4
-  name: Hockeyettan Norra vår
+  name: Hockeyettan norra vår
   status: ACTIVE
 - code: RYF-QPR-HGB-BQN-GIO
   description: ''
@@ -10273,7 +10401,7 @@ categories:
   description: ''
   level: 4
   name: Playoff till Kvalserien Hockeyettan västra
-  status: ACTIVE
+  status: INACTIVE
 - code: RYF-QPR-HGB-BQN-JMG
   description: ''
   level: 4
@@ -10360,6 +10488,7 @@ categories:
   name: Hockeyallsvenskan
   status: ACTIVE
 - code: RYF-QPR-HGB-BQN-MGJ
+  description: ''
   level: 4
   name: FM-ligan
   status: ACTIVE
@@ -10377,6 +10506,12 @@ categories:
   description: ''
   level: 4
   name: Kvalserien Hockeyettan västra
+  status: INACTIVE
+- code: RYF-QPR-HGB-BQN-OCT
+  description: ''
+  level: 4
+  name: Hockeyettan södra
+  replaces: RYF-QPR-HGB-BQN-TQL-DHE
   status: ACTIVE
 - code: RYF-QPR-HGB-BQN-OUI
   description: ''
@@ -10396,7 +10531,7 @@ categories:
 - code: RYF-QPR-HGB-BQN-PYW
   description: ''
   level: 4
-  name: Hockeyettan Västra vår
+  name: Hockeyettan västra vår
   status: ACTIVE
 - code: RYF-QPR-HGB-BQN-QPQ
   description: ''
@@ -10553,6 +10688,12 @@ categories:
   level: 4
   name: Allettan norra
   status: ACTIVE
+- code: RYF-QPR-HGB-BQN-SVR
+  description: ''
+  level: 4
+  name: Hockeyettan östra
+  replaces: RYF-QPR-HGB-BQN-TQL-YGC
+  status: ACTIVE
 - code: RYF-QPR-HGB-BQN-THV
   description: ''
   level: 4
@@ -10638,26 +10779,45 @@ categories:
   level: 4
   name: Hockeyettan
   status: ACTIVE
+- code: RYF-QPR-HGB-BQN-TQL-BMJ
+  description: ''
+  level: 5
+  name: Hockeyettan slutspel
+  status: ACTIVE
 - code: RYF-QPR-HGB-BQN-TQL-DCL
   description: ''
   level: 5
-  name: Norra
-  status: ACTIVE
+  name: Hockeyettan norra
+  replacedBy: RYF-QPR-HGB-BQN-WJE
+  status: INACTIVE
 - code: RYF-QPR-HGB-BQN-TQL-DHE
   description: ''
   level: 5
-  name: Södra
+  name: Hockeyettan södra
+  replacedBy: RYF-QPR-HGB-BQN-OCT
+  status: INACTIVE
+- code: RYF-QPR-HGB-BQN-TQL-IEV
+  description: ''
+  level: 5
+  name: Allettan södra
   status: ACTIVE
 - code: RYF-QPR-HGB-BQN-TQL-MCK
   description: ''
   level: 5
-  name: Västra
+  name: Hockeyettan västra
+  replacedBy: RYF-QPR-HGB-BQN-EUG
+  status: INACTIVE
+- code: RYF-QPR-HGB-BQN-TQL-OYI
+  description: ''
+  level: 5
+  name: Allettan norra
   status: ACTIVE
 - code: RYF-QPR-HGB-BQN-TQL-YGC
   description: ''
   level: 5
-  name: Östra
-  status: ACTIVE
+  name: Hockeyettan östra
+  replacedBy: RYF-QPR-HGB-BQN-SVR
+  status: INACTIVE
 - code: RYF-QPR-HGB-BQN-TRD
   description: ''
   level: 4
@@ -10677,7 +10837,7 @@ categories:
   description: ''
   level: 4
   name: Förkval till Kvalserien till Hockeytvåan västra
-  status: ACTIVE
+  status: INACTIVE
 - code: RYF-QPR-HGB-BQN-VAS
   description: ''
   level: 4
@@ -10813,6 +10973,12 @@ categories:
   level: 4
   name: J18 Elit
   status: INACTIVE
+- code: RYF-QPR-HGB-BQN-WJE
+  description: ''
+  level: 4
+  name: Hockeyettan norra
+  replaces: RYF-QPR-HGB-BQN-TQL-DCL
+  status: ACTIVE
 - code: RYF-QPR-HGB-BQN-WOY
   description: ''
   level: 4
@@ -10841,7 +11007,7 @@ categories:
 - code: RYF-QPR-HGB-BQN-ZJY
   description: ''
   level: 4
-  name: Hockeyettan Östra vår
+  name: Hockeyettan östra vår
   status: ACTIVE
 - code: RYF-QPR-HGB-BQN-ZTJ
   description: ''
@@ -10887,7 +11053,7 @@ categories:
 - code: RYF-QPR-HGB-CYD
   description: ''
   level: 3
-  name: Simning
+  name: Simsport
   status: ACTIVE
 - code: RYF-QPR-HGB-CYD-AED
   description: ''
@@ -11220,9 +11386,10 @@ categories:
   name: Svenska cupen herr
   status: ACTIVE
 - code: RYF-QPR-HGB-DEN-CLH
+  description: ''
   level: 4
   name: Damtvåan
-  status: ACTIVE
+  status: INACTIVE
 - code: RYF-QPR-HGB-DEN-CUG
   description: ''
   level: 4
@@ -11257,6 +11424,11 @@ categories:
   description: ''
   level: 5
   name: Värmland västra
+  status: ACTIVE
+- code: RYF-QPR-HGB-DEN-CWD-BAO
+  description: ''
+  level: 5
+  name: Vara
   status: ACTIVE
 - code: RYF-QPR-HGB-DEN-CWD-BQU
   description: ''
@@ -11543,6 +11715,11 @@ categories:
   level: 5
   name: Trollhättan
   status: ACTIVE
+- code: RYF-QPR-HGB-DEN-CWD-WHU
+  description: ''
+  level: 5
+  name: Mark
+  status: ACTIVE
 - code: RYF-QPR-HGB-DEN-CWD-WPY
   description: ''
   level: 5
@@ -11584,6 +11761,7 @@ categories:
   name: Ångermanland
   status: ACTIVE
 - code: RYF-QPR-HGB-DEN-FLS
+  description: ''
   level: 4
   name: Nationella ligan
   status: ACTIVE
@@ -11757,6 +11935,11 @@ categories:
   level: 4
   name: Division 5 dam
   status: ACTIVE
+- code: RYF-QPR-HGB-DEN-GHJ-BMI
+  description: ''
+  level: 5
+  name: Västergötland södra
+  status: ACTIVE
 - code: RYF-QPR-HGB-DEN-GHJ-DTS
   description: ''
   level: 5
@@ -11871,6 +12054,11 @@ categories:
   description: ''
   level: 5
   name: Mellersta Norrland
+  status: ACTIVE
+- code: RYF-QPR-HGB-DEN-HKY-UKN
+  description: ''
+  level: 5
+  name: mellersta Svealand
   status: ACTIVE
 - code: RYF-QPR-HGB-DEN-HKY-UYS
   description: ''
@@ -12422,10 +12610,20 @@ categories:
   level: 4
   name: Serie A
   status: ACTIVE
+- code: RYF-QPR-HGB-DEN-OPP
+  description: ''
+  level: 4
+  name: P16 Allsvenskan mellersta herrar
+  status: ACTIVE
 - code: RYF-QPR-HGB-DEN-PXP
   description: ''
   level: 4
   name: Nationell fotboll
+  status: INACTIVE
+- code: RYF-QPR-HGB-DEN-SML
+  description: ''
+  level: 4
+  name: Elitcupen västra herr
   status: ACTIVE
 - code: RYF-QPR-HGB-DEN-SZC
   description: ''
@@ -12582,6 +12780,11 @@ categories:
   level: 5
   name: Södermanland
   status: ACTIVE
+- code: RYF-QPR-HGB-DEN-SZC-ZWC
+  description: ''
+  level: 5
+  name: Västergötland mellersta
+  status: ACTIVE
 - code: RYF-QPR-HGB-DEN-TQG
   description: ''
   level: 4
@@ -12673,6 +12876,7 @@ categories:
   name: Mellersta Götaland
   status: INACTIVE
 - code: RYF-QPR-HGB-DEN-ULF
+  description: ''
   level: 4
   name: Fotbollsligan
   status: ACTIVE
@@ -12759,53 +12963,61 @@ categories:
 - code: RYF-QPR-HGB-DKV
   description: ''
   level: 3
-  name: Softball
+  name: Softboll
   status: ACTIVE
 - code: RYF-QPR-HGB-DNB
   description: ''
   level: 3
   name: Bilsport
-  status: ACTIVE
+  status: INACTIVE
 - code: RYF-QPR-HGB-DNB-DJO
   description: ''
   level: 4
-  name: F3000
-  status: ACTIVE
+  name: Formel 2
+  replacedBy: RYF-QPR-HGB-EOW-MZI
+  status: INACTIVE
 - code: RYF-QPR-HGB-DNB-FHE
   description: ''
   level: 4
   name: Rally
-  status: ACTIVE
+  replacedBy: RYF-QPR-HGB-EOW-ALB
+  status: INACTIVE
 - code: RYF-QPR-HGB-DNB-LBO
   description: ''
   level: 4
   name: Folkrace
-  status: ACTIVE
+  replacedBy: RYF-QPR-HGB-EOW-XFS
+  status: INACTIVE
 - code: RYF-QPR-HGB-DNB-LOH
   description: ''
   level: 4
   name: Indycar
-  status: ACTIVE
+  replacedBy: RYF-QPR-HGB-EOW-SVU
+  status: INACTIVE
 - code: RYF-QPR-HGB-DNB-PDE
   description: ''
   level: 4
   name: Formel 1
-  status: ACTIVE
+  replacedBy: RYF-QPR-HGB-EOW-GSP
+  status: INACTIVE
 - code: RYF-QPR-HGB-DNB-TBT
   description: ''
   level: 4
   name: Karting
-  status: ACTIVE
+  replacedBy: RYF-QPR-HGB-EOW-RNZ
+  status: INACTIVE
 - code: RYF-QPR-HGB-DNB-UDJ
   description: ''
   level: 4
   name: Rallycross
-  status: ACTIVE
+  replacedBy: RYF-QPR-HGB-EOW-OIY
+  status: INACTIVE
 - code: RYF-QPR-HGB-DNB-XJL
   description: ''
   level: 4
   name: Uthållighetsrace
-  status: ACTIVE
+  replacedBy: RYF-QPR-HGB-EOW-CYO
+  status: INACTIVE
 - code: RYF-QPR-HGB-DYW
   description: ''
   level: 3
@@ -12849,7 +13061,13 @@ categories:
 - code: RYF-QPR-HGB-EOW
   description: ''
   level: 3
-  name: Motorcykelsport
+  name: Motorsport
+  status: ACTIVE
+- code: RYF-QPR-HGB-EOW-ALB
+  description: ''
+  level: 4
+  name: Rally
+  replaces: RYF-QPR-HGB-DNB-FHE
   status: ACTIVE
 - code: RYF-QPR-HGB-EOW-CBQ
   description: ''
@@ -12876,16 +13094,28 @@ categories:
   level: 4
   name: Trail
   status: ACTIVE
+- code: RYF-QPR-HGB-EOW-CYO
+  description: ''
+  level: 4
+  name: Uthållighetsrace
+  replaces: RYF-QPR-HGB-DNB-XJL
+  status: ACTIVE
 - code: RYF-QPR-HGB-EOW-DPF
   description: ''
   level: 4
   name: Motocross
   status: ACTIVE
+- code: RYF-QPR-HGB-EOW-GSP
+  description: ''
+  level: 4
+  name: Formel 1
+  replaces: RYF-QPR-HGB-DNB-PDE
+  status: ACTIVE
 - code: RYF-QPR-HGB-EOW-JRT
   description: ''
   level: 4
   name: Moto-GP
-  status: ACTIVE
+  status: INACTIVE
 - code: RYF-QPR-HGB-EOW-KGM
   description: ''
   level: 4
@@ -12896,15 +13126,45 @@ categories:
   level: 4
   name: Sidovagn
   status: ACTIVE
+- code: RYF-QPR-HGB-EOW-MZI
+  description: ''
+  level: 4
+  name: Formel 2
+  replaces: RYF-QPR-HGB-DNB-DJO
+  status: ACTIVE
 - code: RYF-QPR-HGB-EOW-NDA
   description: ''
   level: 4
   name: Isracing
   status: ACTIVE
+- code: RYF-QPR-HGB-EOW-OIY
+  description: ''
+  level: 4
+  name: Rallycross
+  replaces: RYF-QPR-HGB-DNB-UDJ
+  status: ACTIVE
 - code: RYF-QPR-HGB-EOW-PSO
   description: ''
   level: 4
   name: Enduro
+  status: ACTIVE
+- code: RYF-QPR-HGB-EOW-RNZ
+  description: ''
+  level: 4
+  name: Karting
+  replaces: RYF-QPR-HGB-DNB-TBT
+  status: ACTIVE
+- code: RYF-QPR-HGB-EOW-SVU
+  description: ''
+  level: 4
+  name: Indycar
+  replaces: RYF-QPR-HGB-DNB-LOH
+  status: ACTIVE
+- code: RYF-QPR-HGB-EOW-XFS
+  description: ''
+  level: 4
+  name: Folkrace
+  replaces: RYF-QPR-HGB-DNB-LBO
   status: ACTIVE
 - code: RYF-QPR-HGB-FMU
   description: ''
@@ -13030,7 +13290,11 @@ categories:
 - code: RYF-QPR-HGB-IYN
   description: ''
   level: 3
-  name: Hundracing
+  name: Hundsport
+  status: ACTIVE
+- code: RYF-QPR-HGB-IYN-ARI
+  level: 4
+  name: Agility
   status: ACTIVE
 - code: RYF-QPR-HGB-IYN-BUL
   description: ''
@@ -13085,7 +13349,7 @@ categories:
 - code: RYF-QPR-HGB-JDC-VCU
   description: ''
   level: 4
-  name: Division 1 dam
+  name: Division 2 dam
   status: ACTIVE
 - code: RYF-QPR-HGB-KJR
   description: ''
@@ -13238,6 +13502,11 @@ categories:
   level: 3
   name: Frisbee
   status: ACTIVE
+- code: RYF-QPR-HGB-NWE-VIR
+  description: ''
+  level: 4
+  name: Discgolf
+  status: ACTIVE
 - code: RYF-QPR-HGB-NYM
   description: ''
   level: 3
@@ -13345,10 +13614,50 @@ categories:
   level: 4
   name: Elitserien herr
   status: ACTIVE
+- code: RYF-QPR-HGB-OQU-KCB-KOJ
+  description: ''
+  level: 5
+  name: Kvartsfinal
+  status: ACTIVE
+- code: RYF-QPR-HGB-OQU-KCB-NEL
+  description: ''
+  level: 5
+  name: Final
+  status: ACTIVE
+- code: RYF-QPR-HGB-OQU-KCB-QJF
+  description: ''
+  level: 5
+  name: åttondelsfinal
+  status: ACTIVE
+- code: RYF-QPR-HGB-OQU-KCB-XJT
+  description: ''
+  level: 5
+  name: Semifinal
+  status: ACTIVE
 - code: RYF-QPR-HGB-OQU-LWB
   description: ''
   level: 4
   name: Elitserien dam
+  status: ACTIVE
+- code: RYF-QPR-HGB-OQU-LWB-AGC
+  description: ''
+  level: 5
+  name: Åttondelsfinal
+  status: ACTIVE
+- code: RYF-QPR-HGB-OQU-LWB-FZW
+  description: ''
+  level: 5
+  name: Kvartsfinal
+  status: ACTIVE
+- code: RYF-QPR-HGB-OQU-LWB-NAO
+  description: ''
+  level: 5
+  name: Semifinal
+  status: ACTIVE
+- code: RYF-QPR-HGB-OQU-LWB-SUB
+  description: ''
+  level: 5
+  name: Final
   status: ACTIVE
 - code: RYF-QPR-HGB-OQU-NMQ
   description: ''
@@ -13486,6 +13795,7 @@ categories:
   name: Västsvenska västra
   status: ACTIVE
 - code: RYF-QPR-HGB-PJR-PQK
+  description: ''
   level: 4
   name: FM-serien i Handboll
   status: ACTIVE
@@ -13503,6 +13813,11 @@ categories:
   description: ''
   level: 4
   name: Division 4 dam
+  status: ACTIVE
+- code: RYF-QPR-HGB-PJR-WKS
+  description: ''
+  level: 4
+  name: Beachhandboll
   status: ACTIVE
 - code: RYF-QPR-HGB-PJR-XPJ
   description: ''
@@ -13715,6 +14030,7 @@ categories:
   name: Södra
   status: ACTIVE
 - code: RYF-QPR-HGB-QHJ-LLQ
+  description: ''
   level: 4
   name: F-ligan
   status: ACTIVE
@@ -13806,7 +14122,22 @@ categories:
 - code: RYF-QPR-HGB-QHJ-RVU
   description: ''
   level: 4
-  name: Superligan dam
+  name: SSL dam
+  status: ACTIVE
+- code: RYF-QPR-HGB-QHJ-RVU-GGT
+  description: ''
+  level: 5
+  name: Semifinal
+  status: ACTIVE
+- code: RYF-QPR-HGB-QHJ-RVU-TSX
+  description: ''
+  level: 5
+  name: Final
+  status: ACTIVE
+- code: RYF-QPR-HGB-QHJ-RVU-YZK
+  description: ''
+  level: 5
+  name: Kvartsfinal
   status: ACTIVE
 - code: RYF-QPR-HGB-QHJ-SSA
   description: ''
@@ -14051,7 +14382,22 @@ categories:
 - code: RYF-QPR-HGB-QHJ-XQM
   description: ''
   level: 4
-  name: Superligan herr
+  name: SSL herr
+  status: ACTIVE
+- code: RYF-QPR-HGB-QHJ-XQM-GMA
+  description: ''
+  level: 5
+  name: Semifinal
+  status: ACTIVE
+- code: RYF-QPR-HGB-QHJ-XQM-OZV
+  description: ''
+  level: 5
+  name: Final
+  status: ACTIVE
+- code: RYF-QPR-HGB-QHJ-XQM-SMY
+  description: ''
+  level: 5
+  name: Kvartsfinal
   status: ACTIVE
 - code: RYF-QPR-HGB-QHJ-XSZ
   description: ''
@@ -14276,13 +14622,18 @@ categories:
 - code: RYF-QPR-HGB-WPT
   description: ''
   level: 3
-  name: Längdåkning
+  name: Längdskidåkning
   replaces: RYF-QPR-HGB-AYA-MFT
+  status: ACTIVE
+- code: RYF-QPR-HGB-WPT-DJO
+  description: ''
+  level: 4
+  name: Distans, fristil
   status: ACTIVE
 - code: RYF-QPR-HGB-WPT-DOS
   description: ''
   level: 4
-  name: Stafett
+  name: Stafett, fristil
   replaces: RYF-QPR-HGB-AYA-MFT-DOS
   status: ACTIVE
 - code: RYF-QPR-HGB-WPT-FQD
@@ -14294,14 +14645,39 @@ categories:
 - code: RYF-QPR-HGB-WPT-FUC
   description: ''
   level: 4
-  name: Sprint
+  name: Sprint, fristil
   replaces: RYF-QPR-HGB-AYA-MFT-FUC
+  status: ACTIVE
+- code: RYF-QPR-HGB-WPT-HNY
+  description: ''
+  level: 4
+  name: Sprint, klassiskt
+  status: ACTIVE
+- code: RYF-QPR-HGB-WPT-IFU
+  description: ''
+  level: 4
+  name: Masstart, fristil
   status: ACTIVE
 - code: RYF-QPR-HGB-WPT-LAB
   description: ''
   level: 4
   name: Långlopp
   replaces: RYF-QPR-HGB-AYA-MFT-LAB
+  status: ACTIVE
+- code: RYF-QPR-HGB-WPT-QPG
+  description: ''
+  level: 4
+  name: Distans, klassiskt
+  status: ACTIVE
+- code: RYF-QPR-HGB-WPT-WNE
+  description: ''
+  level: 4
+  name: Stafett, klassiskt
+  status: ACTIVE
+- code: RYF-QPR-HGB-WPT-XNM
+  description: ''
+  level: 4
+  name: Masstart, klassiskt
   status: ACTIVE
 - code: RYF-QPR-HGB-WVD
   description: ''
@@ -14397,6 +14773,31 @@ categories:
   description: ''
   level: 3
   name: Skidskytte
+  status: ACTIVE
+- code: RYF-QPR-HGB-YKG-LKM
+  description: ''
+  level: 4
+  name: Masstart
+  status: ACTIVE
+- code: RYF-QPR-HGB-YKG-LML
+  description: ''
+  level: 4
+  name: Distans
+  status: ACTIVE
+- code: RYF-QPR-HGB-YKG-RKP
+  description: ''
+  level: 4
+  name: Stafett
+  status: ACTIVE
+- code: RYF-QPR-HGB-YKG-SPC
+  description: ''
+  level: 4
+  name: Jaktstart
+  status: ACTIVE
+- code: RYF-QPR-HGB-YKG-UWQ
+  description: ''
+  level: 4
+  name: Sprint
   status: ACTIVE
 - code: RYF-QPR-HGB-YOC
   description: ''
@@ -14515,6 +14916,11 @@ categories:
   level: 2
   name: Idrottsorganisationer
   status: INACTIVE
+- code: RYF-QPR-OSF
+  description: ''
+  level: 2
+  name: Träningsmatch
+  status: ACTIVE
 - code: RYF-QPR-OTI
   description: Användning av otillåtna preparat för att höja prestationsförmåga, och frågor relaterade till det
   level: 2
@@ -17365,7 +17771,7 @@ categories:
   description: ''
   level: 4
   name: Simning
-  status: ACTIVE
+  status: INACTIVE
 - code: RYF-TKT-KXM-ZBA-URB
   description: ''
   level: 4
@@ -19063,6 +19469,11 @@ categories:
   level: 3
   name: Klimatförhandling
   status: ACTIVE
+- code: RYF-VHD-GUZ-OZK
+  description: ''
+  level: 3
+  name: Klimatkompensation
+  status: ACTIVE
 - code: RYF-VHD-GUZ-SYG
   description: ''
   level: 3
@@ -19627,6 +20038,11 @@ categories:
   level: 2
   name: Höstväder
   status: ACTIVE
+- code: RYF-WHZ-NNP
+  description: ''
+  level: 2
+  name: Oväder
+  status: ACTIVE
 - code: RYF-WHZ-PDY
   description: ''
   level: 2
@@ -19730,6 +20146,11 @@ categories:
   level: 3
   name: Läkarkåren
   status: INACTIVE
+- code: RYF-WUU-CSR
+  description: ''
+  level: 2
+  name: Hälsodata
+  status: ACTIVE
 - code: RYF-WUU-JZK
   description: ''
   level: 2
@@ -20057,6 +20478,11 @@ categories:
   level: 4
   name: Ulceös colit
   status: ACTIVE
+- code: RYF-WUU-JZK-FIS-PGB
+  description: ''
+  level: 4
+  name: Matförgiftning
+  status: ACTIVE
 - code: RYF-WUU-JZK-FIS-PYE
   description: ''
   level: 4
@@ -20201,6 +20627,11 @@ categories:
   description: ''
   level: 3
   name: Muskelsjukdom
+  status: ACTIVE
+- code: RYF-WUU-JZK-JXF
+  description: ''
+  level: 3
+  name: Hjärnskakning
   status: ACTIVE
 - code: RYF-WUU-JZK-LIP
   description: ''
@@ -21433,6 +21864,16 @@ categories:
   level: 4
   name: Biosimilarier
   status: ACTIVE
+- code: RYF-WUU-QNB-LKJ-USR
+  description: ''
+  level: 4
+  name: Avancerade läkemedelsterapier (ATMP)
+  status: ACTIVE
+- code: RYF-WUU-QNB-LKJ-WGR
+  description: ''
+  level: 4
+  name: Farmaci
+  status: ACTIVE
 - code: RYF-WUU-QNB-LKJ-XFV
   description: ''
   level: 4
@@ -21859,7 +22300,7 @@ categories:
 - code: RYF-WUU-YYH-SYF
   description: ''
   level: 3
-  name: Mödrahälsovård
+  name: Mödravård
   status: ACTIVE
 - code: RYF-WUU-ZUM
   description: ''
@@ -22157,6 +22598,12 @@ categories:
   level: 3
   name: Fredsplan
   status: ACTIVE
+- code: RYF-WXT-OJB-QIO
+  description: Trupper som utför fredsbevarande operationer. Vanligast och mest känd är FN:s fredsbevarande styrkor
+  level: 3
+  name: Fredsbevarande styrkor
+  replaces: RYF-WXT-PJE-HVD
+  status: ACTIVE
 - code: RYF-WXT-OJB-XGZ
   description: Diskussioner mellan de stridande parterna på olika formella nivåer
   level: 3
@@ -22177,8 +22624,9 @@ categories:
   description: Trupper som utför fredsbevarande operationer. Vanligast och mest känd är FN:s fredsbevarande styrkor
   level: 3
   name: Fredsbevarande styrkor
+  replacedBy: RYF-WXT-OJB-QIO
   replaces: RYF-WXT-CRN-BFS
-  status: ACTIVE
+  status: INACTIVE
 - code: RYF-WXT-QIC
   description: Människor fångade och fängslade på grund av sociala konflikter, politisk aktivitet under krig eller väpnad konflikt
   level: 2
@@ -22222,6 +22670,11 @@ categories:
   level: 3
   name: Militärtjänst
   status: ACTIVE
+- code: RYF-WXT-UUC-UFT
+  description: ''
+  level: 3
+  name: Civilförsvar
+  status: ACTIVE
 - code: RYF-WXT-UUC-VDS
   description: ''
   level: 3
@@ -22236,8 +22689,9 @@ categories:
   description: Avsiktliga och systematiska handlingar i syfte att helt eller delvis förinta en etnisk, religiös eller nationell grupp
   level: 2
   name: Folkmord
+  replacedBy: RYF-BIZ-WZJ-ITE
   replaces: RYF-WXT-UBT-QGE
-  status: ACTIVE
+  status: INACTIVE
 - code: RYF-XKI
   description: ''
   level: 1
@@ -22774,6 +23228,11 @@ categories:
   name: Jazz
   replaces: RYF-XKI-CUP-NWA-VVW-QSI
   status: ACTIVE
+- code: RYF-XKI-CUP-NWA-NDZ
+  description: ''
+  level: 4
+  name: Gospel
+  status: ACTIVE
 - code: RYF-XKI-CUP-NWA-NMV
   description: ''
   level: 4
@@ -22956,6 +23415,11 @@ categories:
   level: 4
   name: Funk
   replaces: RYF-XKI-CUP-NWA-VVW-WTE
+  status: ACTIVE
+- code: RYF-XKI-CUP-NWA-ZZB
+  description: ''
+  level: 4
+  name: Körsång
   status: ACTIVE
 - code: RYF-XKI-CUP-OAU
   description: Till exempel "Bamse", "Fantomen" och "Nemi"
@@ -23703,6 +24167,16 @@ categories:
   name: Bil och fordonssamlingar
   replaces: RYF-TKT-MRA-KWO-XZI
   status: ACTIVE
+- code: RYF-XRZ-HYF-YOH
+  description: ''
+  level: 3
+  name: Street racing, Blackrace
+  status: ACTIVE
+- code: RYF-XRZ-HZY
+  description: ''
+  level: 2
+  name: Elcykel
+  status: ACTIVE
 - code: RYF-XRZ-ITR
   description: ''
   level: 2
@@ -23785,7 +24259,7 @@ categories:
 - code: RYF-XRZ-ITR-KIY
   description: ''
   level: 3
-  name: Självkörande bil
+  name: Självkörande fordon
   replaces: RYF-TKT-MRA-JUA-KIY
   status: ACTIVE
 - code: RYF-XRZ-ITR-OAJ
@@ -23921,7 +24395,7 @@ categories:
 - code: RYF-XRZ-ITR-YOE
   description: ''
   level: 3
-  name: Semiautonom bil
+  name: Semiautonomt fordon
   replaces: RYF-TKT-MRA-JUA-YOE
   status: ACTIVE
 - code: RYF-XRZ-ITR-YPW
@@ -24122,6 +24596,15 @@ categories:
   name: Trafikpåverkan
   replaces: RYF-HPT-YGE-GUI
   status: ACTIVE
+- code: RYF-XRZ-UHR
+  description: ''
+  level: 2
+  name: Körkort
+  status: ACTIVE
+- code: RYF-XRZ-UHR-OCA
+  level: 3
+  name: Förarprov
+  status: ACTIVE
 - code: RYF-XRZ-UNI
   description: ''
   level: 2
@@ -24308,6 +24791,11 @@ categories:
   level: 2
   name: Godstrafik
   status: ACTIVE
+- code: RYF-XRZ-ZZD
+  description: ''
+  level: 2
+  name: Fordonsskatt
+  status: ACTIVE
 - code: RYF-YDR
   description: ''
   level: 1
@@ -24347,6 +24835,7 @@ categories:
   replaces: RYF-YDR-MHH-UAD-FEL
   status: ACTIVE
 - code: RYF-YDR-EBM-NRK
+  description: ''
   level: 3
   name: Yrkeshögskola
   status: ACTIVE
@@ -24544,6 +25033,16 @@ categories:
   description: ''
   level: 2
   name: Pedagogik
+  status: ACTIVE
+- code: RYF-YDR-SHV
+  description: ''
+  level: 2
+  name: Anpassad skola
+  status: ACTIVE
+- code: RYF-YDR-STS
+  description: ''
+  level: 2
+  name: Skolmat
   status: ACTIVE
 - code: RYF-YDR-SXS
   description: ''
