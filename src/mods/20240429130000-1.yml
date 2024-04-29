@@ -1,29 +1,28 @@
 modifications:
  - action: ADD
-    parentCode: RYF-IXA-KEV
-    parentName: Näringsliv
-    name: Automation, robotteknik
-    level: 3
-    description: När man låter en maskin eller teknik utföra ett arbete
+   parentCode: RYF-IXA-KEV
+   parentName: Näringsliv
+   name: Automation, robotteknik
+   level: 3
+   description: När man låter en maskin eller teknik utföra ett arbete
 
 - action: ADD
-    parentCode: RYF-IXA-QED-LXS-MFB
-    parentName: Kryptovaluta
-    name: Bitcoin
-    level: 5
-    description: En implementation av kryptovaluta
+  parentCode: RYF-IXA-QED-LXS-MFB
+  parentName: Kryptovaluta
+  name: Bitcoin
+  level: 5
+  description: En implementation av kryptovaluta
 
 - action: ADD
-    parentCode: RYF-QPR-HGB-AMC
-    parentName: Tävlingsdans
-    name: Breaking, breakdance
-    level: 4
-    description: Tävlingsdans med ursprung i breakdance
+  parentCode: RYF-QPR-HGB-AMC
+  parentName: Tävlingsdans
+  name: Breaking, breakdance
+  level: 4
+  description: Tävlingsdans med ursprung i breakdance
 
 - action: UPDATE
-    Code: RYF-QPR-HGB-AMC
-    parentName: Tävlingsdans
-    name: mellersta Svealand
-    level: 4
-    description: Tävlingsdans med ursprung i breakdance
+  code: RYF-WXT-UUC-UFT
+  name: Civilförsvar
+  new Name: Civilt försvar
+  description: Högsta svenska herrligan i innebandy
     
