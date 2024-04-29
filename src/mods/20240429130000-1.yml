@@ -20,9 +20,18 @@ modifications:
   level: 4
   description: Tävlingsdans med ursprung i breakdance
 
+- action: ADD
+  parentCode: RYF-QPR-HGB
+  parentName: Sporter
+  name: Pickelball
+  level: 3
+  description: Även pickelboll, racketsport som kombinerar tennis, badminton och bordtennis
+  
 - action: UPDATE
   code: RYF-WXT-UUC-UFT
   name: Civilförsvar
   new Name: Civilt försvar
   description: Högsta svenska herrligan i innebandy
+
+  
     
