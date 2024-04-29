@@ -1,10 +1,10 @@
 modifications:
- - action: ADD
-   parentCode: RYF-IXA-KEV
-   parentName: Näringsliv
-   name: Automation, robotteknik
-   level: 3
-   description: När man låter en maskin eller teknik utföra ett arbete
+- action: ADD
+  parentCode: RYF-IXA-KEV
+  parentName: Näringsliv
+  name: Automation, robotteknik
+  level: 3
+  description: När man låter en maskin eller teknik utföra ett arbete
 
 - action: ADD
   parentCode: RYF-IXA-QED-LXS-MFB
