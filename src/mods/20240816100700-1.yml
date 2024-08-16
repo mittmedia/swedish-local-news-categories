@@ -1,0 +1,142 @@
+Modifications
+- action: ADD
+  parentCode: RYF-XKI-BUS-IXK
+  parentName: Källkritik
+  name: Desinformation
+  level: 4
+  description: Avsiktligt falsk eller vilseledande information som sprids på ett planerat sätt i syfte att nå en viss målgrupp
+
+- action: ADD
+  parentCode: RYF-HPT-XRQ-UFA
+  parentName: Barnomsorg
+  name: Daghem
+  level: 4
+  description: Verksamhet med barnomsorg och utbildning för barn åren innan den egentliga skolgången inleds
+
+- action: ADD
+  parentCode: RYF-IXA-QED-LXS-MFB
+  parentName: Kryptovaluta
+  name: Bitcoin
+  level: 5
+  description: En implementation av kryptovaluta
+
+- action: ADD
+  parentCode: RYF-IXA-KEV
+  parentName: Näringsliv
+  name: Automation, robotteknik
+  level: 3
+  description: När man låter en maskin eller teknik utföra ett arbete
+
+- action: ADD
+  parentCode: RYF-QPR-HGB
+  parentName: Sporter
+  name: Pickleball
+  level: 3
+  description: Även pickelboll, racketsport som kombinerar tennis, badminton och bordtennis
+
+- action: ADD
+  parentCode: RYF-QPR-HGB-AMC
+  parentName: Tävlingsdans
+  name: Breaking
+  level: 3
+  description: Tävlingsdans med ursprung i breakdance
+
+- action: UPDATE
+  code: RYF-ZEI
+  name: Arbete
+  new description: Arbete är en mänsklig verksamhet som genererar någon form av värde
+
+- action: UPDATE
+  code: RYF-BIZ
+  name: Brott, lag och rätt
+  new description: Etablering och/eller konstaterande av samhällets regler, dessa reglers genomförande, brott mot reglerna och bestraffning av förbrytarna. Organisationer och myndigheter inblandade i dessa aktiviteter. Brott, domstolsväsende, polis, straff, fängelse.
+
+- action: UPDATE
+  code: RYF-IXA
+  name: Ekonomi, näringsliv och finans
+  new description: Planering, produktion och utbyte av egendom. Jordbruk, dator- och IT-teknik, byggbransch och mark, energi och resurser, finans och affär, varutransport, makroekonomi, media, turism, transporter etc
+
+- action: UPDATE
+  code: RYF-WUU
+  name: Hälsa och sjukvård
+  new description: Människors fysiska och mentala hälsa
+  
+- action: UPDATE
+  code: RYF-VHD
+  name: Klimat och miljö
+  new description: Aspekter av skydd, skador och hälsa hos planetens ekosystem, med omnejd. Alternativa energikällor, bevarande av arter, energisparande, miljöpolitik, miljöförstöring, naturtillgångar, naturen, befolkningsfrågor, avfall, vattentillgångar
+
+- action: UPDATE
+  code: RYF-WXT
+  name: Konflikter och krig
+  new description: Socialt eller politiskt motiverade protester och/eller våldshandlingar. Terrorism, väpnade konflikter, social oro, statskupper, Gerillaaktiviteter, massakrer, upplopp, våldsamma demonstrationer, krig
+
+- action: UPDATE
+  code: RYF-XKI
+  name: Kultur och nöje
+  new description: Utveckling och förfining av det mänskliga medvetandet, av intressen, färdigheter, smak och känslor, inklusive sådant som språk, radio, och tv
+
+- action: UPDATE
+  code: RYF-NIM
+  name: Kungligt
+  new description: Kungligheter samt  furstlig persons uppvaktning och betjäning
+
+- action: UPDATE
+  code: RYF-TKT
+  name: Livsstil och fritid
+  new description: Aktiviteter ägnade att ge njutning, avslappning, rekreation utanför betald arbetstid, inklusive mat och resor. Spel, tips och lotterier, gastronomi, hobbyer, semester, turism
+
+- action: UPDATE
+  code: RYF-AKM
+  name: Olyckor och katastrofer
+  new description: Händelser som resulterar i skador på levande varelser eller skador på egendom
+
+- action: UPDATE
+  code: RYF-CUW
+  name: Personligt
+  new description: Det som handlar om individer med fokus på känslomässiga aspekter samt högtider
+
+- action: UPDATE
+  code: RYF-KNI
+  name: Politik
+  new description: Lokal, regional, nationell, och internationell maktutövning, samt relationer mellan stater och regeringar. Försvar, diplomati, val, hjälparbete, flyktingar, regering, riksdag, partier, offentlig budget, nationella och internationella avtal
+
+- action: UPDATE
+  code: RYF-ITV
+  name: Religion och tro
+  new description: Den mänskliga existensen i förhållande till teologi, filosofi, etik och andlighet. Sekter, tro, frimurare, kyrkliga och religiösa organisationer
+
+- action: UPDATE
+  code: RYF-HPT
+  name: Samhälle
+  new description: Samhällets infrastruktur samt mänskligt uppträdande som rör eller påverkar den allmänna livskvaliteten
+
+- action: UPDATE
+  code: RYF-YDR
+  name: Skola och utbildning
+  new description: Mänskligt lärande från födsel till död. Vuxenutbildning, vidareutbildning, föräldraorganisationer, förskolor, skolor, lärarfack, universitet
+
+- action: UPDATE
+  code: RYF-QPR
+  name: Sport
+  new description: Idrott och dess utövande, oftast i tävlingsform
+
+- action: UPDATE
+  code: RYF-XRZ
+  name: Trafik och fordon
+  new description: Kommunikationer och transportmedel på en väg, vare sig den är på land, till sjöss eller i luften
+
+- action: UPDATE
+  code: RYF-EOI
+  name: Vetenskap och teknik
+  new description: Den mänskliga förståelsen av naturen och den fysiska världen, utveckling och användning av denna kunskap. Vetenskaplig praktik, ingenjörskonst, human- och naturvetenskap, filosofi, research, vetenskapliga undersökningar samt rymdfart
+
+- action: UPDATE
+  code: RYF-WHZ
+  name: Väder
+  new description: Tillståndet eller en växling i tillstånd i en atmosfär vid ett givet tillfälle eller under en kortare tidsrymd samt meteorologiska rapporteringar och förutsägelser. Väderrapporter, statistik, varningar
+  
+
+
+
+  
