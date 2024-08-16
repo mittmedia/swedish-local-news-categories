@@ -1,0 +1,14 @@
+modifications
+- action: ADD
+  parentCode: RYF-XKI-BUS-IXK
+  parentName: Källkritik
+  name: Desinformation
+  level: 4
+  description: Avsiktligt falsk eller vilseledande information som sprids på ett planerat sätt i syfte att nå en viss målgrupp
+
+- action: ADD
+  parentCode: RYF-HPT-XRQ-UFA
+  parentName: Barnomsorg
+  name: Daghem
+  level: 4
+  description: Verksamhet med barnomsorg och utbildning för barn åren innan den egentliga skolgången inleds
