@@ -7,6 +7,13 @@ Modifications
   description: Avsiktligt falsk eller vilseledande information som sprids på ett planerat sätt i syfte att nå en viss målgrupp
 
 - action: ADD
+  parentCode: RYF-BIZ
+  parentName: Brott, lag och rätt
+  name: Skadestånd
+  level: 2
+  description: Ekonomisk kompensation för en inträffad skada
+
+- action: ADD
   parentCode: RYF-HPT-XRQ-UFA
   parentName: Barnomsorg
   name: Daghem
@@ -54,8 +61,8 @@ Modifications
 - action: UPDATE
   code: RYF-IXA
   name: Ekonomi, näringsliv och finans
-  new description: Planering, produktion och utbyte av egendom. Jordbruk, dator- och IT-teknik, byggbransch och mark, energi och resurser, finans och affär, varutransport, makroekonomi, media, turism, transporter etc
-
+  new description: Planering, produktion och utbyte av egendom, handel och tjänster samt markoekonomi
+  
 - action: UPDATE
   code: RYF-WUU
   name: Hälsa och sjukvård
@@ -64,12 +71,12 @@ Modifications
 - action: UPDATE
   code: RYF-VHD
   name: Klimat och miljö
-  new description: Aspekter av skydd, skador och hälsa hos planetens ekosystem, med omnejd. Alternativa energikällor, bevarande av arter, energisparande, miljöpolitik, miljöförstöring, naturtillgångar, naturen, befolkningsfrågor, avfall, vattentillgångar
+  new description: Aspekter av skydd, skador och hälsa hos planetens ekosystem, bevarande av arter
 
 - action: UPDATE
   code: RYF-WXT
   name: Konflikter och krig
-  new description: Socialt eller politiskt motiverade protester och/eller våldshandlingar. Terrorism, väpnade konflikter, social oro, statskupper, Gerillaaktiviteter, massakrer, upplopp, våldsamma demonstrationer, krig
+  new description: Socialt eller politiskt motiverad oro, våldshandlingar och väpnade konflikter
 
 - action: UPDATE
   code: RYF-XKI
@@ -99,12 +106,12 @@ Modifications
 - action: UPDATE
   code: RYF-KNI
   name: Politik
-  new description: Lokal, regional, nationell, och internationell maktutövning, samt relationer mellan stater och regeringar. Försvar, diplomati, val, hjälparbete, flyktingar, regering, riksdag, partier, offentlig budget, nationella och internationella avtal
+  new description: Lokal, regional, nationell, och internationell maktutövning, samt relationer mellan stater och regeringar
 
 - action: UPDATE
   code: RYF-ITV
   name: Religion och tro
-  new description: Den mänskliga existensen i förhållande till teologi, filosofi, etik och andlighet. Sekter, tro, frimurare, kyrkliga och religiösa organisationer
+  new description: Den mänskliga existensen i förhållande till teologi, filosofi, etik och andlighet
 
 - action: UPDATE
   code: RYF-HPT
