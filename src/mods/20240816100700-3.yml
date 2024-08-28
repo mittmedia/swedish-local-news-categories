@@ -1,1 +1,8 @@
+Modifications:
 
+- action: MOVE
+  code: RYF-KNI-ZIS
+  name: Grundlagar och grundläggande rättigheter 
+  newParentCode: RYF-BIZ-XYS
+  newParentName: Lagar och regler
+  description: De lagar som beskriver hur ett land ska styras och vilka rättigheter en enskild har
