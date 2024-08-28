@@ -1,2 +1,9 @@
 Modifications:
 
+- action: MOVE
+  code: RYF-KNI-ZIS-IUN-PGT
+  name: Demonstration 
+  newParentCode: RYF-HPT
+  newParentName: Samhälle
+  description: När en enskild eller folkmassa samlats för att protestera, det vill säga offentligt uttrycka sin åsikt i en politisk eller annan fråga
+
