@@ -48,6 +48,34 @@ Modifications
   level: 3
   description: Tävlingsdans med ursprung i breakdance
 
+- action: ADD
+  parentCode: RYF-BIZ
+  parentName: Brott, lag och rätt
+  name: Kriminalvård
+  level: 2
+  description: Arbetet med att påverka brottsdömda till att inte återfalla i brott
+
+- action: ADD
+  parentCode: RYF-BIZ
+  parentName: Brott, lag och rätt
+  name: Skadestånd
+  level: 2
+  description: Ekonomisk kompensation för en inträffad skada
+
+- action: ADD
+  parentCode: RYF-CUW-GIV
+  parentName: Familj
+  name: Äktenskap
+  level: 3
+  description: Ett juridiskt och samhälleligt, samt ofta ett religiöst och andligt, avtal mellan samlevande personer
+
+- action: ADD
+  parentCode: RYF-BIZ-XSV
+  parentName: Rättsprocessen
+  name: Dom
+  level: 3
+  description: En domstols slutliga, formella avgörande prövat i en civilrättslig tvist, ett brottmål eller ett förvaltningsrättsligt mål
+
 - action: UPDATE
   code: RYF-ZEI
   name: Arbete
@@ -143,7 +171,23 @@ Modifications
   name: Väder
   new description: Tillståndet eller en växling i tillstånd i en atmosfär vid ett givet tillfälle eller under en kortare tidsrymd samt meteorologiska rapporteringar och förutsägelser. Väderrapporter, statistik, varningar
   
+- action: UPDATE
+  code: RYF-KNI-ZIS
+  name: Grundlagar och grundläggande rättigheter
+  new description: De lagar som beskriver hur ett land ska styras och vilka rättigheter en enskild har
 
+- action: MOVE
+  code: RYF-KNI-ZIS-IUN-DXG
+  name: Censur 
+  newParentCode: RYF-HPT
+  newParentName: Samhälle
+  description: Förhandsgranskning eller retroaktivt avlägsnande av innehåll i kommunikation via olika kanaler, såsom TV, radio, internet, litteratur, film, teater, brev och e-post i syfte att förhindra spridning av uppgifter, åsikter eller värderingar som enligt de styrande inte bör komma till allmän kännedom
+
+- action: UPDATE
+  code: RYF-KNI-ZIS-IUN-PGT
+  name: Demonstrationer
+  new name: Demonstration
+  new description: När en enskild eller folkmassa samlats för att protestera, det vill säga offentligt uttrycka sin åsikt i en politisk eller annan fråga
 
 
   
