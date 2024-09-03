@@ -56,13 +56,6 @@ Modifications
   description: Arbetet med att påverka brottsdömda till att inte återfalla i brott
 
 - action: ADD
-  parentCode: RYF-BIZ
-  parentName: Brott, lag och rätt
-  name: Skadestånd
-  level: 2
-  description: Ekonomisk kompensation för en inträffad skada
-
-- action: ADD
   parentCode: RYF-CUW-GIV
   parentName: Familj
   name: Äktenskap
