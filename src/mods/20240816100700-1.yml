@@ -169,6 +169,18 @@ Modifications
   name: Grundlagar och grundläggande rättigheter
   new description: De lagar som beskriver hur ett land ska styras och vilka rättigheter en enskild har
 
+- action: UPDATE
+  code: RYF-QPR-HGB-WPT
+  name: Längdskidåkning
+  new name: Längdåkning
+  new description: Längdskidåkning hör till de nordiska skidgrenarna och bedrivs i klassisk stil eller fristil
+
+- action: UPDATE
+  code: RYF-QPR-HGB-FUZ
+  name: Cykling
+  new name: Cykelsport
+  new description: Tävlingar med specialkonstruerade cyklar på landsväg, på banor inom- och utomhus samt i terräng
+
 - action: MOVE
   code: RYF-KNI-ZIS-IUN-DXG
   name: Censur 
