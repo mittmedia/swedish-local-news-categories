@@ -107,17 +107,12 @@ Modifications
 - action: UPDATE
   code: RYF-NIM
   name: Kungligt
-  new description: Kungligheter samt  furstlig persons uppvaktning och betjäning
+  new description: Kungligheter samt furstlig persons uppvaktning och betjäning
 
 - action: UPDATE
   code: RYF-TKT
   name: Livsstil och fritid
   new description: Aktiviteter ägnade att ge njutning, avslappning, rekreation utanför betald arbetstid, inklusive mat och resor. Spel, tips och lotterier, gastronomi, hobbyer, semester, turism
-
-- action: UPDATE
-  code: RYF-AKM
-  name: Olyckor och katastrofer
-  new description: Händelser som resulterar i skador på levande varelser eller skador på egendom
 
 - action: UPDATE
   code: RYF-CUW
