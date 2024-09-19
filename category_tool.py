@@ -149,7 +149,7 @@ def load_modification_file(path):
         if 'code' in modification:
             mod.code = modification['code']
         if 'description' in modification:
-            mod.replacedBy = modification['description']
+            mod.description = modification['description']
         if 'name' in modification:
             mod.name = modification['name']
         if 'newName' in modification:
@@ -299,7 +299,10 @@ def category_update(categories, operation):
 
     old_category_name = category.name
 
-    category.name = operation.newName
+    if operation.newName is not None:
+        category.name = operation.newName
+    else:
+        category.name = operation.name
 
     if operation.description is not None:
         category.description = operation.description

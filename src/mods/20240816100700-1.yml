@@ -1,193 +1,193 @@
-Modifications
-- action: ADD
-  parentCode: RYF-XKI-BUS-IXK
-  parentName: Källkritik
-  name: Desinformation
-  level: 4
-  description: Avsiktligt falsk eller vilseledande information som sprids på ett planerat sätt i syfte att nå en viss målgrupp
+modifications:
+  - action: ADD
+    parentCode: RYF-XKI-BUS-IXK
+    parentName: Källkritik
+    name: Desinformation
+    level: 4
+    description: Avsiktligt falsk eller vilseledande information som sprids på ett planerat sätt i syfte att nå en viss målgrupp
 
-- action: ADD
-  parentCode: RYF-BIZ
-  parentName: Brott, lag och rätt
-  name: Skadestånd
-  level: 2
-  description: Ekonomisk kompensation för en inträffad skada
+  - action: ADD
+    parentCode: RYF-BIZ
+    parentName: Brott, lag och rätt
+    name: Skadestånd
+    level: 2
+    description: Ekonomisk kompensation för en inträffad skada
 
-- action: ADD
-  parentCode: RYF-HPT-XRQ-UFA
-  parentName: Barnomsorg
-  name: Daghem
-  level: 4
-  description: Verksamhet med barnomsorg och utbildning för barn åren innan den egentliga skolgången inleds
+  - action: ADD
+    parentCode: RYF-HPT-XRQ-UFA
+    parentName: Barnomsorg
+    name: Daghem
+    level: 4
+    description: Verksamhet med barnomsorg och utbildning för barn åren innan den egentliga skolgången inleds
 
-- action: ADD
-  parentCode: RYF-IXA-QED-LXS-MFB
-  parentName: Kryptovaluta
-  name: Bitcoin
-  level: 5
-  description: En implementation av kryptovaluta
+  - action: ADD
+    parentCode: RYF-IXA-QED-LXS-MFB
+    parentName: Kryptovaluta
+    name: Bitcoin
+    level: 5
+    description: En implementation av kryptovaluta
 
-- action: ADD
-  parentCode: RYF-IXA-KEV
-  parentName: Näringsliv
-  name: Automation, robotteknik
-  level: 3
-  description: När man låter en maskin eller teknik utföra ett arbete
+  - action: ADD
+    parentCode: RYF-IXA-KEV
+    parentName: Näringsliv
+    name: Automation, robotteknik
+    level: 3
+    description: När man låter en maskin eller teknik utföra ett arbete
 
-- action: ADD
-  parentCode: RYF-QPR-HGB
-  parentName: Sporter
-  name: Pickleball
-  level: 3
-  description: Även pickelboll, racketsport som kombinerar tennis, badminton och bordtennis
+  - action: ADD
+    parentCode: RYF-QPR-HGB
+    parentName: Sporter
+    name: Pickleball
+    level: 3
+    description: Även pickelboll, racketsport som kombinerar tennis, badminton och bordtennis
 
-- action: ADD
-  parentCode: RYF-QPR-HGB-AMC
-  parentName: Tävlingsdans
-  name: Breaking
-  level: 3
-  description: Tävlingsdans med ursprung i breakdance
+  - action: ADD
+    parentCode: RYF-QPR-HGB-AMC
+    parentName: Tävlingsdans
+    name: Breaking
+    level: 3
+    description: Tävlingsdans med ursprung i breakdance
 
-- action: ADD
-  parentCode: RYF-BIZ
-  parentName: Brott, lag och rätt
-  name: Kriminalvård
-  level: 2
-  description: Arbetet med att påverka brottsdömda till att inte återfalla i brott
+  - action: ADD
+    parentCode: RYF-BIZ
+    parentName: Brott, lag och rätt
+    name: Kriminalvård
+    level: 2
+    description: Arbetet med att påverka brottsdömda till att inte återfalla i brott
 
-- action: ADD
-  parentCode: RYF-CUW-GIV
-  parentName: Familj
-  name: Äktenskap
-  level: 3
-  description: Ett juridiskt och samhälleligt, samt ofta ett religiöst och andligt, avtal mellan samlevande personer
+  - action: ADD
+    parentCode: RYF-CUW-GIV
+    parentName: Familj
+    name: Äktenskap
+    level: 3
+    description: Ett juridiskt och samhälleligt, samt ofta ett religiöst och andligt, avtal mellan samlevande personer
 
-- action: ADD
-  parentCode: RYF-BIZ-XSV
-  parentName: Rättsprocessen
-  name: Dom
-  level: 3
-  description: En domstols slutliga, formella avgörande prövat i en civilrättslig tvist, ett brottmål eller ett förvaltningsrättsligt mål
+  - action: ADD
+    parentCode: RYF-BIZ-XSV
+    parentName: Rättsprocessen
+    name: Dom
+    level: 3
+    description: En domstols slutliga, formella avgörande prövat i en civilrättslig tvist, ett brottmål eller ett förvaltningsrättsligt mål
 
-- action: UPDATE
-  code: RYF-ZEI
-  name: Arbete
-  new description: Arbete är en mänsklig verksamhet som genererar någon form av värde
+  - action: UPDATE
+    code: RYF-ZEI
+    name: Arbete
+    description: Arbete är en mänsklig verksamhet som genererar någon form av värde
 
-- action: UPDATE
-  code: RYF-BIZ
-  name: Brott, lag och rätt
-  new description: Etablering och/eller konstaterande av samhällets regler, dessa reglers genomförande, brott mot reglerna och bestraffning av förbrytarna. Organisationer och myndigheter inblandade i dessa aktiviteter. Brott, domstolsväsende, polis, straff, fängelse.
+  - action: UPDATE
+    code: RYF-BIZ
+    name: Brott, lag och rätt
+    description: Etablering och/eller konstaterande av samhällets regler, dessa reglers genomförande, brott mot reglerna och bestraffning av förbrytarna. Organisationer och myndigheter inblandade i dessa aktiviteter. Brott, domstolsväsende, polis, straff, fängelse.
 
-- action: UPDATE
-  code: RYF-IXA
-  name: Ekonomi, näringsliv och finans
-  new description: Planering, produktion och utbyte av egendom, handel och tjänster samt markoekonomi
-  
-- action: UPDATE
-  code: RYF-WUU
-  name: Hälsa och sjukvård
-  new description: Människors fysiska och mentala hälsa
-  
-- action: UPDATE
-  code: RYF-VHD
-  name: Klimat och miljö
-  new description: Aspekter av skydd, skador och hälsa hos planetens ekosystem, bevarande av arter
+  - action: UPDATE
+    code: RYF-IXA
+    name: Ekonomi, näringsliv och finans
+    description: Planering, produktion och utbyte av egendom, handel och tjänster samt markoekonomi
 
-- action: UPDATE
-  code: RYF-WXT
-  name: Konflikter och krig
-  new description: Socialt eller politiskt motiverad oro, våldshandlingar och väpnade konflikter
+  - action: UPDATE
+    code: RYF-WUU
+    name: Hälsa och sjukvård
+    description: Människors fysiska och mentala hälsa
 
-- action: UPDATE
-  code: RYF-XKI
-  name: Kultur och nöje
-  new description: Utveckling och förfining av det mänskliga medvetandet, av intressen, färdigheter, smak och känslor, inklusive sådant som språk, radio, och tv
+  - action: UPDATE
+    code: RYF-VHD
+    name: Klimat och miljö
+    description: Aspekter av skydd, skador och hälsa hos planetens ekosystem, bevarande av arter
 
-- action: UPDATE
-  code: RYF-NIM
-  name: Kungligt
-  new description: Kungligheter samt furstlig persons uppvaktning och betjäning
+  - action: UPDATE
+    code: RYF-WXT
+    name: Konflikter och krig
+    description: Socialt eller politiskt motiverad oro, våldshandlingar och väpnade konflikter
 
-- action: UPDATE
-  code: RYF-TKT
-  name: Livsstil och fritid
-  new description: Aktiviteter ägnade att ge njutning, avslappning, rekreation utanför betald arbetstid, inklusive mat och resor. Spel, tips och lotterier, gastronomi, hobbyer, semester, turism
+  - action: UPDATE
+    code: RYF-XKI
+    name: Kultur och nöje
+    description: Utveckling och förfining av det mänskliga medvetandet, av intressen, färdigheter, smak och känslor, inklusive sådant som språk, radio, och tv
 
-- action: UPDATE
-  code: RYF-CUW
-  name: Personligt
-  new description: Det som handlar om individer med fokus på känslomässiga aspekter samt högtider
+  - action: UPDATE
+    code: RYF-NIM
+    name: Kungligt
+    description: Kungligheter samt furstlig persons uppvaktning och betjäning
 
-- action: UPDATE
-  code: RYF-KNI
-  name: Politik
-  new description: Lokal, regional, nationell, och internationell maktutövning, samt relationer mellan stater och regeringar
+  - action: UPDATE
+    code: RYF-TKT
+    name: Livsstil och fritid
+    description: Aktiviteter ägnade att ge njutning, avslappning, rekreation utanför betald arbetstid, inklusive mat och resor. Spel, tips och lotterier, gastronomi, hobbyer, semester, turism
 
-- action: UPDATE
-  code: RYF-ITV
-  name: Religion och tro
-  new description: Den mänskliga existensen i förhållande till teologi, filosofi, etik och andlighet
+  - action: UPDATE
+    code: RYF-CUW
+    name: Personligt
+    description: Det som handlar om individer med fokus på känslomässiga aspekter samt högtider
 
-- action: UPDATE
-  code: RYF-HPT
-  name: Samhälle
-  new description: Samhällets infrastruktur samt mänskligt uppträdande som rör eller påverkar den allmänna livskvaliteten
+  - action: UPDATE
+    code: RYF-KNI
+    name: Politik
+    description: Lokal, regional, nationell, och internationell maktutövning, samt relationer mellan stater och regeringar
 
-- action: UPDATE
-  code: RYF-YDR
-  name: Skola och utbildning
-  new description: Mänskligt lärande från födsel till död. Vuxenutbildning, vidareutbildning, föräldraorganisationer, förskolor, skolor, lärarfack, universitet
+  - action: UPDATE
+    code: RYF-ITV
+    name: Religion och tro
+    description: Den mänskliga existensen i förhållande till teologi, filosofi, etik och andlighet
 
-- action: UPDATE
-  code: RYF-QPR
-  name: Sport
-  new description: Idrott och dess utövande, oftast i tävlingsform
+  - action: UPDATE
+    code: RYF-HPT
+    name: Samhälle
+    description: Samhällets infrastruktur samt mänskligt uppträdande som rör eller påverkar den allmänna livskvaliteten
 
-- action: UPDATE
-  code: RYF-XRZ
-  name: Trafik och fordon
-  new description: Kommunikationer och transportmedel på en väg, vare sig den är på land, till sjöss eller i luften
+  - action: UPDATE
+    code: RYF-YDR
+    name: Skola och utbildning
+    description: Mänskligt lärande från födsel till död. Vuxenutbildning, vidareutbildning, föräldraorganisationer, förskolor, skolor, lärarfack, universitet
 
-- action: UPDATE
-  code: RYF-EOI
-  name: Vetenskap och teknik
-  new description: Den mänskliga förståelsen av naturen och den fysiska världen, utveckling och användning av denna kunskap. Vetenskaplig praktik, ingenjörskonst, human- och naturvetenskap, filosofi, research, vetenskapliga undersökningar samt rymdfart
+  - action: UPDATE
+    code: RYF-QPR
+    name: Sport
+    description: Idrott och dess utövande, oftast i tävlingsform
 
-- action: UPDATE
-  code: RYF-WHZ
-  name: Väder
-  new description: Tillståndet eller en växling i tillstånd i en atmosfär vid ett givet tillfälle eller under en kortare tidsrymd samt meteorologiska rapporteringar och förutsägelser. Väderrapporter, statistik, varningar
-  
-- action: UPDATE
-  code: RYF-KNI-ZIS
-  name: Grundlagar och grundläggande rättigheter
-  new description: De lagar som beskriver hur ett land ska styras och vilka rättigheter en enskild har
+  - action: UPDATE
+    code: RYF-XRZ
+    name: Trafik och fordon
+    description: Kommunikationer och transportmedel på en väg, vare sig den är på land, till sjöss eller i luften
 
-- action: UPDATE
-  code: RYF-QPR-HGB-WPT
-  name: Längdskidåkning
-  new name: Längdåkning
-  new description: Längdskidåkning hör till de nordiska skidgrenarna och bedrivs i klassisk stil eller fristil
+  - action: UPDATE
+    code: RYF-EOI
+    name: Vetenskap och teknik
+    description: Den mänskliga förståelsen av naturen och den fysiska världen, utveckling och användning av denna kunskap. Vetenskaplig praktik, ingenjörskonst, human- och naturvetenskap, filosofi, research, vetenskapliga undersökningar samt rymdfart
 
-- action: UPDATE
-  code: RYF-QPR-HGB-FUZ
-  name: Cykling
-  new name: Cykelsport
-  new description: Tävlingar med specialkonstruerade cyklar på landsväg, på banor inom- och utomhus samt i terräng
+  - action: UPDATE
+    code: RYF-WHZ
+    name: Väder
+    description: Tillståndet eller en växling i tillstånd i en atmosfär vid ett givet tillfälle eller under en kortare tidsrymd samt meteorologiska rapporteringar och förutsägelser. Väderrapporter, statistik, varningar
 
-- action: MOVE
-  code: RYF-KNI-ZIS-IUN-DXG
-  name: Censur 
-  newParentCode: RYF-HPT
-  newParentName: Samhälle
-  description: Förhandsgranskning eller retroaktivt avlägsnande av innehåll i kommunikation via olika kanaler, såsom TV, radio, internet, litteratur, film, teater, brev och e-post i syfte att förhindra spridning av uppgifter, åsikter eller värderingar som enligt de styrande inte bör komma till allmän kännedom
+  - action: UPDATE
+    code: RYF-KNI-ZIS
+    name: Grundlagar och grundläggande rättigheter
+    description: De lagar som beskriver hur ett land ska styras och vilka rättigheter en enskild har
 
-- action: UPDATE
-  code: RYF-KNI-ZIS-IUN-PGT
-  name: Demonstrationer
-  new name: Demonstration
-  new description: När en enskild eller folkmassa samlats för att protestera, det vill säga offentligt uttrycka sin åsikt i en politisk eller annan fråga
+  - action: UPDATE
+    code: RYF-QPR-HGB-WPT
+    name: Längdskidåkning
+    newName: Längdåkning
+    description: Längdskidåkning hör till de nordiska skidgrenarna och bedrivs i klassisk stil eller fristil
+
+  - action: UPDATE
+    code: RYF-QPR-HGB-FUZ
+    name: Cykling
+    newName: Cykelsport
+    description: Tävlingar med specialkonstruerade cyklar på landsväg, på banor inom- och utomhus samt i terräng
+
+  - action: MOVE
+    code: RYF-KNI-ZIS-IUN-DXG
+    name: Censur
+    newParentCode: RYF-HPT
+    newParentName: Samhälle
+    description: Förhandsgranskning eller retroaktivt avlägsnande av innehåll i kommunikation via olika kanaler, såsom TV, radio, internet, litteratur, film, teater, brev och e-post i syfte att förhindra spridning av uppgifter, åsikter eller värderingar som enligt de styrande inte bör komma till allmän kännedom
+
+  - action: UPDATE
+    code: RYF-KNI-ZIS-IUN-PGT
+    name: Demonstrationer
+    newName: Demonstration
+    description: När en enskild eller folkmassa samlats för att protestera, det vill säga offentligt uttrycka sin åsikt i en politisk eller annan fråga
 
 
-  
+
