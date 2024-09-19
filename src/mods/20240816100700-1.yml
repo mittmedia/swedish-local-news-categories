@@ -77,12 +77,12 @@ modifications:
   - action: UPDATE
     code: RYF-BIZ
     name: Brott, lag och rätt
-    description: Etablering och/eller konstaterande av samhällets regler, dessa reglers genomförande, brott mot reglerna och bestraffning av förbrytarna. Organisationer och myndigheter inblandade i dessa aktiviteter. Brott, domstolsväsende, polis, straff, fängelse.
+    description: Etablering och/eller konstaterande av samhällets regler, dessa reglers genomförande, brott mot reglerna och bestraffning av förbrytarna.
 
   - action: UPDATE
     code: RYF-IXA
     name: Ekonomi, näringsliv och finans
-    description: Planering, produktion och utbyte av egendom, handel och tjänster samt markoekonomi
+    description: Planering, produktion och utbyte av egendom, handel och tjänster samt makroekonomi
 
   - action: UPDATE
     code: RYF-WUU

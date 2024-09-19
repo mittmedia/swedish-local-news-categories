@@ -237,7 +237,7 @@ categories:
   name: Naturskador
   status: ACTIVE
 - code: RYF-BIZ
-  description: Etablering och/eller konstaterande av samhällets regler, dessa reglers genomförande, brott mot reglerna och bestraffning av förbrytarna. Organisationer och myndigheter inblandade i dessa aktiviteter. Brott, domstolsväsende, polis, straff, fängelse.
+  description: Etablering och/eller konstaterande av samhällets regler, dessa reglers genomförande, brott mot reglerna och bestraffning av förbrytarna.
   level: 1
   name: Brott, lag och rätt
   status: ACTIVE
@@ -246,11 +246,6 @@ categories:
   level: 2
   name: Juridik
   status: INACTIVE
-- code: RYF-BIZ-CYN
-  description: Ekonomisk kompensation för en inträffad skada
-  level: 2
-  name: Skadestånd
-  status: ACTIVE
 - code: RYF-BIZ-ECI
   description: ''
   level: 2
@@ -303,6 +298,11 @@ categories:
   name: Frihetsberövande
   replacedBy: RYF-BIZ-XSV-XDC
   status: INACTIVE
+- code: RYF-BIZ-JLM
+  description: Ekonomisk kompensation för en inträffad skada
+  level: 2
+  name: Skadestånd
+  status: ACTIVE
 - code: RYF-BIZ-LHX
   description: ''
   level: 2
@@ -315,7 +315,7 @@ categories:
   name: Informationsverksamhet & spionage
   replacedBy: RYF-BIZ-RER-TSI-PHV
   status: INACTIVE
-- code: RYF-BIZ-MAJ
+- code: RYF-BIZ-NRO
   description: Arbetet med att påverka brottsdömda till att inte återfalla i brott
   level: 2
   name: Kriminalvård
@@ -1251,16 +1251,16 @@ categories:
   level: 3
   name: Tvistemål
   status: ACTIVE
+- code: RYF-BIZ-XSV-VHJ
+  description: En domstols slutliga, formella avgörande prövat i en civilrättslig tvist, ett brottmål eller ett förvaltningsrättsligt mål
+  level: 3
+  name: Dom
+  status: ACTIVE
 - code: RYF-BIZ-XSV-WOE
   description: När dom inte accepteras av den som dömts, av åklagaren eller brottsoffer
   level: 3
   name: Överklagan
   replaces: RYF-BIZ-XSV-JTA-ZUJ
-  status: ACTIVE
-- code: RYF-BIZ-XSV-WOK
-  description: En domstols slutliga, formella avgörande prövat i en civilrättslig tvist, ett brottmål eller ett förvaltningsrättsligt mål
-  level: 3
-  name: Dom
   status: ACTIVE
 - code: RYF-BIZ-XSV-XBV
   description: Juridiska frågor som regleras utanför domstol
@@ -1278,6 +1278,60 @@ categories:
   description: ''
   level: 2
   name: Lagar och regler
+  status: ACTIVE
+- code: RYF-BIZ-XYS-BFA
+  description: De lagar som beskriver hur ett land ska styras och vilka rättigheter en enskild har
+  level: 3
+  name: Grundlagar och grundläggande rättigheter
+  replaces: RYF-KNI-ZIS
+  status: ACTIVE
+- code: RYF-BIZ-XYS-BFA-CWW
+  description: Personers rätt att utöva och observera sin tro
+  level: 4
+  name: Religionsfrihet
+  replaces: RYF-KNI-ZIS-CWW
+  status: ACTIVE
+- code: RYF-BIZ-XYS-BFA-DBH
+  description: ''
+  level: 4
+  name: Regeringsformen
+  replaces: RYF-KNI-ZIS-DBH
+  status: ACTIVE
+- code: RYF-BIZ-XYS-BFA-IUN
+  description: Personers rätt att kommunicera och uttrycka åsikter och idéer
+  level: 4
+  name: Yttrandefrihet och tryckfrihet
+  replaces: RYF-KNI-ZIS-IUN
+  status: ACTIVE
+- code: RYF-BIZ-XYS-BFA-IUN-KPA
+  description: ''
+  level: 5
+  name: Offentlighetsprincipen
+  replaces: RYF-KNI-ZIS-IUN-KPA
+  status: ACTIVE
+- code: RYF-BIZ-XYS-BFA-MHO
+  description: ''
+  level: 4
+  name: Successionsordningen
+  replaces: RYF-KNI-ZIS-MHO
+  status: ACTIVE
+- code: RYF-BIZ-XYS-BFA-OPA
+  description: Universiella rättigheter som gäller för alla människor, även icke-medborgare
+  level: 4
+  name: Mänskliga rättigheter
+  replaces: RYF-KNI-ZIS-OPA
+  status: ACTIVE
+- code: RYF-BIZ-XYS-BFA-PQL
+  description: ''
+  level: 4
+  name: Riksdagsordningen
+  replaces: RYF-KNI-ZIS-PQL
+  status: ACTIVE
+- code: RYF-BIZ-XYS-BFA-RAZ
+  description: Enskilda medborgares rättigheter enligt civilrätten
+  level: 4
+  name: Medborgerliga rättigheter
+  replaces: RYF-KNI-ZIS-RAZ
   status: ACTIVE
 - code: RYF-BIZ-XYS-DQN
   description: ''
@@ -1313,60 +1367,6 @@ categories:
   description: ''
   level: 3
   name: Miljörätt
-  status: ACTIVE
-- code: RYF-BIZ-XYS-RII
-  description: De lagar som beskriver hur ett land ska styras och vilka rättigheter en enskild har
-  level: 3
-  name: Grundlagar och grundläggande rättigheter
-  replaces: RYF-KNI-ZIS
-  status: ACTIVE
-- code: RYF-BIZ-XYS-RII-CWW
-  description: Personers rätt att utöva och observera sin tro
-  level: 4
-  name: Religionsfrihet
-  replaces: RYF-KNI-ZIS-CWW
-  status: ACTIVE
-- code: RYF-BIZ-XYS-RII-DBH
-  description: ''
-  level: 4
-  name: Regeringsformen
-  replaces: RYF-KNI-ZIS-DBH
-  status: ACTIVE
-- code: RYF-BIZ-XYS-RII-IUN
-  description: Personers rätt att kommunicera och uttrycka åsikter och idéer
-  level: 4
-  name: Yttrandefrihet och tryckfrihet
-  replaces: RYF-KNI-ZIS-IUN
-  status: ACTIVE
-- code: RYF-BIZ-XYS-RII-IUN-KPA
-  description: ''
-  level: 5
-  name: Offentlighetsprincipen
-  replaces: RYF-KNI-ZIS-IUN-KPA
-  status: ACTIVE
-- code: RYF-BIZ-XYS-RII-MHO
-  description: ''
-  level: 4
-  name: Successionsordningen
-  replaces: RYF-KNI-ZIS-MHO
-  status: ACTIVE
-- code: RYF-BIZ-XYS-RII-OPA
-  description: Universiella rättigheter som gäller för alla människor, även icke-medborgare
-  level: 4
-  name: Mänskliga rättigheter
-  replaces: RYF-KNI-ZIS-OPA
-  status: ACTIVE
-- code: RYF-BIZ-XYS-RII-PQL
-  description: ''
-  level: 4
-  name: Riksdagsordningen
-  replaces: RYF-KNI-ZIS-PQL
-  status: ACTIVE
-- code: RYF-BIZ-XYS-RII-RAZ
-  description: Enskilda medborgares rättigheter enligt civilrätten
-  level: 4
-  name: Medborgerliga rättigheter
-  replaces: RYF-KNI-ZIS-RAZ
   status: ACTIVE
 - code: RYF-BIZ-XYS-VPO
   description: ''
@@ -1750,6 +1750,11 @@ categories:
   name: IVF-behandling
   replaces: RYF-CUW-GIV-GMY-LCI
   status: ACTIVE
+- code: RYF-CUW-GIV-HBO
+  description: Ett juridiskt och samhälleligt, samt ofta ett religiöst och andligt, avtal mellan samlevande personer
+  level: 3
+  name: Äktenskap
+  status: ACTIVE
 - code: RYF-CUW-GIV-IAU
   description: ''
   level: 3
@@ -1767,11 +1772,6 @@ categories:
   level: 3
   name: Adoption
   replaces: RYF-CUW-GIV-CWF-KUQ
-  status: ACTIVE
-- code: RYF-CUW-GIV-MMC
-  description: Ett juridiskt och samhälleligt, samt ofta ett religiöst och andligt, avtal mellan samlevande personer
-  level: 3
-  name: Äktenskap
   status: ACTIVE
 - code: RYF-CUW-GIV-NFO
   description: ''
@@ -2862,12 +2862,6 @@ categories:
   level: 3
   name: Äganderätt
   status: ACTIVE
-- code: RYF-HPT-ERY
-  description: ''
-  level: 2
-  name: Censur
-  replaces: RYF-KNI-ZIS-IUN-DXG
-  status: ACTIVE
 - code: RYF-HPT-GCZ
   description: ''
   level: 2
@@ -2959,6 +2953,18 @@ categories:
   name: Integration
   replacedBy: RYF-HPT-QGV-MKA
   status: INACTIVE
+- code: RYF-HPT-LZG
+  description: När en enskild eller folkmassa samlats för att protestera, det vill säga offentligt uttrycka sin åsikt i en politisk eller annan fråga
+  level: 2
+  name: Demonstration
+  replaces: RYF-KNI-ZIS-IUN-PGT
+  status: ACTIVE
+- code: RYF-HPT-MDV
+  description: ''
+  level: 2
+  name: Censur
+  replaces: RYF-KNI-ZIS-IUN-DXG
+  status: ACTIVE
 - code: RYF-HPT-MKL
   description: ''
   level: 2
@@ -3510,12 +3516,6 @@ categories:
   replacedBy: RYF-HPT-TVG-DTI
   replaces: RYF-HPT-THK-KFS
   status: INACTIVE
-- code: RYF-HPT-TRY
-  description: När en enskild eller folkmassa samlats för att protestera, det vill säga offentligt uttrycka sin åsikt i en politisk eller annan fråga
-  level: 2
-  name: Demonstration
-  replaces: RYF-KNI-ZIS-IUN-PGT
-  status: ACTIVE
 - code: RYF-HPT-TVG
   description: ''
   level: 2
@@ -3925,6 +3925,11 @@ categories:
   level: 4
   name: Fritids
   status: ACTIVE
+- code: RYF-HPT-XRQ-UFA-IMP
+  description: Verksamhet med barnomsorg och utbildning för barn åren innan den egentliga skolgången inleds
+  level: 4
+  name: Daghem
+  status: ACTIVE
 - code: RYF-HPT-XRQ-UFA-QNG
   description: ''
   level: 4
@@ -3934,11 +3939,6 @@ categories:
   description: ''
   level: 4
   name: Pedagogisk omsorg
-  status: ACTIVE
-- code: RYF-HPT-XRQ-UFA-RNE
-  description: Verksamhet med barnomsorg och utbildning för barn åren innan den egentliga skolgången inleds
-  level: 4
-  name: Daghem
   status: ACTIVE
 - code: RYF-HPT-XRQ-VIW
   description: ''
@@ -4531,7 +4531,7 @@ categories:
   name: Ekumenik
   status: ACTIVE
 - code: RYF-IXA
-  description: Planering, produktion och utbyte av egendom, handel och tjänster samt markoekonomi
+  description: Planering, produktion och utbyte av egendom, handel och tjänster samt makroekonomi
   level: 1
   name: Ekonomi, näringsliv och finans
   status: ACTIVE
@@ -6132,6 +6132,11 @@ categories:
   level: 3
   name: Prisförändring
   status: ACTIVE
+- code: RYF-IXA-KEV-JTF
+  description: När man låter en maskin eller teknik utföra ett arbete
+  level: 3
+  name: Automation, robotteknik
+  status: ACTIVE
 - code: RYF-IXA-KEV-JWG
   description: ''
   level: 3
@@ -7162,11 +7167,6 @@ categories:
   description: ''
   level: 3
   name: Finanssektorn
-  status: ACTIVE
-- code: RYF-IXA-KEV-UTK
-  description: När man låter en maskin eller teknik utföra ett arbete
-  level: 3
-  name: Automation, robotteknik
   status: ACTIVE
 - code: RYF-IXA-KEV-UZJ
   description: Tillverkning av varor för fritidsaktiviteter
@@ -8443,15 +8443,15 @@ categories:
   level: 4
   name: Kryptovaluta
   status: ACTIVE
-- code: RYF-IXA-QED-LXS-MFB-GWT
-  description: En implementation av kryptovaluta
-  level: 5
-  name: Bitcoin
-  status: ACTIVE
 - code: RYF-IXA-QED-LXS-MFB-IVK
   description: ''
   level: 5
   name: Blockkedja, block chain
+  status: ACTIVE
+- code: RYF-IXA-QED-LXS-MFB-ZNM
+  description: En implementation av kryptovaluta
+  level: 5
+  name: Bitcoin
   status: ACTIVE
 - code: RYF-IXA-QED-MNF
   description: ''
@@ -9845,68 +9845,68 @@ categories:
   description: De lagar som beskriver hur ett land ska styras och vilka rättigheter en enskild har
   level: 2
   name: Grundlagar och grundläggande rättigheter
-  replacedBy: RYF-BIZ-XYS-RII
+  replacedBy: RYF-BIZ-XYS-BFA
   status: INACTIVE
 - code: RYF-KNI-ZIS-CWW
   description: Personers rätt att utöva och observera sin tro
   level: 3
   name: Religionsfrihet
-  replacedBy: RYF-BIZ-XYS-RII-CWW
+  replacedBy: RYF-BIZ-XYS-BFA-CWW
   status: INACTIVE
 - code: RYF-KNI-ZIS-DBH
   description: ''
   level: 3
   name: Regeringsformen
-  replacedBy: RYF-BIZ-XYS-RII-DBH
+  replacedBy: RYF-BIZ-XYS-BFA-DBH
   status: INACTIVE
 - code: RYF-KNI-ZIS-IUN
   description: Personers rätt att kommunicera och uttrycka åsikter och idéer
   level: 3
   name: Yttrandefrihet och tryckfrihet
-  replacedBy: RYF-BIZ-XYS-RII-IUN
+  replacedBy: RYF-BIZ-XYS-BFA-IUN
   status: INACTIVE
 - code: RYF-KNI-ZIS-IUN-DXG
   description: ''
   level: 4
   name: Censur
-  replacedBy: RYF-HPT-ERY
+  replacedBy: RYF-HPT-MDV
   status: INACTIVE
 - code: RYF-KNI-ZIS-IUN-KPA
   description: ''
   level: 4
   name: Offentlighetsprincipen
-  replacedBy: RYF-BIZ-XYS-RII-IUN-KPA
+  replacedBy: RYF-BIZ-XYS-BFA-IUN-KPA
   status: INACTIVE
 - code: RYF-KNI-ZIS-IUN-PGT
   description: När en enskild eller folkmassa samlats för att protestera, det vill säga offentligt uttrycka sin åsikt i en politisk eller annan fråga
   level: 4
   name: Demonstration
-  replacedBy: RYF-HPT-TRY
+  replacedBy: RYF-HPT-LZG
   replaces: RYF-WXT-BND-ATO
   status: INACTIVE
 - code: RYF-KNI-ZIS-MHO
   description: ''
   level: 3
   name: Successionsordningen
-  replacedBy: RYF-BIZ-XYS-RII-MHO
+  replacedBy: RYF-BIZ-XYS-BFA-MHO
   status: INACTIVE
 - code: RYF-KNI-ZIS-OPA
   description: Universiella rättigheter som gäller för alla människor, även icke-medborgare
   level: 3
   name: Mänskliga rättigheter
-  replacedBy: RYF-BIZ-XYS-RII-OPA
+  replacedBy: RYF-BIZ-XYS-BFA-OPA
   status: INACTIVE
 - code: RYF-KNI-ZIS-PQL
   description: ''
   level: 3
   name: Riksdagsordningen
-  replacedBy: RYF-BIZ-XYS-RII-PQL
+  replacedBy: RYF-BIZ-XYS-BFA-PQL
   status: INACTIVE
 - code: RYF-KNI-ZIS-RAZ
   description: Enskilda medborgares rättigheter enligt civilrätten
   level: 3
   name: Medborgerliga rättigheter
-  replacedBy: RYF-BIZ-XYS-RII-RAZ
+  replacedBy: RYF-BIZ-XYS-BFA-RAZ
   status: INACTIVE
 - code: RYF-KNI-ZSH
   description: ''
@@ -10067,7 +10067,7 @@ categories:
   level: 3
   name: Tävlingsdans
   status: ACTIVE
-- code: RYF-QPR-HGB-AMC-JHQ
+- code: RYF-QPR-HGB-AMC-ACZ
   description: Tävlingsdans med ursprung i breakdance
   level: 4
   name: Breaking
@@ -11216,11 +11216,6 @@ categories:
   description: ''
   level: 4
   name: Konstsim
-  status: ACTIVE
-- code: RYF-QPR-HGB-CYM
-  description: Även pickelboll, racketsport som kombinerar tennis, badminton och bordtennis
-  level: 3
-  name: Pickleball
   status: ACTIVE
 - code: RYF-QPR-HGB-DEN
   description: ''
@@ -13328,6 +13323,11 @@ categories:
   level: 4
   name: Cyklo-cross
   status: INACTIVE
+- code: RYF-QPR-HGB-FXC
+  description: Även pickelboll, racketsport som kombinerar tennis, badminton och bordtennis
+  level: 3
+  name: Pickleball
+  status: ACTIVE
 - code: RYF-QPR-HGB-FYT
   description: ''
   level: 3
@@ -22899,7 +22899,7 @@ categories:
   level: 3
   name: Källkritik
   status: ACTIVE
-- code: RYF-XKI-BUS-IXK-AIU
+- code: RYF-XKI-BUS-IXK-SSA
   description: Avsiktligt falsk eller vilseledande information som sprids på ett planerat sätt i syfte att nå en viss målgrupp
   level: 4
   name: Desinformation
