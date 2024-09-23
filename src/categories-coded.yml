@@ -237,7 +237,7 @@ categories:
   name: Naturskador
   status: ACTIVE
 - code: RYF-BIZ
-  description: ''
+  description: Etablering och/eller konstaterande av samhällets regler, dessa reglers genomförande, brott mot reglerna och bestraffning av förbrytarna.
   level: 1
   name: Brott, lag och rätt
   status: ACTIVE
@@ -298,6 +298,11 @@ categories:
   name: Frihetsberövande
   replacedBy: RYF-BIZ-XSV-XDC
   status: INACTIVE
+- code: RYF-BIZ-JLM
+  description: Ekonomisk kompensation för en inträffad skada
+  level: 2
+  name: Skadestånd
+  status: ACTIVE
 - code: RYF-BIZ-LHX
   description: ''
   level: 2
@@ -310,6 +315,11 @@ categories:
   name: Informationsverksamhet & spionage
   replacedBy: RYF-BIZ-RER-TSI-PHV
   status: INACTIVE
+- code: RYF-BIZ-NRO
+  description: Arbetet med att påverka brottsdömda till att inte återfalla i brott
+  level: 2
+  name: Kriminalvård
+  status: ACTIVE
 - code: RYF-BIZ-RER
   description: ''
   level: 2
@@ -1241,6 +1251,11 @@ categories:
   level: 3
   name: Tvistemål
   status: ACTIVE
+- code: RYF-BIZ-XSV-VHJ
+  description: En domstols slutliga, formella avgörande prövat i en civilrättslig tvist, ett brottmål eller ett förvaltningsrättsligt mål
+  level: 3
+  name: Dom
+  status: ACTIVE
 - code: RYF-BIZ-XSV-WOE
   description: När dom inte accepteras av den som dömts, av åklagaren eller brottsoffer
   level: 3
@@ -1263,6 +1278,60 @@ categories:
   description: ''
   level: 2
   name: Lagar och regler
+  status: ACTIVE
+- code: RYF-BIZ-XYS-BFA
+  description: De lagar som beskriver hur ett land ska styras och vilka rättigheter en enskild har
+  level: 3
+  name: Grundlagar och grundläggande rättigheter
+  replaces: RYF-KNI-ZIS
+  status: ACTIVE
+- code: RYF-BIZ-XYS-BFA-CWW
+  description: Personers rätt att utöva och observera sin tro
+  level: 4
+  name: Religionsfrihet
+  replaces: RYF-KNI-ZIS-CWW
+  status: ACTIVE
+- code: RYF-BIZ-XYS-BFA-DBH
+  description: ''
+  level: 4
+  name: Regeringsformen
+  replaces: RYF-KNI-ZIS-DBH
+  status: ACTIVE
+- code: RYF-BIZ-XYS-BFA-IUN
+  description: Personers rätt att kommunicera och uttrycka åsikter och idéer
+  level: 4
+  name: Yttrandefrihet och tryckfrihet
+  replaces: RYF-KNI-ZIS-IUN
+  status: ACTIVE
+- code: RYF-BIZ-XYS-BFA-IUN-KPA
+  description: ''
+  level: 5
+  name: Offentlighetsprincipen
+  replaces: RYF-KNI-ZIS-IUN-KPA
+  status: ACTIVE
+- code: RYF-BIZ-XYS-BFA-MHO
+  description: ''
+  level: 4
+  name: Successionsordningen
+  replaces: RYF-KNI-ZIS-MHO
+  status: ACTIVE
+- code: RYF-BIZ-XYS-BFA-OPA
+  description: Universiella rättigheter som gäller för alla människor, även icke-medborgare
+  level: 4
+  name: Mänskliga rättigheter
+  replaces: RYF-KNI-ZIS-OPA
+  status: ACTIVE
+- code: RYF-BIZ-XYS-BFA-PQL
+  description: ''
+  level: 4
+  name: Riksdagsordningen
+  replaces: RYF-KNI-ZIS-PQL
+  status: ACTIVE
+- code: RYF-BIZ-XYS-BFA-RAZ
+  description: Enskilda medborgares rättigheter enligt civilrätten
+  level: 4
+  name: Medborgerliga rättigheter
+  replaces: RYF-KNI-ZIS-RAZ
   status: ACTIVE
 - code: RYF-BIZ-XYS-DQN
   description: ''
@@ -1320,7 +1389,7 @@ categories:
   name: Kommunallagen
   status: ACTIVE
 - code: RYF-CUW
-  description: Artiklar om individer, grupper, djur, växter eller andra föremål med fokus på känslomässiga aspekter
+  description: Det som handlar om individer med fokus på känslomässiga aspekter samt högtider
   level: 1
   name: Personligt
   status: ACTIVE
@@ -1680,6 +1749,11 @@ categories:
   level: 4
   name: IVF-behandling
   replaces: RYF-CUW-GIV-GMY-LCI
+  status: ACTIVE
+- code: RYF-CUW-GIV-HBO
+  description: Ett juridiskt och samhälleligt, samt ofta ett religiöst och andligt, avtal mellan samlevande personer
+  level: 3
+  name: Äktenskap
   status: ACTIVE
 - code: RYF-CUW-GIV-IAU
   description: ''
@@ -2316,7 +2390,7 @@ categories:
   name: Livskris
   status: ACTIVE
 - code: RYF-EOI
-  description: ''
+  description: Den mänskliga förståelsen av naturen och den fysiska världen, utveckling och användning av denna kunskap. Vetenskaplig praktik, ingenjörskonst, human- och naturvetenskap, filosofi, research, vetenskapliga undersökningar samt rymdfart
   level: 1
   name: Vetenskap och teknik
   status: ACTIVE
@@ -2738,7 +2812,7 @@ categories:
   replacedBy: RYF-EOI-GJM-LSG
   status: INACTIVE
 - code: RYF-HPT
-  description: Artiklar som rör samhällsfrågor som till exempel välfärden, olika människogrupper och sociala problem
+  description: Samhällets infrastruktur samt mänskligt uppträdande som rör eller påverkar den allmänna livskvaliteten
   level: 1
   name: Samhälle
   status: ACTIVE
@@ -2879,6 +2953,18 @@ categories:
   name: Integration
   replacedBy: RYF-HPT-QGV-MKA
   status: INACTIVE
+- code: RYF-HPT-LZG
+  description: När en enskild eller folkmassa samlats för att protestera, det vill säga offentligt uttrycka sin åsikt i en politisk eller annan fråga
+  level: 2
+  name: Demonstration
+  replaces: RYF-KNI-ZIS-IUN-PGT
+  status: ACTIVE
+- code: RYF-HPT-MDV
+  description: ''
+  level: 2
+  name: Censur
+  replaces: RYF-KNI-ZIS-IUN-DXG
+  status: ACTIVE
 - code: RYF-HPT-MKL
   description: ''
   level: 2
@@ -3839,6 +3925,11 @@ categories:
   level: 4
   name: Fritids
   status: ACTIVE
+- code: RYF-HPT-XRQ-UFA-IMP
+  description: Verksamhet med barnomsorg och utbildning för barn åren innan den egentliga skolgången inleds
+  level: 4
+  name: Daghem
+  status: ACTIVE
 - code: RYF-HPT-XRQ-UFA-QNG
   description: ''
   level: 4
@@ -4235,7 +4326,7 @@ categories:
   replacedBy: RYF-HPT-ZSS-WTL-WIC
   status: INACTIVE
 - code: RYF-ITV
-  description: ''
+  description: Den mänskliga existensen i förhållande till teologi, filosofi, etik och andlighet
   level: 1
   name: Religion och tro
   status: ACTIVE
@@ -4440,7 +4531,7 @@ categories:
   name: Ekumenik
   status: ACTIVE
 - code: RYF-IXA
-  description: ''
+  description: Planering, produktion och utbyte av egendom, handel och tjänster samt makroekonomi
   level: 1
   name: Ekonomi, näringsliv och finans
   status: ACTIVE
@@ -6040,6 +6131,11 @@ categories:
   description: ''
   level: 3
   name: Prisförändring
+  status: ACTIVE
+- code: RYF-IXA-KEV-JTF
+  description: När man låter en maskin eller teknik utföra ett arbete
+  level: 3
+  name: Automation, robotteknik
   status: ACTIVE
 - code: RYF-IXA-KEV-JWG
   description: ''
@@ -8352,6 +8448,11 @@ categories:
   level: 5
   name: Blockkedja, block chain
   status: ACTIVE
+- code: RYF-IXA-QED-LXS-MFB-ZNM
+  description: En implementation av kryptovaluta
+  level: 5
+  name: Bitcoin
+  status: ACTIVE
 - code: RYF-IXA-QED-MNF
   description: ''
   level: 3
@@ -8514,7 +8615,7 @@ categories:
   name: Inkasso
   status: ACTIVE
 - code: RYF-KNI
-  description: ''
+  description: Lokal, regional, nationell, och internationell maktutövning, samt relationer mellan stater och regeringar
   level: 1
   name: Politik
   status: ACTIVE
@@ -9741,61 +9842,72 @@ categories:
   name: Biståndspolitik
   status: ACTIVE
 - code: RYF-KNI-ZIS
-  description: Använd för diskussioner om politiska debatter som rör Sveriges grundläggande lagar och rättigheter
+  description: De lagar som beskriver hur ett land ska styras och vilka rättigheter en enskild har
   level: 2
   name: Grundlagar och grundläggande rättigheter
-  status: ACTIVE
+  replacedBy: RYF-BIZ-XYS-BFA
+  status: INACTIVE
 - code: RYF-KNI-ZIS-CWW
   description: Personers rätt att utöva och observera sin tro
   level: 3
   name: Religionsfrihet
-  status: ACTIVE
+  replacedBy: RYF-BIZ-XYS-BFA-CWW
+  status: INACTIVE
 - code: RYF-KNI-ZIS-DBH
   description: ''
   level: 3
   name: Regeringsformen
-  status: ACTIVE
+  replacedBy: RYF-BIZ-XYS-BFA-DBH
+  status: INACTIVE
 - code: RYF-KNI-ZIS-IUN
   description: Personers rätt att kommunicera och uttrycka åsikter och idéer
   level: 3
   name: Yttrandefrihet och tryckfrihet
-  status: ACTIVE
+  replacedBy: RYF-BIZ-XYS-BFA-IUN
+  status: INACTIVE
 - code: RYF-KNI-ZIS-IUN-DXG
   description: ''
   level: 4
   name: Censur
-  status: ACTIVE
+  replacedBy: RYF-HPT-MDV
+  status: INACTIVE
 - code: RYF-KNI-ZIS-IUN-KPA
   description: ''
   level: 4
   name: Offentlighetsprincipen
-  status: ACTIVE
+  replacedBy: RYF-BIZ-XYS-BFA-IUN-KPA
+  status: INACTIVE
 - code: RYF-KNI-ZIS-IUN-PGT
-  description: En demonstration är en folkmassa som samlats för att offentligt uttrycka en opinion i en politisk eller annan fråga
+  description: När en enskild eller folkmassa samlats för att protestera, det vill säga offentligt uttrycka sin åsikt i en politisk eller annan fråga
   level: 4
-  name: Demonstrationer
+  name: Demonstration
+  replacedBy: RYF-HPT-LZG
   replaces: RYF-WXT-BND-ATO
-  status: ACTIVE
+  status: INACTIVE
 - code: RYF-KNI-ZIS-MHO
   description: ''
   level: 3
   name: Successionsordningen
-  status: ACTIVE
+  replacedBy: RYF-BIZ-XYS-BFA-MHO
+  status: INACTIVE
 - code: RYF-KNI-ZIS-OPA
   description: Universiella rättigheter som gäller för alla människor, även icke-medborgare
   level: 3
   name: Mänskliga rättigheter
-  status: ACTIVE
+  replacedBy: RYF-BIZ-XYS-BFA-OPA
+  status: INACTIVE
 - code: RYF-KNI-ZIS-PQL
   description: ''
   level: 3
   name: Riksdagsordningen
-  status: ACTIVE
+  replacedBy: RYF-BIZ-XYS-BFA-PQL
+  status: INACTIVE
 - code: RYF-KNI-ZIS-RAZ
   description: Enskilda medborgares rättigheter enligt civilrätten
   level: 3
   name: Medborgerliga rättigheter
-  status: ACTIVE
+  replacedBy: RYF-BIZ-XYS-BFA-RAZ
+  status: INACTIVE
 - code: RYF-KNI-ZSH
   description: ''
   level: 2
@@ -9815,7 +9927,7 @@ categories:
   replaces: RYF-KNI-XNS-JVN
   status: ACTIVE
 - code: RYF-NIM
-  description: ''
+  description: Kungligheter samt furstlig persons uppvaktning och betjäning
   level: 1
   name: Kungligt
   status: ACTIVE
@@ -9885,7 +9997,7 @@ categories:
   name: Konselj
   status: ACTIVE
 - code: RYF-QPR
-  description: Sport som huvudämne, både specifika sporter eller sportrelaterade ämnen som dopning och idrottsaffärer
+  description: Idrott och dess utövande, oftast i tävlingsform
   level: 1
   name: Sport
   status: ACTIVE
@@ -9954,6 +10066,11 @@ categories:
   description: ''
   level: 3
   name: Tävlingsdans
+  status: ACTIVE
+- code: RYF-QPR-HGB-AMC-ACZ
+  description: Tävlingsdans med ursprung i breakdance
+  level: 4
+  name: Breaking
   status: ACTIVE
 - code: RYF-QPR-HGB-APE
   description: ''
@@ -13177,9 +13294,9 @@ categories:
   name: Vindsurfing
   status: ACTIVE
 - code: RYF-QPR-HGB-FUZ
-  description: ''
+  description: Tävlingar med specialkonstruerade cyklar på landsväg, på banor inom- och utomhus samt i terräng
   level: 3
-  name: Cykling
+  name: Cykelsport
   status: ACTIVE
 - code: RYF-QPR-HGB-FUZ-CZT
   description: ''
@@ -13206,6 +13323,11 @@ categories:
   level: 4
   name: Cyklo-cross
   status: INACTIVE
+- code: RYF-QPR-HGB-FXC
+  description: Även pickelboll, racketsport som kombinerar tennis, badminton och bordtennis
+  level: 3
+  name: Pickleball
+  status: ACTIVE
 - code: RYF-QPR-HGB-FYT
   description: ''
   level: 3
@@ -13293,6 +13415,7 @@ categories:
   name: Hundsport
   status: ACTIVE
 - code: RYF-QPR-HGB-IYN-ARI
+  description: ''
   level: 4
   name: Agility
   status: ACTIVE
@@ -14620,9 +14743,9 @@ categories:
   replacedBy: RYF-QPR-HGB-APE-XLV
   status: INACTIVE
 - code: RYF-QPR-HGB-WPT
-  description: ''
+  description: Längdskidåkning hör till de nordiska skidgrenarna och bedrivs i klassisk stil eller fristil
   level: 3
-  name: Längdskidåkning
+  name: Längdåkning
   replaces: RYF-QPR-HGB-AYA-MFT
   status: ACTIVE
 - code: RYF-QPR-HGB-WPT-DJO
@@ -14976,7 +15099,7 @@ categories:
   name: Tips och odds
   status: ACTIVE
 - code: RYF-TKT
-  description: ''
+  description: Aktiviteter ägnade att ge njutning, avslappning, rekreation utanför betald arbetstid, inklusive mat och resor. Spel, tips och lotterier, gastronomi, hobbyer, semester, turism
   level: 1
   name: Livsstil och fritid
   status: ACTIVE
@@ -19440,7 +19563,7 @@ categories:
   replacedBy: RYF-TKT-OUV
   status: INACTIVE
 - code: RYF-VHD
-  description: ''
+  description: Aspekter av skydd, skador och hälsa hos planetens ekosystem, bevarande av arter
   level: 1
   name: Klimat och miljö
   status: ACTIVE
@@ -19984,7 +20107,7 @@ categories:
   name: Övergödning
   status: ACTIVE
 - code: RYF-WHZ
-  description: ''
+  description: Tillståndet eller en växling i tillstånd i en atmosfär vid ett givet tillfälle eller under en kortare tidsrymd samt meteorologiska rapporteringar och förutsägelser. Väderrapporter, statistik, varningar
   level: 1
   name: Väder
   status: ACTIVE
@@ -20085,7 +20208,7 @@ categories:
   name: Kyla
   status: ACTIVE
 - code: RYF-WUU
-  description: ''
+  description: Människors fysiska och mentala hälsa
   level: 1
   name: Hälsa och sjukvård
   status: ACTIVE
@@ -22353,7 +22476,7 @@ categories:
   name: Alkoholism
   status: ACTIVE
 - code: RYF-WXT
-  description: ''
+  description: Socialt eller politiskt motiverad oro, våldshandlingar och väpnade konflikter
   level: 1
   name: Konflikter och krig
   status: ACTIVE
@@ -22693,7 +22816,7 @@ categories:
   replaces: RYF-WXT-UBT-QGE
   status: INACTIVE
 - code: RYF-XKI
-  description: ''
+  description: Utveckling och förfining av det mänskliga medvetandet, av intressen, färdigheter, smak och känslor, inklusive sådant som språk, radio, och tv
   level: 1
   name: Kultur och nöje
   status: ACTIVE
@@ -22775,6 +22898,11 @@ categories:
   description: ''
   level: 3
   name: Källkritik
+  status: ACTIVE
+- code: RYF-XKI-BUS-IXK-SSA
+  description: Avsiktligt falsk eller vilseledande information som sprids på ett planerat sätt i syfte att nå en viss målgrupp
+  level: 4
+  name: Desinformation
   status: ACTIVE
 - code: RYF-XKI-BUS-NXX
   description: Till exempel "Big Brother", "Gift vid första ögonkastet"
@@ -24035,7 +24163,7 @@ categories:
   replacedBy: RYF-XKI-CUP-EDZ-ZBW
   status: INACTIVE
 - code: RYF-XRZ
-  description: ''
+  description: Kommunikationer och transportmedel på en väg, vare sig den är på land, till sjöss eller i luften
   level: 1
   name: Trafik och fordon
   status: ACTIVE
@@ -24602,6 +24730,7 @@ categories:
   name: Körkort
   status: ACTIVE
 - code: RYF-XRZ-UHR-OCA
+  description: ''
   level: 3
   name: Förarprov
   status: ACTIVE
@@ -24797,7 +24926,7 @@ categories:
   name: Fordonsskatt
   status: ACTIVE
 - code: RYF-YDR
-  description: ''
+  description: Mänskligt lärande från födsel till död. Vuxenutbildning, vidareutbildning, föräldraorganisationer, förskolor, skolor, lärarfack, universitet
   level: 1
   name: Skola och utbildning
   status: ACTIVE
@@ -25124,7 +25253,7 @@ categories:
   name: Föräldrakooperativ
   status: ACTIVE
 - code: RYF-ZEI
-  description: Sociala aspekter, lagar, regler och förhållanden som påverkar sysselsättning och arbetslöshet
+  description: Arbete är en mänsklig verksamhet som genererar någon form av värde
   level: 1
   name: Arbete
   status: ACTIVE
