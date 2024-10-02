@@ -76,15 +76,7 @@ modifications:
   Code: RYF-QPR-HGB-DEN-OPP
   newName: P16
 - action: ADD
-  name: P19 Allsvenskan
-  parentCode: RYF-QPR-HGB-DEN
-  parentName: Fotboll
-- action: ADD
-  name: P19 Div 1 Region 1
-  parentCode: RYF-QPR-HGB-DEN
-  parentName: Fotboll
-- action: ADD
-  name: P19 Superettan södra
+  name: P19
   parentCode: RYF-QPR-HGB-DEN
   parentName: Fotboll
 - action: ADD
