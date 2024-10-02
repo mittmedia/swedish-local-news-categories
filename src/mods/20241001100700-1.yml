@@ -1,93 +1,121 @@
 modifications:
 - action: ADD
+  code: RYF-QPR-HGB-WVD-AQJ
   name: Elitserien herr
   parentCode: RYF-QPR-HGB-WVD
   parentName: Tennis
 - action: ADD
+  code: RYF-QPR-HGB-WVD-HFP
   name: Elitserien dam
   parentCode: RYF-QPR-HGB-WVD
   parentName: Tennis
 - action: ADD
+  code: RYF-QPR-HGB-PJR-TWN
   name: Svenska Cupen herr
   parentCode: RYF-QPR-HGB-PJR
   parentName: Handboll
 - action: ADD
+  code: RYF-QPR-HGB-WVD-ZAK
   name: Div.1 herr
   parentCode: RYF-QPR-HGB-WVD
   parentName: Tennis
 - action: ADD
+  code: RYF-QPR-HGB-DEN-EWM
   name: England herr
   parentCode: RYF-QPR-HGB-DEN
   parentName: Fotboll
 - action: ADD
+  code: RYF-QPR-HGB-DEN-NRS
   name: P16 herr
   parentCode: RYF-QPR-HGB-DEN
   parentName: Fotboll
 - action: ADD
+  code: RYF-QPR-HGB-BQN-UGF
   name: HockeyTrean herr
   parentCode: RYF-QPR-HGB-BQN
   parentName: Ishockey
 - action: ADD
+  code: RYF-QPR-HGB-WVD-TMG
   name: Division 1 dam
   parentCode: RYF-QPR-HGB-WVD
   parentName: Tennis
 - action: ADD
+  code: RYF-QPR-HGB-DEN-CSJ
   name: Nations League herr
   parentCode: RYF-QPR-HGB-DEN
   parentName: Fotboll
 - action: ADD
+  code: RYF-QPR-HGB-DEN-GBH
   name: EM-kval dam
   parentCode: RYF-QPR-HGB-DEN
   parentName: Fotboll
 - action: ADD
+  code: RYF-QPR-HGB-IUC-TLH
   name: Regionserien herr
   parentCode: RYF-QPR-HGB-IUC
   parentName: Baseboll
 - action: ADD
+  code: RYF-QPR-HGB-YFG-PRO
   name: Division 1 herr
   parentCode: RYF-QPR-HGB-YFG
   parentName: Curling
 - action: ADD
+  code: RYF-QPR-HGB-DEN-QIR
   name: 24 herr
   parentCode: RYF-QPR-HGB-DEN
   parentName: Fotboll
 - action: ADD
+  code: RYF-QPR-HGB-DEN-FOE
   name: 24 dam
   parentCode: RYF-QPR-HGB-DEN
   parentName: Fotboll
 - action: ADD
+  code: RYF-QPR-HGB-DEN-JHT
   name: EM herr
   parentCode: RYF-QPR-HGB-DEN
   parentName: Fotboll
 - action: ADD
+  code: RYF-QPR-HGB-DEN-NWF
   name: Italien dam
   parentCode: RYF-QPR-HGB-DEN
   parentName: Fotboll
 - action: ADD
+  code: RYF-QPR-HGB-DZQ-DAF
+  name: Division 1 dam
+  parentCode: RYF-QPR-HGB-DZQ
+  parentName: Amerikansk fotboll
+- action: ADD
+  code: RYF-QPR-HGB-BQN-RZV
   name: HockeyTvåan herr
   parentCode: RYF-QPR-HGB-BQN
   parentName: Ishockey
 - action: ADD
+  code: RYF-QPR-HGB-DEN-GIS
   name: Italien herr
   parentCode: RYF-QPR-HGB-DEN
   parentName: Fotboll
 - action: ADD
+  code: RYF-QPR-HGB-DEN-GHY
   name: Tyskland herr
   parentCode: RYF-QPR-HGB-DEN
   parentName: Fotboll
 - action: ADD
+  code: RYF-QPR-HGB-DEN-PDZ
   name: Spanien herr
   parentCode: RYF-QPR-HGB-DEN
   parentName: Fotboll
 - action: ADD
+  code: RYF-QPR-HGB-DEN-VOQ
   name: Grekland herr
   parentCode: RYF-QPR-HGB-DEN
   parentName: Fotboll
 - action: ADD
+  code: RYF-QPR-HGB-DEN-LIQ
   name: Turkiet herr
   parentCode: RYF-QPR-HGB-DEN
   parentName: Fotboll
 - action: ADD
+  code: RYF-QPR-HGB-DGM-BWZ
   name: Division 3 herr
   parentCode: RYF-QPR-HGB-DGM
   parentName: Bowling

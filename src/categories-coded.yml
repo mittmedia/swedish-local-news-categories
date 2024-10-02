@@ -10359,6 +10359,7 @@ categories:
   name: Dalarna
   status: ACTIVE
 - code: RYF-QPR-HGB-BAH-YTU
+  description: ''
   level: 4
   name: Division 3 mellersta södra dam
   status: ACTIVE
@@ -10589,6 +10590,7 @@ categories:
   name: Östra B
   status: ACTIVE
 - code: RYF-QPR-HGB-BQN-KQW
+  description: ''
   level: 4
   name: J18 kvalserie region syd herr
   status: ACTIVE
@@ -10628,6 +10630,7 @@ categories:
   name: FM-ligan
   status: ACTIVE
 - code: RYF-QPR-HGB-BQN-MIB
+  description: ''
   level: 4
   name: Play off till J20 kval Nationell södra
   status: ACTIVE
@@ -10653,6 +10656,7 @@ categories:
   replaces: RYF-QPR-HGB-BQN-TQL-DHE
   status: ACTIVE
 - code: RYF-QPR-HGB-BQN-OPY
+  description: ''
   level: 4
   name: J18 kvalserie division 1 syd herr
   status: ACTIVE
@@ -11148,6 +11152,7 @@ categories:
   name: Kälkhockey
   status: INACTIVE
 - code: RYF-QPR-HGB-BQN-YSK
+  description: ''
   level: 4
   name: Kvalserien till Hockeyallsvenskan
   status: ACTIVE
@@ -11573,6 +11578,7 @@ categories:
   name: Spanien herr
   status: ACTIVE
 - code: RYF-QPR-HGB-DEN-BQL
+  description: ''
   level: 4
   name: Division 6 herr Älmhult
   status: ACTIVE
@@ -11972,6 +11978,7 @@ categories:
   name: Svenska Cupen 23/24 Omgång 2
   status: ACTIVE
 - code: RYF-QPR-HGB-DEN-DLF
+  description: ''
   level: 4
   name: Division 3 dam Skåne östra
   status: ACTIVE
@@ -11991,10 +11998,12 @@ categories:
   name: Nations League Grupp A2
   status: ACTIVE
 - code: RYF-QPR-HGB-DEN-ELZ
+  description: ''
   level: 4
   name: P17 Div 1 Region 1
   status: ACTIVE
 - code: RYF-QPR-HGB-DEN-EOI
+  description: ''
   level: 4
   name: P19 Superettan södra
   status: ACTIVE
@@ -12009,6 +12018,7 @@ categories:
   name: Nationella ligan
   status: ACTIVE
 - code: RYF-QPR-HGB-DEN-FNV
+  description: ''
   level: 4
   name: Division 3 herr sydvästra Götaland
   status: ACTIVE
@@ -12248,6 +12258,7 @@ categories:
   name: EM Grupp B
   status: ACTIVE
 - code: RYF-QPR-HGB-DEN-GSX
+  description: ''
   level: 4
   name: Division 4 dam Vetlanda
   status: ACTIVE
@@ -12272,6 +12283,7 @@ categories:
   name: Tyskland herr
   status: ACTIVE
 - code: RYF-QPR-HGB-DEN-HCY
+  description: ''
   level: 4
   name: Division 6 herr Vetlanda
   status: ACTIVE
@@ -12601,6 +12613,7 @@ categories:
   name: Superettan södra
   status: ACTIVE
 - code: RYF-QPR-HGB-DEN-HVA
+  description: ''
   level: 4
   name: P19 Div 1 Region 1
   status: ACTIVE
@@ -12610,6 +12623,7 @@ categories:
   name: EM herr
   status: ACTIVE
 - code: RYF-QPR-HGB-DEN-HXB
+  description: ''
   level: 4
   name: A-slutspel i P17-Allsvenskan
   status: ACTIVE
@@ -12674,6 +12688,7 @@ categories:
   name: Svenska spel F19
   status: ACTIVE
 - code: RYF-QPR-HGB-DEN-KQG
+  description: ''
   level: 4
   name: Division 5 herr Skåne östra
   status: ACTIVE
@@ -12708,10 +12723,12 @@ categories:
   name: Europa League Första kvalomgången
   status: ACTIVE
 - code: RYF-QPR-HGB-DEN-LFN
+  description: ''
   level: 4
   name: P17 Allsvenskan södra
   status: ACTIVE
 - code: RYF-QPR-HGB-DEN-LKY
+  description: ''
   level: 4
   name: Division 4 herr Västergötland östra
   status: ACTIVE
@@ -12731,6 +12748,7 @@ categories:
   name: Nations League herr
   status: ACTIVE
 - code: RYF-QPR-HGB-DEN-MEJ
+  description: ''
   level: 4
   name: Division 5 herr Skåne södra
   status: ACTIVE
@@ -12750,6 +12768,7 @@ categories:
   name: Grekland Super League
   status: ACTIVE
 - code: RYF-QPR-HGB-DEN-MRT
+  description: ''
   level: 4
   name: Division 4 dam Skåne södra
   status: ACTIVE
@@ -13014,14 +13033,17 @@ categories:
   name: Grekland Nedflyttningsserie
   status: ACTIVE
 - code: RYF-QPR-HGB-DEN-NBL
+  description: ''
   level: 4
   name: Svenska spel F19 södra
   status: ACTIVE
 - code: RYF-QPR-HGB-DEN-NOU
+  description: ''
   level: 4
   name: P16 Allsvenskan, A-slutspel södra
   status: ACTIVE
 - code: RYF-QPR-HGB-DEN-NQR
+  description: ''
   level: 4
   name: F17 SM södra Götaland
   status: ACTIVE
@@ -13051,10 +13073,12 @@ categories:
   name: Italien herr
   status: ACTIVE
 - code: RYF-QPR-HGB-DEN-OOB
+  description: ''
   level: 4
   name: P 17 Division 1 Region 2
   status: ACTIVE
 - code: RYF-QPR-HGB-DEN-OOQ
+  description: ''
   level: 4
   name: P17 Allsvenskan A-slutspel
   status: ACTIVE
@@ -13074,6 +13098,7 @@ categories:
   name: Svenska Cupen 23/24 Semifinal
   status: ACTIVE
 - code: RYF-QPR-HGB-DEN-PVD
+  description: ''
   level: 4
   name: P16 Allsvenskan södra
   status: ACTIVE
@@ -13098,6 +13123,7 @@ categories:
   name: EM Grupp E
   status: ACTIVE
 - code: RYF-QPR-HGB-DEN-RLE
+  description: ''
   level: 4
   name: P19 Allsvenskan
   status: ACTIVE
@@ -13117,6 +13143,7 @@ categories:
   name: Semifinal
   status: ACTIVE
 - code: RYF-QPR-HGB-DEN-SEO
+  description: ''
   level: 4
   name: Division 6 herr Skåne södra
   status: ACTIVE
@@ -13131,6 +13158,7 @@ categories:
   name: Elitcupen västra herr
   status: ACTIVE
 - code: RYF-QPR-HGB-DEN-SRG
+  description: ''
   level: 4
   name: Division 3 herr södra Götaland
   status: ACTIVE
@@ -13410,6 +13438,7 @@ categories:
   name: Mellersta Götaland
   status: INACTIVE
 - code: RYF-QPR-HGB-DEN-UBO
+  description: ''
   level: 4
   name: Division 4 herr Skåne östra
   status: ACTIVE
@@ -13419,6 +13448,7 @@ categories:
   name: P16 Div 1 Region 6 B-slutspel
   status: ACTIVE
 - code: RYF-QPR-HGB-DEN-UJJ
+  description: ''
   level: 4
   name: F17 SM norra Götaland
   status: ACTIVE
@@ -13438,6 +13468,7 @@ categories:
   name: EM-kval Playoff, semifinal
   status: ACTIVE
 - code: RYF-QPR-HGB-DEN-URO
+  description: ''
   level: 4
   name: Division 6 herr Blekinge
   status: ACTIVE
@@ -13512,6 +13543,7 @@ categories:
   name: EM Grupp C
   status: ACTIVE
 - code: RYF-QPR-HGB-DEN-XUD
+  description: ''
   level: 4
   name: Division 4 dam Blekinge
   status: ACTIVE
@@ -13661,6 +13693,7 @@ categories:
   name: 24 dam
   status: ACTIVE
 - code: RYF-QPR-HGB-DEN-ZJG
+  description: ''
   level: 4
   name: Division 3 herr sydvästra Götaland
   status: ACTIVE
@@ -13685,6 +13718,7 @@ categories:
   name: Division 1 herr
   status: ACTIVE
 - code: RYF-QPR-HGB-DGM-HEC
+  description: ''
   level: 4
   name: Division 1 herr södra Götaland
   status: ACTIVE
@@ -13694,10 +13728,12 @@ categories:
   name: Division 3 södra Götaland 2
   status: ACTIVE
 - code: RYF-QPR-HGB-DGM-MSF
+  description: ''
   level: 4
   name: Sydallsvenskan herr
   status: ACTIVE
 - code: RYF-QPR-HGB-DGM-MUE
+  description: ''
   level: 4
   name: Division 3 östra Götaland 3
   status: ACTIVE
@@ -13707,6 +13743,7 @@ categories:
   name: Elitserien dam
   status: ACTIVE
 - code: RYF-QPR-HGB-DGM-NOC
+  description: ''
   level: 4
   name: Division 2 herr södra Götaland
   status: ACTIVE
@@ -13721,14 +13758,17 @@ categories:
   name: Division 3 herr
   status: ACTIVE
 - code: RYF-QPR-HGB-DGM-RCT
+  description: ''
   level: 4
   name: Allsvenskan södra damer
   status: ACTIVE
 - code: RYF-QPR-HGB-DGM-SEL
+  description: ''
   level: 4
   name: Division 1 herr norra Götaland
   status: ACTIVE
 - code: RYF-QPR-HGB-DGM-SZZ
+  description: ''
   level: 4
   name: Division 2 västra Götaland
   status: ACTIVE
@@ -13738,6 +13778,7 @@ categories:
   name: Allsvenskan herr
   status: ACTIVE
 - code: RYF-QPR-HGB-DGM-YVC
+  description: ''
   level: 4
   name: Division 3 södra Götaland 4
   status: ACTIVE
@@ -14074,6 +14115,7 @@ categories:
   name: Baseboll
   status: ACTIVE
 - code: RYF-QPR-HGB-IUC-EQM
+  description: ''
   level: 4
   name: Regionserien herrar
   status: ACTIVE
@@ -14128,6 +14170,7 @@ categories:
   name: Division 1 herr
   status: ACTIVE
 - code: RYF-QPR-HGB-JDC-FIM
+  description: ''
   level: 4
   name: Division 3 herr sydsvenska sydöstra
   status: ACTIVE
@@ -14162,6 +14205,7 @@ categories:
   name: Division 2 dam
   status: ACTIVE
 - code: RYF-QPR-HGB-JDC-YQJ
+  description: ''
   level: 4
   name: Division 2 herr sydsvenska norra
   status: ACTIVE
@@ -14287,6 +14331,7 @@ categories:
   name: Rugby
   status: ACTIVE
 - code: RYF-QPR-HGB-MUD-AIN
+  description: ''
   level: 4
   name: Allsvenskan söder dam
   status: ACTIVE
@@ -14301,6 +14346,7 @@ categories:
   name: Allsvenskan herr
   status: ACTIVE
 - code: RYF-QPR-HGB-MUD-OHL
+  description: ''
   level: 4
   name: Allsvenskan Semifinal dam
   status: ACTIVE
@@ -14310,6 +14356,7 @@ categories:
   name: Division 1 herr
   status: ACTIVE
 - code: RYF-QPR-HGB-MUD-ZXD
+  description: ''
   level: 4
   name: Superallsvenskan herr
   status: ACTIVE
@@ -14541,6 +14588,7 @@ categories:
   name: Handbollsligan dam
   status: ACTIVE
 - code: RYF-QPR-HGB-PJR-HMV
+  description: ''
   level: 4
   name: Kvalet till Handbollsligan herr
   status: ACTIVE
@@ -14635,6 +14683,7 @@ categories:
   name: Västsvenska västra
   status: ACTIVE
 - code: RYF-QPR-HGB-PJR-NWU
+  description: ''
   level: 4
   name: Division 1 herr direkt off
   status: ACTIVE
@@ -14674,10 +14723,12 @@ categories:
   name: Svenska Cupen herr
   status: ACTIVE
 - code: RYF-QPR-HGB-PJR-WVD
+  description: ''
   level: 4
   name: Division 1 herrar direkt off
   status: ACTIVE
 - code: RYF-QPR-HGB-PJR-XCQ
+  description: ''
   level: 4
   name: Division 2 herr direkt off syd
   status: ACTIVE
@@ -14812,6 +14863,7 @@ categories:
   name: Innebandy
   status: ACTIVE
 - code: RYF-QPR-HGB-QHJ-ATZ
+  description: ''
   level: 4
   name: Playoff 2 till division 2 Västergötland herr
   status: ACTIVE
@@ -15166,10 +15218,12 @@ categories:
   name: Division 4 herr
   status: ACTIVE
 - code: RYF-QPR-HGB-QHJ-WWE
+  description: ''
   level: 4
   name: Playoff 1 till division 2 Västergötland herr
   status: ACTIVE
 - code: RYF-QPR-HGB-QHJ-XBQ
+  description: ''
   level: 4
   name: Playoff 1 till division 1 Västergötland herr
   status: ACTIVE
@@ -15769,6 +15823,7 @@ categories:
   name: Futsal
   status: ACTIVE
 - code: RYF-QPR-HGB-YOC-AJQ
+  description: ''
   level: 4
   name: RFL Semifinal damer
   status: ACTIVE
@@ -15778,10 +15833,12 @@ categories:
   name: Division 2 dam
   status: ACTIVE
 - code: RYF-QPR-HGB-YOC-OEP
+  description: ''
   level: 4
   name: 'RFL SM-final: damer'
   status: ACTIVE
 - code: RYF-QPR-HGB-YOC-OUV
+  description: ''
   level: 4
   name: Futsalligans semifinal herrar
   status: ACTIVE
@@ -15791,6 +15848,7 @@ categories:
   name: RFL dam
   status: ACTIVE
 - code: RYF-QPR-HGB-YOC-RQK
+  description: ''
   level: 4
   name: RFL Kvartsfinal damer
   status: ACTIVE
@@ -15805,6 +15863,7 @@ categories:
   name: Futsalligan
   status: ACTIVE
 - code: RYF-QPR-HGB-YOC-TXT
+  description: ''
   level: 4
   name: Futsalligan SM-final herrar
   status: ACTIVE
@@ -15864,6 +15923,7 @@ categories:
   name: Norra
   status: ACTIVE
 - code: RYF-QPR-HGB-YTM-QIH
+  description: ''
   level: 4
   name: Division 1 Mix mellan
   status: ACTIVE

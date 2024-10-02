@@ -1,409 +1,511 @@
 modifications:
 - action: ADD
+  code: RYF-QPR-HGB-WVD-AQJ-MMA
   name: Elitserien Grupp A
-  parentCode: ''
-  parentName: Tennis
+  parentCode: RYF-QPR-HGB-WVD-AQJ
+  parentName: Elitserien herr
 - action: ADD
+  code: RYF-QPR-HGB-WVD-AQJ-IDC
   name: Elitserien Grupp B
-  parentCode: ''
-  parentName: Tennis
+  parentCode: RYF-QPR-HGB-WVD-AQJ
+  parentName: Elitserien herr
 - action: ADD
+  code: RYF-QPR-HGB-WVD-HFP-NIU
   name: Elitserien Grupp A
-  parentCode: ''
-  parentName: Tennis
+  parentCode: RYF-QPR-HGB-WVD-HFP
+  parentName: Elitserien dam
 - action: ADD
+  code: RYF-QPR-HGB-WVD-HFP-VWF
   name: Elitserien Grupp B
-  parentCode: ''
-  parentName: Tennis
+  parentCode: RYF-QPR-HGB-WVD-HFP
+  parentName: Elitserien dam
 - action: ADD
+  code: RYF-QPR-HGB-PJR-RRX-DIV
   name: Division 4 Dam 4 Väst Sydost
-  parentCode: ''
+  parentCode: RYF-QPR-HGB-PJR-RRX
   parentName: Division 4 dam
 - action: ADD
+  code: RYF-QPR-HGB-BAH-XQF-YIS
   name: Division 3 östra
-  parentCode: ''
+  parentCode: RYF-QPR-HGB-BAH-XQF
   parentName: Division 3 herr
 - action: ADD
+  code: RYF-QPR-HGB-PJR-TWN-KCA
   name: Svenska Cupen Åttondelsfinal
-  parentCode: ''
-  parentName: Handboll
+  parentCode: RYF-QPR-HGB-PJR-TWN
+  parentName: Svenska Cupen herr
 - action: ADD
+  code: RYF-QPR-HGB-PJR-TWN-EXT
   name: Svenska Cupen Kvartsfinal
-  parentCode: ''
-  parentName: Handboll
+  parentCode: RYF-QPR-HGB-PJR-TWN
+  parentName: Svenska Cupen herr
 - action: ADD
+  code: RYF-QPR-HGB-WVD-ZAK-GTD
   name: Div.1 södra
-  parentCode: ''
-  parentName: Tennis
+  parentCode: RYF-QPR-HGB-WVD-ZAK
+  parentName: Div.1 herr
 - action: ADD
+  code: RYF-QPR-HGB-DEN-EWM-GZR
   name: England Play off till Championship, final
-  parentCode: ''
-  parentName: Fotboll
+  parentCode: RYF-QPR-HGB-DEN-EWM
+  parentName: England herr
 - action: ADD
+  code: RYF-QPR-HGB-DEN-NRS-OSW
   name: P16 Allsvenskan, B-slutspel mellersta
-  parentCode: ''
-  parentName: Fotboll
+  parentCode: RYF-QPR-HGB-DEN-NRS
+  parentName: P16 herr
 - action: ADD
+  code: RYF-QPR-HGB-BQN-UGF-IWV
   name: HockeyTrean Värmland
-  parentCode: ''
-  parentName: Ishockey
+  parentCode: RYF-QPR-HGB-BQN-UGF
+  parentName: HockeyTrean herr
 - action: ADD
+  code: RYF-QPR-HGB-WVD-TMG-ZRT
   name: Division 1 södra
-  parentCode: ''
-  parentName: Tennis
+  parentCode: RYF-QPR-HGB-WVD-TMG
+  parentName: Division 1 dam
 - action: ADD
+  code: RYF-QPR-HGB-DEN-CSJ-DZS
   name: Nations League Grupp A1
-  parentCode: ''
-  parentName: Fotboll
+  parentCode: RYF-QPR-HGB-DEN-CSJ
+  parentName: Nations League herr
 - action: ADD
+  code: RYF-QPR-HGB-DEN-CSJ-UPX
   name: Nations League Grupp A2
-  parentCode: ''
-  parentName: Fotboll
+  parentCode: RYF-QPR-HGB-DEN-CSJ
+  parentName: Nations League herr
 - action: ADD
+  code: RYF-QPR-HGB-DEN-CSJ-SEA
   name: Nations League Grupp A3
-  parentCode: ''
-  parentName: Fotboll
+  parentCode: RYF-QPR-HGB-DEN-CSJ
+  parentName: Nations League herr
 - action: ADD
+  code: RYF-QPR-HGB-DEN-CSJ-UNN
   name: Nations League Grupp A4
-  parentCode: ''
-  parentName: Fotboll
+  parentCode: RYF-QPR-HGB-DEN-CSJ
+  parentName: Nations League herr
 - action: ADD
+  code: RYF-QPR-HGB-DEN-CSJ-FVE
   name: Nations League Grupp B1
-  parentCode: ''
-  parentName: Fotboll
+  parentCode: RYF-QPR-HGB-DEN-CSJ
+  parentName: Nations League herr
 - action: ADD
+  code: RYF-QPR-HGB-DEN-CSJ-QNI
   name: Nations League Grupp B2
-  parentCode: ''
-  parentName: Fotboll
+  parentCode: RYF-QPR-HGB-DEN-CSJ
+  parentName: Nations League herr
 - action: ADD
+  code: RYF-QPR-HGB-DEN-CSJ-NNH
   name: Nations League Grupp B3
-  parentCode: ''
-  parentName: Fotboll
+  parentCode: RYF-QPR-HGB-DEN-CSJ
+  parentName: Nations League herr
 - action: ADD
+  code: RYF-QPR-HGB-DEN-CSJ-GMD
   name: Nations League Grupp B4
-  parentCode: ''
-  parentName: Fotboll
+  parentCode: RYF-QPR-HGB-DEN-CSJ
+  parentName: Nations League herr
 - action: ADD
+  code: RYF-QPR-HGB-DEN-CSJ-HPP
   name: Nations League Grupp C1
-  parentCode: ''
-  parentName: Fotboll
+  parentCode: RYF-QPR-HGB-DEN-CSJ
+  parentName: Nations League herr
 - action: ADD
+  code: RYF-QPR-HGB-DEN-CSJ-NTP
   name: Nations League Grupp C2
-  parentCode: ''
-  parentName: Fotboll
+  parentCode: RYF-QPR-HGB-DEN-CSJ
+  parentName: Nations League herr
 - action: ADD
+  code: RYF-QPR-HGB-DEN-CSJ-IJI
   name: Nations League Grupp C3
-  parentCode: ''
-  parentName: Fotboll
+  parentCode: RYF-QPR-HGB-DEN-CSJ
+  parentName: Nations League herr
 - action: ADD
+  code: RYF-QPR-HGB-DEN-CSJ-JZS
   name: Nations League Grupp C4
-  parentCode: ''
-  parentName: Fotboll
+  parentCode: RYF-QPR-HGB-DEN-CSJ
+  parentName: Nations League herr
 - action: ADD
+  code: RYF-QPR-HGB-DEN-CSJ-HNT
   name: Nations League Grupp D1
-  parentCode: ''
-  parentName: Fotboll
+  parentCode: RYF-QPR-HGB-DEN-CSJ
+  parentName: Nations League herr
 - action: ADD
+  code: RYF-QPR-HGB-DEN-CSJ-UVM
   name: Nations League Grupp D2
-  parentCode: ''
-  parentName: Fotboll
+  parentCode: RYF-QPR-HGB-DEN-CSJ
+  parentName: Nations League herr
 - action: ADD
+  code: RYF-QPR-HGB-DEN-GBH-AXX
   name: EM-kval Grupp A1
-  parentCode: ''
-  parentName: Fotboll
+  parentCode: RYF-QPR-HGB-DEN-GBH
+  parentName: EM-kval dam
 - action: ADD
+  code: RYF-QPR-HGB-DEN-GBH-GLJ
   name: EM-kval Grupp A2
-  parentCode: ''
-  parentName: Fotboll
+  parentCode: RYF-QPR-HGB-DEN-GBH
+  parentName: EM-kval dam
 - action: ADD
+  code: RYF-QPR-HGB-DEN-GBH-LEY
   name: EM-kval Grupp A3
-  parentCode: ''
-  parentName: Fotboll
+  parentCode: RYF-QPR-HGB-DEN-GBH
+  parentName: EM-kval dam
 - action: ADD
+  code: RYF-QPR-HGB-DEN-GBH-VGB
   name: EM-kval Grupp A4
-  parentCode: ''
-  parentName: Fotboll
+  parentCode: RYF-QPR-HGB-DEN-GBH
+  parentName: EM-kval dam
 - action: ADD
+  code: RYF-QPR-HGB-DEN-GBH-FRZ
   name: EM-kval Playoff, semifinal
-  parentCode: ''
-  parentName: Fotboll
+  parentCode: RYF-QPR-HGB-DEN-GBH
+  parentName: EM-kval dam
 - action: ADD
+  code: RYF-QPR-HGB-DEN-XYS-WJZ
   name: Champions League
-  parentCode: ''
+  parentCode: RYF-QPR-HGB-DEN-XYS
   parentName: Champions League
 - action: ADD
+  code: RYF-QPR-HGB-DEN-LEU-CZQ
   name: Europa League
-  parentCode: ''
+  parentCode: RYF-QPR-HGB-DEN-LEU
   parentName: Europa League
 - action: ADD
+  code: RYF-QPR-HGB-DEN-VKZ-HFF
   name: Conference League
-  parentCode: ''
+  parentCode: RYF-QPR-HGB-DEN-VKZ
   parentName: Conference League
 - action: ADD
+  code: RYF-QPR-HGB-BQN-ZTJ-HVB
   name: CHL
-  parentCode: ''
+  parentCode: RYF-QPR-HGB-BQN-ZTJ
   parentName: Champions Hockey League
 - action: ADD
+  code: RYF-QPR-HGB-BAH-XQF-IVF
   name: Division 3 norra
-  parentCode: ''
+  parentCode: RYF-QPR-HGB-BAH-XQF
   parentName: Division 3 herr
 - action: ADD
+  code: RYF-QPR-HGB-IUC-TLH-XAV
   name: Regionserien Final
-  parentCode: ''
-  parentName: Baseboll
+  parentCode: RYF-QPR-HGB-IUC-TLH
+  parentName: Regionserien herr
 - action: ADD
+  code: RYF-QPR-HGB-YFG-PRO-SJL
   name: Division 1 norra
-  parentCode: ''
-  parentName: Curling
+  parentCode: RYF-QPR-HGB-YFG-PRO
+  parentName: Division 1 herr
 - action: ADD
+  code: RYF-QPR-HGB-DEN-QIR-BAT
   name: Svenska Cupen 23/24 Omgång 1
-  parentCode: ''
-  parentName: Fotboll
+  parentCode: RYF-QPR-HGB-DEN-QIR
+  parentName: 24 herr
 - action: ADD
+  code: RYF-QPR-HGB-DEN-QIR-WLC
   name: Svenska Cupen 23/24 Omgång 2
-  parentCode: ''
-  parentName: Fotboll
+  parentCode: RYF-QPR-HGB-DEN-QIR
+  parentName: 24 herr
 - action: ADD
+  code: RYF-QPR-HGB-DEN-QIR-GPT
   name: Svenska Cupen 23/24 Kvartsfinal
-  parentCode: ''
-  parentName: Fotboll
+  parentCode: RYF-QPR-HGB-DEN-QIR
+  parentName: 24 herr
 - action: ADD
+  code: RYF-QPR-HGB-DEN-QIR-IHW
   name: Svenska Cupen 23/24 Semifinal
-  parentCode: ''
-  parentName: Fotboll
+  parentCode: RYF-QPR-HGB-DEN-QIR
+  parentName: 24 herr
 - action: ADD
+  code: RYF-QPR-HGB-DEN-FOE-DFH
   name: Svenska Cupen 23/24 Omgång 2
-  parentCode: ''
-  parentName: Fotboll
+  parentCode: RYF-QPR-HGB-DEN-FOE
+  parentName: 24 dam
 - action: ADD
+  code: RYF-QPR-HGB-DEN-FOE-HRO
   name: Svenska Cupen 23/24 Omgång 3
-  parentCode: ''
-  parentName: Fotboll
+  parentCode: RYF-QPR-HGB-DEN-FOE
+  parentName: 24 dam
 - action: ADD
+  code: RYF-QPR-HGB-DEN-FOE-AMA
   name: Svenska Cupen 23/24 Semifinal
-  parentCode: ''
-  parentName: Fotboll
+  parentCode: RYF-QPR-HGB-DEN-FOE
+  parentName: 24 dam
 - action: ADD
+  code: RYF-QPR-HGB-DEN-XYS-XQM
   name: Champions League Första kvalomgången
-  parentCode: ''
+  parentCode: RYF-QPR-HGB-DEN-XYS
   parentName: Champions League
 - action: ADD
+  code: RYF-QPR-HGB-DEN-XYS-VQQ
   name: Champions League Andra kvalomgången
-  parentCode: ''
+  parentCode: RYF-QPR-HGB-DEN-XYS
   parentName: Champions League
 - action: ADD
+  code: RYF-QPR-HGB-DEN-XYS-PND
   name: Champions League Tredje kvalomgången
-  parentCode: ''
+  parentCode: RYF-QPR-HGB-DEN-XYS
   parentName: Champions League
 - action: ADD
+  code: RYF-QPR-HGB-DEN-XYS-HQC
   name: Champions League Play off
-  parentCode: ''
+  parentCode: RYF-QPR-HGB-DEN-XYS
   parentName: Champions League
 - action: ADD
+  code: RYF-QPR-HGB-DEN-LEU-DUX
   name: Europa League Första kvalomgången
-  parentCode: ''
+  parentCode: RYF-QPR-HGB-DEN-LEU
   parentName: Europa League
 - action: ADD
+  code: RYF-QPR-HGB-DEN-LEU-LTX
   name: Europa League Andra kvalomgången
-  parentCode: ''
+  parentCode: RYF-QPR-HGB-DEN-LEU
   parentName: Europa League
 - action: ADD
+  code: RYF-QPR-HGB-DEN-LEU-SLS
   name: Europa League Tredje kvalomgången
-  parentCode: ''
+  parentCode: RYF-QPR-HGB-DEN-LEU
   parentName: Europa League
 - action: ADD
+  code: RYF-QPR-HGB-DEN-LEU-AMO
   name: Europa League Play off
-  parentCode: ''
+  parentCode: RYF-QPR-HGB-DEN-LEU
   parentName: Europa League
 - action: ADD
+  code: RYF-QPR-HGB-DEN-VKZ-EMN
   name: Conference League Första kvalomgången
-  parentCode: ''
+  parentCode: RYF-QPR-HGB-DEN-VKZ
   parentName: Conference League
 - action: ADD
+  code: RYF-QPR-HGB-DEN-VKZ-EYQ
   name: Conference League Andra kvalomgången
-  parentCode: ''
+  parentCode: RYF-QPR-HGB-DEN-VKZ
   parentName: Conference League
 - action: ADD
+  code: RYF-QPR-HGB-DEN-VKZ-HHX
   name: Conference League Tredje kvalomgången
-  parentCode: ''
+  parentCode: RYF-QPR-HGB-DEN-VKZ
   parentName: Conference League
 - action: ADD
+  code: RYF-QPR-HGB-DEN-VKZ-FVW
   name: Conference League Play off
-  parentCode: ''
+  parentCode: RYF-QPR-HGB-DEN-VKZ
   parentName: Conference League
 - action: ADD
+  code: RYF-QPR-HGB-DEN-JHT-XKR
   name: EM Grupp A
-  parentCode: ''
-  parentName: Fotboll
+  parentCode: RYF-QPR-HGB-DEN-JHT
+  parentName: EM herr
 - action: ADD
+  code: RYF-QPR-HGB-DEN-JHT-YND
   name: EM Grupp B
-  parentCode: ''
-  parentName: Fotboll
+  parentCode: RYF-QPR-HGB-DEN-JHT
+  parentName: EM herr
 - action: ADD
+  code: RYF-QPR-HGB-DEN-JHT-GCR
   name: EM Grupp C
-  parentCode: ''
-  parentName: Fotboll
+  parentCode: RYF-QPR-HGB-DEN-JHT
+  parentName: EM herr
 - action: ADD
+  code: RYF-QPR-HGB-DEN-JHT-FCB
   name: EM Grupp D
-  parentCode: ''
-  parentName: Fotboll
+  parentCode: RYF-QPR-HGB-DEN-JHT
+  parentName: EM herr
 - action: ADD
+  code: RYF-QPR-HGB-DEN-JHT-IDW
   name: EM Grupp E
-  parentCode: ''
-  parentName: Fotboll
+  parentCode: RYF-QPR-HGB-DEN-JHT
+  parentName: EM herr
 - action: ADD
+  code: RYF-QPR-HGB-DEN-JHT-DKU
   name: EM Grupp F
-  parentCode: ''
-  parentName: Fotboll
+  parentCode: RYF-QPR-HGB-DEN-JHT
+  parentName: EM herr
 - action: ADD
+  code: RYF-QPR-HGB-DEN-JHT-FMT
   name: EM Åttondelsfinal
-  parentCode: ''
-  parentName: Fotboll
+  parentCode: RYF-QPR-HGB-DEN-JHT
+  parentName: EM herr
 - action: ADD
+  code: RYF-QPR-HGB-DEN-JHT-AGC
   name: EM Kvartsfinal
-  parentCode: ''
-  parentName: Fotboll
+  parentCode: RYF-QPR-HGB-DEN-JHT
+  parentName: EM herr
 - action: ADD
+  code: RYF-QPR-HGB-DEN-JHT-KSE
   name: Semifinal
-  parentCode: ''
-  parentName: Fotboll
+  parentCode: RYF-QPR-HGB-DEN-JHT
+  parentName: EM herr
 - action: ADD
+  code: RYF-QPR-HGB-DEN-JHT-OUM
   name: EM Final
-  parentCode: ''
-  parentName: Fotboll
+  parentCode: RYF-QPR-HGB-DEN-JHT
+  parentName: EM herr
 - action: ADD
+  code: RYF-QPR-HGB-DEN-NWF-MVE
   name: Italien Serie A
-  parentCode: ''
-  parentName: Fotboll
+  parentCode: RYF-QPR-HGB-DEN-NWF
+  parentName: Italien dam
 - action: ADD
+  code: RYF-QPR-HGB-MUD-OEB-LLU
   name: Allsvenskan
-  parentCode: ''
+  parentCode: RYF-QPR-HGB-MUD-OEB
   parentName: Allsvenskan herr
 - action: ADD
+  code: RYF-QPR-HGB-MUD-OEB-CAC
   name: Allsvenskan Region Skåne
-  parentCode: ''
+  parentCode: RYF-QPR-HGB-MUD-OEB
   parentName: Allsvenskan herr
 - action: ADD
+  code: RYF-QPR-HGB-MUD-CWJ-IJC
   name: Allsvenskan
-  parentCode: ''
+  parentCode: RYF-QPR-HGB-MUD-CWJ
   parentName: Allsvenskan dam
 - action: ADD
+  code: RYF-QPR-HGB-DEN-HKY-TUH
   name: Division 3 norra Norrland
-  parentCode: ''
+  parentCode: RYF-QPR-HGB-DEN-HKY
   parentName: Division 3 herr
 - action: ADD
+  code: RYF-QPR-HGB-DZQ-DAF-MNM
   name: Division 1 SM-final
-  parentCode: ''
-  parentName: Amerikansk fotboll
+  parentCode: RYF-QPR-HGB-DZQ-DAF
+  parentName: Division 1 dam
 - action: ADD
+  code: RYF-QPR-HGB-DEN-NRS-PNJ
   name: P16 Div 1 Region 6 B-slutspel
-  parentCode: ''
-  parentName: Fotboll
+  parentCode: RYF-QPR-HGB-DEN-NRS
+  parentName: P16 herr
 - action: ADD
+  code: RYF-QPR-HGB-BQN-RZV-BFK
   name: HockeyTvåan norra B
-  parentCode: ''
-  parentName: Ishockey
+  parentCode: RYF-QPR-HGB-BQN-RZV
+  parentName: HockeyTvåan herr
 - action: ADD
+  code: RYF-QPR-HGB-DEN-GIS-XBV
   name: Italien Play Off till Serie A, semifinal
-  parentCode: ''
-  parentName: Fotboll
+  parentCode: RYF-QPR-HGB-DEN-GIS
+  parentName: Italien herr
 - action: ADD
+  code: RYF-QPR-HGB-DEN-GIS-ADK
   name: Italien Play Off till Serie A, kvartsfinal
-  parentCode: ''
-  parentName: Fotboll
+  parentCode: RYF-QPR-HGB-DEN-GIS
+  parentName: Italien herr
 - action: ADD
+  code: RYF-QPR-HGB-DEN-GIS-FAA
   name: Italien Play Off till Serie A, final
-  parentCode: ''
-  parentName: Fotboll
+  parentCode: RYF-QPR-HGB-DEN-GIS
+  parentName: Italien herr
 - action: ADD
+  code: RYF-QPR-HGB-DEN-GHY-FGY
   name: Tyskland Play Off till Bundesliga
-  parentCode: ''
-  parentName: Fotboll
+  parentCode: RYF-QPR-HGB-DEN-GHY
+  parentName: Tyskland herr
 - action: ADD
+  code: RYF-QPR-HGB-DEN-PDZ-RUN
   name: Spanien Play Off till La Liga, semifinal
-  parentCode: ''
-  parentName: Fotboll
+  parentCode: RYF-QPR-HGB-DEN-PDZ
+  parentName: Spanien herr
 - action: ADD
+  code: RYF-QPR-HGB-DEN-PDZ-FCF
   name: Spanien Play Off till La Liga, final
-  parentCode: ''
-  parentName: Fotboll
+  parentCode: RYF-QPR-HGB-DEN-PDZ
+  parentName: Spanien herr
 - action: ADD
+  code: RYF-QPR-HGB-DEN-XYS-TEQ
   name: Champions League Grupp A
-  parentCode: ''
+  parentCode: RYF-QPR-HGB-DEN-XYS
   parentName: Champions League
 - action: ADD
+  code: RYF-QPR-HGB-DEN-XYS-HUB
   name: Champions League Grupp B
-  parentCode: ''
+  parentCode: RYF-QPR-HGB-DEN-XYS
   parentName: Champions League
 - action: ADD
+  code: RYF-QPR-HGB-DEN-XYS-COF
   name: Champions League Grupp C
-  parentCode: ''
+  parentCode: RYF-QPR-HGB-DEN-XYS
   parentName: Champions League
 - action: ADD
+  code: RYF-QPR-HGB-DEN-XYS-HDY
   name: Champions League Grupp D
-  parentCode: ''
+  parentCode: RYF-QPR-HGB-DEN-XYS
   parentName: Champions League
 - action: ADD
+  code: RYF-QPR-HGB-DEN-XYS-KML
   name: Champions League Grupp E
-  parentCode: ''
+  parentCode: RYF-QPR-HGB-DEN-XYS
   parentName: Champions League
 - action: ADD
+  code: RYF-QPR-HGB-DEN-XYS-CQW
   name: Champions League Grupp F
-  parentCode: ''
+  parentCode: RYF-QPR-HGB-DEN-XYS
   parentName: Champions League
 - action: ADD
+  code: RYF-QPR-HGB-DEN-XYS-WHW
   name: Champions League Grupp G
-  parentCode: ''
+  parentCode: RYF-QPR-HGB-DEN-XYS
   parentName: Champions League
 - action: ADD
+  code: RYF-QPR-HGB-DEN-XYS-ILD
   name: Champions League Grupp H
-  parentCode: ''
+  parentCode: RYF-QPR-HGB-DEN-XYS
   parentName: Champions League
 - action: ADD
+  code: RYF-QPR-HGB-DEN-XYS-NXT
   name: Champions League Semifinal
-  parentCode: ''
+  parentCode: RYF-QPR-HGB-DEN-XYS
   parentName: Champions League
 - action: ADD
+  code: RYF-QPR-HGB-DEN-XYS-DPZ
   name: Champions League Final
-  parentCode: ''
+  parentCode: RYF-QPR-HGB-DEN-XYS
   parentName: Champions League
 - action: ADD
+  code: RYF-QPR-HGB-DEN-VOQ-GZR
   name: Grekland Super League
-  parentCode: ''
-  parentName: Fotboll
+  parentCode: RYF-QPR-HGB-DEN-VOQ
+  parentName: Grekland herr
 - action: ADD
+  code: RYF-QPR-HGB-DEN-VOQ-TZG
   name: Grekland Nedflyttningsserie
-  parentCode: ''
-  parentName: Fotboll
+  parentCode: RYF-QPR-HGB-DEN-VOQ
+  parentName: Grekland herr
 - action: ADD
+  code: RYF-QPR-HGB-DEN-GIS-WJS
   name: Italien Serie B
-  parentCode: ''
-  parentName: Fotboll
+  parentCode: RYF-QPR-HGB-DEN-GIS
+  parentName: Italien herr
 - action: ADD
+  code: RYF-QPR-HGB-DEN-LIQ-BIP
   name: Turkiet Süper Lig
-  parentCode: ''
-  parentName: Fotboll
+  parentCode: RYF-QPR-HGB-DEN-LIQ
+  parentName: Turkiet herr
 - action: ADD
+  code: RYF-QPR-HGB-DEN-GHY-ORL
   name: Tyskland Bundesliga 2
-  parentCode: ''
-  parentName: Fotboll
+  parentCode: RYF-QPR-HGB-DEN-GHY
+  parentName: Tyskland herr
 - action: ADD
+  code: RYF-QPR-HGB-DEN-XYS-PXD
   name: Champions League Första kvalomgången
-  parentCode: ''
+  parentCode: RYF-QPR-HGB-DEN-XYS
   parentName: Champions League
 - action: ADD
+  code: RYF-QPR-HGB-DEN-XYS-BHL
   name: Champions League Andra kvalomgången
-  parentCode: ''
+  parentCode: RYF-QPR-HGB-DEN-XYS
   parentName: Champions League
 - action: ADD
+  code: RYF-QPR-HGB-DEN-XYS-LLB
   name: Champions League Tredje kvalomgången
-  parentCode: ''
+  parentCode: RYF-QPR-HGB-DEN-XYS
   parentName: Champions League
 - action: ADD
+  code: RYF-QPR-HGB-DEN-XYS-EUL
   name: Champions League Play off
-  parentCode: ''
+  parentCode: RYF-QPR-HGB-DEN-XYS
   parentName: Champions League
 - action: ADD
+  code: RYF-QPR-HGB-DGM-BWZ-NYJ
   name: Division 3 södra Götaland 2
-  parentCode: ''
-  parentName: Bowling
+  parentCode: RYF-QPR-HGB-DGM-BWZ
+  parentName: Division 3 herr
