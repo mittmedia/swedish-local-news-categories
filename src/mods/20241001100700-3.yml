@@ -1,20 +1,20 @@
 modifications:
 - action: ADD
-  name: Division 4 dam Blekinge
-  parentCode: RYF-QPR-HGB-DEN
-  parentName: Fotboll
+  name: Blekinge
+  parentCode: RYF-QPR-HGB-DEN-SZC
+  parentName: Division 4 dam
 - action: ADD
-  name: Division 3 dam Skåne östra
-  parentCode: RYF-QPR-HGB-DEN
-  parentName: Fotboll
+  name: Skåne östra
+  parentCode: RYF-QPR-HGB-DEN-FXI
+  parentName: Division 3 dam
 - action: ADD
-  name: Division 4 dam Skåne södra
-  parentCode: RYF-QPR-HGB-DEN
-  parentName: Fotboll
+  name: Skåne södra
+  parentCode: RYF-QPR-HGB-DEN-FXI
+  parentName: Division 3 dam
 - action: ADD
-  name: Division 4 dam Vetlanda
-  parentCode: RYF-QPR-HGB-DEN
-  parentName: Fotboll
+  name: Vetlanda
+  parentCode: RYF-QPR-HGB-DEN-SZC
+  parentName: Division 4 dam
 - action: ADD
   name: F17 SM norra Götaland
   parentCode: RYF-QPR-HGB-DEN
@@ -24,57 +24,57 @@ modifications:
   parentCode: RYF-QPR-HGB-DEN
   parentName: Fotboll
 - action: ADD
-  name: Svenska spel F19 södra
-  parentCode: RYF-QPR-HGB-DEN
-  parentName: Fotboll
+  name: Södra
+  parentCode: RYF-QPR-HGB-DEN-KML
+  parentName: Svenska spel F19
 - action: ADD
   name: A-slutspel i P17-Allsvenskan
   parentCode: RYF-QPR-HGB-DEN
   parentName: Fotboll
 - action: ADD
-  name: Division 3 herr sydvästra Götaland
-  parentCode: RYF-QPR-HGB-DEN
-  parentName: Fotboll
+  name: Sydvästra Götaland
+  parentCode: RYF-QPR-HGB-DEN-HKY
+  parentName: Division 3 herr
 - action: ADD
-  name: Division 3 herr södra Götaland
-  parentCode: RYF-QPR-HGB-DEN
-  parentName: Fotboll
+  name: Södra Götaland
+  parentCode: RYF-QPR-HGB-DEN-HKY
+  parentName: Division 3 herr
 - action: ADD
-  name: Division 3 herr sydvästra Götaland
-  parentCode: RYF-QPR-HGB-DEN
-  parentName: Fotboll
+  name: Sydvästra Götaland
+  parentCode: RYF-QPR-HGB-DEN-HKY
+  parentName: Division 3 herr
 - action: ADD
-  name: Division 4 herr Skåne östra
-  parentCode: RYF-QPR-HGB-DEN
-  parentName: Fotboll
+  name: Skåne östra
+  parentCode: RYF-QPR-HGB-DEN-ALX
+  parentName: Division 4 herr
 - action: ADD
-  name: Division 4 herr Västergötland östra
-  parentCode: RYF-QPR-HGB-DEN
-  parentName: Fotboll
+  name: Västergötland östra
+  parentCode: RYF-QPR-HGB-DEN-ALX
+  parentName: Division 4 herr
 - action: ADD
-  name: Division 5 herr Skåne södra
-  parentCode: RYF-QPR-HGB-DEN
-  parentName: Fotboll
+  name: Skåne södra
+  parentCode: RYF-QPR-HGB-DEN-MVN
+  parentName: Division 5 herr
 - action: ADD
-  name: Division 5 herr Skåne östra
-  parentCode: RYF-QPR-HGB-DEN
-  parentName: Fotboll
+  name: Skåne östra
+  parentCode: RYF-QPR-HGB-DEN-MVN
+  parentName: Division 5 herr
 - action: ADD
-  name: Division 6 herr Blekinge
-  parentCode: RYF-QPR-HGB-DEN
-  parentName: Fotboll
+  name: Blekinge
+  parentCode: RYF-QPR-HGB-DEN-CWD
+  parentName: Division 6 herr
 - action: ADD
-  name: Division 6 herr Skåne södra
-  parentCode: RYF-QPR-HGB-DEN
-  parentName: Fotboll
+  name: Skåne södra
+  parentCode: RYF-QPR-HGB-DEN-CWD
+  parentName: Division 6 herr
 - action: ADD
-  name: Division 6 herr Vetlanda
-  parentCode: RYF-QPR-HGB-DEN
-  parentName: Fotboll
+  name: Vetlanda
+  parentCode: RYF-QPR-HGB-DEN-CWD
+  parentName: Division 6 herr
 - action: ADD
-  name: Division 6 herr Älmhult
-  parentCode: RYF-QPR-HGB-DEN
-  parentName: Fotboll
+  name: Älmhult
+  parentCode: RYF-QPR-HGB-DEN-CWD
+  parentName: Division 6 herr
 - action: ADD
   name: P 17 Division 1 Region 2
   parentCode: RYF-QPR-HGB-DEN
@@ -112,85 +112,61 @@ modifications:
   parentCode: RYF-QPR-HGB-DEN
   parentName: Fotboll
 - action: ADD
-  name: Futsalligan SM-final herrar
-  parentCode: RYF-QPR-HGB-YOC
-  parentName: Futsal
+  name: SM-final herrar
+  parentCode: RYF-QPR-HGB-YOC-TPJ
+  parentName: Futsalligan
 - action: ADD
-  name: Futsalligans semifinal herrar
-  parentCode: RYF-QPR-HGB-YOC
-  parentName: Futsal
+  name: Semifinal herrar
+  parentCode: RYF-QPR-HGB-YOC-TPJ
+  parentName: Futsalligan
 - action: ADD
-  name: RFL Kvartsfinal damer
-  parentCode: RYF-QPR-HGB-YOC
-  parentName: Futsal
+  name: Kvartsfinal damer
+  parentCode: RYF-QPR-HGB-YOC-OYY
+  parentName: RFL dam
 - action: ADD
-  name: RFL Semifinal damer
-  parentCode: RYF-QPR-HGB-YOC
-  parentName: Futsal
+  name: Semifinal damer
+  parentCode: RYF-QPR-HGB-YOC-OYY
+  parentName: RFL dam
 - action: ADD
-  name: RFL SM-final damer
-  parentCode: RYF-QPR-HGB-YOC
-  parentName: Futsal
+  name: SM-final damer
+  parentCode: RYF-QPR-HGB-YOC-OYY
+  parentName: RFL dam
 - action: ADD
-  name: Division 1 Mix mellan
-  parentCode: RYF-QPR-HGB-YTM
-  parentName: Badminton
+  name: Mix mellan
+  parentCode: RYF-QPR-HGB-YTM-NIM
+  parentName: Division 1
 - action: ADD
   name: Regionserien herrar
   parentCode: RYF-QPR-HGB-IUC
   parentName: Baseboll
 - action: ADD
-  name: Division 2 herr sydsvenska norra
-  parentCode: RYF-QPR-HGB-JDC
-  parentName: Bordtennis
-- action: ADD
-  name: Division 3 herr sydsvenska sydöstra
-  parentCode: RYF-QPR-HGB-JDC
-  parentName: Bordtennis
+  name: Sydsvenska norra
+  parentCode: RYF-QPR-HGB-JDC-SZN
+  parentName: Division 2 herr 
 - action: ADD
   name: Sydallsvenskan herr
   parentCode: RYF-QPR-HGB-DGM
   parentName: Bowling
 - action: ADD
-  name: Allsvenskan södra damer
-  parentCode: RYF-QPR-HGB-DGM
-  parentName: Bowling
+  name: Södra
+  parentCode: RYF-QPR-HGB-DGM-FGK
+  parentName: Allsvenskan dam
 - action: ADD
-  name: Division 1 herr norra Götaland
-  parentCode: RYF-QPR-HGB-DGM
-  parentName: Bowling
+  name: Norra Götaland
+  parentCode: RYF-QPR-HGB-DGM-GYR
+  parentName: Division 1 herr
 - action: ADD
-  name: Division 1 herr södra Götaland
-  parentCode: RYF-QPR-HGB-DGM
-  parentName: Bowling
+  name: Södra Götaland
+  parentCode: RYF-QPR-HGB-DGM-GYR
+  parentName: Division 1 herr
 - action: ADD
-  name: Division 2 herr södra Götaland
-  parentCode: RYF-QPR-HGB-DGM
-  parentName: Bowling
+  name: Direkt off
+  parentCode: RYF-QPR-HGB-PJR-XPJ
+  parentName: Division 1 herr
 - action: ADD
-  name: Division 2 västra Götaland
-  parentCode: RYF-QPR-HGB-DGM
-  parentName: Bowling
-- action: ADD
-  name: Division 3 södra Götaland 4
-  parentCode: RYF-QPR-HGB-DGM
-  parentName: Bowling
-- action: ADD
-  name: Division 3 östra Götaland 3
-  parentCode: RYF-QPR-HGB-DGM
-  parentName: Bowling
-- action: ADD
-  name: Division 1 herrar direkt off
-  parentCode: RYF-QPR-HGB-PJR
-  parentName: Handboll
-- action: ADD
-  name: Division 1 herr direkt off
-  parentCode: RYF-QPR-HGB-PJR
-  parentName: Handboll
-- action: ADD
-  name: Division 2 herr direkt off syd
-  parentCode: RYF-QPR-HGB-PJR
-  parentName: Handboll
+  name: Direkt off syd
+  parentCode: RYF-QPR-HGB-PJR-IOG
+  parentName: Division 2 herr
 - action: ADD
   name: Kvalet till Handbollsligan herr
   parentCode: RYF-QPR-HGB-PJR
@@ -209,12 +185,12 @@ modifications:
   parentName: Innebandy
 - action: ADD
   name: J18 kvalserie division 1 syd herr
-  parentCode: RYF-QPR-HGB-BQN
-  parentName: Ishockey
+  parentCode: RYF-QPR-HGB-BQN-VLP
+  parentName: J18
 - action: ADD
   name: J18 kvalserie region syd herr
-  parentCode: RYF-QPR-HGB-BQN
-  parentName: Ishockey
+  parentCode: RYF-QPR-HGB-BQN-VLP
+  parentName: J18
 - action: ADD
   name: Kvalserien till Hockeyallsvenskan
   parentCode: RYF-QPR-HGB-BQN
@@ -224,18 +200,38 @@ modifications:
   parentCode: RYF-QPR-HGB-BQN
   parentName: Ishockey
 - action: ADD
-  name: Allsvenskan Semifinal dam
-  parentCode: RYF-QPR-HGB-MUD
-  parentName: Rugby
+  name: Semifinal dam
+  parentCode: RYF-QPR-HGB-MUD-CWJ
+  parentName: Allsvenskan dam
 - action: ADD
-  name: Allsvenskan söder dam
-  parentCode: RYF-QPR-HGB-MUD
-  parentName: Rugby
+  name: Söder
+  parentCode: RYF-QPR-HGB-MUD-CWJ
+  parentName: Allsvenskan dam
 - action: ADD
   name: Superallsvenskan herr
   parentCode: RYF-QPR-HGB-MUD
   parentName: Rugby
 - action: ADD
-  name: Division 3 mellersta södra dam
-  parentCode: RYF-QPR-HGB-BAH
-  parentName: Volleyboll
+  name: Mellersta södra
+  parentCode: RYF-QPR-HGB-BAH-LUF
+  parentName: Division 3 dam
+- action: ADD
+  name: Division 3 herr
+  parentCode: RYF-QPR-HGB-JDC
+  parentName: Bordtennis
+- action: ADD
+  name: Division 2 herr
+  parentCode: RYF-QPR-HGB-DGM
+  parentName: Bowling
+- action: ADD
+  name: Division 2 dam
+  parentCode: RYF-QPR-HGB-DGM
+  parentName: Bowling
+- action: ADD
+  name: Division 3
+  parentCode: RYF-QPR-HGB-DGM
+  parentName: Bowling
+- action: ADD
+  name: Division 3
+  parentCode: RYF-QPR-HGB-DGM
+  parentName: Bowling
