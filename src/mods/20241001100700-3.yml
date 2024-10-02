@@ -16,11 +16,7 @@ modifications:
   parentCode: RYF-QPR-HGB-DEN-SZC
   parentName: Division 4 dam
 - action: ADD
-  name: F17 SM norra Götaland
-  parentCode: RYF-QPR-HGB-DEN
-  parentName: Fotboll
-- action: ADD
-  name: F17 SM södra Götaland
+  name: F17
   parentCode: RYF-QPR-HGB-DEN
   parentName: Fotboll
 - action: ADD
@@ -28,7 +24,7 @@ modifications:
   parentCode: RYF-QPR-HGB-DEN-KML
   parentName: Svenska spel F19
 - action: ADD
-  name: A-slutspel i P17-Allsvenskan
+  name: P17
   parentCode: RYF-QPR-HGB-DEN
   parentName: Fotboll
 - action: ADD
@@ -76,9 +72,10 @@ modifications:
   parentCode: RYF-QPR-HGB-DEN-CWD
   parentName: Division 6 herr
 - action: ADD
-  name: P 17 Division 1 Region 2
+  name: P 17
   parentCode: RYF-QPR-HGB-DEN
   parentName: Fotboll
+-action:
 - action: ADD
   name: P16 Allsvenskan södra
   parentCode: RYF-QPR-HGB-DEN
