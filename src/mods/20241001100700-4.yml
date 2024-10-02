@@ -30,3 +30,15 @@
   name: Allsvenskan mellersta herrar
   parentCode: RYF-QPR-HGB-DEN-OPP
   parentName: P16
+- action: ADD
+  name: Allsvenskan A-slutspel
+  parentCode: RYF-QPR-HGB-DEN # ID från -3
+  parentName: P17
+- action: ADD
+  name: Allsvenskan södra
+  parentCode: RYF-QPR-HGB-DEN # ID från -3
+  parentName: P17 
+- action: ADD
+  name: Div 1 Region 1
+  parentCode: RYF-QPR-HGB-DEN # ID från -3
+  parentName: P17 
