@@ -18,3 +18,11 @@
   name: Östra Götaland 3
   parentCode: RYF-QPR-HGB-DGM # ID från -3
   parentName: Division 3 herr
+- action: ADD
+  name: Allsvenskan södra
+  parentCode: RYF-QPR-HGB-DEN-OPP
+  parentName: P16
+- action: ADD
+  name: Allsvenskan A-slutspel södra
+  parentCode: RYF-QPR-HGB-DEN-OPP
+  parentName: P16
