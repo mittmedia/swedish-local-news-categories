@@ -1,0 +1,20 @@
+- action: ADD
+  name: Sydsvenska sydöstra
+  parentCode: RYF-QPR-HGB-JDC-XXX
+  parentName: Division 3 herr 
+- action: ADD
+  name: Södra Götaland
+  parentCode: RYF-QPR-HGB-DGM-XXX
+  parentName: Division 2 herr 
+- action: ADD
+  name: Västra Götaland
+  parentCode: RYF-QPR-HGB-DGM-XXX
+  parentName: Division 2 herr
+- action: ADD
+  name: Södra Götaland 4
+  parentCode: RYF-QPR-HGB-DGM-XXX
+  parentName: Division 3 herr
+- action: ADD
+  name: Östra Götaland 3
+  parentCode: RYF-QPR-HGB-DGM-XXX
+  parentName: Division 3 herr
