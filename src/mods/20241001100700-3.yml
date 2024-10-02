@@ -75,7 +75,10 @@ modifications:
   name: P 17
   parentCode: RYF-QPR-HGB-DEN
   parentName: Fotboll
--action:
+- action: UPDATE
+  name: P16 
+  Code: RYF-QPR-HGB-DEN-OPP
+  newName: P16
 - action: ADD
   name: P16 Allsvenskan södra
   parentCode: RYF-QPR-HGB-DEN
