@@ -72,8 +72,8 @@ modifications:
   parentCode: RYF-QPR-HGB-DEN-CWD
   parentName: Division 6 herr
 - action: UPDATE
-  name: P16 Allsvenskan mellersta herrar
   Code: RYF-QPR-HGB-DEN-OPP
+  name: P16 Allsvenskan mellersta herrar
   newName: P16
 - action: ADD
   name: P19
