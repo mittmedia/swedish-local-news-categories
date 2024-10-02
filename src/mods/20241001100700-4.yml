@@ -26,3 +26,7 @@
   name: Allsvenskan A-slutspel södra
   parentCode: RYF-QPR-HGB-DEN-OPP
   parentName: P16
+- action: ADD
+  name: Allsvenskan mellersta herrar
+  parentCode: RYF-QPR-HGB-DEN-OPP
+  parentName: P16
