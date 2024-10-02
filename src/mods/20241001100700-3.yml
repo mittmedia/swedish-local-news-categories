@@ -80,14 +80,6 @@ modifications:
   Code: RYF-QPR-HGB-DEN-OPP
   newName: P16
 - action: ADD
-  name: P16 Allsvenskan södra
-  parentCode: RYF-QPR-HGB-DEN
-  parentName: Fotboll
-- action: ADD
-  name: P16 Allsvenskan, A-slutspel södra
-  parentCode: RYF-QPR-HGB-DEN
-  parentName: Fotboll
-- action: ADD
   name: P17 Allsvenskan A-slutspel
   parentCode: RYF-QPR-HGB-DEN
   parentName: Fotboll
