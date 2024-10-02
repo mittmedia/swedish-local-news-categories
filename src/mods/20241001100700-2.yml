@@ -1,0 +1,409 @@
+modifications:
+- action: ADD
+  name: Elitserien Grupp A
+  parentCode: ''
+  parentName: Tennis
+- action: ADD
+  name: Elitserien Grupp B
+  parentCode: ''
+  parentName: Tennis
+- action: ADD
+  name: Elitserien Grupp A
+  parentCode: ''
+  parentName: Tennis
+- action: ADD
+  name: Elitserien Grupp B
+  parentCode: ''
+  parentName: Tennis
+- action: ADD
+  name: Division 4 Dam 4 Väst Sydost
+  parentCode: ''
+  parentName: Division 4 dam
+- action: ADD
+  name: Division 3 östra
+  parentCode: ''
+  parentName: Division 3 herr
+- action: ADD
+  name: Svenska Cupen Åttondelsfinal
+  parentCode: ''
+  parentName: Handboll
+- action: ADD
+  name: Svenska Cupen Kvartsfinal
+  parentCode: ''
+  parentName: Handboll
+- action: ADD
+  name: Div.1 södra
+  parentCode: ''
+  parentName: Tennis
+- action: ADD
+  name: England Play off till Championship, final
+  parentCode: ''
+  parentName: Fotboll
+- action: ADD
+  name: P16 Allsvenskan, B-slutspel mellersta
+  parentCode: ''
+  parentName: Fotboll
+- action: ADD
+  name: HockeyTrean Värmland
+  parentCode: ''
+  parentName: Ishockey
+- action: ADD
+  name: Division 1 södra
+  parentCode: ''
+  parentName: Tennis
+- action: ADD
+  name: Nations League Grupp A1
+  parentCode: ''
+  parentName: Fotboll
+- action: ADD
+  name: Nations League Grupp A2
+  parentCode: ''
+  parentName: Fotboll
+- action: ADD
+  name: Nations League Grupp A3
+  parentCode: ''
+  parentName: Fotboll
+- action: ADD
+  name: Nations League Grupp A4
+  parentCode: ''
+  parentName: Fotboll
+- action: ADD
+  name: Nations League Grupp B1
+  parentCode: ''
+  parentName: Fotboll
+- action: ADD
+  name: Nations League Grupp B2
+  parentCode: ''
+  parentName: Fotboll
+- action: ADD
+  name: Nations League Grupp B3
+  parentCode: ''
+  parentName: Fotboll
+- action: ADD
+  name: Nations League Grupp B4
+  parentCode: ''
+  parentName: Fotboll
+- action: ADD
+  name: Nations League Grupp C1
+  parentCode: ''
+  parentName: Fotboll
+- action: ADD
+  name: Nations League Grupp C2
+  parentCode: ''
+  parentName: Fotboll
+- action: ADD
+  name: Nations League Grupp C3
+  parentCode: ''
+  parentName: Fotboll
+- action: ADD
+  name: Nations League Grupp C4
+  parentCode: ''
+  parentName: Fotboll
+- action: ADD
+  name: Nations League Grupp D1
+  parentCode: ''
+  parentName: Fotboll
+- action: ADD
+  name: Nations League Grupp D2
+  parentCode: ''
+  parentName: Fotboll
+- action: ADD
+  name: EM-kval Grupp A1
+  parentCode: ''
+  parentName: Fotboll
+- action: ADD
+  name: EM-kval Grupp A2
+  parentCode: ''
+  parentName: Fotboll
+- action: ADD
+  name: EM-kval Grupp A3
+  parentCode: ''
+  parentName: Fotboll
+- action: ADD
+  name: EM-kval Grupp A4
+  parentCode: ''
+  parentName: Fotboll
+- action: ADD
+  name: EM-kval Playoff, semifinal
+  parentCode: ''
+  parentName: Fotboll
+- action: ADD
+  name: Champions League
+  parentCode: ''
+  parentName: Champions League
+- action: ADD
+  name: Europa League
+  parentCode: ''
+  parentName: Europa League
+- action: ADD
+  name: Conference League
+  parentCode: ''
+  parentName: Conference League
+- action: ADD
+  name: CHL
+  parentCode: ''
+  parentName: Champions Hockey League
+- action: ADD
+  name: Division 3 norra
+  parentCode: ''
+  parentName: Division 3 herr
+- action: ADD
+  name: Regionserien Final
+  parentCode: ''
+  parentName: Baseboll
+- action: ADD
+  name: Division 1 norra
+  parentCode: ''
+  parentName: Curling
+- action: ADD
+  name: Svenska Cupen 23/24 Omgång 1
+  parentCode: ''
+  parentName: Fotboll
+- action: ADD
+  name: Svenska Cupen 23/24 Omgång 2
+  parentCode: ''
+  parentName: Fotboll
+- action: ADD
+  name: Svenska Cupen 23/24 Kvartsfinal
+  parentCode: ''
+  parentName: Fotboll
+- action: ADD
+  name: Svenska Cupen 23/24 Semifinal
+  parentCode: ''
+  parentName: Fotboll
+- action: ADD
+  name: Svenska Cupen 23/24 Omgång 2
+  parentCode: ''
+  parentName: Fotboll
+- action: ADD
+  name: Svenska Cupen 23/24 Omgång 3
+  parentCode: ''
+  parentName: Fotboll
+- action: ADD
+  name: Svenska Cupen 23/24 Semifinal
+  parentCode: ''
+  parentName: Fotboll
+- action: ADD
+  name: Champions League Första kvalomgången
+  parentCode: ''
+  parentName: Champions League
+- action: ADD
+  name: Champions League Andra kvalomgången
+  parentCode: ''
+  parentName: Champions League
+- action: ADD
+  name: Champions League Tredje kvalomgången
+  parentCode: ''
+  parentName: Champions League
+- action: ADD
+  name: Champions League Play off
+  parentCode: ''
+  parentName: Champions League
+- action: ADD
+  name: Europa League Första kvalomgången
+  parentCode: ''
+  parentName: Europa League
+- action: ADD
+  name: Europa League Andra kvalomgången
+  parentCode: ''
+  parentName: Europa League
+- action: ADD
+  name: Europa League Tredje kvalomgången
+  parentCode: ''
+  parentName: Europa League
+- action: ADD
+  name: Europa League Play off
+  parentCode: ''
+  parentName: Europa League
+- action: ADD
+  name: Conference League Första kvalomgången
+  parentCode: ''
+  parentName: Conference League
+- action: ADD
+  name: Conference League Andra kvalomgången
+  parentCode: ''
+  parentName: Conference League
+- action: ADD
+  name: Conference League Tredje kvalomgången
+  parentCode: ''
+  parentName: Conference League
+- action: ADD
+  name: Conference League Play off
+  parentCode: ''
+  parentName: Conference League
+- action: ADD
+  name: EM Grupp A
+  parentCode: ''
+  parentName: Fotboll
+- action: ADD
+  name: EM Grupp B
+  parentCode: ''
+  parentName: Fotboll
+- action: ADD
+  name: EM Grupp C
+  parentCode: ''
+  parentName: Fotboll
+- action: ADD
+  name: EM Grupp D
+  parentCode: ''
+  parentName: Fotboll
+- action: ADD
+  name: EM Grupp E
+  parentCode: ''
+  parentName: Fotboll
+- action: ADD
+  name: EM Grupp F
+  parentCode: ''
+  parentName: Fotboll
+- action: ADD
+  name: EM Åttondelsfinal
+  parentCode: ''
+  parentName: Fotboll
+- action: ADD
+  name: EM Kvartsfinal
+  parentCode: ''
+  parentName: Fotboll
+- action: ADD
+  name: Semifinal
+  parentCode: ''
+  parentName: Fotboll
+- action: ADD
+  name: EM Final
+  parentCode: ''
+  parentName: Fotboll
+- action: ADD
+  name: Italien Serie A
+  parentCode: ''
+  parentName: Fotboll
+- action: ADD
+  name: Allsvenskan
+  parentCode: ''
+  parentName: Allsvenskan herr
+- action: ADD
+  name: Allsvenskan Region Skåne
+  parentCode: ''
+  parentName: Allsvenskan herr
+- action: ADD
+  name: Allsvenskan
+  parentCode: ''
+  parentName: Allsvenskan dam
+- action: ADD
+  name: Division 3 norra Norrland
+  parentCode: ''
+  parentName: Division 3 herr
+- action: ADD
+  name: Division 1 SM-final
+  parentCode: ''
+  parentName: Amerikansk fotboll
+- action: ADD
+  name: P16 Div 1 Region 6 B-slutspel
+  parentCode: ''
+  parentName: Fotboll
+- action: ADD
+  name: HockeyTvåan norra B
+  parentCode: ''
+  parentName: Ishockey
+- action: ADD
+  name: Italien Play Off till Serie A, semifinal
+  parentCode: ''
+  parentName: Fotboll
+- action: ADD
+  name: Italien Play Off till Serie A, kvartsfinal
+  parentCode: ''
+  parentName: Fotboll
+- action: ADD
+  name: Italien Play Off till Serie A, final
+  parentCode: ''
+  parentName: Fotboll
+- action: ADD
+  name: Tyskland Play Off till Bundesliga
+  parentCode: ''
+  parentName: Fotboll
+- action: ADD
+  name: Spanien Play Off till La Liga, semifinal
+  parentCode: ''
+  parentName: Fotboll
+- action: ADD
+  name: Spanien Play Off till La Liga, final
+  parentCode: ''
+  parentName: Fotboll
+- action: ADD
+  name: Champions League Grupp A
+  parentCode: ''
+  parentName: Champions League
+- action: ADD
+  name: Champions League Grupp B
+  parentCode: ''
+  parentName: Champions League
+- action: ADD
+  name: Champions League Grupp C
+  parentCode: ''
+  parentName: Champions League
+- action: ADD
+  name: Champions League Grupp D
+  parentCode: ''
+  parentName: Champions League
+- action: ADD
+  name: Champions League Grupp E
+  parentCode: ''
+  parentName: Champions League
+- action: ADD
+  name: Champions League Grupp F
+  parentCode: ''
+  parentName: Champions League
+- action: ADD
+  name: Champions League Grupp G
+  parentCode: ''
+  parentName: Champions League
+- action: ADD
+  name: Champions League Grupp H
+  parentCode: ''
+  parentName: Champions League
+- action: ADD
+  name: Champions League Semifinal
+  parentCode: ''
+  parentName: Champions League
+- action: ADD
+  name: Champions League Final
+  parentCode: ''
+  parentName: Champions League
+- action: ADD
+  name: Grekland Super League
+  parentCode: ''
+  parentName: Fotboll
+- action: ADD
+  name: Grekland Nedflyttningsserie
+  parentCode: ''
+  parentName: Fotboll
+- action: ADD
+  name: Italien Serie B
+  parentCode: ''
+  parentName: Fotboll
+- action: ADD
+  name: Turkiet Süper Lig
+  parentCode: ''
+  parentName: Fotboll
+- action: ADD
+  name: Tyskland Bundesliga 2
+  parentCode: ''
+  parentName: Fotboll
+- action: ADD
+  name: Champions League Första kvalomgången
+  parentCode: ''
+  parentName: Champions League
+- action: ADD
+  name: Champions League Andra kvalomgången
+  parentCode: ''
+  parentName: Champions League
+- action: ADD
+  name: Champions League Tredje kvalomgången
+  parentCode: ''
+  parentName: Champions League
+- action: ADD
+  name: Champions League Play off
+  parentCode: ''
+  parentName: Champions League
+- action: ADD
+  name: Division 3 södra Götaland 2
+  parentCode: ''
+  parentName: Bowling

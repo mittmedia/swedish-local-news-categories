@@ -1,0 +1,93 @@
+modifications:
+- action: ADD
+  name: Elitserien herr
+  parentCode: RYF-QPR-HGB-WVD
+  parentName: Tennis
+- action: ADD
+  name: Elitserien dam
+  parentCode: RYF-QPR-HGB-WVD
+  parentName: Tennis
+- action: ADD
+  name: Svenska Cupen herr
+  parentCode: RYF-QPR-HGB-PJR
+  parentName: Handboll
+- action: ADD
+  name: Div.1 herr
+  parentCode: RYF-QPR-HGB-WVD
+  parentName: Tennis
+- action: ADD
+  name: England herr
+  parentCode: RYF-QPR-HGB-DEN
+  parentName: Fotboll
+- action: ADD
+  name: P16 herr
+  parentCode: RYF-QPR-HGB-DEN
+  parentName: Fotboll
+- action: ADD
+  name: HockeyTrean herr
+  parentCode: RYF-QPR-HGB-BQN
+  parentName: Ishockey
+- action: ADD
+  name: Division 1 dam
+  parentCode: RYF-QPR-HGB-WVD
+  parentName: Tennis
+- action: ADD
+  name: Nations League herr
+  parentCode: RYF-QPR-HGB-DEN
+  parentName: Fotboll
+- action: ADD
+  name: EM-kval dam
+  parentCode: RYF-QPR-HGB-DEN
+  parentName: Fotboll
+- action: ADD
+  name: Regionserien herr
+  parentCode: RYF-QPR-HGB-IUC
+  parentName: Baseboll
+- action: ADD
+  name: Division 1 herr
+  parentCode: RYF-QPR-HGB-YFG
+  parentName: Curling
+- action: ADD
+  name: 24 herr
+  parentCode: RYF-QPR-HGB-DEN
+  parentName: Fotboll
+- action: ADD
+  name: 24 dam
+  parentCode: RYF-QPR-HGB-DEN
+  parentName: Fotboll
+- action: ADD
+  name: EM herr
+  parentCode: RYF-QPR-HGB-DEN
+  parentName: Fotboll
+- action: ADD
+  name: Italien dam
+  parentCode: RYF-QPR-HGB-DEN
+  parentName: Fotboll
+- action: ADD
+  name: HockeyTvåan herr
+  parentCode: RYF-QPR-HGB-BQN
+  parentName: Ishockey
+- action: ADD
+  name: Italien herr
+  parentCode: RYF-QPR-HGB-DEN
+  parentName: Fotboll
+- action: ADD
+  name: Tyskland herr
+  parentCode: RYF-QPR-HGB-DEN
+  parentName: Fotboll
+- action: ADD
+  name: Spanien herr
+  parentCode: RYF-QPR-HGB-DEN
+  parentName: Fotboll
+- action: ADD
+  name: Grekland herr
+  parentCode: RYF-QPR-HGB-DEN
+  parentName: Fotboll
+- action: ADD
+  name: Turkiet herr
+  parentCode: RYF-QPR-HGB-DEN
+  parentName: Fotboll
+- action: ADD
+  name: Division 3 herr
+  parentCode: RYF-QPR-HGB-DGM
+  parentName: Bowling
