@@ -5,3 +5,78 @@ modifications:
   - action: INACTIVATE
     code: RYF-QPR-HGB-BQN-KKK
     name: HockeyTrean herr
+  - action: MOVE
+    code: RYF-QPR-HGB-DEN-JDY
+    name: Bundesliga
+    newParentCode: RYF-QPR-HGB-DEN-LUN
+    newParentName: Tyskland herr
+  - action: MOVE
+    code: RYF-QPR-HGB-DEN-KDC
+    name: Championship
+    newParentCode: RYF-QPR-HGB-DEN-ROT
+    newParentName: England herr
+  - action: MOVE
+    code: RYF-QPR-HGB-DEN-CUG
+    name: Premier league
+    newParentCode: RYF-QPR-HGB-DEN-ROT
+    newParentName: England herr
+  - action: MOVE
+    code: RYF-QPR-HGB-DEN-OAF
+    name: Serie A
+    newParentCode: RYF-QPR-HGB-DEN-CYW
+    newParentName: Italien herr
+  - action: MOVE
+    code: RYF-QPR-HGB-DEN-BOA
+    name: La Liga
+    newParentCode: RYF-QPR-HGB-DEN-BPD
+    newParentName: Spanien herr
+  - action: MOVE
+    code: RYF-QPR-HGB-BQN-EPF
+    name: Hockeyfyran Göteborg A
+    newParentCode: RYF-QPR-HGB-BQN # ID från -3
+    newParentName: Hockeyfyran
+  - action: MOVE
+    code: RYF-QPR-HGB-BQN-JMG
+    name: Hockeyfyran Göteborg B
+    newParentCode: RYF-QPR-HGB-BQN # ID från -3
+    newParentName: Hockeyfyran 
+  - action: MOVE
+    code: RYF-QPR-HGB-BQN-ALW
+    name: Hockeyfyran Stockholm fortsättning A
+    newParentCode: RYF-QPR-HGB-BQN # ID från -3
+    newParentName: Hockeyfyran 
+  - action: MOVE
+    code: RYF-QPR-HGB-BQN-FSV
+    name: Hockeyfyran Stockholm fortsättning B
+    newParentCode: RYF-QPR-HGB-BQN # ID från -3
+    newParentName: Hockeyfyran 
+  - action: MOVE
+    code: RYF-QPR-HGB-BQN-EMV
+    name: Hockeyfyran Stockholm mellersta
+    newParentCode: RYF-QPR-HGB-BQN # ID från -3
+    newParentName: Hockeyfyran 
+  - action: MOVE
+    code: RYF-QPR-HGB-BQN-DNM
+    name: Hockeyfyran Stockholm norra
+    newParentCode: RYF-QPR-HGB-BQN # ID från -3
+    newParentName: Hockeyfyran 
+  - action: MOVE
+    code: RYF-QPR-HGB-BQN-KUR
+    name: Hockeyfyran Stockholm södra
+    newParentCode: RYF-QPR-HGB-BQN # ID från -3
+    newParentName: Hockeyfyran 
+  - action: MOVE
+    code: RYF-QPR-HGB-BQN-QTS
+    name: Hockeyfyran Uppland
+    newParentCode: RYF-QPR-HGB-BQN # ID från -3
+    newParentName: Hockeyfyran
+  - action: MOVE
+    code: RYF-QPR-HGB-BQN-TRD
+    name: Hockeyfyran Uppland fortsättning
+    newParentCode: RYF-QPR-HGB-BQN # ID från -3
+    newParentName: Hockeyfyran
+  - action: MOVE
+    code: RYF-QPR-HGB-BQN-MZV
+    name: Hockeyfyran Östergötland
+    newParentCode: RYF-QPR-HGB-BQN # ID från -3
+    newParentName: Hockeyfyran
