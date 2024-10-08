@@ -322,4 +322,8 @@ modifications:
     code: RYF-QPR-HGB-BQN-NAK
     name: Alltvåan östra
     newParentCode: RYF-QPR-HGB-BQN-KNN
-    newParentName: Hockeytvåan   
+    newParentName: Hockeytvåan
+  - action: ADD
+    name: Hockeyfyran
+    parentCode: RYF-QPR-HGB-BQN
+    parentName: Ishockey
