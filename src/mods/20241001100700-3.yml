@@ -276,4 +276,18 @@ modifications:
   - action: INACTIVATE
     code: RYF-QPR-HGB-BQN-UCF
     name: Hockeytvåan herr    
-
+  - action: MOVE
+    code: RYF-QPR-HGB-BQN-CEL
+    name: Alltrean södra A
+    newParentCode: RYF-QPR-HGB-BQN-TKF
+    newParentName: Hockeytrean
+  - action: MOVE
+    code: RYF-QPR-HGB-BQN-GLW
+    name: Alltrean södra B
+    newParentCode: RYF-QPR-HGB-BQN-TKF
+    newParentName: Hockeytrean
+  - action: MOVE
+    code: RYF-QPR-HGB-BQN-THV
+    name: Alltrean östra
+    newParentCode: RYF-QPR-HGB-BQN-TKF
+    newParentName: Hockeytrean
