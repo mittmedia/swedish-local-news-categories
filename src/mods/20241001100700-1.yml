@@ -25,11 +25,6 @@ modifications:
     parentCode: RYF-QPR-HGB-DEN
     parentName: Fotboll
   - action: ADD
-    code: RYF-QPR-HGB-BQN-UGF
-    name: HockeyTrean herr
-    parentCode: RYF-QPR-HGB-BQN
-    parentName: Ishockey
-  - action: ADD
     code: RYF-QPR-HGB-WVD-TMG
     name: Division 1 dam
     parentCode: RYF-QPR-HGB-WVD
@@ -79,11 +74,6 @@ modifications:
     name: Division 1 dam
     parentCode: RYF-QPR-HGB-DZQ
     parentName: Amerikansk fotboll
-  - action: ADD
-    code: RYF-QPR-HGB-BQN-RZV
-    name: HockeyTvåan herr
-    parentCode: RYF-QPR-HGB-BQN
-    parentName: Ishockey
   - action: ADD
     code: RYF-QPR-HGB-DEN-GIS
     name: Italien herr
