@@ -2,4 +2,10 @@ modifications:
   - action: INACTIVATE
     code: RYF-QPR-HGB-BQN-UCF-ZEG
     name: HockeyTvåan norra B
+  - action: INACTIVATE
+    code: RYF-QPR-HGB-BQN-UCF
+    name: HockeyTvåan herr
+  - action: INACTIVATE
+    code: RYF-QPR-HGB-BQN-KKK
+    name: HockeyTrean herr
     
