@@ -100,10 +100,6 @@ modifications:
     parentCode: RYF-QPR-HGB-YTM-NIM
     parentName: Division 1
   - action: ADD
-    name: Regionserien herrar
-    parentCode: RYF-QPR-HGB-IUC
-    parentName: Baseboll
-  - action: ADD
     name: Sydsvenska norra
     parentCode: RYF-QPR-HGB-JDC-SZN
     parentName: Division 2 herr
