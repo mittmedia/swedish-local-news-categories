@@ -507,3 +507,9 @@ modifications:
     name: Division 3 södra Götaland 2
     parentCode: RYF-QPR-HGB-DGM-BWZ
     parentName: Division 3 herr
+  - action: INACTIVATE
+    code: RYF-QPR-HGB-BQN-UCF
+    name: HockeyTvåan herr
+  - action: INACTIVATE
+    code: RYF-QPR-HGB-BQN-KKK
+    name: HockeyTrean herr      
