@@ -57,8 +57,7 @@ modifications:
   - action: MOVE
     code: RYF-QPR-HGB-BQN-UGF-IWV
     name: HockeyTrean Värmland
-    parentCode: RYF-QPR-HGB-BQN-TKF
-    parentName: Hockeytrean
+
   - action: ADD
     code: RYF-QPR-HGB-WVD-TMG-ZRT
     name: Division 1 södra
