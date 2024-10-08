@@ -1,4 +1,4 @@
-modifications:
+fmodifications:
   - action: ADD
     code: RYF-QPR-HGB-WVD-AQJ-MMA
     name: Elitserien Grupp A
@@ -374,9 +374,6 @@ modifications:
     name: P16 Div 1 Region 6 B-slutspel
     parentCode: RYF-QPR-HGB-DEN-OPP
     parentName: P16
-  - action: INACTIVATE
-    code: RYF-QPR-HGB-BQN-UCF-ZEG
-    name: HockeyTvåan norra B
   - action: ADD
     code: RYF-QPR-HGB-DEN-GIS-XBV
     name: Italien Play Off till Serie A, semifinal
