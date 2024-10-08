@@ -288,3 +288,38 @@ modifications:
     name: Alltrean östra
     newParentCode: RYF-QPR-HGB-BQN-TKF
     newParentName: Hockeytrean
+  - action: MOVE
+    code: RYF-QPR-HGB-BQN-WOY
+    name: Hockeytvåan Norra A fortsättning
+    newParentCode: RYF-QPR-HGB-BQN-KNN
+    newParentName: Hockeytvåan
+  - action: MOVE
+    code: RYF-QPR-HGB-BQN-ZVU
+    name: Hockeytvåan Norra B fortsättning
+    newParentCode: RYF-QPR-HGB-BQN-KNN
+    newParentName: Hockeytvåan
+  - action: MOVE
+    code: RYF-QPR-HGB-BQN-UOA
+    name: Hockeytvåan Södra A fortsättning
+    newParentCode: RYF-QPR-HGB-BQN-KNN
+    newParentName: Hockeytvåan
+  - action: MOVE
+    code: RYF-QPR-HGB-BQN-SBJ
+    name: Hockeytvåan Södra A fortsättning
+    newParentCode: RYF-QPR-HGB-BQN-KNN
+    newParentName: Hockeytvåan
+  - action: MOVE
+    code: RYF-QPR-HGB-BQN-VAS
+    name: Alltvåan norra AB
+    newParentCode: RYF-QPR-HGB-BQN-KNN
+    newParentName: Hockeytvåan
+  - action: MOVE
+    code: RYF-QPR-HGB-BQN-VAS
+    name: Alltvåan södra
+    newParentCode: RYF-QPR-HGB-BQN-QQP
+    newParentName: Hockeytvåan   
+  - action: MOVE
+    code: RYF-QPR-HGB-BQN-NAK
+    name: Alltvåan östra
+    newParentCode: RYF-QPR-HGB-BQN-KNN
+    newParentName: Hockeytvåan   
