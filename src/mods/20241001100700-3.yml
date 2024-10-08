@@ -267,3 +267,9 @@ modifications:
     name: Hockeyettan östra vår
     newParentCode: RYF-QPR-HGB-BQN-TQL
     newParentName: Hockeyettan
+  - action: INACTIVATE
+    code: RYF-QPR-HGB-BQN-SLY
+    name: Allettan norra
+  - action: INACTIVATE
+    code: RYF-QPR-HGB-BQN-LIB
+    name: Allettan södra  
