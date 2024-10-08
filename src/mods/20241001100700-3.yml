@@ -273,9 +273,6 @@ modifications:
   - action: INACTIVATE
     code: RYF-QPR-HGB-BQN-LIB
     name: Allettan södra  
-  - action: INACTIVATE
-    code: RYF-QPR-HGB-BQN-UCF
-    name: Hockeytvåan herr    
   - action: MOVE
     code: RYF-QPR-HGB-BQN-CEL
     name: Alltrean södra A
