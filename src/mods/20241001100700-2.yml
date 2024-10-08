@@ -54,11 +54,11 @@ modifications:
     name: P16 Allsvenskan, B-slutspel mellersta
     parentCode: RYF-QPR-HGB-DEN-OPP
     parentName: P16
-  - action: ADD
+  - action: MOVE
     code: RYF-QPR-HGB-BQN-UGF-IWV
     name: HockeyTrean Värmland
-    parentCode: RYF-QPR-HGB-BQN-UGF
-    parentName: HockeyTrean herr
+    parentCode: RYF-QPR-HGB-BQN-TKF
+    parentName: Hockeytrean
   - action: ADD
     code: RYF-QPR-HGB-WVD-TMG-ZRT
     name: Division 1 södra
