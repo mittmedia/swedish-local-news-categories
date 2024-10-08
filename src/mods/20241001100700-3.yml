@@ -191,11 +191,3 @@ modifications:
     name: Division 2 dam
     parentCode: RYF-QPR-HGB-DGM
     parentName: Bowling
-  - action: ADD
-    name: Division 3
-    parentCode: RYF-QPR-HGB-DGM
-    parentName: Bowling
-  - action: ADD
-    name: Division 3
-    parentCode: RYF-QPR-HGB-DGM
-    parentName: Bowling
