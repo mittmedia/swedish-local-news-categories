@@ -5,11 +5,11 @@ modifications:
     parentName: Division 3 herr
   - action: ADD
     name: Södra Götaland
-    parentCode: RYF-QPR-HGB-DGM # ID från -3
+    parentCode: RYF-QPR-HGB-DGM-FCD
     parentName: Division 2 herr
   - action: ADD
     name: Västra Götaland
-    parentCode: RYF-QPR-HGB-DGM # ID från -3
+    parentCode: RYF-QPR-HGB-DGM-FCD
     parentName: Division 2 herr
   - action: ADD
     name: Södra Götaland 4
