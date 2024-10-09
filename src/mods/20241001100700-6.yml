@@ -80,8 +80,4 @@ modifications:
     name: Hockeyfyran Östergötland
     newParentCode: RYF-QPR-HGB-BQN # ID från -3
     newParentName: Hockeyfyran
-  - action: UPDATE
-    code: RYF-QPR-HGB-WVD-HLP
-    name: Div. 1 herr
-    newName: Division 1 herr
     
