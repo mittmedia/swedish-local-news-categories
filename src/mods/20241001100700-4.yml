@@ -33,15 +33,15 @@ modifications:
     parentName: P17
   - action: ADD
     name: Allsvenskan
-    parentCode: RYF-QPR-HGB-DEN # ID från -3
+    parentCode: RYF-QPR-HGB-DEN-EUE
     parentName: P19
   - action: ADD
     name: Div 1 Region 1
-    parentCode: RYF-QPR-HGB-DEN # ID från -3
+    parentCode: RYF-QPR-HGB-DEN-EUE
     parentName: P19
   - action: ADD
     name: Superettan södra
-    parentCode: RYF-QPR-HGB-DEN # ID från -3
+    parentCode: RYF-QPR-HGB-DEN-EUE
     parentName: P19
   - action: UPDATE
     code: RYF-QPR-HGB-WVD-ZAK-GTD
