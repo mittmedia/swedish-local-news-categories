@@ -1,8 +1,24 @@
 modifications:
   - action: ADD
-    parentCode:
+    parentCode: RYF-QPR-HGB-DEN-ASK
     parentName: P16
     name: P16 Allsvenskan, B-slutspel mellersta
+  - action: ADD
+    parentCode: RYF-QPR-HGB-DEN-ASK
+    parentName: P16
+    name: P16 Div 1 Region 6 B-slutspel
+  - action: ADD
+    parentCode: RYF-QPR-HGB-DEN-ASK
+    parentName: P16
+    name: P16 Allsvenskan A-slutspel södra
+  - action: ADD
+    parentCode: RYF-QPR-HGB-DEN-ASK
+    parentName: P16
+    name: P16 Allsvenskan mellersta herrar
+  - action: ADD
+    parentCode: RYF-QPR-HGB-DEN-ASK
+    parentName: P16
+    name: P16 Allsvenskan södra
   - action: ADD
     name: Blekinge
     parentCode: RYF-QPR-HGB-DEN-SZC
