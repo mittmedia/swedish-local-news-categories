@@ -183,3 +183,11 @@ modifications:
     name: Division 2 dam
     parentCode: RYF-QPR-HGB-DGM
     parentName: Bowling
+  - action: ADD
+    name: P16 Allsvenskan, B-slutspel mellersta
+    parentCode: RYF-QPR-HGB-ASK
+    parentName: P16
+    - action: ADD
+    name: P16 Div 1 Region 6 B-slutspel
+    parentCode: RYF-QPR-HGB-ASK
+    parentName: P16  
