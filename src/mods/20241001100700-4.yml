@@ -1,7 +1,7 @@
 modifications:
   - action: ADD
     name: Sydsvenska sydöstra
-    parentCode: RYF-QPR-HGB-JDC # ID från -3
+    parentCode: RYF-QPR-HGB-JDC-LVZ
     parentName: Division 3 herr
   - action: ADD
     name: Södra Götaland
