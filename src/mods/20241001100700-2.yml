@@ -47,7 +47,7 @@ fmodifications:
   - action: ADD
     code: RYF-QPR-HGB-DEN-EWM-GZR
     name: England Play off till Championship, final
-    parentCode: RYF-QPR-HGB-DEN-EWM
+    parentCode: RYF-QPR-HGB-DEN-VQN
     parentName: England herr
   - action: MOVE
     code: RYF-QPR-HGB-DEN-CTE-JQX
