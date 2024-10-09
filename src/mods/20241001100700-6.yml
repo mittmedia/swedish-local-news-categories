@@ -5,6 +5,11 @@ modifications:
   - action: INACTIVATE
     code: RYF-QPR-HGB-DEN-CTE
     name: P16 herr
+    
+  - action: INACTIVATE
+    code: RYF-QPR-HGB-DEN-CTE
+    name: P16 herr
+    
   - action: INACTIVATE
     code: RYF-QPR-HGB-BQN-KKK
     name: HockeyTrean herr
