@@ -13,11 +13,11 @@ modifications:
     parentName: Division 2 herr
   - action: ADD
     name: Södra Götaland 4
-    parentCode: RYF-QPR-HGB-DGM # ID från -3
+    parentCode: RYF-QPR-HGB-DGM-XYK
     parentName: Division 3 herr
   - action: ADD
     name: Östra Götaland 3
-    parentCode: RYF-QPR-HGB-DGM # ID från -3
+    parentCode: RYF-QPR-HGB-DGM-XYK
     parentName: Division 3 herr
   - action: ADD
     name: Allsvenskan A-slutspel
