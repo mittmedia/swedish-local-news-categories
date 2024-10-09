@@ -11,7 +11,7 @@ modifications:
   - action: MOVE
     code: RYF-QPR-HGB-DEN-JDY
     name: Bundesliga
-    newParentCode: RYF-QPR-HGB-DEN-LUN
+    newParentCode: RYF-QPR-HGB-DEN-KRJ
     newParentName: Tyskland herr
   - action: MOVE
     code: RYF-QPR-HGB-DEN-KDC
