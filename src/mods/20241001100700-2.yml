@@ -41,9 +41,9 @@ fmodifications:
     parentName: Svenska Cupen herr
   - action: ADD
     code: RYF-QPR-HGB-WVD-ZAK-GTD
-    name: Div.1 södra
-    parentCode: RYF-QPR-HGB-WVD-ZAK
-    parentName: Div.1 herr
+    name: Division 1 södra
+    parentCode: RYF-QPR-HGB-WVD-XWT
+    parentName: Division 1 herr
   - action: ADD
     code: RYF-QPR-HGB-DEN-EWM-GZR
     name: England Play off till Championship, final
@@ -82,7 +82,7 @@ fmodifications:
   - action: ADD
     code: RYF-QPR-HGB-WVD-TMG-ZRT
     name: Division 1 södra
-    parentCode: RYF-QPR-HGB-WVD-TMG
+    parentCode: RYF-QPR-HGB-WVD-WAO
     parentName: Division 1 dam
   - action: ADD
     code: RYF-QPR-HGB-DEN-CSJ-DZS
