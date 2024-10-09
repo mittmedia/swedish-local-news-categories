@@ -21,15 +21,15 @@ modifications:
     parentName: Division 3 herr
   - action: ADD
     name: Allsvenskan A-slutspel
-    parentCode: RYF-QPR-HGB-DEN # ID från -3
+    parentCode: RYF-QPR-HGB-DEN-EWF
     parentName: P17
   - action: ADD
     name: Allsvenskan södra
-    parentCode: RYF-QPR-HGB-DEN # ID från -3
+    parentCode: RYF-QPR-HGB-DEN-EWF
     parentName: P17
   - action: ADD
     name: Div 1 Region 1
-    parentCode: RYF-QPR-HGB-DEN # ID från -3
+    parentCode: RYF-QPR-HGB-DEN-EWF
     parentName: P17
   - action: ADD
     name: Allsvenskan
