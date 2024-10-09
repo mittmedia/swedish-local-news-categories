@@ -1,9 +1,9 @@
 fmodifications:
   - action: ADD
     code: RYF-QPR-HGB-WVD-AQJ-MMA
-    name: Elitserien Grupp A
     parentCode: RYF-QPR-HGB-WVD-AQJ
     parentName: Elitserien herr
+    name: Elitserien Grupp A
   - action: ADD
     code: RYF-QPR-HGB-WVD-AQJ-IDC
     name: Elitserien Grupp B
@@ -52,27 +52,27 @@ fmodifications:
   - action: MOVE
     code: RYF-QPR-HGB-DEN-CTE-JQX
     name: P16 Allsvenskan, B-slutspel mellersta
-    newParentCode: RYF-QPR-HGB-DEN # ID från -1
+    newParentCode: RYF-QPR-HGB-DEN-ASK
     newParentName: P16
   - action: MOVE
     code: RYF-QPR-HGB-DEN-CTE-PWK
     name: P16 Div 1 Region 6 B-slutspel
-    NewParentCode: RYF-QPR-HGB-DEN # ID från -1
+    NewParentCode: RYF-QPR-HGB-DEN-ASK
     NewparentName: P16
   - action: MOVE
     code: RYF-QPR-HGB-DEN-OPP-NMB
     name: Allsvenskan A-slutspel södra
-    NewParentCode: RYF-QPR-HGB-DEN # ID från -1
+    NewParentCode: RYF-QPR-HGB-DEN-ASK
     NewparentName: P16
   - action: MOVE
     code: RYF-QPR-HGB-DEN-OPP-ZKM
     name: Allsvenskan mellersta herrar
-    NewParentCode: RYF-QPR-HGB-DEN # ID från -1
+    NewParentCode: RYF-QPR-HGB-DEN-ASK
     NewparentName: P16
   - action: MOVE
     code: RYF-QPR-HGB-DEN-OPP-ARC
     name: Allsvenskan södra
-    NewParentCode: RYF-QPR-HGB-DEN # ID från -1
+    NewParentCode: RYF-QPR-HGB-DEN-ASK
     NewparentName: P16
   - action: MOVE
     code: RYF-QPR-HGB-BQN-GIO
