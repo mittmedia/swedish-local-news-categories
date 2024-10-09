@@ -180,26 +180,6 @@ fmodifications:
     parentCode: RYF-QPR-HGB-DEN-GBH
     parentName: EM-kval dam
   - action: ADD
-    code: RYF-QPR-HGB-DEN-XYS-WJZ
-    name: Champions League
-    parentCode: RYF-QPR-HGB-DEN-XYS
-    parentName: Champions League
-  - action: ADD
-    code: RYF-QPR-HGB-DEN-LEU-CZQ
-    name: Europa League
-    parentCode: RYF-QPR-HGB-DEN-LEU
-    parentName: Europa League
-  - action: ADD
-    code: RYF-QPR-HGB-DEN-VKZ-HFF
-    name: Conference League
-    parentCode: RYF-QPR-HGB-DEN-VKZ
-    parentName: Conference League
-  - action: ADD
-    code: RYF-QPR-HGB-BQN-ZTJ-HVB
-    name: CHL
-    parentCode: RYF-QPR-HGB-BQN-ZTJ
-    parentName: Champions Hockey League
-  - action: ADD
     code: RYF-QPR-HGB-BAH-XQF-IVF
     name: Division 3 norra
     parentCode: RYF-QPR-HGB-BAH-XQF
