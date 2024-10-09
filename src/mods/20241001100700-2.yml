@@ -49,11 +49,31 @@ fmodifications:
     name: England Play off till Championship, final
     parentCode: RYF-QPR-HGB-DEN-EWM
     parentName: England herr
-  - action: ADD
-    code: RYF-QPR-HGB-DEN-NRS-OSW
+  - action: MOVE
+    code: RYF-QPR-HGB-DEN-CTE-JQX
     name: P16 Allsvenskan, B-slutspel mellersta
-    parentCode: RYF-QPR-HGB-DEN-OPP
-    parentName: P16
+    newParentCode: RYF-QPR-HGB-DEN # ID från -1
+    newParentName: P16
+  - action: MOVE
+    code: RYF-QPR-HGB-DEN-CTE-PWK
+    name: P16 Div 1 Region 6 B-slutspel
+    NewParentCode: RYF-QPR-HGB-DEN # ID från -1
+    NewparentName: P16
+  - action: MOVE
+    code: RYF-QPR-HGB-DEN-OPP-NMB
+    name: Allsvenskan A-slutspel södra
+    NewParentCode: RYF-QPR-HGB-DEN # ID från -1
+    NewparentName: P16
+  - action: MOVE
+    code: RYF-QPR-HGB-DEN-OPP-ZKM
+    name: Allsvenskan mellersta herrar
+    NewParentCode: RYF-QPR-HGB-DEN # ID från -1
+    NewparentName: P16
+  - action: MOVE
+    code: RYF-QPR-HGB-DEN-OPP-ARC
+    name: Allsvenskan södra
+    NewParentCode: RYF-QPR-HGB-DEN # ID från -1
+    NewparentName: P16
   - action: MOVE
     code: RYF-QPR-HGB-BQN-GIO
     name: HockeyTrean Värmland
@@ -369,11 +389,6 @@ fmodifications:
     name: Division 1 SM-final
     parentCode: RYF-QPR-HGB-DZQ-DAF
     parentName: Division 1 dam
-  - action: ADD
-    code: RYF-QPR-HGB-DEN-NRS-PNJ
-    name: P16 Div 1 Region 6 B-slutspel
-    parentCode: RYF-QPR-HGB-DEN-OPP
-    parentName: P16
   - action: ADD
     code: RYF-QPR-HGB-DEN-GIS-XBV
     name: Italien Play Off till Serie A, semifinal
