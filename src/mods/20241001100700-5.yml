@@ -141,14 +141,4 @@ modifications:
   - action: ADD
     name: Hockeyfyran
     parentCode: RYF-QPR-HGB-BQN
-    parentName: Ishockey
-  - action: MOVE
-    code: RYF-QPR-HGB-DEN-CTE-JQX
-    name: P16 Allsvenskan, B-slutspel mellersta
-    newParentCode: RYF-QPR-HGB-DEN-OPP
-    newParentName: P16  
-   - action: MOVE
-    code: RYF-QPR-HGB-DEN-CTE-JQX
-    name: P16 Div 1 Region 6 B-slutspel
-    newParentCode: RYF-QPR-HGB-DEN-OPP
-    newParentName: P16     
+    parentName: Ishockey  
