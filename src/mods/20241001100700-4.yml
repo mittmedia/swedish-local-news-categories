@@ -43,9 +43,5 @@ modifications:
     name: Superettan södra
     parentCode: RYF-QPR-HGB-DEN-EUE
     parentName: P19
-  - action: UPDATE
-    code: RYF-QPR-HGB-WVD-ZAK-GTD
-    name: Div.1 södra
-    newName: Division 1 södra
 
     
