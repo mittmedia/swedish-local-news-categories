@@ -67,10 +67,6 @@ modifications:
     name: Älmhult
     parentCode: RYF-QPR-HGB-DEN-CWD
     parentName: Division 6 herr
-  - action: UPDATE
-    code: RYF-QPR-HGB-DEN-OPP
-    name: P16 Allsvenskan mellersta herrar
-    newName: P16
   - action: ADD
     name: P19
     parentCode: RYF-QPR-HGB-DEN
