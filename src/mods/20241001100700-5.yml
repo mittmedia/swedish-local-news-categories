@@ -1,8 +1,12 @@
 modifications:
   - action: ADD
+    parentCode:
     parentName: P16
-    ParentCode: 
-    name:
+    name: P16 Allsvenskan, B-slutspel mellersta
+  - action: ADD
+    name: Blekinge
+    parentCode: RYF-QPR-HGB-DEN-SZC
+    parentName: Division 4 dam
   - action: INACTIVATE
     code: RYF-QPR-HGB-BQN-UCF-ZEG
     name: HockeyTvåan norra B
