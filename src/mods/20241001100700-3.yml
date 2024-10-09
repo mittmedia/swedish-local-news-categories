@@ -187,7 +187,7 @@ modifications:
     name: P16 Allsvenskan, B-slutspel mellersta
     parentCode: RYF-QPR-HGB-ASK
     parentName: P16
-    - action: ADD
+  - action: ADD
     name: P16 Div 1 Region 6 B-slutspel
     parentCode: RYF-QPR-HGB-ASK
     parentName: P16  

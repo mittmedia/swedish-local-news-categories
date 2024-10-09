@@ -14134,6 +14134,12 @@
             "status": "ACTIVE"
         },
         {
+            "code": "RYF-QPR-HGB-BAH-LUF-MOP",
+            "level": 5,
+            "name": "Mellersta södra",
+            "status": "ACTIVE"
+        },
+        {
             "code": "RYF-QPR-HGB-BAH-LUF-YRO",
             "description": "",
             "level": 5,
@@ -14201,6 +14207,20 @@
             "description": "",
             "level": 5,
             "name": "Dalarna",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-QPR-HGB-BAH-XQF-PHR",
+            "description": "",
+            "level": 5,
+            "name": "Division 3 norra",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-QPR-HGB-BAH-XQF-RNT",
+            "description": "",
+            "level": 5,
+            "name": "Division 3 östra",
             "status": "ACTIVE"
         },
         {
@@ -14278,6 +14298,12 @@
             "description": "",
             "level": 4,
             "name": "Alltrean södra A",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-QPR-HGB-BQN-CPW",
+            "level": 4,
+            "name": "Kvalserien till Hockeyallsvenskan",
             "status": "ACTIVE"
         },
         {
@@ -15142,6 +15168,12 @@
             "status": "ACTIVE"
         },
         {
+            "code": "RYF-QPR-HGB-BQN-VLP-KEP",
+            "level": 5,
+            "name": "J18 kvalserie division 1 syd herr",
+            "status": "ACTIVE"
+        },
+        {
             "code": "RYF-QPR-HGB-BQN-VLP-KVH",
             "description": "",
             "level": 5,
@@ -15219,6 +15251,12 @@
             "status": "ACTIVE"
         },
         {
+            "code": "RYF-QPR-HGB-BQN-VLP-XOI",
+            "level": 5,
+            "name": "J18 kvalserie region syd herr",
+            "status": "ACTIVE"
+        },
+        {
             "code": "RYF-QPR-HGB-BQN-WGC",
             "description": "",
             "level": 4,
@@ -15238,6 +15276,12 @@
             "description": "",
             "level": 4,
             "name": "Hockeytvåan Norra A fortsättning",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-QPR-HGB-BQN-XDT",
+            "level": 4,
+            "name": "Play off till J20 kval Nationell södra",
             "status": "ACTIVE"
         },
         {
@@ -15452,10 +15496,22 @@
             "status": "ACTIVE"
         },
         {
+            "code": "RYF-QPR-HGB-DEN-ALX-ESC",
+            "level": 5,
+            "name": "Västergötland östra",
+            "status": "ACTIVE"
+        },
+        {
             "code": "RYF-QPR-HGB-DEN-ALX-EZB",
             "description": "",
             "level": 5,
             "name": "Östergötland västra",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-QPR-HGB-DEN-ALX-FLJ",
+            "level": 5,
+            "name": "Skåne östra",
             "status": "ACTIVE"
         },
         {
@@ -15670,8 +15726,21 @@
         },
         {
             "code": "RYF-QPR-HGB-DEN-ASK",
+            "description": "",
             "level": 4,
             "name": "P16",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-QPR-HGB-DEN-ASK-IWI",
+            "level": 5,
+            "name": "P16 Allsvenskan, B-slutspel mellersta",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-QPR-HGB-DEN-ASK-KWE",
+            "level": 5,
+            "name": "P16 Div 1 Region 6 B-slutspel",
             "status": "ACTIVE"
         },
         {
@@ -15683,8 +15752,37 @@
         },
         {
             "code": "RYF-QPR-HGB-DEN-BGN",
+            "description": "",
             "level": 4,
             "name": "Italien herr",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-QPR-HGB-DEN-BGN-OET",
+            "description": "",
+            "level": 5,
+            "name": "Italien Play Off till Serie A, kvartsfinal",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-QPR-HGB-DEN-BGN-RWC",
+            "description": "",
+            "level": 5,
+            "name": "Italien Serie B",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-QPR-HGB-DEN-BGN-TBN",
+            "description": "",
+            "level": 5,
+            "name": "Italien Play Off till Serie A, final",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-QPR-HGB-DEN-BGN-VVA",
+            "description": "",
+            "level": 5,
+            "name": "Italien Play Off till Serie A, semifinal",
             "status": "ACTIVE"
         },
         {
@@ -15933,6 +16031,12 @@
             "status": "ACTIVE"
         },
         {
+            "code": "RYF-QPR-HGB-DEN-CWD-GCC",
+            "level": 5,
+            "name": "Blekinge",
+            "status": "ACTIVE"
+        },
+        {
             "code": "RYF-QPR-HGB-DEN-CWD-GNX",
             "description": "",
             "level": 5,
@@ -15979,6 +16083,12 @@
             "description": "",
             "level": 5,
             "name": "Mariestad",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-QPR-HGB-DEN-CWD-ISF",
+            "level": 5,
+            "name": "Älmhult",
             "status": "ACTIVE"
         },
         {
@@ -16091,6 +16201,12 @@
             "description": "",
             "level": 5,
             "name": "Uppland östra",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-QPR-HGB-DEN-CWD-NKV",
+            "level": 5,
+            "name": "Skåne södra",
             "status": "ACTIVE"
         },
         {
@@ -16339,15 +16455,84 @@
             "status": "ACTIVE"
         },
         {
+            "code": "RYF-QPR-HGB-DEN-CWD-ZYX",
+            "level": 5,
+            "name": "Vetlanda",
+            "status": "ACTIVE"
+        },
+        {
             "code": "RYF-QPR-HGB-DEN-DJW",
+            "description": "",
             "level": 4,
             "name": "EM-kval dam",
             "status": "ACTIVE"
         },
         {
+            "code": "RYF-QPR-HGB-DEN-DJW-AVN",
+            "description": "",
+            "level": 5,
+            "name": "EM-kval Grupp A4",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-QPR-HGB-DEN-DJW-QEP",
+            "description": "",
+            "level": 5,
+            "name": "EM-kval Grupp A3",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-QPR-HGB-DEN-DJW-QNG",
+            "description": "",
+            "level": 5,
+            "name": "EM-kval Grupp A2",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-QPR-HGB-DEN-DJW-TNR",
+            "description": "",
+            "level": 5,
+            "name": "EM-kval Grupp A1",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-QPR-HGB-DEN-DJW-XEA",
+            "description": "",
+            "level": 5,
+            "name": "EM-kval Playoff, semifinal",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-QPR-HGB-DEN-EUE",
+            "level": 4,
+            "name": "P19",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-QPR-HGB-DEN-EWF",
+            "level": 4,
+            "name": "P17",
+            "status": "ACTIVE"
+        },
+        {
             "code": "RYF-QPR-HGB-DEN-FCN",
+            "description": "",
             "level": 4,
             "name": "Grekland herr",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-QPR-HGB-DEN-FCN-NGT",
+            "description": "",
+            "level": 5,
+            "name": "Grekland Super League",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-QPR-HGB-DEN-FCN-QRR",
+            "description": "",
+            "level": 5,
+            "name": "Grekland Nedflyttningsserie",
             "status": "ACTIVE"
         },
         {
@@ -16432,6 +16617,12 @@
             "description": "",
             "level": 5,
             "name": "Småland nordöstra",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-QPR-HGB-DEN-FXI-IPH",
+            "level": 5,
+            "name": "Skåne södra",
             "status": "ACTIVE"
         },
         {
@@ -16551,6 +16742,12 @@
             "description": "",
             "level": 5,
             "name": "Västergötland östra",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-QPR-HGB-DEN-FXI-XVI",
+            "level": 5,
+            "name": "Skåne östra",
             "status": "ACTIVE"
         },
         {
@@ -16694,6 +16891,12 @@
             "status": "ACTIVE"
         },
         {
+            "code": "RYF-QPR-HGB-DEN-HKY-CHO",
+            "level": 5,
+            "name": "Södra Götaland",
+            "status": "ACTIVE"
+        },
+        {
             "code": "RYF-QPR-HGB-DEN-HKY-DTT",
             "description": "",
             "level": 5,
@@ -16726,6 +16929,13 @@
             "description": "",
             "level": 5,
             "name": "Nordöstra Götaland",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-QPR-HGB-DEN-HKY-LCL",
+            "description": "",
+            "level": 5,
+            "name": "Division 3 norra Norrland",
             "status": "ACTIVE"
         },
         {
@@ -16775,6 +16985,12 @@
             "description": "",
             "level": 5,
             "name": "Södra Svealand",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-QPR-HGB-DEN-HKY-WQS",
+            "level": 5,
+            "name": "Sydvästra Götaland",
             "status": "ACTIVE"
         },
         {
@@ -17157,8 +17373,22 @@
         },
         {
             "code": "RYF-QPR-HGB-DEN-JMO",
+            "description": "",
             "level": 4,
             "name": "Italien dam",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-QPR-HGB-DEN-JMO-DQM",
+            "description": "",
+            "level": 5,
+            "name": "Italien Serie A",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-QPR-HGB-DEN-KCB",
+            "level": 4,
+            "name": "F17",
             "status": "ACTIVE"
         },
         {
@@ -17183,9 +17413,30 @@
             "status": "ACTIVE"
         },
         {
+            "code": "RYF-QPR-HGB-DEN-KML-XSJ",
+            "level": 5,
+            "name": "Södra",
+            "status": "ACTIVE"
+        },
+        {
             "code": "RYF-QPR-HGB-DEN-KRJ",
+            "description": "",
             "level": 4,
             "name": "Tyskland herr",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-QPR-HGB-DEN-KRJ-AYO",
+            "description": "",
+            "level": 5,
+            "name": "Tyskland Bundesliga 2",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-QPR-HGB-DEN-KRJ-OFM",
+            "description": "",
+            "level": 5,
+            "name": "Tyskland Play Off till Bundesliga",
             "status": "ACTIVE"
         },
         {
@@ -17193,6 +17444,34 @@
             "description": "",
             "level": 4,
             "name": "Europa League",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-QPR-HGB-DEN-LEU-NXQ",
+            "description": "",
+            "level": 5,
+            "name": "Europa League Play off",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-QPR-HGB-DEN-LEU-QNS",
+            "description": "",
+            "level": 5,
+            "name": "Europa League Tredje kvalomgången",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-QPR-HGB-DEN-LEU-RWS",
+            "description": "",
+            "level": 5,
+            "name": "Europa League Andra kvalomgången",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-QPR-HGB-DEN-LEU-TTA",
+            "description": "",
+            "level": 5,
+            "name": "Europa League Första kvalomgången",
             "status": "ACTIVE"
         },
         {
@@ -17204,8 +17483,23 @@
         },
         {
             "code": "RYF-QPR-HGB-DEN-LWN",
+            "description": "",
             "level": 4,
             "name": "Spanien herr",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-QPR-HGB-DEN-LWN-IWK",
+            "description": "",
+            "level": 5,
+            "name": "Spanien Play Off till La Liga, final",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-QPR-HGB-DEN-LWN-MCK",
+            "description": "",
+            "level": 5,
+            "name": "Spanien Play Off till La Liga, semifinal",
             "status": "ACTIVE"
         },
         {
@@ -17311,6 +17605,12 @@
             "description": "",
             "level": 5,
             "name": "Ångermanland",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-QPR-HGB-DEN-MVN-HES",
+            "level": 5,
+            "name": "Skåne östra",
             "status": "ACTIVE"
         },
         {
@@ -17496,6 +17796,12 @@
             "status": "ACTIVE"
         },
         {
+            "code": "RYF-QPR-HGB-DEN-MVN-WGG",
+            "level": 5,
+            "name": "Skåne södra",
+            "status": "ACTIVE"
+        },
+        {
             "code": "RYF-QPR-HGB-DEN-MVN-WGJ",
             "description": "",
             "level": 5,
@@ -17567,8 +17873,79 @@
         },
         {
             "code": "RYF-QPR-HGB-DEN-OZH",
+            "description": "",
             "level": 4,
             "name": "EM herr",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-QPR-HGB-DEN-OZH-HNX",
+            "description": "",
+            "level": 5,
+            "name": "EM Grupp E",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-QPR-HGB-DEN-OZH-IOA",
+            "description": "",
+            "level": 5,
+            "name": "EM Grupp D",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-QPR-HGB-DEN-OZH-JSV",
+            "description": "",
+            "level": 5,
+            "name": "EM Grupp C",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-QPR-HGB-DEN-OZH-MYZ",
+            "description": "",
+            "level": 5,
+            "name": "EM Grupp F",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-QPR-HGB-DEN-OZH-OEQ",
+            "description": "",
+            "level": 5,
+            "name": "EM Åttondelsfinal",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-QPR-HGB-DEN-OZH-UFH",
+            "description": "",
+            "level": 5,
+            "name": "EM Grupp B",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-QPR-HGB-DEN-OZH-UHL",
+            "description": "",
+            "level": 5,
+            "name": "EM Kvartsfinal",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-QPR-HGB-DEN-OZH-WAJ",
+            "description": "",
+            "level": 5,
+            "name": "Semifinal",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-QPR-HGB-DEN-OZH-WIO",
+            "description": "",
+            "level": 5,
+            "name": "EM Grupp A",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-QPR-HGB-DEN-OZH-XVP",
+            "description": "",
+            "level": 5,
+            "name": "EM Final",
             "status": "ACTIVE"
         },
         {
@@ -17580,8 +17957,37 @@
         },
         {
             "code": "RYF-QPR-HGB-DEN-QGS",
+            "description": "",
             "level": 4,
             "name": "24 herr",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-QPR-HGB-DEN-QGS-CZE",
+            "description": "",
+            "level": 5,
+            "name": "Svenska Cupen 23/24 Kvartsfinal",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-QPR-HGB-DEN-QGS-OLO",
+            "description": "",
+            "level": 5,
+            "name": "Svenska Cupen 23/24 Omgång 2",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-QPR-HGB-DEN-QGS-XUS",
+            "description": "",
+            "level": 5,
+            "name": "Svenska Cupen 23/24 Omgång 1",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-QPR-HGB-DEN-QGS-XVZ",
+            "description": "",
+            "level": 5,
+            "name": "Svenska Cupen 23/24 Semifinal",
             "status": "ACTIVE"
         },
         {
@@ -17593,8 +17999,107 @@
         },
         {
             "code": "RYF-QPR-HGB-DEN-SNM",
+            "description": "",
             "level": 4,
             "name": "Nations League herr",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-QPR-HGB-DEN-SNM-DCV",
+            "description": "",
+            "level": 5,
+            "name": "Nations League Grupp C1",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-QPR-HGB-DEN-SNM-DWY",
+            "description": "",
+            "level": 5,
+            "name": "Nations League Grupp A4",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-QPR-HGB-DEN-SNM-FNJ",
+            "description": "",
+            "level": 5,
+            "name": "Nations League Grupp B4",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-QPR-HGB-DEN-SNM-ILU",
+            "description": "",
+            "level": 5,
+            "name": "Nations League Grupp A3",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-QPR-HGB-DEN-SNM-KUJ",
+            "description": "",
+            "level": 5,
+            "name": "Nations League Grupp D2",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-QPR-HGB-DEN-SNM-LEU",
+            "description": "",
+            "level": 5,
+            "name": "Nations League Grupp C3",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-QPR-HGB-DEN-SNM-LIA",
+            "description": "",
+            "level": 5,
+            "name": "Nations League Grupp B3",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-QPR-HGB-DEN-SNM-LWR",
+            "description": "",
+            "level": 5,
+            "name": "Nations League Grupp B1",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-QPR-HGB-DEN-SNM-PHN",
+            "description": "",
+            "level": 5,
+            "name": "Nations League Grupp D1",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-QPR-HGB-DEN-SNM-TEK",
+            "description": "",
+            "level": 5,
+            "name": "Nations League Grupp A2",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-QPR-HGB-DEN-SNM-WAM",
+            "description": "",
+            "level": 5,
+            "name": "Nations League Grupp B2",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-QPR-HGB-DEN-SNM-WXU",
+            "description": "",
+            "level": 5,
+            "name": "Nations League Grupp C4",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-QPR-HGB-DEN-SNM-XNY",
+            "description": "",
+            "level": 5,
+            "name": "Nations League Grupp A1",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-QPR-HGB-DEN-SNM-ZOT",
+            "description": "",
+            "level": 5,
+            "name": "Nations League Grupp C2",
             "status": "ACTIVE"
         },
         {
@@ -17773,6 +18278,12 @@
             "status": "ACTIVE"
         },
         {
+            "code": "RYF-QPR-HGB-DEN-SZC-SXK",
+            "level": 5,
+            "name": "Vetlanda",
+            "status": "ACTIVE"
+        },
+        {
             "code": "RYF-QPR-HGB-DEN-SZC-UDY",
             "description": "",
             "level": 5,
@@ -17791,6 +18302,12 @@
             "description": "",
             "level": 5,
             "name": "Värmland",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-QPR-HGB-DEN-SZC-YED",
+            "level": 5,
+            "name": "Blekinge",
             "status": "ACTIVE"
         },
         {
@@ -17963,8 +18480,16 @@
         },
         {
             "code": "RYF-QPR-HGB-DEN-VFS",
+            "description": "",
             "level": 4,
             "name": "Turkiet herr",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-QPR-HGB-DEN-VFS-ILU",
+            "description": "",
+            "level": 5,
+            "name": "Turkiet Süper Lig",
             "status": "ACTIVE"
         },
         {
@@ -17975,9 +18500,45 @@
             "status": "ACTIVE"
         },
         {
+            "code": "RYF-QPR-HGB-DEN-VKZ-IHH",
+            "description": "",
+            "level": 5,
+            "name": "Conference League Andra kvalomgången",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-QPR-HGB-DEN-VKZ-KPL",
+            "description": "",
+            "level": 5,
+            "name": "Conference League Första kvalomgången",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-QPR-HGB-DEN-VKZ-QVE",
+            "description": "",
+            "level": 5,
+            "name": "Conference League Tredje kvalomgången",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-QPR-HGB-DEN-VKZ-SGS",
+            "description": "",
+            "level": 5,
+            "name": "Conference League Play off",
+            "status": "ACTIVE"
+        },
+        {
             "code": "RYF-QPR-HGB-DEN-VQN",
+            "description": "",
             "level": 4,
             "name": "England herr",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-QPR-HGB-DEN-VQN-EYP",
+            "description": "",
+            "level": 5,
+            "name": "England Play off till Championship, final",
             "status": "ACTIVE"
         },
         {
@@ -17999,6 +18560,132 @@
             "description": "",
             "level": 4,
             "name": "Champions League",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-QPR-HGB-DEN-XYS-BOB",
+            "description": "",
+            "level": 5,
+            "name": "Champions League Grupp G",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-QPR-HGB-DEN-XYS-BVR",
+            "description": "",
+            "level": 5,
+            "name": "Champions League Grupp D",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-QPR-HGB-DEN-XYS-CGF",
+            "description": "",
+            "level": 5,
+            "name": "Champions League Play off",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-QPR-HGB-DEN-XYS-ECM",
+            "description": "",
+            "level": 5,
+            "name": "Champions League Grupp F",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-QPR-HGB-DEN-XYS-EXF",
+            "description": "",
+            "level": 5,
+            "name": "Champions League Tredje kvalomgången",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-QPR-HGB-DEN-XYS-FYU",
+            "description": "",
+            "level": 5,
+            "name": "Champions League Grupp A",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-QPR-HGB-DEN-XYS-GZQ",
+            "description": "",
+            "level": 5,
+            "name": "Champions League Grupp C",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-QPR-HGB-DEN-XYS-HAT",
+            "description": "",
+            "level": 5,
+            "name": "Champions League Första kvalomgången",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-QPR-HGB-DEN-XYS-HCQ",
+            "description": "",
+            "level": 5,
+            "name": "Champions League Tredje kvalomgången",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-QPR-HGB-DEN-XYS-IEK",
+            "description": "",
+            "level": 5,
+            "name": "Champions League Final",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-QPR-HGB-DEN-XYS-KFB",
+            "description": "",
+            "level": 5,
+            "name": "Champions League Grupp E",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-QPR-HGB-DEN-XYS-LHL",
+            "description": "",
+            "level": 5,
+            "name": "Champions League Andra kvalomgången",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-QPR-HGB-DEN-XYS-OBN",
+            "description": "",
+            "level": 5,
+            "name": "Champions League Grupp H",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-QPR-HGB-DEN-XYS-QVO",
+            "description": "",
+            "level": 5,
+            "name": "Champions League Grupp B",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-QPR-HGB-DEN-XYS-RLN",
+            "description": "",
+            "level": 5,
+            "name": "Champions League Semifinal",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-QPR-HGB-DEN-XYS-XCI",
+            "description": "",
+            "level": 5,
+            "name": "Champions League Andra kvalomgången",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-QPR-HGB-DEN-XYS-XHM",
+            "description": "",
+            "level": 5,
+            "name": "Champions League Play off",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-QPR-HGB-DEN-XYS-YKS",
+            "description": "",
+            "level": 5,
+            "name": "Champions League Första kvalomgången",
             "status": "ACTIVE"
         },
         {
@@ -18031,8 +18718,30 @@
         },
         {
             "code": "RYF-QPR-HGB-DEN-ZIJ",
+            "description": "",
             "level": 4,
             "name": "24 dam",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-QPR-HGB-DEN-ZIJ-CWH",
+            "description": "",
+            "level": 5,
+            "name": "Svenska Cupen 23/24 Semifinal",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-QPR-HGB-DEN-ZIJ-INP",
+            "description": "",
+            "level": 5,
+            "name": "Svenska Cupen 23/24 Omgång 2",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-QPR-HGB-DEN-ZIJ-ZMA",
+            "description": "",
+            "level": 5,
+            "name": "Svenska Cupen 23/24 Omgång 3",
             "status": "ACTIVE"
         },
         {
@@ -18040,6 +18749,12 @@
             "description": "",
             "level": 3,
             "name": "Bowling",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-QPR-HGB-DGM-ARJ",
+            "level": 4,
+            "name": "Division 2 herr",
             "status": "ACTIVE"
         },
         {
@@ -18057,10 +18772,34 @@
             "status": "ACTIVE"
         },
         {
+            "code": "RYF-QPR-HGB-DGM-FGK-KIV",
+            "level": 5,
+            "name": "Södra",
+            "status": "ACTIVE"
+        },
+        {
             "code": "RYF-QPR-HGB-DGM-GYR",
             "description": "",
             "level": 4,
             "name": "Division 1 herr",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-QPR-HGB-DGM-GYR-ARZ",
+            "level": 5,
+            "name": "Södra Götaland",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-QPR-HGB-DGM-GYR-CEP",
+            "level": 5,
+            "name": "Norra Götaland",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-QPR-HGB-DGM-JPV",
+            "level": 4,
+            "name": "Sydallsvenskan herr",
             "status": "ACTIVE"
         },
         {
@@ -18086,8 +18825,15 @@
         },
         {
             "code": "RYF-QPR-HGB-DGM-XKY",
+            "description": "",
             "level": 4,
             "name": "Division 3 herr",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-QPR-HGB-DGM-XYK",
+            "level": 4,
+            "name": "Division 2 dam",
             "status": "ACTIVE"
         },
         {
@@ -18212,6 +18958,7 @@
         },
         {
             "code": "RYF-QPR-HGB-DZQ-YDZ",
+            "description": "",
             "level": 4,
             "name": "Division 1 dam",
             "status": "ACTIVE"
@@ -18549,8 +19296,16 @@
         },
         {
             "code": "RYF-QPR-HGB-IUC-NWB",
+            "description": "",
             "level": 4,
             "name": "Regionserien herr",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-QPR-HGB-IUC-NWB-DAM",
+            "description": "",
+            "level": 5,
+            "name": "Regionserien Final",
             "status": "ACTIVE"
         },
         {
@@ -18617,6 +19372,12 @@
             "status": "ACTIVE"
         },
         {
+            "code": "RYF-QPR-HGB-JDC-LVZ",
+            "level": 4,
+            "name": "Division 3 herr",
+            "status": "ACTIVE"
+        },
+        {
             "code": "RYF-QPR-HGB-JDC-MEO",
             "description": "",
             "level": 4,
@@ -18635,6 +19396,12 @@
             "description": "",
             "level": 4,
             "name": "Division 2 herr",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-QPR-HGB-JDC-SZN-TKD",
+            "level": 5,
+            "name": "Sydsvenska norra",
             "status": "ACTIVE"
         },
         {
@@ -18828,10 +19595,49 @@
             "status": "ACTIVE"
         },
         {
+            "code": "RYF-QPR-HGB-MUD-CWJ-NAC",
+            "description": "",
+            "level": 5,
+            "name": "Allsvenskan",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-QPR-HGB-MUD-CWJ-QBY",
+            "level": 5,
+            "name": "Semifinal dam",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-QPR-HGB-MUD-CWJ-UIO",
+            "level": 5,
+            "name": "Söder",
+            "status": "ACTIVE"
+        },
+        {
             "code": "RYF-QPR-HGB-MUD-OEB",
             "description": "",
             "level": 4,
             "name": "Allsvenskan herr",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-QPR-HGB-MUD-OEB-MBJ",
+            "description": "",
+            "level": 5,
+            "name": "Allsvenskan Region Skåne",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-QPR-HGB-MUD-OEB-WZV",
+            "description": "",
+            "level": 5,
+            "name": "Allsvenskan",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-QPR-HGB-MUD-VPM",
+            "level": 4,
+            "name": "Superallsvenskan herr",
             "status": "ACTIVE"
         },
         {
@@ -19180,6 +19986,12 @@
             "status": "ACTIVE"
         },
         {
+            "code": "RYF-QPR-HGB-PJR-IOG-NTT",
+            "level": 5,
+            "name": "Direkt off syd",
+            "status": "ACTIVE"
+        },
+        {
             "code": "RYF-QPR-HGB-PJR-IOG-ROO",
             "description": "",
             "level": 5,
@@ -19202,8 +20014,23 @@
         },
         {
             "code": "RYF-QPR-HGB-PJR-LYR",
+            "description": "",
             "level": 4,
             "name": "Svenska Cupen herr",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-QPR-HGB-PJR-LYR-OFW",
+            "description": "",
+            "level": 5,
+            "name": "Svenska Cupen Åttondelsfinal",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-QPR-HGB-PJR-LYR-VZR",
+            "description": "",
+            "level": 5,
+            "name": "Svenska Cupen Kvartsfinal",
             "status": "ACTIVE"
         },
         {
@@ -19284,6 +20111,12 @@
             "status": "ACTIVE"
         },
         {
+            "code": "RYF-QPR-HGB-PJR-QGD",
+            "level": 4,
+            "name": "Kvalet till Handbollsligan herr",
+            "status": "ACTIVE"
+        },
+        {
             "code": "RYF-QPR-HGB-PJR-QXN",
             "description": "",
             "level": 4,
@@ -19305,6 +20138,13 @@
             "status": "ACTIVE"
         },
         {
+            "code": "RYF-QPR-HGB-PJR-RRX-UGS",
+            "description": "",
+            "level": 5,
+            "name": "Division 4 Dam 4 Väst Sydost",
+            "status": "ACTIVE"
+        },
+        {
             "code": "RYF-QPR-HGB-PJR-WKS",
             "description": "",
             "level": 4,
@@ -19316,6 +20156,12 @@
             "description": "",
             "level": 4,
             "name": "Division 1 herr",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-QPR-HGB-PJR-XPJ-IMH",
+            "level": 5,
+            "name": "Direkt off",
             "status": "ACTIVE"
         },
         {
@@ -19606,6 +20452,12 @@
             "status": "ACTIVE"
         },
         {
+            "code": "RYF-QPR-HGB-QHJ-KRL",
+            "level": 4,
+            "name": "Playoff 1 till division 2 Västergötland herr",
+            "status": "ACTIVE"
+        },
+        {
             "code": "RYF-QPR-HGB-QHJ-LLQ",
             "description": "",
             "level": 4,
@@ -19865,6 +20717,12 @@
             "status": "ACTIVE"
         },
         {
+            "code": "RYF-QPR-HGB-QHJ-UMO",
+            "level": 4,
+            "name": "Playoff 1 till division 1 Västergötland herr",
+            "status": "ACTIVE"
+        },
+        {
             "code": "RYF-QPR-HGB-QHJ-UVW",
             "description": "",
             "level": 4,
@@ -19953,6 +20811,12 @@
             "description": "",
             "level": 5,
             "name": "Österg och Söderman",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-QPR-HGB-QHJ-VDJ",
+            "level": 4,
+            "name": "Playoff 2 till division 2 Västergötland herr",
             "status": "ACTIVE"
         },
         {
@@ -20058,6 +20922,13 @@
             "description": "",
             "level": 5,
             "name": "Halland",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-QPR-HGB-QHJ-XFL-TSV",
+            "description": "",
+            "level": 5,
+            "name": "Division 3 södra Götaland 2",
             "status": "ACTIVE"
         },
         {
@@ -20516,26 +21387,79 @@
         },
         {
             "code": "RYF-QPR-HGB-WVD-AMC",
+            "description": "",
             "level": 4,
             "name": "Elitserien herr",
             "status": "ACTIVE"
         },
         {
+            "code": "RYF-QPR-HGB-WVD-AMC-MFI",
+            "description": "",
+            "level": 5,
+            "name": "Elitserien Grupp A",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-QPR-HGB-WVD-AMC-ZOH",
+            "description": "",
+            "level": 5,
+            "name": "Elitserien Grupp B",
+            "status": "ACTIVE"
+        },
+        {
             "code": "RYF-QPR-HGB-WVD-GSP",
+            "description": "",
             "level": 4,
             "name": "Elitserien dam",
             "status": "ACTIVE"
         },
         {
+            "code": "RYF-QPR-HGB-WVD-GSP-CQQ",
+            "description": "",
+            "level": 5,
+            "name": "Elitserien Grupp A",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-QPR-HGB-WVD-GSP-KXV",
+            "description": "",
+            "level": 5,
+            "name": "Elitserien Grupp B",
+            "status": "ACTIVE"
+        },
+        {
             "code": "RYF-QPR-HGB-WVD-WAO",
+            "description": "",
             "level": 4,
             "name": "Division 1 dam",
             "status": "ACTIVE"
         },
         {
+            "code": "RYF-QPR-HGB-WVD-WAO-ANZ",
+            "description": "",
+            "level": 5,
+            "name": "Division 1 södra",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-QPR-HGB-WVD-WAO-CWR",
+            "description": "",
+            "level": 5,
+            "name": "Division 1 SM-final",
+            "status": "ACTIVE"
+        },
+        {
             "code": "RYF-QPR-HGB-WVD-XWT",
+            "description": "",
             "level": 4,
             "name": "Division 1 herr",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-QPR-HGB-WVD-XWT-PGH",
+            "description": "",
+            "level": 5,
+            "name": "Division 1 södra",
             "status": "ACTIVE"
         },
         {
@@ -20603,6 +21527,7 @@
         },
         {
             "code": "RYF-QPR-HGB-YFG-VML",
+            "description": "",
             "level": 4,
             "name": "Division 1 herr",
             "status": "ACTIVE"
@@ -20727,6 +21652,24 @@
             "status": "ACTIVE"
         },
         {
+            "code": "RYF-QPR-HGB-YOC-OYY-EHT",
+            "level": 5,
+            "name": "Semifinal damer",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-QPR-HGB-YOC-OYY-QTP",
+            "level": 5,
+            "name": "SM-final damer",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-QPR-HGB-YOC-OYY-QYZ",
+            "level": 5,
+            "name": "Kvartsfinal damer",
+            "status": "ACTIVE"
+        },
+        {
             "code": "RYF-QPR-HGB-YOC-SSV",
             "description": "",
             "level": 4,
@@ -20734,10 +21677,29 @@
             "status": "ACTIVE"
         },
         {
+            "code": "RYF-QPR-HGB-YOC-SSV-KWR",
+            "description": "",
+            "level": 5,
+            "name": "Division 1 norra",
+            "status": "ACTIVE"
+        },
+        {
             "code": "RYF-QPR-HGB-YOC-TPJ",
             "description": "",
             "level": 4,
             "name": "Futsalligan",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-QPR-HGB-YOC-TPJ-IYF",
+            "level": 5,
+            "name": "Semifinal herrar",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-QPR-HGB-YOC-TPJ-YGN",
+            "level": 5,
+            "name": "SM-final herrar",
             "status": "ACTIVE"
         },
         {
@@ -20815,6 +21777,12 @@
             "description": "",
             "level": 5,
             "name": "Norra",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-QPR-HGB-YTM-NIM-LWY",
+            "level": 5,
+            "name": "Mix mellan",
             "status": "ACTIVE"
         },
         {
