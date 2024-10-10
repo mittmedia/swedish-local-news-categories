@@ -6,12 +6,12 @@ modifications:
   - action: MOVE
     code: RYF-QPR-HGB-DEN-KDC
     name: Championship
-    newParentCode: RYF-QPR-HGB-DEN-ROT
+    newParentCode: RYF-QPR-HGB-DEN-VQN
     newParentName: England herr
   - action: MOVE
     code: RYF-QPR-HGB-DEN-CUG
     name: Premier League
-    newParentCode: RYF-QPR-HGB-DEN-ROT
+    newParentCode: RYF-QPR-HGB-DEN-VQN
     newParentName: England herr
   - action: MOVE
     code: RYF-QPR-HGB-DEN-OAF
