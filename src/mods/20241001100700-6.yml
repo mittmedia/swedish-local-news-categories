@@ -21,7 +21,7 @@ modifications:
   - action: MOVE
     code: RYF-QPR-HGB-DEN-BOA
     name: La Liga
-    newParentCode: RYF-QPR-HGB-DEN-BPD
+    newParentCode: RYF-QPR-HGB-DEN-LWN
     newParentName: Spanien herr
   - action: MOVE
     code: RYF-QPR-HGB-BQN-EPF
