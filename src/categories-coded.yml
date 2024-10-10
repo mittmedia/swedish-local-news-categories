@@ -10427,7 +10427,8 @@ categories:
   description: ''
   level: 4
   name: Alltrean södra A
-  status: ACTIVE
+  replacedBy: RYF-QPR-HGB-BQN-TKF-CHH
+  status: INACTIVE
 - code: RYF-QPR-HGB-BQN-CPW
   description: ''
   level: 4
@@ -10457,7 +10458,8 @@ categories:
   description: ''
   level: 4
   name: Hockeyettan södra vår
-  status: ACTIVE
+  replacedBy: RYF-QPR-HGB-BQN-TQL-GYO
+  status: INACTIVE
 - code: RYF-QPR-HGB-BQN-EMV
   description: ''
   level: 4
@@ -10477,8 +10479,9 @@ categories:
   description: ''
   level: 4
   name: Hockeyettan västra
+  replacedBy: RYF-QPR-HGB-BQN-TQL-DAP
   replaces: RYF-QPR-HGB-BQN-TQL-MCK
-  status: ACTIVE
+  status: INACTIVE
 - code: RYF-QPR-HGB-BQN-EWY
   description: ''
   level: 4
@@ -10508,7 +10511,8 @@ categories:
   description: ''
   level: 4
   name: Hockeytrean Södra D fortsättning
-  status: ACTIVE
+  replacedBy: RYF-QPR-HGB-BQN-TKF-EPT
+  status: INACTIVE
 - code: RYF-QPR-HGB-BQN-FSV
   description: ''
   level: 4
@@ -10518,22 +10522,26 @@ categories:
   description: ''
   level: 4
   name: Hockeytrean Örebro-Västmanland
-  status: ACTIVE
+  replacedBy: RYF-QPR-HGB-BQN-TKF-QDO
+  status: INACTIVE
 - code: RYF-QPR-HGB-BQN-GID
   description: ''
   level: 4
   name: Hockeyettan norra vår
-  status: ACTIVE
+  replacedBy: RYF-QPR-HGB-BQN-TQL-EGH
+  status: INACTIVE
 - code: RYF-QPR-HGB-BQN-GIO
   description: ''
   level: 4
   name: Hockeytrean Värmland
-  status: ACTIVE
+  replacedBy: RYF-QPR-HGB-BQN-TKF-POY
+  status: INACTIVE
 - code: RYF-QPR-HGB-BQN-GLW
   description: ''
   level: 4
   name: Alltrean södra B
-  status: ACTIVE
+  replacedBy: RYF-QPR-HGB-BQN-TKF-TKN
+  status: INACTIVE
 - code: RYF-QPR-HGB-BQN-GTT
   description: ''
   level: 4
@@ -10548,6 +10556,18 @@ categories:
   description: ''
   level: 4
   name: Hockeytvåan
+  status: ACTIVE
+- code: RYF-QPR-HGB-BQN-KNN-AQB
+  description: ''
+  level: 5
+  name: Hockeytvåan Norra B fortsättning
+  replaces: RYF-QPR-HGB-BQN-ZVU
+  status: ACTIVE
+- code: RYF-QPR-HGB-BQN-KNN-DHI
+  description: ''
+  level: 5
+  name: Hockeytvåan Södra A fortsättning
+  replaces: RYF-QPR-HGB-BQN-UOA
   status: ACTIVE
 - code: RYF-QPR-HGB-BQN-KNN-FEN
   description: ''
@@ -10569,10 +10589,28 @@ categories:
   level: 5
   name: Östra A
   status: ACTIVE
+- code: RYF-QPR-HGB-BQN-KNN-MBF
+  description: ''
+  level: 5
+  name: Alltvåan östra
+  replaces: RYF-QPR-HGB-BQN-NAK
+  status: ACTIVE
 - code: RYF-QPR-HGB-BQN-KNN-NHL
   description: ''
   level: 5
   name: Norra B
+  status: ACTIVE
+- code: RYF-QPR-HGB-BQN-KNN-OGF
+  description: ''
+  level: 5
+  name: Alltvåan norra AB
+  replaces: RYF-QPR-HGB-BQN-VAS
+  status: ACTIVE
+- code: RYF-QPR-HGB-BQN-KNN-PNF
+  description: ''
+  level: 5
+  name: Alltvåan södra
+  replaces: RYF-QPR-HGB-BQN-QQP
   status: ACTIVE
 - code: RYF-QPR-HGB-BQN-KNN-PPN
   description: ''
@@ -10583,6 +10621,12 @@ categories:
   description: ''
   level: 5
   name: Norra CD
+  status: ACTIVE
+- code: RYF-QPR-HGB-BQN-KNN-UBH
+  description: ''
+  level: 5
+  name: Hockeytvåan Norra A fortsättning
+  replaces: RYF-QPR-HGB-BQN-WOY
   status: ACTIVE
 - code: RYF-QPR-HGB-BQN-KNN-XGD
   description: ''
@@ -10608,12 +10652,13 @@ categories:
   description: ''
   level: 4
   name: Hockeytrean Södra C fortsättning
-  status: ACTIVE
+  replacedBy: RYF-QPR-HGB-BQN-TKF-SAF
+  status: INACTIVE
 - code: RYF-QPR-HGB-BQN-LIB
   description: ''
   level: 4
   name: Allettan södra
-  status: ACTIVE
+  status: INACTIVE
 - code: RYF-QPR-HGB-BQN-MAH
   description: ''
   level: 4
@@ -10638,7 +10683,8 @@ categories:
   description: ''
   level: 4
   name: Alltvåan östra
-  status: ACTIVE
+  replacedBy: RYF-QPR-HGB-BQN-KNN-MBF
+  status: INACTIVE
 - code: RYF-QPR-HGB-BQN-NUD
   description: ''
   level: 4
@@ -10648,8 +10694,9 @@ categories:
   description: ''
   level: 4
   name: Hockeyettan södra
+  replacedBy: RYF-QPR-HGB-BQN-TQL-UHW
   replaces: RYF-QPR-HGB-BQN-TQL-DHE
-  status: ACTIVE
+  status: INACTIVE
 - code: RYF-QPR-HGB-BQN-OUI
   description: ''
   level: 4
@@ -10664,12 +10711,14 @@ categories:
   description: ''
   level: 4
   name: Hockeytrean Södra B fortsättning
-  status: ACTIVE
+  replacedBy: RYF-QPR-HGB-BQN-TKF-ZMX
+  status: INACTIVE
 - code: RYF-QPR-HGB-BQN-PYW
   description: ''
   level: 4
   name: Hockeyettan västra vår
-  status: ACTIVE
+  replacedBy: RYF-QPR-HGB-BQN-TQL-XPW
+  status: INACTIVE
 - code: RYF-QPR-HGB-BQN-QPQ
   description: ''
   level: 4
@@ -10799,7 +10848,8 @@ categories:
   description: ''
   level: 4
   name: Alltvåan södra
-  status: ACTIVE
+  replacedBy: RYF-QPR-HGB-BQN-KNN-PNF
+  status: INACTIVE
 - code: RYF-QPR-HGB-BQN-QTS
   description: ''
   level: 4
@@ -10809,6 +10859,11 @@ categories:
   description: ''
   level: 4
   name: Hockeytrean Norrbotten fortsättning
+  replacedBy: RYF-QPR-HGB-BQN-TKF-DFK
+  status: INACTIVE
+- code: RYF-QPR-HGB-BQN-RAB
+  level: 4
+  name: Hockeyfyran
   status: ACTIVE
 - code: RYF-QPR-HGB-BQN-RGK
   description: ''
@@ -10824,18 +10879,20 @@ categories:
   description: ''
   level: 4
   name: Allettan norra
-  status: ACTIVE
+  status: INACTIVE
 - code: RYF-QPR-HGB-BQN-SVR
   description: ''
   level: 4
   name: Hockeyettan östra
+  replacedBy: RYF-QPR-HGB-BQN-TQL-WTK
   replaces: RYF-QPR-HGB-BQN-TQL-YGC
-  status: ACTIVE
+  status: INACTIVE
 - code: RYF-QPR-HGB-BQN-THV
   description: ''
   level: 4
   name: Alltrean östra
-  status: ACTIVE
+  replacedBy: RYF-QPR-HGB-BQN-TKF-EDQ
+  status: INACTIVE
 - code: RYF-QPR-HGB-BQN-TKF
   description: ''
   level: 4
@@ -10851,20 +10908,50 @@ categories:
   level: 5
   name: Östra B
   status: ACTIVE
+- code: RYF-QPR-HGB-BQN-TKF-CHH
+  description: ''
+  level: 5
+  name: Alltrean södra A
+  replaces: RYF-QPR-HGB-BQN-CEL
+  status: ACTIVE
 - code: RYF-QPR-HGB-BQN-TKF-DBG
   description: ''
   level: 5
   name: Södra E
+  status: ACTIVE
+- code: RYF-QPR-HGB-BQN-TKF-DFK
+  description: ''
+  level: 5
+  name: Hockeytrean Norrbotten fortsättning
+  replaces: RYF-QPR-HGB-BQN-QZY
   status: ACTIVE
 - code: RYF-QPR-HGB-BQN-TKF-DYK
   description: ''
   level: 5
   name: Östra A
   status: ACTIVE
+- code: RYF-QPR-HGB-BQN-TKF-EDQ
+  description: ''
+  level: 5
+  name: Alltrean östra
+  replaces: RYF-QPR-HGB-BQN-THV
+  status: ACTIVE
+- code: RYF-QPR-HGB-BQN-TKF-EPT
+  description: ''
+  level: 5
+  name: Hockeytrean Södra D fortsättning
+  replaces: RYF-QPR-HGB-BQN-FOR
+  status: ACTIVE
 - code: RYF-QPR-HGB-BQN-TKF-HEY
   description: ''
   level: 5
   name: Västerbotten
+  status: ACTIVE
+- code: RYF-QPR-HGB-BQN-TKF-JAL
+  description: ''
+  level: 5
+  name: Hockeytrean Västerbotten fortsättning
+  replaces: RYF-QPR-HGB-BQN-UCT
   status: ACTIVE
 - code: RYF-QPR-HGB-BQN-TKF-JGA
   description: ''
@@ -10891,10 +10978,40 @@ categories:
   level: 5
   name: Dalarna
   status: ACTIVE
+- code: RYF-QPR-HGB-BQN-TKF-POY
+  description: ''
+  level: 5
+  name: Hockeytrean Värmland
+  replaces: RYF-QPR-HGB-BQN-GIO
+  status: ACTIVE
+- code: RYF-QPR-HGB-BQN-TKF-QDO
+  description: ''
+  level: 5
+  name: Hockeytrean Örebro-Västmanland
+  replaces: RYF-QPR-HGB-BQN-FYR
+  status: ACTIVE
 - code: RYF-QPR-HGB-BQN-TKF-QQQ
   description: ''
   level: 5
   name: Ångermanland
+  status: ACTIVE
+- code: RYF-QPR-HGB-BQN-TKF-SAF
+  description: ''
+  level: 5
+  name: Hockeytrean Södra C fortsättning
+  replaces: RYF-QPR-HGB-BQN-LHU
+  status: ACTIVE
+- code: RYF-QPR-HGB-BQN-TKF-SXZ
+  description: ''
+  level: 5
+  name: Hockeytrean Östra fortsättning
+  replaces: RYF-QPR-HGB-BQN-YDO
+  status: ACTIVE
+- code: RYF-QPR-HGB-BQN-TKF-TKN
+  description: ''
+  level: 5
+  name: Alltrean södra B
+  replaces: RYF-QPR-HGB-BQN-GLW
   status: ACTIVE
 - code: RYF-QPR-HGB-BQN-TKF-TMF
   description: ''
@@ -10905,6 +11022,18 @@ categories:
   description: ''
   level: 5
   name: Södra C
+  status: ACTIVE
+- code: RYF-QPR-HGB-BQN-TKF-ZIE
+  description: ''
+  level: 5
+  name: Hockeytrean Södra A fortsättning
+  replaces: RYF-QPR-HGB-BQN-YVU
+  status: ACTIVE
+- code: RYF-QPR-HGB-BQN-TKF-ZMX
+  description: ''
+  level: 5
+  name: Hockeytrean Södra B fortsättning
+  replaces: RYF-QPR-HGB-BQN-PYI
   status: ACTIVE
 - code: RYF-QPR-HGB-BQN-TKF-ZZJ
   description: ''
@@ -10921,6 +11050,18 @@ categories:
   level: 5
   name: Hockeyettan slutspel
   status: ACTIVE
+- code: RYF-QPR-HGB-BQN-TQL-CLX
+  description: ''
+  level: 5
+  name: Hockeyettan norra
+  replaces: RYF-QPR-HGB-BQN-WJE
+  status: ACTIVE
+- code: RYF-QPR-HGB-BQN-TQL-DAP
+  description: ''
+  level: 5
+  name: Hockeyettan västra
+  replaces: RYF-QPR-HGB-BQN-EUG
+  status: ACTIVE
 - code: RYF-QPR-HGB-BQN-TQL-DCL
   description: ''
   level: 5
@@ -10933,6 +11074,18 @@ categories:
   name: Hockeyettan södra
   replacedBy: RYF-QPR-HGB-BQN-OCT
   status: INACTIVE
+- code: RYF-QPR-HGB-BQN-TQL-EGH
+  description: ''
+  level: 5
+  name: Hockeyettan norra vår
+  replaces: RYF-QPR-HGB-BQN-GID
+  status: ACTIVE
+- code: RYF-QPR-HGB-BQN-TQL-GYO
+  description: ''
+  level: 5
+  name: Hockeyettan södra vår
+  replaces: RYF-QPR-HGB-BQN-EMJ
+  status: ACTIVE
 - code: RYF-QPR-HGB-BQN-TQL-IEV
   description: ''
   level: 5
@@ -10949,6 +11102,30 @@ categories:
   level: 5
   name: Allettan norra
   status: ACTIVE
+- code: RYF-QPR-HGB-BQN-TQL-UHW
+  description: ''
+  level: 5
+  name: Hockeyettan södra
+  replaces: RYF-QPR-HGB-BQN-OCT
+  status: ACTIVE
+- code: RYF-QPR-HGB-BQN-TQL-VXU
+  description: ''
+  level: 5
+  name: Hockeyettan östra vår
+  replaces: RYF-QPR-HGB-BQN-ZJY
+  status: ACTIVE
+- code: RYF-QPR-HGB-BQN-TQL-WTK
+  description: ''
+  level: 5
+  name: Hockeyettan östra
+  replaces: RYF-QPR-HGB-BQN-SVR
+  status: ACTIVE
+- code: RYF-QPR-HGB-BQN-TQL-XPW
+  description: ''
+  level: 5
+  name: Hockeyettan västra vår
+  replaces: RYF-QPR-HGB-BQN-PYW
+  status: ACTIVE
 - code: RYF-QPR-HGB-BQN-TQL-YGC
   description: ''
   level: 5
@@ -10964,12 +11141,14 @@ categories:
   description: ''
   level: 4
   name: Hockeytrean Västerbotten fortsättning
-  status: ACTIVE
+  replacedBy: RYF-QPR-HGB-BQN-TKF-JAL
+  status: INACTIVE
 - code: RYF-QPR-HGB-BQN-UOA
   description: ''
   level: 4
   name: Hockeytvåan Södra A fortsättning
-  status: ACTIVE
+  replacedBy: RYF-QPR-HGB-BQN-KNN-DHI
+  status: INACTIVE
 - code: RYF-QPR-HGB-BQN-UPU
   description: ''
   level: 4
@@ -10979,7 +11158,8 @@ categories:
   description: ''
   level: 4
   name: Alltvåan norra AB
-  status: ACTIVE
+  replacedBy: RYF-QPR-HGB-BQN-KNN-OGF
+  status: INACTIVE
 - code: RYF-QPR-HGB-BQN-VFB
   description: ''
   level: 4
@@ -11124,13 +11304,15 @@ categories:
   description: ''
   level: 4
   name: Hockeyettan norra
+  replacedBy: RYF-QPR-HGB-BQN-TQL-CLX
   replaces: RYF-QPR-HGB-BQN-TQL-DCL
-  status: ACTIVE
+  status: INACTIVE
 - code: RYF-QPR-HGB-BQN-WOY
   description: ''
   level: 4
   name: Hockeytvåan Norra A fortsättning
-  status: ACTIVE
+  replacedBy: RYF-QPR-HGB-BQN-KNN-UBH
+  status: INACTIVE
 - code: RYF-QPR-HGB-BQN-XDT
   description: ''
   level: 4
@@ -11140,7 +11322,8 @@ categories:
   description: ''
   level: 4
   name: Hockeytrean Östra fortsättning
-  status: ACTIVE
+  replacedBy: RYF-QPR-HGB-BQN-TKF-SXZ
+  status: INACTIVE
 - code: RYF-QPR-HGB-BQN-YPT
   description: ''
   level: 4
@@ -11150,7 +11333,8 @@ categories:
   description: ''
   level: 4
   name: Hockeytrean Södra A fortsättning
-  status: ACTIVE
+  replacedBy: RYF-QPR-HGB-BQN-TKF-ZIE
+  status: INACTIVE
 - code: RYF-QPR-HGB-BQN-ZBN
   description: ''
   level: 4
@@ -11160,7 +11344,8 @@ categories:
   description: ''
   level: 4
   name: Hockeyettan östra vår
-  status: ACTIVE
+  replacedBy: RYF-QPR-HGB-BQN-TQL-VXU
+  status: INACTIVE
 - code: RYF-QPR-HGB-BQN-ZTJ
   description: ''
   level: 4
@@ -11170,7 +11355,8 @@ categories:
   description: ''
   level: 4
   name: Hockeytvåan Norra B fortsättning
-  status: ACTIVE
+  replacedBy: RYF-QPR-HGB-BQN-KNN-AQB
+  status: INACTIVE
 - code: RYF-QPR-HGB-BWR
   description: ''
   level: 3
@@ -11466,6 +11652,18 @@ categories:
   description: ''
   level: 5
   name: P16 Div 1 Region 6 B-slutspel
+  status: ACTIVE
+- code: RYF-QPR-HGB-DEN-ASK-LPQ
+  level: 5
+  name: P16 Allsvenskan mellersta herrar
+  status: ACTIVE
+- code: RYF-QPR-HGB-DEN-ASK-PNV
+  level: 5
+  name: P16 Allsvenskan A-slutspel södra
+  status: ACTIVE
+- code: RYF-QPR-HGB-DEN-ASK-ZWV
+  level: 5
+  name: P16 Allsvenskan södra
   status: ACTIVE
 - code: RYF-QPR-HGB-DEN-BBS
   description: ''
@@ -12018,14 +12216,17 @@ categories:
   name: P19
   status: ACTIVE
 - code: RYF-QPR-HGB-DEN-EUE-DQN
+  description: ''
   level: 5
   name: Superettan södra
   status: ACTIVE
 - code: RYF-QPR-HGB-DEN-EUE-GEN
+  description: ''
   level: 5
   name: Allsvenskan
   status: ACTIVE
 - code: RYF-QPR-HGB-DEN-EUE-SEP
+  description: ''
   level: 5
   name: Div 1 Region 1
   status: ACTIVE
@@ -12035,14 +12236,17 @@ categories:
   name: P17
   status: ACTIVE
 - code: RYF-QPR-HGB-DEN-EWF-AJE
+  description: ''
   level: 5
   name: Allsvenskan södra
   status: ACTIVE
 - code: RYF-QPR-HGB-DEN-EWF-FFX
+  description: ''
   level: 5
   name: Allsvenskan A-slutspel
   status: ACTIVE
 - code: RYF-QPR-HGB-DEN-EWF-PNS
+  description: ''
   level: 5
   name: Div 1 Region 1
   status: ACTIVE
@@ -13201,6 +13405,10 @@ categories:
   level: 5
   name: Halland
   status: ACTIVE
+- code: RYF-QPR-HGB-DEN-SZC-ANK
+  level: 5
+  name: Blekinge
+  status: ACTIVE
 - code: RYF-QPR-HGB-DEN-SZC-CVY
   description: ''
   level: 5
@@ -14109,6 +14317,7 @@ categories:
   name: Division 3 herr
   status: ACTIVE
 - code: RYF-QPR-HGB-JDC-LVZ-BIO
+  description: ''
   level: 5
   name: Sydsvenska sydöstra
   status: ACTIVE
@@ -14911,6 +15120,7 @@ categories:
   name: Halland höst
   status: ACTIVE
 - code: RYF-QPR-HGB-QHJ-OTJ-EKS
+  description: ''
   level: 5
   name: Västra Götaland
   status: ACTIVE
@@ -14960,6 +15170,7 @@ categories:
   name: Norrbotten
   status: ACTIVE
 - code: RYF-QPR-HGB-QHJ-OTJ-SQM
+  description: ''
   level: 5
   name: Södra Götaland
   status: ACTIVE
@@ -15189,6 +15400,7 @@ categories:
   name: Småland västra
   status: ACTIVE
 - code: RYF-QPR-HGB-QHJ-XFL-JJS
+  description: ''
   level: 5
   name: Södra Götaland 4
   status: ACTIVE
@@ -15198,6 +15410,7 @@ categories:
   name: Västergötland
   status: ACTIVE
 - code: RYF-QPR-HGB-QHJ-XFL-LMV
+  description: ''
   level: 5
   name: Östra Götaland 3
   status: ACTIVE
