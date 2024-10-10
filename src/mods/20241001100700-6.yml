@@ -6,7 +6,7 @@ modifications:
   - action: MOVE
     code: RYF-QPR-HGB-DEN-KDC
     name: Championship
-    newParentCode: RYF-QPR-HGB-DEN-VQN
+    newParentCode: RYF-QPR-HGB-DEN-ROT
     newParentName: England herr
   - action: MOVE
     code: RYF-QPR-HGB-DEN-CUG
