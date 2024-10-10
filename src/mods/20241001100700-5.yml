@@ -15,9 +15,6 @@ modifications:
     name: Blekinge
     parentCode: RYF-QPR-HGB-DEN-SZC
     parentName: Division 4 dam
-  - action: INACTIVATE
-    code: RYF-QPR-HGB-BQN-UCF-ZEG
-    name: HockeyTvåan norra B
   - action: MOVE
     code: RYF-QPR-HGB-BQN-GIO
     name: Hockeytrean Värmland
