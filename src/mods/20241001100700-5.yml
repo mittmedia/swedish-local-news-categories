@@ -22,7 +22,7 @@ modifications:
     code: RYF-QPR-HGB-BQN-GIO
     name: Hockeytrean Värmland
     newParentCode: RYF-QPR-HGB-BQN-TKF
-    newParentName: Hockeytrean   
+    newParentName: Hockeytrean
   - action: MOVE
     code: RYF-QPR-HGB-BQN-QZY
     name: Hockeytrean Norrbotten
@@ -59,7 +59,7 @@ modifications:
     newParentCode: RYF-QPR-HGB-BQN-TKF
     newParentName: Hockeytrean
   - action: MOVE
-    code: RYF-QPR-HGB-BQN-YDO
+    code: RYF-QPR-HGB-BQN-YDO 
     name: Hockeytrean Östra fortsättning
     newParentCode: RYF-QPR-HGB-BQN-TKF
     newParentName: Hockeytrean
