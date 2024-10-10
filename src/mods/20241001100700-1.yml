@@ -1,0 +1,132 @@
+modifications:
+  - action: ADD
+    parentCode: RYF-QPR-HGB-DEN
+    parentName: Fotboll   
+    name: P16
+    level: 4
+  - action: ADD
+    code: RYF-QPR-HGB-WVD-AQJ
+    parentCode: RYF-QPR-HGB-WVD
+    parentName: Tennis
+    name: Elitserien herr
+    level: 4
+  - action: ADD
+    code: RYF-QPR-HGB-WVD-HFP
+    parentCode: RYF-QPR-HGB-WVD
+    parentName: Tennis
+    name: Elitserien dam
+    level: 4
+  - action: ADD
+    code: RYF-QPR-HGB-PJR-TWN
+    parentCode: RYF-QPR-HGB-PJR
+    parentName: Handboll
+    name: Svenska Cupen herr
+    level: 4
+  - action: ADD
+    code: RYF-QPR-HGB-WVD-ZAK
+    parentCode: RYF-QPR-HGB-WVD
+    parentName: Tennis
+    name: Division 1 herr
+    level: 4
+  - action: ADD
+    code: RYF-QPR-HGB-DEN-EWM
+    parentCode: RYF-QPR-HGB-DEN
+    parentName: Fotboll
+    name: England herr
+    level: 4
+  - action: ADD
+    code: RYF-QPR-HGB-WVD-TMG
+    parentCode: RYF-QPR-HGB-WVD
+    parentName: Tennis
+    name: Division 1 dam
+    level: 4
+  - action: ADD
+    code: RYF-QPR-HGB-DEN-CSJ
+    parentCode: RYF-QPR-HGB-DEN
+    parentName: Fotboll
+    name: Nations League herr
+    level: 4
+  - action: ADD
+    code: RYF-QPR-HGB-DEN-GBH
+    parentCode: RYF-QPR-HGB-DEN
+    parentName: Fotboll
+    name: EM-kval dam
+    level: 4
+  - action: ADD
+    code: RYF-QPR-HGB-IUC-TLH
+    parentCode: RYF-QPR-HGB-IUC
+    parentName: Baseboll
+    name: Regionserien herr
+    level: 4
+  - action: ADD
+    code: RYF-QPR-HGB-YFG-PRO
+    parentCode: RYF-QPR-HGB-YFG
+    parentName: Curling
+    name: Division 1 herr
+    level: 4
+  - action: ADD
+    code: RYF-QPR-HGB-DEN-QIR
+    parentCode: RYF-QPR-HGB-DEN
+    parentName: Fotboll
+    name: 24 herr
+    level: 4
+  - action: ADD
+    code: RYF-QPR-HGB-DEN-FOE
+    parentCode: RYF-QPR-HGB-DEN
+    parentName: Fotboll
+    name: 24 dam
+    level: 4
+  - action: ADD
+    code: RYF-QPR-HGB-DEN-JHT
+    parentCode: RYF-QPR-HGB-DEN
+    parentName: Fotboll
+    name: EM herr
+    level: 4
+  - action: ADD
+    code: RYF-QPR-HGB-DEN-NWF
+    parentCode: RYF-QPR-HGB-DEN
+    parentName: Fotboll
+    name: Italien dam
+    level: 4
+  - action: ADD
+    code: RYF-QPR-HGB-DZQ-DAF
+    parentCode: RYF-QPR-HGB-DZQ
+    parentName: Amerikansk fotboll
+    name: Division 1 dam
+    level: 4
+  - action: ADD
+    code: RYF-QPR-HGB-DEN-GIS
+    parentCode: RYF-QPR-HGB-DEN
+    parentName: Fotboll
+    name: Italien herr
+    level: 4
+  - action: ADD
+    code: RYF-QPR-HGB-DEN-GHY
+    parentCode: RYF-QPR-HGB-DEN
+    parentName: Fotboll
+    name: Tyskland herr
+    level: 4
+  - action: ADD
+    code: RYF-QPR-HGB-DEN-PDZ
+    parentCode: RYF-QPR-HGB-DEN
+    parentName: Fotboll
+    name: Spanien herr
+    level: 4
+  - action: ADD
+    code: RYF-QPR-HGB-DEN-VOQ
+    parentCode: RYF-QPR-HGB-DEN
+    parentName: Fotboll
+    name: Grekland herr
+    level: 4
+  - action: ADD
+    code: RYF-QPR-HGB-DEN-LIQ
+    parentCode: RYF-QPR-HGB-DEN
+    parentName: Fotboll
+    name: Turkiet herr
+    level: 4
+  - action: ADD
+    code: RYF-QPR-HGB-DGM-BWZ
+    parentCode: RYF-QPR-HGB-DGM
+    parentName: Bowling
+    name: Division 3 herr
+    level: 4

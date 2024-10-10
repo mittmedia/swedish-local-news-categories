@@ -1,0 +1,47 @@
+modifications:
+  - action: ADD
+    name: Sydsvenska sydöstra
+    parentCode: RYF-QPR-HGB-JDC-LVZ
+    parentName: Division 3 herr
+  - action: ADD
+    name: Södra Götaland
+    parentCode: RYF-QPR-HGB-DGM-FCD
+    parentName: Division 2 herr
+  - action: ADD
+    name: Västra Götaland
+    parentCode: RYF-QPR-HGB-DGM-FCD
+    parentName: Division 2 herr
+  - action: ADD
+    name: Södra Götaland 4
+    parentCode: RYF-QPR-HGB-DGM-XYK
+    parentName: Division 3 herr
+  - action: ADD
+    name: Östra Götaland 3
+    parentCode: RYF-QPR-HGB-DGM-XYK
+    parentName: Division 3 herr
+  - action: ADD
+    name: Allsvenskan A-slutspel
+    parentCode: RYF-QPR-HGB-DEN-EWF
+    parentName: P17
+  - action: ADD
+    name: Allsvenskan södra
+    parentCode: RYF-QPR-HGB-DEN-EWF
+    parentName: P17
+  - action: ADD
+    name: Div 1 Region 1
+    parentCode: RYF-QPR-HGB-DEN-EWF
+    parentName: P17
+  - action: ADD
+    name: Allsvenskan
+    parentCode: RYF-QPR-HGB-DEN-EUE
+    parentName: P19
+  - action: ADD
+    name: Div 1 Region 1
+    parentCode: RYF-QPR-HGB-DEN-EUE
+    parentName: P19
+  - action: ADD
+    name: Superettan södra
+    parentCode: RYF-QPR-HGB-DEN-EUE
+    parentName: P19
+
+    
