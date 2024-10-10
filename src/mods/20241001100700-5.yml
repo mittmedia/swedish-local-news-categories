@@ -145,9 +145,9 @@ modifications:
     newParentCode: RYF-QPR-HGB-BQN-KNN
     newParentName: Hockeytvåan
   - action: MOVE
-    code: RYF-QPR-HGB-BQN-VAS
+    code: RYF-QPR-HGB-BQN-QQP
     name: Alltvåan södra
-    newParentCode: RYF-QPR-HGB-BQN-QQP
+    newParentCode: RYF-QPR-HGB-BQN-KNN
     newParentName: Hockeytvåan   
   - action: MOVE
     code: RYF-QPR-HGB-BQN-NAK
