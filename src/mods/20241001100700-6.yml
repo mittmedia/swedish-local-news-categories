@@ -16,7 +16,7 @@ modifications:
   - action: MOVE
     code: RYF-QPR-HGB-DEN-OAF
     name: Serie A
-    newParentCode: RYF-QPR-HGB-DEN-CYW
+    newParentCode: RYF-QPR-HGB-DEN-BGN
     newParentName: Italien herr
   - action: MOVE
     code: RYF-QPR-HGB-DEN-BOA
