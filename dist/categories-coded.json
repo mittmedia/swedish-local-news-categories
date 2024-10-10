@@ -14278,7 +14278,8 @@
             "description": "",
             "level": 4,
             "name": "Hockeyfyran Stockholm fortsättning A",
-            "status": "ACTIVE"
+            "replacedBy": "RYF-QPR-HGB-BQN-RAB-OPH",
+            "status": "INACTIVE"
         },
         {
             "code": "RYF-QPR-HGB-BQN-BXE",
@@ -14328,7 +14329,8 @@
             "description": "",
             "level": 4,
             "name": "Hockeyfyran Stockholm norra",
-            "status": "ACTIVE"
+            "replacedBy": "RYF-QPR-HGB-BQN-RAB-IXZ",
+            "status": "INACTIVE"
         },
         {
             "code": "RYF-QPR-HGB-BQN-EHC",
@@ -14350,14 +14352,16 @@
             "description": "",
             "level": 4,
             "name": "Hockeyfyran Stockholm mellersta",
-            "status": "ACTIVE"
+            "replacedBy": "RYF-QPR-HGB-BQN-RAB-ITO",
+            "status": "INACTIVE"
         },
         {
             "code": "RYF-QPR-HGB-BQN-EPF",
             "description": "",
             "level": 4,
             "name": "Hockeyfyran Göteborg A",
-            "status": "ACTIVE"
+            "replacedBy": "RYF-QPR-HGB-BQN-RAB-XQY",
+            "status": "INACTIVE"
         },
         {
             "code": "RYF-QPR-HGB-BQN-ETF",
@@ -14423,7 +14427,8 @@
             "description": "",
             "level": 4,
             "name": "Hockeyfyran Stockholm fortsättning B",
-            "status": "ACTIVE"
+            "replacedBy": "RYF-QPR-HGB-BQN-RAB-RKW",
+            "status": "INACTIVE"
         },
         {
             "code": "RYF-QPR-HGB-BQN-FYR",
@@ -14469,7 +14474,8 @@
             "description": "",
             "level": 4,
             "name": "Hockeyfyran Göteborg B",
-            "status": "ACTIVE"
+            "replacedBy": "RYF-QPR-HGB-BQN-RAB-UHP",
+            "status": "INACTIVE"
         },
         {
             "code": "RYF-QPR-HGB-BQN-KNN",
@@ -14601,7 +14607,8 @@
             "description": "",
             "level": 4,
             "name": "Hockeyfyran Stockholm södra",
-            "status": "ACTIVE"
+            "replacedBy": "RYF-QPR-HGB-BQN-RAB-VPL",
+            "status": "INACTIVE"
         },
         {
             "code": "RYF-QPR-HGB-BQN-LHU",
@@ -14644,7 +14651,8 @@
             "description": "",
             "level": 4,
             "name": "Hockeyfyran Östergötland",
-            "status": "ACTIVE"
+            "replacedBy": "RYF-QPR-HGB-BQN-RAB-LNS",
+            "status": "INACTIVE"
         },
         {
             "code": "RYF-QPR-HGB-BQN-NAK",
@@ -14888,7 +14896,8 @@
             "description": "",
             "level": 4,
             "name": "Hockeyfyran Uppland",
-            "status": "ACTIVE"
+            "replacedBy": "RYF-QPR-HGB-BQN-RAB-BVS",
+            "status": "INACTIVE"
         },
         {
             "code": "RYF-QPR-HGB-BQN-QZY",
@@ -14900,8 +14909,89 @@
         },
         {
             "code": "RYF-QPR-HGB-BQN-RAB",
+            "description": "",
             "level": 4,
             "name": "Hockeyfyran",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-QPR-HGB-BQN-RAB-BVS",
+            "description": "",
+            "level": 5,
+            "name": "Hockeyfyran Uppland",
+            "replaces": "RYF-QPR-HGB-BQN-QTS",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-QPR-HGB-BQN-RAB-ITO",
+            "description": "",
+            "level": 5,
+            "name": "Hockeyfyran Stockholm mellersta",
+            "replaces": "RYF-QPR-HGB-BQN-EMV",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-QPR-HGB-BQN-RAB-IXZ",
+            "description": "",
+            "level": 5,
+            "name": "Hockeyfyran Stockholm norra",
+            "replaces": "RYF-QPR-HGB-BQN-DNM",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-QPR-HGB-BQN-RAB-LNS",
+            "description": "",
+            "level": 5,
+            "name": "Hockeyfyran Östergötland",
+            "replaces": "RYF-QPR-HGB-BQN-MZV",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-QPR-HGB-BQN-RAB-OPH",
+            "description": "",
+            "level": 5,
+            "name": "Hockeyfyran Stockholm fortsättning A",
+            "replaces": "RYF-QPR-HGB-BQN-ALW",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-QPR-HGB-BQN-RAB-RKW",
+            "description": "",
+            "level": 5,
+            "name": "Hockeyfyran Stockholm fortsättning B",
+            "replaces": "RYF-QPR-HGB-BQN-FSV",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-QPR-HGB-BQN-RAB-UHP",
+            "description": "",
+            "level": 5,
+            "name": "Hockeyfyran Göteborg B",
+            "replaces": "RYF-QPR-HGB-BQN-JMG",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-QPR-HGB-BQN-RAB-VPL",
+            "description": "",
+            "level": 5,
+            "name": "Hockeyfyran Stockholm södra",
+            "replaces": "RYF-QPR-HGB-BQN-KUR",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-QPR-HGB-BQN-RAB-VQG",
+            "description": "",
+            "level": 5,
+            "name": "Hockeyfyran Uppland fortsättning",
+            "replaces": "RYF-QPR-HGB-BQN-TRD",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-QPR-HGB-BQN-RAB-XQY",
+            "description": "",
+            "level": 5,
+            "name": "Hockeyfyran Göteborg A",
+            "replaces": "RYF-QPR-HGB-BQN-EPF",
             "status": "ACTIVE"
         },
         {
@@ -15272,7 +15362,8 @@
             "description": "",
             "level": 4,
             "name": "Hockeyfyran Uppland fortsättning",
-            "status": "ACTIVE"
+            "replacedBy": "RYF-QPR-HGB-BQN-RAB-VQG",
+            "status": "INACTIVE"
         },
         {
             "code": "RYF-QPR-HGB-BQN-UCT",
@@ -15994,18 +16085,21 @@
         },
         {
             "code": "RYF-QPR-HGB-DEN-ASK-LPQ",
+            "description": "",
             "level": 5,
             "name": "P16 Allsvenskan mellersta herrar",
             "status": "ACTIVE"
         },
         {
             "code": "RYF-QPR-HGB-DEN-ASK-PNV",
+            "description": "",
             "level": 5,
             "name": "P16 Allsvenskan A-slutspel södra",
             "status": "ACTIVE"
         },
         {
             "code": "RYF-QPR-HGB-DEN-ASK-ZWV",
+            "description": "",
             "level": 5,
             "name": "P16 Allsvenskan södra",
             "status": "ACTIVE"
@@ -16022,6 +16116,14 @@
             "description": "",
             "level": 4,
             "name": "Italien herr",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-QPR-HGB-DEN-BGN-NNN",
+            "description": "",
+            "level": 5,
+            "name": "Serie A",
+            "replaces": "RYF-QPR-HGB-DEN-OAF",
             "status": "ACTIVE"
         },
         {
@@ -16169,7 +16271,8 @@
             "description": "",
             "level": 4,
             "name": "La Liga",
-            "status": "ACTIVE"
+            "replacedBy": "RYF-QPR-HGB-DEN-LWN-SPC",
+            "status": "INACTIVE"
         },
         {
             "code": "RYF-QPR-HGB-DEN-BUA",
@@ -16190,7 +16293,8 @@
             "description": "",
             "level": 4,
             "name": "Premier League",
-            "status": "ACTIVE"
+            "replacedBy": "RYF-QPR-HGB-DEN-VQN-SXX",
+            "status": "INACTIVE"
         },
         {
             "code": "RYF-QPR-HGB-DEN-CWD",
@@ -17688,7 +17792,8 @@
             "description": "",
             "level": 4,
             "name": "Bundesliga",
-            "status": "ACTIVE"
+            "replacedBy": "RYF-QPR-HGB-DEN-KRJ-LWD",
+            "status": "INACTIVE"
         },
         {
             "code": "RYF-QPR-HGB-DEN-JMO",
@@ -17716,7 +17821,8 @@
             "description": "",
             "level": 4,
             "name": "Championship",
-            "status": "ACTIVE"
+            "replacedBy": "RYF-QPR-HGB-DEN-VQN-UOZ",
+            "status": "INACTIVE"
         },
         {
             "code": "RYF-QPR-HGB-DEN-KHN",
@@ -17751,6 +17857,14 @@
             "description": "",
             "level": 5,
             "name": "Tyskland Bundesliga 2",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-QPR-HGB-DEN-KRJ-LWD",
+            "description": "",
+            "level": 5,
+            "name": "Bundesliga",
+            "replaces": "RYF-QPR-HGB-DEN-JDY",
             "status": "ACTIVE"
         },
         {
@@ -17821,6 +17935,14 @@
             "description": "",
             "level": 5,
             "name": "Spanien Play Off till La Liga, semifinal",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-QPR-HGB-DEN-LWN-SPC",
+            "description": "",
+            "level": 5,
+            "name": "La Liga",
+            "replaces": "RYF-QPR-HGB-DEN-BOA",
             "status": "ACTIVE"
         },
         {
@@ -18185,7 +18307,8 @@
             "description": "",
             "level": 4,
             "name": "Serie A",
-            "status": "ACTIVE"
+            "replacedBy": "RYF-QPR-HGB-DEN-BGN-NNN",
+            "status": "INACTIVE"
         },
         {
             "code": "RYF-QPR-HGB-DEN-OPP",
@@ -18448,6 +18571,7 @@
         },
         {
             "code": "RYF-QPR-HGB-DEN-SZC-ANK",
+            "description": "",
             "level": 5,
             "name": "Blekinge",
             "status": "ACTIVE"
@@ -18870,6 +18994,22 @@
             "description": "",
             "level": 5,
             "name": "England Play off till Championship, final",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-QPR-HGB-DEN-VQN-SXX",
+            "description": "",
+            "level": 5,
+            "name": "Premier League",
+            "replaces": "RYF-QPR-HGB-DEN-CUG",
+            "status": "ACTIVE"
+        },
+        {
+            "code": "RYF-QPR-HGB-DEN-VQN-UOZ",
+            "description": "",
+            "level": 5,
+            "name": "Championship",
+            "replaces": "RYF-QPR-HGB-DEN-KDC",
             "status": "ACTIVE"
         },
         {

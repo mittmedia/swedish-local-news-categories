@@ -1,4 +1,5 @@
 modifications:
+  - action: MOVE
     code: RYF-QPR-HGB-DEN-JDY
     name: Bundesliga
     newParentCode: RYF-QPR-HGB-DEN-KRJ
