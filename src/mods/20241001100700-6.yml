@@ -26,51 +26,51 @@ modifications:
   - action: MOVE
     code: RYF-QPR-HGB-BQN-EPF
     name: Hockeyfyran Göteborg A
-    newParentCode: RYF-QPR-HGB-BQN # ID från -3
+    newParentCode: RYF-QPR-HGB-BQN-RAB
     newParentName: Hockeyfyran
   - action: MOVE
     code: RYF-QPR-HGB-BQN-JMG
     name: Hockeyfyran Göteborg B
-    newParentCode: RYF-QPR-HGB-BQN # ID från -3
+    newParentCode: RYF-QPR-HGB-BQN-RAB
     newParentName: Hockeyfyran 
   - action: MOVE
     code: RYF-QPR-HGB-BQN-ALW
     name: Hockeyfyran Stockholm fortsättning A
-    newParentCode: RYF-QPR-HGB-BQN # ID från -3
+    newParentCode: RYF-QPR-HGB-BQN-RAB
     newParentName: Hockeyfyran 
   - action: MOVE
     code: RYF-QPR-HGB-BQN-FSV
     name: Hockeyfyran Stockholm fortsättning B
-    newParentCode: RYF-QPR-HGB-BQN # ID från -3
+    newParentCode: RYF-QPR-HGB-BQN-RAB
     newParentName: Hockeyfyran 
   - action: MOVE
     code: RYF-QPR-HGB-BQN-EMV
     name: Hockeyfyran Stockholm mellersta
-    newParentCode: RYF-QPR-HGB-BQN # ID från -3
+    newParentCode: RYF-QPR-HGB-BQN-RAB
     newParentName: Hockeyfyran 
   - action: MOVE
     code: RYF-QPR-HGB-BQN-DNM
     name: Hockeyfyran Stockholm norra
-    newParentCode: RYF-QPR-HGB-BQN # ID från -3
+    newParentCode: RYF-QPR-HGB-BQN-RAB
     newParentName: Hockeyfyran 
   - action: MOVE
     code: RYF-QPR-HGB-BQN-KUR
     name: Hockeyfyran Stockholm södra
-    newParentCode: RYF-QPR-HGB-BQN # ID från -3
+    newParentCode: RYF-QPR-HGB-BQN-RAB
     newParentName: Hockeyfyran 
   - action: MOVE
     code: RYF-QPR-HGB-BQN-QTS
     name: Hockeyfyran Uppland
-    newParentCode: RYF-QPR-HGB-BQN # ID från -3
+    newParentCode: RYF-QPR-HGB-BQN-RAB
     newParentName: Hockeyfyran
   - action: MOVE
     code: RYF-QPR-HGB-BQN-TRD
     name: Hockeyfyran Uppland fortsättning
-    newParentCode: RYF-QPR-HGB-BQN # ID från -3
+    newParentCode: RYF-QPR-HGB-BQN-RAB
     newParentName: Hockeyfyran
   - action: MOVE
     code: RYF-QPR-HGB-BQN-MZV
     name: Hockeyfyran Östergötland
-    newParentCode: RYF-QPR-HGB-BQN # ID från -3
+    newParentCode: RYF-QPR-HGB-BQN-RAB
     newParentName: Hockeyfyran
     
