@@ -1,11 +1,4 @@
 modifications:
-  - action: INACTIVATE
-    code: RYF-QPR-HGB-BQN-UCF
-    name: HockeyTvåan herr     
-  - action: INACTIVATE
-    code: RYF-QPR-HGB-BQN-KKK
-    name: HockeyTrean herr
-  - action: MOVE
     code: RYF-QPR-HGB-DEN-JDY
     name: Bundesliga
     newParentCode: RYF-QPR-HGB-DEN-KRJ
