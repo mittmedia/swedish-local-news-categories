@@ -1,0 +1,123 @@
+modifications:
+- action: ADD
+  parentCode: RYF-QPR-HGB-JDC-LVZ
+  parentName: Division 3 herr   
+  name: södra Götaland 2
+  level: 5
+  description: Serie i bordtennis
+  
+- action: ADD
+  parentCode: RYF-QPR-HGB-JDC-LVZ
+  parentName: Division 3 herr   
+  name: södra Götaland 4
+  level: 5
+  description: Serie i bordtennis
+  
+- action: ADD
+  parentCode: RYF-QPR-HGB-JDC-LVZ
+  parentName: Division 3 herr   
+  name: östra Götaland
+  level: 5
+  description: Serie i bordtennis
+  
+- action: ADD
+  parentCode: RYF-QPR-HGB-DGM-ARJ
+  parentName: Division 2 herr   
+  name: västra Götaland
+  level: 5
+  description: Serie i bowling
+  
+- action: ADD
+  parentCode: RYF-QPR-HGB-DGM-ARJ
+  parentName: Division 2 herr   
+  name: södra Götaland
+  level: 5
+  description: Serie i bowling
+  
+- action: ADD
+  parentCode: RYF-QPR-HGB-DGM-ARJ
+  parentName: Division 2 herr   
+  name: östra Götaland
+  level: 5
+  description: Serie i bowling
+  
+- action: ADD
+  parentCode: RYF-QPR-HGB-DGM-XKY
+  parentName: Division 3 herr   
+  name: östra Götaland
+  level: 5
+  description: Serie i bowling
+  
+- action: ADD
+  parentCode: RYF-QPR-HGB-DGM-XKY
+  parentName: Division 3 herr   
+  name: södra Götaland
+  level: 5
+  description: Serie i bowling
+  
+- action: INACTIVATE
+  code: RYF-QPR-HGB-DEN-SZC-YED
+  name: Blekinge
+  
+- action: INACTIVATE
+  code: RYF-QPR-HGB-DEN-HKY-CHO
+  name: Södra Götaland
+  
+- action: INACTIVATE
+  code: RYF-QPR-HGB-DEN-HKY-LCL
+  name: Division 3 norra Norrland
+  
+- action: INACTIVATE
+  code: RYF-QPR-HGB-DEN-OPP
+  name: P16 Allsvenskan mellersta herrar
+  
+- action: MOVE
+  code: RYF-QPR-HGB-BQN-SBJ
+  name: Hockeytvåan Södra B fortsättning 
+  newParentCode: RYF-QPR-HGB-BQN-KNN
+  newParentName: Hockeytvåan
+  description: Division i Hockeyettan
+  
+- action: UPDATE
+  code: RYF-QPR-HGB-WVD-WAO-CWR
+  name: Division 1 SM-final
+  newName: SM-final
+  description: Final i tennis division 1
+  
+- action: UPDATE
+  code: RYF-QPR-HGB-WVD-WAO-ANZ
+  name: Division 1 södra
+  newName: Södra
+  description: Serie i tennis division 1
+  
+- action: UPDATE
+  code: RYF-QPR-HGB-WVD-XWT-PGH
+  name: Division 1 södra
+  newName: Södra
+  description: Serie i tennis division 1
+  
+- action: UPDATE
+  code: RYF-QPR-HGB-BAH-XQF-PHR
+  name: Division 3 norra
+  newName: Norra
+  description: Serie i volleyboll division 3
+  
+- action: UPDATE
+  code: RYF-QPR-HGB-BAH-XQF-RNT
+  name: Division 3 östra
+  newName: Östra
+  description: Serie i volleyboll division 3
+  
+- action: UPDATE
+  code: RYF-QPR-HGB-PJR-RRX-UGS
+  name: Division 4 Dam 4 Väst Sydost
+  newName: Väst Sydost
+  description: Serie i handboll division 4 dam
+  
+- action: INACTIVATE
+  code: RYF-QPR-HGB-PJR-LYR-VZR
+  name: Svenska Cupen Kvartsfinal
+  
+- action: INACTIVATE
+  code: RYF-QPR-HGB-PJR-LYR-OFW
+  name: Svenska Cupen Åttondelsfinal
