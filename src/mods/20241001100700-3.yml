@@ -1,0 +1,193 @@
+modifications:
+  - action: ADD
+    name: Blekinge
+    parentCode: RYF-QPR-HGB-DEN-SZC
+    parentName: Division 4 dam
+  - action: ADD
+    name: Skåne östra
+    parentCode: RYF-QPR-HGB-DEN-FXI
+    parentName: Division 3 dam
+  - action: ADD
+    name: Skåne södra
+    parentCode: RYF-QPR-HGB-DEN-FXI
+    parentName: Division 3 dam
+  - action: ADD
+    name: Vetlanda
+    parentCode: RYF-QPR-HGB-DEN-SZC
+    parentName: Division 4 dam
+  - action: ADD
+    name: F17
+    parentCode: RYF-QPR-HGB-DEN
+    parentName: Fotboll
+  - action: ADD
+    name: Södra
+    parentCode: RYF-QPR-HGB-DEN-KML
+    parentName: Svenska spel F19
+  - action: ADD
+    name: P17
+    parentCode: RYF-QPR-HGB-DEN
+    parentName: Fotboll
+  - action: ADD
+    name: Sydvästra Götaland
+    parentCode: RYF-QPR-HGB-DEN-HKY
+    parentName: Division 3 herr
+  - action: ADD
+    name: Södra Götaland
+    parentCode: RYF-QPR-HGB-DEN-HKY
+    parentName: Division 3 herr
+  - action: ADD
+    name: Skåne östra
+    parentCode: RYF-QPR-HGB-DEN-ALX
+    parentName: Division 4 herr
+  - action: ADD
+    name: Västergötland östra
+    parentCode: RYF-QPR-HGB-DEN-ALX
+    parentName: Division 4 herr
+  - action: ADD
+    name: Skåne södra
+    parentCode: RYF-QPR-HGB-DEN-MVN
+    parentName: Division 5 herr
+  - action: ADD
+    name: Skåne östra
+    parentCode: RYF-QPR-HGB-DEN-MVN
+    parentName: Division 5 herr
+  - action: ADD
+    name: Blekinge
+    parentCode: RYF-QPR-HGB-DEN-CWD
+    parentName: Division 6 herr
+  - action: ADD
+    name: Skåne södra
+    parentCode: RYF-QPR-HGB-DEN-CWD
+    parentName: Division 6 herr
+  - action: ADD
+    name: Vetlanda
+    parentCode: RYF-QPR-HGB-DEN-CWD
+    parentName: Division 6 herr
+  - action: ADD
+    name: Älmhult
+    parentCode: RYF-QPR-HGB-DEN-CWD
+    parentName: Division 6 herr
+  - action: ADD
+    name: P19
+    parentCode: RYF-QPR-HGB-DEN
+    parentName: Fotboll
+  - action: ADD
+    name: SM-final herrar
+    parentCode: RYF-QPR-HGB-YOC-TPJ
+    parentName: Futsalligan
+  - action: ADD
+    name: Semifinal herrar
+    parentCode: RYF-QPR-HGB-YOC-TPJ
+    parentName: Futsalligan
+  - action: ADD
+    name: Kvartsfinal damer
+    parentCode: RYF-QPR-HGB-YOC-OYY
+    parentName: RFL dam
+  - action: ADD
+    name: Semifinal damer
+    parentCode: RYF-QPR-HGB-YOC-OYY
+    parentName: RFL dam
+  - action: ADD
+    name: SM-final damer
+    parentCode: RYF-QPR-HGB-YOC-OYY
+    parentName: RFL dam
+  - action: ADD
+    name: Mix mellan
+    parentCode: RYF-QPR-HGB-YTM-NIM
+    parentName: Division 1
+  - action: ADD
+    name: Sydsvenska norra
+    parentCode: RYF-QPR-HGB-JDC-SZN
+    parentName: Division 2 herr
+  - action: ADD
+    name: Sydallsvenskan herr
+    parentCode: RYF-QPR-HGB-DGM
+    parentName: Bowling
+  - action: ADD
+    name: Södra
+    parentCode: RYF-QPR-HGB-DGM-FGK
+    parentName: Allsvenskan dam
+  - action: ADD
+    name: Norra Götaland
+    parentCode: RYF-QPR-HGB-DGM-GYR
+    parentName: Division 1 herr
+  - action: ADD
+    name: Södra Götaland
+    parentCode: RYF-QPR-HGB-DGM-GYR
+    parentName: Division 1 herr
+  - action: ADD
+    name: Direkt off
+    parentCode: RYF-QPR-HGB-PJR-XPJ
+    parentName: Division 1 herr
+  - action: ADD
+    name: Direkt off syd
+    parentCode: RYF-QPR-HGB-PJR-IOG
+    parentName: Division 2 herr
+  - action: ADD
+    name: Kvalet till Handbollsligan herr
+    parentCode: RYF-QPR-HGB-PJR
+    parentName: Handboll
+  - action: ADD
+    name: Playoff 1 till division 1 Västergötland herr
+    parentCode: RYF-QPR-HGB-QHJ
+    parentName: Innebandy
+  - action: ADD
+    name: Playoff 1 till division 2 Västergötland herr
+    parentCode: RYF-QPR-HGB-QHJ
+    parentName: Innebandy
+  - action: ADD
+    name: Playoff 2 till division 2 Västergötland herr
+    parentCode: RYF-QPR-HGB-QHJ
+    parentName: Innebandy
+  - action: ADD
+    name: J18 kvalserie division 1 syd herr
+    parentCode: RYF-QPR-HGB-BQN-VLP
+    parentName: J18
+  - action: ADD
+    name: J18 kvalserie region syd herr
+    parentCode: RYF-QPR-HGB-BQN-VLP
+    parentName: J18
+  - action: ADD
+    name: Kvalserien till Hockeyallsvenskan
+    parentCode: RYF-QPR-HGB-BQN
+    parentName: Ishockey
+  - action: ADD
+    name: Play off till J20 kval Nationell södra
+    parentCode: RYF-QPR-HGB-BQN
+    parentName: Ishockey
+  - action: ADD
+    name: Semifinal dam
+    parentCode: RYF-QPR-HGB-MUD-CWJ
+    parentName: Allsvenskan dam
+  - action: ADD
+    name: Söder
+    parentCode: RYF-QPR-HGB-MUD-CWJ
+    parentName: Allsvenskan dam
+  - action: ADD
+    name: Superallsvenskan herr
+    parentCode: RYF-QPR-HGB-MUD
+    parentName: Rugby
+  - action: ADD
+    name: Mellersta södra
+    parentCode: RYF-QPR-HGB-BAH-LUF
+    parentName: Division 3 dam
+  - action: ADD
+    name: Division 3 herr
+    parentCode: RYF-QPR-HGB-JDC
+    parentName: Bordtennis
+  - action: ADD
+    name: Division 2 herr
+    parentCode: RYF-QPR-HGB-DGM
+    parentName: Bowling
+  - action: ADD
+    name: Division 2 dam
+    parentCode: RYF-QPR-HGB-DGM
+    parentName: Bowling
+  - action: ADD
+    name: P16 Allsvenskan, B-slutspel mellersta
+    parentCode: RYF-QPR-HGB-ASK
+    parentName: P16
+  - action: ADD
+    name: P16 Div 1 Region 6 B-slutspel
+    parentCode: RYF-QPR-HGB-ASK
+    parentName: P16  
