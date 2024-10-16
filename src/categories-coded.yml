@@ -10364,14 +10364,14 @@ categories:
   name: Dalarna
   status: ACTIVE
 - code: RYF-QPR-HGB-BAH-XQF-PHR
-  description: ''
+  description: Serie i volleyboll division 3
   level: 5
-  name: Division 3 norra
+  name: Norra
   status: ACTIVE
 - code: RYF-QPR-HGB-BAH-XQF-RNT
-  description: ''
+  description: Serie i volleyboll division 3
   level: 5
-  name: Division 3 östra
+  name: Östra
   status: ACTIVE
 - code: RYF-QPR-HGB-BAH-ZEU
   description: ''
@@ -10568,6 +10568,12 @@ categories:
   level: 5
   name: Hockeytvåan Norra B fortsättning
   replaces: RYF-QPR-HGB-BQN-ZVU
+  status: ACTIVE
+- code: RYF-QPR-HGB-BQN-KNN-CWA
+  description: ''
+  level: 5
+  name: Hockeytvåan Södra B fortsättning
+  replaces: RYF-QPR-HGB-BQN-SBJ
   status: ACTIVE
 - code: RYF-QPR-HGB-BQN-KNN-DHI
   description: ''
@@ -10944,7 +10950,8 @@ categories:
   description: ''
   level: 4
   name: Hockeytvåan Södra B fortsättning
-  status: ACTIVE
+  replacedBy: RYF-QPR-HGB-BQN-KNN-CWA
+  status: INACTIVE
 - code: RYF-QPR-HGB-BQN-SLY
   description: ''
   level: 4
@@ -12606,7 +12613,7 @@ categories:
   description: ''
   level: 5
   name: Södra Götaland
-  status: ACTIVE
+  status: INACTIVE
 - code: RYF-QPR-HGB-DEN-HKY-DTT
   description: ''
   level: 5
@@ -12636,7 +12643,7 @@ categories:
   description: ''
   level: 5
   name: Division 3 norra Norrland
-  status: ACTIVE
+  status: INACTIVE
 - code: RYF-QPR-HGB-DEN-HKY-LZN
   description: ''
   level: 5
@@ -13321,7 +13328,7 @@ categories:
   description: ''
   level: 4
   name: P16 Allsvenskan mellersta herrar
-  status: ACTIVE
+  status: INACTIVE
 - code: RYF-QPR-HGB-DEN-OZH
   description: ''
   level: 4
@@ -13641,7 +13648,7 @@ categories:
   description: ''
   level: 5
   name: Blekinge
-  status: ACTIVE
+  status: INACTIVE
 - code: RYF-QPR-HGB-DEN-SZC-ZHG
   description: ''
   level: 5
@@ -13974,6 +13981,21 @@ categories:
   level: 4
   name: Division 2 herr
   status: ACTIVE
+- code: RYF-QPR-HGB-DGM-ARJ-GXX
+  description: Serie i bowling
+  level: 5
+  name: södra Götaland
+  status: ACTIVE
+- code: RYF-QPR-HGB-DGM-ARJ-KXX
+  description: Serie i bowling
+  level: 5
+  name: östra Götaland
+  status: ACTIVE
+- code: RYF-QPR-HGB-DGM-ARJ-WYW
+  description: Serie i bowling
+  level: 5
+  name: västra Götaland
+  status: ACTIVE
 - code: RYF-QPR-HGB-DGM-FCD
   description: ''
   level: 4
@@ -14028,6 +14050,16 @@ categories:
   description: ''
   level: 4
   name: Division 3 herr
+  status: ACTIVE
+- code: RYF-QPR-HGB-DGM-XKY-UUJ
+  description: Serie i bowling
+  level: 5
+  name: östra Götaland
+  status: ACTIVE
+- code: RYF-QPR-HGB-DGM-XKY-UUM
+  description: Serie i bowling
+  level: 5
+  name: södra Götaland
   status: ACTIVE
 - code: RYF-QPR-HGB-DGM-XYK
   description: ''
@@ -14164,21 +14196,21 @@ categories:
   name: Allsvenskan
   status: ACTIVE
 - code: RYF-QPR-HGB-EOW-CNP
-  description: ''
+  description: Uthållighetstävling inom motorsport
   level: 4
-  name: Motorcykel uthållighet
+  name: Endurance
   status: ACTIVE
 - code: RYF-QPR-HGB-EOW-CUZ
-  description: ''
+  description: Motorcykelsport som går ut på att man ska ta sig runt en bana med olika hinder
   level: 4
-  name: Trail
+  name: Trial
   status: ACTIVE
 - code: RYF-QPR-HGB-EOW-CYO
   description: ''
   level: 4
   name: Uthållighetsrace
   replaces: RYF-QPR-HGB-DNB-XJL
-  status: ACTIVE
+  status: INACTIVE
 - code: RYF-QPR-HGB-EOW-DPF
   description: ''
   level: 4
@@ -14188,7 +14220,41 @@ categories:
   description: ''
   level: 4
   name: Formel 1
+  replacedBy: RYF-QPR-HGB-EOW-IRQ-FDR
   replaces: RYF-QPR-HGB-DNB-PDE
+  status: INACTIVE
+- code: RYF-QPR-HGB-EOW-IRQ
+  description: Bilracing på bana med formelbil
+  level: 4
+  name: Formelbilsracing
+  status: ACTIVE
+- code: RYF-QPR-HGB-EOW-IRQ-AGR
+  description: Ensitsiga formelbilar på nivå 3
+  level: 5
+  name: Formel 3
+  status: ACTIVE
+- code: RYF-QPR-HGB-EOW-IRQ-EZY
+  description: ''
+  level: 5
+  name: Indycar
+  replaces: RYF-QPR-HGB-EOW-SVU
+  status: ACTIVE
+- code: RYF-QPR-HGB-EOW-IRQ-FDR
+  description: ''
+  level: 5
+  name: Formel 1
+  replaces: RYF-QPR-HGB-EOW-GSP
+  status: ACTIVE
+- code: RYF-QPR-HGB-EOW-IRQ-FQN
+  description: ''
+  level: 5
+  name: Formel 2
+  replaces: RYF-QPR-HGB-EOW-MZI
+  status: ACTIVE
+- code: RYF-QPR-HGB-EOW-IRQ-LAY
+  description: Ensitsiga formelbilar på nivå 4
+  level: 5
+  name: Formel 4
   status: ACTIVE
 - code: RYF-QPR-HGB-EOW-JRT
   description: ''
@@ -14209,8 +14275,9 @@ categories:
   description: ''
   level: 4
   name: Formel 2
+  replacedBy: RYF-QPR-HGB-EOW-IRQ-FQN
   replaces: RYF-QPR-HGB-DNB-DJO
-  status: ACTIVE
+  status: INACTIVE
 - code: RYF-QPR-HGB-EOW-NDA
   description: ''
   level: 4
@@ -14237,7 +14304,28 @@ categories:
   description: ''
   level: 4
   name: Indycar
+  replacedBy: RYF-QPR-HGB-EOW-IRQ-EZY
   replaces: RYF-QPR-HGB-DNB-LOH
+  status: INACTIVE
+- code: RYF-QPR-HGB-EOW-TXI
+  description: Bilracing på bana
+  level: 4
+  name: Banracing
+  status: ACTIVE
+- code: RYF-QPR-HGB-EOW-TXI-UHW
+  description: Racing med tävlingsbilar baserade på personbilar avsedda för landsvägskörning
+  level: 5
+  name: Standardvagnsracing
+  status: ACTIVE
+- code: RYF-QPR-HGB-EOW-TXI-WMH
+  description: Bilsport på bana med tvåsitsiga bilar med täckta hjul
+  level: 5
+  name: Sportvagnsracing
+  status: ACTIVE
+- code: RYF-QPR-HGB-EOW-TXI-YEY
+  description: Bilsport där specialbyggda sportbilar eller tävlingsbilar tävlar på banor
+  level: 5
+  name: GT-racing
   status: ACTIVE
 - code: RYF-QPR-HGB-EOW-XFS
   description: ''
@@ -14430,6 +14518,21 @@ categories:
   description: ''
   level: 5
   name: Sydsvenska sydöstra
+  status: ACTIVE
+- code: RYF-QPR-HGB-JDC-LVZ-DMF
+  description: Serie i bordtennis
+  level: 5
+  name: södra Götaland 2
+  status: ACTIVE
+- code: RYF-QPR-HGB-JDC-LVZ-DQL
+  description: Serie i bordtennis
+  level: 5
+  name: södra Götaland 4
+  status: ACTIVE
+- code: RYF-QPR-HGB-JDC-LVZ-MPN
+  description: Serie i bordtennis
+  level: 5
+  name: östra Götaland
   status: ACTIVE
 - code: RYF-QPR-HGB-JDC-MEO
   description: ''
@@ -14898,12 +15001,12 @@ categories:
   description: ''
   level: 5
   name: Svenska Cupen Åttondelsfinal
-  status: ACTIVE
+  status: INACTIVE
 - code: RYF-QPR-HGB-PJR-LYR-VZR
   description: ''
   level: 5
   name: Svenska Cupen Kvartsfinal
-  status: ACTIVE
+  status: INACTIVE
 - code: RYF-QPR-HGB-PJR-MCK
   description: ''
   level: 4
@@ -14980,9 +15083,9 @@ categories:
   name: Division 4 dam
   status: ACTIVE
 - code: RYF-QPR-HGB-PJR-RRX-UGS
-  description: ''
+  description: Serie i handboll division 4 dam
   level: 5
-  name: Division 4 Dam 4 Väst Sydost
+  name: Väst Sydost
   status: ACTIVE
 - code: RYF-QPR-HGB-PJR-WKS
   description: ''
@@ -15935,14 +16038,14 @@ categories:
   name: Division 1 dam
   status: ACTIVE
 - code: RYF-QPR-HGB-WVD-WAO-ANZ
-  description: ''
+  description: Serie i tennis division 1
   level: 5
-  name: Division 1 södra
+  name: Södra
   status: ACTIVE
 - code: RYF-QPR-HGB-WVD-WAO-CWR
-  description: ''
+  description: Final i tennis division 1
   level: 5
-  name: Division 1 SM-final
+  name: SM-final
   status: ACTIVE
 - code: RYF-QPR-HGB-WVD-XWT
   description: ''
@@ -15950,9 +16053,9 @@ categories:
   name: Division 1 herr
   status: ACTIVE
 - code: RYF-QPR-HGB-WVD-XWT-PGH
-  description: ''
+  description: Serie i tennis division 1
   level: 5
-  name: Division 1 södra
+  name: Södra
   status: ACTIVE
 - code: RYF-QPR-HGB-XNH
   description: ''

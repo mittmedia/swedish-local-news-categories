@@ -140,10 +140,10 @@ modifications:
   code: RYF-QPR-HGB-EOW-CNP
   name: Motorcykel uthållighet
   newName: Endurance
-  description: Uthållihgetstävling inom motorsport
+  description: Uthållighetstävling inom motorsport
   
 - action: UPDATE
-  code: RYF-QPR-HGB-EOW-CNP
+  code: RYF-QPR-HGB-EOW-CUZ
   name: Trail
   newName: Trial
   description: Motorcykelsport som går ut på att man ska ta sig runt en bana med olika hinder
