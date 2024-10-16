@@ -121,3 +121,33 @@ modifications:
 - action: INACTIVATE
   code: RYF-QPR-HGB-PJR-LYR-OFW
   name: Svenska Cupen Åttondelsfinal
+
+- action: ADD
+  parentCode: RYF-QPR-HGB-EOW
+  parentName: Motorsport   
+  name: Banracing
+  level: 4
+  description: Bilracing på bana
+    
+- action: ADD
+  parentCode: RYF-QPR-HGB-EOW
+  parentName: Motorsport   
+  name: Formelbilsracing
+  level: 4
+  description: Bilracing på bana med formelbil
+
+- action: UPDATE
+  code: RYF-QPR-HGB-EOW-CNP
+  name: Motorcykel uthållighet
+  newName: Endurance
+  description: Uthållihgetstävling inom motorsport
+  
+- action: UPDATE
+  code: RYF-QPR-HGB-EOW-CNP
+  name: Trail
+  newName: Trial
+  description: Motorcykelsport som går ut på att man ska ta sig runt en bana med olika hinder
+    
+- action: INACTIVATE
+  code: RYF-QPR-HGB-EOW-CYO
+  name: Uthållighetsrace
