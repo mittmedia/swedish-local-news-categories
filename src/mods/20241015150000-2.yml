@@ -1,1 +1,49 @@
-
+modifications:
+- action: ADD
+  parentCode: RYF-QPR-HGB-EOW # från -1
+  parentName: Banracing   
+  name: Standardvagnsracing
+  level: 5
+  description: Racing med tävlingsbilar baserade på personbilar avsedda för landsvägskörning
+- action: ADD
+  parentCode: RYF-QPR-HGB-EOW # från -1
+  parentName: Banracing   
+  name: Sportvagnsracing
+  level: 5
+  description: Bilsport på bana med tvåsitsiga bilar med täckta hjul
+- action: ADD
+  parentCode: RYF-QPR-HGB-EOW # från -1
+  parentName: Banracing   
+  name: GT-racing
+  level: 5
+  description: Bilsport där specialbyggda sportbilar eller tävlingsbilar tävlar på banor
+- action: ADD
+  parentCode: RYF-QPR-HGB-EOW  # från -1
+  parentName: Formelbilsracing   
+  name: Formel 3
+  level: 5
+  description: Ensitsiga formelbilar på nivå 3
+- action: ADD
+  parentCode: RYF-QPR-HGB-EOW  # från -1
+  parentName: Formelbilsracing   
+  name: Formel 4
+  level: 5
+  description: Ensitsiga formelbilar på nivå 4
+- action: MOVE
+  code: RYF-QPR-HGB-EOW-GSP
+  name: Formel 1 
+  newParentCode: RYF-QPR-HGB-EOW  # från -1
+  newParentName: Formelbilsracing
+  description: Ensitsiga formelbilar på nivå 1
+- action: MOVE
+  code: RYF-QPR-HGB-EOW-MZI
+  name: Formel 2
+  newParentCode: RYF-QPR-HGB-EOW  # från -1
+  newParentName: Formelbilsracing
+  description: Ensitsiga formelbilar på nivå 2
+- action: MOVE
+  code: RYF-QPR-HGB-EOW-SVU
+  name: Indycar
+  newParentCode: RYF-QPR-HGB-EOW  # från -1
+  newParentName: Formelbilsracing
+  description: Amerikansk formelbilserie
