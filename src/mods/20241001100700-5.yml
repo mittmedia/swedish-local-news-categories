@@ -1,0 +1,157 @@
+modifications:
+  - action: ADD
+    parentCode: RYF-QPR-HGB-DEN-ASK
+    parentName: P16
+    name: P16 Allsvenskan A-slutspel södra
+  - action: ADD
+    parentCode: RYF-QPR-HGB-DEN-ASK
+    parentName: P16
+    name: P16 Allsvenskan mellersta herrar
+  - action: ADD
+    parentCode: RYF-QPR-HGB-DEN-ASK
+    parentName: P16
+    name: P16 Allsvenskan södra
+  - action: ADD
+    name: Blekinge
+    parentCode: RYF-QPR-HGB-DEN-SZC
+    parentName: Division 4 dam
+  - action: MOVE
+    code: RYF-QPR-HGB-BQN-GIO
+    name: Hockeytrean Värmland
+    newParentCode: RYF-QPR-HGB-BQN-TKF
+    newParentName: Hockeytrean
+  - action: MOVE
+    code: RYF-QPR-HGB-BQN-QZY
+    name: Hockeytrean Norrbotten fortsättning
+    newParentCode: RYF-QPR-HGB-BQN-TKF
+    newParentName: Hockeytrean
+  - action: MOVE
+    code: RYF-QPR-HGB-BQN-YVU
+    name: Hockeytrean Södra A fortsättning
+    newParentCode: RYF-QPR-HGB-BQN-TKF
+    newParentName: Hockeytrean
+  - action: MOVE
+    code: RYF-QPR-HGB-BQN-PYI
+    name: Hockeytrean Södra B fortsättning
+    newParentCode: RYF-QPR-HGB-BQN-TKF
+    newParentName: Hockeytrean
+  - action: MOVE
+    code: RYF-QPR-HGB-BQN-LHU
+    name: Hockeytrean Södra C fortsättning
+    newParentCode: RYF-QPR-HGB-BQN-TKF
+    newParentName: Hockeytrean
+  - action: MOVE
+    code: RYF-QPR-HGB-BQN-FOR
+    name: Hockeytrean Södra D fortsättning
+    newParentCode: RYF-QPR-HGB-BQN-TKF
+    newParentName: Hockeytrean
+  - action: MOVE
+    code: RYF-QPR-HGB-BQN-UCT
+    name: Hockeytrean Västerbotten fortsättning
+    newParentCode: RYF-QPR-HGB-BQN-TKF
+    newParentName: Hockeytrean
+  - action: MOVE
+    code: RYF-QPR-HGB-BQN-FYR
+    name: Hockeytrean Örebro-Västmanland
+    newParentCode: RYF-QPR-HGB-BQN-TKF
+    newParentName: Hockeytrean
+  - action: MOVE
+    code: RYF-QPR-HGB-BQN-YDO 
+    name: Hockeytrean Östra fortsättning
+    newParentCode: RYF-QPR-HGB-BQN-TKF
+    newParentName: Hockeytrean
+  - action: MOVE
+    code: RYF-QPR-HGB-BQN-WJE
+    name: Hockeyettan norra
+    newParentCode: RYF-QPR-HGB-BQN-TQL
+    newParentName: Hockeyettan
+  - action: MOVE
+    code: RYF-QPR-HGB-BQN-GID
+    name: Hockeyettan norra vår
+    newParentCode: RYF-QPR-HGB-BQN-TQL
+    newParentName: Hockeyettan
+  - action: MOVE
+    code: RYF-QPR-HGB-BQN-OCT
+    name: Hockeyettan södra
+    newParentCode: RYF-QPR-HGB-BQN-TQL
+    newParentName: Hockeyettan
+  - action: MOVE
+    code: RYF-QPR-HGB-BQN-EMJ
+    name: Hockeyettan södra vår
+    newParentCode: RYF-QPR-HGB-BQN-TQL
+    newParentName: Hockeyettan
+  - action: MOVE
+    code: RYF-QPR-HGB-BQN-EUG
+    name: Hockeyettan västra
+    newParentCode: RYF-QPR-HGB-BQN-TQL
+    newParentName: Hockeyettan
+  - action: MOVE
+    code: RYF-QPR-HGB-BQN-PYW
+    name: Hockeyettan västra vår
+    newParentCode: RYF-QPR-HGB-BQN-TQL
+    newParentName: Hockeyettan
+  - action: MOVE
+    code: RYF-QPR-HGB-BQN-SVR
+    name: Hockeyettan östra
+    newParentCode: RYF-QPR-HGB-BQN-TQL
+    newParentName: Hockeyettan
+  - action: MOVE
+    code: RYF-QPR-HGB-BQN-ZJY
+    name: Hockeyettan östra vår
+    newParentCode: RYF-QPR-HGB-BQN-TQL
+    newParentName: Hockeyettan
+  - action: INACTIVATE
+    code: RYF-QPR-HGB-BQN-SLY
+    name: Allettan norra
+  - action: INACTIVATE
+    code: RYF-QPR-HGB-BQN-LIB
+    name: Allettan södra  
+  - action: MOVE
+    code: RYF-QPR-HGB-BQN-CEL
+    name: Alltrean södra A
+    newParentCode: RYF-QPR-HGB-BQN-TKF
+    newParentName: Hockeytrean
+  - action: MOVE
+    code: RYF-QPR-HGB-BQN-GLW
+    name: Alltrean södra B
+    newParentCode: RYF-QPR-HGB-BQN-TKF
+    newParentName: Hockeytrean
+  - action: MOVE
+    code: RYF-QPR-HGB-BQN-THV
+    name: Alltrean östra
+    newParentCode: RYF-QPR-HGB-BQN-TKF
+    newParentName: Hockeytrean
+  - action: MOVE
+    code: RYF-QPR-HGB-BQN-WOY
+    name: Hockeytvåan Norra A fortsättning
+    newParentCode: RYF-QPR-HGB-BQN-KNN
+    newParentName: Hockeytvåan
+  - action: MOVE
+    code: RYF-QPR-HGB-BQN-ZVU
+    name: Hockeytvåan Norra B fortsättning
+    newParentCode: RYF-QPR-HGB-BQN-KNN
+    newParentName: Hockeytvåan
+  - action: MOVE
+    code: RYF-QPR-HGB-BQN-UOA
+    name: Hockeytvåan Södra A fortsättning
+    newParentCode: RYF-QPR-HGB-BQN-KNN
+    newParentName: Hockeytvåan
+  - action: MOVE
+    code: RYF-QPR-HGB-BQN-VAS
+    name: Alltvåan norra AB
+    newParentCode: RYF-QPR-HGB-BQN-KNN
+    newParentName: Hockeytvåan
+  - action: MOVE
+    code: RYF-QPR-HGB-BQN-QQP
+    name: Alltvåan södra
+    newParentCode: RYF-QPR-HGB-BQN-KNN
+    newParentName: Hockeytvåan   
+  - action: MOVE
+    code: RYF-QPR-HGB-BQN-NAK
+    name: Alltvåan östra
+    newParentCode: RYF-QPR-HGB-BQN-KNN
+    newParentName: Hockeytvåan
+  - action: ADD
+    name: Hockeyfyran
+    parentCode: RYF-QPR-HGB-BQN
+    parentName: Ishockey  

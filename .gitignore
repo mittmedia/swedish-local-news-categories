@@ -1,5 +1,6 @@
 .idea/
 venv/
+.venv/
 *.pyc
 /.DS_Store
 /.project
