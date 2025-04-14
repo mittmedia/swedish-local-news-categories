@@ -1,1 +1,15 @@
 Modifications:
+- action: UPDATE
+  code: RYF-WUU-JZK-TAC
+  name: Funktionsvariation
+  newName: Funktionsnedsättning
+  description: Innebär att en människa har en partiell eller total nedsättning av en fysisk, psykisk eller intellektuell förmåga, eller en kombination av dessa
+
+- action: INACTIVATE
+  code: RYF-WXT-HGG-KLE
+  name: Krigsförbrytelse
+
+- action: ADD
+  code:
+  name:
+  
