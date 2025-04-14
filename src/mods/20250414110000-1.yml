@@ -10,6 +10,22 @@ Modifications:
   name: Krigsförbrytelse
 
 - action: ADD
-  code:
-  name:
+  parentCode: RYF-XKI-CUP-NCO-QWZ
+  parentName: Konsthantverk 
+  name: Konstglas
+  level: 5
+  description: Konstglas är en produkt av glas som framställts med tanke på utseende snarare än praktisk användning, även om konstglas kan ha en praktisk funktion och bruksföremål i glas kan ha kända formgivare och avancerad design
   
+- action: ADD
+  parentCode: RYF-QPR-HGB
+  parentName: Sporter
+  name: Cheerleading
+  level: 3
+  description: Ursprungligen en amerikansk hejarklack-sport som kombinerar avancerade trick, uniformer och hejaramsor för att stötta budskapet om entusiasm och sportsmannaanda
+
+- action: ADD
+  parentCode: RYF-QPR-HGB
+  parentName: Sporter
+  name: Skidalpinism, skimo
+  level: 3
+  description: Skidalpinism (ibland skimo, efter engelska ski mountaineering) är en skidsport där utövarna bestiger berg med skidor, för att sedan åka utför till målet
