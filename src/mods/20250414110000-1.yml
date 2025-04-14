@@ -29,3 +29,80 @@ Modifications:
   name: Skidalpinism, skimo
   level: 3
   description: Skidalpinism (ibland skimo, efter engelska ski mountaineering) är en skidsport där utövarna bestiger berg med skidor, för att sedan åka utför till målet
+
+- action: UPDATE
+  code: RYF-ZEI-PGW
+  name: Arbetsgivare
+  description: Den som upprättar ett anställningsavtal med en arbetstagare om att mot en bestämd ersättning erhålla en arbetsprestation av den senare
+
+- action: UPDATE
+  code: RYF-ZEI-QWT
+  name: Arbetslöshet
+  description: När en person inte har ett arbete och samtidigt ägnar sig åt aktivt jobbsökande
+
+- action: UPDATE
+  code: RYF-ZEI-QWT-FSK
+  name: A-kassa
+  description: Arbetslöshetskassa, a-kassa, har som främsta uppgift att administrera och betala ut arbetslöshetsersättning till personer som är arbetslösa
+
+- action: UPDATE
+  code: RYF-ZEI-QWT-QJQ
+  name: Omskolning
+  description: En arbetsmarknadsåtgärd som syftar till att en arbetslös ska lära sig ett nytt yrke
+
+- action: UPDATE
+  code: RYF-ZEI-QBA
+  name: Arbetsmarknad
+  description: Efterfrågan och tillgången på arbetskraft
+
+- action: UPDATE
+  code: RYF-ZEI-RYD
+  name: Arbetsrätt
+  description: Den lagstiftning som reglerar förhållandet mellan arbetsgivare och arbetstagare
+  
+- action: UPDATE
+  code: RYF-ZEI-RYD-YZX-NAP
+  name: Arbetsmiljöbrott
+  description: Brott på en arbetsplats som definieras i Brottsbalken och Arbetsmiljölagen
+   
+- action: UPDATE
+  code: RYF-ZEI-RYD-DFU
+  name: Lagen om anställningsskydd, LAS
+  description: Den lag som reglerar anställningsförhållandet (mellan arbetstagare och arbetsgivare), bland annat vilka regler som gäller vid anställning, uppsägning och avskedande
+
+- action: UPDATE
+  code: RYF-ZEI-AVN
+  name: Arbetsskada
+  description: Fysisk eller psykisk skada eller sjukdom som uppkommit under arbetstid och/eller till följd av arbete
+  
+- action: UPDATE
+  code: RYF-ZEI-AVN-LAA
+  name: Arbetsskadeförsäkring
+  description: Den socialförsäkring som ersätter personer som insjuknat eller råkat ut för olyckor till följd av sitt arbete
+    
+- action: UPDATE
+  code: RYF-ZEI-NYT
+  name: Arbetstagare
+  description: Anställd person som har ett anställningsavtal med en annan part – arbetsgivare, som oftast är en juridisk person
+    
+- action: UPDATE
+  code: RYF-ZEI-UOK
+  name: Distansarbete
+  description: Arbete sker från en arbetsplats utanför arbetsgivarens lokaler
+    
+- action: UPDATE
+  code: RYF-ZEI-ERP
+  name: Friskvård
+  description: Åtgärder som stimulerar en person till egna aktiva hälsobefrämjande insatser
+  
+- action: UPDATE
+  code: RYF-ZEI-ERP-END
+  name: Friskvårdsbidrag
+  description: Bidrag som anställda kan använda till enklare aktiviteter med inslag av motion eller annan friskvård
+
+- action: UPDATE
+  code: RYF-ZEI-JQV
+  name: Karriär
+  description: En persons utveckling inom arbetslivet
+ 
+  
