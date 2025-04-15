@@ -223,4 +223,28 @@ Modifications:
   code: RYF-ZEI-CZS-JZU-JMM
   name: Rekrytering
   description: Processen att söka, attrahera och kontraktera personer till att utföra någon form av arbete eller uppgift
+
+- action: UPDATE
+  code: RYF-ZEI-CZS-FIE
+  name: Sjukskrivning
+  description: När någon inte arbetar på grund av sjukdom
+
+- action: UPDATE
+  code: RYF-ZEI-CZS-FIE-LTH
+  name: Karensavdrag
+  description: En form av självrisk där man inte får sjukpenning en vioss tid i samband med sjukskrivning
   
+- action: UPDATE
+  code: RYF-ZEI-CZS-FIE-UMX
+  name: Sjukförsäkring
+  description: En försäkringsliknande förmån till stöd för den som drabbats av sjukdom eller ohälsa
+
+- action: UPDATE
+  code: RYF-ZEI-CZS-FIE-EYL
+  name: Sjukpenning
+  description: En del av sjukförsäkringen som utbetalas till vissa vars arbetsförmåga är nedsatt på grund av sjukdom
+
+- action: UPDATE
+  code: RYF-ZEI-CZS-FIE-EYL
+  name: Sjukpenning
+  description: En del av sjukförsäkringen som utbetalas till vissa vars arbetsförmåga är nedsatt på grund av sjukdom
