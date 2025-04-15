@@ -248,3 +248,19 @@ Modifications:
   code: RYF-ZEI-CZS-FIE-EYL
   name: Sjukpenning
   description: En del av sjukförsäkringen som utbetalas till vissa vars arbetsförmåga är nedsatt på grund av sjukdom
+
+- action: UPDATE
+  code: RYF-ZEI-NQK
+  name: Sommarjobb
+  description: Sommarjobb är ett tillfälligt arbete under sommaren. Det innehas vanligen av en studerande person under sommarledigheten, ibland används även termen om säsongsarbete
+
+- action: UPDATE
+  code: RYF-ZEI-SID
+  name: Yrken
+  newname: Yrke
+  description: Ett yrke, eller jobb, är en sysselsättning eller specialisering som en person utbildar sig till eller går i lära för och som kan knytas till försörjning
+
+- action: UPDATE
+  code: RYF-ZEI-KLS
+  name: Yrkesträning
+  description: Den del av en yrkesutbildning där sden som utbildas ges tillfälle att praktisera yrket 
