@@ -15,7 +15,7 @@ Modifications:
   name: Konstglas
   level: 5
   description: Konstglas är en produkt av glas som framställts med tanke på utseende snarare än praktisk användning, även om konstglas kan ha en praktisk funktion och bruksföremål i glas kan ha kända formgivare och avancerad design
-  
+
 - action: ADD
   parentCode: RYF-QPR-HGB
   parentName: Sporter
@@ -54,17 +54,17 @@ Modifications:
   code: RYF-ZEI-QBA
   name: Arbetsmarknad
   description: Efterfrågan och tillgången på arbetskraft
-
+  
 - action: UPDATE
   code: RYF-ZEI-RYD
   name: Arbetsrätt
   description: Den lagstiftning som reglerar förhållandet mellan arbetsgivare och arbetstagare
-  
+
 - action: UPDATE
   code: RYF-ZEI-RYD-YZX-NAP
   name: Arbetsmiljöbrott
   description: Brott på en arbetsplats som definieras i Brottsbalken och Arbetsmiljölagen
-   
+  
 - action: UPDATE
   code: RYF-ZEI-RYD-DFU
   name: Lagen om anställningsskydd, LAS
@@ -79,30 +79,148 @@ Modifications:
   code: RYF-ZEI-AVN-LAA
   name: Arbetsskadeförsäkring
   description: Den socialförsäkring som ersätter personer som insjuknat eller råkat ut för olyckor till följd av sitt arbete
-    
+
 - action: UPDATE
   code: RYF-ZEI-NYT
   name: Arbetstagare
   description: Anställd person som har ett anställningsavtal med en annan part – arbetsgivare, som oftast är en juridisk person
-    
+
 - action: UPDATE
   code: RYF-ZEI-UOK
   name: Distansarbete
   description: Arbete sker från en arbetsplats utanför arbetsgivarens lokaler
-    
+
 - action: UPDATE
   code: RYF-ZEI-ERP
   name: Friskvård
   description: Åtgärder som stimulerar en person till egna aktiva hälsobefrämjande insatser
-  
+
 - action: UPDATE
   code: RYF-ZEI-ERP-END
   name: Friskvårdsbidrag
   description: Bidrag som anställda kan använda till enklare aktiviteter med inslag av motion eller annan friskvård
-
+  
 - action: UPDATE
   code: RYF-ZEI-JQV
   name: Karriär
   description: En persons utveckling inom arbetslivet
- 
+  
+- action: UPDATE
+  code: RYF-ZEI-YVF
+  name: Kollektivavtal
+  description: Skriftliga avtal som täcker en specifik grupp av arbetare och deras anställnignsvillkor  
+
+- action: UPDATE
+  code: RYF-ZEI-YVF-AMA
+  name: Avtalsrörelsen
+  newname: Avtalsrörelse
+  description: En återkommande händelse där arbetsmarknadens parter, arbetstagare och arbetsgivare, förhandlar fram nya kollektivavtal som reglerar löner och arbetsförhållanden
+  
+- action: UPDATE
+  code: RYF-ZEI-IQH
+  name: Lärling
+  description: Den som utbildar sig till ett yrke under en yrkesverksam mästare inom detta område
+
+- action: UPDATE
+  code: RYF-ZEI-QVY
+  name: Lön och förmån
+  description: Lön är en ersättning som betalas till en person för utförande av arbete. En förmån är när arbetsgivaren bekostar en privat levnadskostnad
+
+- action: UPDATE
+  code: RYF-ZEI-QVY-NSF
+  name: Bonus
+  description: Ekonomisk kompensation som en anställd kan få av sin arbetsgivare för väl utfört arbete
+
+- action: UPDATE
+  code: RYF-ZEI-QVY-ZGW
+  name: Inkomst
+  description: Den summa pengar en person tjänat genom arbete
+
+- action: UPDATE
+  code: RYF-ZEI-QVY-DUT
+  name: Löneförhandling
+  description: En överläggning mellan två eller flera parter för att nå en överenskommelse ny lön
+
+- action: UPDATE
+  code: RYF-ZEI-QVY-WFN
+  name: Lönespridning
+  description: Ett arbetsmarknadspolitiskt begrepp som innebär skillnader i lön mellan olika grupper av arbetstagare
+
+- action: UPDATE
+  code: RYF-ZEI-QVY-PNO
+  name: Löneväxling
+  description: När en löntagare avstår en del av lönen för att använda pengarna till att förstärka sin pension via en extra tjänstepension
+
+- action: UPDATE
+  code: RYF-ZEI-CZS
+  name: Personal och anställning
+  description: Personal är en grupp människor som arbetar för en gemensam huvudman och är kontrakterade genom ett anställningsavtal
+
+- action: UPDATE
+  code: RYF-ZEI-CZS
+  name: Personal och anställning
+  description: Personal är en grupp människor som arbetar för en gemensam huvudman och är kontrakterade genom ett anställningsavtal
+
+- action: UPDATE
+  code: RYF-ZEI-CZS-XBS
+  name: Arbetstid
+  description: Den tid som människor ägnar åt förvärvsarbete
+  
+- action: UPDATE
+  code: RYF-ZEI-CZS-XBS-LXX
+  name: Övertid
+  description: Tillfällig arbetstid utöver full arbetstid och jourtid
+
+- action: UPDATE
+  code: RYF-ZEI-CZS-XBS-LXX
+  name: Schemaläggning
+  description: Översiktlig uppställning över personalens arbetstid
+
+- action: UPDATE
+  code: RYF-ZEI-CZS-WLH
+  name: Bemanning
+  description: När en arbetsgivare hyr in resurser eller kompetenser från ett bemanningsföretag i stället för att anställa
+
+- action: UPDATE
+  code: RYF-ZEI-CZS-SAF
+  name: Kompetensförsörjning
+  description: Arbetet med att säkerställa att företaget har rätt kompetens
+
+- action: UPDATE
+  code: RYF-ZEI-CZS-WIC
+  name: Kompetensutveckling
+  description: När personal eller ledning går olika former av utbildningar och kurser inom sin yrkesroll
+
+- action: UPDATE
+  code: RYF-ZEI-CZS-GEI
+  name: Kompetensväxling
+  description: Åtgärder för att ge kompetens på nytt område till medarbetare vars huvudsakliga kompetens blivit mindre användbar
+
+- action: UPDATE
+  code: RYF-ZEI-CZS-JLQ
+  name: Nedskärningar
+  newname: Nedskärning
+  description: Åtgärder för att minska ett företags kostnader
+
+- action: UPDATE
+  code: RYF-ZEI-CZS-JLQ-IMF
+  name: Uppsägning och varsel
+  newname: Varsel och uppsägning
+  description: Varsel om uppsägning är ett begrepp inom svensk arbetsrätt, som innebär att en arbetsgivare förvarnar om en större mängd uppsägningar inom företaget
+
+- action: UPDATE
+  code: RYF-ZEI-CZS-JZU
+  name: Nyanställningar
+  newname: Nyanställning
+  description: När ett företag rekryterar nya medarbetare
+
+- action: UPDATE
+  code: RYF-ZEI-CZS-JZU-ADK
+  name: Förordnande
+  description: När en  myndighet tillsätter en tjänsteman till offentligt ämbete
+
+- action: UPDATE
+  code: RYF-ZEI-CZS-JZU-JMM
+  name: Rekrytering
+  description: Processen att söka, attrahera och kontraktera personer till att utföra någon form av arbete eller uppgift
   
