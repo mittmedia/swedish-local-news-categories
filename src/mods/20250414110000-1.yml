@@ -282,11 +282,6 @@ Modifications:
   description: En aktie är en andel i ett aktiebolag, som motsvarar en kapitalinsats från ägaren, och som bildar bolagets aktiekapital
 
 - action: UPDATE
-  code: RYF-IXA-CVI-MAB
-  name: Aktier
-  description: En aktie är en andel i ett aktiebolag, som motsvarar en kapitalinsats från ägaren, och som bildar bolagets aktiekapital
-
-- action: UPDATE
   code: RYF-IXA-CVI-MAB-ETQ
   name: Aktiehandel
   description: Aktiehandeln utgörs av köp och försäljning av företagsaktier, eller av derivat baserade på företagsaktier
