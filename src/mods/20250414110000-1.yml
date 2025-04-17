@@ -308,7 +308,7 @@ Modifications:
 
 - action: UPDATE
   code: RYF-IXA-CVI-MAB-ZDL
-  name: Akitekapital
+  name: Aktiekapital
   description: Aktiekapital är en del av ett aktiebolags bundna egna kapital
 
 - action: UPDATE
@@ -415,3 +415,24 @@ Modifications:
   code: RYF-IXA-CVI-CCS-QCA
   name: Fondsparande
   description: Sparande genom att spararen köper andelar i aktiefonder,  även kallat investeringsfonder, med förväntan om god avkastning
+
+- action: UPDATE
+  code: RYF-IXA-CVI-VCE
+  name: Obligationer
+  description: Ett vanligtvis räntebärande, löpande skuldebrev som intygar att innehavaren lånat ut pengar till staten, kreditinstitu eller ett större företag
+
+- action: UPDATE
+  code: RYF-IXA-CVI-VCE-QIR
+  name: Företagsobligationer
+  description: En företagsobligation är ett löpande skuldebrev utgivet av statliga bolag och större industriföretag i syfte att låna upp pengar
+
+- action: UPDATE
+  code: RYF-IXA-CVI-VCE-LJA
+  name: Statspapper
+  description: Statspapper är ett samlingsbegrepp för räntebärande instrument där staten är emittent (låntagare), till exempel statsobligationer eller statsskuldväxlar
+
+- action: UPDATE
+  code: RYF-IXA-CVI-UVY
+  name: Option
+  description: En option är ett avtal mellan en optionsutställare och en optionsinnehavare som ger innehavaren rätten, men inte skyldigheten, att i framtiden köpa eller sälja en underliggande tillgång till ett på förhand bestämt pris
+
