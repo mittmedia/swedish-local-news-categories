@@ -263,4 +263,160 @@ Modifications:
 - action: UPDATE
   code: RYF-ZEI-KLS
   name: Yrkesträning
-  description: Den del av en yrkesutbildning där sden som utbildas ges tillfälle att praktisera yrket 
+  description: Den del av en yrkesutbildning där sden som utbildas ges tillfälle att praktisera yrket
+
+- action: UPDATE
+  code: RYF-BIZ-WZJ-BJO
+  name: Skottlossning
+  newname: Skjutning
+  description: Den del av en yrkesutbildning där sden som utbildas ges tillfälle att praktisera yrket
+
+- action: UPDATE
+  code: RYF-IXA-CVI
+  name: Börser och handelsmarknader
+  description: Marknadsplatser där man köper och säljer olika saker till marknadspris, vanligtsvis handlas med aktier och finansiella instrument
+  
+- action: UPDATE
+  code: RYF-IXA-CVI-MAB
+  name: Aktier
+  description: En aktie är en andel i ett aktiebolag, som motsvarar en kapitalinsats från ägaren, och som bildar bolagets aktiekapital
+
+- action: UPDATE
+  code: RYF-IXA-CVI-MAB
+  name: Aktier
+  description: En aktie är en andel i ett aktiebolag, som motsvarar en kapitalinsats från ägaren, och som bildar bolagets aktiekapital
+
+- action: UPDATE
+  code: RYF-IXA-CVI-MAB-ETQ
+  name: Aktiehandel
+  description: Aktiehandeln utgörs av köp och försäljning av företagsaktier, eller av derivat baserade på företagsaktier
+
+- action: UPDATE
+  code: RYF-IXA-CVI-MAB-ETQ-OKR
+  name: Aktieförsäljning
+  description: När en aktie säljs
+
+- action: UPDATE
+  code: RYF-IXA-CVI-MAB-ETQ-CPV
+  name: Aktieköp
+  description: När en aktie köps
+
+- action: UPDATE
+  code: RYF-IXA-CVI-MAB-ETQ-LTQ
+  name: Blankning
+  description: En försäljning av ett värdepapper utan att man äger värdepappret genom att ägaren mot en avgift eller ränta lånar ut ett värdepapper till blankaren under en överenskommen tidsperiod
+
+- action: UPDATE
+  code: RYF-IXA-CVI-MAB-ETQ-LKO
+  name: Handelsstopp
+  description: Ett temporärt avbrott i den officiella handeln av en noterad aktie på en börs
+
+- action: UPDATE
+  code: RYF-IXA-CVI-MAB-ZDL
+  name: Akitekapital
+  description: Aktiekapital är en del av ett aktiebolags bundna egna kapital
+
+- action: UPDATE
+  code: RYF-IXA-CVI-MAB-EQL
+  name: Aktiekurs
+  description: En aktiekurs är priset på en enskild aktie av ett antal säljbara aktier i ett företag, vanligtvis är aktiekursen det högsta belopp som någon är villig att betala för aktie eller det lägsta belopp en aktie kan köpas för
+
+- action: UPDATE
+  code: RYF-IXA-CVI-MAB-SBY
+  name: Aktieportfölj
+  description: En aktieportfölj är en samling värdepapper som man investerar, alltså ett samlingsnamn för ens aktieinvesteringar
+
+- action: UPDATE
+  code: RYF-IXA-CVI-MAB-NXZ
+  name: Aktierekommendation
+  description: Råd som ges av finansiella rådgivare kring vilka tillgångar man ska investera i och vilka tillgångar man inte ska investera i
+
+- action: UPDATE
+  code: RYF-IXA-CVI-MAB-WVR
+  name: Aktieägare
+  description: En fysisk eller juridisk person som äger en eller flera aktier i ett aktiebolag
+
+- action: UPDATE
+  code: RYF-IXA-CVI-MAB-UOE
+  name: Algoritmisk handel
+  description: En programvarustyrd elektronisk handel, så kallad robothandel, av värdepapper, i synnerhet aktier
+
+- action: UPDATE
+  code: RYF-IXA-CVI-MAB-LPX
+  name: Avnotering
+  description: När ett bolag, vars aktier tidigare handlats på en reglerad marknad, slutar handlas där
+
+- action: UPDATE
+  code: RYF-IXA-CVI-MAB-KJN
+  name: Börsbolag
+  description: De bolag som är noterade för att dess aktier handlas på en börs
+
+- action: UPDATE
+  code: RYF-IXA-CVI-MAB-TUU
+  name: Börsrörelse
+  description: Den samlade rörelsen i priset på aktier uppåt och nedåt på en börs, så kallad volatilitet
+
+- action: UPDATE
+  code: RYF-IXA-CVI-MAB-WBL
+  name: Börsintroduktion
+  description: Börsintroduktion inträffer när man gör aktierna i ett aktiebolag tillgängliga för handel på en aktiebörs, där aktien samtidigt noteras
+
+- action: UPDATE
+  code: RYF-IXA-CVI-MAB-RSJ
+  name: Börsnotering
+  description: En börsnotering innebär att man gör bolagets aktier tillgängliga för handel på en marknadsplats
+
+- action: UPDATE
+  code: RYF-IXA-CVI-MAB-SKF
+  name: Insynshandel
+  description: Handel med värdepapper i bolag som utförs av personer med en ledande ställning i det bolag som ger ut värdepappret
+
+- action: UPDATE
+  code: RYF-IXA-CVI-MAB-UCK
+  name: Onoterat bolag
+  description: Onoterade bolag och startups är bolag vars aktier inte finns börsnoterade
+
+- action: UPDATE
+  code: RYF-IXA-CVI-MAB-JID
+  name: Preferensaktie
+  description: En aktie som vid utdelning och likvidation har företrädesrätt framför andra aktier
+
+- action: UPDATE
+  code: RYF-IXA-CVI-OSZ
+  name: Avkastning
+  description: Ett ekonomiskt begrepp som beskriver hur mycket en tillgång förändrats i värde från en tidigare tidpunkt
+
+- action: UPDATE
+  code: RYF-IXA-CVI-OSZ-CWB
+  name: Direktavkastning
+  description: Ett mått på avkastning på en investering vilket bland annat används som begrepp för utdelningens storlek i förhållande till kursen på en aktie
+
+- action: UPDATE
+  code: RYF-IXA-CVI-CCS
+  name: Fonder
+  description: En investeringsfond är en samling av värdepapper, ofta kallad för portfölj, som ägs av många människor tillsammans, vilka är andelsägare i fonden
+
+- action: UPDATE
+  code: RYF-IXA-CVI-CCS-DFC
+  name: Fondavgift
+  description: Det pris en fondförvaltare sätter för att förvalta en investeringsfond
+
+- action: UPDATE
+  code: RYF-IXA-CVI-CCS-QGU
+  name: Fondförsäkring
+  description: En form av livförsäkring (pensionsförsäkring) där placeringsrisken i fondförsäkringen bärs av försäkringstagaren
+
+- action: UPDATE
+  code: RYF-IXA-CVI-CCS-WJK
+  name: Fondförvaltare
+  description: Ett bolag som har rätt att bedriva fondverksamhet
+
+- action: UPDATE
+  code: RYF-IXA-CVI-CCS-NWM
+  name: Fondhandel
+  description: När en kund köper eller säljer andelar i en investeringsfond
+
+- action: UPDATE
+  code: RYF-IXA-CVI-CCS-QCA
+  name: Fondsparande
+  description: Sparande genom att en kunde köper andelar i aktiefonder,  även kallat investeringsfonder, med förväntan om god avkastning
