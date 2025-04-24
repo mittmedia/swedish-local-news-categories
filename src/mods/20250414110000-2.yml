@@ -1,0 +1,5345 @@
+Modifications:
+- action: ADD
+  parentName: Division 6 Dalarna södra
+  name: Division 6 Dalarna södra
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Bandy
+  name: VM Bronsmatch
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Bandy
+  name: Nationell U19 semifinal
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Bandy
+  name: Allsvenska supercupen Match 3:e plats
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Bandy
+  name: Nationell F17 norr
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Bandy
+  name: VM Semifinal
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Svenska Cupen Semifinal
+  name: Svenska Cupen Semifinal
+  level: 4
+  description: ""
+- action: ADD
+  parentName: HockeyTvåan Kvalserie västra B
+  name: HockeyTvåan Kvalserie västra B
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Bandy
+  name: Division 2 Nord-Syd
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Allsvenskan Playoff 1C
+  name: Allsvenskan Playoff 1C
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Region väst, PO 1 till förkval J20 nationell
+  name: Region väst, PO 1 till förkval J20 nationell
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 5 Dalarna uppflyttningsserie
+  name: Division 5 Dalarna uppflyttningsserie
+  level: 4
+  description: ""
+- action: ADD
+  parentName: SHL Åttondelsfinal
+  name: SHL Åttondelsfinal
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 1 GUD Uppflyttningsserie
+  name: Division 1 GUD Uppflyttningsserie
+  level: 4
+  description: ""
+- action: ADD
+  parentName: HockeyTvåan PO 2 till kvalserien HockeyEttan västra
+  name: HockeyTvåan PO 2 till kvalserien HockeyEttan västra
+  level: 4
+  description: ""
+- action: ADD
+  parentName: HockeyTvåan Kvalserie västra A
+  name: HockeyTvåan Kvalserie västra A
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Bandy
+  name: Nationell U19, SM-final
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Svenska Cupen Semifinal
+  name: Svenska Cupen Semifinal
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Bandy
+  name: Nationell F17, SM-final
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Bandy
+  name: VM Final
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Bandy
+  name: Division 1 norra uppflyttningsserie
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 2 Västmanland/Örebro, playoff 1B till div 1
+  name: Division 2 Västmanland/Örebro, playoff 1B till div 1
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 2 Västmanland/Örebro playoff 1 till div 2
+  name: Division 2 Västmanland/Örebro playoff 1 till div 2
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 2 Västmanl/Örebro Reg A
+  name: Division 2 Västmanl/Örebro Reg A
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Badminton
+  name: Badmintonligan Semifinal
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 6 Dalarna södra
+  name: Division 6 Dalarna södra
+  level: 4
+  description: ""
+- action: ADD
+  parentName: J18 Kvalserie region väst
+  name: J18 Kvalserie region väst
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Allsvenskan Nedflyttningsserie
+  name: Allsvenskan Nedflyttningsserie
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Landskamp
+  name: Landskamp
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Allsvenskan Uppflyttningsserie
+  name: Allsvenskan Uppflyttningsserie
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Bandy
+  name: Nationell U17, SM-final
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Svenska Cupen Final
+  name: Svenska Cupen Final
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Bandy
+  name: Nationell F17 semifinal
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Bandy
+  name: VM Bronsmatch
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 7 Västmanland
+  name: Division 7 Västmanland
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 2 Västmanland/Örebro, playoff 2 till div 1
+  name: Division 2 Västmanland/Örebro, playoff 2 till div 1
+  level: 4
+  description: ""
+- action: ADD
+  parentName: HockeyTrean PO till kvalserie GB/D
+  name: HockeyTrean PO till kvalserie GB/D
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Elitserien Grupp B
+  name: Elitserien Grupp B
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 6 Dalarna södra
+  name: Division 6 Dalarna södra
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 2 GUD Nedflyttningsserie
+  name: Division 2 GUD Nedflyttningsserie
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 5 Dalarna fortsättningsserie
+  name: Division 5 Dalarna fortsättningsserie
+  level: 4
+  description: ""
+- action: ADD
+  parentName: J20 Nationell topp 10
+  name: J20 Nationell topp 10
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 7 Västmanland
+  name: Division 7 Västmanland
+  level: 4
+  description: ""
+- action: ADD
+  parentName: J18 Div 1 västra AB forts
+  name: J18 Div 1 västra AB forts
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Bandy
+  name: VM Final
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Bandy
+  name: Nationell U19 kvartsfinal
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Bandy
+  name: Nationell U17 semifinal
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Svenska Cupen Match om 3:e plats
+  name: Svenska Cupen Match om 3:e plats
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Bandy
+  name: Allsvenska supercupen Final
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Bandy
+  name: VM Gruppspel
+  level: 4
+  description: ""
+- action: ADD
+  parentName: HockeyTvåan PO 2 till kvalserien HockeyEttan västra
+  name: HockeyTvåan PO 2 till kvalserien HockeyEttan västra
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Allsvenskan norr/öst
+  name: Allsvenskan norr/öst
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Elitserien Grupp A
+  name: Elitserien Grupp A
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Elitserien Grupp B
+  name: Elitserien Grupp B
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Allsvenskan Playoff 2B
+  name: Allsvenskan Playoff 2B
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 1 GUD Uppflyttningsserie
+  name: Division 1 GUD Uppflyttningsserie
+  level: 4
+  description: ""
+- action: ADD
+  parentName: HockeyTvåan Kvalserie västra A
+  name: HockeyTvåan Kvalserie västra A
+  level: 4
+  description: ""
+- action: ADD
+  parentName: J20 Åttondelsfinal
+  name: J20 Åttondelsfinal
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Allsvenskan Nedflyttningsserie
+  name: Allsvenskan Nedflyttningsserie
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Bandy
+  name: Nationell U17 kvartsfinal
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 2 Västmanland/Örebro, playoff 1A till div 1
+  name: Division 2 Västmanland/Örebro, playoff 1A till div 1
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 2 Västmanl/Örebro slutspel
+  name: Division 2 Västmanl/Örebro slutspel
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Badminton
+  name: Badmintonligan Kvartsfinal
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Allsvenskan Playoff 2B
+  name: Allsvenskan Playoff 2B
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 1 GUD Nedflyttningsserie
+  name: Division 1 GUD Nedflyttningsserie
+  level: 4
+  description: ""
+- action: ADD
+  parentName: J18 Regional väst forts
+  name: J18 Regional väst forts
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Allsvenskan Uppflyttningsserie
+  name: Allsvenskan Uppflyttningsserie
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 3 Direkt off mitt
+  name: Division 3 Direkt off mitt
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 2 GUD Uppflyttningsserie
+  name: Division 2 GUD Uppflyttningsserie
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 2 Kvalserie till div 2 GUD
+  name: Division 2 Kvalserie till div 2 GUD
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 1 GUD playoff till Allsvenskan
+  name: Division 1 GUD playoff till Allsvenskan
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Elitserien Grupp A
+  name: Elitserien Grupp A
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Bandy
+  name: Division 1 norra nedflyttningsserie
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Allsvenskan Playoff 1C
+  name: Allsvenskan Playoff 1C
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 2 GUD playoff till div 1
+  name: Division 2 GUD playoff till div 1
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 1 GUD Nedflyttningsserie
+  name: Division 1 GUD Nedflyttningsserie
+  level: 4
+  description: ""
+- action: ADD
+  parentName: J20 Semifinal
+  name: J20 Semifinal
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 6 Dalarna södra
+  name: Division 6 Dalarna södra
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 2 GUD Nedflyttningsserie
+  name: Division 2 GUD Nedflyttningsserie
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 1 GUD Nedflyttningsserie
+  name: Division 1 GUD Nedflyttningsserie
+  level: 4
+  description: ""
+- action: ADD
+  parentName: J20 Nationell topp 10
+  name: J20 Nationell topp 10
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Allsvenskan Playoff 1D
+  name: Allsvenskan Playoff 1D
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 1 GUD playoff till Allsvenskan
+  name: Division 1 GUD playoff till Allsvenskan
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 2 GUD kval till div 1
+  name: Division 2 GUD kval till div 1
+  level: 4
+  description: ""
+- action: ADD
+  parentName: J20 Nationell topp 10
+  name: J20 Nationell topp 10
+  level: 4
+  description: ""
+- action: ADD
+  parentName: J18 Åttondelsfinal
+  name: J18 Åttondelsfinal
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 2 GUD Uppflyttningsserie
+  name: Division 2 GUD Uppflyttningsserie
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 1 GUD Uppflyttningsserie
+  name: Division 1 GUD Uppflyttningsserie
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Futsal
+  name: Division 1 GUDH
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 2 GUD Uppflyttningsserie
+  name: Division 2 GUD Uppflyttningsserie
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Innebandy
+  name: Juniorallsvenskan Playoff 1:1
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 1 GUD Uppflyttningsserie
+  name: Division 1 GUD Uppflyttningsserie
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Ishockey
+  name: NDHL DamEttan västra fortsättning
+  level: 4
+  description: ""
+- action: ADD
+  parentName: J20 Åttondelsfinal
+  name: J20 Åttondelsfinal
+  level: 4
+  description: ""
+- action: ADD
+  parentName: J18 Kvartsfinal
+  name: J18 Kvartsfinal
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Bandy
+  name: Division 1 norra uppflyttningsserie
+  level: 4
+  description: ""
+- action: ADD
+  parentName: J20 Åttondelsfinal
+  name: J20 Åttondelsfinal
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Ishockey
+  name: NDHL DamEttan västra fortsättning
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 3 Semi off mitt
+  name: Division 3 Semi off mitt
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 2 GUD Nedflyttningsserie
+  name: Division 2 GUD Nedflyttningsserie
+  level: 4
+  description: ""
+- action: ADD
+  parentName: HockeyTvåan PO 2 till kvalserien HockeyEttan västra
+  name: HockeyTvåan PO 2 till kvalserien HockeyEttan västra
+  level: 4
+  description: ""
+- action: ADD
+  parentName: J20 Åttondelsfinal
+  name: J20 Åttondelsfinal
+  level: 4
+  description: ""
+- action: ADD
+  parentName: J18 SM-final
+  name: J18 SM-final
+  level: 4
+  description: ""
+- action: ADD
+  parentName: J18 Kvartsfinal
+  name: J18 Kvartsfinal
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Bandy
+  name: Division 1 norra nedflyttningsserie
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 2 Semi off mitt
+  name: Division 2 Semi off mitt
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 1 södra Svealand
+  name: Division 1 södra Svealand
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 8 Västmanland
+  name: Division 8 Västmanland
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 2 Västmanl/Örebro slutspel
+  name: Division 2 Västmanl/Örebro slutspel
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 5 Uppland norra
+  name: Division 5 Uppland norra
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 3 Direkt off mitt
+  name: Division 3 Direkt off mitt
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 2 Kvalserie till div 2 GUD
+  name: Division 2 Kvalserie till div 2 GUD
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 1 GUD Nedflyttningsserie
+  name: Division 1 GUD Nedflyttningsserie
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Region väst, PO 1 till förkval J20 nationell
+  name: Region väst, PO 1 till förkval J20 nationell
+  level: 4
+  description: ""
+- action: ADD
+  parentName: J18 Semifinal
+  name: J18 Semifinal
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Ishockey
+  name: U16 SM-slutspel, grupp C
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 2 Direkt off mitt
+  name: Division 2 Direkt off mitt
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 2 GUD Nedflyttningsserie
+  name: Division 2 GUD Nedflyttningsserie
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 2 Kvalserie till div 2 GUD
+  name: Division 2 Kvalserie till div 2 GUD
+  level: 4
+  description: ""
+- action: ADD
+  parentName: HockeyEttan Final
+  name: HockeyEttan Final
+  level: 4
+  description: ""
+- action: ADD
+  parentName: HockeyTvåan Kvalserie västra A
+  name: HockeyTvåan Kvalserie västra A
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Damtvåan öst fortsättning
+  name: Damtvåan öst fortsättning
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 1 Direkt off 2
+  name: Division 1 Direkt off 2
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 1 Direkt off 2
+  name: Division 1 Direkt off 2
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Allsvenskan Playoff 2C
+  name: Allsvenskan Playoff 2C
+  level: 4
+  description: ""
+- action: ADD
+  parentName: J18 Sextondelsfinal
+  name: J18 Sextondelsfinal
+  level: 4
+  description: ""
+- action: ADD
+  parentName: J18 Regional väst forts
+  name: J18 Regional väst forts
+  level: 4
+  description: ""
+- action: ADD
+  parentName: HockeyEttan norra, final
+  name: HockeyEttan norra, final
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Handbollsligan Kval
+  name: Handbollsligan Kval
+  level: 4
+  description: ""
+- action: ADD
+  parentName: J20 Kvalserie region väst
+  name: J20 Kvalserie region väst
+  level: 4
+  description: ""
+- action: ADD
+  parentName: J20 Nationell forts
+  name: J20 Nationell forts
+  level: 4
+  description: ""
+- action: ADD
+  parentName: J18 Åttondelsfinal
+  name: J18 Åttondelsfinal
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Ishockey
+  name: Förkval till SDHL
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Badminton
+  name: Division 2 mellan A
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Allsvenskan Playoff 1F
+  name: Allsvenskan Playoff 1F
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 1 GUD Uppflyttningsserie
+  name: Division 1 GUD Uppflyttningsserie
+  level: 4
+  description: ""
+- action: ADD
+  parentName: J20 Åttondelsfinal
+  name: J20 Åttondelsfinal
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Allsvenskan Uppflyttningsserie
+  name: Allsvenskan Uppflyttningsserie
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 2 Västmanland/Örebro, playoff 2 till div 1
+  name: Division 2 Västmanland/Örebro, playoff 2 till div 1
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Innebandy
+  name: Juniorallsvenskan Kval till JSM
+  level: 4
+  description: ""
+- action: ADD
+  parentName: HockeyTvåan PO 2 till kvalserien HockeyEttan västra
+  name: HockeyTvåan PO 2 till kvalserien HockeyEttan västra
+  level: 4
+  description: ""
+- action: ADD
+  parentName: J20 Nationell forts
+  name: J20 Nationell forts
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 3 mellersta
+  name: Division 3 mellersta
+  level: 4
+  description: ""
+- action: ADD
+  parentName: J18 Sextondelsfinal
+  name: J18 Sextondelsfinal
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 2 Norrland vår södra
+  name: Division 2 Norrland vår södra
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 1 GUD Uppflyttningsserie
+  name: Division 1 GUD Uppflyttningsserie
+  level: 4
+  description: ""
+- action: ADD
+  parentName: J20 Nationell topp 10
+  name: J20 Nationell topp 10
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Ishockey
+  name: NDHL DamEttan västra fortsättning
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Allsvenskan Playoff 1E
+  name: Allsvenskan Playoff 1E
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 2 Västmanland/Örebro playoff 1 till div 2
+  name: Division 2 Västmanland/Örebro playoff 1 till div 2
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Innebandy
+  name: Juniorallsvenskan Playoff 2
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 2 Västmanl/Örebro Reg A
+  name: Division 2 Västmanl/Örebro Reg A
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 5 Uppland södra
+  name: Division 5 Uppland södra
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 5 Uppland nordöstra
+  name: Division 5 Uppland nordöstra
+  level: 4
+  description: ""
+- action: ADD
+  parentName: HockeyTvåan PO 2 till kvalserien HockeyEttan östra
+  name: HockeyTvåan PO 2 till kvalserien HockeyEttan östra
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Bandy
+  name: Division 2 Nord-Syd
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 2 GUD Nedflyttningsserie
+  name: Division 2 GUD Nedflyttningsserie
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Kval till SDHL
+  name: Kval till SDHL
+  level: 4
+  description: ""
+- action: ADD
+  parentName: SHL Åttondelsfinal
+  name: SHL Åttondelsfinal
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Allsvenskan Playoff 3B
+  name: Allsvenskan Playoff 3B
+  level: 4
+  description: ""
+- action: ADD
+  parentName: J20 Åttondelsfinal
+  name: J20 Åttondelsfinal
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Ishockey
+  name: Förkval till SDHL
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 6 Dalarna södra
+  name: Division 6 Dalarna södra
+  level: 4
+  description: ""
+- action: ADD
+  parentName: HockeyTvåan Kvalserie västra A
+  name: HockeyTvåan Kvalserie västra A
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 2 Västmanland/Örebro, playoff 1A till div 1
+  name: Division 2 Västmanland/Örebro, playoff 1A till div 1
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 2 Västmanl/Örebro slutspel
+  name: Division 2 Västmanl/Örebro slutspel
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 8 Uppland södra
+  name: Division 8 Uppland södra
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 5 Uppland sydvästra
+  name: Division 5 Uppland sydvästra
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 2 GUD Uppflyttningsserie
+  name: Division 2 GUD Uppflyttningsserie
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 1 södra Svealand
+  name: Division 1 södra Svealand
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: Reserv Stockholm SSH 6 norra
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 1 södra Svealand
+  name: Division 1 södra Svealand
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 2 Playoff 1B till div 1, Norrland
+  name: Division 2 Playoff 1B till div 1, Norrland
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 2 Playoff 1B till div 1, Norrland
+  name: Division 2 Playoff 1B till div 1, Norrland
+  level: 4
+  description: ""
+- action: ADD
+  parentName: J18 Sextondelsfinal
+  name: J18 Sextondelsfinal
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Ishockey
+  name: HockeyFyran Uppland
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Innebandy
+  name: Juniorallsvenskan Playoff 1:2
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 1 Playoff 1A till allsvenskan, region Svealand
+  name: Division 1 Playoff 1A till allsvenskan, region Svealand
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Bandy
+  name: Division 1 norra uppflyttningsserie
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 1 östra Svealand
+  name: Division 1 östra Svealand
+  level: 4
+  description: ""
+- action: ADD
+  parentName: HockeyTvåan PO 1 till kvalserien HockeyEttan östra
+  name: HockeyTvåan PO 1 till kvalserien HockeyEttan östra
+  level: 4
+  description: ""
+- action: ADD
+  parentName: HockeyTrean PO till kvalserie GB/D
+  name: HockeyTrean PO till kvalserie GB/D
+  level: 4
+  description: ""
+- action: ADD
+  parentName: HockeyTvåan Kvalserie östra B
+  name: HockeyTvåan Kvalserie östra B
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: Reserv Stockholm SSH 2
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Allsvenskan Playoff 2D
+  name: Allsvenskan Playoff 2D
+  level: 4
+  description: ""
+- action: ADD
+  parentName: J20 Region norr topp 8
+  name: J20 Region norr topp 8
+  level: 4
+  description: ""
+- action: ADD
+  parentName: J18 Div 1 norra CD forts
+  name: J18 Div 1 norra CD forts
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 2 Mittsverige playoff till H1
+  name: Division 2 Mittsverige playoff till H1
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 1 Norrland PO 2 till allsvenskan
+  name: Division 1 Norrland PO 2 till allsvenskan
+  level: 4
+  description: ""
+- action: ADD
+  parentName: HockeyTvåan norra B
+  name: HockeyTvåan norra B
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Futsal
+  name: Division 1 GUDH
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Ishockey
+  name: HockeyFyran Uppland
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 5 Stockholm C
+  name: Division 5 Stockholm C
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 3 Stockholm A
+  name: Division 3 Stockholm A
+  level: 4
+  description: ""
+- action: ADD
+  parentName: J20 Region norr Play Off 3
+  name: J20 Region norr Play Off 3
+  level: 4
+  description: ""
+- action: ADD
+  parentName: HockeyTvåan Alltvåan norra AB
+  name: HockeyTvåan Alltvåan norra AB
+  level: 4
+  description: ""
+- action: ADD
+  parentName: J18 Regional norr forts
+  name: J18 Regional norr forts
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 6 Uppland slutspelsgrupp 1
+  name: Division 6 Uppland slutspelsgrupp 1
+  level: 4
+  description: ""
+- action: ADD
+  parentName: HockeyTrean Playoff 2 Värmland/Västmanland/Örebro
+  name: HockeyTrean Playoff 2 Värmland/Västmanland/Örebro
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 2 GUD Nedflyttningsserie
+  name: Division 2 GUD Nedflyttningsserie
+  level: 4
+  description: ""
+- action: ADD
+  parentName: J18 Regional norr forts
+  name: J18 Regional norr forts
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 5 Uppland norra
+  name: Division 5 Uppland norra
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 2 Playoff 1B till div 1 region Svealand
+  name: Division 2 Playoff 1B till div 1 region Svealand
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Playoff till J20 Nationell
+  name: Playoff till J20 Nationell
+  level: 4
+  description: ""
+- action: ADD
+  parentName: J18 Regional norr forts
+  name: J18 Regional norr forts
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Allsvenskan Uppflyttningsserie
+  name: Allsvenskan Uppflyttningsserie
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: Reserv Stockholm SSH 4
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Allsvenskan Playoff 1H
+  name: Allsvenskan Playoff 1H
+  level: 4
+  description: ""
+- action: ADD
+  parentName: HockeyTrean Kvalserie östra B
+  name: HockeyTrean Kvalserie östra B
+  level: 4
+  description: ""
+- action: ADD
+  parentName: P19 Div 1 Region 6 vårserie
+  name: P19 Div 1 Region 6 vårserie
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 2 Mittsverige playoff till H1
+  name: Division 2 Mittsverige playoff till H1
+  level: 4
+  description: ""
+- action: ADD
+  parentName: J20 Region norr Play Off 2
+  name: J20 Region norr Play Off 2
+  level: 4
+  description: ""
+- action: ADD
+  parentName: J20 Nationell forts
+  name: J20 Nationell forts
+  level: 4
+  description: ""
+- action: ADD
+  parentName: J20 Region norr topp 8
+  name: J20 Region norr topp 8
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Allsvenskan Playoff 1A
+  name: Allsvenskan Playoff 1A
+  level: 4
+  description: ""
+- action: ADD
+  parentName: HockeyEttan norra, final
+  name: HockeyEttan norra, final
+  level: 4
+  description: ""
+- action: ADD
+  parentName: J20 Nationell forts
+  name: J20 Nationell forts
+  level: 4
+  description: ""
+- action: ADD
+  parentName: J20 Region norr Play Off 4
+  name: J20 Region norr Play Off 4
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 2 Norrland vår södra
+  name: Division 2 Norrland vår södra
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 1 Semi off
+  name: Division 1 Semi off
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 1 SM-final
+  name: Division 1 SM-final
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 6 Dalarna södra
+  name: Division 6 Dalarna södra
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 2 Norrland vår södra
+  name: Division 2 Norrland vår södra
+  level: 4
+  description: ""
+- action: ADD
+  parentName: J20 Region norr Play Off 3
+  name: J20 Region norr Play Off 3
+  level: 4
+  description: ""
+- action: ADD
+  parentName: J18 Sextondelsfinal
+  name: J18 Sextondelsfinal
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 2 Mittsverige playoff till H1
+  name: Division 2 Mittsverige playoff till H1
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Allsvenskan Playoff 1D
+  name: Allsvenskan Playoff 1D
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 1 Playoff 2 till allsvenskan, region Svealand
+  name: Division 1 Playoff 2 till allsvenskan, region Svealand
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 5 Höglandet
+  name: Division 5 Höglandet
+  level: 4
+  description: ""
+- action: ADD
+  parentName: HockeyTvåan Kvalserie södra A
+  name: HockeyTvåan Kvalserie södra A
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 1 GUD Uppflyttningsserie
+  name: Division 1 GUD Uppflyttningsserie
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Bandy
+  name: Division 1 norra nedflyttningsserie
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Regionserien Final
+  name: Regionserien Final
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 2 Mittsverige playoff till H1
+  name: Division 2 Mittsverige playoff till H1
+  level: 4
+  description: ""
+- action: ADD
+  parentName: J20 Region norr topp 8
+  name: J20 Region norr topp 8
+  level: 4
+  description: ""
+- action: ADD
+  parentName: J20 Region norr Play Off 2
+  name: J20 Region norr Play Off 2
+  level: 4
+  description: ""
+- action: ADD
+  parentName: J20 Nationell forts
+  name: J20 Nationell forts
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Allsvenskan Playoff 3A
+  name: Allsvenskan Playoff 3A
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 2 Västmanland/Örebro, playoff 1B till div 1
+  name: Division 2 Västmanland/Örebro, playoff 1B till div 1
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 4 Småland nordvästra
+  name: Division 4 Småland nordvästra
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 2 Direkt off 1, västra
+  name: Division 2 Direkt off 1, västra
+  level: 4
+  description: ""
+- action: ADD
+  parentName: HockeyTrean PlayOff inför kvalserie till HockeyTvåan syd
+  name: HockeyTrean PlayOff inför kvalserie till HockeyTvåan syd
+  level: 4
+  description: ""
+- action: ADD
+  parentName: J20 Åttondelsfinal
+  name: J20 Åttondelsfinal
+  level: 4
+  description: ""
+- action: ADD
+  parentName: J20 Region norr forts
+  name: J20 Region norr forts
+  level: 4
+  description: ""
+- action: ADD
+  parentName: J20 Region norr Play Off 1
+  name: J20 Region norr Play Off 1
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 1 Semi off
+  name: Division 1 Semi off
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Allsvenskan Playoff 2B
+  name: Allsvenskan Playoff 2B
+  level: 4
+  description: ""
+- action: ADD
+  parentName: J20 Nationell forts
+  name: J20 Nationell forts
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 5 Västergötland östra
+  name: Division 5 Västergötland östra
+  level: 4
+  description: ""
+- action: ADD
+  parentName: HockeyTrean södra A fortsättning
+  name: HockeyTrean södra A fortsättning
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 6 Aneby
+  name: Division 6 Aneby
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 4 Småland norra
+  name: Division 4 Småland norra
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 2 Semi off 1, västra
+  name: Division 2 Semi off 1, västra
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 3 Småland kval till div 3 norra
+  name: Division 3 Småland kval till div 3 norra
+  level: 4
+  description: ""
+- action: ADD
+  parentName: J20 Nationell topp 10
+  name: J20 Nationell topp 10
+  level: 4
+  description: ""
+- action: ADD
+  parentName: J20 Åttondelsfinal
+  name: J20 Åttondelsfinal
+  level: 4
+  description: ""
+- action: ADD
+  parentName: HockeyEttan södra, final
+  name: HockeyEttan södra, final
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Playoff till J20 Nationell
+  name: Playoff till J20 Nationell
+  level: 4
+  description: ""
+- action: ADD
+  parentName: J18 Kvalserie region syd
+  name: J18 Kvalserie region syd
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 1 Direkt off 1
+  name: Division 1 Direkt off 1
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 1 Playoff 1A till allsvenskan, region Svealand
+  name: Division 1 Playoff 1A till allsvenskan, region Svealand
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Futsal
+  name: Division 3 Västergötland norra
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 4 Väst östra
+  name: Division 4 Väst östra
+  level: 4
+  description: ""
+- action: ADD
+  parentName: HockeyEttan södra, kvartsfinal
+  name: HockeyEttan södra, kvartsfinal
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 3 Småland kval till div 3 södra
+  name: Division 3 Småland kval till div 3 södra
+  level: 4
+  description: ""
+- action: ADD
+  parentName: HockeyEttan södra, semifinal
+  name: HockeyEttan södra, semifinal
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Allsvenskan Nedflyttningsserie
+  name: Allsvenskan Nedflyttningsserie
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 6 Aneby
+  name: Division 6 Aneby
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 5 Höglandet
+  name: Division 5 Höglandet
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 5 Vimmerby
+  name: Division 5 Vimmerby
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 2 Östergötland kval till div 2
+  name: Division 2 Östergötland kval till div 2
+  level: 4
+  description: ""
+- action: ADD
+  parentName: HockeyTrean Alltrean södra A
+  name: HockeyTrean Alltrean södra A
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 2 Direkt off mitt
+  name: Division 2 Direkt off mitt
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Ishockey
+  name: NDHL DamEttan västra fortsättning
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 4 Väst sydost
+  name: Division 4 Väst sydost
+  level: 4
+  description: ""
+- action: ADD
+  parentName: HockeyTrean Alltrean södra B
+  name: HockeyTrean Alltrean södra B
+  level: 4
+  description: ""
+- action: ADD
+  parentName: HockeyEttan Final
+  name: HockeyEttan Final
+  level: 4
+  description: ""
+- action: ADD
+  parentName: HockeyEttan södra, Play In
+  name: HockeyEttan södra, Play In
+  level: 4
+  description: ""
+- action: ADD
+  parentName: J18 Regional syd forts
+  name: J18 Regional syd forts
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Basketettan södra
+  name: Basketettan södra
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 5 Alvesta
+  name: Division 5 Alvesta
+  level: 4
+  description: ""
+- action: ADD
+  parentName: HockeyTvåan PO 2 till kvalserien HockeyEttan södra
+  name: HockeyTvåan PO 2 till kvalserien HockeyEttan södra
+  level: 4
+  description: ""
+- action: ADD
+  parentName: HockeyTvåan södra vår
+  name: HockeyTvåan södra vår
+  level: 4
+  description: ""
+- action: ADD
+  parentName: J20 Region syd vår
+  name: J20 Region syd vår
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 2 Småland playoff till div 2
+  name: Division 2 Småland playoff till div 2
+  level: 4
+  description: ""
+- action: ADD
+  parentName: HockeyTvåan Alltvåan södra
+  name: HockeyTvåan Alltvåan södra
+  level: 4
+  description: ""
+- action: ADD
+  parentName: J18 Sextondelsfinal
+  name: J18 Sextondelsfinal
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 4 Småland nordvästra
+  name: Division 4 Småland nordvästra
+  level: 4
+  description: ""
+- action: ADD
+  parentName: HockeyEttan södra, kvartsfinal
+  name: HockeyEttan södra, kvartsfinal
+  level: 4
+  description: ""
+- action: ADD
+  parentName: J20 Region syd topp 6
+  name: J20 Region syd topp 6
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Allsvenskan Uppflyttningsserie
+  name: Allsvenskan Uppflyttningsserie
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 4 Småland norra
+  name: Division 4 Småland norra
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Allsvenskan Playoff 2E
+  name: Allsvenskan Playoff 2E
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 1 södra Götaland
+  name: Division 1 södra Götaland
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 2 Småland Playoff till Division 1
+  name: Division 2 Småland Playoff till Division 1
+  level: 4
+  description: ""
+- action: ADD
+  parentName: HockeyTvåan PO 1 till kvalserien HockeyEttan södra
+  name: HockeyTvåan PO 1 till kvalserien HockeyEttan södra
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 5 Alvesta
+  name: Division 5 Alvesta
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 1 Playoff 1 till allsvenskan, Götaland
+  name: Division 1 Playoff 1 till allsvenskan, Götaland
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 1 Västergötland playoff 2 till Allsvenskan
+  name: Division 1 Västergötland playoff 2 till Allsvenskan
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 3 Småland kval till div 3 norra
+  name: Division 3 Småland kval till div 3 norra
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Basket
+  name: Div.2 vår
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Div.1 södra
+  name: Div.1 södra
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: Div.5 norra
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: Svenska Cupen 24/25 Grupp 5
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Svenska Cupen Match om 3:e plats
+  name: Svenska Cupen Match om 3:e plats
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Allsvenskan Playoff 1I
+  name: Allsvenskan Playoff 1I
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Innebandy
+  name: Div.3 Skåne
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Div.1 södra
+  name: Div.1 södra
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 2 sydöstra Götaland
+  name: Division 2 sydöstra Götaland
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Förkval inför kval till J20 Nationell region syd
+  name: Förkval inför kval till J20 Nationell region syd
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Allsvenskan Playoff 1I
+  name: Allsvenskan Playoff 1I
+  level: 4
+  description: ""
+- action: ADD
+  parentName: HockeyTvåan södra vår
+  name: HockeyTvåan södra vår
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 2 Västergötland playoff 1 till div 1
+  name: Division 2 Västergötland playoff 1 till div 1
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 4 Playoff 1 till div 3 Västergötland
+  name: Division 4 Playoff 1 till div 3 Västergötland
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: Svenska Cupen 24/25 Kvartsfinal
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Handboll
+  name: Div.2 Kval till div 2 södra
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Innebandy
+  name: Div.3 kvalserie till div 3
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Innebandy
+  name: Div.3 Kvalserie till div 2 Skåne
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Allsvenskan Playoff 3C
+  name: Allsvenskan Playoff 3C
+  level: 4
+  description: ""
+- action: ADD
+  parentName: HockeyTvåan Alltvåan södra
+  name: HockeyTvåan Alltvåan södra
+  level: 4
+  description: ""
+- action: ADD
+  parentName: HockeyTrean södra C fortsättning
+  name: HockeyTrean södra C fortsättning
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 6 Töreboda
+  name: Division 6 Töreboda
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 1 Playoff 2 till allsvenskan, Götaland
+  name: Division 1 Playoff 2 till allsvenskan, Götaland
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 1 Västergötland playoff 1 till Allsvenskan
+  name: Division 1 Västergötland playoff 1 till Allsvenskan
+  level: 4
+  description: ""
+- action: ADD
+  parentName: HockeyTrean Alltrean södra A
+  name: HockeyTrean Alltrean södra A
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Innebandy
+  name: Div.1 södra Götaland
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: Svenska Cupen 24/25 Semifinal
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Div.1 södra
+  name: Div.1 södra
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Svenska Cupen Kvartsfinal
+  name: Svenska Cupen Kvartsfinal
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Innebandy
+  name: Div.1 Kval till region södra
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Innebandy
+  name: Div.3 uppflyttningsserie
+  level: 4
+  description: ""
+- action: ADD
+  parentName: HockeyTvåan Alltvåan södra
+  name: HockeyTvåan Alltvåan södra
+  level: 4
+  description: ""
+- action: ADD
+  parentName: J20 Åttondelsfinal
+  name: J20 Åttondelsfinal
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Nations League Grupp B1
+  name: Nations League Grupp B1
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Nations League Grupp C2
+  name: Nations League Grupp C2
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 4 Småland nordvästra
+  name: Division 4 Småland nordvästra
+  level: 4
+  description: ""
+- action: ADD
+  parentName: HockeyTvåan PO 1 till kvalserien HockeyEttan södra
+  name: HockeyTvåan PO 1 till kvalserien HockeyEttan södra
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 2 Västergötland playoff 2 till div 1
+  name: Division 2 Västergötland playoff 2 till div 1
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 4 Västergötland
+  name: Division 4 Västergötland
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 4 Småland norra
+  name: Division 4 Småland norra
+  level: 4
+  description: ""
+- action: ADD
+  parentName: HockeyTvåan Kvalserie södra A
+  name: HockeyTvåan Kvalserie södra A
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Basketettan södra
+  name: Basketettan södra
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: Svenska Cupen 24/25 Final
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: Div.3 nordvästra
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Svenska Cupen Åttondelsfinal
+  name: Svenska Cupen Åttondelsfinal
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Svenska Cupen Final
+  name: Svenska Cupen Final
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Innebandy
+  name: Div.1 södra Götaland
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Innebandy
+  name: Div.3 fortsättningsserie
+  level: 4
+  description: ""
+- action: ADD
+  parentName: HockeyTvåan PO 2 till kvalserien HockeyEttan södra
+  name: HockeyTvåan PO 2 till kvalserien HockeyEttan södra
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Div.1 södra
+  name: Div.1 södra
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Nations League Grupp A1
+  name: Nations League Grupp A1
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Nations League Grupp B2
+  name: Nations League Grupp B2
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Nations League Grupp C3
+  name: Nations League Grupp C3
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Nations League Semifinal
+  name: Nations League Semifinal
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Champions League Play off till slutspel
+  name: Champions League Play off till slutspel
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Europa League Play off till slutspel
+  name: Europa League Play off till slutspel
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Conference League Sextondelsfinal
+  name: Conference League Sextondelsfinal
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: Nations League Grupp A1
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: EM Grupp B
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Handboll
+  name: VM Grupp F
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 5 Västergötland västra
+  name: Division 5 Västergötland västra
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 4 Playoff 2 till div 3 Västergötland
+  name: Division 4 Playoff 2 till div 3 Västergötland
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 6 Aneby
+  name: Division 6 Aneby
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: Svenska Cupen 24/25 Grupp 8
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Svenska Cupen Semifinal
+  name: Svenska Cupen Semifinal
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Innebandy
+  name: Div.2 kval till Division 2
+  level: 4
+  description: ""
+- action: ADD
+  parentName: HockeyTvåan PO 1 till kvalserien HockeyEttan södra
+  name: HockeyTvåan PO 1 till kvalserien HockeyEttan södra
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Nations League Grupp B3
+  name: Nations League Grupp B3
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Nations League Grupp C4
+  name: Nations League Grupp C4
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Nations League Kval till Liga B
+  name: Nations League Kval till Liga B
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: Nations League Grupp A2
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: EM Grupp A
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 2 Kval till div 2 södra
+  name: Division 2 Kval till div 2 södra
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Handboll
+  name: VM Grupp C
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Handboll
+  name: VM Kvartsfinal
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Handboll
+  name: VM Grupp 3
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Handboll
+  name: VM Match om 27:e plats
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Handboll
+  name: VM Match om 31:a plats
+  level: 4
+  description: ""
+- action: ADD
+  parentName: J20 Nationell topp 10
+  name: J20 Nationell topp 10
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Ishockey
+  name: Förkval till SDHL
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Nations League Grupp A2
+  name: Nations League Grupp A2
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Nations League Grupp A4
+  name: Nations League Grupp A4
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Nations League Grupp C1
+  name: Nations League Grupp C1
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Nations League Kvartsfinal
+  name: Nations League Kvartsfinal
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Nations League Kval till Liga C
+  name: Nations League Kval till Liga C
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Conference League
+  name: Conference League
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: EM Grupp C
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Handboll
+  name: VM Grupp D
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Handboll
+  name: VM Grupp 3
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Handboll
+  name: VM Grupp 4
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Handbollsligan Kval
+  name: Handbollsligan Kval
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: EM Grupp C
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Handboll
+  name: Semifinal
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Handboll
+  name: VM Grupp A
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Handboll
+  name: VM Semifinal
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Ishockey
+  name: CHL Åttondelsfinal
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Ishockey
+  name: CHL Kvartsfinal
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Ishockey
+  name: OS-kval Grupp H
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: Svenska Cupen 24/25 Omgång 1
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: Svenska Cupen 24/25 Omgång 2
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: Svenska Cupen 24/25 Grupp 2
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Champions League Andra kvalomgången
+  name: Champions League Andra kvalomgången
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Superligan Playoff 1A till SSL
+  name: Superligan Playoff 1A till SSL
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 2 sydöstra Götaland
+  name: Division 2 sydöstra Götaland
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Nations League Grupp A3
+  name: Nations League Grupp A3
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Nations League Grupp B4
+  name: Nations League Grupp B4
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Nations League Grupp D1
+  name: Nations League Grupp D1
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Nations League Kval till Liga A
+  name: Nations League Kval till Liga A
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Europa League Åttondelsfinal
+  name: Europa League Åttondelsfinal
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: Nations League Grupp A4
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Handboll
+  name: VM Grupp B
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Handboll
+  name: VM Grupp E
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Handboll
+  name: VM Grupp H
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Handboll
+  name: VM Placeringsgrupp 1
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Handboll
+  name: VM Match om 25:e plats
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Handboll
+  name: VM Match om 29:e plats
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Handboll
+  name: EM Grupp F
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Handboll
+  name: EM Final
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 2 Skåne playoff 1:2 till div 1
+  name: Division 2 Skåne playoff 1:2 till div 1
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 3 Skåne
+  name: Division 3 Skåne
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Handboll
+  name: VM Grupp D
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Ishockey
+  name: NHL 4 nations Final
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Ishockey
+  name: Euro Hockey Tour Sweden Hockey Games
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Ishockey
+  name: Euro Hockey Tour Finland, final
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: Svenska Cupen 24/25 Grupp 7
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: Svenska Cupen 24/25 Omgång 3
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: Svenska Cupen 24/25 Grupp 4
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Europa League Första kvalomgången
+  name: Europa League Första kvalomgången
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Conference League Andra kvalomgången
+  name: Conference League Andra kvalomgången
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Nations League Grupp C1
+  name: Nations League Grupp C1
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Nations League Grupp D2
+  name: Nations League Grupp D2
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Champions League
+  name: Champions League
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Europa League
+  name: Europa League
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Conference League Åttondelsfinal
+  name: Conference League Åttondelsfinal
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: Nations League Grupp A3
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: EM Grupp D
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Handboll
+  name: VM Grupp A
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Handboll
+  name: VM Grupp G
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Handboll
+  name: VM Semifinal
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Bandy
+  name: VM Bronsmatch
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: EM Grupp A
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: EM Grupp B
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Handboll
+  name: EM Grupp 2
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 2 Skåne playoff 1:1 till div 1
+  name: Division 2 Skåne playoff 1:1 till div 1
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 3 Skåne kvalserie till div 3
+  name: Division 3 Skåne kvalserie till div 3
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Handboll
+  name: VM Kvartsfinal
+  level: 4
+  description: ""
+- action: ADD
+  parentName: NHL 4 nations
+  name: NHL 4 nations
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Ishockey
+  name: Euro Hockey Tour Finland, match om 5:e plats
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Ishockey
+  name: Euro Hockey Tour Finland, match om 3:e plats
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 2 Skåne vår
+  name: Division 2 Skåne vår
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 5 Skåne norra
+  name: Division 5 Skåne norra
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: Svenska Cupen 24/25 Grupp 3
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: Svenska Cupen 24/25 Omgång 1
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: Svenska Cupen 24/25 Grupp 3
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Champions League Tredje kvalomgången
+  name: Champions League Tredje kvalomgången
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Europa League Tredje kvalomgången
+  name: Europa League Tredje kvalomgången
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Conference League Play off
+  name: Conference League Play off
+  level: 4
+  description: ""
+- action: ADD
+  parentName: EM Grupp A
+  name: EM Grupp A
+  level: 4
+  description: ""
+- action: ADD
+  parentName: EM Grupp C
+  name: EM Grupp C
+  level: 4
+  description: ""
+- action: ADD
+  parentName: EM Kvartsfinal
+  name: EM Kvartsfinal
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Serie A
+  name: Serie A
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Handboll
+  name: VM Grupp 2
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Handboll
+  name: VM Placeringsgrupp 2
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Bandy
+  name: VM Final
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Allsvenskan Semi off 1
+  name: Allsvenskan Semi off 1
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Handboll
+  name: European League Tredje kvalomgången
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: EM Grupp D
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Handboll
+  name: EM Grupp 1
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Handboll
+  name: EM Match om 5:e plats
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Skåne kval till Division 2
+  name: Skåne kval till Division 2
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Handboll
+  name: VM Grupp C
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Handboll
+  name: VM Grupp B
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Ishockey
+  name: CHL Semifinal
+  level: 4
+  description: ""
+- action: ADD
+  parentName: CHL
+  name: CHL
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Ishockey
+  name: Euro Hockey Tour Finland, semifinal
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Ishockey
+  name: Euro Hockey Tour Finland, grupp A
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: Svenska Cupen 24/25 Grupp 1
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: Svenska Cupen 24/25 Grupp 6
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 2 sydöstra Götaland
+  name: Division 2 sydöstra Götaland
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: Svenska Cupen 24/25 Omgång 2
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: Svenska Cupen 24/25 Semifinal
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Europa League Play off
+  name: Europa League Play off
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Conference League Tredje kvalomgången
+  name: Conference League Tredje kvalomgången
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Nations League Semifinal
+  name: Nations League Semifinal
+  level: 4
+  description: ""
+- action: ADD
+  parentName: EM Grupp E
+  name: EM Grupp E
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Nedflyttningsgrupp
+  name: Nedflyttningsgrupp
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Allsvenskan Playoff 2E
+  name: Allsvenskan Playoff 2E
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 1 södra Götaland
+  name: Division 1 södra Götaland
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: Svenska Cupen 24/25 Grupp 5
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: Svenska Cupen 24/25 Final
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 4 Småland sydöstra
+  name: Division 4 Småland sydöstra
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 5 Vimmerby
+  name: Division 5 Vimmerby
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Handboll
+  name: European League Andra kvalomgången
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Handboll
+  name: EM Grupp E
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Handboll
+  name: EM Bronsmatch
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 2 Skåne playoff 2 till div 1
+  name: Division 2 Skåne playoff 2 till div 1
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Innebandy
+  name: VM Bronsmatch
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Bandy
+  name: VM Final
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Bandy
+  name: VM Bronsmatch
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Ishockey
+  name: CHL Final
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Ishockey
+  name: Euro Hockey Tour Finland, grupp B
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: Svenska Cupen 24/25 Grupp 4
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: Svenska Cupen 24/25 Grupp 2
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: Svenska Cupen 24/25 Grupp 1
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Champions League Första kvalomgången
+  name: Champions League Första kvalomgången
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Champions League Play off
+  name: Champions League Play off
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Europa League
+  name: Europa League
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Conference League Första kvalomgången
+  name: Conference League Första kvalomgången
+  level: 4
+  description: ""
+- action: ADD
+  parentName: EM Grupp B
+  name: EM Grupp B
+  level: 4
+  description: ""
+- action: ADD
+  parentName: EM Åttondelsfinal
+  name: EM Åttondelsfinal
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Mästerskapsslutspel
+  name: Mästerskapsslutspel
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: Svenska Cupen 24/25 Grupp 6
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: Svenska Cupen 24/25 Kvartsfinal
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: Svenska Cupen 24/25 Omgång 3
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: Svenska Cupen 24/25 Grupp 2
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Champions League Play off
+  name: Champions League Play off
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Champions League Tredje kvalomgången
+  name: Champions League Tredje kvalomgången
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Europa League Andra kvalomgången
+  name: Europa League Andra kvalomgången
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Conference League
+  name: Conference League
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Nations League Kvartsfinal
+  name: Nations League Kvartsfinal
+  level: 4
+  description: ""
+- action: ADD
+  parentName: EM Grupp F
+  name: EM Grupp F
+  level: 4
+  description: ""
+- action: ADD
+  parentName: EM Final
+  name: EM Final
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 1 södra Götaland
+  name: Division 1 södra Götaland
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Ishockey
+  name: Förkval till SDHL
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Basketettan södra
+  name: Basketettan södra
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: Svenska Cupen 24/25 Grupp 7
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 2 sydöstra Götaland
+  name: Division 2 sydöstra Götaland
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: Svenska Cupen 24/25 Omgång 2
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: Svenska Cupen 24/25 Grupp 3
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Champions League Play off till slutspel
+  name: Champions League Play off till slutspel
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Champions League Andra kvalomgången
+  name: Champions League Andra kvalomgången
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Europa League
+  name: Europa League
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Europa League Andra kvalomgången
+  name: Europa League Andra kvalomgången
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Conference League Andra kvalomgången
+  name: Conference League Andra kvalomgången
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 2 Småland playoff till div 2
+  name: Division 2 Småland playoff till div 2
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Innebandy
+  name: Juniorallsvenskan Grupp J
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 2 Småland Playoff till Division 1
+  name: Division 2 Småland Playoff till Division 1
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Innebandy
+  name: Juniorallsvenskan Kval till JSM
+  level: 4
+  description: ""
+- action: ADD
+  parentName: J20 Kvalserie B region syd
+  name: J20 Kvalserie B region syd
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Bandy
+  name: VM Bronsmatch
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Handboll
+  name: VM Grupp A
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Handboll
+  name: VM Kvartsfinal
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 2 sydöstra Götaland
+  name: Division 2 sydöstra Götaland
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Europa League Tredje kvalomgången
+  name: Europa League Tredje kvalomgången
+  level: 4
+  description: ""
+- action: ADD
+  parentName: EM Grupp D
+  name: EM Grupp D
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Allsvenskan Playoff 1J
+  name: Allsvenskan Playoff 1J
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: Svenska Cupen 24/25 Omgång 2
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: Svenska Cupen 24/25 Grupp 8
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 5 Kalmar/Öland
+  name: Division 5 Kalmar/Öland
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: Svenska Cupen 24/25 Omgång 1
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: Svenska Cupen 24/25 Semifinal
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Europa League Play off till slutspel
+  name: Europa League Play off till slutspel
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Conference League Sextondelsfinal
+  name: Conference League Sextondelsfinal
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Conference League Tredje kvalomgången
+  name: Conference League Tredje kvalomgången
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Futsal
+  name: Division 2 Småland NV
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 3 Småland kval till div 3 norra
+  name: Division 3 Småland kval till div 3 norra
+  level: 4
+  description: ""
+- action: ADD
+  parentName: J18 Regional syd forts
+  name: J18 Regional syd forts
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Handboll
+  name: VM Grupp C
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Europa League Play off till slutspel
+  name: Europa League Play off till slutspel
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Europa League Andra kvalomgången
+  name: Europa League Andra kvalomgången
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: Svenska Cupen 24/25 Semifinal
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: Svenska Cupen 24/25 Grupp 4
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Europa League Åttondelsfinal
+  name: Europa League Åttondelsfinal
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Europa League Tredje kvalomgången
+  name: Europa League Tredje kvalomgången
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Conference League Åttondelsfinal
+  name: Conference League Åttondelsfinal
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 3 Småland kval till div 3 södra
+  name: Division 3 Småland kval till div 3 södra
+  level: 4
+  description: ""
+- action: ADD
+  parentName: HockeyTrean södra C fortsättning
+  name: HockeyTrean södra C fortsättning
+  level: 4
+  description: ""
+- action: ADD
+  parentName: J20 Juniorettan syd
+  name: J20 Juniorettan syd
+  level: 4
+  description: ""
+- action: ADD
+  parentName: J20 Div 1 C syd vår
+  name: J20 Div 1 C syd vår
+  level: 4
+  description: ""
+- action: ADD
+  parentName: J18 Div 1 syd C forts
+  name: J18 Div 1 syd C forts
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Handboll
+  name: VM Grupp B
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: Svenska Cupen 24/25 Omgång 2
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 4 Småland södra
+  name: Division 4 Småland södra
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Europa League Play off
+  name: Europa League Play off
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Europa League Första kvalomgången
+  name: Europa League Första kvalomgången
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 3 Kval till div 3 södra
+  name: Division 3 Kval till div 3 södra
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 2 Småland Playoff till Division 1
+  name: Division 2 Småland Playoff till Division 1
+  level: 4
+  description: ""
+- action: ADD
+  parentName: HockeyEttan södra, Play In
+  name: HockeyEttan södra, Play In
+  level: 4
+  description: ""
+- action: ADD
+  parentName: HockeyTrean Alltrean södra B
+  name: HockeyTrean Alltrean södra B
+  level: 4
+  description: ""
+- action: ADD
+  parentName: J20 Region syd vår
+  name: J20 Region syd vår
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 3 Westra B vår
+  name: Division 3 Westra B vår
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Champions League
+  name: Champions League
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Champions League Första kvalomgången
+  name: Champions League Första kvalomgången
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Europa League Första kvalomgången
+  name: Europa League Första kvalomgången
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Conference League
+  name: Conference League
+  level: 4
+  description: ""
+- action: ADD
+  parentName: J20 Kvalserie A region syd
+  name: J20 Kvalserie A region syd
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Bandy
+  name: VM Final
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 5 Blekinge
+  name: Division 5 Blekinge
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Champions League
+  name: Champions League
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Europa League Åttondelsfinal
+  name: Europa League Åttondelsfinal
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Conference League Tredje kvalomgången
+  name: Conference League Tredje kvalomgången
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 3 Småland kval till div 3 södra
+  name: Division 3 Småland kval till div 3 södra
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Förkval inför kval till J20 Nationell region syd
+  name: Förkval inför kval till J20 Nationell region syd
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Basketettan södra
+  name: Basketettan södra
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 5 Västergötland östra
+  name: Division 5 Västergötland östra
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Serie B
+  name: Serie B
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Europa League Play off
+  name: Europa League Play off
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Conference League Play off
+  name: Conference League Play off
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Conference League Första kvalomgången
+  name: Conference League Första kvalomgången
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 1 södra Götaland
+  name: Division 1 södra Götaland
+  level: 4
+  description: ""
+- action: ADD
+  parentName: SHL Åttondelsfinal
+  name: SHL Åttondelsfinal
+  level: 4
+  description: ""
+- action: ADD
+  parentName: J20 Region syd vår
+  name: J20 Region syd vår
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Handboll
+  name: VM Grupp D
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Handboll
+  name: VM Semifinal
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 1 södra Götaland
+  name: Division 1 södra Götaland
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 4 Småland sydöstra
+  name: Division 4 Småland sydöstra
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Europa League
+  name: Europa League
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Conference League Play off
+  name: Conference League Play off
+  level: 4
+  description: ""
+- action: ADD
+  parentName: HockeyTvåan PO 1 till kvalserien HockeyEttan södra
+  name: HockeyTvåan PO 1 till kvalserien HockeyEttan södra
+  level: 4
+  description: ""
+- action: ADD
+  parentName: J18 Regional syd forts
+  name: J18 Regional syd forts
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 6 Vårgårda
+  name: Division 6 Vårgårda
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Europa League
+  name: Europa League
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 2 Västergötland playoff 1 till div 1
+  name: Division 2 Västergötland playoff 1 till div 1
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Conference League Andra kvalomgången
+  name: Conference League Andra kvalomgången
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Allsvenskan Direkt off 2
+  name: Allsvenskan Direkt off 2
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Allsvenskan Direkt off 1
+  name: Allsvenskan Direkt off 1
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 1 södra Götaland
+  name: Division 1 södra Götaland
+  level: 4
+  description: ""
+- action: ADD
+  parentName: HockeyTvåan Alltvåan södra
+  name: HockeyTvåan Alltvåan södra
+  level: 4
+  description: ""
+- action: ADD
+  parentName: J20 PO inför förkvalserie region syd
+  name: J20 PO inför förkvalserie region syd
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Ishockey
+  name: U16 SM-kval, region syd
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Kval till SDHL
+  name: Kval till SDHL
+  level: 4
+  description: ""
+- action: ADD
+  parentName: P19 Div 1 Region 2
+  name: P19 Div 1 Region 2
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Grekland Super League
+  name: Grekland Super League
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Champions League
+  name: Champions League
+  level: 4
+  description: ""
+- action: ADD
+  parentName: HockeyTrean PlayOff inför kvalserie till HockeyTvåan syd
+  name: HockeyTrean PlayOff inför kvalserie till HockeyTvåan syd
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Bordtennis
+  name: Division 4 Skåne nordöstra
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 2 sydöstra Götaland
+  name: Division 2 sydöstra Götaland
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Handboll
+  name: European League Första kvalomgången
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Handboll
+  name: European Cup Omgång 2
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 3 Skåne fortsättningsserie
+  name: Division 3 Skåne fortsättningsserie
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 5 Kalmar/Öland
+  name: Division 5 Kalmar/Öland
+  level: 4
+  description: ""
+- action: ADD
+  parentName: HockeyEttan södra, kvartsfinal
+  name: HockeyEttan södra, kvartsfinal
+  level: 4
+  description: ""
+- action: ADD
+  parentName: HockeyTvåan PO 2 till kvalserien HockeyEttan södra
+  name: HockeyTvåan PO 2 till kvalserien HockeyEttan södra
+  level: 4
+  description: ""
+- action: ADD
+  parentName: HockeyTvåan södra vår
+  name: HockeyTvåan södra vår
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Ishockey
+  name: U16 Region syd vår
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 3 Westra A vår
+  name: Division 3 Westra A vår
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Bundesliga 2
+  name: Bundesliga 2
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 2 Direkt off 1, västra
+  name: Division 2 Direkt off 1, västra
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Allsvenskan Playoff 1K
+  name: Allsvenskan Playoff 1K
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 1 Västergötland playoff 1 till Allsvenskan
+  name: Division 1 Västergötland playoff 1 till Allsvenskan
+  level: 4
+  description: ""
+- action: ADD
+  parentName: HockeyTvåan Kvalserie södra A
+  name: HockeyTvåan Kvalserie södra A
+  level: 4
+  description: ""
+- action: ADD
+  parentName: J18 Regional syd forts
+  name: J18 Regional syd forts
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 1 Direkt off 3
+  name: Division 1 Direkt off 3
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Handboll
+  name: European Cup Omgång 3
+  level: 4
+  description: ""
+- action: ADD
+  parentName: HockeyTvåan södra vår
+  name: HockeyTvåan södra vår
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: Svenska Cupen 24/25 Grupp 7
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 2 sydöstra Götaland
+  name: Division 2 sydöstra Götaland
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 4 Västergötland västra
+  name: Division 4 Västergötland västra
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Turkiet Süper Lig
+  name: Turkiet Süper Lig
+  level: 4
+  description: ""
+- action: ADD
+  parentName: HockeyTvåan Alltvåan södra
+  name: HockeyTvåan Alltvåan södra
+  level: 4
+  description: ""
+- action: ADD
+  parentName: J20 Region syd topp 6
+  name: J20 Region syd topp 6
+  level: 4
+  description: ""
+- action: ADD
+  parentName: SHL Åttondelsfinal
+  name: SHL Åttondelsfinal
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 4 Småland nordvästra
+  name: Division 4 Småland nordvästra
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: Svenska Cupen 24/25 Omgång 3
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 1 södra Götaland
+  name: Division 1 södra Götaland
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 1 Västergötland playoff 2 till Allsvenskan
+  name: Division 1 Västergötland playoff 2 till Allsvenskan
+  level: 4
+  description: ""
+- action: ADD
+  parentName: HockeyTrean södra A fortsättning
+  name: HockeyTrean södra A fortsättning
+  level: 4
+  description: ""
+- action: ADD
+  parentName: J18 Kvalserie region syd
+  name: J18 Kvalserie region syd
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 5 Skåne norra
+  name: Division 5 Skåne norra
+  level: 4
+  description: ""
+- action: ADD
+  parentName: HockeyTrean PlayOff inför kvalserie till HockeyTvåan syd
+  name: HockeyTrean PlayOff inför kvalserie till HockeyTvåan syd
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: Svenska Cupen 24/25 Grupp 3
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 2 Småland Playoff till Division 1
+  name: Division 2 Småland Playoff till Division 1
+  level: 4
+  description: ""
+- action: ADD
+  parentName: HockeyEttan Final
+  name: HockeyEttan Final
+  level: 4
+  description: ""
+- action: ADD
+  parentName: HockeyEttan södra, kvartsfinal
+  name: HockeyEttan södra, kvartsfinal
+  level: 4
+  description: ""
+- action: ADD
+  parentName: HockeyTrean södra C fortsättning
+  name: HockeyTrean södra C fortsättning
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Playoff till J20 Nationell
+  name: Playoff till J20 Nationell
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Champions League Play off till slutspel
+  name: Champions League Play off till slutspel
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Europa League
+  name: Europa League
+  level: 4
+  description: ""
+- action: ADD
+  parentName: HockeyEttan södra, kvartsfinal
+  name: HockeyEttan södra, kvartsfinal
+  level: 4
+  description: ""
+- action: ADD
+  parentName: HockeyTvåan PO 1 till kvalserien HockeyEttan södra
+  name: HockeyTvåan PO 1 till kvalserien HockeyEttan södra
+  level: 4
+  description: ""
+- action: ADD
+  parentName: J20 PO inför förkvalserie region syd
+  name: J20 PO inför förkvalserie region syd
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 1 Direkt off 2
+  name: Division 1 Direkt off 2
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Skåne kval till Division 2
+  name: Skåne kval till Division 2
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 1 Kval till region södra
+  name: Division 1 Kval till region södra
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 4 Småland sydöstra
+  name: Division 4 Småland sydöstra
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: Svenska Cupen 24/25 Omgång 2
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 5 Växjö
+  name: Division 5 Växjö
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 3 Småland kval till div 3 södra
+  name: Division 3 Småland kval till div 3 södra
+  level: 4
+  description: ""
+- action: ADD
+  parentName: HockeyEttan södra, semifinal
+  name: HockeyEttan södra, semifinal
+  level: 4
+  description: ""
+- action: ADD
+  parentName: J20 Nationell forts
+  name: J20 Nationell forts
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Champions League
+  name: Champions League
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 3 södra Götaland 2
+  name: Division 3 södra Götaland 2
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Superligan Playoff 1D till SSL
+  name: Superligan Playoff 1D till SSL
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 4 Småland södra
+  name: Division 4 Småland södra
+  level: 4
+  description: ""
+- action: ADD
+  parentName: HockeyTrean PlayOff inför kvalserie till HockeyTvåan syd
+  name: HockeyTrean PlayOff inför kvalserie till HockeyTvåan syd
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Basketettan södra
+  name: Basketettan södra
+  level: 4
+  description: ""
+- action: ADD
+  parentName: HockeyTrean Alltrean södra B
+  name: HockeyTrean Alltrean södra B
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Allsvenskan Bronsmatch
+  name: Allsvenskan Bronsmatch
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Handboll
+  name: European League Grupp 2
+  level: 4
+  description: ""
+- action: ADD
+  parentName: F 17 Region 5
+  name: F 17 Region 5
+  level: 4
+  description: ""
+- action: ADD
+  parentName: F 17 Allsvenskan Södra
+  name: F 17 Allsvenskan Södra
+  level: 4
+  description: ""
+- action: ADD
+  parentName: F 17 Allsvenskan Norra
+  name: F 17 Allsvenskan Norra
+  level: 4
+  description: ""
+- action: ADD
+  parentName: F 17 Region 4
+  name: F 17 Region 4
+  level: 4
+  description: ""
+- action: ADD
+  parentName: F 17 Region 1
+  name: F 17 Region 1
+  level: 4
+  description: ""
+- action: ADD
+  parentName: F 17 Region 2
+  name: F 17 Region 2
+  level: 4
+  description: ""
+- action: ADD
+  parentName: F 17 Region 6 söder
+  name: F 17 Region 6 söder
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: F 19 Allsvenskan
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: F 19 Division 1 norra
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Superligan Playoff 2A till SSL
+  name: Superligan Playoff 2A till SSL
+  level: 4
+  description: ""
+- action: ADD
+  parentName: HockeyEttan södra, final
+  name: HockeyEttan södra, final
+  level: 4
+  description: ""
+- action: ADD
+  parentName: HockeyTvåan södra vår
+  name: HockeyTvåan södra vår
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Europa League Åttondelsfinal
+  name: Europa League Åttondelsfinal
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 1 södra Götaland
+  name: Division 1 södra Götaland
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Allsvenskan SM-final
+  name: Allsvenskan SM-final
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 4 Västergötland västra
+  name: Division 4 Västergötland västra
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 2 sydöstra Götaland
+  name: Division 2 sydöstra Götaland
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: F 19 Division 1 södra
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: F 19 Allsvenskan
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Superligan Playoff 1D till SSL
+  name: Superligan Playoff 1D till SSL
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Superligan Playoff 1B till SSL
+  name: Superligan Playoff 1B till SSL
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Superligan Playoff 1A till SSL
+  name: Superligan Playoff 1A till SSL
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Landskamp
+  name: Landskamp
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Ishockey
+  name: VM Final
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Landskamp
+  name: Landskamp
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Basket
+  name: EM Grupp D
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: VM-kval, Europa Grupp I
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: VM-kval, Europa Grupp G
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Handboll
+  name: Champions League Åttondelsfinal
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 2 Skåne playoff 1:1 till div 1
+  name: Division 2 Skåne playoff 1:1 till div 1
+  level: 4
+  description: ""
+- action: ADD
+  parentName: HockeyTvåan Kvalserie södra B
+  name: HockeyTvåan Kvalserie södra B
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 2 Västmanland/Örebro playoff 2 till div 2
+  name: Division 2 Västmanland/Örebro playoff 2 till div 2
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Amerikansk Fotboll
+  name: NFL Åttondelsfinal
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Amerikansk Fotboll
+  name: NFL Semifinal
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Ishockey
+  name: VM Bronsmatch
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Ishockey
+  name: VM Semifinal
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Basket
+  name: EM Grupp B
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Basket
+  name: EM Grupp C
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: VM-kval, Europa Grupp D
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: VM-kval, Europa Grupp B
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: VM-kval, Europa Grupp E
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: VM-kval, Europa Grupp F
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: VM-kval, Europa Grupp J
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Champions League Semifinal
+  name: Champions League Semifinal
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Handboll
+  name: Champions League Kvartsfinal
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: VM-kval, Asien Omgång 3, Grupp A
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: VM-kval, Asien Omgång 3, Grupp B
+  level: 4
+  description: ""
+- action: ADD
+  parentName: VM-kval, Sydamerika
+  name: VM-kval, Sydamerika
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Community Shield
+  name: Community Shield
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: FA-cupen Semifinal
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: FA-cupen Första omgången
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: Italienska supercupen Semifinal
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: Spanska supercupen Final
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: Italienska cupen Åttondelsfinal
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: Italienska cupen Andra omgången
+  level: 4
+  description: ""
+- action: ADD
+  parentName: U23-landskamp
+  name: U23-landskamp
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: EM-kval F19, omg 2 Liga A, grupp 4
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Handboll
+  name: EM-kval Grupp 1
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Handboll
+  name: European League Grupp D
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 2 Skåne playoff 1:2 till div 1
+  name: Division 2 Skåne playoff 1:2 till div 1
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: Ligue 1
+  level: 4
+  description: ""
+- action: ADD
+  parentName: NFL
+  name: NFL
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Bandy
+  name: VM Semifinal
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Basket
+  name: NBA Åttondelsfinal
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Basket
+  name: EM Grupp A
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: VM-kval, Europa Grupp C
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: VM-kval, Europa Grupp L
+  level: 4
+  description: ""
+- action: ADD
+  parentName: U21-landskamp
+  name: U21-landskamp
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: VM-kval, Asien Omgång 3, Grupp C
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: FA-cupen Tredje omgången
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: FA-cupen Åttondelsfinal
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: FA-cupen Kvartsfinal
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: Spanska supercupen Semifinal
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: Italienska cupen Första omgången
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: Italienska cupen Kvartsfinal
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: Italienska cupen Semifinal
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Handboll
+  name: Bundesliga
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Champions League Semifinal
+  name: Champions League Semifinal
+  level: 4
+  description: ""
+- action: ADD
+  parentName: F19-landskamp
+  name: F19-landskamp
+  level: 4
+  description: ""
+- action: ADD
+  parentName: EHF Euro Cup
+  name: EHF Euro Cup
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Handboll
+  name: EM-kval Grupp 2
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Handboll
+  name: EM-kval Grupp 6
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Handboll
+  name: EM-kval Grupp 4
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Handboll
+  name: EM-kval Grupp 7
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Landskamp
+  name: Landskamp
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Landskamp
+  name: Landskamp
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Handboll
+  name: Bundesliga
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Handboll
+  name: Champions League Grupp A
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Handboll
+  name: Champions League Åttondelsfinal
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Handboll
+  name: Champions League Grupp B
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Handboll
+  name: European League Grupp 4
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Handboll
+  name: European League Grupp 1
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Handboll
+  name: European League Grupp H
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Handboll
+  name: Champions League Grupp B
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Handboll
+  name: Champions League Grupp A
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Handboll
+  name: European League Semifinal
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Division 5 Jönköping
+  name: Division 5 Jönköping
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Amerikansk Fotboll
+  name: NFL Super Bowl
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Amerikansk Fotboll
+  name: NFL Kvartsfinal
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Basket
+  name: NBA Play in
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Basket
+  name: EM Grupp D
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: VM-kval, Europa Grupp A
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: VM-kval, Europa Grupp H
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: VM-kval, Europa Grupp K
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Europa League Semifinal
+  name: Europa League Semifinal
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: FA-cupen Andra omgången
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: FA-cupen Fjärde omgången
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: Italienska supercupen Final
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: Italienska cupen Kvalomgång
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Träningslandskamp
+  name: Träningslandskamp
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Handboll
+  name: Champions League Kvartsfinal
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Handboll
+  name: EM-kval Grupp 3
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Handboll
+  name: EM-kval Grupp 5
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Handboll
+  name: EM-kval Grupp 8
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Handboll
+  name: VM-kval Playoff
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Handboll
+  name: European League Åttondelsfinal
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Handboll
+  name: Champions League Kvartsfinal
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Handboll
+  name: European League Kvartsfinal
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Handboll
+  name: European League Grupp 3
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Handboll
+  name: Champions League Kvartsfinal
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Handboll
+  name: Champions League Åttondelsfinal
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Handboll
+  name: European League Kvartsfinal
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Handboll
+  name: European League Grupp A
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Handboll
+  name: European League Grupp D
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Handboll
+  name: European League Grupp B
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Handboll
+  name: European League Grupp C
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Handboll
+  name: U21-VM Grupp C
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Innebandy
+  name: Superligan Playoff 2 till SSL
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Innebandy
+  name: Superligan Playoff 2B till SSL
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Innebandy
+  name: Superligan Playoff 1C till SSL
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Innebandy
+  name: Superligan Playoff 1B till SSL
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Innebandy
+  name: Champions Cup Final
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Bandy
+  name: VM Semifinal
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Ishockey
+  name: VM Grupp A
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Ishockey
+  name: VM Grupp B
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Innebandy
+  name: VM Placeringsmatcher 13-16
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Ishockey
+  name: JVM Grupp A
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Ishockey
+  name: U18-VM Grupp A
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Ishockey
+  name: U18-VM Grupp B
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Ishockey
+  name: VM Grupp B
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Ishockey
+  name: VM Kvartsfinal
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Landskamp
+  name: Landskamp
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Tennis
+  name: United Cup, Grupp B
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Tennis
+  name: United Cup, Grupp A
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Volleyboll
+  name: Elit Grand Prix Semifinal
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Conference League Semifinal
+  name: Conference League Semifinal
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Silver League
+  name: Silver League
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Ishockey
+  name: FM-Ligan, semifinal
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Ishockey
+  name: FM-Ligan, final
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: VM-kval, Afrika Grupp A
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: VM-kval, Afrika Grupp C
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: Engelska ligacupen Första omgången
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: Engelska ligacupen Final
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: Spanska cupen Åttondelsfinal
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: Tyska cupen Första omgången
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: FM-ligan
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: Nations League Grupp B3
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: Championship
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: VM-kval, Asien Omgång 1
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: VM-kval, Asien Omgång 2, Grupp H
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: Belgien Pro League
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: Norge Kval, kvartsfinal
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Ishockey
+  name: VM Grupp A
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Ishockey
+  name: VM Grupp B
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Innebandy
+  name: VM Placeringsmatcher 5-8
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Ishockey
+  name: JVM Final
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Ishockey
+  name: Sweden Hockey Games
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Ishockey
+  name: Czech Hockey Games
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Ishockey
+  name: VM Bronsmatch
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Ishockey
+  name: U18-VM Grupp A
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Ishockey
+  name: U18-VM Semifinal
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Tennis
+  name: United Cup, Grupp C
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Tennis
+  name: United Cup, Grupp F
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Volleyboll
+  name: Elit Grand Prix Bronsmatch
+  level: 4
+  description: ""
+- action: ADD
+  parentName: NBA
+  name: NBA
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Badminton
+  name: Badmintonligan SM-final
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Ishockey
+  name: FM-ligan, kval
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: VM-kval, Afrika Grupp B
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: VM-kval, Afrika Grupp E
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: Engelska ligacupen Tredje omgången
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: Engelska ligacupen Kvartsfinal
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: Spanska cupen Semifinal
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: Spanska cupen Kvartsfinal
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: Nations League Grupp B1
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: Nations League Grupp B4
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: Nations League Grupp C4
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: VM-kval, Asien Omgång 2, Grupp D
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: VM-kval, Asien Omgång 2, Grupp G
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Grekland Mästerskapsserien
+  name: Grekland Mästerskapsserien
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: Skottland Premiership
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Ishockey
+  name: U18-VM Grupp A
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Bandy
+  name: VM Semifinal
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Innebandy
+  name: VM-kval Grupp A
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Landskamp
+  name: Landskamp
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Ishockey
+  name: VM Grupp A
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Ishockey
+  name: JVM Kvartsfinal
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Ishockey
+  name: Swiss Hockey Games
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Ishockey
+  name: VM Final
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Ishockey
+  name: U18-VM Kvartsfinal
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Ishockey
+  name: U18-VM Nedflyttningskaval
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Tennis
+  name: United Cup, Grupp D
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Tennis
+  name: United Cup, Grupp F
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Volleyboll
+  name: Elit Grand Prix Bronsmatch
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Supercupen
+  name: Supercupen
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Golden League
+  name: Golden League
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Allsvenskan Semi off 2
+  name: Allsvenskan Semi off 2
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Ishockey
+  name: FM-Ligan, åttondelsfinal
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: VM-kval, Afrika Grupp F
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: VM-kval, Afrika Grupp H
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: Engelska ligacupen Åttondelsfinal
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: Spanska cupen Sextondelsfinal
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: Spanska cupen Final
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: Tyska cupen Semifinal
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: Nations League Grupp C1
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: Nations League Grupp C5
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: VM-kval, Asien Omgång 2, Grupp B
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: VM-kval, Asien Omgång 2, Grupp F
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: Belgien Mästerskapsserien
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: Franska supercupen final
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: Portugal Primeira Liga
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Ishockey
+  name: VM Grupp A
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Innebandy
+  name: VM Placeringsmatcher 9-12
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Ishockey
+  name: VM Grupp B
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Ishockey
+  name: JVM Nedflyttningskval
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Ishockey
+  name: VM Grupp A
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Ishockey
+  name: VM Semifinal
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Ishockey
+  name: U18-VM Final
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Tennis
+  name: Billie Jean Cup Europa/Afrika-zonen, grupp A
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Tennis
+  name: United Cup, Kvartsfinal
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Volleyboll
+  name: Elit Grand Prix Final
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Volleyboll
+  name: Elit Grand Prix Final
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Futsal
+  name: Futsalligan Kval till SFL
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Ishockey
+  name: FM-Ligan
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Ishockey
+  name: FM-Ligan, kvartsfinal
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: VM-kval, Afrika Grupp D
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: Engelska ligacupen Andra omgången
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: Engelska ligacupen Semifinal
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: Spanska cupen Andra omgången
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: Tyska cupen Åttondelsfinal
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: Tyska cupen Andra omgången
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: Nations League Grupp B2
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: Nations League Grupp C2
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: NWSL
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: VM-kval, Asien Omgång 2, Grupp C
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: VM-kval, Asien Omgång 2, Grupp I
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Grekland Kvalet till Conference League
+  name: Grekland Kvalet till Conference League
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: Skottland Mästerskapsserien
+  level: 4
+  description: ""
+- action: ADD
+  parentName: League One
+  name: League One
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Bandy
+  name: VM Semifinal
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Innebandy
+  name: Champions Cup Final
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Ishockey
+  name: JVM Grupp B
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Ishockey
+  name: JVM Bronsmatch
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Ishockey
+  name: JVM Semifinal
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Ishockey
+  name: Karjala Tournament
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Ishockey
+  name: VM Match om 5:e plats
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Ishockey
+  name: U18-VM Bronsmatch
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Tennis
+  name: Billie Jean Cup Europa/Afrika-zonen, nedflyttningskval
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Tennis
+  name: United Cup, Final
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Tennis
+  name: United Cup, Semifinal
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Volleyboll
+  name: Elit Grand Prix Semifinal
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Volleyboll
+  name: EM-kval Grupp E
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Ishockey
+  name: FM-Ligan, bronsmatch
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Ishockey
+  name: FM-ligan, nedflyttningskval
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: VM-kval, Afrika Grupp G
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: VM-kval, Afrika Grupp I
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: Spanska cupen Första omgången
+  level: 4
+  description: ""
+- action: ADD
+  parentName: La Liga 2
+  name: La Liga 2
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: Tyska cupen Kvartsfinal
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: Tyska cupen Final
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: Nations League Grupp C3
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: Nations League Grupp C6
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: VM-kval, Asien Omgång 2, Grupp A
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: VM-kval, Asien Omgång 2, Grupp E
+  level: 4
+  description: ""
+- action: ADD
+  parentName: Grekland Nedflyttningsserien
+  name: Grekland Nedflyttningsserien
+  level: 4
+  description: ""
+- action: ADD
+  parentName: League Two
+  name: League Two
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: MLS
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Ishockey
+  name: VM Grupp B
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: Klubblags-VM Grupp B
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: Klubblags-VM Grupp G
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: Klubblags-VM Grupp C
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: Klubblags-VM Grupp A
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: Klubblags-VM Grupp F
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: Klubblags-VM Grupp E
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: Klubblags-VM Grupp D
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Handboll
+  name: U19-VM Grupp C
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Fotboll
+  name: Klubblags-VM Grupp H
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Handboll
+  name: U19-VM Grupp A
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Innebandy
+  name: Svenska Cupen Final
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Innebandy
+  name: Svenska Cupen Final
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Innebandy
+  name: Svenska Cupen Final
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Innebandy
+  name: Svenska Cupen Semifinal
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Innebandy
+  name: Svenska Cupen Final
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Innebandy
+  name: Svenska Cupen Semifinal
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: Run Scripts on new leauge levels file and take parent Code from there
+  parentName: Innebandy
+  name: Svenska Cupen Final
+  level: 4
+  description: ""
