@@ -1,0 +1,529 @@
+Modifications:
+- action: ADD
+  parentCode: RYF-QPR-HGB-DEN
+  parentName: Fotboll
+  name: EM dam
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: RYF-QPR-HGB-OQU
+  parentName: Bandy
+  name: Nationell herr
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: RYF-QPR-HGB-OQU
+  parentName: Bandy
+  name: Allsvenska supercupen herr
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: RYF-QPR-HGB-OQU
+  parentName: Bandy
+  name: Nationell dam
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: RYF-QPR-HGB-OQU
+  parentName: Bandy
+  name: VM dam
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: RYF-QPR-HGB-DEN
+  parentName: Fotboll
+  name: Frankrike dam
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: RYF-QPR-HGB-DEN
+  parentName: Fotboll
+  name: Frankrike herr
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: RYF-QPR-HGB-DEN
+  parentName: Fotboll
+  name: U17-EM dam
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: RYF-QPR-HGB-OQU
+  parentName: Bandy
+  name: Division 1 herr
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: RYF-QPR-HGB-YTM
+  parentName: Badminton
+  name: Badmintonligan mix
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: RYF-QPR-HGB-DEN
+  parentName: Fotboll
+  name: Danmark herr
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: RYF-QPR-HGB-QHJ
+  parentName: Innebandy
+  name: Juniorallsvenskan herr
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: RYF-QPR-HGB-BQN
+  parentName: Ishockey
+  name: U16 herr
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: RYF-QPR-HGB-YTM
+  parentName: Badminton
+  name: Division 2 mix
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: RYF-QPR-HGB-OQU
+  parentName: Bandy
+  name: Division 2 herr
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: RYF-QPR-HGB-DEN
+  parentName: Fotboll
+  name: Reserv Stockholm herr
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: RYF-QPR-HGB-YOC
+  parentName: Futsal
+  name: Division 1 dam
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: RYF-QPR-HGB-BQN
+  parentName: Ishockey
+  name: HockeyFyran herr
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: RYF-QPR-HGB-YOC
+  parentName: Futsal
+  name: Division 3 herr
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: RYF-QPR-HGB-DEN
+  parentName: Fotboll
+  name: Svenska Cupen 24/25 herr
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: RYF-QPR-HGB-DEN
+  parentName: Fotboll
+  name: Nations League dam
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: RYF-QPR-HGB-PJR
+  parentName: Handboll
+  name: VM herr
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: RYF-QPR-HGB-BQN
+  parentName: Ishockey
+  name: HockeyAllsvenskan dam
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: RYF-QPR-HGB-PJR
+  parentName: Handboll
+  name: EM dam
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: RYF-QPR-HGB-BQN
+  parentName: Ishockey
+  name: CHL herr
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: RYF-QPR-HGB-BQN
+  parentName: Ishockey
+  name: OS-kval dam
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: RYF-QPR-HGB-DEN
+  parentName: Fotboll
+  name: Svenska Cupen 24/25 dam
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: RYF-QPR-HGB-BQN
+  parentName: Ishockey
+  name: NHL 4 nations herr
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: RYF-QPR-HGB-BQN
+  parentName: Ishockey
+  name: Euro Hockey Tour dam
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: RYF-QPR-HGB-PJR
+  parentName: Handboll
+  name: European League dam
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: RYF-QPR-HGB-QHJ
+  parentName: Innebandy
+  name: VM herr
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: RYF-QPR-HGB-OQU
+  parentName: Bandy
+  name: VM herr
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: RYF-QPR-HGB-QHJ
+  parentName: Innebandy
+  name: Juniorallsvenskan dam
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: RYF-QPR-HGB-YOC
+  parentName: Futsal
+  name: Division 2 herr
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: RYF-QPR-HGB-JDC
+  parentName: Bordtennis
+  name: Division 4 herr
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: RYF-QPR-HGB-PJR
+  parentName: Handboll
+  name: European League herr
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: RYF-QPR-HGB-PJR
+  parentName: Handboll
+  name: European Cup dam
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: RYF-QPR-HGB-DEN
+  parentName: Fotboll
+  name: F19 dam
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: RYF-QPR-HGB-MII
+  parentName: Basket
+  name: EM herr
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: RYF-QPR-HGB-DEN
+  parentName: Fotboll
+  name: VM-kval, Europa herr
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: RYF-QPR-HGB-PJR
+  parentName: Handboll
+  name: Champions League herr
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: RYF-QPR-HGB-DZQ
+  parentName: Amerikansk fotboll
+  name: NFL herr
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: RYF-QPR-HGB-BQN
+  parentName: Ishockey
+  name: VM dam
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: RYF-QPR-HGB-DEN
+  parentName: Fotboll
+  name: VM-kval, Asien herr
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: RYF-QPR-HGB-DEN
+  parentName: Fotboll
+  name: Italienska supercupen herr
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: RYF-QPR-HGB-DEN
+  parentName: Fotboll
+  name: Italienska cupen herr
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: RYF-QPR-HGB-DEN
+  parentName: Fotboll
+  name: EM-kval F19, omg 2 dam
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: RYF-QPR-HGB-PJR
+  parentName: Handboll
+  name: EM-kval herr
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: RYF-QPR-HGB-MII
+  parentName: Basket
+  name: NBA herr
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: RYF-QPR-HGB-PJR
+  parentName: Handboll
+  name: Tyskland herr
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: RYF-QPR-HGB-PJR
+  parentName: Handboll
+  name: Champions League dam
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: RYF-QPR-HGB-MII
+  parentName: Basket
+  name: EM dam
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: RYF-QPR-HGB-PJR
+  parentName: Handboll
+  name: VM-kval dam
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: RYF-QPR-HGB-PJR
+  parentName: Handboll
+  name: U21-VM herr
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: RYF-QPR-HGB-QHJ
+  parentName: Innebandy
+  name: Champions Cup herr
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: RYF-QPR-HGB-BQN
+  parentName: Ishockey
+  name: VM herr
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: RYF-QPR-HGB-BQN
+  parentName: Ishockey
+  name: JVM herr
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: RYF-QPR-HGB-BQN
+  parentName: Ishockey
+  name: U18-VM herr
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: RYF-QPR-HGB-WVD
+  parentName: Tennis
+  name: United Cup, mix
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: RYF-QPR-HGB-BAH
+  parentName: Volleyboll
+  name: Elit Grand Prix herr
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: RYF-QPR-HGB-BQN
+  parentName: Ishockey
+  name: FM-ligan herr
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: RYF-QPR-HGB-DEN
+  parentName: Fotboll
+  name: VM-kval, Afrika herr
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: RYF-QPR-HGB-DEN
+  parentName: Fotboll
+  name: Finland herr
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: RYF-QPR-HGB-DEN
+  parentName: Fotboll
+  name: England dam
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: RYF-QPR-HGB-DEN
+  parentName: Fotboll
+  name: Belgien herr
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: RYF-QPR-HGB-DEN
+  parentName: Fotboll
+  name: Norge herr
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: RYF-QPR-HGB-BQN
+  parentName: Ishockey
+  name: Euro Hockey Tour herr
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: RYF-QPR-HGB-BQN
+  parentName: Ishockey
+  name: U18-VM dam
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: RYF-QPR-HGB-BAH
+  parentName: Volleyboll
+  name: Elit Grand Prix dam
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: RYF-QPR-HGB-DEN
+  parentName: Fotboll
+  name: Skottland herr
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: RYF-QPR-HGB-QHJ
+  parentName: Innebandy
+  name: VM-kval dam
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: RYF-QPR-HGB-DEN
+  parentName: Fotboll
+  name: Portugal herr
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: RYF-QPR-HGB-WVD
+  parentName: Tennis
+  name: Billie Jean Cup dam
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: RYF-QPR-HGB-YOC
+  parentName: Futsal
+  name: Futsalligan herr
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: RYF-QPR-HGB-DEN
+  parentName: Fotboll
+  name: USA dam
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: RYF-QPR-HGB-QHJ
+  parentName: Innebandy
+  name: Champions Cup dam
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: RYF-QPR-HGB-BAH
+  parentName: Volleyboll
+  name: EM-kval herr
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: RYF-QPR-HGB-DEN
+  parentName: Fotboll
+  name: USA herr
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: RYF-QPR-HGB-DEN
+  parentName: Fotboll
+  name: Klubblags-VM herr
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: RYF-QPR-HGB-PJR
+  parentName: Handboll
+  name: U19-VM dam
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: RYF-QPR-HGB-PJR
+  parentName: Handboll
+  name: U19-VM herr
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: RYF-QPR-HGB-QHJ
+  parentName: Innebandy
+  name: Svenska Cupen dam
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: RYF-QPR-HGB-QHJ
+  parentName: Innebandy
+  name: Svenska Cupen herr
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: RYF-QPR-HGB-DEN
+  parentName: Fotboll
+  name: U21-EM herr
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: RYF-QPR-HGB-PJR
+  parentName: Handboll
+  name: European Cup herr
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: RYF-QPR-HGB-DEN
+  parentName: Fotboll
+  name: U19-EM dam
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: RYF-QPR-HGB-DEN
+  parentName: Fotboll
+  name: Svenska Cupen herr
+  level: 4
+  description: ""
+- action: ADD
+  parentCode: RYF-QPR-HGB-DEN
+  parentName: Fotboll
+  name: Svenska Cupen dam
+  level: 4
+  description: ""
