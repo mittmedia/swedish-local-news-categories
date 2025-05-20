@@ -352,3 +352,10 @@ Modifications:
   code: RYF-IXA-CVI-UVY
   name: Option
   description: En option är ett avtal mellan en optionsutställare och en optionsinnehavare som ger innehavaren rätten, men inte skyldigheten, att i framtiden köpa eller sälja en underliggande tillgång till ett på förhand bestämt pris
+- action: ADD
+  parentCode: RYF-WXT
+  parentName: Konflikter och krig
+  name: Hybridkrigföring
+  level: 2
+  description: En typ av krigföring som karaktäriseras av en kombination av traditionella militära, irreguljära och civila metoder, och som utnyttjas mot ett gemensamt mål i alla olika skeden av en konflikt
+
