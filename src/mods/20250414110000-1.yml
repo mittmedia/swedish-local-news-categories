@@ -358,4 +358,9 @@ Modifications:
   name: Hybridkrigföring
   level: 2
   description: En typ av krigföring som karaktäriseras av en kombination av traditionella militära, irreguljära och civila metoder, och som utnyttjas mot ett gemensamt mål i alla olika skeden av en konflikt
-
+- action: MOVE
+  code: RYF-TKT-XHP-ZWC
+  name: Parkour
+  newParentCode: RYF-QPR-HGB-KJR
+  newParentName: Gymnastik
+  description: Ibland förkortat PK, träning och tävling som går ut på att på ett smidigt och kontrollerat sätt kunna forcera olika typer av hinder i omgivningen utan hjälpmedel
