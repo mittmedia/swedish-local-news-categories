@@ -364,3 +364,6 @@ Modifications:
   newParentCode: RYF-QPR-HGB-KJR
   newParentName: Gymnastik
   description: Ibland förkortat PK, träning och tävling som går ut på att på ett smidigt och kontrollerat sätt kunna forcera olika typer av hinder i omgivningen utan hjälpmedel
+- action: INACTIVATE
+  code: RYF-HPT-ACA
+  name: Offentliga utgifter
