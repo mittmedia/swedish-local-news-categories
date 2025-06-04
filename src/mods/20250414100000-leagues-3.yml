@@ -1,4 +1,4 @@
-Modifications:
+modifications:
 - action: ADD
   parentCode: RYF-QPR-HGB-OQU-HEN
   parentName: Allsvenskan herr
@@ -48,8 +48,8 @@ Modifications:
   level: 5
   description: ""
 - action: ADD
-  parentCode: RYF-QPR-HGB-BQN-UCF
-  parentName: HockeyTvåan herr
+  parentCode: RYF-QPR-HGB-BQN-KNN
+  parentName: Hockeytvåan
   name: Kvalserie västra B
   level: 5
   description: ""
@@ -252,8 +252,8 @@ Modifications:
   level: 5
   description: ""
 - action: ADD
-  parentCode: RYF-QPR-HGB-BQN-UCF
-  parentName: HockeyTvåan herr
+  parentCode: RYF-QPR-HGB-BQN-KNN
+  parentName: Hockeytvåan
   name: Kvalserie södra A
   level: 5
   description: ""
@@ -288,8 +288,8 @@ Modifications:
   level: 5
   description: ""
 - action: ADD
-  parentCode: RYF-QPR-HGB-BQN-UCF
-  parentName: HockeyTvåan herr
+  parentCode: RYF-QPR-HGB-BQN-KNN
+  parentName: Hockeytvåan
   name: PO 2 till kvalserien HockeyEttan västra
   level: 5
   description: ""
@@ -558,8 +558,8 @@ Modifications:
   level: 5
   description: ""
 - action: ADD
-  parentCode: RYF-QPR-HGB-BQN-UCF
-  parentName: HockeyTvåan herr
+  parentCode: RYF-QPR-HGB-BQN-KNN
+  parentName: Hockeytvåan
   name: PO 2 till kvalserien HockeyEttan östra
   level: 5
   description: ""
@@ -582,8 +582,8 @@ Modifications:
   level: 5
   description: ""
 - action: ADD
-  parentCode: RYF-QPR-HGB-BQN-UCF
-  parentName: HockeyTvåan herr
+  parentCode: RYF-QPR-HGB-BQN-KNN
+  parentName: Hockeytvåan
   name: Kvalserie västra A
   level: 5
   description: ""
@@ -648,20 +648,20 @@ Modifications:
   level: 5
   description: ""
 - action: ADD
-  parentCode: RYF-QPR-HGB-BQN-UCF
-  parentName: HockeyTvåan herr
+  parentCode: RYF-QPR-HGB-BQN-KNN
+  parentName: Hockeytvåan
   name: PO 1 till kvalserien HockeyEttan östra
   level: 5
   description: ""
 - action: ADD
-  parentCode: RYF-QPR-HGB-BQN-KKK
-  parentName: HockeyTrean herr
+  parentCode: RYF-QPR-HGB-BQN-TKF
+  parentName: Hockeytrean
   name: PO till kvalserie GB/D
   level: 5
   description: ""
 - action: ADD
-  parentCode: RYF-QPR-HGB-BQN-UCF
-  parentName: HockeyTvåan herr
+  parentCode: RYF-QPR-HGB-BQN-KNN
+  parentName: Hockeytvåan
   name: Kvalserie östra B
   level: 5
   description: ""
@@ -690,8 +690,8 @@ Modifications:
   level: 5
   description: ""
 - action: ADD
-  parentCode: RYF-QPR-HGB-BQN-UCF
-  parentName: HockeyTvåan herr
+  parentCode: RYF-QPR-HGB-BQN-KNN
+  parentName: Hockeytvåan
   name: norra B
   level: 5
   description: ""
@@ -720,8 +720,8 @@ Modifications:
   level: 5
   description: ""
 - action: ADD
-  parentCode: RYF-QPR-HGB-BQN-UCF
-  parentName: HockeyTvåan herr
+  parentCode: RYF-QPR-HGB-BQN-KNN
+  parentName: Hockeytvåan
   name: Alltvåan norra AB
   level: 5
   description: ""
@@ -738,8 +738,8 @@ Modifications:
   level: 5
   description: ""
 - action: ADD
-  parentCode: RYF-QPR-HGB-BQN-KKK
-  parentName: HockeyTrean herr
+  parentCode: RYF-QPR-HGB-BQN-TKF
+  parentName: Hockeytrean
   name: Playoff 2 Värmland/Västmanland/Örebro
   level: 5
   description: ""
@@ -768,8 +768,8 @@ Modifications:
   level: 5
   description: ""
 - action: ADD
-  parentCode: RYF-QPR-HGB-BQN-KKK
-  parentName: HockeyTrean herr
+  parentCode: RYF-QPR-HGB-BQN-TKF
+  parentName: Hockeytrean
   name: Kvalserie östra B
   level: 5
   description: ""
@@ -900,8 +900,8 @@ Modifications:
   level: 5
   description: ""
 - action: ADD
-  parentCode: RYF-QPR-HGB-BQN-KKK
-  parentName: HockeyTrean herr
+  parentCode: RYF-QPR-HGB-BQN-TKF
+  parentName: Hockeytrean
   name: södra A fortsättning
   level: 5
   description: ""
@@ -972,8 +972,8 @@ Modifications:
   level: 5
   description: ""
 - action: ADD
-  parentCode: RYF-QPR-HGB-BQN-KKK
-  parentName: HockeyTrean herr
+  parentCode: RYF-QPR-HGB-BQN-TKF
+  parentName: Hockeytrean
   name: Alltrean södra A
   level: 5
   description: ""
@@ -1002,8 +1002,8 @@ Modifications:
   level: 5
   description: ""
 - action: ADD
-  parentCode: RYF-QPR-HGB-BQN-UCF
-  parentName: HockeyTvåan herr
+  parentCode: RYF-QPR-HGB-BQN-KNN
+  parentName: Hockeytvåan
   name: södra vår
   level: 5
   description: ""
@@ -1230,8 +1230,8 @@ Modifications:
   level: 5
   description: ""
 - action: ADD
-  parentCode: RYF-QPR-HGB-BQN-UCF
-  parentName: HockeyTvåan herr
+  parentCode: RYF-QPR-HGB-BQN-KNN
+  parentName: Hockeytvåan
   name: PO 1 till kvalserien HockeyEttan södra
   level: 5
   description: ""
@@ -2010,8 +2010,8 @@ Modifications:
   level: 5
   description: ""
 - action: ADD
-  parentCode: RYF-QPR-HGB-BQN-UCF
-  parentName: HockeyTvåan herr
+  parentCode: RYF-QPR-HGB-BQN-KNN
+  parentName: Hockeytvåan
   name: Alltvåan södra
   level: 5
   description: ""
@@ -2064,8 +2064,8 @@ Modifications:
   level: 5
   description: ""
 - action: ADD
-  parentCode: RYF-QPR-HGB-BQN-UCF
-  parentName: HockeyTvåan herr
+  parentCode: RYF-QPR-HGB-BQN-KNN
+  parentName: Hockeytvåan
   name: PO 2 till kvalserien HockeyEttan södra
   level: 5
   description: ""
@@ -2130,9 +2130,9 @@ Modifications:
   level: 5
   description: ""
 - action: ADD
-  parentCode: RYF-QPR-HGB-BQN-KKK
-  parentName: HockeyTrean herr
-  name: PlayOff inför kvalserie till HockeyTvåan syd
+  parentCode: RYF-QPR-HGB-BQN-TKF
+  parentName: Hockeytrean
+  name: PlayOff inför kvalserie till Hockeytvåan syd
   level: 5
   description: ""
 - action: ADD
@@ -2148,8 +2148,8 @@ Modifications:
   level: 5
   description: ""
 - action: ADD
-  parentCode: RYF-QPR-HGB-BQN-KKK
-  parentName: HockeyTrean herr
+  parentCode: RYF-QPR-HGB-BQN-TKF
+  parentName: Hockeytrean
   name: södra C fortsättning
   level: 5
   description: ""
@@ -2214,8 +2214,8 @@ Modifications:
   level: 5
   description: ""
 - action: ADD
-  parentCode: RYF-QPR-HGB-BQN-KKK
-  parentName: HockeyTrean herr
+  parentCode: RYF-QPR-HGB-BQN-TKF
+  parentName: Hockeytrean
   name: Alltrean södra B
   level: 5
   description: ""
@@ -2352,8 +2352,8 @@ Modifications:
   level: 5
   description: ""
 - action: ADD
-  parentCode: RYF-QPR-HGB-BQN-UCF
-  parentName: HockeyTvåan herr
+  parentCode: RYF-QPR-HGB-BQN-KNN
+  parentName: Hockeytvåan
   name: Kvalserie södra B
   level: 5
   description: ""
