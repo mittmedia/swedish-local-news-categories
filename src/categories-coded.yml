@@ -420,7 +420,7 @@ categories:
   name: Brottslighet
   status: ACTIVE
 - code: RYF-BIZ-WZJ-BJO
-  description: ''
+  description: Den del av en yrkesutbildning där sden som utbildas ges tillfälle att praktisera yrket
   level: 3
   name: Skottlossning
   status: ACTIVE
@@ -2820,7 +2820,7 @@ categories:
   description: ''
   level: 2
   name: Offentliga utgifter
-  status: ACTIVE
+  status: INACTIVE
 - code: RYF-HPT-ACG
   description: ''
   level: 2
@@ -4961,37 +4961,37 @@ categories:
   name: Pensionsuttag
   status: ACTIVE
 - code: RYF-IXA-CVI
-  description: ''
+  description: Marknadsplatser där man köper och säljer olika saker till marknadspris, vanligtsvis handlas med aktier och finansiella instrument
   level: 2
   name: Börser och handelsmarknader
   status: ACTIVE
 - code: RYF-IXA-CVI-CCS
-  description: ''
+  description: En investeringsfond är en samling av värdepapper, ofta kallad för portfölj, som ägs av många människor tillsammans, vilka är andelsägare i fonden
   level: 3
   name: Fonder
   status: ACTIVE
 - code: RYF-IXA-CVI-CCS-DFC
-  description: ''
+  description: Det pris en fondförvaltare sätter för att förvalta en investeringsfond
   level: 4
   name: Fondavgift
   status: ACTIVE
 - code: RYF-IXA-CVI-CCS-NWM
-  description: ''
+  description: När en kund köper eller säljer andelar i en investeringsfond
   level: 4
   name: Fondhandel
   status: ACTIVE
 - code: RYF-IXA-CVI-CCS-QCA
-  description: ''
+  description: Sparande genom att spararen köper andelar i aktiefonder,  även kallat investeringsfonder, med förväntan om god avkastning
   level: 4
   name: Fondsparande
   status: ACTIVE
 - code: RYF-IXA-CVI-CCS-QGU
-  description: ''
+  description: En form av livförsäkring (pensionsförsäkring) där placeringsrisken i fondförsäkringen bärs av försäkringstagaren
   level: 4
   name: Fondförsäkring
   status: ACTIVE
 - code: RYF-IXA-CVI-CCS-WJK
-  description: ''
+  description: Ett bolag som har rätt att bedriva fondverksamhet
   level: 4
   name: Fondförvaltare
   status: ACTIVE
@@ -5091,7 +5091,7 @@ categories:
   name: Vinstvarning
   status: ACTIVE
 - code: RYF-IXA-CVI-MAB
-  description: ''
+  description: En aktie är en andel i ett aktiebolag, som motsvarar en kapitalinsats från ägaren, och som bildar bolagets aktiekapital
   level: 3
   name: Aktier
   status: ACTIVE
@@ -5102,53 +5102,53 @@ categories:
   replacedBy: RYF-IXA-CVI-MAB-ETQ-CPV
   status: INACTIVE
 - code: RYF-IXA-CVI-MAB-EQL
-  description: ''
+  description: En aktiekurs är priset på en enskild aktie av ett antal säljbara aktier i ett företag, vanligtvis är aktiekursen det högsta belopp som någon är villig att betala för aktie eller det lägsta belopp en aktie kan köpas för
   level: 4
   name: Aktiekurs
   status: ACTIVE
 - code: RYF-IXA-CVI-MAB-ETQ
-  description: ''
+  description: Aktiehandeln utgörs av köp och försäljning av företagsaktier, eller av derivat baserade på företagsaktier
   level: 4
   name: Aktiehandel
   status: ACTIVE
 - code: RYF-IXA-CVI-MAB-ETQ-CPV
-  description: ''
+  description: När en aktie köps
   level: 5
   name: Aktieköp
   replaces: RYF-IXA-CVI-MAB-DSQ
   status: ACTIVE
 - code: RYF-IXA-CVI-MAB-ETQ-LKO
-  description: ''
+  description: Ett temporärt avbrott i den officiella handeln av en noterad aktie på en börs
   level: 5
   name: Handelsstopp
   status: ACTIVE
 - code: RYF-IXA-CVI-MAB-ETQ-LTQ
-  description: ''
+  description: En försäljning av ett värdepapper utan att man äger värdepappret genom att ägaren mot en avgift eller ränta lånar ut ett värdepapper till blankaren under en överenskommen tidsperiod
   level: 5
   name: Blankning
   status: ACTIVE
 - code: RYF-IXA-CVI-MAB-ETQ-OKR
-  description: ''
+  description: När en aktie säljs
   level: 5
   name: Aktieförsäljning
   status: ACTIVE
 - code: RYF-IXA-CVI-MAB-JID
-  description: ''
+  description: En aktie som vid utdelning och likvidation har företrädesrätt framför andra aktier
   level: 4
   name: Preferensaktie
   status: ACTIVE
 - code: RYF-IXA-CVI-MAB-KJN
-  description: ''
+  description: De bolag som är noterade för att dess aktier handlas på en börs
   level: 4
   name: Börsbolag
   status: ACTIVE
 - code: RYF-IXA-CVI-MAB-LPX
-  description: ''
+  description: När ett bolag, vars aktier tidigare handlats på en reglerad marknad, slutar handlas där
   level: 4
   name: Avnotering
   status: ACTIVE
 - code: RYF-IXA-CVI-MAB-NXZ
-  description: ''
+  description: Råd som ges av finansiella rådgivare kring vilka tillgångar man ska investera i och vilka tillgångar man inte ska investera i
   level: 4
   name: Aktierekommendation
   status: ACTIVE
@@ -5168,28 +5168,28 @@ categories:
   name: Råd att behålla
   status: INACTIVE
 - code: RYF-IXA-CVI-MAB-RSJ
-  description: ''
+  description: En börsnotering innebär att man gör bolagets aktier tillgängliga för handel på en marknadsplats
   level: 4
   name: Börsnotering
   replaces: RYF-IXA-KEV-ANU
   status: ACTIVE
 - code: RYF-IXA-CVI-MAB-SBY
-  description: ''
+  description: En aktieportfölj är en samling värdepapper som man investerar, alltså ett samlingsnamn för ens aktieinvesteringar
   level: 4
   name: Aktieportfölj
   status: ACTIVE
 - code: RYF-IXA-CVI-MAB-SKF
-  description: ''
+  description: Handel med värdepapper i bolag som utförs av personer med en ledande ställning i det bolag som ger ut värdepappret
   level: 4
   name: Insynshandel
   status: ACTIVE
 - code: RYF-IXA-CVI-MAB-TUU
-  description: ''
+  description: Den samlade rörelsen i priset på aktier uppåt och nedåt på en börs, så kallad volatilitet
   level: 4
   name: Börsrörelse
   status: ACTIVE
 - code: RYF-IXA-CVI-MAB-UCK
-  description: ''
+  description: Onoterade bolag och startups är bolag vars aktier inte finns börsnoterade
   level: 4
   name: Onoterat bolag
   status: ACTIVE
@@ -5199,22 +5199,22 @@ categories:
   name: Börsras
   status: INACTIVE
 - code: RYF-IXA-CVI-MAB-UOE
-  description: ''
+  description: En programvarustyrd elektronisk handel, så kallad robothandel, av värdepapper, i synnerhet aktier
   level: 4
   name: Algoritmisk handel
   status: ACTIVE
 - code: RYF-IXA-CVI-MAB-WBL
-  description: ''
+  description: Börsintroduktion inträffer när man gör aktierna i ett aktiebolag tillgängliga för handel på en aktiebörs, där aktien samtidigt noteras
   level: 4
   name: Börsintroduktion
   status: ACTIVE
 - code: RYF-IXA-CVI-MAB-WVR
-  description: ''
+  description: En fysisk eller juridisk person som äger en eller flera aktier i ett aktiebolag
   level: 4
   name: Aktieägare
   status: ACTIVE
 - code: RYF-IXA-CVI-MAB-ZDL
-  description: ''
+  description: Aktiekapital är en del av ett aktiebolags bundna egna kapital
   level: 4
   name: Aktiekapital
   status: ACTIVE
@@ -5229,12 +5229,12 @@ categories:
   name: Valutamarknad
   status: ACTIVE
 - code: RYF-IXA-CVI-OSZ
-  description: ''
+  description: Ett ekonomiskt begrepp som beskriver hur mycket en tillgång förändrats i värde från en tidigare tidpunkt
   level: 3
   name: Avkastning
   status: ACTIVE
 - code: RYF-IXA-CVI-OSZ-CWB
-  description: ''
+  description: Ett mått på avkastning på en investering vilket bland annat används som begrepp för utdelningens storlek i förhållande till kursen på en aktie
   level: 4
   name: Direktavkastning
   status: ACTIVE
@@ -5267,22 +5267,22 @@ categories:
   replacedBy: RYF-IXA-KEV-BUB-PQW
   status: INACTIVE
 - code: RYF-IXA-CVI-UVY
-  description: ''
+  description: En option är ett avtal mellan en optionsutställare och en optionsinnehavare som ger innehavaren rätten, men inte skyldigheten, att i framtiden köpa eller sälja en underliggande tillgång till ett på förhand bestämt pris
   level: 3
   name: Option
   status: ACTIVE
 - code: RYF-IXA-CVI-VCE
-  description: ''
+  description: Ett vanligtvis räntebärande, löpande skuldebrev som intygar att innehavaren lånat ut pengar till staten, kreditinstitu eller ett större företag
   level: 3
   name: Obligationer
   status: ACTIVE
 - code: RYF-IXA-CVI-VCE-LJA
-  description: ''
+  description: Statspapper är ett samlingsbegrepp för räntebärande instrument där staten är emittent (låntagare), till exempel statsobligationer eller statsskuldväxlar
   level: 4
   name: Statspapper
   status: ACTIVE
 - code: RYF-IXA-CVI-VCE-QIR
-  description: ''
+  description: En företagsobligation är ett löpande skuldebrev utgivet av statliga bolag och större industriföretag i syfte att låna upp pengar
   level: 4
   name: Företagsobligationer
   status: ACTIVE
@@ -10047,6 +10047,11 @@ categories:
   level: 2
   name: Sporter
   status: ACTIVE
+- code: RYF-QPR-HGB-ADQ
+  description: Skidalpinism (ibland skimo, efter engelska ski mountaineering) är en skidsport där utövarna bestiger berg med skidor, för att sedan åka utför till målet
+  level: 3
+  name: Skidalpinism, skimo
+  status: ACTIVE
 - code: RYF-QPR-HGB-AIO
   description: ''
   level: 3
@@ -10243,6 +10248,11 @@ categories:
   level: 3
   name: Volleyboll
   status: ACTIVE
+- code: RYF-QPR-HGB-BAH-ASO
+  description: ''
+  level: 4
+  name: EM-kval herr
+  status: ACTIVE
 - code: RYF-QPR-HGB-BAH-CRB
   description: ''
   level: 4
@@ -10257,6 +10267,11 @@ categories:
   description: ''
   level: 5
   name: Södra
+  status: ACTIVE
+- code: RYF-QPR-HGB-BAH-DBQ
+  description: ''
+  level: 4
+  name: Elit Grand Prix dam
   status: ACTIVE
 - code: RYF-QPR-HGB-BAH-FYD
   description: ''
@@ -10333,6 +10348,11 @@ categories:
   level: 5
   name: Norra
   status: ACTIVE
+- code: RYF-QPR-HGB-BAH-TTZ
+  description: ''
+  level: 4
+  name: Elit Grand Prix herr
+  status: ACTIVE
 - code: RYF-QPR-HGB-BAH-UUZ
   description: ''
   level: 4
@@ -10408,12 +10428,22 @@ categories:
   level: 5
   name: Västra
   status: ACTIVE
+- code: RYF-QPR-HGB-BQN-ALV
+  description: ''
+  level: 4
+  name: OS-kval dam
+  status: ACTIVE
 - code: RYF-QPR-HGB-BQN-ALW
   description: ''
   level: 4
   name: Hockeyfyran Stockholm fortsättning A
   replacedBy: RYF-QPR-HGB-BQN-RAB-OPH
   status: INACTIVE
+- code: RYF-QPR-HGB-BQN-ALX
+  description: ''
+  level: 4
+  name: Euro Hockey Tour dam
+  status: ACTIVE
 - code: RYF-QPR-HGB-BQN-BXE
   description: ''
   level: 4
@@ -10430,6 +10460,16 @@ categories:
   name: Alltrean södra A
   replacedBy: RYF-QPR-HGB-BQN-TKF-CHH
   status: INACTIVE
+- code: RYF-QPR-HGB-BQN-CKB
+  description: ''
+  level: 4
+  name: JVM herr
+  status: ACTIVE
+- code: RYF-QPR-HGB-BQN-CKF
+  description: ''
+  level: 4
+  name: U18-VM dam
+  status: ACTIVE
 - code: RYF-QPR-HGB-BQN-CPW
   description: ''
   level: 4
@@ -10529,6 +10569,11 @@ categories:
   name: Hockeytrean Örebro-Västmanland
   replacedBy: RYF-QPR-HGB-BQN-TKF-QDO
   status: INACTIVE
+- code: RYF-QPR-HGB-BQN-GEC
+  description: ''
+  level: 4
+  name: HockeyAllsvenskan dam
+  status: ACTIVE
 - code: RYF-QPR-HGB-BQN-GID
   description: ''
   level: 4
@@ -10552,12 +10597,27 @@ categories:
   level: 4
   name: Playoff till Kvalserien Hockeyettan västra
   status: INACTIVE
+- code: RYF-QPR-HGB-BQN-IAJ
+  description: ''
+  level: 4
+  name: NHL 4 nations herr
+  status: ACTIVE
 - code: RYF-QPR-HGB-BQN-JMG
   description: ''
   level: 4
   name: Hockeyfyran Göteborg B
   replacedBy: RYF-QPR-HGB-BQN-RAB-UHP
   status: INACTIVE
+- code: RYF-QPR-HGB-BQN-JWW
+  description: ''
+  level: 4
+  name: CHL herr
+  status: ACTIVE
+- code: RYF-QPR-HGB-BQN-KBC
+  description: ''
+  level: 4
+  name: VM dam
+  status: ACTIVE
 - code: RYF-QPR-HGB-BQN-KNN
   description: ''
   level: 4
@@ -10672,6 +10732,11 @@ categories:
   level: 4
   name: Allettan södra
   status: INACTIVE
+- code: RYF-QPR-HGB-BQN-LUD
+  description: ''
+  level: 4
+  name: U16 herr
+  status: ACTIVE
 - code: RYF-QPR-HGB-BQN-MAH
   description: ''
   level: 4
@@ -10686,6 +10751,11 @@ categories:
   description: ''
   level: 4
   name: FM-ligan
+  status: ACTIVE
+- code: RYF-QPR-HGB-BQN-MNL
+  description: ''
+  level: 4
+  name: FM-ligan herr
   status: ACTIVE
 - code: RYF-QPR-HGB-BQN-MZV
   description: ''
@@ -10715,6 +10785,11 @@ categories:
   description: ''
   level: 4
   name: Guldpucken
+  status: ACTIVE
+- code: RYF-QPR-HGB-BQN-PUX
+  description: ''
+  level: 4
+  name: Euro Hockey Tour herr
   status: ACTIVE
 - code: RYF-QPR-HGB-BQN-PWJ
   description: ''
@@ -10952,6 +11027,16 @@ categories:
   name: Hockeytvåan Södra B fortsättning
   replacedBy: RYF-QPR-HGB-BQN-KNN-CWA
   status: INACTIVE
+- code: RYF-QPR-HGB-BQN-SEH
+  description: ''
+  level: 4
+  name: U18-VM herr
+  status: ACTIVE
+- code: RYF-QPR-HGB-BQN-SIM
+  description: ''
+  level: 4
+  name: VM herr
+  status: ACTIVE
 - code: RYF-QPR-HGB-BQN-SLY
   description: ''
   level: 4
@@ -11402,6 +11487,11 @@ categories:
   name: Hockeytrean Östra fortsättning
   replacedBy: RYF-QPR-HGB-BQN-TKF-SXZ
   status: INACTIVE
+- code: RYF-QPR-HGB-BQN-YKP
+  description: ''
+  level: 4
+  name: HockeyFyran herr
+  status: ACTIVE
 - code: RYF-QPR-HGB-BQN-YPT
   description: ''
   level: 4
@@ -11872,6 +11962,21 @@ categories:
   description: ''
   level: 4
   name: Svenska cupen herr
+  status: ACTIVE
+- code: RYF-QPR-HGB-DEN-BYH
+  description: ''
+  level: 4
+  name: Danmark herr
+  status: ACTIVE
+- code: RYF-QPR-HGB-DEN-CCU
+  description: ''
+  level: 4
+  name: Italienska cupen herr
+  status: ACTIVE
+- code: RYF-QPR-HGB-DEN-CDD
+  description: ''
+  level: 4
+  name: Klubblags-VM herr
   status: ACTIVE
 - code: RYF-QPR-HGB-DEN-CLH
   description: ''
@@ -12359,6 +12464,11 @@ categories:
   level: 4
   name: Nationella ligan
   status: ACTIVE
+- code: RYF-QPR-HGB-DEN-FOL
+  description: ''
+  level: 4
+  name: EM dam
+  status: ACTIVE
 - code: RYF-QPR-HGB-DEN-FXI
   description: ''
   level: 4
@@ -12574,6 +12684,11 @@ categories:
   level: 5
   name: Uppland östra
   status: ACTIVE
+- code: RYF-QPR-HGB-DEN-GNC
+  description: ''
+  level: 4
+  name: EM-kval F19, omg 2 dam
+  status: ACTIVE
 - code: RYF-QPR-HGB-DEN-GZQ
   description: ''
   level: 4
@@ -12604,6 +12719,11 @@ categories:
   level: 5
   name: Damlandslaget i fotboll
   status: INACTIVE
+- code: RYF-QPR-HGB-DEN-HIC
+  description: ''
+  level: 4
+  name: Frankrike dam
+  status: ACTIVE
 - code: RYF-QPR-HGB-DEN-HKY
   description: ''
   level: 4
@@ -13063,6 +13183,26 @@ categories:
   name: La Liga
   replaces: RYF-QPR-HGB-DEN-BOA
   status: ACTIVE
+- code: RYF-QPR-HGB-DEN-LZL
+  description: ''
+  level: 4
+  name: Frankrike herr
+  status: ACTIVE
+- code: RYF-QPR-HGB-DEN-MLS
+  description: ''
+  level: 4
+  name: U17-EM dam
+  status: ACTIVE
+- code: RYF-QPR-HGB-DEN-MNT
+  description: ''
+  level: 4
+  name: Svenska Cupen herr
+  status: ACTIVE
+- code: RYF-QPR-HGB-DEN-MVF
+  description: ''
+  level: 4
+  name: Svenska Cupen dam
+  status: ACTIVE
 - code: RYF-QPR-HGB-DEN-MVN
   description: ''
   level: 4
@@ -13318,6 +13458,36 @@ categories:
   level: 5
   name: Skåne västra
   status: ACTIVE
+- code: RYF-QPR-HGB-DEN-MYS
+  description: ''
+  level: 4
+  name: Skottland herr
+  status: ACTIVE
+- code: RYF-QPR-HGB-DEN-NPZ
+  description: ''
+  level: 4
+  name: Svenska Cupen 24/25 herr
+  status: ACTIVE
+- code: RYF-QPR-HGB-DEN-NRN
+  description: ''
+  level: 4
+  name: Norge herr
+  status: ACTIVE
+- code: RYF-QPR-HGB-DEN-NVL
+  description: ''
+  level: 4
+  name: Svenska Cupen 24/25 dam
+  status: ACTIVE
+- code: RYF-QPR-HGB-DEN-NXE
+  description: ''
+  level: 4
+  name: USA herr
+  status: ACTIVE
+- code: RYF-QPR-HGB-DEN-NYU
+  description: ''
+  level: 4
+  name: VM-kval, Europa herr
+  status: ACTIVE
 - code: RYF-QPR-HGB-DEN-OAF
   description: ''
   level: 4
@@ -13384,6 +13554,21 @@ categories:
   level: 5
   name: EM Final
   status: ACTIVE
+- code: RYF-QPR-HGB-DEN-PAM
+  description: ''
+  level: 4
+  name: VM-kval, Afrika herr
+  status: ACTIVE
+- code: RYF-QPR-HGB-DEN-PMZ
+  description: ''
+  level: 4
+  name: VM-kval, Asien herr
+  status: ACTIVE
+- code: RYF-QPR-HGB-DEN-PVP
+  description: ''
+  level: 4
+  name: Reserv Stockholm herr
+  status: ACTIVE
 - code: RYF-QPR-HGB-DEN-PXP
   description: ''
   level: 4
@@ -13413,6 +13598,11 @@ categories:
   description: ''
   level: 5
   name: Svenska Cupen 23/24 Semifinal
+  status: ACTIVE
+- code: RYF-QPR-HGB-DEN-RNN
+  description: ''
+  level: 4
+  name: U19-EM dam
   status: ACTIVE
 - code: RYF-QPR-HGB-DEN-SML
   description: ''
@@ -13493,6 +13683,16 @@ categories:
   description: ''
   level: 5
   name: Nations League Grupp C2
+  status: ACTIVE
+- code: RYF-QPR-HGB-DEN-SNZ
+  description: ''
+  level: 4
+  name: Finland herr
+  status: ACTIVE
+- code: RYF-QPR-HGB-DEN-SQE
+  description: ''
+  level: 4
+  name: Portugal herr
   status: ACTIVE
 - code: RYF-QPR-HGB-DEN-SZC
   description: ''
@@ -13709,6 +13909,11 @@ categories:
   level: 5
   name: Norra Svealand
   status: ACTIVE
+- code: RYF-QPR-HGB-DEN-TVA
+  description: ''
+  level: 4
+  name: Italienska supercupen herr
+  status: ACTIVE
 - code: RYF-QPR-HGB-DEN-UBA
   description: ''
   level: 4
@@ -13768,6 +13973,11 @@ categories:
   description: ''
   level: 4
   name: UEFA Nations League
+  status: ACTIVE
+- code: RYF-QPR-HGB-DEN-UXU
+  description: ''
+  level: 4
+  name: Nations League dam
   status: ACTIVE
 - code: RYF-QPR-HGB-DEN-VFS
   description: ''
@@ -13830,6 +14040,16 @@ categories:
   description: ''
   level: 4
   name: Superettan
+  status: ACTIVE
+- code: RYF-QPR-HGB-DEN-WYP
+  description: ''
+  level: 4
+  name: F19 dam
+  status: ACTIVE
+- code: RYF-QPR-HGB-DEN-XFQ
+  description: ''
+  level: 4
+  name: Belgien herr
   status: ACTIVE
 - code: RYF-QPR-HGB-DEN-XNC
   description: ''
@@ -13951,6 +14171,16 @@ categories:
   level: 5
   name: Uppland norra
   status: ACTIVE
+- code: RYF-QPR-HGB-DEN-ZCQ
+  description: ''
+  level: 4
+  name: U21-EM herr
+  status: ACTIVE
+- code: RYF-QPR-HGB-DEN-ZCW
+  description: ''
+  level: 4
+  name: USA dam
+  status: ACTIVE
 - code: RYF-QPR-HGB-DEN-ZIJ
   description: ''
   level: 4
@@ -13970,6 +14200,11 @@ categories:
   description: ''
   level: 5
   name: Svenska Cupen 23/24 Omgång 3
+  status: ACTIVE
+- code: RYF-QPR-HGB-DEN-ZOV
+  description: ''
+  level: 4
+  name: England dam
   status: ACTIVE
 - code: RYF-QPR-HGB-DGM
   description: ''
@@ -14143,6 +14378,11 @@ categories:
   description: ''
   level: 4
   name: Division 1
+  status: ACTIVE
+- code: RYF-QPR-HGB-DZQ-NQO
+  description: ''
+  level: 4
+  name: NFL herr
   status: ACTIVE
 - code: RYF-QPR-HGB-DZQ-RVX
   description: ''
@@ -14504,6 +14744,11 @@ categories:
   level: 4
   name: Division 1 herr
   status: ACTIVE
+- code: RYF-QPR-HGB-JDC-HGT
+  description: ''
+  level: 4
+  name: Division 4 herr
+  status: ACTIVE
 - code: RYF-QPR-HGB-JDC-IPY
   description: ''
   level: 4
@@ -14568,6 +14813,12 @@ categories:
   description: ''
   level: 3
   name: Gymnastik
+  status: ACTIVE
+- code: RYF-QPR-HGB-KJR-FUF
+  description: ''
+  level: 4
+  name: Parkour
+  replaces: RYF-TKT-XHP-ZWC
   status: ACTIVE
 - code: RYF-QPR-HGB-KJR-GPN
   description: ''
@@ -14660,11 +14911,26 @@ categories:
   level: 4
   name: Superettan herr
   status: ACTIVE
+- code: RYF-QPR-HGB-MII-JSP
+  description: ''
+  level: 4
+  name: EM herr
+  status: ACTIVE
 - code: RYF-QPR-HGB-MII-LJL
   description: ''
   level: 4
   name: Basketligan rullstol
   status: INACTIVE
+- code: RYF-QPR-HGB-MII-LVP
+  description: ''
+  level: 4
+  name: NBA herr
+  status: ACTIVE
+- code: RYF-QPR-HGB-MII-NSR
+  description: ''
+  level: 4
+  name: EM dam
+  status: ACTIVE
 - code: RYF-QPR-HGB-MII-RYG
   description: ''
   level: 4
@@ -14735,6 +15001,11 @@ categories:
   level: 3
   name: Surfing
   status: ACTIVE
+- code: RYF-QPR-HGB-NSP
+  description: Ursprungligen en amerikansk hejarklack-sport som kombinerar avancerade trick, uniformer och hejaramsor för att stötta budskapet om entusiasm och sportsmannaanda
+  level: 3
+  name: Cheerleading
+  status: ACTIVE
 - code: RYF-QPR-HGB-NUF
   description: ''
   level: 3
@@ -14782,6 +15053,11 @@ categories:
   level: 3
   name: Bandy
   status: ACTIVE
+- code: RYF-QPR-HGB-OQU-AJE
+  description: ''
+  level: 4
+  name: Division 2 herr
+  status: ACTIVE
 - code: RYF-QPR-HGB-OQU-BQZ
   description: ''
   level: 4
@@ -14811,6 +15087,11 @@ categories:
   description: ''
   level: 5
   name: Östra
+  status: ACTIVE
+- code: RYF-QPR-HGB-OQU-CQX
+  description: ''
+  level: 4
+  name: VM dam
   status: ACTIVE
 - code: RYF-QPR-HGB-OQU-EKM
   description: ''
@@ -14842,6 +15123,16 @@ categories:
   level: 5
   name: Västergötland
   status: ACTIVE
+- code: RYF-QPR-HGB-OQU-EVZ
+  description: ''
+  level: 4
+  name: Nationell dam
+  status: ACTIVE
+- code: RYF-QPR-HGB-OQU-GAG
+  description: ''
+  level: 4
+  name: Allsvenska supercupen herr
+  status: ACTIVE
 - code: RYF-QPR-HGB-OQU-GBI
   description: ''
   level: 4
@@ -14851,6 +15142,11 @@ categories:
   description: ''
   level: 4
   name: Allsvenskan herr
+  status: ACTIVE
+- code: RYF-QPR-HGB-OQU-JOJ
+  description: ''
+  level: 4
+  name: VM herr
   status: ACTIVE
 - code: RYF-QPR-HGB-OQU-KCB
   description: ''
@@ -14902,6 +15198,11 @@ categories:
   level: 5
   name: Final
   status: ACTIVE
+- code: RYF-QPR-HGB-OQU-MMF
+  description: ''
+  level: 4
+  name: Division 1 herr
+  status: ACTIVE
 - code: RYF-QPR-HGB-OQU-NMQ
   description: ''
   level: 4
@@ -14932,6 +15233,11 @@ categories:
   level: 5
   name: Sydväst
   status: ACTIVE
+- code: RYF-QPR-HGB-OQU-YFE
+  description: ''
+  level: 4
+  name: Nationell herr
+  status: ACTIVE
 - code: RYF-QPR-HGB-PJR
   description: ''
   level: 3
@@ -14941,6 +15247,36 @@ categories:
   description: ''
   level: 4
   name: Allsvenskan herr
+  status: ACTIVE
+- code: RYF-QPR-HGB-PJR-ALH
+  description: ''
+  level: 4
+  name: VM-kval dam
+  status: ACTIVE
+- code: RYF-QPR-HGB-PJR-AWM
+  description: ''
+  level: 4
+  name: Champions League herr
+  status: ACTIVE
+- code: RYF-QPR-HGB-PJR-BIC
+  description: ''
+  level: 4
+  name: U19-VM herr
+  status: ACTIVE
+- code: RYF-QPR-HGB-PJR-BWK
+  description: ''
+  level: 4
+  name: U19-VM dam
+  status: ACTIVE
+- code: RYF-QPR-HGB-PJR-DVM
+  description: ''
+  level: 4
+  name: VM herr
+  status: ACTIVE
+- code: RYF-QPR-HGB-PJR-GBN
+  description: ''
+  level: 4
+  name: European Cup herr
   status: ACTIVE
 - code: RYF-QPR-HGB-PJR-GVY
   description: ''
@@ -15022,6 +15358,11 @@ categories:
   level: 5
   name: Norra
   status: ACTIVE
+- code: RYF-QPR-HGB-PJR-MTH
+  description: ''
+  level: 4
+  name: Champions League dam
+  status: ACTIVE
 - code: RYF-QPR-HGB-PJR-NGN
   description: ''
   level: 4
@@ -15057,6 +15398,11 @@ categories:
   level: 5
   name: Västsvenska västra
   status: ACTIVE
+- code: RYF-QPR-HGB-PJR-OJU
+  description: ''
+  level: 4
+  name: European Cup dam
+  status: ACTIVE
 - code: RYF-QPR-HGB-PJR-PQK
   description: ''
   level: 4
@@ -15066,6 +15412,16 @@ categories:
   description: ''
   level: 4
   name: Kvalet till Handbollsligan herr
+  status: ACTIVE
+- code: RYF-QPR-HGB-PJR-QTD
+  description: ''
+  level: 4
+  name: EM-kval herr
+  status: ACTIVE
+- code: RYF-QPR-HGB-PJR-QWZ
+  description: ''
+  level: 4
+  name: Tyskland herr
   status: ACTIVE
 - code: RYF-QPR-HGB-PJR-QXN
   description: ''
@@ -15087,10 +15443,30 @@ categories:
   level: 5
   name: Väst Sydost
   status: ACTIVE
+- code: RYF-QPR-HGB-PJR-SET
+  description: ''
+  level: 4
+  name: EM dam
+  status: ACTIVE
+- code: RYF-QPR-HGB-PJR-TIN
+  description: ''
+  level: 4
+  name: European League dam
+  status: ACTIVE
+- code: RYF-QPR-HGB-PJR-TOP
+  description: ''
+  level: 4
+  name: U21-VM herr
+  status: ACTIVE
 - code: RYF-QPR-HGB-PJR-WKS
   description: ''
   level: 4
   name: Beachhandboll
+  status: ACTIVE
+- code: RYF-QPR-HGB-PJR-XCM
+  description: ''
+  level: 4
+  name: European League herr
   status: ACTIVE
 - code: RYF-QPR-HGB-PJR-XPJ
   description: ''
@@ -15277,6 +15653,11 @@ categories:
   level: 5
   name: Stockholm norra
   status: ACTIVE
+- code: RYF-QPR-HGB-QHJ-DOU
+  description: ''
+  level: 4
+  name: Juniorallsvenskan herr
+  status: ACTIVE
 - code: RYF-QPR-HGB-QHJ-GAO
   description: ''
   level: 4
@@ -15306,6 +15687,11 @@ categories:
   description: ''
   level: 5
   name: Södra
+  status: ACTIVE
+- code: RYF-QPR-HGB-QHJ-HTW
+  description: ''
+  level: 4
+  name: Juniorallsvenskan dam
   status: ACTIVE
 - code: RYF-QPR-HGB-QHJ-KRL
   description: ''
@@ -15412,6 +15798,11 @@ categories:
   level: 5
   name: Östergötland
   status: ACTIVE
+- code: RYF-QPR-HGB-QHJ-PGQ
+  description: ''
+  level: 4
+  name: Svenska Cupen herr
+  status: ACTIVE
 - code: RYF-QPR-HGB-QHJ-RVU
   description: ''
   level: 4
@@ -15431,6 +15822,11 @@ categories:
   description: ''
   level: 5
   name: Kvartsfinal
+  status: ACTIVE
+- code: RYF-QPR-HGB-QHJ-SPJ
+  description: ''
+  level: 4
+  name: Champions Cup dam
   status: ACTIVE
 - code: RYF-QPR-HGB-QHJ-SSA
   description: ''
@@ -15506,6 +15902,21 @@ categories:
   description: ''
   level: 5
   name: Värmland
+  status: ACTIVE
+- code: RYF-QPR-HGB-QHJ-TKC
+  description: ''
+  level: 4
+  name: VM herr
+  status: ACTIVE
+- code: RYF-QPR-HGB-QHJ-TKY
+  description: ''
+  level: 4
+  name: VM-kval dam
+  status: ACTIVE
+- code: RYF-QPR-HGB-QHJ-TML
+  description: ''
+  level: 4
+  name: Champions Cup herr
   status: ACTIVE
 - code: RYF-QPR-HGB-QHJ-UMO
   description: ''
@@ -15751,6 +16162,11 @@ categories:
   description: ''
   level: 5
   name: Östra Svealand
+  status: ACTIVE
+- code: RYF-QPR-HGB-QHJ-YCN
+  description: ''
+  level: 4
+  name: Svenska Cupen dam
   status: ACTIVE
 - code: RYF-QPR-HGB-RQL
   description: ''
@@ -16017,6 +16433,11 @@ categories:
   level: 5
   name: Elitserien Grupp B
   status: ACTIVE
+- code: RYF-QPR-HGB-WVD-BEM
+  description: ''
+  level: 4
+  name: United Cup, mix
+  status: ACTIVE
 - code: RYF-QPR-HGB-WVD-GSP
   description: ''
   level: 4
@@ -16046,6 +16467,11 @@ categories:
   description: Final i tennis division 1
   level: 5
   name: SM-final
+  status: ACTIVE
+- code: RYF-QPR-HGB-WVD-XVF
+  description: ''
+  level: 4
+  name: Billie Jean Cup dam
   status: ACTIVE
 - code: RYF-QPR-HGB-WVD-XWT
   description: ''
@@ -16182,6 +16608,26 @@ categories:
   level: 3
   name: Futsal
   status: ACTIVE
+- code: RYF-QPR-HGB-YOC-ACW
+  description: ''
+  level: 4
+  name: Futsalligan herr
+  status: ACTIVE
+- code: RYF-QPR-HGB-YOC-AQX
+  description: ''
+  level: 4
+  name: Division 2 herr
+  status: ACTIVE
+- code: RYF-QPR-HGB-YOC-HGY
+  description: ''
+  level: 4
+  name: Division 1 dam
+  status: ACTIVE
+- code: RYF-QPR-HGB-YOC-NWU
+  description: ''
+  level: 4
+  name: Division 3 herr
+  status: ACTIVE
 - code: RYF-QPR-HGB-YOC-OCZ
   description: ''
   level: 4
@@ -16267,6 +16713,11 @@ categories:
   level: 3
   name: Badminton
   status: ACTIVE
+- code: RYF-QPR-HGB-YTM-KSK
+  description: ''
+  level: 4
+  name: Division 2 mix
+  status: ACTIVE
 - code: RYF-QPR-HGB-YTM-NIM
   description: ''
   level: 4
@@ -16296,6 +16747,11 @@ categories:
   description: ''
   level: 4
   name: Svenska badmintonligan
+  status: ACTIVE
+- code: RYF-QPR-HGB-YTM-RNV
+  description: ''
+  level: 4
+  name: Badmintonligan mix
   status: ACTIVE
 - code: RYF-QPR-HGB-ZCJ
   description: ''
@@ -20400,7 +20856,8 @@ categories:
   description: ''
   level: 3
   name: Parkour
-  status: ACTIVE
+  replacedBy: RYF-QPR-HGB-KJR-FUF
+  status: INACTIVE
 - code: RYF-TKT-YIG
   description: ''
   level: 2
@@ -22491,9 +22948,9 @@ categories:
   name: Hepatit
   status: ACTIVE
 - code: RYF-WUU-JZK-TAC
-  description: ''
+  description: Innebär att en människa har en partiell eller total nedsättning av en fysisk, psykisk eller intellektuell förmåga, eller en kombination av dessa
   level: 3
-  name: Funktionsvariation
+  name: Funktionsnedsättning
   status: ACTIVE
 - code: RYF-WUU-JZK-TAC-AGT
   description: ''
@@ -23936,7 +24393,7 @@ categories:
   level: 3
   name: Krigsförbrytelse
   replaces: RYF-WXT-CRN-NNP-KLE
-  status: ACTIVE
+  status: INACTIVE
 - code: RYF-WXT-HGG-NEY
   description: ''
   level: 3
@@ -23995,6 +24452,11 @@ categories:
   name: Kärnvapen
   replacedBy: RYF-WXT-DQK-ZHN
   status: INACTIVE
+- code: RYF-WXT-MZK
+  description: En typ av krigföring som karaktäriseras av en kombination av traditionella militära, irreguljära och civila metoder, och som utnyttjas mot ett gemensamt mål i alla olika skeden av en konflikt
+  level: 2
+  name: Hybridkrigföring
+  status: ACTIVE
 - code: RYF-WXT-NKW
   description: En ofta våldsamma förändringar i ett lands statsskick genom inre krafter
   level: 2
@@ -24526,6 +24988,11 @@ categories:
   level: 5
   name: Träsnide
   replaces: RYF-XKI-LNE-QWZ-GLQ
+  status: ACTIVE
+- code: RYF-XKI-CUP-NCO-QWZ-HCD
+  description: Konstglas är en produkt av glas som framställts med tanke på utseende snarare än praktisk användning, även om konstglas kan ha en praktisk funktion och bruksföremål i glas kan ha kända formgivare och avancerad design
+  level: 5
+  name: Konstglas
   status: ACTIVE
 - code: RYF-XKI-CUP-NCO-QWZ-TVO
   description: ''
@@ -26564,12 +27031,12 @@ categories:
   name: Rekrytering
   status: INACTIVE
 - code: RYF-ZEI-AVN
-  description: ''
+  description: Fysisk eller psykisk skada eller sjukdom som uppkommit under arbetstid och/eller till följd av arbete
   level: 2
   name: Arbetsskada
   status: ACTIVE
 - code: RYF-ZEI-AVN-LAA
-  description: ''
+  description: Den socialförsäkring som ersätter personer som insjuknat eller råkat ut för olyckor till följd av sitt arbete
   level: 3
   name: Arbetsskadeförsäkring
   status: ACTIVE
@@ -26685,102 +27152,102 @@ categories:
   replacedBy: RYF-ZEI-ERP-END
   status: INACTIVE
 - code: RYF-ZEI-CZS
-  description: ''
+  description: Personal är en grupp människor som arbetar för en gemensam huvudman och är kontrakterade genom ett anställningsavtal
   level: 2
   name: Personal och anställning
   status: ACTIVE
 - code: RYF-ZEI-CZS-FIE
-  description: ''
+  description: När någon inte arbetar på grund av sjukdom
   level: 3
   name: Sjukskrivning
   replaces: RYF-ZEI-ICY
   status: ACTIVE
 - code: RYF-ZEI-CZS-FIE-EYL
-  description: ''
+  description: En del av sjukförsäkringen som utbetalas till vissa vars arbetsförmåga är nedsatt på grund av sjukdom
   level: 4
   name: Sjukpenning
   status: ACTIVE
 - code: RYF-ZEI-CZS-FIE-LTH
-  description: ''
+  description: En form av självrisk där man inte får sjukpenning en vioss tid i samband med sjukskrivning
   level: 4
   name: Karensavdrag
   status: ACTIVE
 - code: RYF-ZEI-CZS-FIE-UMX
-  description: ''
+  description: En försäkringsliknande förmån till stöd för den som drabbats av sjukdom eller ohälsa
   level: 4
   name: Sjukförsäkring
   status: ACTIVE
 - code: RYF-ZEI-CZS-GEI
-  description: ''
+  description: Åtgärder för att ge kompetens på nytt område till medarbetare vars huvudsakliga kompetens blivit mindre användbar
   level: 3
   name: Kompetensväxling
   status: ACTIVE
 - code: RYF-ZEI-CZS-JLQ
-  description: ''
+  description: Åtgärder för att minska ett företags kostnader
   level: 3
   name: Nedskärningar
   status: ACTIVE
 - code: RYF-ZEI-CZS-JLQ-IMF
-  description: ''
+  description: Varsel om uppsägning är ett begrepp inom svensk arbetsrätt, som innebär att en arbetsgivare förvarnar om en större mängd uppsägningar inom företaget
   level: 4
   name: Uppsägning och varsel
   replaces: RYF-ZEI-QWT-IIW
   status: ACTIVE
 - code: RYF-ZEI-CZS-JZU
-  description: ''
+  description: När ett företag rekryterar nya medarbetare
   level: 3
   name: Nyanställning
   status: ACTIVE
 - code: RYF-ZEI-CZS-JZU-ADK
-  description: ''
+  description: När en  myndighet tillsätter en tjänsteman till offentligt ämbete
   level: 4
   name: Förordnande
   status: ACTIVE
 - code: RYF-ZEI-CZS-JZU-JMM
-  description: ''
+  description: Processen att söka, attrahera och kontraktera personer till att utföra någon form av arbete eller uppgift
   level: 4
   name: Rekrytering
   replaces: RYF-ZEI-AGF-NLP
   status: ACTIVE
 - code: RYF-ZEI-CZS-SAF
-  description: ''
+  description: Arbetet med att säkerställa att företaget har rätt kompetens
   level: 3
   name: Kompetensförsörjning
   status: ACTIVE
 - code: RYF-ZEI-CZS-WIC
-  description: Kompletterande utbildning för att förbättra nuvarande kompetens
+  description: När personal eller ledning går olika former av utbildningar och kurser inom sin yrkesroll
   level: 3
   name: Kompetensutveckling
   replaces: RYF-ZEI-YYF
   status: ACTIVE
 - code: RYF-ZEI-CZS-WLH
-  description: ''
+  description: När en arbetsgivare hyr in resurser eller kompetenser från ett bemanningsföretag i stället för att anställa
   level: 3
   name: Bemanning
   status: ACTIVE
 - code: RYF-ZEI-CZS-XBS
-  description: ''
+  description: Den tid som människor ägnar åt förvärvsarbete
   level: 3
   name: Arbetstid
   status: ACTIVE
 - code: RYF-ZEI-CZS-XBS-LXX
-  description: ''
+  description: Tillfällig arbetstid utöver full arbetstid och jourtid
   level: 4
   name: Övertid
   status: ACTIVE
 - code: RYF-ZEI-CZS-XBS-YYF
-  description: ''
+  description: Översiktlig uppställning över personalens arbetstid
   level: 4
   name: Schemaläggning
   status: ACTIVE
 - code: RYF-ZEI-ERP
-  description: ''
+  description: Åtgärder som stimulerar en person till egna aktiva hälsobefrämjande insatser
   level: 2
   name: Friskvård
   replaces: RYF-ZEI-CLV-VVZ
   status: ACTIVE
 - code: RYF-ZEI-ERP-END
-  description: ''
+  description: Bidrag som anställda kan använda till enklare aktiviteter med inslag av motion eller annan friskvård
   level: 3
   name: Friskvårdsbidrag
   replaces: RYF-ZEI-CLV-VVZ-END
@@ -26816,7 +27283,7 @@ categories:
   replacedBy: RYF-ZEI-CZS-FIE
   status: INACTIVE
 - code: RYF-ZEI-IQH
-  description: ''
+  description: Den som utbildar sig till ett yrke under en yrkesverksam mästare inom detta område
   level: 2
   name: Lärling
   replaces: RYF-ZEI-CLV-KWA
@@ -26828,78 +27295,78 @@ categories:
   replacedBy: RYF-IXA-QED-HZF
   status: INACTIVE
 - code: RYF-ZEI-JQV
-  description: ''
+  description: En persons utveckling inom arbetslivet
   level: 2
   name: Karriär
   replaces: RYF-CUW-JAY
   status: ACTIVE
 - code: RYF-ZEI-KLS
-  description: ''
+  description: Den del av en yrkesutbildning där sden som utbildas ges tillfälle att praktisera yrket
   level: 2
   name: Yrkesträning
   replaces: RYF-ZEI-CLV-IXZ
   status: ACTIVE
 - code: RYF-ZEI-NQK
-  description: ''
+  description: Sommarjobb är ett tillfälligt arbete under sommaren. Det innehas vanligen av en studerande person under sommarledigheten, ibland används även termen om säsongsarbete
   level: 2
   name: Sommarjobb
   status: ACTIVE
 - code: RYF-ZEI-NYT
-  description: ''
+  description: Anställd person som har ett anställningsavtal med en annan part – arbetsgivare, som oftast är en juridisk person
   level: 2
   name: Arbetstagare
   replaces: RYF-ZEI-CLV-AQQ
   status: ACTIVE
 - code: RYF-ZEI-PGW
-  description: ''
+  description: Den som upprättar ett anställningsavtal med en arbetstagare om att mot en bestämd ersättning erhålla en arbetsprestation av den senare
   level: 2
   name: Arbetsgivare
   replaces: RYF-ZEI-CLV-GBF
   status: ACTIVE
 - code: RYF-ZEI-QBA
-  description: ''
+  description: Efterfrågan och tillgången på arbetskraft
   level: 2
   name: Arbetsmarknad
   status: ACTIVE
 - code: RYF-ZEI-QVY
-  description: ''
+  description: Lön är en ersättning som betalas till en person för utförande av arbete. En förmån är när arbetsgivaren bekostar en privat levnadskostnad
   level: 2
   name: Lön och förmån
   replaces: RYF-ZEI-CLV-AGH
   status: ACTIVE
 - code: RYF-ZEI-QVY-DUT
-  description: ''
+  description: En överläggning mellan två eller flera parter för att nå en överenskommelse ny lön
   level: 3
   name: Löneförhandling
   status: ACTIVE
 - code: RYF-ZEI-QVY-NSF
-  description: ''
+  description: Ekonomisk kompensation som en anställd kan få av sin arbetsgivare för väl utfört arbete
   level: 3
   name: Bonus
   status: ACTIVE
 - code: RYF-ZEI-QVY-PNO
-  description: ''
+  description: När en löntagare avstår en del av lönen för att använda pengarna till att förstärka sin pension via en extra tjänstepension
   level: 3
   name: Löneväxling
   status: ACTIVE
 - code: RYF-ZEI-QVY-WFN
-  description: ''
+  description: Ett arbetsmarknadspolitiskt begrepp som innebär skillnader i lön mellan olika grupper av arbetstagare
   level: 3
   name: Lönespridning
   replaces: RYF-ZEI-CLV-AGH-WFN
   status: ACTIVE
 - code: RYF-ZEI-QVY-ZGW
-  description: ''
+  description: Den summa pengar en person tjänat genom arbete
   level: 3
   name: Inkomst
   status: ACTIVE
 - code: RYF-ZEI-QWT
-  description: ''
+  description: När en person inte har ett arbete och samtidigt ägnar sig åt aktivt jobbsökande
   level: 2
   name: Arbetslöshet
   status: ACTIVE
 - code: RYF-ZEI-QWT-FSK
-  description: ''
+  description: Arbetslöshetskassa, a-kassa, har som främsta uppgift att administrera och betala ut arbetslöshetsersättning till personer som är arbetslösa
   level: 3
   name: A-kassa
   status: ACTIVE
@@ -26910,17 +27377,17 @@ categories:
   replacedBy: RYF-ZEI-CZS-JLQ-IMF
   status: INACTIVE
 - code: RYF-ZEI-QWT-QJQ
-  description: Att ändra inriktning på sitt arbetsliv genom utbildning till något annat än man ägnat sig åt tidigare
+  description: En arbetsmarknadsåtgärd som syftar till att en arbetslös ska lära sig ett nytt yrke
   level: 3
   name: Omskolning
   status: ACTIVE
 - code: RYF-ZEI-RYD
-  description: Lagar som styr anställningsförhållanden, arbetsrätt, arbetsmiljö, arbetstagarinflytande och arbetsmarknadsreglering
+  description: Den lagstiftning som reglerar förhållandet mellan arbetsgivare och arbetstagare
   level: 2
   name: Arbetsrätt
   status: ACTIVE
 - code: RYF-ZEI-RYD-DFU
-  description: ''
+  description: Den lag som reglerar anställningsförhållandet (mellan arbetstagare och arbetsgivare), bland annat vilka regler som gäller vid anställning, uppsägning och avskedande
   level: 3
   name: Lagen om anställningsskydd, LAS
   status: ACTIVE
@@ -26930,29 +27397,29 @@ categories:
   name: Arbetsmiljö
   status: ACTIVE
 - code: RYF-ZEI-RYD-YZX-NAP
-  description: ''
+  description: Brott på en arbetsplats som definieras i Brottsbalken och Arbetsmiljölagen
   level: 4
   name: Arbetsmiljöbrott
   status: ACTIVE
 - code: RYF-ZEI-SID
-  description: ''
+  description: Ett yrke, eller jobb, är en sysselsättning eller specialisering som en person utbildar sig till eller går i lära för och som kan knytas till försörjning
   level: 2
   name: Yrken
   replaces: RYF-ZEI-CLV-BLS
   status: ACTIVE
 - code: RYF-ZEI-UOK
-  description: ''
+  description: Arbete sker från en arbetsplats utanför arbetsgivarens lokaler
   level: 2
   name: Distansarbete
   status: ACTIVE
 - code: RYF-ZEI-YVF
-  description: Vanligtvis skriftliga avtal som täcker en specifik klass av arbetare och deras anställnignsvillkor
+  description: Skriftliga avtal som täcker en specifik grupp av arbetare och deras anställnignsvillkor
   level: 2
   name: Kollektivavtal
   replaces: RYF-ZEI-CLV-QGD
   status: ACTIVE
 - code: RYF-ZEI-YVF-AMA
-  description: ''
+  description: En återkommande händelse där arbetsmarknadens parter, arbetstagare och arbetsgivare, förhandlar fram nya kollektivavtal som reglerar löner och arbetsförhållanden
   level: 3
   name: Avtalsrörelsen
   replaces: RYF-ZEI-CLV-QGD-AMA

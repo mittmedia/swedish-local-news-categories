@@ -127,10 +127,6 @@ modifications:
   name: Personal och anställning
   description: Personal är en grupp människor som arbetar för en gemensam huvudman och är kontrakterade genom ett anställningsavtal
 - action: UPDATE
-  code: RYF-ZEI-CZS
-  name: Personal och anställning
-  description: Personal är en grupp människor som arbetar för en gemensam huvudman och är kontrakterade genom ett anställningsavtal
-- action: UPDATE
   code: RYF-ZEI-CZS-XBS
   name: Arbetstid
   description: Den tid som människor ägnar åt förvärvsarbete
@@ -139,7 +135,7 @@ modifications:
   name: Övertid
   description: Tillfällig arbetstid utöver full arbetstid och jourtid
 - action: UPDATE
-  code: RYF-ZEI-CZS-XBS-LXX
+  code: RYF-ZEI-CZS-XBS-YYF
   name: Schemaläggning
   description: Översiktlig uppställning över personalens arbetstid
 - action: UPDATE
@@ -170,8 +166,8 @@ modifications:
   description: Varsel om uppsägning är ett begrepp inom svensk arbetsrätt, som innebär att en arbetsgivare förvarnar om en större mängd uppsägningar inom företaget
 - action: UPDATE
   code: RYF-ZEI-CZS-JZU
-  name: Nyanställningar
-  newname: Nyanställning
+  name: Nyanställning
+  newname: Nyanställningar
   description: När ett företag rekryterar nya medarbetare
 - action: UPDATE
   code: RYF-ZEI-CZS-JZU-ADK
