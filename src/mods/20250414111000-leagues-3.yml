@@ -36,12 +36,6 @@ modifications:
   level: 5
   description: ""
 - action: ADD
-  parentCode: XXXX
-  parentName: VM dam
-  name: Semifinal
-  level: 5
-  description: ""
-- action: ADD
   parentCode: RYF-QPR-HGB-PJR-OJL
   parentName: Svenska Cupen herr
   name: Semifinal
@@ -126,18 +120,6 @@ modifications:
   level: 5
   description: ""
 - action: ADD
-  parentCode: XXXX
-  parentName: VM dam
-  name: Final
-  level: 5
-  description: ""
-- action: ADD
-  parentCode: XXXX
-  parentName: Division 1 herr
-  name: norra uppflyttningsserie
-  level: 5
-  description: ""
-- action: ADD
   parentCode: RYF-QPR-HGB-QHJ-OTJ
   parentName: Division 2 herr
   name: Västmanland/Örebro playoff 1 till div 2
@@ -174,12 +156,6 @@ modifications:
   level: 4
   description: ""
 - action: ADD
-  parentCode: XXXX
-  parentName: EM dam
-  name: Kvartsfinal
-  level: 5
-  description: ""
-- action: ADD
   parentCode: RYF-QPR-HGB-OQU-YFE
   parentName: Nationell herr
   name: U17, SM-final
@@ -201,12 +177,6 @@ modifications:
   parentCode: RYF-QPR-HGB-OQU-EVZ
   parentName: Nationell dam
   name: F17 semifinal
-  level: 5
-  description: ""
-- action: ADD
-  parentCode: XXXX
-  parentName: VM dam
-  name: Bronsmatch
   level: 5
   description: ""
 - action: ADD
@@ -279,12 +249,6 @@ modifications:
   parentCode: RYF-QPR-HGB-OQU-GAG
   parentName: Allsvenska supercupen herr
   name: Final
-  level: 5
-  description: ""
-- action: ADD
-  parentCode: XXXX
-  parentName: VM dam
-  name: Gruppspel
   level: 5
   description: ""
 - action: ADD
@@ -564,12 +528,6 @@ modifications:
   level: 5
   description: ""
 - action: ADD
-  parentCode: XXXX
-  parentName: Division 2 herr
-  name: Nord-Syd
-  level: 5
-  description: ""
-- action: ADD
   parentCode: RYF-QPR-HGB-BQN-VFB
   parentName: SDHL
   name: Kval till SDHL
@@ -819,12 +777,6 @@ modifications:
   parentCode: RYF-QPR-HGB-DEN-GHJ
   parentName: Division 5 dam
   name: Höglandet
-  level: 5
-  description: ""
-- action: ADD
-  parentCode: XXXX
-  parentName: Division 1 herr
-  name: norra nedflyttningsserie
   level: 5
   description: ""
 - action: ADD
@@ -1194,18 +1146,6 @@ modifications:
   level: 5
   description: ""
 - action: ADD
-  parentCode: XXXX EM dam
-  parentName: EM dam
-  name: Grupp B
-  level: 5
-  description: ""
-- action: ADD
-  parentCode: XXXX VM herr
-  parentName: VM herr
-  name: Grupp F
-  level: 5
-  description: ""
-- action: ADD
   parentCode: RYF-QPR-HGB-DEN-GHJ
   parentName: Division 5 dam
   name: Västergötland västra
@@ -1260,30 +1200,6 @@ modifications:
   level: 5
   description: ""
 - action: ADD
-  parentCode: XXXX
-  parentName: VM herr
-  name: Kvartsfinal
-  level: 5
-  description: ""
-- action: ADD
-  parentCode: XXXX
-  parentName: VM herr
-  name: Grupp 3
-  level: 5
-  description: ""
-- action: ADD
-  parentCode: XXXX
-  parentName: VM herr
-  name: Match om 27:e plats
-  level: 5
-  description: ""
-- action: ADD
-  parentCode: XXXX
-  parentName: VM herr
-  name: Match om 31:a plats
-  level: 5
-  description: ""
-- action: ADD
   parentCode: RYF-QPR-HGB-BQN-GEC
   parentName: HockeyAllsvenskan dam
   name: Förkval till SDHL
@@ -1311,30 +1227,6 @@ modifications:
   parentCode: RYF-QPR-HGB-DEN-SNM
   parentName: Nations League herr
   name: Kval till Liga C
-  level: 5
-  description: ""
-- action: ADD
-  parentCode: XXXX
-  parentName: VM herr
-  name: Grupp 4
-  level: 5
-  description: ""
-- action: ADD
-  parentCode: XXXX
-  parentName: EM dam
-  name: Grupp C
-  level: 5
-  description: ""
-- action: ADD
-  parentCode: XXXX
-  parentName: EM dam
-  name: Semifinal
-  level: 5
-  description: ""
-- action: ADD
-  parentCode: XXXX
-  parentName: VM herr
-  name: Semifinal
   level: 5
   description: ""
 - action: ADD
@@ -1404,57 +1296,9 @@ modifications:
   level: 5
   description: ""
 - action: ADD
-  parentCode: XXXX
-  parentName: VM herr
-  name: Grupp E
-  level: 5
-  description: ""
-- action: ADD
-  parentCode: XXXX
-  parentName: VM herr
-  name: Grupp H
-  level: 5
-  description: ""
-- action: ADD
-  parentCode: XXXX
-  parentName: VM herr
-  name: Placeringsgrupp 1
-  level: 5
-  description: ""
-- action: ADD
-  parentCode: XXXX
-  parentName: VM herr
-  name: Match om 25:e plats
-  level: 5
-  description: ""
-- action: ADD
-  parentCode: XXXX
-  parentName: VM herr
-  name: Match om 29:e plats
-  level: 5
-  description: ""
-- action: ADD
-  parentCode: XXXX
-  parentName: EM dam
-  name: Grupp F
-  level: 5
-  description: ""
-- action: ADD
-  parentCode: XXXX
-  parentName: EM dam
-  name: Final
-  level: 5
-  description: ""
-- action: ADD
   parentCode: RYF-QPR-HGB-QHJ-OTJ
   parentName: Division 2 herr
   name: Skåne playoff 1:2 till div 1
-  level: 5
-  description: ""
-- action: ADD
-  parentCode: XXXX
-  parentName: VM herr
-  name: Grupp D
   level: 5
   description: ""
 - action: ADD
@@ -1503,30 +1347,6 @@ modifications:
   parentCode: RYF-QPR-HGB-DEN-UXU
   parentName: Nations League dam
   name: Grupp A3
-  level: 5
-  description: ""
-- action: ADD
-  parentCode: XXXX
-  parentName: EM dam
-  name: Grupp D
-  level: 5
-  description: ""
-- action: ADD
-  parentCode: XXXX
-  parentName: VM herr
-  name: Grupp G
-  level: 5
-  description: ""
-- action: ADD
-  parentCode: XXXX
-  parentName: EM dam
-  name: Grupp A
-  level: 5
-  description: ""
-- action: ADD
-  parentCode: XXXX
-  parentName: EM dam
-  name: Grupp 2
   level: 5
   description: ""
 - action: ADD
@@ -1602,18 +1422,6 @@ modifications:
   level: 5
   description: ""
 - action: ADD
-  parentCode: XXXX
-  parentName: VM herr
-  name: Grupp 2
-  level: 5
-  description: ""
-- action: ADD
-  parentCode: XXXX
-  parentName: VM herr
-  name: Placeringsgrupp 2
-  level: 5
-  description: ""
-- action: ADD
   parentCode: RYF-QPR-HGB-PJR-GYJ
   parentName: Allsvenskan dam
   name: Semi off 1
@@ -1623,30 +1431,6 @@ modifications:
   parentCode: RYF-QPR-HGB-PJR-TIN
   parentName: European League dam
   name: Tredje kvalomgången
-  level: 5
-  description: ""
-- action: ADD
-  parentCode: XXXX
-  parentName: EM dam
-  name: Grupp 1
-  level: 5
-  description: ""
-- action: ADD
-  parentCode: XXXX
-  parentName: EM dam
-  name: Match om 5:e plats
-  level: 5
-  description: ""
-- action: ADD
-  parentCode: XXXX
-  parentName: VM herr
-  name: Grupp C
-  level: 5
-  description: ""
-- action: ADD
-  parentCode: XXXX
-  parentName: VM herr
-  name: Grupp B
   level: 5
   description: ""
 - action: ADD
@@ -1716,33 +1500,9 @@ modifications:
   level: 5
   description: ""
 - action: ADD
-  parentCode: XXXX
-  parentName: EM dam
-  name: Grupp E
-  level: 5
-  description: ""
-- action: ADD
-  parentCode: XXXX
-  parentName: EM dam
-  name: Bronsmatch
-  level: 5
-  description: ""
-- action: ADD
   parentCode: RYF-QPR-HGB-QHJ-OTJ
   parentName: Division 2 herr
   name: Skåne playoff 2 till div 1
-  level: 5
-  description: ""
-- action: ADD
-  parentCode: XXXX
-  parentName: VM herr
-  name: Bronsmatch
-  level: 5
-  description: ""
-- action: ADD
-  parentCode: XXXX
-  parentName: VM herr
-  name: Bronsmatch
   level: 5
   description: ""
 - action: ADD
@@ -1842,12 +1602,6 @@ modifications:
   level: 5
   description: ""
 - action: ADD
-  parentCode: XXXX
-  parentName: VM herr
-  name: Grupp A
-  level: 5
-  description: ""
-- action: ADD
   parentCode: RYF-QPR-HGB-DEN-XYS
   parentName: Champions League
   name: Champions League Åttondelsfinal
@@ -1881,12 +1635,6 @@ modifications:
   parentCode: RYF-QPR-HGB-DEN-VKZ
   parentName: Conference League
   name: Conference League Sextondelsfinal
-  level: 5
-  description: ""
-- action: ADD
-  parentCode: XXXX
-  parentName: Division 2 herr
-  name: Småland NV
   level: 5
   description: ""
 - action: ADD
@@ -1947,12 +1695,6 @@ modifications:
   parentCode: RYF-QPR-HGB-BQN-QPQ
   parentName: J20
   name: J20 Kvalserie A region syd
-  level: 5
-  description: ""
-- action: ADD
-  parentCode: XXXX
-  parentName: VM herr
-  name: Final
   level: 5
   description: ""
 - action: ADD
@@ -2031,12 +1773,6 @@ modifications:
   parentCode: RYF-QPR-HGB-DEN-FCN
   parentName: Grekland herr
   name: Super League
-  level: 5
-  description: ""
-- action: ADD
-  parentCode: XXXX
-  parentName: Division 4 herr
-  name: Skåne nordöstra
   level: 5
   description: ""
 - action: ADD
@@ -2316,12 +2052,6 @@ modifications:
   level: 4
   description: ""
 - action: ADD
-  parentCode: XXXX
-  parentName: EM herr
-  name: Grupp D
-  level: 5
-  description: ""
-- action: ADD
   parentCode: RYF-QPR-HGB-DEN-NYU
   parentName: VM-kval, Europa herr
   name: Grupp I
@@ -2373,24 +2103,6 @@ modifications:
   parentCode: RYF-QPR-HGB-DZQ-NQO
   parentName: NFL herr
   name: Semifinal
-  level: 5
-  description: ""
-- action: ADD
-  parentCode: XXXX
-  parentName: VM dam
-  name: Bronsmatch
-  level: 5
-  description: ""
-- action: ADD
-  parentCode: XXXX
-  parentName: EM herr
-  name: Grupp B
-  level: 5
-  description: ""
-- action: ADD
-  parentCode: XXXX
-  parentName: EM herr
-  name: Grupp C
   level: 5
   description: ""
 - action: ADD
@@ -2478,12 +2190,6 @@ modifications:
   level: 5
   description: ""
 - action: ADD
-  parentCode: XXXX
-  parentName: EM-kval herr
-  name: Grupp 1
-  level: 5
-  description: ""
-- action: ADD
   parentCode: RYF-QPR-HGB-DEN-WEX
   parentName: Spanien herr
   name: Spanska supercupen Final
@@ -2523,12 +2229,6 @@ modifications:
   parentCode: RYF-QPR-HGB-MII-LVP
   parentName: NBA herr
   name: Åttondelsfinal
-  level: 5
-  description: ""
-- action: ADD
-  parentCode: XXXX
-  parentName: EM herr
-  name: Grupp A
   level: 5
   description: ""
 - action: ADD
@@ -2590,30 +2290,6 @@ modifications:
   parentName: Handboll
   name: EHF Euro Cup herr
   level: 4
-  description: ""
-- action: ADD
-  parentCode: XXXX
-  parentName: EM-kval herr
-  name: Grupp 2
-  level: 5
-  description: ""
-- action: ADD
-  parentCode: XXXX
-  parentName: EM-kval herr
-  name: Grupp 6
-  level: 5
-  description: ""
-- action: ADD
-  parentCode: XXXX
-  parentName: EM-kval herr
-  name: Grupp 4
-  level: 5
-  description: ""
-- action: ADD
-  parentCode: XXXX
-  parentName: EM-kval herr
-  name: Grupp 7
-  level: 5
   description: ""
 - action: ADD
   parentCode: RYF-QPR-HGB-BQN
@@ -2730,12 +2406,6 @@ modifications:
   level: 5
   description: ""
 - action: ADD
-  parentCode: XXXX
-  parentName: EM dam
-  name: Grupp D
-  level: 5
-  description: ""
-- action: ADD
   parentCode: RYF-QPR-HGB-DEN-NYU
   parentName: VM-kval, Europa herr
   name: Grupp A
@@ -2781,30 +2451,6 @@ modifications:
   parentCode: RYF-QPR-HGB-DEN-XYS
   parentName: Champions League
   name: Champions League Kvartsfinal
-  level: 5
-  description: ""
-- action: ADD
-  parentCode: XXXX
-  parentName: EM-kval herr
-  name: Grupp 3
-  level: 5
-  description: ""
-- action: ADD
-  parentCode: XXXX
-  parentName: EM-kval herr
-  name: Grupp 5
-  level: 5
-  description: ""
-- action: ADD
-  parentCode: XXXX
-  parentName: EM-kval herr
-  name: Grupp 8
-  level: 5
-  description: ""
-- action: ADD
-  parentCode: XXXX
-  parentName: VM-kval dam
-  name: Playoff
   level: 5
   description: ""
 - action: ADD
@@ -2880,12 +2526,6 @@ modifications:
   level: 5
   description: ""
 - action: ADD
-  parentCode: XXXX
-  parentName: VM herr
-  name: Grupp A
-  level: 5
-  description: ""
-- action: ADD
   parentCode: RYF-QPR-HGB-QHJ-RVU
   parentName: SSL dam
   name: Playoff 1C till SSL
@@ -2895,12 +2535,6 @@ modifications:
   parentCode: RYF-QPR-HGB-QHJ-RVU
   parentName: SSL dam
   name: Playoff 1B till SSL
-  level: 5
-  description: ""
-- action: ADD
-  parentCode: XXXX
-  parentName: VM herr
-  name: Placeringsmatcher 13-16
   level: 5
   description: ""
 - action: ADD
@@ -2919,18 +2553,6 @@ modifications:
   parentCode: RYF-QPR-HGB-BQN-SEH
   parentName: U18-VM herr
   name: Grupp B
-  level: 5
-  description: ""
-- action: ADD
-  parentCode: XXXX
-  parentName: VM dam
-  name: Grupp B
-  level: 5
-  description: ""
-- action: ADD
-  parentCode: XXXX
-  parentName: VM dam
-  name: Kvartsfinal
   level: 5
   description: ""
 - action: ADD
@@ -3051,12 +2673,6 @@ modifications:
   parentCode: RYF-QPR-HGB-DEN-KRJ
   parentName: Tyskland herr
   name: Tyska cupen Första omgången
-  level: 5
-  description: ""
-- action: ADD
-  parentCode: XXXX
-  parentName: VM herr
-  name: Placeringsmatcher 5-8
   level: 5
   description: ""
 - action: ADD
@@ -3198,12 +2814,6 @@ modifications:
   level: 5
   description: ""
 - action: ADD
-  parentCode: XXXX
-  parentName: VM-kval dam
-  name: Grupp A
-  level: 5
-  description: ""
-- action: ADD
   parentCode: RYF-QPR-HGB-BQN-CKB
   parentName: JVM herr
   name: Kvartsfinal
@@ -3213,12 +2823,6 @@ modifications:
   parentCode: RYF-QPR-HGB-BQN-PUX
   parentName: Euro Hockey Tour herr
   name: Swiss Hockey Games
-  level: 5
-  description: ""
-- action: ADD
-  parentCode: XXXX
-  parentName: VM dam
-  name: Final
   level: 5
   description: ""
 - action: ADD
@@ -3354,27 +2958,9 @@ modifications:
   level: 5
   description: ""
 - action: ADD
-  parentCode: XXXX
-  parentName: VM herr
-  name: Placeringsmatcher 9-12
-  level: 5
-  description: ""
-- action: ADD
   parentCode: RYF-QPR-HGB-BQN-CKB
   parentName: JVM herr
   name: Nedflyttningskval
-  level: 5
-  description: ""
-- action: ADD
-  parentCode: XXXX
-  parentName: VM dam
-  name: Grupp A
-  level: 5
-  description: ""
-- action: ADD
-  parentCode: XXXX
-  parentName: VM dam
-  name: Semifinal
   level: 5
   description: ""
 - action: ADD
@@ -3480,12 +3066,6 @@ modifications:
   level: 5
   description: ""
 - action: ADD
-  parentCode: XXXX
-  parentName: VM herr
-  name: Semifinal
-  level: 5
-  description: ""
-- action: ADD
   parentCode: RYF-QPR-HGB-DEN-WEX
   parentName: Spanien herr
   name: Spanska cupen Andra omgången
@@ -3546,12 +3126,6 @@ modifications:
   level: 5
   description: ""
 - action: ADD
-  parentCode: XXXX
-  parentName: VM dam
-  name: Match om 5:e plats
-  level: 5
-  description: ""
-- action: ADD
   parentCode: RYF-QPR-HGB-BQN-CKF
   parentName: U18-VM dam
   name: Bronsmatch
@@ -3579,12 +3153,6 @@ modifications:
   parentCode: RYF-QPR-HGB-BAH-DBQ
   parentName: Elit Grand Prix dam
   name: Semifinal
-  level: 5
-  description: ""
-- action: ADD
-  parentCode: XXXX EM-kval herr
-  parentName: EM-kval herr
-  name: Grupp E
   level: 5
   description: ""
 - action: ADD
@@ -3660,12 +3228,6 @@ modifications:
   level: 5
   description: ""
 - action: ADD
-  parentCode: XXXX
-  parentName: VM herr
-  name: Grupp B
-  level: 5
-  description: ""
-- action: ADD
   parentCode: RYF-QPR-HGB-DEN-CDD
   parentName: Klubblags-VM herr
   name: Grupp B
@@ -3738,27 +3300,9 @@ modifications:
   level: 5
   description: ""
 - action: ADD
-  parentCode: XXXX
-  parentName: Svenska Cupen herr
-  name: Final
-  level: 5
-  description: ""
-- action: ADD
   parentCode: RYF-QPR-HGB-DEN-BBS
   parentName: Svenska Cupen dam
   name: Semifinal
-  level: 5
-  description: ""
-- action: ADD
-  parentCode: XXXX
-  parentName: Svenska Cupen herr
-  name: Final
-  level: 5
-  description: ""
-- action: ADD
-  parentCode: XXXX
-  parentName: EM dam
-  name: Grupp C
   level: 5
   description: ""
 - action: ADD
