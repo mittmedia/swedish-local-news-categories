@@ -1,365 +1,365 @@
 modifications:
-- action: UPDATE
-  code: RYF-WUU-JZK-TAC
-  name: Funktionsvariation
-  newName: Funktionsnedsättning
-  description: Innebär att en människa har en partiell eller total nedsättning av en fysisk, psykisk eller intellektuell förmåga, eller en kombination av dessa
-- action: INACTIVATE
-  code: RYF-WXT-HGG-KLE
-  name: Krigsförbrytelse
-- action: ADD
-  parentCode: RYF-XKI-CUP-NCO-QWZ
-  parentName: Konsthantverk 
-  name: Konstglas
-  level: 5
-  description: Konstglas är en produkt av glas som framställts med tanke på utseende snarare än praktisk användning, även om konstglas kan ha en praktisk funktion och bruksföremål i glas kan ha kända formgivare och avancerad design
-- action: ADD
-  parentCode: RYF-QPR-HGB
-  parentName: Sporter
-  name: Cheerleading
-  level: 3
-  description: Ursprungligen en amerikansk hejarklack-sport som kombinerar avancerade trick, uniformer och hejaramsor för att stötta budskapet om entusiasm och sportsmannaanda
-- action: ADD
-  parentCode: RYF-QPR-HGB
-  parentName: Sporter
-  name: Skidalpinism, skimo
-  level: 3
-  description: Skidalpinism (ibland skimo, efter engelska ski mountaineering) är en skidsport där utövarna bestiger berg med skidor, för att sedan åka utför till målet
-- action: UPDATE
-  code: RYF-ZEI-PGW
-  name: Arbetsgivare
-  description: Den som upprättar ett anställningsavtal med en arbetstagare om att mot en bestämd ersättning erhålla en arbetsprestation av den senare
-- action: UPDATE
-  code: RYF-ZEI-QWT
-  name: Arbetslöshet
-  description: När en person inte har ett arbete och samtidigt ägnar sig åt aktivt jobbsökande
-- action: UPDATE
-  code: RYF-ZEI-QWT-FSK
-  name: A-kassa
-  description: Arbetslöshetskassa, a-kassa, har som främsta uppgift att administrera och betala ut arbetslöshetsersättning till personer som är arbetslösa
-- action: UPDATE
-  code: RYF-ZEI-QWT-QJQ
-  name: Omskolning
-  description: En arbetsmarknadsåtgärd som syftar till att en arbetslös ska lära sig ett nytt yrke
-- action: UPDATE
-  code: RYF-ZEI-QBA
-  name: Arbetsmarknad
-  description: Efterfrågan och tillgången på arbetskraft
-- action: UPDATE
-  code: RYF-ZEI-RYD
-  name: Arbetsrätt
-  description: Den lagstiftning som reglerar förhållandet mellan arbetsgivare och arbetstagare
-- action: UPDATE
-  code: RYF-ZEI-RYD-YZX-NAP
-  name: Arbetsmiljöbrott
-  description: Brott på en arbetsplats som definieras i Brottsbalken och Arbetsmiljölagen
-- action: UPDATE
-  code: RYF-ZEI-RYD-DFU
-  name: Lagen om anställningsskydd, LAS
-  description: Den lag som reglerar anställningsförhållandet (mellan arbetstagare och arbetsgivare), bland annat vilka regler som gäller vid anställning, uppsägning och avskedande
-- action: UPDATE
-  code: RYF-ZEI-AVN
-  name: Arbetsskada
-  description: Fysisk eller psykisk skada eller sjukdom som uppkommit under arbetstid och/eller till följd av arbete
-- action: UPDATE
-  code: RYF-ZEI-AVN-LAA
-  name: Arbetsskadeförsäkring
-  description: Den socialförsäkring som ersätter personer som insjuknat eller råkat ut för olyckor till följd av sitt arbete
-- action: UPDATE
-  code: RYF-ZEI-NYT
-  name: Arbetstagare
-  description: Anställd person som har ett anställningsavtal med en annan part – arbetsgivare, som oftast är en juridisk person
-- action: UPDATE
-  code: RYF-ZEI-UOK
-  name: Distansarbete
-  description: Arbete sker från en arbetsplats utanför arbetsgivarens lokaler
-- action: UPDATE
-  code: RYF-ZEI-ERP
-  name: Friskvård
-  description: Åtgärder som stimulerar en person till egna aktiva hälsobefrämjande insatser
-- action: UPDATE
-  code: RYF-ZEI-ERP-END
-  name: Friskvårdsbidrag
-  description: Bidrag som anställda kan använda till enklare aktiviteter med inslag av motion eller annan friskvård
-- action: UPDATE
-  code: RYF-ZEI-JQV
-  name: Karriär
-  description: En persons utveckling inom arbetslivet
-- action: UPDATE
-  code: RYF-ZEI-YVF
-  name: Kollektivavtal
-  description: Skriftliga avtal som täcker en specifik grupp av arbetare och deras anställnignsvillkor  
-- action: UPDATE
-  code: RYF-ZEI-YVF-AMA
-  name: Avtalsrörelsen
-  newname: Avtalsrörelse
-  description: En återkommande händelse där arbetsmarknadens parter, arbetstagare och arbetsgivare, förhandlar fram nya kollektivavtal som reglerar löner och arbetsförhållanden
-- action: UPDATE
-  code: RYF-ZEI-IQH
-  name: Lärling
-  description: Den som utbildar sig till ett yrke under en yrkesverksam mästare inom detta område
-- action: UPDATE
-  code: RYF-ZEI-QVY
-  name: Lön och förmån
-  description: Lön är en ersättning som betalas till en person för utförande av arbete. En förmån är när arbetsgivaren bekostar en privat levnadskostnad
-- action: UPDATE
-  code: RYF-ZEI-QVY-NSF
-  name: Bonus
-  description: Ekonomisk kompensation som en anställd kan få av sin arbetsgivare för väl utfört arbete
-- action: UPDATE
-  code: RYF-ZEI-QVY-ZGW
-  name: Inkomst
-  description: Den summa pengar en person tjänat genom arbete
-- action: UPDATE
-  code: RYF-ZEI-QVY-DUT
-  name: Löneförhandling
-  description: En överläggning mellan två eller flera parter för att nå en överenskommelse ny lön
-- action: UPDATE
-  code: RYF-ZEI-QVY-WFN
-  name: Lönespridning
-  description: Ett arbetsmarknadspolitiskt begrepp som innebär skillnader i lön mellan olika grupper av arbetstagare
-- action: UPDATE
-  code: RYF-ZEI-QVY-PNO
-  name: Löneväxling
-  description: När en löntagare avstår en del av lönen för att använda pengarna till att förstärka sin pension via en extra tjänstepension
-- action: UPDATE
-  code: RYF-ZEI-CZS
-  name: Personal och anställning
-  description: Personal är en grupp människor som arbetar för en gemensam huvudman och är kontrakterade genom ett anställningsavtal
-- action: UPDATE
-  code: RYF-ZEI-CZS-XBS
-  name: Arbetstid
-  description: Den tid som människor ägnar åt förvärvsarbete
-- action: UPDATE
-  code: RYF-ZEI-CZS-XBS-LXX
-  name: Övertid
-  description: Tillfällig arbetstid utöver full arbetstid och jourtid
-- action: UPDATE
-  code: RYF-ZEI-CZS-XBS-YYF
-  name: Schemaläggning
-  description: Översiktlig uppställning över personalens arbetstid
-- action: UPDATE
-  code: RYF-ZEI-CZS-WLH
-  name: Bemanning
-  description: När en arbetsgivare hyr in resurser eller kompetenser från ett bemanningsföretag i stället för att anställa
-- action: UPDATE
-  code: RYF-ZEI-CZS-SAF
-  name: Kompetensförsörjning
-  description: Arbetet med att säkerställa att företaget har rätt kompetens
-- action: UPDATE
-  code: RYF-ZEI-CZS-WIC
-  name: Kompetensutveckling
-  description: När personal eller ledning går olika former av utbildningar och kurser inom sin yrkesroll
-- action: UPDATE
-  code: RYF-ZEI-CZS-GEI
-  name: Kompetensväxling
-  description: Åtgärder för att ge kompetens på nytt område till medarbetare vars huvudsakliga kompetens blivit mindre användbar
-- action: UPDATE
-  code: RYF-ZEI-CZS-JLQ
-  name: Nedskärningar
-  newname: Nedskärning
-  description: Åtgärder för att minska ett företags kostnader
-- action: UPDATE
-  code: RYF-ZEI-CZS-JLQ-IMF
-  name: Uppsägning och varsel
-  newname: Varsel och uppsägning
-  description: Varsel om uppsägning är ett begrepp inom svensk arbetsrätt, som innebär att en arbetsgivare förvarnar om en större mängd uppsägningar inom företaget
-- action: UPDATE
-  code: RYF-ZEI-CZS-JZU
-  name: Nyanställning
-  newname: Nyanställningar
-  description: När ett företag rekryterar nya medarbetare
-- action: UPDATE
-  code: RYF-ZEI-CZS-JZU-ADK
-  name: Förordnande
-  description: När en  myndighet tillsätter en tjänsteman till offentligt ämbete
-- action: UPDATE
-  code: RYF-ZEI-CZS-JZU-JMM
-  name: Rekrytering
-  description: Processen att söka, attrahera och kontraktera personer till att utföra någon form av arbete eller uppgift
-- action: UPDATE
-  code: RYF-ZEI-CZS-FIE
-  name: Sjukskrivning
-  description: När någon inte arbetar på grund av sjukdom
-- action: UPDATE
-  code: RYF-ZEI-CZS-FIE-LTH
-  name: Karensavdrag
-  description: En form av självrisk där man inte får sjukpenning en vioss tid i samband med sjukskrivning
-- action: UPDATE
-  code: RYF-ZEI-CZS-FIE-UMX
-  name: Sjukförsäkring
-  description: En försäkringsliknande förmån till stöd för den som drabbats av sjukdom eller ohälsa
-- action: UPDATE
-  code: RYF-ZEI-CZS-FIE-EYL
-  name: Sjukpenning
-  description: En del av sjukförsäkringen som utbetalas till vissa vars arbetsförmåga är nedsatt på grund av sjukdom
-- action: UPDATE
-  code: RYF-ZEI-CZS-FIE-EYL
-  name: Sjukpenning
-  description: En del av sjukförsäkringen som utbetalas till vissa vars arbetsförmåga är nedsatt på grund av sjukdom
-- action: UPDATE
-  code: RYF-ZEI-NQK
-  name: Sommarjobb
-  description: Sommarjobb är ett tillfälligt arbete under sommaren. Det innehas vanligen av en studerande person under sommarledigheten, ibland används även termen om säsongsarbete
-- action: UPDATE
-  code: RYF-ZEI-SID
-  name: Yrken
-  newname: Yrke
-  description: Ett yrke, eller jobb, är en sysselsättning eller specialisering som en person utbildar sig till eller går i lära för och som kan knytas till försörjning
-- action: UPDATE
-  code: RYF-ZEI-KLS
-  name: Yrkesträning
-  description: Den del av en yrkesutbildning där sden som utbildas ges tillfälle att praktisera yrket
-- action: UPDATE
-  code: RYF-BIZ-WZJ-BJO
-  name: Skottlossning
-  newname: Skjutning
-  description: Den del av en yrkesutbildning där sden som utbildas ges tillfälle att praktisera yrket
-- action: UPDATE
-  code: RYF-IXA-CVI
-  name: Börser och handelsmarknader
-  description: Marknadsplatser där man köper och säljer olika saker till marknadspris, vanligtsvis handlas med aktier och finansiella instrument
-- action: UPDATE
-  code: RYF-IXA-CVI-MAB
-  name: Aktier
-  description: En aktie är en andel i ett aktiebolag, som motsvarar en kapitalinsats från ägaren, och som bildar bolagets aktiekapital
-- action: UPDATE
-  code: RYF-IXA-CVI-MAB-ETQ
-  name: Aktiehandel
-  description: Aktiehandeln utgörs av köp och försäljning av företagsaktier, eller av derivat baserade på företagsaktier
-- action: UPDATE
-  code: RYF-IXA-CVI-MAB-ETQ-OKR
-  name: Aktieförsäljning
-  description: När en aktie säljs
+  - action: UPDATE
+    code: RYF-WUU-JZK-TAC
+    name: Funktionsvariation
+    newName: Funktionsnedsättning
+    description: Innebär att en människa har en partiell eller total nedsättning av en fysisk, psykisk eller intellektuell förmåga, eller en kombination av dessa
+  - action: INACTIVATE
+    code: RYF-WXT-HGG-KLE
+    name: Krigsförbrytelse
+  - action: ADD
+    parentCode: RYF-XKI-CUP-NCO-QWZ
+    parentName: Konsthantverk 
+    name: Konstglas
+    level: 5
+    description: Konstglas är en produkt av glas som framställts med tanke på utseende snarare än praktisk användning, även om konstglas kan ha en praktisk funktion och bruksföremål i glas kan ha kända formgivare och avancerad design
+  - action: ADD
+    parentCode: RYF-QPR-HGB
+    parentName: Sporter
+    name: Cheerleading
+    level: 3
+    description: Ursprungligen en amerikansk hejarklack-sport som kombinerar avancerade trick, uniformer och hejaramsor för att stötta budskapet om entusiasm och sportsmannaanda
+  - action: ADD
+    parentCode: RYF-QPR-HGB
+    parentName: Sporter
+    name: Skidalpinism, skimo
+    level: 3
+    description: Skidalpinism (ibland skimo, efter engelska ski mountaineering) är en skidsport där utövarna bestiger berg med skidor, för att sedan åka utför till målet
+  - action: UPDATE
+    code: RYF-ZEI-PGW
+    name: Arbetsgivare
+    description: Den som upprättar ett anställningsavtal med en arbetstagare om att mot en bestämd ersättning erhålla en arbetsprestation av den senare
+  - action: UPDATE
+    code: RYF-ZEI-QWT
+    name: Arbetslöshet
+    description: När en person inte har ett arbete och samtidigt ägnar sig åt aktivt jobbsökande
+  - action: UPDATE
+    code: RYF-ZEI-QWT-FSK
+    name: A-kassa
+    description: Arbetslöshetskassa, a-kassa, har som främsta uppgift att administrera och betala ut arbetslöshetsersättning till personer som är arbetslösa
+  - action: UPDATE
+    code: RYF-ZEI-QWT-QJQ
+    name: Omskolning
+    description: En arbetsmarknadsåtgärd som syftar till att en arbetslös ska lära sig ett nytt yrke
+  - action: UPDATE
+    code: RYF-ZEI-QBA
+    name: Arbetsmarknad
+    description: Efterfrågan och tillgången på arbetskraft
+  - action: UPDATE
+    code: RYF-ZEI-RYD
+    name: Arbetsrätt
+    description: Den lagstiftning som reglerar förhållandet mellan arbetsgivare och arbetstagare
+  - action: UPDATE
+    code: RYF-ZEI-RYD-YZX-NAP
+    name: Arbetsmiljöbrott
+    description: Brott på en arbetsplats som definieras i Brottsbalken och Arbetsmiljölagen
+  - action: UPDATE
+    code: RYF-ZEI-RYD-DFU
+    name: Lagen om anställningsskydd, LAS
+    description: Den lag som reglerar anställningsförhållandet (mellan arbetstagare och arbetsgivare), bland annat vilka regler som gäller vid anställning, uppsägning och avskedande
+  - action: UPDATE
+    code: RYF-ZEI-AVN
+    name: Arbetsskada
+    description: Fysisk eller psykisk skada eller sjukdom som uppkommit under arbetstid och/eller till följd av arbete
+  - action: UPDATE
+    code: RYF-ZEI-AVN-LAA
+    name: Arbetsskadeförsäkring
+    description: Den socialförsäkring som ersätter personer som insjuknat eller råkat ut för olyckor till följd av sitt arbete
+  - action: UPDATE
+    code: RYF-ZEI-NYT
+    name: Arbetstagare
+    description: Anställd person som har ett anställningsavtal med en annan part – arbetsgivare, som oftast är en juridisk person
+  - action: UPDATE
+    code: RYF-ZEI-UOK
+    name: Distansarbete
+    description: Arbete sker från en arbetsplats utanför arbetsgivarens lokaler
+  - action: UPDATE
+    code: RYF-ZEI-ERP
+    name: Friskvård
+    description: Åtgärder som stimulerar en person till egna aktiva hälsobefrämjande insatser
+  - action: UPDATE
+    code: RYF-ZEI-ERP-END
+    name: Friskvårdsbidrag
+    description: Bidrag som anställda kan använda till enklare aktiviteter med inslag av motion eller annan friskvård
+  - action: UPDATE
+    code: RYF-ZEI-JQV
+    name: Karriär
+    description: En persons utveckling inom arbetslivet
+  - action: UPDATE
+    code: RYF-ZEI-YVF
+    name: Kollektivavtal
+    description: Skriftliga avtal som täcker en specifik grupp av arbetare och deras anställnignsvillkor  
+  - action: UPDATE
+    code: RYF-ZEI-YVF-AMA
+    name: Avtalsrörelsen
+    newname: Avtalsrörelse
+    description: En återkommande händelse där arbetsmarknadens parter, arbetstagare och arbetsgivare, förhandlar fram nya kollektivavtal som reglerar löner och arbetsförhållanden
+  - action: UPDATE
+    code: RYF-ZEI-IQH
+    name: Lärling
+    description: Den som utbildar sig till ett yrke under en yrkesverksam mästare inom detta område
+  - action: UPDATE
+    code: RYF-ZEI-QVY
+    name: Lön och förmån
+    description: Lön är en ersättning som betalas till en person för utförande av arbete. En förmån är när arbetsgivaren bekostar en privat levnadskostnad
+  - action: UPDATE
+    code: RYF-ZEI-QVY-NSF
+    name: Bonus
+    description: Ekonomisk kompensation som en anställd kan få av sin arbetsgivare för väl utfört arbete
+  - action: UPDATE
+    code: RYF-ZEI-QVY-ZGW
+    name: Inkomst
+    description: Den summa pengar en person tjänat genom arbete
+  - action: UPDATE
+    code: RYF-ZEI-QVY-DUT
+    name: Löneförhandling
+    description: En överläggning mellan två eller flera parter för att nå en överenskommelse ny lön
+  - action: UPDATE
+    code: RYF-ZEI-QVY-WFN
+    name: Lönespridning
+    description: Ett arbetsmarknadspolitiskt begrepp som innebär skillnader i lön mellan olika grupper av arbetstagare
+  - action: UPDATE
+    code: RYF-ZEI-QVY-PNO
+    name: Löneväxling
+    description: När en löntagare avstår en del av lönen för att använda pengarna till att förstärka sin pension via en extra tjänstepension
+  - action: UPDATE
+    code: RYF-ZEI-CZS
+    name: Personal och anställning
+    description: Personal är en grupp människor som arbetar för en gemensam huvudman och är kontrakterade genom ett anställningsavtal
+  - action: UPDATE
+    code: RYF-ZEI-CZS-XBS
+    name: Arbetstid
+    description: Den tid som människor ägnar åt förvärvsarbete
+  - action: UPDATE
+    code: RYF-ZEI-CZS-XBS-LXX
+    name: Övertid
+    description: Tillfällig arbetstid utöver full arbetstid och jourtid
+  - action: UPDATE
+    code: RYF-ZEI-CZS-XBS-YYF
+    name: Schemaläggning
+    description: Översiktlig uppställning över personalens arbetstid
+  - action: UPDATE
+    code: RYF-ZEI-CZS-WLH
+    name: Bemanning
+    description: När en arbetsgivare hyr in resurser eller kompetenser från ett bemanningsföretag i stället för att anställa
+  - action: UPDATE
+    code: RYF-ZEI-CZS-SAF
+    name: Kompetensförsörjning
+    description: Arbetet med att säkerställa att företaget har rätt kompetens
+  - action: UPDATE
+    code: RYF-ZEI-CZS-WIC
+    name: Kompetensutveckling
+    description: När personal eller ledning går olika former av utbildningar och kurser inom sin yrkesroll
+  - action: UPDATE
+    code: RYF-ZEI-CZS-GEI
+    name: Kompetensväxling
+    description: Åtgärder för att ge kompetens på nytt område till medarbetare vars huvudsakliga kompetens blivit mindre användbar
+  - action: UPDATE
+    code: RYF-ZEI-CZS-JLQ
+    name: Nedskärningar
+    newname: Nedskärning
+    description: Åtgärder för att minska ett företags kostnader
+  - action: UPDATE
+    code: RYF-ZEI-CZS-JLQ-IMF
+    name: Uppsägning och varsel
+    newname: Varsel och uppsägning
+    description: Varsel om uppsägning är ett begrepp inom svensk arbetsrätt, som innebär att en arbetsgivare förvarnar om en större mängd uppsägningar inom företaget
+  - action: UPDATE
+    code: RYF-ZEI-CZS-JZU
+    name: Nyanställning
+    newname: Nyanställningar
+    description: När ett företag rekryterar nya medarbetare
+  - action: UPDATE
+    code: RYF-ZEI-CZS-JZU-ADK
+    name: Förordnande
+    description: När en  myndighet tillsätter en tjänsteman till offentligt ämbete
+  - action: UPDATE
+    code: RYF-ZEI-CZS-JZU-JMM
+    name: Rekrytering
+    description: Processen att söka, attrahera och kontraktera personer till att utföra någon form av arbete eller uppgift
+  - action: UPDATE
+    code: RYF-ZEI-CZS-FIE
+    name: Sjukskrivning
+    description: När någon inte arbetar på grund av sjukdom
+  - action: UPDATE
+    code: RYF-ZEI-CZS-FIE-LTH
+    name: Karensavdrag
+    description: En form av självrisk där man inte får sjukpenning en vioss tid i samband med sjukskrivning
+  - action: UPDATE
+    code: RYF-ZEI-CZS-FIE-UMX
+    name: Sjukförsäkring
+    description: En försäkringsliknande förmån till stöd för den som drabbats av sjukdom eller ohälsa
+  - action: UPDATE
+    code: RYF-ZEI-CZS-FIE-EYL
+    name: Sjukpenning
+    description: En del av sjukförsäkringen som utbetalas till vissa vars arbetsförmåga är nedsatt på grund av sjukdom
+  - action: UPDATE
+    code: RYF-ZEI-CZS-FIE-EYL
+    name: Sjukpenning
+    description: En del av sjukförsäkringen som utbetalas till vissa vars arbetsförmåga är nedsatt på grund av sjukdom
+  - action: UPDATE
+    code: RYF-ZEI-NQK
+    name: Sommarjobb
+    description: Sommarjobb är ett tillfälligt arbete under sommaren. Det innehas vanligen av en studerande person under sommarledigheten, ibland används även termen om säsongsarbete
+  - action: UPDATE
+    code: RYF-ZEI-SID
+    name: Yrken
+    newname: Yrke
+    description: Ett yrke, eller jobb, är en sysselsättning eller specialisering som en person utbildar sig till eller går i lära för och som kan knytas till försörjning
+  - action: UPDATE
+    code: RYF-ZEI-KLS
+    name: Yrkesträning
+    description: Den del av en yrkesutbildning där sden som utbildas ges tillfälle att praktisera yrket
+  - action: UPDATE
+    code: RYF-BIZ-WZJ-BJO
+    name: Skottlossning
+    newname: Skjutning
+    description: Den del av en yrkesutbildning där sden som utbildas ges tillfälle att praktisera yrket
+  - action: UPDATE
+    code: RYF-IXA-CVI
+    name: Börser och handelsmarknader
+    description: Marknadsplatser där man köper och säljer olika saker till marknadspris, vanligtsvis handlas med aktier och finansiella instrument
+  - action: UPDATE
+    code: RYF-IXA-CVI-MAB
+    name: Aktier
+    description: En aktie är en andel i ett aktiebolag, som motsvarar en kapitalinsats från ägaren, och som bildar bolagets aktiekapital
+  - action: UPDATE
+    code: RYF-IXA-CVI-MAB-ETQ
+    name: Aktiehandel
+    description: Aktiehandeln utgörs av köp och försäljning av företagsaktier, eller av derivat baserade på företagsaktier
+  - action: UPDATE
+    code: RYF-IXA-CVI-MAB-ETQ-OKR
+    name: Aktieförsäljning
+    description: När en aktie säljs
 
-- action: UPDATE
-  code: RYF-IXA-CVI-MAB-ETQ-CPV
-  name: Aktieköp
-  description: När en aktie köps
-- action: UPDATE
-  code: RYF-IXA-CVI-MAB-ETQ-LTQ
-  name: Blankning
-  description: En försäljning av ett värdepapper utan att man äger värdepappret genom att ägaren mot en avgift eller ränta lånar ut ett värdepapper till blankaren under en överenskommen tidsperiod
-- action: UPDATE
-  code: RYF-IXA-CVI-MAB-ETQ-LKO
-  name: Handelsstopp
-  description: Ett temporärt avbrott i den officiella handeln av en noterad aktie på en börs
-- action: UPDATE
-  code: RYF-IXA-CVI-MAB-ZDL
-  name: Aktiekapital
-  description: Aktiekapital är en del av ett aktiebolags bundna egna kapital
-- action: UPDATE
-  code: RYF-IXA-CVI-MAB-EQL
-  name: Aktiekurs
-  description: En aktiekurs är priset på en enskild aktie av ett antal säljbara aktier i ett företag, vanligtvis är aktiekursen det högsta belopp som någon är villig att betala för aktie eller det lägsta belopp en aktie kan köpas för
-- action: UPDATE
-  code: RYF-IXA-CVI-MAB-SBY
-  name: Aktieportfölj
-  description: En aktieportfölj är en samling värdepapper som man investerar, alltså ett samlingsnamn för ens aktieinvesteringar
-- action: UPDATE
-  code: RYF-IXA-CVI-MAB-NXZ
-  name: Aktierekommendation
-  description: Råd som ges av finansiella rådgivare kring vilka tillgångar man ska investera i och vilka tillgångar man inte ska investera i
-- action: UPDATE
-  code: RYF-IXA-CVI-MAB-WVR
-  name: Aktieägare
-  description: En fysisk eller juridisk person som äger en eller flera aktier i ett aktiebolag
-- action: UPDATE
-  code: RYF-IXA-CVI-MAB-UOE
-  name: Algoritmisk handel
-  description: En programvarustyrd elektronisk handel, så kallad robothandel, av värdepapper, i synnerhet aktier
-- action: UPDATE
-  code: RYF-IXA-CVI-MAB-LPX
-  name: Avnotering
-  description: När ett bolag, vars aktier tidigare handlats på en reglerad marknad, slutar handlas där
-- action: UPDATE
-  code: RYF-IXA-CVI-MAB-KJN
-  name: Börsbolag
-  description: De bolag som är noterade för att dess aktier handlas på en börs
-- action: UPDATE
-  code: RYF-IXA-CVI-MAB-TUU
-  name: Börsrörelse
-  description: Den samlade rörelsen i priset på aktier uppåt och nedåt på en börs, så kallad volatilitet
-- action: UPDATE
-  code: RYF-IXA-CVI-MAB-WBL
-  name: Börsintroduktion
-  description: Börsintroduktion inträffer när man gör aktierna i ett aktiebolag tillgängliga för handel på en aktiebörs, där aktien samtidigt noteras
-- action: UPDATE
-  code: RYF-IXA-CVI-MAB-RSJ
-  name: Börsnotering
-  description: En börsnotering innebär att man gör bolagets aktier tillgängliga för handel på en marknadsplats
-- action: UPDATE
-  code: RYF-IXA-CVI-MAB-SKF
-  name: Insynshandel
-  description: Handel med värdepapper i bolag som utförs av personer med en ledande ställning i det bolag som ger ut värdepappret
-- action: UPDATE
-  code: RYF-IXA-CVI-MAB-UCK
-  name: Onoterat bolag
-  description: Onoterade bolag och startups är bolag vars aktier inte finns börsnoterade
-- action: UPDATE
-  code: RYF-IXA-CVI-MAB-JID
-  name: Preferensaktie
-  description: En aktie som vid utdelning och likvidation har företrädesrätt framför andra aktier
-- action: UPDATE
-  code: RYF-IXA-CVI-OSZ
-  name: Avkastning
-  description: Ett ekonomiskt begrepp som beskriver hur mycket en tillgång förändrats i värde från en tidigare tidpunkt
-- action: UPDATE
-  code: RYF-IXA-CVI-OSZ-CWB
-  name: Direktavkastning
-  description: Ett mått på avkastning på en investering vilket bland annat används som begrepp för utdelningens storlek i förhållande till kursen på en aktie
-- action: UPDATE
-  code: RYF-IXA-CVI-CCS
-  name: Fonder
-  description: En investeringsfond är en samling av värdepapper, ofta kallad för portfölj, som ägs av många människor tillsammans, vilka är andelsägare i fonden
-- action: UPDATE
-  code: RYF-IXA-CVI-CCS-DFC
-  name: Fondavgift
-  description: Det pris en fondförvaltare sätter för att förvalta en investeringsfond
-- action: UPDATE
-  code: RYF-IXA-CVI-CCS-QGU
-  name: Fondförsäkring
-  description: En form av livförsäkring (pensionsförsäkring) där placeringsrisken i fondförsäkringen bärs av försäkringstagaren
-- action: UPDATE
-  code: RYF-IXA-CVI-CCS-WJK
-  name: Fondförvaltare
-  description: Ett bolag som har rätt att bedriva fondverksamhet
-- action: UPDATE
-  code: RYF-IXA-CVI-CCS-NWM
-  name: Fondhandel
-  description: När en kund köper eller säljer andelar i en investeringsfond
-- action: UPDATE
-  code: RYF-IXA-CVI-CCS-QCA
-  name: Fondsparande
-  description: Sparande genom att spararen köper andelar i aktiefonder,  även kallat investeringsfonder, med förväntan om god avkastning
-- action: UPDATE
-  code: RYF-IXA-CVI-VCE
-  name: Obligationer
-  description: Ett vanligtvis räntebärande, löpande skuldebrev som intygar att innehavaren lånat ut pengar till staten, kreditinstitu eller ett större företag
-- action: UPDATE
-  code: RYF-IXA-CVI-VCE-QIR
-  name: Företagsobligationer
-  description: En företagsobligation är ett löpande skuldebrev utgivet av statliga bolag och större industriföretag i syfte att låna upp pengar
-- action: UPDATE
-  code: RYF-IXA-CVI-VCE-LJA
-  name: Statspapper
-  description: Statspapper är ett samlingsbegrepp för räntebärande instrument där staten är emittent (låntagare), till exempel statsobligationer eller statsskuldväxlar
-- action: UPDATE
-  code: RYF-IXA-CVI-UVY
-  name: Option
-  description: En option är ett avtal mellan en optionsutställare och en optionsinnehavare som ger innehavaren rätten, men inte skyldigheten, att i framtiden köpa eller sälja en underliggande tillgång till ett på förhand bestämt pris
-- action: ADD
-  parentCode: RYF-WXT
-  parentName: Konflikter och krig
-  name: Hybridkrigföring
-  level: 2
-  description: En typ av krigföring som karaktäriseras av en kombination av traditionella militära, irreguljära och civila metoder, och som utnyttjas mot ett gemensamt mål i alla olika skeden av en konflikt
-- action: MOVE
-  code: RYF-TKT-XHP-ZWC
-  name: Parkour
-  newParentCode: RYF-QPR-HGB-KJR
-  newParentName: Gymnastik
-  description: Ibland förkortat PK, träning och tävling som går ut på att på ett smidigt och kontrollerat sätt kunna forcera olika typer av hinder i omgivningen utan hjälpmedel
-- action: INACTIVATE
-  code: RYF-HPT-ACA
-  name: Offentliga utgifter
+  - action: UPDATE
+    code: RYF-IXA-CVI-MAB-ETQ-CPV
+    name: Aktieköp
+    description: När en aktie köps
+  - action: UPDATE
+    code: RYF-IXA-CVI-MAB-ETQ-LTQ
+    name: Blankning
+    description: En försäljning av ett värdepapper utan att man äger värdepappret genom att ägaren mot en avgift eller ränta lånar ut ett värdepapper till blankaren under en överenskommen tidsperiod
+  - action: UPDATE
+    code: RYF-IXA-CVI-MAB-ETQ-LKO
+    name: Handelsstopp
+    description: Ett temporärt avbrott i den officiella handeln av en noterad aktie på en börs
+  - action: UPDATE
+    code: RYF-IXA-CVI-MAB-ZDL
+    name: Aktiekapital
+    description: Aktiekapital är en del av ett aktiebolags bundna egna kapital
+  - action: UPDATE
+    code: RYF-IXA-CVI-MAB-EQL
+    name: Aktiekurs
+    description: En aktiekurs är priset på en enskild aktie av ett antal säljbara aktier i ett företag, vanligtvis är aktiekursen det högsta belopp som någon är villig att betala för aktie eller det lägsta belopp en aktie kan köpas för
+  - action: UPDATE
+    code: RYF-IXA-CVI-MAB-SBY
+    name: Aktieportfölj
+    description: En aktieportfölj är en samling värdepapper som man investerar, alltså ett samlingsnamn för ens aktieinvesteringar
+  - action: UPDATE
+    code: RYF-IXA-CVI-MAB-NXZ
+    name: Aktierekommendation
+    description: Råd som ges av finansiella rådgivare kring vilka tillgångar man ska investera i och vilka tillgångar man inte ska investera i
+  - action: UPDATE
+    code: RYF-IXA-CVI-MAB-WVR
+    name: Aktieägare
+    description: En fysisk eller juridisk person som äger en eller flera aktier i ett aktiebolag
+  - action: UPDATE
+    code: RYF-IXA-CVI-MAB-UOE
+    name: Algoritmisk handel
+    description: En programvarustyrd elektronisk handel, så kallad robothandel, av värdepapper, i synnerhet aktier
+  - action: UPDATE
+    code: RYF-IXA-CVI-MAB-LPX
+    name: Avnotering
+    description: När ett bolag, vars aktier tidigare handlats på en reglerad marknad, slutar handlas där
+  - action: UPDATE
+    code: RYF-IXA-CVI-MAB-KJN
+    name: Börsbolag
+    description: De bolag som är noterade för att dess aktier handlas på en börs
+  - action: UPDATE
+    code: RYF-IXA-CVI-MAB-TUU
+    name: Börsrörelse
+    description: Den samlade rörelsen i priset på aktier uppåt och nedåt på en börs, så kallad volatilitet
+  - action: UPDATE
+    code: RYF-IXA-CVI-MAB-WBL
+    name: Börsintroduktion
+    description: Börsintroduktion inträffer när man gör aktierna i ett aktiebolag tillgängliga för handel på en aktiebörs, där aktien samtidigt noteras
+  - action: UPDATE
+    code: RYF-IXA-CVI-MAB-RSJ
+    name: Börsnotering
+    description: En börsnotering innebär att man gör bolagets aktier tillgängliga för handel på en marknadsplats
+  - action: UPDATE
+    code: RYF-IXA-CVI-MAB-SKF
+    name: Insynshandel
+    description: Handel med värdepapper i bolag som utförs av personer med en ledande ställning i det bolag som ger ut värdepappret
+  - action: UPDATE
+    code: RYF-IXA-CVI-MAB-UCK
+    name: Onoterat bolag
+    description: Onoterade bolag och startups är bolag vars aktier inte finns börsnoterade
+  - action: UPDATE
+    code: RYF-IXA-CVI-MAB-JID
+    name: Preferensaktie
+    description: En aktie som vid utdelning och likvidation har företrädesrätt framför andra aktier
+  - action: UPDATE
+    code: RYF-IXA-CVI-OSZ
+    name: Avkastning
+    description: Ett ekonomiskt begrepp som beskriver hur mycket en tillgång förändrats i värde från en tidigare tidpunkt
+  - action: UPDATE
+    code: RYF-IXA-CVI-OSZ-CWB
+    name: Direktavkastning
+    description: Ett mått på avkastning på en investering vilket bland annat används som begrepp för utdelningens storlek i förhållande till kursen på en aktie
+  - action: UPDATE
+    code: RYF-IXA-CVI-CCS
+    name: Fonder
+    description: En investeringsfond är en samling av värdepapper, ofta kallad för portfölj, som ägs av många människor tillsammans, vilka är andelsägare i fonden
+  - action: UPDATE
+    code: RYF-IXA-CVI-CCS-DFC
+    name: Fondavgift
+    description: Det pris en fondförvaltare sätter för att förvalta en investeringsfond
+  - action: UPDATE
+    code: RYF-IXA-CVI-CCS-QGU
+    name: Fondförsäkring
+    description: En form av livförsäkring (pensionsförsäkring) där placeringsrisken i fondförsäkringen bärs av försäkringstagaren
+  - action: UPDATE
+    code: RYF-IXA-CVI-CCS-WJK
+    name: Fondförvaltare
+    description: Ett bolag som har rätt att bedriva fondverksamhet
+  - action: UPDATE
+    code: RYF-IXA-CVI-CCS-NWM
+    name: Fondhandel
+    description: När en kund köper eller säljer andelar i en investeringsfond
+  - action: UPDATE
+    code: RYF-IXA-CVI-CCS-QCA
+    name: Fondsparande
+    description: Sparande genom att spararen köper andelar i aktiefonder,  även kallat investeringsfonder, med förväntan om god avkastning
+  - action: UPDATE
+    code: RYF-IXA-CVI-VCE
+    name: Obligationer
+    description: Ett vanligtvis räntebärande, löpande skuldebrev som intygar att innehavaren lånat ut pengar till staten, kreditinstitu eller ett större företag
+  - action: UPDATE
+    code: RYF-IXA-CVI-VCE-QIR
+    name: Företagsobligationer
+    description: En företagsobligation är ett löpande skuldebrev utgivet av statliga bolag och större industriföretag i syfte att låna upp pengar
+  - action: UPDATE
+    code: RYF-IXA-CVI-VCE-LJA
+    name: Statspapper
+    description: Statspapper är ett samlingsbegrepp för räntebärande instrument där staten är emittent (låntagare), till exempel statsobligationer eller statsskuldväxlar
+  - action: UPDATE
+    code: RYF-IXA-CVI-UVY
+    name: Option
+    description: En option är ett avtal mellan en optionsutställare och en optionsinnehavare som ger innehavaren rätten, men inte skyldigheten, att i framtiden köpa eller sälja en underliggande tillgång till ett på förhand bestämt pris
+  - action: ADD
+    parentCode: RYF-WXT
+    parentName: Konflikter och krig
+    name: Hybridkrigföring
+    level: 2
+    description: En typ av krigföring som karaktäriseras av en kombination av traditionella militära, irreguljära och civila metoder, och som utnyttjas mot ett gemensamt mål i alla olika skeden av en konflikt
+  - action: MOVE
+    code: RYF-TKT-XHP-ZWC
+    name: Parkour
+    newParentCode: RYF-QPR-HGB-KJR
+    newParentName: Gymnastik
+    description: Ibland förkortat PK, träning och tävling som går ut på att på ett smidigt och kontrollerat sätt kunna forcera olika typer av hinder i omgivningen utan hjälpmedel
+  - action: INACTIVATE
+    code: RYF-HPT-ACA
+    name: Offentliga utgifter
