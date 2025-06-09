@@ -696,7 +696,7 @@ modifications:
   level: 5
   description: ""
 - action: ADD
-  parentCode: XXXX
+  parentCode: RYF-QPR-HGB-QHJ
   parentName: Division 1 dam
   name: GUDH
   level: 5
@@ -930,7 +930,7 @@ modifications:
   level: 5
   description: ""
 - action: ADD
-  parentCode: XXXX
+  parentCode: RYF-QPR-HGB-YOC
   parentName: Division 3 herr
   name: Västergötland norra
   level: 5
@@ -2274,8 +2274,8 @@ modifications:
   level: 5
   description: ""
 - action: ADD
-  parentCode: XXXX
-  parentName: F19
+  parentCode: RYF-QPR-HGB-DEN-KML
+  parentName: Svenska spel F19
   name: F19 Division 1 norra
   level: 5
   description: ""
@@ -2298,14 +2298,14 @@ modifications:
   level: 5
   description: ""
 - action: ADD
-  parentCode: XXXX
+  parentCode: 
   parentName: F19
   name: F19 Division 1 södra
   level: 5
   description: ""
 - action: ADD
-  parentCode: XXXX
-  parentName: F19
+  parentCode: RYF-QPR-HGB-DEN-KML
+  parentName: Svenska spel F19
   name: F19 Allsvenskan
   level: 5
   description: ""
@@ -2574,7 +2574,7 @@ modifications:
   level: 5
   description: ""
 - action: ADD
-  parentCode: XXXX
+  parentCode: RYF-QPR-HGB-DEN
   parentName: Tyskland herr
   name: Bundesliga
   level: 5
@@ -3726,13 +3726,13 @@ modifications:
   level: 5
   description: ""
 - action: ADD
-  parentCode: XXXX
+  parentCode: RYF-QPR-HGB-DEN-BBS
   parentName: Svenska Cupen dam
   name: Final
   level: 5
   description: ""
 - action: ADD
-  parentCode: XXXX
+  parentCode: RYF-QPR-HGB-DEN-BUA
   parentName: Svenska Cupen herr
   name: Final
   level: 5
@@ -3744,7 +3744,7 @@ modifications:
   level: 5
   description: ""
 - action: ADD
-  parentCode: XXXX
+  parentCode: RYF-QPR-HGB-DEN-BBS
   parentName: Svenska Cupen dam
   name: Semifinal
   level: 5
@@ -4068,13 +4068,13 @@ modifications:
   level: 5
   description: ""
 - action: ADD
-  parentCode: XXXX
+  parentCode: RYF-QPR-HGB-DEN-BUA
   parentName: Svenska Cupen herr
   name: Omgång 1
   level: 5
   description: ""
 - action: ADD
-  parentCode: XXXX
+  parentCode: RYF-QPR-HGB-DEN-BBS
   parentName: Svenska Cupen dam
   name: Omgång 1
   level: 5
