@@ -1,2 +1,10 @@
 Modifications:
--
+- action: UPDATE
+  code: RYF-QPR-HGB-BQN-EWY
+  name: Damettan
+  newName: NDHL
+  description: Den näst högsta svenska hockeyligan för damer
+- action: INACTIVATE
+  code: 
+  name: 
+  
