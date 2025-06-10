@@ -6,5 +6,49 @@ Modifications:
   description: Den näst högsta svenska hockeyligan för damer
 - action: INACTIVATE
   code: 
-  name: 
-  
+  name: 24 Dam
+- action: INACTIVATE
+  code: 
+  name: 24 Herr
+- action: INACTIVATE
+  code: 
+  name: 25 Dam
+- action: INACTIVATE
+  code: 
+  name: 25 Herr
+- action: INACTIVATE
+  code: 
+  name: Bundesliga 2
+- action: INACTIVATE
+  code: 
+  name: Tyskland Bundesliga 2
+- action: INACTIVATE
+  code: 
+  name: Italien serie A
+- action: INACTIVATE
+  code: 
+  name: Italien serie A
+- action: INACTIVATE
+  code: 
+  name: Ligue 1
+- action: INACTIVATE
+  code: 
+  name: La Liga 2
+- action: INACTIVATE
+  code: 
+  name: Svenska Cupen dam
+- action: INACTIVATE
+  code: 
+  name: Svenska Cupen herr
+- action: INACTIVATE
+  code: 
+  name: Champions Hockey League herr
+- action: INACTIVATE
+  code: 
+  name: FM-ligan
+- action: INACTIVATE
+  code: 
+  name: Hockeyfyran herr
+- action: INACTIVATE
+  code: 
+  name: NHL 4 Nations Herr  
