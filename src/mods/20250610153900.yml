@@ -5,29 +5,29 @@ Modifications:
   newName: NDHL
   description: Den näst högsta svenska hockeyligan för damer
 - action: INACTIVATE
-  code: 
+  code: RYF-QPR-HGB-DEN-ZIJ
   name: 24 Dam
 - action: INACTIVATE
-  code: 
+  code: RYF-QPR-HGB-DEN-QGS
   name: 24 Herr
 - action: INACTIVATE
-  code: 
-  name: 25 Dam
-- action: INACTIVATE
-  code: 
-  name: 25 Herr
-- action: INACTIVATE
-  code: 
-  name: Bundesliga 2
-- action: INACTIVATE
-  code: 
+  code: RYF-QPR-HGB-DEN-KRJ-AYO
   name: Tyskland Bundesliga 2
 - action: INACTIVATE
-  code: 
+  code: RYF-QPR-HGB-DEN-JMO-DQM
   name: Italien serie A
 - action: INACTIVATE
-  code: 
-  name: Italien serie A
+  code: RYF-QPR-HGB-DEN-XYS-HAT
+  name: Champions League Första kvalomgången
+- action: INACTIVATE
+  code: RYF-QPR-HGB-DEN-XYS-XCI
+  name: Champions League Andra kvalomgången
+- action: INACTIVATE
+  code: RYF-QPR-HGB-DEN-XYS-HCQ
+  name: Champions League Tredje kvalomgången
+
+
+  
 - action: INACTIVATE
   code: 
   name: Ligue 1
