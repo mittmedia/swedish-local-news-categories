@@ -25,12 +25,10 @@ Modifications:
 - action: INACTIVATE
   code: RYF-QPR-HGB-DEN-XYS-HCQ
   name: Champions League Tredje kvalomgången
-
-
-  
 - action: INACTIVATE
-  code: 
+  code: RYF-QPR-HGB-DEN-KHN
   name: Ligue 1
+  
 - action: INACTIVATE
   code: 
   name: La Liga 2
