@@ -5,6 +5,10 @@ Modifications:
   newName: NDHL
   description: Den näst högsta svenska hockeyligan för damer
 - action: UPDATE
+  code: RYF-QPR-HGB-BQN-UWF
+  name: CHL herr
+  newName: CHL
+- action: UPDATE
   code: RYF-QPR-HGB-DEN-JMO-DQM
   name: Italien serie A
   newName: Serie A Dam
@@ -13,28 +17,46 @@ Modifications:
   name: Serie A
   newName: Serie A Herr
 - action: INACTIVATE
+  code: RYF-QPR-HGB-DEN-QGS-OLO
+  name: Svenska Cupen 23/24 Omgång 2
+- action: INACTIVATE
+  code: RYF-QPR-HGB-DEN-QGS-CZE
+  name: Svenska Cupen 23/24 Kvartsfinal
+- action: INACTIVATE
+  code: RYF-QPR-HGB-DEN-QGS-XUS
+  name: Svenska Cupen 23/24 Omgång 1  
+- action: INACTIVATE
+  code: RYF-QPR-HGB-DEN-QGS-OLO
+  name: Svenska Cupen 23/24 Omgång 2
+- action: INACTIVATE
+  code: RYF-QPR-HGB-DEN-QGS-XVZ
+  name: Svenska Cupen 23/24 Semifinal
+- action: INACTIVATE
+  code: RYF-QPR-HGB-DEN-ZIJ-ZMA
+  name: Svenska Cupen 23/24 Omgång 2
+- action: INACTIVATE
+  code: RYF-QPR-HGB-DEN-ZIJ-INP
+  name: Svenska Cupen 23/24 Omgång 3
+- action: INACTIVATE
+  code: RYF-QPR-HGB-DEN-ZIJ-CWH
+  name: Svenska Cupen 23/24 Semifinal
+***  
+- action: INACTIVATE
   code: RYF-QPR-HGB-DEN-ZIJ
   name: 24 Dam
 - action: INACTIVATE
   code: RYF-QPR-HGB-DEN-QGS
   name: 24 Herr
+***
 - action: INACTIVATE
   code: RYF-QPR-HGB-DEN-KRJ-AYO
-  name: Tyskland Bundesliga 2  
-  ***
-- action: INACTIVATE
-  code: RYF-QPR-HGB-DEN-XYS-HAT
-  name: Champions League Första kvalomgången
-- action: INACTIVATE
-  code: RYF-QPR-HGB-DEN-XYS-XCI
-  name: Champions League Andra kvalomgången
-- action: INACTIVATE
-  code: RYF-QPR-HGB-DEN-XYS-HCQ
-  name: Champions League Tredje kvalomgången
-  ***
+  name: Tyskland Bundesliga 2 
 - action: INACTIVATE
   code: RYF-QPR-HGB-DEN-KHN
   name: Ligue 1
+- action: INACTIVATE
+  code:   RYF-QPR-HGB-DEN-XYS-RRT
+  name:   Champions League Kvartsfinal
 - action: INACTIVATE
   code: RYF-QPR-HGB-DEN-LWN-UAH
   name: La Liga 2
@@ -43,17 +65,32 @@ Modifications:
   name: Svenska cupen dam
 - action: INACTIVATE
   code: RYF-QPR-HGB-DEN-BUA
-  name: Svenska cupen herr
+  name: Svenska cupen herr  
 - action: INACTIVATE
-  code: RYF-QPR-HGB-BQN-UWF
-  name: CHL herr
+  code: RYF-QPR-HGB-BQN-YKP
+  name: HockeyFyran herr 
+
+  ***
+- action: INACTIVATE
+  code: RYF-QPR-HGB-DEN-XYS-YKS
+  name: Champions League Första kvalomgången
+- action: INACTIVATE
+  code: RYF-QPR-HGB-DEN-XYS-XCI
+  name: Champions League Andra kvalomgången
+- action: INACTIVATE
+  code: RYF-QPR-HGB-DEN-XYS-HCQ
+  name: Champions League Tredje kvalomgången
+
+  ***
+
+
+
+
   ***
 - action: INACTIVATE
   code: 
   name: FM-ligan
 - action: INACTIVATE
   code: 
-  name: Hockeyfyran herr
-- action: INACTIVATE
-  code: 
   name: NHL 4 Nations Herr  
+  
