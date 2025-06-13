@@ -21,6 +21,7 @@ Modifications:
 - action: INACTIVATE
   code: RYF-QPR-HGB-DEN-KRJ-AYO
   name: Tyskland Bundesliga 2  
+  ***
 - action: INACTIVATE
   code: RYF-QPR-HGB-DEN-XYS-HAT
   name: Champions League Första kvalomgången
@@ -30,22 +31,23 @@ Modifications:
 - action: INACTIVATE
   code: RYF-QPR-HGB-DEN-XYS-HCQ
   name: Champions League Tredje kvalomgången
+  ***
 - action: INACTIVATE
   code: RYF-QPR-HGB-DEN-KHN
   name: Ligue 1
-***
 - action: INACTIVATE
-  code: 
+  code: RYF-QPR-HGB-DEN-LWN-UAH
   name: La Liga 2
 - action: INACTIVATE
-  code: 
-  name: Svenska Cupen dam
+  code: RYF-QPR-HGB-DEN-BBS
+  name: Svenska cupen dam
 - action: INACTIVATE
-  code: 
-  name: Svenska Cupen herr
+  code: RYF-QPR-HGB-DEN-BUA
+  name: Svenska cupen herr
 - action: INACTIVATE
-  code: 
-  name: Champions Hockey League herr
+  code: RYF-QPR-HGB-BQN-UWF
+  name: CHL herr
+  ***
 - action: INACTIVATE
   code: 
   name: FM-ligan
