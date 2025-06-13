@@ -4,6 +4,14 @@ Modifications:
   name: Damettan
   newName: NDHL
   description: Den näst högsta svenska hockeyligan för damer
+- action: UPDATE
+  code: RYF-QPR-HGB-DEN-JMO-DQM
+  name: Italien serie A
+  newName: Serie A Dam
+- action: UPDATE
+  code: RYF-QPR-HGB-DEN-BGN-NNN
+  name: Serie A
+  newName: Serie A Herr
 - action: INACTIVATE
   code: RYF-QPR-HGB-DEN-ZIJ
   name: 24 Dam
@@ -12,10 +20,7 @@ Modifications:
   name: 24 Herr
 - action: INACTIVATE
   code: RYF-QPR-HGB-DEN-KRJ-AYO
-  name: Tyskland Bundesliga 2
-- action: INACTIVATE
-  code: RYF-QPR-HGB-DEN-JMO-DQM
-  name: Italien serie A
+  name: Tyskland Bundesliga 2  
 - action: INACTIVATE
   code: RYF-QPR-HGB-DEN-XYS-HAT
   name: Champions League Första kvalomgången
