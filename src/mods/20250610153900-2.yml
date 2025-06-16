@@ -1,26 +1,26 @@
-Modifications:
+modifications:
 - action: UPDATE
   code: RYF-QPR-HGB-BQN-EWY
   name: Damettan
   newName: NDHL
 - action: UPDATE
   code: RYF-QPR-HGB-BQN-IAJ
-  name: NHL 4 Nations herr
-  newName: NHL 4 Nations  
+  name: NHL 4 nations herr
+  newName: NHL 4 Nations
   description: Ishockeyturnering för fyra ishockeylandslag som arrangerades av den nordamerikanska professionella ishockeyligan National Hockey League (NHL)
 - action: UPDATE
   code: RYF-QPR-HGB-BQN-IAJ-NYS
   name: Final
-  newName: NHL 4 Nations Final 
+  newName: NHL 4 Nations Final
   description: Final i NHL 4 Nations
 - action: UPDATE
   code: RYF-QPR-HGB-BQN-MNL-TZS
-  name: , kval
+  name: ", kval"
   newName: FM-ligan kval
 - action: UPDATE
   code: RYF-QPR-HGB-BQN-MNL-VKR
-  name: , nedflyttningskval
-  newName: FM-ligan nedflyttningskval  
+  name: ", nedflyttningskval"
+  newName: FM-ligan nedflyttningskval
 - action: UPDATE
   code: RYF-QPR-HGB-BQN-JWW
   name: CHL herr
@@ -28,14 +28,14 @@ Modifications:
 - action: UPDATE
   code: RYF-QPR-HGB-BQN-MFF
   name: Hockeyallsvenskan
-  newName: Hockeyallsvenskan herr  
+  newName: Hockeyallsvenskan herr
 - action: UPDATE
   code: RYF-QPR-HGB-BQN-GEC
   name: HockeyAllsvenskan dam
   newName: Hockeyallsvenskan dam
 - action: UPDATE
   code: RYF-QPR-HGB-DEN-JMO-DQM
-  name: Italien serie A
+  name: Italien Serie A
   newName: Serie A Dam
 - action: UPDATE
   code: RYF-QPR-HGB-DEN-BGN-NNN
@@ -43,19 +43,19 @@ Modifications:
   newName: Serie A Herr
 - action: INACTIVATE
   code: RYF-QPR-HGB-DEN-ZIJ
-  name: 24 Dam
+  name: 24 dam
 - action: INACTIVATE
   code: RYF-QPR-HGB-DEN-QGS
-  name: 24 Herr
+  name: 24 herr
 - action: INACTIVATE
   code: RYF-QPR-HGB-DEN-KRJ-AYO
-  name: Tyskland Bundesliga 2 
+  name: Tyskland Bundesliga 2
 - action: INACTIVATE
   code: RYF-QPR-HGB-DEN-KHN
   name: Ligue 1
 - action: INACTIVATE
-  code:   RYF-QPR-HGB-DEN-XYS-RRT
-  name:   Champions League Kvartsfinal
+  code: RYF-QPR-HGB-DEN-XYS-RRT
+  name: Champions League Kvartsfinal
 - action: INACTIVATE
   code: RYF-QPR-HGB-DEN-LWN-UAH
   name: La Liga 2
@@ -73,7 +73,7 @@ Modifications:
   name: Champions League Andra kvalomgången
 - action: INACTIVATE
   code: RYF-QPR-HGB-DEN-XYS-HCQ
-  name: Champions League Tredje kvalomgången  
+  name: Champions League Tredje kvalomgången
 - action: INACTIVATE
   code: RYF-QPR-HGB-BQN-YNP
   name: NHL 4 nations herr
@@ -82,7 +82,7 @@ Modifications:
   name: FM-ligan
 - action: INACTIVATE
   code: RYF-QPR-HGB-BQN-MNL-UOY
-  name: FM-ligan
+  name: FM-Ligan
 - action: INACTIVATE
   code: RYF-QPR-HGB-BQN-ZTJ
   name: Champions Hockey League
@@ -101,7 +101,3 @@ Modifications:
   name: SHL Kvartsfinal
   parentCode: RYF-QPR-HGB-BQN-BXE
   parentName: SHL
-***
-
-
-  

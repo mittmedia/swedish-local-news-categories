@@ -10539,6 +10539,18 @@ categories:
   level: 4
   name: SHL
   status: ACTIVE
+- code: RYF-QPR-HGB-BQN-BXE-AMX
+  level: 5
+  name: SHL Kvartsfinal
+  status: ACTIVE
+- code: RYF-QPR-HGB-BQN-BXE-BJX
+  level: 5
+  name: SHL Final
+  status: ACTIVE
+- code: RYF-QPR-HGB-BQN-BXE-LEF
+  level: 5
+  name: SHL Semifinal
+  status: ACTIVE
 - code: RYF-QPR-HGB-BQN-BXE-LXT
   description: ''
   level: 5
@@ -10689,7 +10701,7 @@ categories:
 - code: RYF-QPR-HGB-BQN-EWY
   description: ''
   level: 4
-  name: Damettan
+  name: NDHL
   status: ACTIVE
 - code: RYF-QPR-HGB-BQN-EWY-DZV
   description: ''
@@ -10737,7 +10749,7 @@ categories:
 - code: RYF-QPR-HGB-BQN-GEC
   description: ''
   level: 4
-  name: HockeyAllsvenskan dam
+  name: Hockeyallsvenskan dam
   status: ACTIVE
 - code: RYF-QPR-HGB-BQN-GEC-ECZ
   description: ''
@@ -10773,14 +10785,14 @@ categories:
   name: Landskamp herr
   status: ACTIVE
 - code: RYF-QPR-HGB-BQN-IAJ
-  description: ''
+  description: Ishockeyturnering för fyra ishockeylandslag som arrangerades av den nordamerikanska professionella ishockeyligan National Hockey League (NHL)
   level: 4
-  name: NHL 4 nations herr
+  name: NHL 4 Nations
   status: ACTIVE
 - code: RYF-QPR-HGB-BQN-IAJ-NYS
-  description: ''
+  description: Final i NHL 4 Nations
   level: 5
-  name: Final
+  name: NHL 4 Nations Final
   status: ACTIVE
 - code: RYF-QPR-HGB-BQN-JMG
   description: ''
@@ -10791,7 +10803,7 @@ categories:
 - code: RYF-QPR-HGB-BQN-JWW
   description: ''
   level: 4
-  name: CHL herr
+  name: CHL
   status: ACTIVE
 - code: RYF-QPR-HGB-BQN-JWW-HGL
   description: ''
@@ -11030,13 +11042,13 @@ categories:
 - code: RYF-QPR-HGB-BQN-MFF
   description: ''
   level: 4
-  name: Hockeyallsvenskan
+  name: Hockeyallsvenskan herr
   status: ACTIVE
 - code: RYF-QPR-HGB-BQN-MGJ
   description: ''
   level: 4
   name: FM-ligan
-  status: ACTIVE
+  status: INACTIVE
 - code: RYF-QPR-HGB-BQN-MNL
   description: ''
   level: 4
@@ -11070,17 +11082,17 @@ categories:
 - code: RYF-QPR-HGB-BQN-MNL-TZS
   description: ''
   level: 5
-  name: ', kval'
+  name: FM-ligan kval
   status: ACTIVE
 - code: RYF-QPR-HGB-BQN-MNL-UOY
   description: ''
   level: 5
   name: FM-Ligan
-  status: ACTIVE
+  status: INACTIVE
 - code: RYF-QPR-HGB-BQN-MNL-VKR
   description: ''
   level: 5
-  name: ', nedflyttningskval'
+  name: FM-ligan nedflyttningskval
   status: ACTIVE
 - code: RYF-QPR-HGB-BQN-MZV
   description: ''
@@ -11871,7 +11883,7 @@ categories:
   description: ''
   level: 4
   name: CHL herr
-  status: ACTIVE
+  status: INACTIVE
 - code: RYF-QPR-HGB-BQN-VAS
   description: ''
   level: 4
@@ -12121,12 +12133,12 @@ categories:
   description: ''
   level: 5
   name: Uppland
-  status: ACTIVE
+  status: INACTIVE
 - code: RYF-QPR-HGB-BQN-YNP
   description: ''
   level: 4
   name: NHL 4 nations herr
-  status: ACTIVE
+  status: INACTIVE
 - code: RYF-QPR-HGB-BQN-YPT
   description: ''
   level: 4
@@ -12158,7 +12170,7 @@ categories:
   description: ''
   level: 4
   name: Champions Hockey League
-  status: ACTIVE
+  status: INACTIVE
 - code: RYF-QPR-HGB-BQN-ZVU
   description: ''
   level: 4
@@ -12490,7 +12502,7 @@ categories:
   description: ''
   level: 4
   name: Svenska cupen dam
-  status: ACTIVE
+  status: INACTIVE
 - code: RYF-QPR-HGB-DEN-BGN
   description: ''
   level: 4
@@ -12504,7 +12516,7 @@ categories:
 - code: RYF-QPR-HGB-DEN-BGN-NNN
   description: ''
   level: 5
-  name: Serie A
+  name: Serie A Herr
   replaces: RYF-QPR-HGB-DEN-OAF
   status: ACTIVE
 - code: RYF-QPR-HGB-DEN-BGN-OET
@@ -12627,7 +12639,7 @@ categories:
   description: ''
   level: 4
   name: Svenska cupen herr
-  status: ACTIVE
+  status: INACTIVE
 - code: RYF-QPR-HGB-DEN-BYH
   description: ''
   level: 4
@@ -13973,7 +13985,7 @@ categories:
 - code: RYF-QPR-HGB-DEN-JMO-DQM
   description: ''
   level: 5
-  name: Italien Serie A
+  name: Serie A Dam
   status: ACTIVE
 - code: RYF-QPR-HGB-DEN-JMO-KFO
   description: ''
@@ -14040,7 +14052,7 @@ categories:
   description: ''
   level: 4
   name: Ligue 1
-  status: ACTIVE
+  status: INACTIVE
 - code: RYF-QPR-HGB-DEN-KML
   description: ''
   level: 4
@@ -14075,7 +14087,7 @@ categories:
   description: ''
   level: 5
   name: Tyskland Bundesliga 2
-  status: ACTIVE
+  status: INACTIVE
 - code: RYF-QPR-HGB-DEN-KRJ-CKF
   description: ''
   level: 5
@@ -14237,7 +14249,7 @@ categories:
   description: ''
   level: 5
   name: La Liga 2
-  status: ACTIVE
+  status: INACTIVE
 - code: RYF-QPR-HGB-DEN-LWN-USU
   description: ''
   level: 5
@@ -15058,27 +15070,27 @@ categories:
   description: ''
   level: 4
   name: 24 herr
-  status: ACTIVE
+  status: INACTIVE
 - code: RYF-QPR-HGB-DEN-QGS-CZE
   description: ''
   level: 5
   name: Svenska Cupen 23/24 Kvartsfinal
-  status: ACTIVE
+  status: INACTIVE
 - code: RYF-QPR-HGB-DEN-QGS-OLO
   description: ''
   level: 5
   name: Svenska Cupen 23/24 Omgång 2
-  status: ACTIVE
+  status: INACTIVE
 - code: RYF-QPR-HGB-DEN-QGS-XUS
   description: ''
   level: 5
   name: Svenska Cupen 23/24 Omgång 1
-  status: ACTIVE
+  status: INACTIVE
 - code: RYF-QPR-HGB-DEN-QGS-XVZ
   description: ''
   level: 5
   name: Svenska Cupen 23/24 Semifinal
-  status: ACTIVE
+  status: INACTIVE
 - code: RYF-QPR-HGB-DEN-RNN
   description: ''
   level: 4
@@ -15960,7 +15972,7 @@ categories:
   description: ''
   level: 5
   name: Champions League Tredje kvalomgången
-  status: ACTIVE
+  status: INACTIVE
 - code: RYF-QPR-HGB-DEN-XYS-HXQ
   description: ''
   level: 5
@@ -16020,7 +16032,7 @@ categories:
   description: ''
   level: 5
   name: Champions League Kvartsfinal
-  status: ACTIVE
+  status: INACTIVE
 - code: RYF-QPR-HGB-DEN-XYS-RUL
   description: ''
   level: 5
@@ -16035,7 +16047,7 @@ categories:
   description: ''
   level: 5
   name: Champions League Andra kvalomgången
-  status: ACTIVE
+  status: INACTIVE
 - code: RYF-QPR-HGB-DEN-XYS-XHM
   description: ''
   level: 5
@@ -16045,7 +16057,7 @@ categories:
   description: ''
   level: 5
   name: Champions League Första kvalomgången
-  status: ACTIVE
+  status: INACTIVE
 - code: RYF-QPR-HGB-DEN-XYS-ZPA
   description: ''
   level: 5
@@ -16130,22 +16142,22 @@ categories:
   description: ''
   level: 4
   name: 24 dam
-  status: ACTIVE
+  status: INACTIVE
 - code: RYF-QPR-HGB-DEN-ZIJ-CWH
   description: ''
   level: 5
   name: Svenska Cupen 23/24 Semifinal
-  status: ACTIVE
+  status: INACTIVE
 - code: RYF-QPR-HGB-DEN-ZIJ-INP
   description: ''
   level: 5
   name: Svenska Cupen 23/24 Omgång 2
-  status: ACTIVE
+  status: INACTIVE
 - code: RYF-QPR-HGB-DEN-ZIJ-ZMA
   description: ''
   level: 5
   name: Svenska Cupen 23/24 Omgång 3
-  status: ACTIVE
+  status: INACTIVE
 - code: RYF-QPR-HGB-DEN-ZOV
   description: ''
   level: 4
