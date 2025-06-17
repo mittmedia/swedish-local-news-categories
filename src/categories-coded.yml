@@ -10540,14 +10540,17 @@ categories:
   name: SHL
   status: ACTIVE
 - code: RYF-QPR-HGB-BQN-BXE-AMX
+  description: ''
   level: 5
   name: SHL Kvartsfinal
   status: ACTIVE
 - code: RYF-QPR-HGB-BQN-BXE-BJX
+  description: ''
   level: 5
   name: SHL Final
   status: ACTIVE
 - code: RYF-QPR-HGB-BQN-BXE-LEF
+  description: ''
   level: 5
   name: SHL Semifinal
   status: ACTIVE
@@ -10667,7 +10670,7 @@ categories:
   description: ''
   level: 4
   name: Division 5 herr Stockholm norra
-  status: ACTIVE
+  status: INACTIVE
 - code: RYF-QPR-HGB-BQN-EMJ
   description: ''
   level: 4
@@ -11482,7 +11485,7 @@ categories:
   description: ''
   level: 4
   name: Division 5 herr Stockholm södra
-  status: ACTIVE
+  status: INACTIVE
 - code: RYF-QPR-HGB-BQN-SBJ
   description: ''
   level: 4
@@ -12128,7 +12131,7 @@ categories:
   description: ''
   level: 4
   name: HockeyFyran herr
-  status: ACTIVE
+  status: INACTIVE
 - code: RYF-QPR-HGB-BQN-YKP-LXZ
   description: ''
   level: 5
@@ -14304,12 +14307,12 @@ categories:
   description: ''
   level: 4
   name: Svenska Cupen herr
-  status: ACTIVE
+  status: INACTIVE
 - code: RYF-QPR-HGB-DEN-MVF
   description: ''
   level: 4
   name: Svenska Cupen dam
-  status: ACTIVE
+  status: INACTIVE
 - code: RYF-QPR-HGB-DEN-MVN
   description: ''
   level: 4
@@ -16335,12 +16338,12 @@ categories:
   description: ''
   level: 4
   name: NFL herr
-  status: ACTIVE
+  status: INACTIVE
 - code: RYF-QPR-HGB-DZQ-GJA
   description: ''
   level: 4
   name: NFL
-  status: ACTIVE
+  status: INACTIVE
 - code: RYF-QPR-HGB-DZQ-KLM
   description: ''
   level: 4
@@ -16349,7 +16352,7 @@ categories:
 - code: RYF-QPR-HGB-DZQ-NQO
   description: ''
   level: 4
-  name: NFL herr
+  name: NFL
   status: ACTIVE
 - code: RYF-QPR-HGB-DZQ-NQO-EHT
   description: ''
@@ -17124,7 +17127,7 @@ categories:
   description: ''
   level: 4
   name: Division 2 herr
-  status: ACTIVE
+  status: INACTIVE
 - code: RYF-QPR-HGB-OQU-BQZ
   description: ''
   level: 4
@@ -17304,7 +17307,7 @@ categories:
   description: ''
   level: 4
   name: Division 1 herr
-  status: ACTIVE
+  status: INACTIVE
 - code: RYF-QPR-HGB-OQU-MZC
   description: ''
   level: 4
@@ -19599,12 +19602,13 @@ categories:
   description: ''
   level: 4
   name: Futsalligan herr
-  status: ACTIVE
+  status: INACTIVE
 - code: RYF-QPR-HGB-YOC-ACW-VLM
   description: ''
   level: 5
   name: Kval till SFL
-  status: ACTIVE
+  replacedBy: RYF-QPR-HGB-YOC-TPJ-YAE
+  status: INACTIVE
 - code: RYF-QPR-HGB-YOC-AQX
   description: ''
   level: 4
@@ -19684,6 +19688,12 @@ categories:
   description: ''
   level: 5
   name: Semifinal herrar
+  status: ACTIVE
+- code: RYF-QPR-HGB-YOC-TPJ-YAE
+  description: ''
+  level: 5
+  name: Kval till SFL
+  replaces: RYF-QPR-HGB-YOC-ACW-VLM
   status: ACTIVE
 - code: RYF-QPR-HGB-YOC-TPJ-YGN
   description: ''
