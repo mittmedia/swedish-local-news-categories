@@ -12,6 +12,9 @@ Modifications:
   code: RYF-QPR-HGB-BQN-EHC
   name: Division 5 herr Stockholm norra   
 - action: INACTIVATE  
+  code: RYF-QPR-HGB-BQN-RGK
+  name: Division 5 herr Stockholm södra   
+- action: INACTIVATE  
   code: RYF-QPR-HGB-BQN-YKP
   name: HockeyFyran herr
 - action: INACTIVATE  
