@@ -109,8 +109,8 @@ def get_unprocessed_modification_files():
         with open(mod_file_path + '/applied_mods.yml', 'r', encoding='utf-8') as applied_mods_file:
             applied_mods.extend(yaml.safe_load(applied_mods_file))
 
-    for file_name in os.listdir(mod_file_path):
-        if re.match("\d{14}.+.yml", file_name) and file_name not in applied_mods:
+    for file_name in sorted(os.listdir(mod_file_path)):
+        if re.match(r"\d{14}.+.yml", file_name) and file_name not in applied_mods:
             unprocessed_modification_files.append(file_name)
             applied_mods.append(file_name)
 
