@@ -1,0 +1,10 @@
+modifications:
+- action: ADD
+  parentCode: RYF-QPR-HGB-OQU
+  parentName: Bandy
+  name: Svenska cupen dam
+  level: 4
+  description: ""
+- action: UPDATE
+  code: RYF-QPR-HGB-OQU-GBI
+  newname: Svenska cupen herr
