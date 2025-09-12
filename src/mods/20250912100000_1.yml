@@ -9,12 +9,12 @@ modifications:
 
 - action: UPDATE
   code: RYF-QPR-HGB-DEN-NVL
-  name: Svenska Cupen dam 24/25
+  name: Svenska Cupen 24/25 dam
   newName: Svenska cupen dam 
 
 - action: UPDATE
   code: RYF-QPR-HGB-DEN-NPZ
-  name: Svenska Cupen herr 24/25
+  name: Svenska Cupen 24/25 herr
   newName: Svenska cupen herr 
 
 - action: UPDATE

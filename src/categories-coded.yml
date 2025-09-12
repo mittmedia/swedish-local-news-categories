@@ -422,7 +422,7 @@ categories:
 - code: RYF-BIZ-WZJ-BJO
   description: Den del av en yrkesutbildning där sden som utbildas ges tillfälle att praktisera yrket
   level: 3
-  name: Skottlossning
+  name: Skjutning
   status: ACTIVE
 - code: RYF-BIZ-WZJ-COP
   description: ''
@@ -14606,7 +14606,7 @@ categories:
 - code: RYF-QPR-HGB-DEN-NPZ
   description: ''
   level: 4
-  name: Svenska Cupen 24/25 herr
+  name: Svenska cupen herr
   status: ACTIVE
 - code: RYF-QPR-HGB-DEN-NPZ-BOF
   description: ''
@@ -14686,7 +14686,7 @@ categories:
 - code: RYF-QPR-HGB-DEN-NVL
   description: ''
   level: 4
-  name: Svenska Cupen 24/25 dam
+  name: Svenska cupen dam
   status: ACTIVE
 - code: RYF-QPR-HGB-DEN-NVL-BPV
   description: ''
@@ -19943,7 +19943,7 @@ categories:
   level: 4
   name: 50-talsstil
   replaces: RYF-TKT-AGB-BGD-LMT-LNC
-  status: ACTIVE
+  status: INACTIVE
 - code: RYF-TKT-AGB-BGD-ENZ
   description: ''
   level: 4
@@ -20479,7 +20479,7 @@ categories:
   level: 4
   name: 70-talsstil
   replaces: RYF-TKT-AGB-BGD-LMT-EGA
-  status: ACTIVE
+  status: INACTIVE
 - code: RYF-TKT-AGB-BGD-ZRR
   description: ''
   level: 4
@@ -30232,7 +30232,7 @@ categories:
 - code: RYF-ZEI-CZS-JLQ
   description: Åtgärder för att minska ett företags kostnader
   level: 3
-  name: Nedskärningar
+  name: Nedskärning
   status: ACTIVE
 - code: RYF-ZEI-CZS-JLQ-IMF
   description: Varsel om uppsägning är ett begrepp inom svensk arbetsrätt, som innebär att en arbetsgivare förvarnar om en större mängd uppsägningar inom företaget
