@@ -1,2 +1,9 @@
 modifications:
-  
+- action: INACTIVATE  
+  code: RYF-TKT-AGB-BGD-CMY
+  name: 50-talsstil
+
+- action: INACTIVATE  
+  code: RYF-TKT-AGB-BGD-ZPP
+  name: 70-talsstil  
+
