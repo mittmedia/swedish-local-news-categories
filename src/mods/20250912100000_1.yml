@@ -7,3 +7,22 @@ modifications:
   code: RYF-TKT-AGB-BGD-ZPP
   name: 70-talsstil  
 
+- action: UPDATE
+  code: RYF-QPR-HGB-DEN-NVL
+  name: Svenska Cupen dam 24/25
+  newName: Svenska cupen dam 
+
+- action: UPDATE
+  code: RYF-QPR-HGB-DEN-NPZ
+  name: Svenska Cupen herr 24/25
+  newName: Svenska cupen herr 
+
+- action: UPDATE
+  code: RYF-ZEI-CZS-JLQ
+  name: Nedskärningar
+  newName: Nedskärning 
+
+- action: UPDATE
+  code:  RYF-BIZ-WZJ-BJO
+  name: Skottlossning
+  newName: Skjutning
