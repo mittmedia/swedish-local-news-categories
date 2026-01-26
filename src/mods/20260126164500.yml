@@ -23,4 +23,12 @@ modifications:
 - action: INACTIVATE  
   code: RYF-QPR-HGB-DEN-MNT
   name: Svenska Cupen herr
--
+- action: UPDATE
+  code:  RYF-QPR-HGB-DEN-NVL
+  name: Svenska Cupen 24/25 dam
+  newName: Svenska Cupen dam
+- action: UPDATE
+  code:  RYF-QPR-HGB-DEN-NPZ
+  name: Svenska Cupen 24/25 dam
+  newName: Svenska Cupen herr
+
