@@ -1,2 +1,26 @@
 modifications:
-  
+- action: INACTIVATE  
+  code: RYF-QPR-HGB-DEN-IWR-LHU
+  name: Norra
+- action: INACTIVATE  
+  code: RYF-QPR-HGB-DEN-IWR-FYL
+  name: Södra 
+- action: INACTIVATE  
+  code: RYF-QPR-HGB-DEN-IWR
+  name: Svenska cupen 
+- action: INACTIVATE  
+  code: RYF-QPR-HGB-DEN-BBS
+  name: Svenska cupen dam
+- action: INACTIVATE  
+  code: RYF-QPR-HGB-DEN-MVF
+  name: Svenska Cupen dam 
+- action: INACTIVATE  
+  code: RYF-QPR-HGB-DEN-BUA
+  name: Svenska cupen herr
+- action: INACTIVATE  
+  code: RYF-QPR-HGB-DEN-BUA
+  name: Svenska cupen herr
+- action: INACTIVATE  
+  code: RYF-QPR-HGB-DEN-MNT
+  name: Svenska Cupen herr
+-
