@@ -1,0 +1,7 @@
+modifications:
+- action: INACTIVATE  
+  code: RYF-QPR-HGB-MII-FIO
+  name: NBA
+- action: INACTIVATE  
+  code: RYF-QPR-HGB-MII-ZVZ
+  name: NBA herr
