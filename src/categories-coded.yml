@@ -14606,7 +14606,7 @@ categories:
 - code: RYF-QPR-HGB-DEN-NPZ
   description: ''
   level: 4
-  name: Svenska cupen herr
+  name: Svenska Cupen herr
   status: ACTIVE
 - code: RYF-QPR-HGB-DEN-NPZ-BOF
   description: ''
@@ -14686,7 +14686,7 @@ categories:
 - code: RYF-QPR-HGB-DEN-NVL
   description: ''
   level: 4
-  name: Svenska cupen dam
+  name: Svenska Cupen dam
   status: ACTIVE
 - code: RYF-QPR-HGB-DEN-NVL-BPV
   description: ''
@@ -16890,7 +16890,7 @@ categories:
   description: ''
   level: 4
   name: NBA
-  status: ACTIVE
+  status: INACTIVE
 - code: RYF-QPR-HGB-MII-FNP
   description: ''
   level: 4
@@ -16944,7 +16944,7 @@ categories:
 - code: RYF-QPR-HGB-MII-LVP
   description: ''
   level: 4
-  name: NBA herr
+  name: NBA
   status: ACTIVE
 - code: RYF-QPR-HGB-MII-LVP-DOQ
   description: ''
@@ -17000,7 +17000,7 @@ categories:
   description: ''
   level: 4
   name: NBA herr
-  status: ACTIVE
+  status: INACTIVE
 - code: RYF-QPR-HGB-MUD
   description: ''
   level: 3
@@ -17232,6 +17232,11 @@ categories:
   description: ''
   level: 4
   name: Svenska cupen herr
+  status: ACTIVE
+- code: RYF-QPR-HGB-OQU-GBI-YDP
+  description: ''
+  level: 5
+  name: Kvartsfinal
   status: ACTIVE
 - code: RYF-QPR-HGB-OQU-HEN
   description: ''
