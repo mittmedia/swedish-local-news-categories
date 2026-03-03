@@ -1,7 +1,7 @@
 modifications:
 - action: INACTIVATE  
-  code: RYF-QPR-HGB-BQN-TKF-TKN
+  code: RYF-QPR-HGB-BQN-TKF-JUE
   name: Alltrean södra B
 - action: INACTIVATE  
-  code: RYF-QPR-HGB-BQN-TKF-CHH
+  code: RYF-QPR-HGB-BQN-TKF-INV
   name: Alltrean södra A
