@@ -1,7 +1,7 @@
 modifications:
 - action: INACTIVATE  
-  code: RYF-QPR-HGB-MII-FIO
-  name: NBA
+  code: RYF-QPR-HGB-BQN-TKF-TKN
+  name: Alltrean södra B
 - action: INACTIVATE  
-  code: RYF-QPR-HGB-MII-ZVZ
-  name: NBA herr
+  code: RYF-QPR-HGB-BQN-TKF-CHH
+  name: Alltrean södra A
