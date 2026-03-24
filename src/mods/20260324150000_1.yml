@@ -105,6 +105,14 @@ modifications:
   code: RYF-QPR-HGB-BQN-VLP-XOI
   name: J18 kvalserie region syd herr
 
+ - action: INACTIVATE  
+  code: RYF-QPR-HGB-BQN-TKF-JUE
+  name: Alltrean södra B
+  
+- action: INACTIVATE  
+  code: RYF-QPR-HGB-BQN-TKF-INV
+  name: Alltrean södra A 
+
 - action: INACTIVATE  
   code: RYF-QPR-HGB-MUD-CWJ-NAC
   name: Allsvenskan
