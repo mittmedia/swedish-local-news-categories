@@ -1,1 +1,111 @@
 modifications:
+- action: INACTIVATE  
+  code: RYF-QPR-HGB-DEN-XYS-RUL
+  name: Champions League Åttondelsfinal
+- action: INACTIVATE  
+  code: RYF-QPR-HGB-DEN-XYS-NIV
+  name: Champions League Åttondelsfinal
+- action: INACTIVATE  
+  code: RYF-QPR-HGB-DEN-XYS-BEG
+  name: Champions League Åttondelsfinal
+  
+- action: INACTIVATE  
+  code: RYF-QPR-HGB-DEN-XYS-DME
+  name: Champions League Grupp A
+- action: INACTIVATE  
+  code: RYF-QPR-HGB-DEN-XYS-QEA
+  name: Champions League Grupp A
+  
+- action: INACTIVATE  
+  code: RYF-QPR-HGB-DEN-XYS-QVO
+  name: Champions League Grupp B
+- action: INACTIVATE  
+  code: RYF-QPR-HGB-DEN-XYS-ZPA
+  name: Champions League Grupp B
+  
+- action: INACTIVATE  
+  code: RYF-QPR-HGB-DEN-XYS-PRX
+  name: Champions League Kvartsfinal
+
+- action: INACTIVATE  
+  code: RYF-QPR-HGB-DEN-XYS-CGF
+  name: Champions League Play off
+- action: INACTIVATE  
+  code: RYF-QPR-HGB-DEN-XYS-CZX
+  name: Champions League Play off
+
+- action: INACTIVATE  
+  code: RYF-QPR-HGB-DEN-XYS-RLN
+  name: Champions League Semifinal
+- action: INACTIVATE  
+  code: RYF-QPR-HGB-DEN-XYS-THC
+  name: Champions League Semifinal
+
+- action: INACTIVATE  
+  code: RYF-QPR-HGB-DEN-BMK-MZP
+  name: sydöstra Götaland
+
+- action: INACTIVATE  
+  code: RYF-QPR-HGB-DEN-ALX-NZI
+  name: Skåne östra
+
+- action: INACTIVATE  
+  code: RYF-QPR-HGB-DEN-FCN-GQS
+  name: Nedflyttningsserien
+
+- action: INACTIVATE  
+  code: RYF-QPR-HGB-DEN-JMO-DQM
+  name: Serie A Dam
+
+- action: INACTIVATE  
+  code: RYF-QPR-HGB-DEN-BGN-RWC
+  name: Italien Serie B
+
+- action: INACTIVATE  
+  code: RYF-QPR-HGB-DEN-VFS-ILU
+  name: Turkiet Süper Lig
+
+- action: INACTIVATE  
+  code: RYF-QPR-HGB-PJR-XPJ-JGA
+  name: Direkt off 2
+
+- action: INACTIVATE  
+  code: RYF-QPR-HGB-PJR-RRX-UGS
+  name: Väst Sydost
+
+- action: INACTIVATE  
+  code: RYF-QPR-HGB-QHJ-XSZ-VYB
+  name: södra Götaland
+
+- action: INACTIVATE  
+  code: RYF-QPR-HGB-QHJ-XFL-TSV
+  name: Division 3 södra Götaland 2
+
+- action: INACTIVATE  
+  code: RYF-QPR-HGB-QHJ-PGQ-MHY
+  name: Final
+
+- action: INACTIVATE  
+  code: RYF-QPR-HGB-QHJ-PGQ-RTW
+  name: Final
+
+- action: INACTIVATE  
+  code: RYF-QPR-HGB-QHJ-PGQ-NTT
+  name: Match om 3:e plats
+
+- action: INACTIVATE  
+  code: RYF-QPR-HGB-QHJ-PGQ-LBS
+  name: Semifinal
+
+- action: INACTIVATE  
+  code: RYF-QPR-HGB-QHJ-PGQ-KHS
+  name: Semifinal
+
+- action: INACTIVATE  
+  code: RYF-QPR-HGB-BQN-VLP-XOI
+  name: J18 kvalserie region syd herr
+
+- action: INACTIVATE  
+  code: RYF-QPR-HGB-MUD-CWJ-NAC
+  name: Allsvenskan
+ 
